@@ -1,0 +1,2 @@
+@layer magic-apron {.magic-apron-assistant-root{display:grid;grid-template-columns:calc(100vw - 352px) 352px;grid-auto-flow:row}@media screen and (min-width: 1024px) and (max-width: 1278px){.magic-apron-assistant-root{grid-template-columns:calc(100vw - 352px) 352px}}@media screen and (min-width: 1279px){.magic-apron-assistant-root{grid-template-columns:calc(100vw - 452px) 452px}}.magic-apron-assistant-root>#magic-apron-assistant-drawer{grid-row-start:1;grid-column:2/-1}.magic-apron-assistant-root>:not(#magic-apron-assistant-drawer){grid-column:1/2}
+}

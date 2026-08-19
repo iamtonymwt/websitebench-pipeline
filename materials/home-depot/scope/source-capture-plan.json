@@ -1,0 +1,282 @@
+{
+ "schema_version": "home-depot.source-capture-plan.v1",
+ "capture_id": "2026-08-18.home-depot-r1",
+ "source_origin": "https://www.homedepot.com",
+ "viewports": [
+  {
+   "name": "desktop",
+   "width": 1440,
+   "height": 900,
+   "frames": 3
+  },
+  {
+   "name": "mobile",
+   "width": 390,
+   "height": 844,
+   "frames": 3
+  },
+  {
+   "name": "tablet",
+   "width": 768,
+   "height": 1024,
+   "frames": 3
+  }
+ ],
+ "checkpoints": [
+  {
+   "id": "home",
+   "family": "marketing",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/",
+   "viewports": [
+    "desktop",
+    "mobile",
+    "tablet"
+   ],
+   "tier": "open"
+  },
+  {
+   "id": "auth-signin",
+   "family": "auth",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/auth/view/signin",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "open"
+  },
+  {
+   "id": "not-found",
+   "family": "error",
+   "priority": "p1",
+   "url": "https://www.homedepot.com/this-page-does-not-exist-websitebench",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "open"
+  },
+  {
+   "id": "search-results",
+   "family": "discovery",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+   "viewports": [
+    "desktop",
+    "mobile",
+    "tablet"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "search-results-p2",
+   "family": "discovery",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill?Nao=24",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "search-no-results",
+   "family": "discovery",
+   "priority": "p1",
+   "url": "https://www.homedepot.com/s/zzzz-no-match-websitebench",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "plp-tools",
+   "family": "discovery",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "plp-drills",
+   "family": "discovery",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills/N-5yc1vZc27f",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "plp-drills-p2",
+   "family": "discovery",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills/N-5yc1vZc27f?Nao=24",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "pdp-anchor",
+   "family": "product-detail",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+   "viewports": [
+    "desktop",
+    "mobile",
+    "tablet"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "help",
+   "family": "help-content",
+   "priority": "p1",
+   "url": "https://www.homedepot.com/c/customer_service",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "cart-empty",
+   "family": "cart-checkout",
+   "priority": "p1",
+   "url": "https://www.homedepot.com/cart",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "commerce-blocked"
+  },
+  {
+   "id": "cart-populated",
+   "family": "cart-checkout",
+   "priority": "p0",
+   "url": "interactive",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "interactive"
+  },
+  {
+   "id": "checkout-pickup-person",
+   "family": "cart-checkout",
+   "priority": "p0",
+   "url": "interactive",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "interactive"
+  },
+  {
+   "id": "checkout-store-pickup",
+   "family": "cart-checkout",
+   "priority": "p0",
+   "url": "interactive",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "interactive"
+  },
+  {
+   "id": "checkout-payment",
+   "family": "cart-checkout",
+   "priority": "p0",
+   "url": "interactive",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "interactive"
+  },
+  {
+   "id": "checkout-validation",
+   "family": "cart-checkout",
+   "priority": "p1",
+   "url": "interactive",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "interactive"
+  },
+  {
+   "id": "acct-dashboard",
+   "family": "account",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/myaccount/dashboard",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "auth"
+  },
+  {
+   "id": "acct-purchase-history",
+   "family": "account",
+   "priority": "p0",
+   "url": "https://www.homedepot.com/myaccount/purchase-history",
+   "viewports": [
+    "desktop",
+    "mobile"
+   ],
+   "tier": "auth"
+  },
+  {
+   "id": "acct-profile",
+   "family": "account",
+   "priority": "p1",
+   "url": "https://www.homedepot.com/myaccount/profile",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "auth"
+  },
+  {
+   "id": "acct-lists",
+   "family": "account",
+   "priority": "p1",
+   "url": "https://www.homedepot.com/list/view/summary",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "auth"
+  },
+  {
+   "id": "auth-createaccount",
+   "family": "auth",
+   "priority": "p1",
+   "url": "https://www.homedepot.com/auth/view/createaccount",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "open"
+  },
+  {
+   "id": "auth-password-step",
+   "family": "auth",
+   "priority": "p1",
+   "url": "interactive",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "interactive"
+  },
+  {
+   "id": "compare",
+   "family": "discovery",
+   "priority": "p1",
+   "url": "interactive",
+   "viewports": [
+    "desktop"
+   ],
+   "tier": "interactive"
+  }
+ ]
+}

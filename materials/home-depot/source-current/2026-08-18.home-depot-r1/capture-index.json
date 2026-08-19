@@ -1,0 +1,1104 @@
+{
+  "schema_version": "home-depot.capture-index.v1",
+  "capture_id": "2026-08-18.home-depot-r1",
+  "captures": [
+    {
+      "checkpoint": "home",
+      "family": "marketing",
+      "priority": "P0",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/",
+      "final_url": "https://www.homedepot.com/",
+      "http_status": 200,
+      "title": "The Home Depot",
+      "body_text_len": 3038,
+      "frames": 3,
+      "frame_sha256": [
+        "3139a5492f2539e01ee6b5b7621929f82c9d838a997ab5cb898dc59cff4a9425",
+        "717ce990147ed5f3fee2d5eaaebdf67707ebc7dad77e982578a54e88b107ba4f",
+        "56c1c331cc9cb307759c823012a1bb6e50e36108f88930aade55fbcc786670f4"
+      ],
+      "frames_identical": false,
+      "link_count": 183,
+      "resource_count": 246,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 197,
+          "width": 1440,
+          "height": 6345
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 6633,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 7398
+      }
+    },
+    {
+      "checkpoint": "home",
+      "family": "marketing",
+      "priority": "P0",
+      "viewport": "mobile",
+      "requested_url": "https://www.homedepot.com/",
+      "final_url": "https://www.homedepot.com/",
+      "http_status": 200,
+      "title": "The Home Depot",
+      "body_text_len": 1859,
+      "frames": 3,
+      "frame_sha256": [
+        "9a9bfd52275ea30c0f818c1e07f837ec8b7b71fb2eacabae86877e3a23330b22",
+        "3c8e250b7afe5b797e0caeeb6f1a0c79a8f8fcc4cee97dc17d68a7e0054d5b8c",
+        "18455a3dbe52d42aea5bf84ef807d6a3880f55a6215d927c580ce1c028f0118d"
+      ],
+      "frames_identical": false,
+      "link_count": 181,
+      "resource_count": 247,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 157,
+          "width": 390,
+          "height": 8363
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 261,
+          "height": 44
+        },
+        "document_height": 9555
+      }
+    },
+    {
+      "checkpoint": "home",
+      "family": "marketing",
+      "priority": "P0",
+      "viewport": "tablet",
+      "requested_url": "https://www.homedepot.com/",
+      "final_url": "https://www.homedepot.com/",
+      "http_status": 200,
+      "title": "The Home Depot",
+      "body_text_len": 1859,
+      "frames": 3,
+      "frame_sha256": [
+        "a263c7b253570374de3a8972f7213395c0c200cd45e014227cbd723ab24ee91d",
+        "7aa490bc7b6f38a1fb855d268cd82f9773f4b6fc34fedb58a7baa9dba59830ac",
+        "d1eec4b5f2e47459433d9781d0cc28215a726b36da41f70b9aa3e19d15117a52"
+      ],
+      "frames_identical": false,
+      "link_count": 181,
+      "resource_count": 247,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 768,
+          "height": 6208
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 639,
+          "height": 44
+        },
+        "document_height": 7002
+      }
+    },
+    {
+      "checkpoint": "auth-signin",
+      "family": "auth",
+      "priority": "P0",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/auth/view/signin",
+      "final_url": "https://www.homedepot.com/auth/view/signin",
+      "http_status": 200,
+      "title": "The Home Depot: sign in, create or secure your account",
+      "body_text_len": 54,
+      "frames": 3,
+      "frame_sha256": [
+        "62475d4848da9b5dba633059c0e3e0bf6e6d4637073f9be4b7c4afe6e937069f",
+        "62475d4848da9b5dba633059c0e3e0bf6e6d4637073f9be4b7c4afe6e937069f",
+        "62475d4848da9b5dba633059c0e3e0bf6e6d4637073f9be4b7c4afe6e937069f"
+      ],
+      "frames_identical": true,
+      "link_count": 0,
+      "resource_count": 130,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": null,
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 490,
+          "y": 479,
+          "width": 460,
+          "height": 132
+        },
+        "document_height": 900
+      }
+    },
+    {
+      "checkpoint": "auth-signin",
+      "family": "auth",
+      "priority": "P0",
+      "viewport": "mobile",
+      "requested_url": "https://www.homedepot.com/auth/view/signin",
+      "final_url": "https://www.homedepot.com/auth/view/signin",
+      "http_status": 200,
+      "title": "The Home Depot: sign in, create or secure your account",
+      "body_text_len": 54,
+      "frames": 3,
+      "frame_sha256": [
+        "d1cc6fdd2b526df133b7d5d7b9ef298bfd2b4a1ca3aa2a9ec306e414e1846e24",
+        "d1cc6fdd2b526df133b7d5d7b9ef298bfd2b4a1ca3aa2a9ec306e414e1846e24",
+        "d1cc6fdd2b526df133b7d5d7b9ef298bfd2b4a1ca3aa2a9ec306e414e1846e24"
+      ],
+      "frames_identical": true,
+      "link_count": 0,
+      "resource_count": 130,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": null,
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 10,
+          "y": 450,
+          "width": 370,
+          "height": 132
+        },
+        "document_height": 844
+      }
+    },
+    {
+      "checkpoint": "not-found",
+      "family": "error",
+      "priority": "P1",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/this-page-does-not-exist-websitebench",
+      "final_url": "https://www.homedepot.com/this-page-does-not-exist-websitebench",
+      "http_status": 404,
+      "title": "",
+      "body_text_len": 1928,
+      "frames": 3,
+      "frame_sha256": [
+        "f788a5dd4422b3e1daf4850cfb4941e392206c2aa15557a78d71166b3ce58521",
+        "f788a5dd4422b3e1daf4850cfb4941e392206c2aa15557a78d71166b3ce58521",
+        "f788a5dd4422b3e1daf4850cfb4941e392206c2aa15557a78d71166b3ce58521"
+      ],
+      "frames_identical": true,
+      "link_count": 115,
+      "resource_count": 35,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": null,
+        "footer": {
+          "selector": "#footer",
+          "x": 722,
+          "y": 385,
+          "width": 163,
+          "height": 387
+        },
+        "form": {
+          "selector": "form",
+          "x": 392,
+          "y": 66,
+          "width": 591,
+          "height": 44
+        },
+        "document_height": 1417
+      }
+    },
+    {
+      "checkpoint": "not-found",
+      "family": "error",
+      "priority": "P1",
+      "viewport": "mobile",
+      "requested_url": "https://www.homedepot.com/this-page-does-not-exist-websitebench",
+      "final_url": "https://www.homedepot.com/this-page-does-not-exist-websitebench",
+      "http_status": 404,
+      "title": "",
+      "body_text_len": 805,
+      "frames": 3,
+      "frame_sha256": [
+        "05ca12245148407b1681f6397de0778ed66466cabd34b7f249ee79125fd1c5c3",
+        "05ca12245148407b1681f6397de0778ed66466cabd34b7f249ee79125fd1c5c3",
+        "05ca12245148407b1681f6397de0778ed66466cabd34b7f249ee79125fd1c5c3"
+      ],
+      "frames_identical": true,
+      "link_count": 115,
+      "resource_count": 35,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": null,
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 76,
+          "y": 56,
+          "width": 245,
+          "height": 44
+        },
+        "document_height": 1436
+      }
+    },
+    {
+      "checkpoint": "auth-createaccount",
+      "family": "auth",
+      "priority": "P1",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/auth/view/createaccount",
+      "final_url": "https://www.homedepot.com/auth/view/signin",
+      "http_status": 200,
+      "title": "The Home Depot: sign in, create or secure your account",
+      "body_text_len": 54,
+      "frames": 3,
+      "frame_sha256": [
+        "62475d4848da9b5dba633059c0e3e0bf6e6d4637073f9be4b7c4afe6e937069f",
+        "62475d4848da9b5dba633059c0e3e0bf6e6d4637073f9be4b7c4afe6e937069f",
+        "62475d4848da9b5dba633059c0e3e0bf6e6d4637073f9be4b7c4afe6e937069f"
+      ],
+      "frames_identical": true,
+      "link_count": 0,
+      "resource_count": 132,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": null,
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 490,
+          "y": 479,
+          "width": 460,
+          "height": 132
+        },
+        "document_height": 900
+      }
+    },
+    {
+      "checkpoint": "search-results",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+      "final_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+      "http_status": 200,
+      "title": "Search Results for milwaukee 18v cordless drill at The Home Depot",
+      "body_text_len": 12326,
+      "frames": 3,
+      "frame_sha256": [
+        "e8da52404e90738a0bbdfebdc8aaafbd91f41d53f4461599373dbf7a54e1cec8",
+        "f8d7bf8be9301ad50ece6cfbac67e4668777e059281684b185daa1480643f0a4",
+        "46760ef303944ede0562d069d8d5ccf3f7baa73d96a13b06950b90bba40d8e07"
+      ],
+      "frames_identical": false,
+      "link_count": 355,
+      "resource_count": 243,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": {
+          "selector": "nav",
+          "x": 1040,
+          "y": 7128,
+          "width": 368,
+          "height": 44
+        },
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 8139
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 8395,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 9160
+      }
+    },
+    {
+      "checkpoint": "search-results",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "mobile",
+      "requested_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+      "final_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+      "http_status": 200,
+      "title": "Search Results for milwaukee 18v cordless drill at The Home Depot",
+      "body_text_len": 11078,
+      "frames": 3,
+      "frame_sha256": [
+        "4fc8557d05cdd79d57c8a75bd3124de4f7c909b4cacada3bb982ff4f2240ff1a",
+        "5952290b02a3bfdd4d16689703497d6e09f56c1ecd534cf37b281e6357f5d23a",
+        "96e9174b58664554d81c5247dcbb3ceaed84e748f3c0ab0177936ca16141d280"
+      ],
+      "frames_identical": false,
+      "link_count": 357,
+      "resource_count": 251,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": {
+          "selector": "nav",
+          "x": 47,
+          "y": 15080,
+          "width": 308,
+          "height": 44
+        },
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 141,
+          "width": 390,
+          "height": 16156
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 261,
+          "height": 44
+        },
+        "document_height": 17332
+      }
+    },
+    {
+      "checkpoint": "search-results",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "tablet",
+      "requested_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+      "final_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+      "http_status": 200,
+      "title": "Search Results for milwaukee 18v cordless drill at The Home Depot",
+      "body_text_len": 14023,
+      "frames": 3,
+      "frame_sha256": [
+        "cf8ec03bacfad2cce1595a6897a77371c3d317acffaef8b5e1e6d80130ae9ef4",
+        "cf8ec03bacfad2cce1595a6897a77371c3d317acffaef8b5e1e6d80130ae9ef4",
+        "cf8ec03bacfad2cce1595a6897a77371c3d317acffaef8b5e1e6d80130ae9ef4"
+      ],
+      "frames_identical": true,
+      "link_count": 437,
+      "resource_count": 231,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": {
+          "selector": "nav",
+          "x": 368,
+          "y": 11307,
+          "width": 368,
+          "height": 44
+        },
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 141,
+          "width": 768,
+          "height": 12292
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 639,
+          "height": 44
+        },
+        "document_height": 13061
+      }
+    },
+    {
+      "checkpoint": "search-results-p2",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill?Nao=24",
+      "final_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill?Nao=24",
+      "http_status": 200,
+      "title": "Search Results for milwaukee 18v cordless drill at The Home Depot",
+      "body_text_len": 12792,
+      "frames": 3,
+      "frame_sha256": [
+        "dd84636324156bed3ab4cbd1ab62cad8b1e8636c1cd6e1b073e0541c465db1a0",
+        "e79986ea56f619b9320e95e6e3ae8917a430054ae6c0ce3e1e589805f804b478",
+        "5e53ef77e27d166d1abdd47c6c90edea4f2064ae90985ef0ca9ecf2d33bf2c46"
+      ],
+      "frames_identical": false,
+      "link_count": 373,
+      "resource_count": 250,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": {
+          "selector": "nav",
+          "x": 1040,
+          "y": 6334,
+          "width": 368,
+          "height": 44
+        },
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 7883
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 8139,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 8904
+      }
+    },
+    {
+      "checkpoint": "search-no-results",
+      "family": "discovery",
+      "priority": "P1",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/s/zzzz-no-match-websitebench",
+      "final_url": "https://www.homedepot.com/s/zzzz-no-match-websitebench",
+      "http_status": 200,
+      "title": "Search Results for zzzz-no-match-websitebench at The Home Depot",
+      "body_text_len": 14678,
+      "frames": 3,
+      "frame_sha256": [
+        "1770e397377b87bc815f2b2c1c17cf2a083623888ffbbeb8ab034ec957020765",
+        "94f0041ac230b00f0969521b2fd6f29720276aa45cb6b974033882370cddcb84",
+        "1cab961a3a9fc9a5e01764cce53582d129f4cf9e9a2a2b8ef3589c1a945889c0"
+      ],
+      "frames_identical": false,
+      "link_count": 396,
+      "resource_count": 278,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": {
+          "selector": "nav",
+          "x": 1120,
+          "y": 6429,
+          "width": 288,
+          "height": 44
+        },
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 7839
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 8095,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 8860
+      }
+    },
+    {
+      "checkpoint": "plp-tools",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+      "final_url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+      "http_status": 200,
+      "title": "Tools - The Home Depot",
+      "body_text_len": 11580,
+      "frames": 3,
+      "frame_sha256": [
+        "0b30763475db24bd82813768eaa24745607a343f3f1fe2bd5e917f68f0f18af5",
+        "b6dc66b03758dd3696e6325bcaa426bb07fc4057845c1b199884266871acd858",
+        "22337f4437202e96aa7ab85294af94e58b36e375110f229e6c0c5877cbcdeb66"
+      ],
+      "frames_identical": false,
+      "link_count": 234,
+      "resource_count": 203,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 6390
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 6646,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 7411
+      }
+    },
+    {
+      "checkpoint": "plp-tools",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "mobile",
+      "requested_url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+      "final_url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+      "http_status": 200,
+      "title": "Tools - The Home Depot",
+      "body_text_len": 1353,
+      "frames": 3,
+      "frame_sha256": [
+        "0e98ca4a8e4e28d810392113faf7fb15c859f296e6e62e9f017a4c1fe48193d8",
+        "de1023cbe8110b3c64671311ca4fd6ce08d1bc65c8532c5541a6df5631fb8cf8",
+        "f395fb8beda330b84257529975cc28cc155d4945c4cbca2c14c58a0ffd41671c"
+      ],
+      "frames_identical": false,
+      "link_count": 177,
+      "resource_count": 213,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 141,
+          "width": 390,
+          "height": 11328
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 261,
+          "height": 44
+        },
+        "document_height": 12504
+      }
+    },
+    {
+      "checkpoint": "plp-drills",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills/N-5yc1vZc27f",
+      "final_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills/N-5yc1vZc27f",
+      "http_status": 200,
+      "title": "Drills - The Home Depot",
+      "body_text_len": 10889,
+      "frames": 3,
+      "frame_sha256": [
+        "7a3154d5894bb8478c81c9022f2e74fa07fc050824ec91d0523743765528df7d",
+        "62f30d034d488c8ed08a27409435afdf1af4bab9a9a5047bbd3c54ad4a2d6e4b",
+        "d7dfa38bea5515279fb6385fca39b4b7797345535f79288ab941e247bb88dcad"
+      ],
+      "frames_identical": false,
+      "link_count": 236,
+      "resource_count": 209,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 5662
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 5918,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 6683
+      }
+    },
+    {
+      "checkpoint": "plp-drills",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "mobile",
+      "requested_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills/N-5yc1vZc27f",
+      "final_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills/N-5yc1vZc27f",
+      "http_status": 200,
+      "title": "Drills - The Home Depot",
+      "body_text_len": 808,
+      "frames": 3,
+      "frame_sha256": [
+        "16531b828e86a71d9a2a0c8ec5a198a47093f2fd746c3e71748f665c8fb2f9ab",
+        "a80a5dcfddcf069727519c07fe3c0e31b7a54bd13b8706682296d3c004fa3363",
+        "fc6ad5796f218909c49c2f2216a92e7017cf8146863b8c0b84e407484e1cdd46"
+      ],
+      "frames_identical": false,
+      "link_count": 142,
+      "resource_count": 168,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 141,
+          "width": 390,
+          "height": 5041
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 261,
+          "height": 44
+        },
+        "document_height": 6217
+      }
+    },
+    {
+      "checkpoint": "plp-drills-p2",
+      "family": "discovery",
+      "priority": "P0",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills/N-5yc1vZc27f?Nao=24",
+      "final_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills/N-5yc1vZc27f?Nao=24",
+      "http_status": 200,
+      "title": "Drills - The Home Depot",
+      "body_text_len": 11023,
+      "frames": 3,
+      "frame_sha256": [
+        "feda43a9db1256d6426a3e98d1949e3f99a78e2f824d9a5074430198a1d102f2",
+        "8d6472d9e091663b23ff4650b28f0946b0c9e49349de4268579cf79b9dda7527",
+        "cbd23dbc50d7e7f557e4734213d7ec4413314a5ca6d19496b99ea52c73495a2d"
+      ],
+      "frames_identical": false,
+      "link_count": 242,
+      "resource_count": 221,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 5930
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 6186,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 6951
+      }
+    },
+    {
+      "checkpoint": "pdp-anchor",
+      "family": "product-detail",
+      "priority": "P0",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+      "final_url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+      "http_status": 200,
+      "title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with 2 Batteries 3697-22 - The Home Depot",
+      "body_text_len": 16374,
+      "frames": 3,
+      "frame_sha256": [
+        "39133655d6010d33c9bc31350aad0d4144c9c358d7a9d47bdb8d727a609523bb",
+        "e682511495584578d97c13b3506e68ebc44c3a5c0b04d80dfbda7281bc3b4b2d",
+        "a1264b3c780a6adc3d3ca2efc512bb00c92cd7788e972436ef8c0ef06240d994"
+      ],
+      "frames_identical": false,
+      "link_count": 322,
+      "resource_count": 226,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 7659
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 7915,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 8680
+      }
+    },
+    {
+      "checkpoint": "pdp-anchor",
+      "family": "product-detail",
+      "priority": "P0",
+      "viewport": "mobile",
+      "requested_url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+      "final_url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+      "http_status": 200,
+      "title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with 2 Batteries 3697-22 - The Home Depot",
+      "body_text_len": 7910,
+      "frames": 3,
+      "frame_sha256": [
+        "ecc1fc55f83d626cca7622cc59f379f1241fb2190f3391ed0b94eb9cbb772f9c",
+        "06e8bb59936d8313e5f70c329cd8dbf8c0e549500e0fd0b83b11005b7660d685",
+        "7fb5e2ba95f7c7cffc0ebd1d0ac0965660c55a0a4f45792c82d83a84ae3b1c23"
+      ],
+      "frames_identical": false,
+      "link_count": 164,
+      "resource_count": 187,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 141,
+          "width": 390,
+          "height": 8078
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 261,
+          "height": 44
+        },
+        "document_height": 9254
+      }
+    },
+    {
+      "checkpoint": "pdp-anchor",
+      "family": "product-detail",
+      "priority": "P0",
+      "viewport": "tablet",
+      "requested_url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+      "final_url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+      "http_status": 200,
+      "title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with 2 Batteries 3697-22 - The Home Depot",
+      "body_text_len": 9406,
+      "frames": 3,
+      "frame_sha256": [
+        "b5cb202dbd1174e5e465b553ad6c35b28d64e77f5907e074ca980a24cc2f96d0",
+        "e998ac92fc6cfd8ca0fe1898d0e38aa49c28da4d485738275957b136e6f4bcd3",
+        "3e770c33f2b55304de91c08b899a3c5c0c9b97d6658d5c98d0ec65441fd168f1"
+      ],
+      "frames_identical": false,
+      "link_count": 181,
+      "resource_count": 189,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 141,
+          "width": 768,
+          "height": 8056
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 639,
+          "height": 44
+        },
+        "document_height": 8825
+      }
+    },
+    {
+      "checkpoint": "help",
+      "family": "help-content",
+      "priority": "P1",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/c/customer_service",
+      "final_url": "https://www.homedepot.com/c/customer-service",
+      "http_status": 200,
+      "title": "Customer Service Center - The Home Depot",
+      "body_text_len": 3214,
+      "frames": 3,
+      "frame_sha256": [
+        "01ae95f04245f9e89b1acb783d8b6450a57fd1191ce8d1bb798e389e7ba86cee",
+        "09ae6391cfa58ffa0b2cb0cb00fc70e2b7ce42780e6acbbcf9650de56f00622a",
+        "98dac6ea8ff533e2c11531f34edce21c412294c33ba9fe66a816fc3f76180de7"
+      ],
+      "frames_identical": false,
+      "link_count": 184,
+      "resource_count": 166,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 3584
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 3840,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 4605
+      }
+    },
+    {
+      "checkpoint": "cart-empty",
+      "family": "cart-checkout",
+      "priority": "P1",
+      "viewport": "desktop",
+      "requested_url": "https://www.homedepot.com/cart",
+      "final_url": "https://www.homedepot.com/cart",
+      "http_status": 200,
+      "title": "The Home Depot - Cart",
+      "body_text_len": 7405,
+      "frames": 3,
+      "frame_sha256": [
+        "16127c9bcb6f0ab277bcaabb30a6c02e31264ea1d0bdb943255943bd4317dcbb",
+        "16127c9bcb6f0ab277bcaabb30a6c02e31264ea1d0bdb943255943bd4317dcbb",
+        "16127c9bcb6f0ab277bcaabb30a6c02e31264ea1d0bdb943255943bd4317dcbb"
+      ],
+      "frames_identical": true,
+      "link_count": 237,
+      "resource_count": 189,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 165,
+          "width": 1440,
+          "height": 1878
+        },
+        "footer": {
+          "selector": "#footer",
+          "x": 20,
+          "y": 2134,
+          "width": 341,
+          "height": 366
+        },
+        "form": {
+          "selector": "form",
+          "x": 384,
+          "y": 94,
+          "width": 607,
+          "height": 44
+        },
+        "document_height": 2899
+      }
+    },
+    {
+      "checkpoint": "cart-empty",
+      "family": "cart-checkout",
+      "priority": "P1",
+      "viewport": "mobile",
+      "requested_url": "https://www.homedepot.com/cart",
+      "final_url": "https://www.homedepot.com/cart",
+      "http_status": 200,
+      "title": "The Home Depot - Cart",
+      "body_text_len": 6181,
+      "frames": 3,
+      "frame_sha256": [
+        "40095f5b45b20dc34e5cef4cfdac5090ffe89f59646a7452469e71022c57e84c",
+        "c27c225d466116015d404566464e09bdd1d4539ea4d2901596ded0b5b77a1f13",
+        "40095f5b45b20dc34e5cef4cfdac5090ffe89f59646a7452469e71022c57e84c"
+      ],
+      "frames_identical": false,
+      "link_count": 236,
+      "resource_count": 191,
+      "engine": "local-cdp",
+      "nav_fallback": null,
+      "consent_action": null,
+      "blocked_error_shell": false,
+      "regions": {
+        "header": null,
+        "main": {
+          "selector": "#root",
+          "x": 0,
+          "y": 141,
+          "width": 390,
+          "height": 1892
+        },
+        "footer": null,
+        "form": {
+          "selector": "form",
+          "x": 68,
+          "y": 48,
+          "width": 261,
+          "height": 44
+        },
+        "document_height": 3068
+      }
+    }
+  ]
+}

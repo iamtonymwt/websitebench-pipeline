@@ -1,0 +1,885 @@
+{
+ "schema_version": "prompt.websitebench-clone-task-brief.v1",
+ "observed_at": "2026-08-18T04:34:37Z",
+ "source": {
+  "input_url": "https://homedepot.com",
+  "canonical_url": "https://www.homedepot.com/",
+  "canonical_origin": "https://www.homedepot.com",
+  "approved_discovery_origins": [
+   "https://www.homedepot.com",
+   "https://homedepot.com"
+  ],
+  "proposed_additional_origins": [
+   "https://images.thdstatic.com",
+   "https://assets.thdstatic.com",
+   "https://apionline.homedepot.com"
+  ]
+ },
+ "site": {
+  "site_id": "home-depot",
+  "display_name": "The Home Depot",
+  "existing_site": false,
+  "site_dir": "materials/home-depot",
+  "target_origin": "https://home-depot.website-bench.com",
+  "worker_name": "websitebench-home-depot-demo",
+  "purpose": "Help home-improvement shoppers browse and search the catalog, evaluate and customize products, and complete pickup-based orders and account flows, obtaining a confirmed order and reviewable purchase history."
+ },
+ "baseline": {
+  "locale": "en-US",
+  "timezone": "America/New_York",
+  "timezone_policy": "store-local ET directly observed on store card (Niagara Falls #1287, NY); refreeze if capture shows entity timezone elsewhere",
+  "viewports": [
+   {
+    "name": "desktop",
+    "width": 1440,
+    "height": 900
+   },
+   {
+    "name": "mobile",
+    "width": 390,
+    "height": 844
+   },
+   {
+    "name": "tablet",
+    "width": 768,
+    "height": 1024
+   }
+  ]
+ },
+ "scope": {
+  "roles": [
+   {
+    "id": "visitor",
+    "display": "Anonymous shopper",
+    "auth_required": false,
+    "evidence": "directly-observed",
+    "live_view_required": false,
+    "entitlement_required": false,
+    "changes": "catalog browse, cart, guest surfaces"
+   },
+   {
+    "id": "account-holder",
+    "display": "Signed-in customer",
+    "auth_required": true,
+    "evidence": "directly-observed",
+    "live_view_required": true,
+    "entitlement_required": false,
+    "changes": "account drawer, dashboard, purchase history, lists, saved checkout identity"
+   },
+   {
+    "id": "pro-xtra",
+    "display": "Pro/B2B member",
+    "auth_required": true,
+    "evidence": "structural-only",
+    "omitted": true,
+    "omit_reason": "non-goal: materially different B2B program; not in 23-task scope"
+   }
+  ],
+  "core_journeys": [
+   {
+    "id": "e2e.535.search-pickup-order",
+    "priority": "p0",
+    "role": "account-holder",
+    "purpose": "Task 535: search milwaukee 18v cordless drill, pick highest-rated SKU, add to cart, in-store pickup, personal info, place order (order placement clone-only).",
+    "preconditions": [
+     "signed in",
+     "store set"
+    ],
+    "starting_url": "https://www.homedepot.com/",
+    "steps": [
+     "Search 'milwaukee 18v cordless drill' from header",
+     "Open highest-rated SKU (model 3697-22, itemId 320326787, 4.7664/3981)",
+     "Add to Cart",
+     "Open cart, keep Pickup fulfillment",
+     "Checkout: pickup person (name/phone), In Store Pickup",
+     "Payment step; on clone: local-sandbox pay and Place Order; on source: hard stop"
+    ],
+    "expected_result": "Order confirmation reflects SKU, pickup store #1287, totals ($399.00 + tax = $430.92 est).",
+    "failure_variant": "payment declined (local-sandbox scenario)",
+    "recovery_variant": "retry payment scenario succeeds",
+    "source_mutation_required": false,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T02",
+     "WB062-T23"
+    ]
+   },
+   {
+    "id": "nav.primary-entry",
+    "priority": "p0",
+    "role": "visitor",
+    "purpose": "Public entry & primary navigation to catalog sections.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/",
+    "steps": [
+     "Load home",
+     "Open Shop All / department flyout",
+     "Navigate to Tools category"
+    ],
+    "expected_result": "Category heading and canonical /b/ path visible.",
+    "failure_variant": "dead flyout link",
+    "recovery_variant": "return home",
+    "source_mutation_required": false,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T01"
+    ]
+   },
+   {
+    "id": "browse.category",
+    "priority": "p0",
+    "role": "visitor",
+    "purpose": "Browse main catalog into a home-improvement category.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+    "steps": [
+     "Open Tools PLP",
+     "Open Drills subcategory",
+     "Inspect product grid"
+    ],
+    "expected_result": "PLP renders tiles with price/rating.",
+    "failure_variant": "category API error shell",
+    "recovery_variant": "reload/renavigate",
+    "source_mutation_required": false,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T03"
+    ]
+   },
+   {
+    "id": "search.keyword-filter",
+    "priority": "p0",
+    "role": "visitor",
+    "purpose": "Keyword search with filter refinement.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/s/",
+    "steps": [
+     "Type keyword in typeahead (name=keyword)",
+     "Submit to /s/<query>",
+     "Apply brand/price filter facets"
+    ],
+    "expected_result": "Filtered results update count and tiles.",
+    "failure_variant": "zero-result facet combo",
+    "recovery_variant": "clear filters",
+    "source_mutation_required": false,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T04"
+    ]
+   },
+   {
+    "id": "search.sort-compare",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "Sort results and compare >=2 products.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+    "steps": [
+     "Sort by Top Rated / Price",
+     "Tick compare on 2+ tiles",
+     "Open compare view"
+    ],
+    "expected_result": "Compare table shows price/rating/spec deltas.",
+    "failure_variant": "compare limit exceeded",
+    "recovery_variant": "remove item from compare",
+    "source_mutation_required": false,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T05"
+    ]
+   },
+   {
+    "id": "pdp.inspect",
+    "priority": "p0",
+    "role": "visitor",
+    "purpose": "Inspect PDP: images, specs, price, availability, reviews.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/p/...-3697-22/320326787",
+    "steps": [
+     "Open PDP",
+     "Scroll gallery/specs/reviews",
+     "Check pickup/delivery availability"
+    ],
+    "expected_result": "All PDP zones render offline.",
+    "failure_variant": "image lazy-load failure",
+    "recovery_variant": "retry render",
+    "source_mutation_required": false,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T06"
+    ]
+   },
+   {
+    "id": "pdp.variant-quantity",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "Select option/configuration or quantity on PDP.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/p/",
+    "steps": [
+     "Open PDP with variants (tool-only vs kit family)",
+     "Switch variant/quantity",
+     "Observe price/availability update"
+    ],
+    "expected_result": "Selection updates price/SKU state.",
+    "failure_variant": "OOS variant",
+    "recovery_variant": "pick available variant",
+    "source_mutation_required": false,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T07"
+    ]
+   },
+   {
+    "id": "save.list",
+    "priority": "p1",
+    "role": "account-holder",
+    "purpose": "Save product to a named list.",
+    "preconditions": [
+     "signed in"
+    ],
+    "starting_url": "https://www.homedepot.com/p/",
+    "steps": [
+     "Click save/list control on PDP",
+     "Create list 'Workshop'",
+     "Verify under /list/view/summary"
+    ],
+    "expected_result": "List summary shows saved item.",
+    "failure_variant": "unauthenticated save prompts sign-in",
+    "recovery_variant": "sign in and retry",
+    "source_mutation_required": true,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T08"
+    ]
+   },
+   {
+    "id": "auth.register",
+    "priority": "p0",
+    "role": "visitor",
+    "purpose": "Create account with basic profile.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/auth/view/createaccount",
+    "steps": [
+     "Open email-first entry",
+     "Enter new email, continue",
+     "Set password/profile fields",
+     "Land signed-in"
+    ],
+    "expected_result": "Account created; header shows Me/Welcome.",
+    "failure_variant": "duplicate email",
+    "recovery_variant": "route to sign-in",
+    "source_mutation_required": true,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T09"
+    ]
+   },
+   {
+    "id": "auth.login-logout",
+    "priority": "p0",
+    "role": "account-holder",
+    "purpose": "Sign in, verify state, sign out.",
+    "preconditions": [
+     "account exists"
+    ],
+    "starting_url": "https://www.homedepot.com/auth/view/signin",
+    "steps": [
+     "Email-first continue",
+     "Password step submit",
+     "Verify Welcome Back state",
+     "Sign Out from Me drawer"
+    ],
+    "expected_result": "Signed-in header/account drawer; sign-out returns anonymous.",
+    "failure_variant": "wrong password error",
+    "recovery_variant": "password recovery link",
+    "source_mutation_required": true,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T10"
+    ]
+   },
+   {
+    "id": "cart.manage",
+    "priority": "p0",
+    "role": "visitor",
+    "purpose": "Cart add/quantity/remove/restore.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/cart",
+    "steps": [
+     "Add item from PDP",
+     "Change quantity",
+     "Remove item",
+     "Restore/undo or re-add"
+    ],
+    "expected_result": "Cart totals and badge update each step.",
+    "failure_variant": "qty limit (Limit 3 per order)",
+    "recovery_variant": "clamp with message",
+    "source_mutation_required": true,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T11"
+    ]
+   },
+   {
+    "id": "fulfillment.address",
+    "priority": "p1",
+    "role": "account-holder",
+    "purpose": "Choose pickup store / delivery address & option.",
+    "preconditions": [
+     "item in cart"
+    ],
+    "starting_url": "https://www.homedepot.com/checkout",
+    "steps": [
+     "Toggle pickup vs delivery on PDP/cart",
+     "Change store / enter delivery ZIP",
+     "Select shipping option"
+    ],
+    "expected_result": "Fulfillment reflects choice with cost.",
+    "failure_variant": "unserviceable ZIP",
+    "recovery_variant": "fallback to pickup",
+    "source_mutation_required": true,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T12"
+    ]
+   },
+   {
+    "id": "checkout.payment",
+    "priority": "p0",
+    "role": "account-holder",
+    "purpose": "Promo/gift option + payment details to review/confirmation.",
+    "preconditions": [
+     "cart with pickup"
+    ],
+    "starting_url": "https://www.homedepot.com/checkout",
+    "steps": [
+     "Apply gift card option (surface)",
+     "Fill Credit Card billing fields (clone)",
+     "Reach review; Place Order enabled",
+     "Confirm (clone-only)"
+    ],
+    "expected_result": "Order review shows totals incl. tax; confirmation issued on clone.",
+    "failure_variant": "invalid card (sandbox declined)",
+    "recovery_variant": "retry with success scenario",
+    "source_mutation_required": true,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T13"
+    ]
+   },
+   {
+    "id": "orders.history-postactions",
+    "priority": "p0",
+    "role": "account-holder",
+    "purpose": "Order history + tracking/cancel/reorder.",
+    "preconditions": [
+     "seeded orders"
+    ],
+    "starting_url": "https://www.homedepot.com/myaccount/purchase-history",
+    "steps": [
+     "Open Purchase History",
+     "Open newest order detail",
+     "Use cancel/reorder/track affordance"
+    ],
+    "expected_result": "Newest seeded order exposes status/detail/actions and route back.",
+    "failure_variant": "cancel window closed",
+    "recovery_variant": "show status explanation",
+    "source_mutation_required": false,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T14",
+     "WB062-T19"
+    ]
+   },
+   {
+    "id": "search.no-results",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "No-results state with recovery route.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/s/zzzz-no-match-websitebench",
+    "steps": [
+     "Search sentinel term",
+     "Observe no-results message",
+     "Follow route back to browse"
+    ],
+    "expected_result": "No-results view offers recovery navigation.",
+    "failure_variant": "-",
+    "recovery_variant": "-",
+    "source_mutation_required": false,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T15"
+    ]
+   },
+   {
+    "id": "auth.entry-signin",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "Sign-in entry fields visible; return without submit.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/auth/view/signin",
+    "steps": [
+     "Open sign-in",
+     "Verify email field + continue affordance",
+     "Back out"
+    ],
+    "expected_result": "Email-first entry with Back/Continue.",
+    "failure_variant": "-",
+    "recovery_variant": "-",
+    "source_mutation_required": false,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T16"
+    ]
+   },
+   {
+    "id": "auth.entry-register",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "Registration entry fields/terms visible; no account created.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/auth/view/createaccount",
+    "steps": [
+     "Open create-account entry",
+     "Verify identity fields/terms guidance",
+     "Back out"
+    ],
+    "expected_result": "Entry renders without submission.",
+    "failure_variant": "-",
+    "recovery_variant": "-",
+    "source_mutation_required": false,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T17"
+    ]
+   },
+   {
+    "id": "auth.password-recovery",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "Password recovery surface; no reset sent.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/auth/view/signin",
+    "steps": [
+     "Enter email step",
+     "Open trouble-signing-in/reset",
+     "Verify reset field + return link"
+    ],
+    "expected_result": "Recovery view renders; no message sent.",
+    "failure_variant": "-",
+    "recovery_variant": "-",
+    "source_mutation_required": false,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T18"
+    ]
+   },
+   {
+    "id": "validation.required-permission",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "Empty-required / signed-out action validation.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/checkout",
+    "steps": [
+     "Submit pickup-person with empty fields",
+     "Observe inline validation",
+     "Try account action signed out; observe prompt"
+    ],
+    "expected_result": "Inline errors identify corrections before continue.",
+    "failure_variant": "-",
+    "recovery_variant": "-",
+    "source_mutation_required": false,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "medium",
+    "inventory_tasks": [
+     "WB062-T20"
+    ]
+   },
+   {
+    "id": "help.recovery",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "Public help/support entry for records, access, failures.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/c/customer_service",
+    "steps": [
+     "Open help center",
+     "Reach order/account/failed-action guidance"
+    ],
+    "expected_result": "Guidance reachable without private data.",
+    "failure_variant": "-",
+    "recovery_variant": "-",
+    "source_mutation_required": false,
+    "evidence_kind": "structural-only",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "low",
+    "inventory_tasks": [
+     "WB062-T21"
+    ]
+   },
+   {
+    "id": "error.not-found",
+    "priority": "p1",
+    "role": "visitor",
+    "purpose": "Branded 404 with nav + safe route back.",
+    "preconditions": [],
+    "starting_url": "https://www.homedepot.com/<bad-path>",
+    "steps": [
+     "Open non-existent deep link",
+     "Verify branded not-found + reasons",
+     "Return home / site map"
+    ],
+    "expected_result": "404 keeps nav and recovery links.",
+    "failure_variant": "-",
+    "recovery_variant": "-",
+    "source_mutation_required": false,
+    "evidence_kind": "directly-observed",
+    "evidence_urls": [
+     "https://www.homedepot.com/"
+    ],
+    "confidence": "high",
+    "inventory_tasks": [
+     "WB062-T22"
+    ]
+   }
+  ],
+  "page_families": [
+   "marketing-home",
+   "discovery-plp-search",
+   "product-detail",
+   "cart-checkout",
+   "account-auth",
+   "lists",
+   "help-content",
+   "error-recovery"
+  ],
+  "deterministic_seed_plan": {
+   "roles": [
+    "demo account-holder (synthetic)",
+    "isolation actor (second synthetic account)"
+   ],
+   "store": {
+    "id": "1287",
+    "name": "Niagara Falls",
+    "address": "750 Builders Way, Niagara Falls, NY 14304",
+    "hours_anchor": "opens 6AM"
+   },
+   "catalog": "search 'milwaukee 18v cordless drill' pages 1-2 tile data (31+ SKUs captured p1; p2 pending) + Drills category pages 1-2; deep PDP detail for 3697-22/320326787 anchor + ~7 representative SKUs; ratings/review snapshots frozen at capture time",
+   "orders": "2 seeded orders (1 pickup-ready recent incl. status actions, 1 completed historical) + empty state for fresh accounts",
+   "lists": "1 seeded list 'Workshop' with anchor SKU + empty state",
+   "states": [
+    "empty cart",
+    "populated cart",
+    "qty-limit clamp (Limit 3)",
+    "payment declined/retry (local-sandbox)",
+    "no-results",
+    "404"
+   ],
+   "probes": [
+    "reset determinism",
+    "restart persistence",
+    "duplicate submission idempotency"
+   ]
+  },
+  "external_services": [
+   {
+    "name": "federation-gateway GraphQL (www + apionline)",
+    "evidence": "directly-observed",
+    "local_adapter": true,
+    "side_effect": false,
+    "zero_remote_required": true
+   },
+   {
+    "name": "thdstatic image/asset CDNs",
+    "evidence": "directly-observed",
+    "local_adapter": "localize assets",
+    "side_effect": false,
+    "zero_remote_required": true
+   },
+   {
+    "name": "THD identity/auth (email-first)",
+    "evidence": "directly-observed",
+    "local_adapter": true,
+    "side_effect": false,
+    "zero_remote_required": true
+   },
+   {
+    "name": "payments: credit card + PayPal + Google Pay + gift card",
+    "evidence": "directly-observed",
+    "local_adapter": "local-sandbox only; wallet buttons visual-only",
+    "side_effect": true,
+    "zero_remote_required": true
+   },
+   {
+    "name": "Sprinklr chat, Qualtrics, QuantumMetric, NewRelic, PX/Akamai/Forter/ThreatMetrix",
+    "evidence": "directly-observed",
+    "local_adapter": "omit (non-goal telemetry/anti-bot)",
+    "side_effect": false,
+    "zero_remote_required": true
+   }
+  ]
+ },
+ "authority": {
+  "authentication_access": "human-login-completed-2026-08-18",
+  "credentials_persisted": false,
+  "authorized_source_mutations": [
+   "anonymous-cart-checkout-walk (add-to-cart, pickup selection, synthetic personal info; hard stop before payment/order submission)"
+  ],
+  "requested_source_mutations": [],
+  "real_email_authorized": false,
+  "stripe_test_authorized": false,
+  "live_payment_authorized": false,
+  "push_authorized": false,
+  "pr_authorized": false,
+  "public_deployment_authorized": false,
+  "rights_or_redistribution_status": "unknown"
+ },
+ "trace_acquisition": {
+  "mode": "adaptive",
+  "agent_must_initiate": true,
+  "text_ownership": "human-only",
+  "human_trace_texts": [
+   {
+    "human_trace_text_id": "ht-001",
+    "text": "On Home Depot, search for a Milwaukee 18V cordless drill, select the highest-rated SKU, add to cart, choose in-store pickup, fill in personal info, and place the order Confirm the final review or confirmation view visibly reflects the requested choices and totals.",
+    "provided_at": "2026-08-18T04:34:37Z",
+    "source": "human-selected-inventory",
+    "source_ref": "WB062-T02/WB062-T23 (task 535)",
+    "status": "confirmed"
+   }
+  ],
+  "trace_candidates": [],
+  "requested_traces": [],
+  "completed_traces": [
+   "tr-001"
+  ],
+  "remaining_material_uncertainties": [
+   "registration interior steps executed by human before recorder attach (recoverable: signed-out createaccount walk w/o submit)",
+   "sign-out -> re-sign-in flow not yet exercised under recording",
+   "compare view, variant families, reviews pagination pending catalog captures",
+   "help center /c/customer_service blocked at recon; pending trusted capture",
+   "populated order history unavailable on blank account (clone models from seeded data + guest-order-tracking structure)"
+  ]
+ },
+ "trajectory_recording": {
+  "channel": "human-local-chrome",
+  "recordings": [
+   {
+    "trace_id": "tr-001",
+    "side": "source",
+    "human_trace_text_id": "ht-001",
+    "environment": "human-local",
+    "runtime_identity": {
+     "browser": "Chrome/151.0.7922.138",
+     "viewport": "1440x900 (window default)",
+     "locale": "en-US",
+     "timezone": "America/Toronto (operator local)"
+    },
+    "allowed_origins": [
+     "https://www.homedepot.com",
+     "https://homedepot.com"
+    ],
+    "output_dir": "materials/home-depot/source-auth-scratch/traces/human-535-walk.jsonl",
+    "session_status": "recording",
+    "counts": {
+     "actions": null,
+     "screenshots": 0,
+     "dropped_events": null
+    },
+    "credential_segment": "not-recorded (login completed before recorder attach)",
+    "screenshots_enabled": false,
+    "driver_note": "walk driven by agent inside human-authorized logged-in session per entry-prompt authorization; human performed warm-up/registration/login pre-attach",
+    "establishes": [
+     "routes",
+     "selectors",
+     "step-order",
+     "form-actions"
+    ],
+    "does_not_establish": [
+     "pixels",
+     "copy",
+     "network-closure",
+     "cross-origin-iframes"
+    ],
+    "uncertainty_resolved": [
+     "535 funnel step order",
+     "checkout accordion structure",
+     "pickup-person/payment boundary"
+    ]
+   }
+  ],
+  "clone_side_recordings": [],
+  "two_sided_findings": []
+ },
+ "field_evidence": [
+  {
+   "field": "canonical_url",
+   "value": "https://www.homedepot.com/",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "search contract",
+   "value": "GET /s/<query> (?NCNI-5), input name=keyword id=typeahead-search-field-input",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "category route",
+   "value": "/b/<Name>/N-5yc1vZ<code>; Tools=N-5yc1vZc1xy",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "highest-rated SKU",
+   "value": "3697-22 / 320326787 / 4.7664 / 3981 reviews / $399.00",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "store identity",
+   "value": "Niagara Falls #1287, 750 Builders Way, NY 14304",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "checkout steps",
+   "value": "Secure Checkout accordion: Pickup Person -> Store Pickup (instore/curbside) -> Payment Method (gift card, credit card, Google Pay, PayPal) -> Review; Place Order disabled until payment",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "totals",
+   "value": "$399.00 subtotal, pickup FREE, est tax to $430.92",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "account routes",
+   "value": "/myaccount/dashboard|purchase-history|payments|profile, /list/view/summary, guest-order-tracking",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "auth entry",
+   "value": "email-first /auth/view/signin (createaccount folds in), input#username, Back/Continue",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  },
+  {
+   "field": "404",
+   "value": "branded reasons list + return home/site map, legacy header variant",
+   "kind": "directly-observed",
+   "confidence": "high",
+   "refreeze": false
+  }
+ ],
+ "unresolved": [
+  {
+   "issue": "commerce-tier bot protection blocks fresh automation sessions; trusted human session degrades under fast scripted navigation",
+   "mitigation": "human-paced capture (3-8s waits, natural paths), human trust warm-ups on demand; 3-strike switch rule",
+   "severity": "high"
+  },
+  {
+   "issue": "Drills subcategory N-code and category page-2 data pending",
+   "severity": "medium"
+  },
+  {
+   "issue": "compare/variant/help/reviews surfaces pending trusted captures",
+   "severity": "medium"
+  },
+  {
+   "issue": "real user PII (account email/phone) appears in authenticated captures -> keep in source-auth-scratch only; committed fixtures synthetic",
+   "severity": "note"
+  }
+ ]
+}

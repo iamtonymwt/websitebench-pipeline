@@ -1,0 +1,37 @@
+{
+  "checkpoint": "not-found",
+  "family": "error",
+  "priority": "P1",
+  "viewport": "mobile",
+  "requested_url": "https://www.homedepot.com/this-page-does-not-exist-websitebench",
+  "final_url": "https://www.homedepot.com/this-page-does-not-exist-websitebench",
+  "http_status": 404,
+  "title": "",
+  "body_text_len": 805,
+  "frames": 3,
+  "frame_sha256": [
+    "05ca12245148407b1681f6397de0778ed66466cabd34b7f249ee79125fd1c5c3",
+    "05ca12245148407b1681f6397de0778ed66466cabd34b7f249ee79125fd1c5c3",
+    "05ca12245148407b1681f6397de0778ed66466cabd34b7f249ee79125fd1c5c3"
+  ],
+  "frames_identical": true,
+  "link_count": 115,
+  "resource_count": 35,
+  "engine": "local-cdp",
+  "nav_fallback": null,
+  "consent_action": null,
+  "blocked_error_shell": false,
+  "regions": {
+    "header": null,
+    "main": null,
+    "footer": null,
+    "form": {
+      "selector": "form",
+      "x": 76,
+      "y": 56,
+      "width": 245,
+      "height": 44
+    },
+    "document_height": 1436
+  }
+}

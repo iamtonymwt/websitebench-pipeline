@@ -1,0 +1,43 @@
+{
+  "checkpoint": "cart-empty",
+  "family": "cart-checkout",
+  "priority": "P1",
+  "viewport": "mobile",
+  "requested_url": "https://www.homedepot.com/cart",
+  "final_url": "https://www.homedepot.com/cart",
+  "http_status": 200,
+  "title": "The Home Depot - Cart",
+  "body_text_len": 6181,
+  "frames": 3,
+  "frame_sha256": [
+    "40095f5b45b20dc34e5cef4cfdac5090ffe89f59646a7452469e71022c57e84c",
+    "c27c225d466116015d404566464e09bdd1d4539ea4d2901596ded0b5b77a1f13",
+    "40095f5b45b20dc34e5cef4cfdac5090ffe89f59646a7452469e71022c57e84c"
+  ],
+  "frames_identical": false,
+  "link_count": 236,
+  "resource_count": 191,
+  "engine": "local-cdp",
+  "nav_fallback": null,
+  "consent_action": null,
+  "blocked_error_shell": false,
+  "regions": {
+    "header": null,
+    "main": {
+      "selector": "#root",
+      "x": 0,
+      "y": 141,
+      "width": 390,
+      "height": 1892
+    },
+    "footer": null,
+    "form": {
+      "selector": "form",
+      "x": 68,
+      "y": 48,
+      "width": 261,
+      "height": 44
+    },
+    "document_height": 3068
+  }
+}

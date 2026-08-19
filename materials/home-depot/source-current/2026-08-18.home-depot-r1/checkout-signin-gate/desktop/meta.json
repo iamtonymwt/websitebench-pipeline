@@ -1,0 +1,15 @@
+{
+  "checkpoint": "checkout-signin-gate",
+  "viewport": "desktop",
+  "final_url": "https://www.homedepot.com/auth/view/checkout/signin?redirect=/checkout",
+  "title": "The Home Depot: sign in, create or secure your account",
+  "body_text_len": 78,
+  "frame_sha256": [
+    "33be4dbed486fb93cfb2a2ec1a89c3caa4b98f31ccfb76d30593c47d9214cd17"
+  ],
+  "link_count": 0,
+  "resource_count": 126,
+  "engine": "local-cdp",
+  "interactive": true,
+  "note": "guest checkout gate (signed-out); authenticated accordion evidence in source-auth-scratch/walk-535 session 1"
+}

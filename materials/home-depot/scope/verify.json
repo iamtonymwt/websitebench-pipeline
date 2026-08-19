@@ -1,0 +1,38 @@
+{
+ "schema_version": "offline-clone.verify-driver.v1",
+ "site_id": "home-depot",
+ "boot": {
+  "argv": [
+   "{python}",
+   "-m",
+   "uvicorn",
+   "app:app",
+   "--host",
+   "127.0.0.1",
+   "--port",
+   "{port}",
+   "--log-level",
+   "warning"
+  ],
+  "cwd": "clone",
+  "env": {}
+ },
+ "routes": {
+  "home": "/",
+  "cart": "/cart",
+  "checkout": "/checkout",
+  "signin": "/auth/view/signin",
+  "help": "/c/customer-service"
+ },
+ "status": {
+  "not-found": 404
+ },
+ "states": {
+  "home.loaded": [],
+  "cart.empty": []
+ },
+ "deferred": {
+  "account-authenticated": "Account dashboard/purchase-history/profile/lists require login; authenticated source evidence held in gitignored scratch. Anonymous + guest-checkout surfaces are in scope.",
+  "dynamic-plp-search": "PLP/search filter/sort/variant are served as frozen snapshots; dynamic re-rendering wiring is pending (P1)."
+ }
+}

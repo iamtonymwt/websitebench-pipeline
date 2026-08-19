@@ -1,0 +1,87 @@
+{
+  "_note": "Concrete clone URLs + proven visible/markup expectations, verified to hold against the built loopback clone on 2026-08-18. Mutations (add-to-cart, checkout, list save) are fetch/JSON-driven in this frozen-snapshot+API clone and carry no HTML <form method=post>, so they are exercised by the site test-suite and interaction ledger, not by browser:false OpenCLI submit steps. This contract is advisory/diagnostic only.",
+  "checks": [
+    {
+      "id": "home.landing",
+      "url": "/",
+      "method": "get",
+      "expect_status": 200,
+      "expect_contains": [
+        "The Home Depot"
+      ]
+    },
+    {
+      "id": "search.results",
+      "url": "/s/milwaukee%2018v%20cordless%20drill",
+      "method": "get",
+      "expect_status": 200,
+      "expect_contains": [
+        "Milwaukee"
+      ]
+    },
+    {
+      "id": "search.no-results",
+      "url": "/s/zzzz-no-match-websitebench",
+      "method": "get",
+      "expect_status": 200,
+      "expect_contains": [
+        "zzzz-no-match-websitebench"
+      ]
+    },
+    {
+      "id": "pdp.anchor",
+      "url": "/p/milwaukee-m18-fuel-hammer-drill-and-impact-driver-combo-kit/320326787",
+      "method": "get",
+      "expect_status": 200,
+      "expect_contains": [
+        "Milwaukee M18 FUEL",
+        "3697-22"
+      ]
+    },
+    {
+      "id": "plp.tools",
+      "url": "/b/Tools/N-5yc1vZc1xy",
+      "method": "get",
+      "expect_status": 200,
+      "expect_contains": [
+        "Tools - The Home Depot"
+      ]
+    },
+    {
+      "id": "plp.drills",
+      "url": "/b/Tools-Power-Tools-Drills/N-5yc1vZc27f",
+      "method": "get",
+      "expect_status": 200,
+      "expect_contains": [
+        "Drills - The Home Depot"
+      ]
+    },
+    {
+      "id": "auth.signin",
+      "url": "/auth/view/signin",
+      "method": "get",
+      "expect_status": 200,
+      "expect_contains": [
+        "Enter Your Email Address"
+      ]
+    },
+    {
+      "id": "help.center",
+      "url": "/c/customer-service",
+      "method": "get",
+      "expect_status": 200,
+      "expect_contains": [
+        "Customer Service"
+      ]
+    },
+    {
+      "id": "error.not-found",
+      "url": "/zzzz-nonexistent-route-websitebench",
+      "method": "get",
+      "expect_status": 404,
+      "expect_contains": [
+        "return to"
+      ]
+    }
+  ]
+}

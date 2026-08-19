@@ -1,0 +1,45 @@
+{
+ "schema_version": "offline-clone.purpose.v1",
+ "status": "frozen",
+ "purpose_id": "home-depot.pickup-commerce.v1",
+ "statement": "Help home-improvement shoppers browse and search the catalog, evaluate and customize products, and complete pickup-based orders and account flows, obtaining a confirmed order and reviewable purchase history. The clone reconstructs the anonymous + account-holder shopping experience: browse/search the tool catalog, inspect and customize products, manage a pickup cart, complete a local-sandbox pickup order, and review account order history. No real card, real email, or external charge is accepted; place-order is clone-local with an explicit local-sandbox outcome. Payment/credential entry fails closed.",
+ "primary_actor_ids": [
+  "visitor",
+  "account-holder"
+ ],
+ "secondary_actor_ids": [],
+ "mainline_journey_ids": [
+  "e2e.535.search-pickup-order",
+  "nav.primary-entry",
+  "browse.category",
+  "search.keyword-filter",
+  "pdp.inspect",
+  "cart.manage",
+  "checkout.payment"
+ ],
+ "secondary_journey_ids": [
+  "search.sort-compare",
+  "pdp.variant-quantity",
+  "save.list",
+  "auth.register",
+  "auth.login-logout",
+  "fulfillment.address",
+  "orders.history-postactions",
+  "search.no-results"
+ ],
+ "boundary_journey_ids": [
+  "auth.entry-signin",
+  "auth.entry-register",
+  "auth.password-recovery",
+  "validation.required-permission",
+  "help.recovery",
+  "error.not-found"
+ ],
+ "out_of_scope": [
+  "Pro Xtra / B2B pricing program (materially different, not in 23-task scope)",
+  "Real payment capture, real card/wallet processing, live Stripe",
+  "Real transactional email / SMS pickup notifications",
+  "Full catalog beyond the milwaukee-18v-cordless-drill search set + Tools/Drills PLP first pages (data reduced per ruling; functional surfaces preserved)",
+  "Store inventory realtime, delivery scheduling calendar, installation services booking"
+ ]
+}

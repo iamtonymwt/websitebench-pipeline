@@ -1,0 +1,14 @@
+{
+  "checkpoint": "cart-populated",
+  "viewport": "desktop",
+  "final_url": "https://www.homedepot.com/cart",
+  "title": "The Home Depot - Cart",
+  "body_text_len": 2000,
+  "frame_sha256": [
+    "562231d83bc418103999b5564e04cd73c1a1bc78310c2fbab40afa32d0aedb34"
+  ],
+  "link_count": 120,
+  "resource_count": 155,
+  "engine": "local-cdp",
+  "interactive": true
+}

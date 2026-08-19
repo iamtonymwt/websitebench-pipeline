@@ -1,0 +1,832 @@
+[
+  {
+    "url": "https://assets.thdstatic.com/fonts/helvetica/HelveticaNeueLTW01-45Light.woff2",
+    "initiator": "link",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/fonts/helvetica/HelveticaNeueLTW01-55Roman.woff2",
+    "initiator": "css",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/fonts/helvetica/HelveticaNeueLTW01-75Bold.woff2",
+    "initiator": "css",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/fonts/helvetica/HelveticaNeueLTW01-77BoldCn.woff2",
+    "initiator": "css",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/experiences/landing-page/LandingPage.20fbab709371db544e04.css",
+    "initiator": "link",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/shell/global-shell.9486752d5bb333967ba6.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/sync/b2c/desktop/prod/current/sync.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://tag.getamigo.io/js/639e1c8d99ca8d63ed7c2173faca59ea10d454ca14d8d6c34e3fd9353b9fa410/load.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/target/prod/current/target.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://client.px-cloud.net/PXJ770cP7Y/main.min.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://swasc.homedepot.com/ee/va6/v1/identity/acquire?configId=dc11b07a-3ab0-4e77-bee8-3eb5a1c9a0b8&requestId=a8f9f94b-0ebe-4ffc-b9ed-6ef241905906",
+    "initiator": "fetch",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://s.go-mpulse.net/boomerang/36T59-9DHSJ-E4G5M-6UFW6-FTNMC",
+    "initiator": "link",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://tag.getamigo.io/static/639e1c8d99ca8d63ed7c2173faca59ea10d454ca14d8d6c34e3fd9353b9fa410/amigo-loader.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://gcp-runtime.getamigo.io/v2/639e1c8d99ca8d63ed7c2173faca59ea10d454ca14d8d6c34e3fd9353b9fa410/plugins",
+    "initiator": "fetch",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://swasc.homedepot.com/ee/va6/v1/interact?configId=dc11b07a-3ab0-4e77-bee8-3eb5a1c9a0b8&requestId=16e2e385-57da-41e6-b446-cc69574f3ae4",
+    "initiator": "fetch",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://ift.px-cloud.net/ns?c=0e2c6e00-9b14-11f1-8955-9501ef1341b8",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 1412
+  },
+  {
+    "url": "https://dam.thdstatic.com/contentful/heroflattenimage/28MAY26-SWB-Delivery-DSK.png",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/magic-apron/v4.2.3/magic-apron-loader.Cc0CHQqc1u6Su_JGJN9E0.css",
+    "initiator": "link",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/core/b2c/desktop/prod/current/core.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/core/cookie-utils/v2.1.2/cookie-utils.min.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/core/localizer/v9.10.2/localizerAutoInit.amd.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/core/react/v16.13.1/react.production.min.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/core/react/v16.13.1/react-dom.production.min.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/core/thd-customer/v6.12.1/thd-customer.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/experiences/landing-page/LandingPage.20fbab709371db544e04.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/data-collection/v6.0.114/data-collection.min.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/experiences/landing-page/landing-page.1ad7e0c91017f984c671.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/core/global-events-orchestrator/v5.13.3/global-events-orchestrator.min.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/core/thd-cart/v1.0.0/thd-cart.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/core/global-privacy-control/v1.8.1/gpc.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/js/hfapp.web.bundle.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/magic-apron/v4.2.3/magic-apron-loader.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://www.homedepot.com/yCF0j-z0zFEPvv7Q2OqsFzTt/u3iJD6JtVDfQVw/HyNpQmYB/B1NhTBZ/nIQYC",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://www.homedepot.com/yCF0j-z0zFEPvv7Q2OqsFzTt/ztiJD6iS/egNxQmYB/NTtiD3V/PDVgU?v=98977888-2ad6-e623-8c3f-67ebb87c0210",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/experiences/landing-page/dataModel.c9499ea48d066d18f573.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/app-header-interactive-DA7wVbPd.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/vendor-sui-icons-BQhb4IG7.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/vendor-sui-atomic-BrT_9_uG.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/vendor-thd-nucleus-C__S5NvC.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/vendor-thd-components-CqXOFLRi.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/vendor-carousel-CUGRRshK.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/vendor-apollo-CHPMfpoz.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/sync/b2c/desktop/prod/current/remoteEntry.sync.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/core/b2c/desktop/prod/current/lodash.core.js",
+    "initiator": "link",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/core/b2c/desktop/prod/current/daMap.core.js",
+    "initiator": "link",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/vendor-thd-sign-in-f4fWcUam.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://www.homedepot.com/StoreSearchServices/v2/storesearch?latitude=43.64165173254255&longitude=-79.37939071140157&pagesize=20&radius=0.135531538772583&type=json",
+    "initiator": "fetch",
+    "transfer_size": 390
+  },
+  {
+    "url": "https://apionline.homedepot.com/sponsoredbanner/v1?schema=cat_sponsored&appid=desktop&show=banner&browserid=20177272309808044513722929285477623892&customerType=b2c&bannerType=standard&appName=landing-page&storeid=2845&nValue=customer-service",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://tag.getamigo.io/plugin/invokeExperiencePlugin/39a262ad4aa04a78a6ae/",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://tag.getamigo.io/plugin/defineExperiencePlugin/c9b33fe57906b2fa8430/",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://apionline.homedepot.com/federation-gateway/graphql?opname=uds",
+    "initiator": "fetch",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 1092
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/sync/b2c/desktop/prod/current/utilities.sync.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/core/b2c/desktop/prod/current/thdAnalytics.core.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/eyeo/eyeo_test_asset_1.gif",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/eyeo/eyeo_test_asset_2.gif",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/core/b2c/desktop/prod/current/lodash.core.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/core/b2c/desktop/prod/current/daMap.core.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://swasc.homedepot.com/ee/va6/v1/collect?configId=dc11b07a-3ab0-4e77-bee8-3eb5a1c9a0b8&requestId=4969fe73-1309-497e-862d-6094e5f49486",
+    "initiator": "beacon",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://www.homedepot.com/yCF0j-z0zFEPvv7Q2OqsFzTt/ztiJD6iS/egNxQmYB/NTtiD3V/PDVgU",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 300
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 1092
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/590ZSx69KyXqu9hkUkFzcA/7wYcyg1C3giLiVzAtue0KA/Original%20file/Order-Tracking-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/51NBnAabSHZ0B20hbKGxRg/gFDCVuWz-QeqGCAourT2Vg/Original%20file/Credit-Card-64px-icon3.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/PsvXNSfNWTwwuYh6wjDa7w/1MtKQnG-XAo9X_P0tYyFrQ/Original%20file/Returns-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/DAfw6RA0SzoejFnf82VULQ/cXM-Az4_o0_5f2YY9TqBWw/Original%20file/Online-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/5H7jDJLU9b-d7IvD2ZilZA/pwUG2BYp8RvKZmP_QTdsIA/Original%20file/Delivery-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/oRnc0nXzgaU0TslIiqejKw/qL6o6I5UngMgmVeU9MaeKw/Original%20file/Service-Pro-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/WzN564HC2wHv3y13dzo3iQ/XjkBhTx-Kj84PGCa--jkAg/Original%20file/Special-Savings-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/afy2pj4kMGva5Lf7FWtFIw/jPEQ7dPfMvqRfJ3R2OUG-w/Original%20file/Purchase-History-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/6ye9q4qmIOBdPnnlpIJPQA/iltN8pOBQuRkXd9QTT_LIQ/Original%20file/Orders-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/WPvr4HG2XAIQr4yHAGgSJA/TMHhydLEx6DyBLANwpwYXA/Original%20file/Bucket-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/ynKrs-D4RdR0oXAUducE0A/m-a78_zlte_ozbIkrOQTBA/Original%20file/Drill-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/E85DwZkYnsBbQ_HYsw2rqw/HnLKqY6cJCHB2caRRqPMYg/Original%20file/In-store-pickup-64px-icon2.png?im=Resize=(703,703)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/analytics/3p/b2c/desktop/prod/current/3p.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://zn_42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_42V6DRAxYafsjMV&Q_LOC=https%3A%2F%2Fwww.homedepot.com%2Fc%2Fcustomer-service&t=1787064588576",
+    "initiator": "script",
+    "transfer_size": 4970
+  },
+  {
+    "url": "https://cdn.quantummetric.com/qscripts/quantum-homedepot.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://fls.doubleclick.net/activityj;src=3518820;type=thd;cat=thd001;u16=20177272309808044513722929285477623892;u26=https%3A%2F%2Fwww.homedepot.com%2Fc%2Fcustomer-service;u5=;u1=Customer%20Service%20Center%20-%20The%20Home%20Depot?",
+    "initiator": "script",
+    "transfer_size": 300
+  },
+  {
+    "url": "https://prod2-live-chat.sprinklr.com/api/livechat/handshake/widget/65d48a332e1cd41a769de5c1_app_100699388",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://1ad356638475.cdn4.forter.com/sn/1ad356638475/sha256-s2EryHbW5IT9%2BZv5Tmsjd2MHMjNRiVL52Vh2xWmFGCI%3D/script.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://cdn0.forter.com/1ad356638475/44ae5feafd27402698b1fc41b148d162/prop.json?_=1787064588634",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 320
+  },
+  {
+    "url": "https://d.agkn.com/pixel/8348/?che=4557099557851.031&aam=20466626341789944543732882238626940449&mcvisid=20177272309808044513722929285477623892",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://mr.homedepot.com/v1/p",
+    "initiator": "fetch",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/881.bb55d79d629553c6dbe8.chunk.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=www.homedepot.com",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/626.dbc8d716b9ee29fe8596.chunk.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=www.homedepot.com",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_42V6DRAxYafsjMV&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 6646
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/807.3dfb1479c45b1ba63b89.chunk.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/147.639bab391d86ea73ee71.chunk.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/463.564601aa5d1e92804124.chunk.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/UserDefinedHTMLModule.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/LinkModule.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/EmbeddedTargetModule.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/PopOverModule.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/FeedbackLinkModule.js?Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BRANDID=homedepot",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_2fSAsugeSvuOmh0&Version=6&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_bqEJngCW8Bf3Mwd&Version=4&Q_InterceptID=SI_2fSAsugeSvuOmh0&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_3sIMe9yTzng7znw&Version=6&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_bqEJngCW8Bf3Mwd&Version=4&Q_InterceptID=SI_3sIMe9yTzng7znw&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_bQpSq9mUzntb6ND&Version=19&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_26oljHrz9LB6s8l&Version=1&Q_InterceptID=SI_bQpSq9mUzntb6ND&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_3h2oPH9tbTSqeqi&Version=1&Q_InterceptID=SI_bpb0b7lnc4TDfxk&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_bpb0b7lnc4TDfxk&Version=4&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_cG97Lo3Q9PaJsmG&Version=722&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_agZ8Jno3WvyFMMZ&Version=1&Q_InterceptID=SI_cG97Lo3Q9PaJsmG&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_cMRVuRke6hDyojH&Version=11&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_7OhW3kSURH8hABD&Version=1&Q_InterceptID=SI_cMRVuRke6hDyojH&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_cOb6f9jEEKPnrYV&Version=20&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_7X6WeBCqDMvDQeV&Version=9&Q_InterceptID=SI_cOb6f9jEEKPnrYV&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_eG9YRu8C09RzCbY&Version=7&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_bDYO9ypqdjLWdTg&Version=3&Q_InterceptID=SI_eG9YRu8C09RzCbY&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_eP8ecJKmdNSxo6W&Version=4&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_0dM8202CZuFpV9I&Version=2&Q_InterceptID=SI_eP8ecJKmdNSxo6W&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_eQmr2U6jLFSiSrQ&Version=6&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_3h2oPH9tbTSqeqi&Version=1&Q_InterceptID=SI_eQmr2U6jLFSiSrQ&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_ehszkP3JIwnjF77&Version=90&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_2uHNDtqKlTBCXxH&Version=3&Q_InterceptID=SI_ehszkP3JIwnjF77&Q_ORIGIN=https://www.homedepot.com&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_Impress=1&Q_CID=CR_2uHNDtqKlTBCXxH&Q_SIID=SI_ehszkP3JIwnjF77&Q_ASID=AS_9FEOxCZBFdTE25D&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&r=1787064588749",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://pdx1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_cUuBXdlHtK4XTdr",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_Impress=1&Q_CID=CR_agZ8Jno3WvyFMMZ&Q_SIID=SI_cG97Lo3Q9PaJsmG&Q_ASID=AS_52620560&Q_CLIENTVERSION=2.55.0&Q_CLIENTTYPE=web&r=1787064588751",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://cdn0.forter.com/1ad356638475/44ae5feafd27402698b1fc41b148d162/prop.json?_=1787064588852",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 320
+  },
+  {
+    "url": "https://cdn0.forter.com/1ad356638475/44ae5feafd27402698b1fc41b148d162/prop.json?_=1787064588954",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 320
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 1092
+  },
+  {
+    "url": "https://cdn0.forter.com/1ad356638475/44ae5feafd27402698b1fc41b148d162/wpt.json",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 320
+  },
+  {
+    "url": "https://cdn3.forter.com/events",
+    "initiator": "beacon",
+    "transfer_size": 300
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 660
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 660
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 660
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/2wUdXPxdwOOg0NyFcxGPjA/9sc4kyP0ROoEbdZU9h7Tfw/Original%20file/Are-you-a-Pro-banner-DSK.jpg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/mN4OsOMzzIe8-J2AvyJ1Iw/45pVW_QpU8i1QBWLVqUw2g/Original%20file/Chat.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/p3Efg9_RXQhhE3csA6FueQ/yFEcTU65MohUHhMJr7xxRQ/Original%20file/Text-To-Confirm.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/RkQU5hD8XStFXbKSAToNcw/mE07kgp9_VdbKrrWKHzgYQ/Original%20file/Mobile.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/mu9aTFJ1tRL3k0HFeyz4TA/-C92xKcfSTQQC5GelxzBuw/Original%20file/ConsumerFAQ2_06-16-2026.png?im=Resize=(703,395.44)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/qRdPJsvWg8XEL3bsccLVLg/ercXemSQX_NELXIijpEetQ/Original%20file/Blank%20Project%20Loan%20High%20Res.png?im=Resize=(703,395.44)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/l7Mza35Tdm2xbmlrNs-60A/k6EyNUr9S_EJ7b8Nt9ySnA/Original%20file/Pro%20Xtra%20FAQ%202.png?im=Resize=(703,395.44)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://dam.thdstatic.com/content/production/EhCEhe3UbUJs8kYQwFfcGQ/ju0nRr9UNHnQh280uy8pTA/Original%20file/Commercial%20FAQ%202.png?im=Resize=(703,395.44)",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 1092
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/path-to-pro/FacebookThd.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Twitter.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Pinterest.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Blog.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeDecoratorsCollection_logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/path-to-pro/YoutubeThd.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/path-to-pro/Mobile.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/HamptonBay-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/TheCompanyStore_logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/vissani_logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/LifeProof-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/GlacierBay-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/Husky-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/lifeproof_v1.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/Everbilt-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/StyleWell-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/Hdx-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/vigoro.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/TrafficMaster-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/Defiant-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/EcoSmart-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/HomeAccentsHoliday-footer-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/Commercial-Electric.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/images/v1/brand-logos/hubspace-logo.svg",
+    "initiator": "img",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://assets.thdstatic.com/hf/v34.0.3/assets/Footer-BbREU31s.js",
+    "initiator": "script",
+    "transfer_size": 0
+  },
+  {
+    "url": "https://www.homedepot.com/federation-gateway/graphql?opname=emtLinks",
+    "initiator": "fetch",
+    "transfer_size": 2117
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 660
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 660
+  },
+  {
+    "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector",
+    "initiator": "xmlhttprequest",
+    "transfer_size": 660
+  }
+]

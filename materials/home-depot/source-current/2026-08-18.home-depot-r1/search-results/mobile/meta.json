@@ -1,0 +1,49 @@
+{
+  "checkpoint": "search-results",
+  "family": "discovery",
+  "priority": "P0",
+  "viewport": "mobile",
+  "requested_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+  "final_url": "https://www.homedepot.com/s/milwaukee%2018v%20cordless%20drill",
+  "http_status": 200,
+  "title": "Search Results for milwaukee 18v cordless drill at The Home Depot",
+  "body_text_len": 11078,
+  "frames": 3,
+  "frame_sha256": [
+    "4fc8557d05cdd79d57c8a75bd3124de4f7c909b4cacada3bb982ff4f2240ff1a",
+    "5952290b02a3bfdd4d16689703497d6e09f56c1ecd534cf37b281e6357f5d23a",
+    "96e9174b58664554d81c5247dcbb3ceaed84e748f3c0ab0177936ca16141d280"
+  ],
+  "frames_identical": false,
+  "link_count": 357,
+  "resource_count": 251,
+  "engine": "local-cdp",
+  "nav_fallback": null,
+  "consent_action": null,
+  "blocked_error_shell": false,
+  "regions": {
+    "header": {
+      "selector": "nav",
+      "x": 47,
+      "y": 15080,
+      "width": 308,
+      "height": 44
+    },
+    "main": {
+      "selector": "#root",
+      "x": 0,
+      "y": 141,
+      "width": 390,
+      "height": 16156
+    },
+    "footer": null,
+    "form": {
+      "selector": "form",
+      "x": 68,
+      "y": 48,
+      "width": 261,
+      "height": 44
+    },
+    "document_height": 17332
+  }
+}

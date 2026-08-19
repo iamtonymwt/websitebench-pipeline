@@ -1,0 +1,55 @@
+{
+  "checkpoint": "search-no-results",
+  "family": "discovery",
+  "priority": "P1",
+  "viewport": "desktop",
+  "requested_url": "https://www.homedepot.com/s/zzzz-no-match-websitebench",
+  "final_url": "https://www.homedepot.com/s/zzzz-no-match-websitebench",
+  "http_status": 200,
+  "title": "Search Results for zzzz-no-match-websitebench at The Home Depot",
+  "body_text_len": 14678,
+  "frames": 3,
+  "frame_sha256": [
+    "1770e397377b87bc815f2b2c1c17cf2a083623888ffbbeb8ab034ec957020765",
+    "94f0041ac230b00f0969521b2fd6f29720276aa45cb6b974033882370cddcb84",
+    "1cab961a3a9fc9a5e01764cce53582d129f4cf9e9a2a2b8ef3589c1a945889c0"
+  ],
+  "frames_identical": false,
+  "link_count": 396,
+  "resource_count": 278,
+  "engine": "local-cdp",
+  "nav_fallback": null,
+  "consent_action": null,
+  "blocked_error_shell": false,
+  "regions": {
+    "header": {
+      "selector": "nav",
+      "x": 1120,
+      "y": 6429,
+      "width": 288,
+      "height": 44
+    },
+    "main": {
+      "selector": "#root",
+      "x": 0,
+      "y": 165,
+      "width": 1440,
+      "height": 7839
+    },
+    "footer": {
+      "selector": "#footer",
+      "x": 20,
+      "y": 8095,
+      "width": 341,
+      "height": 366
+    },
+    "form": {
+      "selector": "form",
+      "x": 384,
+      "y": 94,
+      "width": 607,
+      "height": 44
+    },
+    "document_height": 8860
+  }
+}

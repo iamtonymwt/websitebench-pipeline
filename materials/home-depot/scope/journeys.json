@@ -1,0 +1,349 @@
+{
+ "schema_version": "offline-clone.journeys.v1",
+ "journeys": [
+  {
+   "id": "e2e.535.search-pickup-order",
+   "actor": "account-holder",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Search 'milwaukee 18v cordless drill' from header",
+    "Open highest-rated SKU (model 3697-22, itemId 320326787, 4.7664/3981)",
+    "Add to Cart",
+    "Open cart, keep Pickup fulfillment",
+    "Checkout: pickup person (name/phone), In Store Pickup",
+    "Payment step; on clone: local-sandbox pay and Place Order; on source: hard stop"
+   ],
+   "inventory_tasks": [
+    "WB062-T02",
+    "WB062-T23"
+   ]
+  },
+  {
+   "id": "nav.primary-entry",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Load home",
+    "Open Shop All / department flyout",
+    "Navigate to Tools category"
+   ],
+   "inventory_tasks": [
+    "WB062-T01"
+   ]
+  },
+  {
+   "id": "browse.category",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Open Tools PLP",
+    "Open Drills subcategory",
+    "Inspect product grid"
+   ],
+   "inventory_tasks": [
+    "WB062-T03"
+   ]
+  },
+  {
+   "id": "search.keyword-filter",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Type keyword in typeahead (name=keyword)",
+    "Submit to /s/<query>",
+    "Apply brand/price filter facets"
+   ],
+   "inventory_tasks": [
+    "WB062-T04"
+   ]
+  },
+  {
+   "id": "search.sort-compare",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Sort by Top Rated / Price",
+    "Tick compare on 2+ tiles",
+    "Open compare view"
+   ],
+   "inventory_tasks": [
+    "WB062-T05"
+   ]
+  },
+  {
+   "id": "pdp.inspect",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Open PDP",
+    "Scroll gallery/specs/reviews",
+    "Check pickup/delivery availability"
+   ],
+   "inventory_tasks": [
+    "WB062-T06"
+   ]
+  },
+  {
+   "id": "pdp.variant-quantity",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Open PDP with variants (tool-only vs kit family)",
+    "Switch variant/quantity",
+    "Observe price/availability update"
+   ],
+   "inventory_tasks": [
+    "WB062-T07"
+   ]
+  },
+  {
+   "id": "save.list",
+   "actor": "account-holder",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Click save/list control on PDP",
+    "Create list 'Workshop'",
+    "Verify under /list/view/summary"
+   ],
+   "inventory_tasks": [
+    "WB062-T08"
+   ]
+  },
+  {
+   "id": "auth.register",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Open email-first entry",
+    "Enter new email, continue",
+    "Set password/profile fields",
+    "Land signed-in"
+   ],
+   "inventory_tasks": [
+    "WB062-T09"
+   ]
+  },
+  {
+   "id": "auth.login-logout",
+   "actor": "account-holder",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Email-first continue",
+    "Password step submit",
+    "Verify Welcome Back state",
+    "Sign Out from Me drawer"
+   ],
+   "inventory_tasks": [
+    "WB062-T10"
+   ]
+  },
+  {
+   "id": "cart.manage",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Add item from PDP",
+    "Change quantity",
+    "Remove item",
+    "Restore/undo or re-add"
+   ],
+   "inventory_tasks": [
+    "WB062-T11"
+   ]
+  },
+  {
+   "id": "fulfillment.address",
+   "actor": "account-holder",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Toggle pickup vs delivery on PDP/cart",
+    "Change store / enter delivery ZIP",
+    "Select shipping option"
+   ],
+   "inventory_tasks": [
+    "WB062-T12"
+   ]
+  },
+  {
+   "id": "checkout.payment",
+   "actor": "account-holder",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Apply gift card option (surface)",
+    "Fill Credit Card billing fields (clone)",
+    "Reach review; Place Order enabled",
+    "Confirm (clone-only)"
+   ],
+   "inventory_tasks": [
+    "WB062-T13"
+   ]
+  },
+  {
+   "id": "orders.history-postactions",
+   "actor": "account-holder",
+   "kind": "success",
+   "priority": "p0",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Open Purchase History",
+    "Open newest order detail",
+    "Use cancel/reorder/track affordance"
+   ],
+   "inventory_tasks": [
+    "WB062-T14",
+    "WB062-T19"
+   ]
+  },
+  {
+   "id": "search.no-results",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Search sentinel term",
+    "Observe no-results message",
+    "Follow route back to browse"
+   ],
+   "inventory_tasks": [
+    "WB062-T15"
+   ]
+  },
+  {
+   "id": "auth.entry-signin",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Open sign-in",
+    "Verify email field + continue affordance",
+    "Back out"
+   ],
+   "inventory_tasks": [
+    "WB062-T16"
+   ]
+  },
+  {
+   "id": "auth.entry-register",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Open create-account entry",
+    "Verify identity fields/terms guidance",
+    "Back out"
+   ],
+   "inventory_tasks": [
+    "WB062-T17"
+   ]
+  },
+  {
+   "id": "auth.password-recovery",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Enter email step",
+    "Open trouble-signing-in/reset",
+    "Verify reset field + return link"
+   ],
+   "inventory_tasks": [
+    "WB062-T18"
+   ]
+  },
+  {
+   "id": "validation.required-permission",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Submit pickup-person with empty fields",
+    "Observe inline validation",
+    "Try account action signed out; observe prompt"
+   ],
+   "inventory_tasks": [
+    "WB062-T20"
+   ]
+  },
+  {
+   "id": "help.recovery",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "structural",
+   "steps": [
+    "Open help center",
+    "Reach order/account/failed-action guidance"
+   ],
+   "inventory_tasks": [
+    "WB062-T21"
+   ]
+  },
+  {
+   "id": "error.not-found",
+   "actor": "visitor",
+   "kind": "success",
+   "priority": "p1",
+   "status": "frozen",
+   "evidence_kind": "direct",
+   "steps": [
+    "Open non-existent deep link",
+    "Verify branded not-found + reasons",
+    "Return home / site map"
+   ],
+   "inventory_tasks": [
+    "WB062-T22"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "schema_version": "offline-clone.routes.v1",
+ "routes": [
+  {
+   "id": "home",
+   "route_pattern": "/",
+   "priority": "p0",
+   "states": [
+    "loaded"
+   ],
+   "local_destination": true,
+   "purpose_edge": "primary"
+  },
+  {
+   "id": "plp-tools",
+   "route_pattern": "/b/Tools/N-5yc1vZc1xy",
+   "priority": "p0",
+   "states": [
+    "loaded"
+   ],
+   "local_destination": true,
+   "purpose_edge": "primary"
+  },
+  {
+   "id": "plp-drills",
+   "route_pattern": "/b/Tools-Power-Tools-Drills/N-5yc1vZc27f",
+   "priority": "p0",
+   "states": [
+    "loaded"
+   ],
+   "local_destination": true,
+   "purpose_edge": "primary"
+  },
+  {
+   "id": "pdp",
+   "route_pattern": "/p/{slug}/{itemId}",
+   "priority": "p0",
+   "states": [
+    "loaded"
+   ],
+   "local_destination": true,
+   "purpose_edge": "primary"
+  },
+  {
+   "id": "search",
+   "route_pattern": "/s/{query}",
+   "priority": "p0",
+   "states": [
+    "results",
+    "no-results"
+   ],
+   "local_destination": true,
+   "purpose_edge": "primary"
+  },
+  {
+   "id": "cart",
+   "route_pattern": "/cart",
+   "priority": "p0",
+   "states": [
+    "empty",
+    "populated"
+   ],
+   "local_destination": true,
+   "purpose_edge": "primary"
+  },
+  {
+   "id": "checkout",
+   "route_pattern": "/checkout",
+   "priority": "p0",
+   "states": [
+    "pickup-person",
+    "payment",
+    "validation"
+   ],
+   "local_destination": true,
+   "purpose_edge": "primary"
+  },
+  {
+   "id": "order-confirmation",
+   "route_pattern": "/order-confirmation",
+   "priority": "p0",
+   "states": [
+    "confirmed"
+   ],
+   "local_destination": true,
+   "purpose_edge": "primary"
+  },
+  {
+   "id": "auth-signin",
+   "route_pattern": "/auth/view/signin",
+   "priority": "p1",
+   "states": [
+    "email-entry"
+   ],
+   "local_destination": true,
+   "purpose_edge": "secondary"
+  },
+  {
+   "id": "auth-createaccount",
+   "route_pattern": "/auth/view/createaccount",
+   "priority": "p1",
+   "states": [
+    "email-entry"
+   ],
+   "local_destination": true,
+   "purpose_edge": "secondary"
+  },
+  {
+   "id": "help",
+   "route_pattern": "/c/customer-service",
+   "priority": "p1",
+   "states": [
+    "loaded"
+   ],
+   "local_destination": true,
+   "purpose_edge": "secondary"
+  },
+  {
+   "id": "not-found",
+   "route_pattern": "/{unknown}",
+   "priority": "p1",
+   "states": [
+    "not-found"
+   ],
+   "local_destination": true,
+   "purpose_edge": "secondary"
+  }
+ ]
+}

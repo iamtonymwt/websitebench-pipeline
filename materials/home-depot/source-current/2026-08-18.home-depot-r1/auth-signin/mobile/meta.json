@@ -1,0 +1,37 @@
+{
+  "checkpoint": "auth-signin",
+  "family": "auth",
+  "priority": "P0",
+  "viewport": "mobile",
+  "requested_url": "https://www.homedepot.com/auth/view/signin",
+  "final_url": "https://www.homedepot.com/auth/view/signin",
+  "http_status": 200,
+  "title": "The Home Depot: sign in, create or secure your account",
+  "body_text_len": 54,
+  "frames": 3,
+  "frame_sha256": [
+    "d1cc6fdd2b526df133b7d5d7b9ef298bfd2b4a1ca3aa2a9ec306e414e1846e24",
+    "d1cc6fdd2b526df133b7d5d7b9ef298bfd2b4a1ca3aa2a9ec306e414e1846e24",
+    "d1cc6fdd2b526df133b7d5d7b9ef298bfd2b4a1ca3aa2a9ec306e414e1846e24"
+  ],
+  "frames_identical": true,
+  "link_count": 0,
+  "resource_count": 130,
+  "engine": "local-cdp",
+  "nav_fallback": null,
+  "consent_action": null,
+  "blocked_error_shell": false,
+  "regions": {
+    "header": null,
+    "main": null,
+    "footer": null,
+    "form": {
+      "selector": "form",
+      "x": 10,
+      "y": 450,
+      "width": 370,
+      "height": 132
+    },
+    "document_height": 844
+  }
+}

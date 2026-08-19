@@ -1,0 +1,22 @@
+name: diagnostics (home-depot)
+on:
+  pull_request:
+    paths:
+      - materials/home-depot/**
+      - .github/workflows/tests-home-depot.yml
+      - .github/workflows/clone-diagnostics.yml
+  push:
+    paths:
+      - materials/home-depot/**
+      - .github/workflows/tests-home-depot.yml
+      - .github/workflows/clone-diagnostics.yml
+permissions:
+  contents: read
+concurrency:
+  group: diagnostics-home-depot-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  diagnostics:
+    uses: ./.github/workflows/clone-diagnostics.yml
+    with:
+      site: home-depot

@@ -1,0 +1,43 @@
+{
+  "checkpoint": "home",
+  "family": "marketing",
+  "priority": "P0",
+  "viewport": "tablet",
+  "requested_url": "https://www.homedepot.com/",
+  "final_url": "https://www.homedepot.com/",
+  "http_status": 200,
+  "title": "The Home Depot",
+  "body_text_len": 1859,
+  "frames": 3,
+  "frame_sha256": [
+    "a263c7b253570374de3a8972f7213395c0c200cd45e014227cbd723ab24ee91d",
+    "7aa490bc7b6f38a1fb855d268cd82f9773f4b6fc34fedb58a7baa9dba59830ac",
+    "d1eec4b5f2e47459433d9781d0cc28215a726b36da41f70b9aa3e19d15117a52"
+  ],
+  "frames_identical": false,
+  "link_count": 181,
+  "resource_count": 247,
+  "engine": "local-cdp",
+  "nav_fallback": null,
+  "consent_action": null,
+  "blocked_error_shell": false,
+  "regions": {
+    "header": null,
+    "main": {
+      "selector": "#root",
+      "x": 0,
+      "y": 165,
+      "width": 768,
+      "height": 6208
+    },
+    "footer": null,
+    "form": {
+      "selector": "form",
+      "x": 68,
+      "y": 48,
+      "width": 639,
+      "height": 44
+    },
+    "document_height": 7002
+  }
+}

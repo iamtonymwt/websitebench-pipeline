@@ -1,0 +1,209 @@
+{
+  "generated_from": "materials/home-depot/clone.yaml",
+  "opencli_version": "1.8.6",
+  "profiles": {
+    "auth": {
+      "failure_paths": [],
+      "label": "home-depot auth (derived draft)",
+      "local_semantics": [
+        "No shipped page issues a runtime request to any remote origin.",
+        "Cart subtotal+tax equals the source-observed total ($399 -> $430.92 for the anchor SKU).",
+        "Cart enforces the source 'Limit 3 per order' clamp."
+      ],
+      "network": {
+        "allowlist": [
+          "127.0.0.1",
+          "localhost"
+        ],
+        "notes": "Only local verifier/candidate hostnames are expected."
+      },
+      "recovery_paths": [],
+      "steps": [
+        {
+          "command": "state",
+          "id": "auth-signin",
+          "intent": "Exercise clone check auth.signin (GET /auth/view/signin).",
+          "observation_id": "home-depot_auth_signin",
+          "required_state": {
+            "visible": "Enter Your Email Address"
+          },
+          "route": "auth/view/signin"
+        }
+      ],
+      "tier": "p1"
+    },
+    "error": {
+      "failure_paths": [],
+      "label": "home-depot error (derived draft)",
+      "local_semantics": [
+        "No shipped page issues a runtime request to any remote origin.",
+        "Cart subtotal+tax equals the source-observed total ($399 -> $430.92 for the anchor SKU).",
+        "Cart enforces the source 'Limit 3 per order' clamp."
+      ],
+      "network": {
+        "allowlist": [
+          "127.0.0.1",
+          "localhost"
+        ],
+        "notes": "Only local verifier/candidate hostnames are expected."
+      },
+      "recovery_paths": [],
+      "steps": [
+        {
+          "command": "state",
+          "id": "error-not-found",
+          "intent": "Exercise clone check error.not-found (GET /zzzz-nonexistent-route-websitebench).",
+          "observation_id": "home-depot_error_not-found",
+          "required_state": {
+            "visible": "return to"
+          },
+          "route": "zzzz-nonexistent-route-websitebench"
+        }
+      ],
+      "tier": "p1"
+    },
+    "help": {
+      "failure_paths": [],
+      "label": "home-depot help (derived draft)",
+      "local_semantics": [
+        "No shipped page issues a runtime request to any remote origin.",
+        "Cart subtotal+tax equals the source-observed total ($399 -> $430.92 for the anchor SKU).",
+        "Cart enforces the source 'Limit 3 per order' clamp."
+      ],
+      "network": {
+        "allowlist": [
+          "127.0.0.1",
+          "localhost"
+        ],
+        "notes": "Only local verifier/candidate hostnames are expected."
+      },
+      "recovery_paths": [],
+      "steps": [
+        {
+          "command": "state",
+          "id": "help-center",
+          "intent": "Exercise clone check help.center (GET /c/customer-service).",
+          "observation_id": "home-depot_help_center",
+          "required_state": {
+            "visible": "Customer Service"
+          },
+          "route": "c/customer-service"
+        }
+      ],
+      "tier": "p1"
+    },
+    "pdp": {
+      "failure_paths": [],
+      "label": "home-depot pdp (derived draft)",
+      "local_semantics": [
+        "No shipped page issues a runtime request to any remote origin.",
+        "Cart subtotal+tax equals the source-observed total ($399 -> $430.92 for the anchor SKU).",
+        "Cart enforces the source 'Limit 3 per order' clamp."
+      ],
+      "network": {
+        "allowlist": [
+          "127.0.0.1",
+          "localhost"
+        ],
+        "notes": "Only local verifier/candidate hostnames are expected."
+      },
+      "recovery_paths": [],
+      "steps": [
+        {
+          "command": "state",
+          "id": "pdp-anchor",
+          "intent": "Exercise clone check pdp.anchor (GET /p/milwaukee-m18-fuel-hammer-drill-and-impact-driver-combo-kit/320326787).",
+          "observation_id": "home-depot_pdp_anchor",
+          "required_state": {
+            "body_contains": "3697-22",
+            "visible": "Milwaukee M18 FUEL"
+          },
+          "route": "p/milwaukee-m18-fuel-hammer-drill-and-impact-driver-combo-kit/320326787"
+        }
+      ],
+      "tier": "p0"
+    },
+    "plp": {
+      "failure_paths": [],
+      "label": "home-depot plp (derived draft)",
+      "local_semantics": [
+        "No shipped page issues a runtime request to any remote origin.",
+        "Cart subtotal+tax equals the source-observed total ($399 -> $430.92 for the anchor SKU).",
+        "Cart enforces the source 'Limit 3 per order' clamp."
+      ],
+      "network": {
+        "allowlist": [
+          "127.0.0.1",
+          "localhost"
+        ],
+        "notes": "Only local verifier/candidate hostnames are expected."
+      },
+      "recovery_paths": [],
+      "steps": [
+        {
+          "command": "state",
+          "id": "plp-tools",
+          "intent": "Exercise clone check plp.tools (GET /b/Tools/N-5yc1vZc1xy).",
+          "observation_id": "home-depot_plp_tools",
+          "required_state": {
+            "visible": "Tools - The Home Depot"
+          },
+          "route": "b/Tools/N-5yc1vZc1xy"
+        },
+        {
+          "command": "state",
+          "id": "plp-drills",
+          "intent": "Exercise clone check plp.drills (GET /b/Tools-Power-Tools-Drills/N-5yc1vZc27f).",
+          "observation_id": "home-depot_plp_drills",
+          "required_state": {
+            "visible": "Drills - The Home Depot"
+          },
+          "route": "b/Tools-Power-Tools-Drills/N-5yc1vZc27f"
+        }
+      ],
+      "tier": "p0"
+    },
+    "search": {
+      "failure_paths": [],
+      "label": "home-depot search (derived draft)",
+      "local_semantics": [
+        "No shipped page issues a runtime request to any remote origin.",
+        "Cart subtotal+tax equals the source-observed total ($399 -> $430.92 for the anchor SKU).",
+        "Cart enforces the source 'Limit 3 per order' clamp."
+      ],
+      "network": {
+        "allowlist": [
+          "127.0.0.1",
+          "localhost"
+        ],
+        "notes": "Only local verifier/candidate hostnames are expected."
+      },
+      "recovery_paths": [],
+      "steps": [
+        {
+          "command": "state",
+          "id": "search-results",
+          "intent": "Exercise clone check search.results (GET /s/milwaukee%2018v%20cordless%20drill).",
+          "observation_id": "home-depot_search_results",
+          "required_state": {
+            "list_contains": "Milwaukee"
+          },
+          "route": "s/milwaukee%2018v%20cordless%20drill"
+        },
+        {
+          "command": "state",
+          "id": "search-no-results",
+          "intent": "Exercise clone check search.no-results (GET /s/zzzz-no-match-websitebench).",
+          "observation_id": "home-depot_search_no-results",
+          "required_state": {
+            "body_contains": "zzzz-no-match-websitebench"
+          },
+          "route": "s/zzzz-no-match-websitebench"
+        }
+      ],
+      "tier": "p0"
+    }
+  },
+  "schema_version": "websitebench.harbor.opencli-interaction-contract.v1",
+  "site_id": "home-depot"
+}

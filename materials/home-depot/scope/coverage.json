@@ -1,0 +1,65 @@
+{
+ "schema_version": "offline-clone.coverage.v1",
+ "status": "frozen",
+ "dimensions": [
+  {
+   "id": "source-anonymous-states",
+   "label": "Anonymous surfaces captured from www.homedepot.com",
+   "unit": "state",
+   "category": "source",
+   "required_evidence_kinds": [
+    "browser"
+   ],
+   "required_items": [
+    "auth-createaccount.desktop",
+    "auth-signin.desktop",
+    "auth-signin.mobile",
+    "cart-empty.desktop",
+    "cart-empty.mobile",
+    "cart-populated.desktop",
+    "cart-populated.mobile",
+    "checkout-signin-gate.desktop",
+    "help.desktop",
+    "home.desktop",
+    "home.mobile",
+    "home.tablet",
+    "not-found.desktop",
+    "not-found.mobile",
+    "pdp-anchor.desktop",
+    "pdp-anchor.mobile",
+    "pdp-anchor.tablet",
+    "plp-drills.desktop",
+    "plp-drills.mobile",
+    "plp-drills-p2.desktop",
+    "plp-tools.desktop",
+    "plp-tools.mobile",
+    "search-no-results.desktop",
+    "search-results.desktop",
+    "search-results.mobile",
+    "search-results.tablet",
+    "search-results-p2.desktop"
+   ],
+   "satisfied_items": [],
+   "rationale": "27 committed anonymous checkpoints captured 2026-08-18; authed captures held in gitignored scratch (PII). Numerators owned by verification evidence."
+  },
+  {
+   "id": "p0-journeys",
+   "label": "P0 journey functional coverage",
+   "unit": "journey",
+   "category": "function",
+   "required_evidence_kinds": [
+    "browser"
+   ],
+   "required_items": [
+    "e2e.535.search-pickup-order",
+    "browse.category",
+    "search.keyword-filter",
+    "pdp.inspect",
+    "cart.manage",
+    "checkout.payment"
+   ],
+   "satisfied_items": [],
+   "rationale": "535 verified browser end-to-end; browse/search render from frozen snapshots, dynamic filter/sort wiring pending (P1). Numerators owned by verification."
+  }
+ ]
+}

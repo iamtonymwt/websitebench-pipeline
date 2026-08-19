@@ -1,0 +1,43 @@
+{
+  "checkpoint": "pdp-anchor",
+  "family": "product-detail",
+  "priority": "P0",
+  "viewport": "mobile",
+  "requested_url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+  "final_url": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+  "http_status": 200,
+  "title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with 2 Batteries 3697-22 - The Home Depot",
+  "body_text_len": 7910,
+  "frames": 3,
+  "frame_sha256": [
+    "ecc1fc55f83d626cca7622cc59f379f1241fb2190f3391ed0b94eb9cbb772f9c",
+    "06e8bb59936d8313e5f70c329cd8dbf8c0e549500e0fd0b83b11005b7660d685",
+    "7fb5e2ba95f7c7cffc0ebd1d0ac0965660c55a0a4f45792c82d83a84ae3b1c23"
+  ],
+  "frames_identical": false,
+  "link_count": 164,
+  "resource_count": 187,
+  "engine": "local-cdp",
+  "nav_fallback": null,
+  "consent_action": null,
+  "blocked_error_shell": false,
+  "regions": {
+    "header": null,
+    "main": {
+      "selector": "#root",
+      "x": 0,
+      "y": 141,
+      "width": 390,
+      "height": 8078
+    },
+    "footer": null,
+    "form": {
+      "selector": "form",
+      "x": 68,
+      "y": 48,
+      "width": 261,
+      "height": 44
+    },
+    "document_height": 9254
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "checkpoint": "plp-tools",
+  "family": "discovery",
+  "priority": "P0",
+  "viewport": "mobile",
+  "requested_url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+  "final_url": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy",
+  "http_status": 200,
+  "title": "Tools - The Home Depot",
+  "body_text_len": 1353,
+  "frames": 3,
+  "frame_sha256": [
+    "0e98ca4a8e4e28d810392113faf7fb15c859f296e6e62e9f017a4c1fe48193d8",
+    "de1023cbe8110b3c64671311ca4fd6ce08d1bc65c8532c5541a6df5631fb8cf8",
+    "f395fb8beda330b84257529975cc28cc155d4945c4cbca2c14c58a0ffd41671c"
+  ],
+  "frames_identical": false,
+  "link_count": 177,
+  "resource_count": 213,
+  "engine": "local-cdp",
+  "nav_fallback": null,
+  "consent_action": null,
+  "blocked_error_shell": false,
+  "regions": {
+    "header": null,
+    "main": {
+      "selector": "#root",
+      "x": 0,
+      "y": 141,
+      "width": 390,
+      "height": 11328
+    },
+    "footer": null,
+    "form": {
+      "selector": "form",
+      "x": 68,
+      "y": 48,
+      "width": 261,
+      "height": 44
+    },
+    "document_height": 12504
+  }
+}

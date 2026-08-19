@@ -1,0 +1,2020 @@
+{
+ "schema_version": "home-depot.seed.v1",
+ "frozen_clock_utc": "2026-08-18T12:00:00Z",
+ "search_default_order": [
+  "325479354",
+  "100650378",
+  "204632932",
+  "329967344",
+  "325403100",
+  "204322452",
+  "320326787",
+  "320326855",
+  "325544370",
+  "320326862",
+  "312780154",
+  "204319056",
+  "326112747",
+  "325480442",
+  "320959083",
+  "312427932",
+  "320959125",
+  "337114219",
+  "321634458",
+  "315444524",
+  "304752924",
+  "202901662",
+  "342937943",
+  "300929527",
+  "342937955",
+  "301282299",
+  "205620421",
+  "334452082",
+  "309468737",
+  "320163863",
+  "313784050",
+  "341579487",
+  "323501635",
+  "205690291",
+  "205561434",
+  "206040966",
+  "202517713",
+  "206058492"
+ ],
+ "canonical_anchor": {
+  "itemId": "320326787",
+  "model": "3697-22",
+  "reason": "535 human-trace frozen SKU; highest-rated high-volume (4.7664/3981) drill combo on search page 1; canonical 'highest-rated' answer given multiple close 4.7x ratings"
+ },
+ "stores": [
+  {
+   "id": "1287",
+   "name": "Niagara Falls",
+   "address": "750 Builders Way",
+   "city": "Niagara Falls",
+   "state": "NY",
+   "zip": "14304",
+   "hours": "6 AM - 10 PM",
+   "pickup": true
+  },
+  {
+   "id": "1201",
+   "name": "Buffalo - Amherst",
+   "address": "1881 Ridge Rd",
+   "city": "West Seneca",
+   "state": "NY",
+   "zip": "14224",
+   "hours": "6 AM - 10 PM",
+   "pickup": true
+  },
+  {
+   "id": "3812",
+   "name": "Cheektowaga",
+   "address": "2100 Walden Ave",
+   "city": "Cheektowaga",
+   "state": "NY",
+   "zip": "14225",
+   "hours": "6 AM - 9 PM",
+   "pickup": true
+  }
+ ],
+ "default_store": "1287",
+ "delivery_zip": "14304",
+ "products": [
+  {
+   "itemId": "325479354",
+   "brand": "Milwaukee",
+   "model": "3601-21P",
+   "label": "M18 18V Lithium-Ion Brushless Cordless 1/2 in. Compact Drill/Driver with One 2.0 Ah Battery, Charger and Tool Bag",
+   "price": 99.0,
+   "original": 99.0,
+   "rating": 4.5931,
+   "reviews": 2443,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Compact-Drill-Driver-with-One-2-0-Ah-Battery-Charger-and-Tool-Bag-3601-21P/325479354",
+   "storeSku": "1009654395",
+   "thumb": "/static/assets/catalog/65a6db29ff912b91.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/f7657d2a-7e39-43c5-9ea3-100d77b8de81/svn/milwaukee-power-drills-3601-21p-64_600.jpg",
+    "https://images.thdstatic.com/productImages/868b222d-df87-48f8-93f2-4ddb27d94b35/svn/milwaukee-power-drills-3601-21p-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "100650378",
+   "brand": "Milwaukee",
+   "model": "2691-22",
+   "label": "M18 18V Lithium-Ion Cordless Drill Driver/Impact Driver Combo Kit (2-Tool) W/ Two 1.5Ah Batteries, Charger Tool Bag",
+   "price": 199.0,
+   "original": 199.0,
+   "rating": 4.6078,
+   "reviews": 9207,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-Drill-Driver-Impact-Driver-Combo-Kit-2-Tool-W-Two-1-5Ah-Batteries-Charger-Tool-Bag-2691-22/100650378",
+   "storeSku": "233545",
+   "thumb": "/static/assets/catalog/5b8a2cefb4dec812.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/ed71b8cb-0cb2-4f52-ade7-f2b2e83e9c76/svn/milwaukee-power-tool-combo-kits-2691-22-64_600.jpg",
+    "https://images.thdstatic.com/productImages/f0c88740-5ede-491e-8eb2-df883b94c08c/svn/milwaukee-power-tool-combo-kits-2691-22-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "204632932",
+   "brand": "Milwaukee",
+   "model": "2606-20",
+   "label": "M18 18V Lithium-Ion Cordless 1/2 in. Drill Driver (Tool-Only)",
+   "price": 139.0,
+   "original": 139.0,
+   "rating": 4.579,
+   "reviews": 2632,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-1-2-in-Drill-Driver-Tool-Only-2606-20/204632932",
+   "storeSku": "1000386616",
+   "thumb": "/static/assets/catalog/af2e2a414a5ac8ea.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/36b0d66b-d920-4060-a4aa-1e9c8bd2f412/svn/milwaukee-power-drills-2606-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/0c9c115d-0f46-4cdc-a999-803c8e4d047f/svn/milwaukee-power-drills-2606-20-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "329967344",
+   "brand": "Milwaukee",
+   "model": "2917-22HD",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1-9/16 in. SDS-Max Rotary Hammer with (2) 12.0 Ah Battery and Charger",
+   "price": 949.0,
+   "original": 949.0,
+   "rating": 4.7185,
+   "reviews": 540,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-9-16-in-SDS-Max-Rotary-Hammer-with-2-12-0-Ah-Battery-and-Charger-2917-22HD/329967344",
+   "storeSku": "1014674753",
+   "thumb": "/static/assets/catalog/0e8d9a856b858a84.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/bcc147d8-c2a5-4780-900e-8f5ad41118eb/svn/milwaukee-rotary-hammers-2917-22hd-64_600.jpg",
+    "https://images.thdstatic.com/productImages/bc185d6c-8b2c-4a9b-9d34-5a541b496971/svn/milwaukee-rotary-hammers-2917-22hd-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "325403100",
+   "brand": "Milwaukee",
+   "model": "3692-22CT",
+   "label": "M18 18V Lithium-Ion Brushless Cordless Compact Drill/Impact Combo Kit (2-Tool) w/(2) 2.0 Ah Batteries, Charger & Bag",
+   "price": 249.0,
+   "original": 249.0,
+   "rating": 4.6669,
+   "reviews": 1198,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-Compact-Drill-Impact-Combo-Kit-2-Tool-w-2-2-0-Ah-Batteries-Charger-Bag-3692-22CT/325403100",
+   "storeSku": "1009624489",
+   "thumb": "/static/assets/catalog/22c76dccbac0d0ff.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/53c3e1e6-45d2-4c68-ac3e-b7c1f24feb00/svn/milwaukee-power-tool-combo-kits-3692-22ct-64_600.jpg",
+    "https://images.thdstatic.com/productImages/288421b5-f00a-47c9-9aeb-e10349d62192/svn/milwaukee-power-tool-combo-kits-3692-22ct-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "204322452",
+   "brand": "Milwaukee",
+   "model": "2606-22CT",
+   "label": "M18 18V Lithium-Ion Cordless 1/2 in. Drill Driver Kit w/(2) 1.5Ah Batteries, Charger, Soft Case",
+   "price": 199.0,
+   "original": 199.0,
+   "rating": 4.5952,
+   "reviews": 2905,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-1-2-in-Drill-Driver-Kit-w-2-1-5Ah-Batteries-Charger-Soft-Case-2606-22CT/204322452",
+   "storeSku": "1000015394",
+   "thumb": "/static/assets/catalog/834b19334f1d8a77.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/574783d0-c000-4cdd-998f-2ed02023a1d3/svn/milwaukee-power-drills-2606-22ct-64_600.jpg",
+    "https://images.thdstatic.com/productImages/a9dcb688-7547-4d39-9acb-2a9d3d00977d/svn/milwaukee-power-drills-2606-22ct-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "320326787",
+   "brand": "Milwaukee",
+   "model": "3697-22",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with 2 Batteries",
+   "price": 399.0,
+   "original": 399.0,
+   "rating": 4.7664,
+   "reviews": 3981,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries-3697-22/320326787",
+   "storeSku": "1007850144",
+   "thumb": "/static/assets/catalog/12068893064625ab.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/c83a98b4-2b2a-4537-9a1b-16f4adc8fff6/svn/milwaukee-power-tool-combo-kits-3697-22-64_600.jpg",
+    "https://images.thdstatic.com/productImages/5e387616-3e3f-4140-9ce3-e29bd8bbe948/svn/milwaukee-power-tool-combo-kits-3697-22-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "pdp",
+    "plp-tools",
+    "search"
+   ]
+  },
+  {
+   "itemId": "320326855",
+   "brand": "Milwaukee",
+   "model": "2904-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver (Tool-Only)",
+   "price": 229.0,
+   "original": 229.0,
+   "rating": 4.6758,
+   "reviews": 1613,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Hammer-Drill-Driver-Tool-Only-2904-20/320326855",
+   "storeSku": "1007901514",
+   "thumb": "/static/assets/catalog/cf400da4c7cc720a.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/66a60fa5-5897-46a9-bfb4-60e508951421/svn/milwaukee-hammer-drills-2904-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/ae91c67d-2dfe-401d-98af-d778e2711e05/svn/milwaukee-hammer-drills-2904-20-e4_600.jpg"
+   ],
+   "category": "Hammer Drills",
+   "sources": [
+    "plp-drills",
+    "search"
+   ]
+  },
+  {
+   "itemId": "325544370",
+   "brand": "Milwaukee",
+   "model": "3601-22CT",
+   "label": "M18 18V Lithium-Ion Brushless Cordless 1/2 in. Compact Drill/Driver Kit with Two 2.0 Ah Batteries, Charger and Case",
+   "price": 199.0,
+   "original": 199.0,
+   "rating": 4.5921,
+   "reviews": 2454,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Compact-Drill-Driver-Kit-with-Two-2-0-Ah-Batteries-Charger-and-Case-3601-22CT/325544370",
+   "storeSku": "1009870253",
+   "thumb": "/static/assets/catalog/4aa1fd910c114349.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/8a233012-42b3-4f0b-94b1-73b3604f872b/svn/milwaukee-power-drills-3601-22ct-64_600.jpg",
+    "https://images.thdstatic.com/productImages/868b222d-df87-48f8-93f2-4ddb27d94b35/svn/milwaukee-power-drills-3601-22ct-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "320326862",
+   "brand": "Milwaukee",
+   "model": "2904-22",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Driver Kit with Two 5.0 Ah Batteries and Hard Case",
+   "price": 329.0,
+   "original": 329.0,
+   "rating": 4.6714,
+   "reviews": 1421,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Hammer-Drill-Driver-Kit-with-Two-5-0-Ah-Batteries-and-Hard-Case-2904-22/320326862",
+   "storeSku": "1007901518",
+   "thumb": "/static/assets/catalog/512c12cb99609f51.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/33cd94a4-bbad-4b5e-b447-c4d41d38bf46/svn/milwaukee-hammer-drills-2904-22-64_600.jpg",
+    "https://images.thdstatic.com/productImages/d40b0282-fa8a-4f40-b052-26887f6994ba/svn/milwaukee-hammer-drills-2904-22-e4_600.jpg"
+   ],
+   "category": "Hammer Drills",
+   "sources": [
+    "plp-drills",
+    "search"
+   ]
+  },
+  {
+   "itemId": "312780154",
+   "brand": "Milwaukee",
+   "model": "2691-22-48-32-4024",
+   "label": "M18 18V Lithium-Ion Cordless Drill Driver/Impact Driver Combo Kit (2-Tool) W/ 50PC Driving Bit Set",
+   "price": 233.0,
+   "original": 233.0,
+   "rating": 4.6372,
+   "reviews": 5612,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-Drill-Driver-Impact-Driver-Combo-Kit-2-Tool-W-50PC-Driving-Bit-Set-2691-22-48-32-4024/312780154",
+   "storeSku": "1005221291",
+   "thumb": "/static/assets/catalog/656f9c116801b2bc.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/4bd850b5-10a0-4e93-8935-d27a887f4431/svn/milwaukee-power-tool-combo-kits-2691-22-48-32-4024-64_600.jpg",
+    "https://images.thdstatic.com/productImages/b57ff291-0ea9-4e51-8ae8-da9646b5628b/svn/milwaukee-power-tool-combo-kits-2691-22-48-32-4024-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "204319056",
+   "brand": "Milwaukee",
+   "model": "2607-20",
+   "label": "M18 18V Lithium-Ion Cordless 1/2 in. Hammer Drill/Driver (Tool-Only)",
+   "price": 149.0,
+   "original": 149.0,
+   "rating": 4.6072,
+   "reviews": 1245,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-1-2-in-Hammer-Drill-Driver-Tool-Only-2607-20/204319056",
+   "storeSku": "1000035616",
+   "thumb": "/static/assets/catalog/447d9c03cd9c4c09.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/d8f1f6c9-adb2-4faa-aeb7-47efa88dab0f/svn/milwaukee-hammer-drills-2607-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/cc40b84b-63e1-4a32-ae0d-00612ea1d843/svn/milwaukee-hammer-drills-2607-20-e4_600.jpg"
+   ],
+   "category": "Hammer Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "326112747",
+   "brand": "Milwaukee",
+   "model": "3601-20",
+   "label": "M18 18V Lithium-Ion Brushless Cordless 1/2 in. Compact Drill/Driver (Tool-Only)",
+   "price": 149.0,
+   "original": 149.0,
+   "rating": 4.5982,
+   "reviews": 2504,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Compact-Drill-Driver-Tool-Only-3601-20/326112747",
+   "storeSku": "1009899870",
+   "thumb": "/static/assets/catalog/8fa300da95756086.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/af9bba31-5a29-487c-8bc6-0f5de16f9825/svn/milwaukee-power-drills-3601-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/868b222d-df87-48f8-93f2-4ddb27d94b35/svn/milwaukee-power-drills-3601-20-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "325480442",
+   "brand": "Milwaukee",
+   "model": "3650-21P",
+   "label": "M18 18-Volt Lithium-Ion Compact Brushless Cordless 1/4 in. Impact Driver Kit with One 2.0 Ah Battery, Charger & Tool Bag",
+   "price": 109.0,
+   "original": 199.0,
+   "rating": 4.6684,
+   "reviews": 974,
+   "canonicalUrl": "/p/Milwaukee-M18-18-Volt-Lithium-Ion-Compact-Brushless-Cordless-1-4-in-Impact-Driver-Kit-with-One-2-0-Ah-Battery-Charger-Tool-Bag-3650-21P/325480442",
+   "storeSku": "1009698648",
+   "thumb": "/static/assets/catalog/e1198cb96ae5d01c.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/853395f2-bd30-4136-9a42-34de80de196e/svn/milwaukee-impact-drivers-3650-21p-64_600.jpg",
+    "https://images.thdstatic.com/productImages/06e056da-60d0-45bb-bcb3-e9a2da519916/svn/milwaukee-impact-drivers-3650-21p-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "320959083",
+   "brand": "Milwaukee",
+   "model": "2903-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Drill/Driver (Tool-Only)",
+   "price": 219.0,
+   "original": 219.0,
+   "rating": 4.5998,
+   "reviews": 2549,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Drill-Driver-Tool-Only-2903-20/320959083",
+   "storeSku": "1008091418",
+   "thumb": "/static/assets/catalog/ef82f635eb626a63.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/fff785ee-f4b0-4c12-af60-8d2242f637c4/svn/milwaukee-power-drills-2903-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/06667c45-63b7-40e1-8d79-78f937fef32f/svn/milwaukee-power-drills-2903-20-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "312427932",
+   "brand": "Milwaukee",
+   "model": "2807-20",
+   "label": "M18 FUEL GEN II 18V Lithium-Ion Brushless Cordless 1/2 in. Hole Hawg Right Angle Drill (Tool-Only)",
+   "price": 329.0,
+   "original": 329.0,
+   "rating": 4.3833,
+   "reviews": 454,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-GEN-II-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Hole-Hawg-Right-Angle-Drill-Tool-Only-2807-20/312427932",
+   "storeSku": "1005146383",
+   "thumb": "/static/assets/catalog/e331dec5c60a2609.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/768accf0-907a-4971-bbeb-3bf41ba25666/svn/milwaukee-right-angle-drills-2807-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/e6e73bd4-f004-4084-8eb3-a1495b4bfd95/svn/milwaukee-right-angle-drills-2807-20-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "320959125",
+   "brand": "Milwaukee",
+   "model": "2903-22",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Drill/Driver Kit W/(2) 5.0Ah Batteries, Charger, and Hard Case",
+   "price": 319.0,
+   "original": 319.0,
+   "rating": 4.601,
+   "reviews": 2524,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Drill-Driver-Kit-W-2-5-0Ah-Batteries-Charger-and-Hard-Case-2903-22/320959125",
+   "storeSku": "1008091420",
+   "thumb": "/static/assets/catalog/be408b742d6602ca.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/bf4d7142-5309-45f8-b276-6f5e4c7a5a33/svn/milwaukee-power-drills-2903-22-64_600.jpg",
+    "https://images.thdstatic.com/productImages/8c735fd4-f472-4bff-9e47-20eb78cbffb4/svn/milwaukee-power-drills-2903-22-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "337114219",
+   "brand": "Milwaukee",
+   "model": "3692-22CT-48-89-4631",
+   "label": "M18 18V Lith-Ion Brushless Cordless Drill/Impact Combo Kit (2-Tool) w/ (2) 2.0 Ah Battery, Charger, & Drill Bit Set",
+   "price": 284.0,
+   "original": 284.0,
+   "rating": 4.546,
+   "reviews": 3421,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lith-Ion-Brushless-Cordless-Drill-Impact-Combo-Kit-2-Tool-w-2-2-0-Ah-Battery-Charger-Drill-Bit-Set-3692-22CT-48-89-4631/337114219",
+   "storeSku": "1014613766",
+   "thumb": "/static/assets/catalog/9452857e1db5afd6.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/4e18ad50-fbff-4d6c-8635-6c190ecb6336/svn/milwaukee-power-tool-combo-kits-3692-22ct-48-89-4631-64_600.jpg",
+    "https://images.thdstatic.com/productImages/490297c9-6664-4399-ac2b-0e8e7b842185/svn/milwaukee-power-tool-combo-kits-3692-22ct-48-89-4631-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "321634458",
+   "brand": "Milwaukee",
+   "model": "2903-22-48-11-1850",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Drill/Driver Kit with (3) 5.0Ah Batteries, Charger and Hard Case",
+   "price": 479.0,
+   "original": 479.0,
+   "rating": 4.5926,
+   "reviews": 2435,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Drill-Driver-Kit-with-3-5-0Ah-Batteries-Charger-and-Hard-Case-2903-22-48-11-1850/321634458",
+   "storeSku": "1008147671",
+   "thumb": "/static/assets/catalog/f9d56a591e3654ef.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/d16f4bb1-0062-468a-a223-2c49bad6accb/svn/milwaukee-power-drills-2903-22-48-11-1850-64_600.jpg",
+    "https://images.thdstatic.com/productImages/b2f467a2-f7e3-4e12-8862-e2fbcd6f1ae2/svn/milwaukee-power-drills-2903-22-48-11-1850-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "315444524",
+   "brand": "Milwaukee",
+   "model": "2912-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1 in. SDS-Plus Rotary Hammer (Tool-Only)",
+   "price": 379.0,
+   "original": 379.0,
+   "rating": 4.7904,
+   "reviews": 935,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-in-SDS-Plus-Rotary-Hammer-Tool-Only-2912-20/315444524",
+   "storeSku": "1006021443",
+   "thumb": "/static/assets/catalog/29e686b94dd88a0b.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/402577c6-9e01-4797-85db-0e8520782383/svn/milwaukee-rotary-hammers-2912-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/ae91c67d-2dfe-401d-98af-d778e2711e05/svn/milwaukee-rotary-hammers-2912-20-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-drills",
+    "search"
+   ]
+  },
+  {
+   "itemId": "304752924",
+   "brand": "Milwaukee",
+   "model": "2691-22-48-11-1820",
+   "label": "M18 18V Lithium-Ion Cordless Drill/Impact Driver Combo Kit (2-Tool) W/ M18 2.0Ah Compact Battery",
+   "price": 302.0,
+   "original": 302.0,
+   "rating": 4.5941,
+   "reviews": 3787,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-Drill-Impact-Driver-Combo-Kit-2-Tool-W-M18-2-0Ah-Compact-Battery-2691-22-48-11-1820/304752924",
+   "storeSku": "1003068969",
+   "thumb": "/static/assets/catalog/0de428194a4155b0.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/f1de264f-2658-4339-a24b-3cf248faf8ea/svn/milwaukee-power-tool-combo-kits-2691-22-48-11-1820-64_600.jpg",
+    "https://images.thdstatic.com/productImages/f7a62cb2-9abc-4347-a3f9-fad8a357cc59/svn/milwaukee-power-tool-combo-kits-2691-22-48-11-1820-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "202901662",
+   "brand": "Milwaukee",
+   "model": "2615-20",
+   "label": "M18 18V Lithium-Ion Cordless 3/8 in. Right-Angle Drill (Tool-Only)",
+   "price": 179.0,
+   "original": 179.0,
+   "rating": 4.3341,
+   "reviews": 413,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-3-8-in-Right-Angle-Drill-Tool-Only-2615-20/202901662",
+   "storeSku": "276271",
+   "thumb": "/static/assets/catalog/ed0f9b540e58aae4.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/c959b8bd-0496-49bd-9643-97af7b349605/svn/milwaukee-right-angle-drills-2615-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/a8c9150c-3b0f-421e-af4f-ef3c058a5555/svn/milwaukee-right-angle-drills-2615-20-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "342937943",
+   "brand": "Milwaukee",
+   "model": "2915-20-48-11-1865",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless SDS-Plus 1-1/8 in. Rotary Hammer Drill with (1) 6.0 Ah Battery",
+   "price": 479.0,
+   "original": 669.0,
+   "rating": 4.7202,
+   "reviews": 529,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-SDS-Plus-1-1-8-in-Rotary-Hammer-Drill-with-1-6-0-Ah-Battery-2915-20-48-11-1865/342937943",
+   "storeSku": "1015914207",
+   "thumb": "/static/assets/catalog/e1d4246dea17be3e.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/ed250d46-eaf4-4d86-880e-834d17d65066/svn/milwaukee-rotary-hammers-2915-20-48-11-1865-64_600.jpg",
+    "https://images.thdstatic.com/productImages/279d88f8-c36a-4f78-929d-35104fd0cd22/svn/milwaukee-rotary-hammers-2915-20-48-11-1865-e4_600.jpg"
+   ],
+   "category": "Hammer Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "300929527",
+   "brand": "Milwaukee",
+   "model": "2788-22HD",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1-1/2 in. Lineman Magnetic Drill High Demand Kit w/ Two 8.0Ah Batteries",
+   "price": 1999.0,
+   "original": 2999.0,
+   "rating": 4.7442,
+   "reviews": 43,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-1-2-in-Lineman-Magnetic-Drill-High-Demand-Kit-w-Two-8-0Ah-Batteries-2788-22HD/300929527",
+   "storeSku": "1002255458",
+   "thumb": "/static/assets/catalog/923c2da8e2020058.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/a23d9d94-3429-4268-9ec4-1f08101f80b7/svn/milwaukee-magnetic-drills-2788-22hd-64_600.jpg",
+    "https://images.thdstatic.com/productImages/d7864000-d9da-4d24-90a9-782715f4d2f2/svn/milwaukee-magnetic-drills-2788-22hd-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "342937955",
+   "brand": "Milwaukee",
+   "model": "2915-20-2953-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless SDS-Plus 1-1/8 in. Rotary Hammer Drill w/ Impact Driver",
+   "price": 479.0,
+   "original": 649.0,
+   "rating": 4.6776,
+   "reviews": 732,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-SDS-Plus-1-1-8-in-Rotary-Hammer-Drill-w-Impact-Driver-2915-20-2953-20/342937955",
+   "storeSku": "1015914208",
+   "thumb": "/static/assets/catalog/f3d31b9dec85d216.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/cb2e8dfe-c447-4526-ac40-d7437de51ec5/svn/milwaukee-rotary-hammers-2915-20-2953-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/678873d8-118a-428c-a478-788edb5d7ac1/svn/milwaukee-rotary-hammers-2915-20-2953-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "205620421",
+   "brand": "Milwaukee",
+   "model": "48-11-1850",
+   "label": "M18 18-Volt 5.0 Ah Lithium-Ion XC Extended Capacity Battery Pack",
+   "price": 169.0,
+   "original": 169.0,
+   "rating": 4.6961,
+   "reviews": 3294,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/b2be734677cff2d3.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/9416f6aa-2fe7-46eb-8658-890b7ab1381b/svn/milwaukee-power-tool-batteries-48-11-1850-64_600.jpg",
+    "https://images.thdstatic.com/productImages/0aca7d50-7991-41ab-8e9e-854b41d8ffec/svn/milwaukee-power-tool-batteries-48-11-1850-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "300193508",
+   "brand": "Milwaukee",
+   "model": "2760-20",
+   "label": "M18 FUEL SURGE 18V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+   "price": 199.0,
+   "original": 199.0,
+   "rating": 4.5533,
+   "reviews": 4385,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-SURGE-18V-Lithium-Ion-Brushless-Cordless-1-4-in-Hex-Impact-Driver-Tool-Only-2760-20/300193508",
+   "storeSku": "1002149991",
+   "thumb": "/static/assets/catalog/50da326f3283dce1.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/9c416e16-396a-4b33-bc4b-0c51dcfb1e06/svn/milwaukee-impact-drivers-2760-20-64_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "202610951",
+   "brand": "Milwaukee",
+   "model": "2695-24",
+   "label": "M18 18V Lithium-Ion Cordless Combo Tool Kit (4-Tool) w/(2) 3.0Ah Batteries, (1) Charger, (1) Tool Bag",
+   "price": 549.0,
+   "original": 549.0,
+   "rating": 4.6905,
+   "reviews": 979,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-Combo-Tool-Kit-4-Tool-w-2-3-0Ah-Batteries-1-Charger-1-Tool-Bag-2695-24/202610951",
+   "storeSku": "175431",
+   "thumb": "/static/assets/catalog/83e75f98f2a4329e.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/4945d146-9aaf-418f-a465-6b3e1317412a/svn/milwaukee-power-tool-combo-kits-2695-24-64_600.jpg",
+    "https://images.thdstatic.com/productImages/fc7298b0-313c-46a2-9afe-103f6f5fe9cd/svn/milwaukee-power-tool-combo-kits-2695-24-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "336306197",
+   "brand": "Milwaukee",
+   "model": "2904-20-48-11-1850",
+   "label": "M18 FUEL 18V Lith-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver w/ 5.0 Ah Battery",
+   "price": 229.0,
+   "original": 389.0,
+   "rating": 4.6261,
+   "reviews": 1150,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lith-Ion-Brushless-Cordless-1-2-in-Hammer-Drill-Driver-w-5-0-Ah-Battery-2904-20-48-11-1850/336306197",
+   "storeSku": "1014229952",
+   "thumb": "/static/assets/catalog/1d2770d259f85696.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/f35f2edd-f995-4a90-b9df-35157156b6ac/svn/milwaukee-hammer-drills-2904-20-48-11-1850-64_600.jpg"
+   ],
+   "category": "Hammer Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "328104158",
+   "brand": "Milwaukee",
+   "model": "2967-20-2904-20",
+   "label": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring and FUEL Hammer Drill/Driver",
+   "price": 528.0,
+   "original": 528.0,
+   "rating": 4.6059,
+   "reviews": 1398,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18-Volt-Lithium-Ion-Brushless-Cordless-1-2-in-Impact-Wrench-with-Friction-Ring-and-FUEL-Hammer-Drill-Driver-2967-20-2904-20/328104158",
+   "storeSku": "1010757397",
+   "thumb": "/static/assets/catalog/98defb5736d71fed.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/7ecba0f4-9aa5-4116-ad66-d5c53980abbf/svn/milwaukee-impact-wrenches-2967-20-2904-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/27853ed1-92a4-4fe2-a4f3-fda833e04563/svn/milwaukee-impact-wrenches-2967-20-2904-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "330614185",
+   "brand": "Milwaukee",
+   "model": "2915-20-2888-20",
+   "label": "M18 FUEL 18V Lithium-Ion Cordless SDS-Plus 1-1/8 in. Rotary Hammer Drill (Tool-Only) with 4-1/2 in./5 in. Grinder",
+   "price": 749.0,
+   "original": 749.0,
+   "rating": 4.7014,
+   "reviews": 211,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Cordless-SDS-Plus-1-1-8-in-Rotary-Hammer-Drill-Tool-Only-with-4-1-2-in-5-in-Grinder-2915-20-2888-20/330614185",
+   "storeSku": "1012036442",
+   "thumb": "/static/assets/catalog/696fd00d2edc7a81.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/b3c3bc3c-bb1b-48f3-b8a7-0ad5b081cc06/svn/milwaukee-rotary-hammers-2915-20-2888-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/f25eca1b-457e-409a-9540-e2e096eafb3d/svn/milwaukee-rotary-hammers-2915-20-2888-20-e4_600.jpg"
+   ],
+   "category": "Hammer Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "342937534",
+   "brand": "Milwaukee",
+   "model": "2809-20-2953-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless GEN 2 SUPER HAWG 1/2 in. Right Angle Drill w/ Impact Driver",
+   "price": 449.0,
+   "original": 619.0,
+   "rating": 4.6552,
+   "reviews": 815,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-GEN-2-SUPER-HAWG-1-2-in-Right-Angle-Drill-w-Impact-Driver-2809-20-2953-20/342937534",
+   "storeSku": "1015918097",
+   "thumb": "/static/assets/catalog/1179cb58a059dae4.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/5d6adb49-cc97-4d8c-9437-e2d937864eed/svn/milwaukee-right-angle-drills-2809-20-2953-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/5de99607-acb0-4b73-8dc3-a296d0d97c4a/svn/milwaukee-right-angle-drills-2809-20-2953-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "326685516",
+   "brand": "Milwaukee",
+   "model": "3692-22CT-48-32-4023",
+   "label": "M18 18V Lithium-Ion Brushless Cordless Compact Drill/Impact Combo Kit (2-Tool) with SHOCKWAVE Screw Driver Bit Set",
+   "price": 278.0,
+   "original": 278.0,
+   "rating": 4.6758,
+   "reviews": 2708,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-Compact-Drill-Impact-Combo-Kit-2-Tool-with-SHOCKWAVE-Screw-Driver-Bit-Set-3692-22CT-48-32-4023/326685516",
+   "storeSku": "1010289367",
+   "thumb": "/static/assets/catalog/5c45ce0e3071ccba.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/0379eec1-ee09-482e-b859-893ffdf78452/svn/milwaukee-power-tool-combo-kits-3692-22ct-48-32-4023-64_600.jpg",
+    "https://images.thdstatic.com/productImages/2214992f-6da1-4305-bc2d-6aba630e5d45/svn/milwaukee-power-tool-combo-kits-3692-22ct-48-32-4023-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "328085294",
+   "brand": "Milwaukee",
+   "model": "2809-20-2807-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless GEN 2 SUPER HAWG 1/2 in. Right Angle Drill and Hole Hawg Right Angle Drill",
+   "price": 778.0,
+   "original": 778.0,
+   "rating": 4.3583,
+   "reviews": 374,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-GEN-2-SUPER-HAWG-1-2-in-Right-Angle-Drill-and-Hole-Hawg-Right-Angle-Drill-2809-20-2807-20/328085294",
+   "storeSku": "1010758102",
+   "thumb": "/static/assets/catalog/9b6a7f27eca5ab3e.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/06f7f304-4e7e-45b1-ba7d-46dd4be2499f/svn/milwaukee-right-angle-drills-2809-20-2807-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/e82bfeec-72e9-421e-aba7-aef1a984d0c4/svn/milwaukee-right-angle-drills-2809-20-2807-20-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "331594643",
+   "brand": "Milwaukee",
+   "model": "3693-22CX-2613-20",
+   "label": "M18 18-Volt Lith-Ion Brushless Cordless Compact Hammer Drill/Impact Combo Kit w/(2) Batteries & M18 Rotary Hammer",
+   "price": 520.0,
+   "original": 520.0,
+   "rating": 4.6394,
+   "reviews": 710,
+   "canonicalUrl": "/p/Milwaukee-M18-18-Volt-Lith-Ion-Brushless-Cordless-Compact-Hammer-Drill-Impact-Combo-Kit-w-2-Batteries-M18-Rotary-Hammer-3693-22CX-2613-20/331594643",
+   "storeSku": "1012627592",
+   "thumb": "/static/assets/catalog/00e2597a6e762c14.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/1fd5c6c8-ff39-4a83-b000-cbb689755ac1/svn/milwaukee-power-tool-combo-kits-3693-22cx-2613-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/2c1cd016-07fa-4530-ab92-53efea162180/svn/milwaukee-power-tool-combo-kits-3693-22cx-2613-20-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "203230032",
+   "brand": "Milwaukee",
+   "model": "2696-26",
+   "label": "M18 18V Lithium-Ion Cordless Combo Tool Kit (6-Tool) with Two 3.0 Ah Batteries, 1 Charger, 1 Tool Bag",
+   "price": 799.0,
+   "original": 799.0,
+   "rating": 4.5718,
+   "reviews": 4082,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-Combo-Tool-Kit-6-Tool-with-Two-3-0-Ah-Batteries-1-Charger-1-Tool-Bag-2696-26/203230032",
+   "storeSku": "1004242118",
+   "thumb": "/static/assets/catalog/6171ec3fea656a97.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/5837c3f0-3292-4821-8d99-38cb6ebe6d63/svn/milwaukee-power-tool-combo-kits-2696-26-64_600.jpg",
+    "https://images.thdstatic.com/productImages/53575016-5544-42d8-9516-b744ba5d0ab7/svn/milwaukee-power-tool-combo-kits-2696-26-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "319402221",
+   "brand": "Milwaukee",
+   "model": "2807-20-2821-20",
+   "label": "M18 FUEL GEN II 18V Lithium-Ion Brushless Cordless 1/2 in. Hole Hawg Right Angle Drill w/M18 FUEL Reciprocating Saw",
+   "price": 578.0,
+   "original": 578.0,
+   "rating": 4.6596,
+   "reviews": 1078,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-GEN-II-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Hole-Hawg-Right-Angle-Drill-w-M18-FUEL-Reciprocating-Saw-2807-20-2821-20/319402221",
+   "storeSku": "1007157942",
+   "thumb": "/static/assets/catalog/8318edae770ee46d.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/9788d00c-b745-4308-89c0-64b32e812583/svn/milwaukee-right-angle-drills-2807-20-2821-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/5d018a15-df00-4fc9-8677-e7ceaab2aaae/svn/milwaukee-right-angle-drills-2807-20-2821-20-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "334452774",
+   "brand": "Milwaukee",
+   "model": "3697-22-48-11-1861",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless Hammer Drill & Impact Driver Combo Kit (2-Tool) w/ 3 Batteries",
+   "price": 596.0,
+   "original": 596.0,
+   "rating": 4.7338,
+   "reviews": 1533,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-Impact-Driver-Combo-Kit-2-Tool-w-3-Batteries-3697-22-48-11-1861/334452774",
+   "storeSku": "1013869885",
+   "thumb": "/static/assets/catalog/8bf457e9fef34a09.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/36b99c5b-9d53-497e-935f-401dc28362d6/svn/milwaukee-power-tool-combo-kits-3697-22-48-11-1861-64_600.jpg",
+    "https://images.thdstatic.com/productImages/a9389884-4e00-4eae-bec4-642b8d7ef207/svn/milwaukee-power-tool-combo-kits-3697-22-48-11-1861-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "202610953",
+   "brand": "Milwaukee",
+   "model": "2696-24",
+   "label": "M18 18V Lithium-Ion Cordless Combo Tool Kit with Two 3.0Ah Batteries, 1-Charger, 1-Tool Bag (4-Tool)",
+   "price": 599.0,
+   "original": 599.0,
+   "rating": 4.6108,
+   "reviews": 4800,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-Combo-Tool-Kit-with-Two-3-0Ah-Batteries-1-Charger-1-Tool-Bag-4-Tool-2696-24/202610953",
+   "storeSku": "175795",
+   "thumb": "/static/assets/catalog/9c189c2445135ac6.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/8ef5151d-72e6-4803-bd1c-dfbd5dc5bee9/svn/milwaukee-power-tool-combo-kits-2696-24-64_600.jpg",
+    "https://images.thdstatic.com/productImages/c6d3324a-7f8f-484f-8905-95b1379344f9/svn/milwaukee-power-tool-combo-kits-2696-24-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "321632976",
+   "brand": "Milwaukee",
+   "model": "3697-22-2626-20",
+   "label": "M18 FUEL 18-V Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with M18 Multi-Tool",
+   "price": 538.0,
+   "original": 538.0,
+   "rating": 4.7086,
+   "reviews": 4290,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18-V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-M18-Multi-Tool-3697-22-2626-20/321632976",
+   "storeSku": "1009474152",
+   "thumb": "/static/assets/catalog/9b60aea08fb6fe4d.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/196fda60-3cb9-4ef3-a109-a428ada604d0/svn/milwaukee-power-tool-combo-kits-3697-22-2626-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/4e68475d-d03e-4b5b-ace7-66e37bcc52b8/svn/milwaukee-power-tool-combo-kits-3697-22-2626-20-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "327669721",
+   "brand": "Milwaukee",
+   "model": "2904-22-2967-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill Driver Kit with M18 FUEL High-Torque Impact Wrench",
+   "price": 628.0,
+   "original": 628.0,
+   "rating": 4.875,
+   "reviews": 8,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Hammer-Drill-Driver-Kit-with-M18-FUEL-High-Torque-Impact-Wrench-2904-22-2967-20/327669721",
+   "storeSku": "1010480384",
+   "thumb": "/static/assets/catalog/e917a8aa386b38a4.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/798ab72c-764f-4a86-9c28-1efcc0640b76/svn/milwaukee-hammer-drills-2904-22-2967-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/e3a0fe7e-3276-4a4d-8e18-e9142590f694/svn/milwaukee-hammer-drills-2904-22-2967-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "331594632",
+   "brand": "Milwaukee",
+   "model": "3692-22CT-48-32-4082",
+   "label": "M18 18V Lith-Ion Brushless Cordless Compact Drill/Impact Combo Kit w/(2) 2.0 Ah Batteries, Charger & Bit Set (100-Piece)",
+   "price": 341.0,
+   "original": 341.0,
+   "rating": 4.6754,
+   "reviews": 1445,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lith-Ion-Brushless-Cordless-Compact-Drill-Impact-Combo-Kit-w-2-2-0-Ah-Batteries-Charger-Bit-Set-100-Piece-3692-22CT-48-32-4082/331594632",
+   "storeSku": "1012627583",
+   "thumb": "/static/assets/catalog/def399e32ff81ca2.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/f01d618a-a1ca-4247-83f3-4a3edc712f75/svn/milwaukee-power-tool-combo-kits-3692-22ct-48-32-4082-64_600.jpg",
+    "https://images.thdstatic.com/productImages/2214992f-6da1-4305-bc2d-6aba630e5d45/svn/milwaukee-power-tool-combo-kits-3692-22ct-48-32-4082-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "331594645",
+   "brand": "Milwaukee",
+   "model": "3693-22CX-2880-20",
+   "label": "M18 18-Volt Lith-Ion Brushless Cordless Compact Hammer Drill/Impact Combo Kit with (2) Batteries & M18 FUEL Grinder",
+   "price": 519.0,
+   "original": 519.0,
+   "rating": 4.7061,
+   "reviews": 1368,
+   "canonicalUrl": "/p/Milwaukee-M18-18-Volt-Lith-Ion-Brushless-Cordless-Compact-Hammer-Drill-Impact-Combo-Kit-with-2-Batteries-M18-FUEL-Grinder-3693-22CX-2880-20/331594645",
+   "storeSku": "1012627594",
+   "thumb": "/static/assets/catalog/9ec8296fa01fb68d.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/086f954e-abcd-4e5f-b744-43132e67195e/svn/milwaukee-power-tool-combo-kits-3693-22cx-2880-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/419bc422-bdca-4f3b-b4e7-906b4cd7f25b/svn/milwaukee-power-tool-combo-kits-3693-22cx-2880-20-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "321032481",
+   "brand": "Milwaukee",
+   "model": "2811-20-2719-20",
+   "label": "M18 FUEL 18-Volt Lithium-Ion Brushless Cordless GEN 2 SUPER HAWG 7/16 in. Right Angle Drill with M18 FUEL Hackzall",
+   "price": 639.0,
+   "original": 639.0,
+   "rating": 4.7943,
+   "reviews": 1507,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18-Volt-Lithium-Ion-Brushless-Cordless-GEN-2-SUPER-HAWG-7-16-in-Right-Angle-Drill-with-M18-FUEL-Hackzall-2811-20-2719-20/321032481",
+   "storeSku": "1007927580",
+   "thumb": "/static/assets/catalog/58517e788bc8b69e.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/94ca5cd2-3880-4eab-9724-1a9f54901dc5/svn/milwaukee-right-angle-drills-2811-20-2719-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/46b3958f-5d54-41e1-9aa0-551c93334cad/svn/milwaukee-right-angle-drills-2811-20-2719-20-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "341984860",
+   "brand": "Milwaukee",
+   "model": "3693-22CX-48-89-4670",
+   "label": "M18 18-Volt Lith-Ion Brushless Cordless Compact Hammer Drill/Impact Combo Kit (2-Tool) with (2) Batteries, Drill Bit Set",
+   "price": 329.0,
+   "original": 329.0,
+   "rating": 4.6058,
+   "reviews": 690,
+   "canonicalUrl": "/p/Milwaukee-M18-18-Volt-Lith-Ion-Brushless-Cordless-Compact-Hammer-Drill-Impact-Combo-Kit-2-Tool-with-2-Batteries-Drill-Bit-Set-3693-22CX-48-89-4670/341984860",
+   "storeSku": "1015535868",
+   "thumb": "/static/assets/catalog/9eff72189e02b887.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/8ca1cf24-4bd8-4a94-9930-fd686e416fbf/svn/milwaukee-power-tool-combo-kits-3693-22cx-48-89-4670-64_600.jpg",
+    "https://images.thdstatic.com/productImages/e27455d0-835e-4681-a167-6468b45430c1/svn/milwaukee-power-tool-combo-kits-3693-22cx-48-89-4670-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "333070494",
+   "brand": "Milwaukee",
+   "model": "3697-22-48-11-1865",
+   "label": "M18 FUEL 18V Lith-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with 3 Batteries",
+   "price": 589.0,
+   "original": 589.0,
+   "rating": 4.716,
+   "reviews": 2750,
+   "canonicalUrl": "/p/Milwaukee-M18-FUEL-18V-Lith-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-3-Batteries-3697-22-48-11-1865/333070494",
+   "storeSku": "1013524817",
+   "thumb": "/static/assets/catalog/5dc8b139a3d6de93.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/2109fb94-ae9b-41e3-8ad1-f5e6a3e1a759/svn/milwaukee-power-tool-combo-kits-3697-22-48-11-1865-64_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "330624567",
+   "brand": "Milwaukee",
+   "model": "3692-22CT-48-11-1850",
+   "label": "M18 18V Lithium-Ion Brushless Cordless Compact Drill/Impact Combo Kit (2-Tool) w/(2) 2.0 Ah Batteries w/5.0 Ah Battery",
+   "price": 399.0,
+   "original": 399.0,
+   "rating": 4.667,
+   "reviews": 1027,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-Compact-Drill-Impact-Combo-Kit-2-Tool-w-2-2-0-Ah-Batteries-w-5-0-Ah-Battery-3692-22CT-48-11-1850/330624567",
+   "storeSku": "1012036878",
+   "thumb": "/static/assets/catalog/590070aabff40a59.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/e7b4377d-a2aa-407f-95ed-a85854443f79/svn/milwaukee-power-tool-combo-kits-3692-22ct-48-11-1850-64_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "331594821",
+   "brand": "Milwaukee",
+   "model": "3601-21P-48-32-4095",
+   "label": "M18 18V Lithium-Ion Brushless Cordless Compact Drill/Driver with One 2.0 Ah Battery, Charger & Bit Set (25-Piece)",
+   "price": 209.0,
+   "original": 209.0,
+   "rating": 4.6068,
+   "reviews": 2622,
+   "canonicalUrl": "/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-Compact-Drill-Driver-with-One-2-0-Ah-Battery-Charger-Bit-Set-25-Piece-3601-21P-48-32-4095/331594821",
+   "storeSku": "1012627612",
+   "thumb": "/static/assets/catalog/ab9d832db700f406.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/aafea73d-1596-492c-b987-d591cf2ad4b0/svn/milwaukee-power-drills-3601-21p-48-32-4095-64_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "search"
+   ]
+  },
+  {
+   "itemId": "339545347",
+   "brand": "RYOBI",
+   "model": "PCL201K1",
+   "label": "ONE+ 18V Cordless 3/8 in. Drill/Driver Kit with Battery and Charger",
+   "price": 49.97,
+   "original": 49.97,
+   "rating": 4.6262,
+   "reviews": 2258,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/fcf50347dab96652.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/542d8c6f-5a03-4f72-8306-fb14c03c4fb4/svn/ryobi-power-drills-pcl201k1-64_600.jpg",
+    "https://images.thdstatic.com/productImages/d1b51a7c-92a5-4e75-8dbb-986a9470e3c9/svn/ryobi-power-drills-pcl201k1-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "341983915",
+   "brand": "Milwaukee",
+   "model": "2953-20-48-11-1850",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver with 5.0 Ah Battery",
+   "price": 348.0,
+   "original": 348.0,
+   "rating": 4.6769,
+   "reviews": 687,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/94755e211316855a.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/6291ca6a-3c9e-40c3-afd1-1c409b612c27/svn/milwaukee-impact-drivers-2953-20-48-11-1850-64_600.jpg",
+    "https://images.thdstatic.com/productImages/4b10ee4c-8172-42f7-b4af-463182fb7878/svn/milwaukee-impact-drivers-2953-20-48-11-1850-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "341983916",
+   "brand": "Milwaukee",
+   "model": "2953-20-48-11-1820",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver with 2.0 Ah Battery",
+   "price": 298.0,
+   "original": 298.0,
+   "rating": 4.6774,
+   "reviews": 682,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/8fc5a642a189ffea.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/8be89487-7cbc-43bb-919d-de5941aed82a/svn/milwaukee-impact-drivers-2953-20-48-11-1820-64_600.jpg",
+    "https://images.thdstatic.com/productImages/4b10ee4c-8172-42f7-b4af-463182fb7878/svn/milwaukee-impact-drivers-2953-20-48-11-1820-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "320326875",
+   "brand": "Milwaukee",
+   "model": "2953-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver (Tool-Only)",
+   "price": 179.0,
+   "original": 179.0,
+   "rating": 4.7195,
+   "reviews": 1547,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/57b17d7352633ea7.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/fa7d2462-8481-4bd3-8010-384a85aa902f/svn/milwaukee-impact-drivers-2953-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/4b10ee4c-8172-42f7-b4af-463182fb7878/svn/milwaukee-impact-drivers-2953-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills",
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "316629766",
+   "brand": "DEWALT",
+   "model": "DCF850P1",
+   "label": "ATOMIC 20V MAX Lithium-Ion Cordless 1/4 in. Brushless Impact Driver Kit, 5 Ah Battery, Charger, and Bag",
+   "price": 149.0,
+   "original": 219.0,
+   "rating": 4.6449,
+   "reviews": 1242,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/b9d1da2b0835c79d.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/37a70248-e169-4c56-bcd9-c2f0b55f94da/svn/dewalt-impact-drivers-dcf850p1-64_600.jpg",
+    "https://images.thdstatic.com/productImages/e031f5e0-3ec3-4b11-982d-3b3364fa195d/svn/dewalt-impact-drivers-dcf850p1-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "328103080",
+   "brand": "Milwaukee",
+   "model": "2953-20-2719-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver w/Hackzall",
+   "price": 199.0,
+   "original": 369.0,
+   "rating": 4.7576,
+   "reviews": 2393,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/3c1e119542ee38ec.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/b8e51467-77d9-45f1-852d-7c070239c821/svn/milwaukee-impact-drivers-2953-20-2719-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/46b3958f-5d54-41e1-9aa0-551c93334cad/svn/milwaukee-impact-drivers-2953-20-2719-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "330625472",
+   "brand": "Milwaukee",
+   "model": "3453-20-48-59-2420P",
+   "label": "M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver w/M12 Compact 2.0 Ah Battery (2-Pack) Starter Kit",
+   "price": 129.0,
+   "original": 339.0,
+   "rating": 4.6979,
+   "reviews": 374,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/5242634cf7d68b9f.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/7f953efd-cf36-4a09-aef3-99dda004bda4/svn/milwaukee-impact-drivers-3453-20-48-59-2420p-64_600.jpg",
+    "https://images.thdstatic.com/productImages/5a1063e9-7900-477e-b6e0-9fdcf3a8df29/svn/milwaukee-impact-drivers-3453-20-48-59-2420p-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "315994093",
+   "brand": "DEWALT",
+   "model": "DCF809D1",
+   "label": "Atomic 20V Max Lithium-Ion Brushless Cordless Compact 1/4 in. Impact Driver Kit with 2.0Ah Battery and Charger",
+   "price": 179.0,
+   "original": 179.0,
+   "rating": 4.6998,
+   "reviews": 826,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/8e0228a3e6c4e37b.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/20d400fa-0fdc-4378-a367-9c46a66aa809/svn/dewalt-impact-drivers-dcf809d1-64_600.jpg",
+    "https://images.thdstatic.com/productImages/2f06204d-7159-48b9-ab02-11c7f2c36de7/svn/dewalt-impact-drivers-dcf809d1-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "322138372",
+   "brand": "DEWALT",
+   "model": "DCD794D1",
+   "label": "Atomic 20V Lithium-Ion Cordless Compact 1/2 in. Drill/Driver Kit with 2.0Ah Battery and Charger",
+   "price": 179.0,
+   "original": 179.0,
+   "rating": 4.7287,
+   "reviews": 6048,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/e0e56c15f330795e.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/ec4d12b1-f7da-4e66-a702-1e325f4aeef1/svn/dewalt-power-drills-dcd794d1-64_600.jpg",
+    "https://images.thdstatic.com/productImages/a1c4c747-2b0d-4cd6-9f71-3494ba84061d/svn/dewalt-power-drills-dcd794d1-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "334337729",
+   "brand": "DEWALT",
+   "model": "DCD799P1",
+   "label": "ATOMIC 20V Lithium-Ion Cordless 1/2 in. Hammer Drill Kit with 5.0 Ah Battery and Charger",
+   "price": 149.0,
+   "original": 199.0,
+   "rating": 4.5926,
+   "reviews": 81,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/dc3e7500c8f47ee3.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/f10a8d8d-464b-4fcf-98ee-e97a5db2f59b/svn/dewalt-hammer-drills-dcd799p1-64_600.jpg",
+    "https://images.thdstatic.com/productImages/2c8ec11e-47b8-44a9-b6de-2d0ae35fe5b5/svn/dewalt-hammer-drills-dcd799p1-e4_600.jpg"
+   ],
+   "category": "Hammer Drills",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "315649179",
+   "brand": "DEWALT",
+   "model": "DCH416B",
+   "label": "FLEXVOLT 60V MAX Cordless 1-1/4 in. SDS Plus Rotary Hammer (Tool Only)",
+   "price": 499.0,
+   "original": 549.0,
+   "rating": 4.6559,
+   "reviews": 93,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/f9cac0f5d3c15852.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/77e0897d-7216-4d05-976c-345bb7489116/svn/dewalt-rotary-hammers-dch416b-64_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "316251424",
+   "brand": "DEWALT",
+   "model": "DCH172B",
+   "label": "ATOMIC 20V MAX Cordless Brushless Ultra-Compact 5/8 in. SDS Plus Hammer Drill (Tool Only)",
+   "price": 159.0,
+   "original": 219.0,
+   "rating": 4.4632,
+   "reviews": 665,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/7bc5504acdf746da.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/b5af4872-eaac-441c-a015-e5aa1862df90/svn/dewalt-hammer-drills-dch172b-64_600.jpg",
+    "https://images.thdstatic.com/productImages/d2531393-b029-4ffa-8dcd-0d7209f4b0ca/svn/dewalt-hammer-drills-dch172b-e4_600.jpg"
+   ],
+   "category": "Hammer Drills",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "328090914",
+   "brand": "Milwaukee",
+   "model": "2904-20-2953-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Hammer Drill/Driver w/1/4 in. Hex Impact Driver",
+   "price": 229.0,
+   "original": 399.0,
+   "rating": 4.6434,
+   "reviews": 1823,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/95c8603b9b9a7643.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/90a5374d-687b-4990-96dc-efd8432634a5/svn/milwaukee-hammer-drills-2904-20-2953-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/46b3958f-5d54-41e1-9aa0-551c93334cad/svn/milwaukee-hammer-drills-2904-20-2953-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "206319947",
+   "brand": "DEWALT",
+   "model": "DCH273B",
+   "label": "20V MAX XR Cordless Brushless 1 in. SDS Plus L-Shape Rotary Hammer (Tool Only)",
+   "price": 299.0,
+   "original": 349.0,
+   "rating": 4.6648,
+   "reviews": 367,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/c7a70bf653aa5692.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/df20c6c2-d802-4df9-8e38-455fa3f7c38d/svn/dewalt-rotary-hammers-dch273b-64_600.jpg",
+    "https://images.thdstatic.com/productImages/29a612d9-1d67-4391-89e9-091635eff7f6/svn/dewalt-rotary-hammers-dch273b-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "204279858",
+   "brand": "DEWALT",
+   "model": "DCD771C2",
+   "label": "20V MAX Cordless 1/2 in. Drill/Driver, (2) 20V 1.3Ah Batteries, Charger and Bag",
+   "price": 119.0,
+   "original": 119.0,
+   "rating": 4.6233,
+   "reviews": 11357,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/3362e43bc42baf8f.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/8c8e6b8d-5ee9-4577-9eab-4eada4a40444/svn/dewalt-power-drills-dcd771c2-64_600.jpg",
+    "https://images.thdstatic.com/productImages/26d5ac8e-18c5-4d42-bc9c-db5bc83a1c11/svn/dewalt-power-drills-dcd771c2-e4_600.jpg"
+   ],
+   "category": "Drills",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "315964402",
+   "brand": "Milwaukee",
+   "model": "2912-22",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless 1 in. Cordless SDS-Plus Rotary Hammer Kit with Two 6.0 Ah Batteries, Hard Case",
+   "price": 629.0,
+   "original": 629.0,
+   "rating": 4.7369,
+   "reviews": 574,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/b076401b3738b913.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/8485038a-2f56-494d-91b3-95f2fd6b5051/svn/milwaukee-rotary-hammers-2912-22-64_600.jpg",
+    "https://images.thdstatic.com/productImages/ae07fd08-156d-4866-808b-79af235a2c74/svn/milwaukee-rotary-hammers-2912-22-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "341578312",
+   "brand": "Milwaukee",
+   "model": "2912-22-2854-20",
+   "label": "M18 FUEL 18V Lith-Ion Brushless 1 in. Cordless SDS-Plus Rotary Hammer Kit w/ Two Batteries & 3/8 in. Impact Wrench",
+   "price": 849.0,
+   "original": 849.0,
+   "rating": 4.7363,
+   "reviews": 914,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/4bdd70bd043d617b.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/65e2e719-8400-4791-a24f-386acab7c2ec/svn/milwaukee-rotary-hammers-2912-22-2854-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/99b581c1-fc76-4c7a-b6a3-75b83ae339bc/svn/milwaukee-rotary-hammers-2912-22-2854-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "325543967",
+   "brand": "DEWALT",
+   "model": "DCF845B",
+   "label": "20V MAX XR Cordless Brushless 1/4 in. 3-Speed Impact Driver (Tool-Only)",
+   "price": 129.0,
+   "original": 169.0,
+   "rating": 4.6751,
+   "reviews": 197,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/1835f69046d02beb.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/e8605f92-8232-47c1-96aa-b44c018d02be/svn/dewalt-impact-drivers-dcf845b-64_600.jpg",
+    "https://images.thdstatic.com/productImages/cc3db5b8-fe52-4f9f-9774-0d2357d2ea2a/svn/dewalt-impact-drivers-dcf845b-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "329528442",
+   "brand": "DEWALT",
+   "model": "DCF860B",
+   "label": "20V MAX XR Cordless Impact Driver (Tool Only)",
+   "price": 199.0,
+   "original": 199.0,
+   "rating": 4.8371,
+   "reviews": 399,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/0334f92eadda9b16.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/7424e0dd-eb05-4287-a71c-3ff8891b2392/svn/dewalt-impact-drivers-dcf860b-64_600.jpg",
+    "https://images.thdstatic.com/productImages/399d0d13-3710-454c-96dc-db1b74fed394/svn/dewalt-impact-drivers-dcf860b-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "339673653",
+   "brand": "RYOBI",
+   "model": "FVD02K",
+   "label": "MICROTECH Electric Precision Screwdriver Kit with 4mm 50pc Bit Set, Tweezers, Pry Tool, USB-C Charging Cable, and Case",
+   "price": 49.97,
+   "original": 49.97,
+   "rating": 4.7297,
+   "reviews": 37,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/fe2144ee41be32e4.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/94c0c34d-c034-4108-a752-eca4b266d7bb/svn/ryobi-electric-screwdrivers-fvd02k-64_600.jpg",
+    "https://images.thdstatic.com/productImages/e3e66d1d-91cf-4352-b7dc-a692102554fb/svn/ryobi-electric-screwdrivers-fvd02k-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "309098738",
+   "brand": "Milwaukee",
+   "model": "2551-22",
+   "label": "M12 FUEL SURGE 12V Lithium-Ion Brushless Cordless 1/4 in. Hex Impact Driver Compact Kit w/Two 2.0Ah Batteries, Bag",
+   "price": 199.0,
+   "original": 199.0,
+   "rating": 4.7275,
+   "reviews": 1365,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/9c62d7698be8ef0c.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/d71ce920-bf6a-42f5-bbc9-36a398a66d45/svn/milwaukee-impact-drivers-2551-22-64_600.jpg",
+    "https://images.thdstatic.com/productImages/02ab5d4e-abcd-41ea-b9ea-8614cf90410b/svn/milwaukee-impact-drivers-2551-22-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-drills"
+   ]
+  },
+  {
+   "itemId": "327848850",
+   "brand": "RYOBI",
+   "model": "PSK108SB",
+   "label": "ONE+ 18V Lithium-Ion HIGH PERFORMANCE Starter Kit with 2.0 Ah Battery, (2) 4.0 Ah Batteries, and Charger",
+   "price": 361.97,
+   "original": 361.97,
+   "rating": 4.7074,
+   "reviews": 5157,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/a97446253e88a22f.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/3c73e9f3-7d21-4eb6-a72b-d26cd4a525b5/svn/ryobi-power-tool-batteries-psk108sb-64_600.jpg",
+    "https://images.thdstatic.com/productImages/14f6b12a-62bc-467e-b087-8ce7416061dc/svn/ryobi-power-tool-batteries-psk108sb-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "335743910",
+   "brand": "DEWALT",
+   "model": "DCB245-2C",
+   "label": "20V MAX Lithium-Ion Starter Kit with 4.0 Ah and 5.0 Ah Batteries and Charger",
+   "price": 299.0,
+   "original": 299.0,
+   "rating": 4.6556,
+   "reviews": 900,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/6e5aedf00a7312ad.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/50dc9fd4-b3e4-4e2f-b50b-05bdee744871/svn/dewalt-power-tool-batteries-dcb245-2c-64_600.jpg",
+    "https://images.thdstatic.com/productImages/85991b1a-6e5f-4647-9f32-ccee628164e6/svn/dewalt-power-tool-batteries-dcb245-2c-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "324869940",
+   "brand": "DEWALT",
+   "model": "DCKTS681D1P1",
+   "label": "20-Volt MAX ToughSystem Lithium-Ion 6-Tool Cordless Combo Kit",
+   "price": 620.98,
+   "original": 620.98,
+   "rating": 4.6233,
+   "reviews": 6911,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/e25be49a3a4670b0.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/a2012929-39e8-4a0d-b391-ee43b181b3b2/svn/dewalt-power-tool-combo-kits-dckts681d1p1-64_600.jpg",
+    "https://images.thdstatic.com/productImages/d12cdbb0-e780-4bfc-b853-92d031f74e85/svn/dewalt-power-tool-combo-kits-dckts681d1p1-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "320268525",
+   "brand": "Milwaukee",
+   "model": "3497-22",
+   "label": "M12 FUEL 12-Volt Lithium-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit w/2 Batteries and Bag (2-Tool)",
+   "price": 249.0,
+   "original": 249.0,
+   "rating": 4.7616,
+   "reviews": 3125,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/c25076b3a991375f.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/dd01350e-d8fd-4530-94be-b710147105df/svn/milwaukee-power-tool-combo-kits-3497-22-64_600.jpg",
+    "https://images.thdstatic.com/productImages/d182fba4-ff08-4c6c-8275-042c11cf3841/svn/milwaukee-power-tool-combo-kits-3497-22-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "317987591",
+   "brand": "RYOBI",
+   "model": "PCL1600K2",
+   "label": "ONE+ 18V Cordless 6-Tool Combo Kit with Compact Battery, 4.0 Ah Battery, and Charger",
+   "price": 349.0,
+   "original": 349.0,
+   "rating": 4.645,
+   "reviews": 9412,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/775f8441d055e0fc.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/b16b4743-d4cf-4c84-b731-5ccd3e2cc507/svn/ryobi-power-tool-combo-kits-pcl1600k2-64_600.jpg",
+    "https://images.thdstatic.com/productImages/61d45312-2b93-4219-bca3-bf94691c24f7/svn/ryobi-power-tool-combo-kits-pcl1600k2-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "300610594",
+   "brand": "DEWALT",
+   "model": "DCB609",
+   "label": "FLEXVOLT 20V/60V MAX Lithium-Ion 9.0Ah Battery",
+   "price": 259.0,
+   "original": 259.0,
+   "rating": 4.5539,
+   "reviews": 2293,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/46dc11feb4e9adfc.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/0a8be83f-d238-470b-bbb0-89bd6e5eae66/svn/dewalt-power-tool-batteries-dcb609-64_600.jpg",
+    "https://images.thdstatic.com/productImages/e4fc8f0a-a879-4140-a66e-a11d25a759e2/svn/dewalt-power-tool-batteries-dcb609-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "335106901",
+   "brand": "DEWALT",
+   "model": "DCB609C",
+   "label": "20V/60V MAX FLEXVOLT Lithium-Ion 9.0Ah Battery and Charger Starter Kit",
+   "price": 329.0,
+   "original": 329.0,
+   "rating": 4.6495,
+   "reviews": 1492,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/1fd2ae58c1edd35e.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/6d0f5f05-caaa-48b5-bd2e-6e9c550aeb5d/svn/dewalt-power-tool-batteries-dcb609c-64_600.jpg",
+    "https://images.thdstatic.com/productImages/48942edb-4edb-4ddc-8c97-9fc2f602a0e7/svn/dewalt-power-tool-batteries-dcb609c-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "207164349",
+   "brand": "DEWALT",
+   "model": "DCB606-2",
+   "label": "FLEXVOLT 20V/60V MAX Lithium-Ion 6.0Ah Battery Pack (2 Pack)",
+   "price": 199.0,
+   "original": 299.0,
+   "rating": 4.5679,
+   "reviews": 3117,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/a3ff3206e15aeb77.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/a78c1dc6-31e1-4d9a-88aa-258e7aad6f9a/svn/dewalt-power-tool-batteries-dcb606-2-64_600.jpg",
+    "https://images.thdstatic.com/productImages/3092c201-e023-4d64-ac51-8096d34d37a7/svn/dewalt-power-tool-batteries-dcb606-2-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "321639489",
+   "brand": "Milwaukee",
+   "model": "3497-22-2457-20",
+   "label": "M12 FUEL 12-Volt Li-Ion Brushless Cordless Hammer Drill and Impact Driver Combo Kit (2-Tool) with M12 3/8 in. Ratchet",
+   "price": 409.0,
+   "original": 409.0,
+   "rating": 4.6321,
+   "reviews": 3604,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/fb0a2c5a2658385b.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/079de0b8-c3d3-424f-a84a-931b7c31da1b/svn/milwaukee-power-tool-combo-kits-3497-22-2457-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/f0e4034a-fcfb-4a55-b2d3-58fbac335669/svn/milwaukee-power-tool-combo-kits-3497-22-2457-20-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "326201858",
+   "brand": "Milwaukee",
+   "model": "2967-20",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless 1/2 in. Impact Wrench with Friction Ring (Tool-Only)",
+   "price": 299.0,
+   "original": 299.0,
+   "rating": 4.7839,
+   "reviews": 3045,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/28a820d2c8e0a6a8.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/7977e5da-9061-4f80-a576-840130478567/svn/milwaukee-impact-wrenches-2967-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/ae91c67d-2dfe-401d-98af-d778e2711e05/svn/milwaukee-impact-wrenches-2967-20-e4_600.jpg"
+   ],
+   "category": "Impact Drivers",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "329792262",
+   "brand": "Milwaukee",
+   "model": "48-11-1813",
+   "label": "M18 18V Lithium-Ion REDLITHIUM FORGE HD 12.0 Ah Battery Pack",
+   "price": 279.0,
+   "original": 279.0,
+   "rating": 4.7753,
+   "reviews": 1460,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/848a200e161e547d.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/09ddef69-3c81-471d-9a67-56bc85926e35/svn/milwaukee-power-tool-batteries-48-11-1813-64_600.jpg",
+    "https://images.thdstatic.com/productImages/aa9f8900-12c7-4353-8a67-dc1281cfed2c/svn/milwaukee-power-tool-batteries-48-11-1813-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "330548599",
+   "brand": "Milwaukee",
+   "model": "0818-20",
+   "label": "M18 18-Volt Lithium-Ion Brushless Cordless PACKOUT Jobsite Fan (Tool-Only)",
+   "price": 149.0,
+   "original": 149.0,
+   "rating": 4.8854,
+   "reviews": 855,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/606729afc22e8546.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/1a06b7cd-9b5a-4ec4-b75f-932bdcabd642/svn/milwaukee-jobsite-fans-0818-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/3248ad54-0efb-4d9e-98f7-664fe9bd9259/svn/milwaukee-jobsite-fans-0818-20-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "320268545",
+   "brand": "Milwaukee",
+   "model": "48-11-2450",
+   "label": "M12 12-Volt Lithium-Ion XC High Output 5.0 Ah Battery Pack",
+   "price": 129.0,
+   "original": 129.0,
+   "rating": 4.6637,
+   "reviews": 8908,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/4cbeebade73d55f5.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/e9c9f908-1934-4361-ac6a-1de23f331478/svn/milwaukee-power-tool-batteries-48-11-2450-64_600.jpg",
+    "https://images.thdstatic.com/productImages/33aa6b84-2772-4a7f-b453-4d43f4011b3b/svn/milwaukee-power-tool-batteries-48-11-2450-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "326837362",
+   "brand": "RYOBI",
+   "model": "PBP2007-PBP004",
+   "label": "ONE+ HP 18V HIGH PERFORMANCE Lithium-Ion 6.0 Ah Battery (2-Pack) w/ ONE+ 18V 4.0 Ah Lithium-Ion HIGH PERFORMANCE Battery",
+   "price": 159.0,
+   "original": 407.0,
+   "rating": 4.7863,
+   "reviews": 351,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/5a96f839e410566d.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/c49c4d0d-1c40-4db6-bd9c-5b3d42e63a76/svn/ryobi-power-tool-batteries-pbp2007-pbp004-64_600.jpg",
+    "https://images.thdstatic.com/productImages/6f41936e-6fd6-494d-96be-8851ba74d87b/svn/ryobi-power-tool-batteries-pbp2007-pbp004-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "321850940",
+   "brand": "RYOBI",
+   "model": "PCL851K",
+   "label": "ONE+ 18V Cordless 7-1/2 in. Bucket Top Misting Fan Kit with Compact Battery and Charger",
+   "price": 84.0,
+   "original": 99.0,
+   "rating": 4.5833,
+   "reviews": 1956,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/0ffa60c74a2e9663.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/deb2590f-7fb8-4b91-98bc-7320916b5652/svn/ryobi-jobsite-fans-pcl851k-64_600.jpg",
+    "https://images.thdstatic.com/productImages/3f0cc027-c042-461a-ade2-cbe08e86f707/svn/ryobi-jobsite-fans-pcl851k-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "204512007",
+   "brand": "DEWALT",
+   "model": "DWE7491RS",
+   "label": "15 Amp Corded 10 in. Job Site Table Saw with Rolling Stand",
+   "price": 599.0,
+   "original": 649.0,
+   "rating": 4.68,
+   "reviews": 2934,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/fc7dc4c7d3d48af0.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/9582e40c-aa59-4109-9755-65f77a50d452/svn/dewalt-portable-table-saws-dwe7491rs-64_600.jpg",
+    "https://images.thdstatic.com/productImages/2f15ce54-ede5-4df6-8bca-9029037a375b/svn/dewalt-portable-table-saws-dwe7491rs-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "342880227",
+   "brand": "Milwaukee",
+   "model": "3692-28",
+   "label": "M18 18-Volt Lithium-Ion Cordless Combo Kit (8-Tool) with (2) Batteries Charger",
+   "price": 649.0,
+   "original": 1298.0,
+   "rating": 4.6859,
+   "reviews": 2601,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/79bf9440f3ce5586.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/981d3d48-7588-489a-ba3c-2feb51f8f83d/svn/milwaukee-power-tool-combo-kits-3692-28-64_600.jpg",
+    "https://images.thdstatic.com/productImages/5b7e9c4f-eeff-48e5-8b74-bbee13017e14/svn/milwaukee-power-tool-combo-kits-3692-28-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "323286483",
+   "brand": "Milwaukee",
+   "model": "3697-27",
+   "label": "M18 FUEL 18V Lithium-Ion Brushless Cordless Combo Kit with Two 5.0 Ah Batteries, 1 Charger, 2 Tool Bags (7-Tool)",
+   "price": 1249.0,
+   "original": 1249.0,
+   "rating": 4.7152,
+   "reviews": 2932,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/2f9857038f9762f7.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/6a8f7882-235c-4cae-adf4-93f9d04fca66/svn/milwaukee-power-tool-combo-kits-3697-27-64_600.jpg",
+    "https://images.thdstatic.com/productImages/90defdac-a9c1-431c-9d04-4b132172db08/svn/milwaukee-power-tool-combo-kits-3697-27-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "322138483",
+   "brand": "DEWALT",
+   "model": "DCK225D2",
+   "label": "ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) with (2) 2.0Ah Batteries, Charger and Bag",
+   "price": 249.0,
+   "original": 249.0,
+   "rating": 4.6914,
+   "reviews": 5156,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/40aac4754bbaa705.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/b66e045e-950c-4668-9af0-0fc3a38a4a99/svn/dewalt-power-tool-combo-kits-dck225d2-64_600.jpg",
+    "https://images.thdstatic.com/productImages/2ff76606-f319-4601-8074-d595ca6594fa/svn/dewalt-power-tool-combo-kits-dck225d2-e4_600.jpg"
+   ],
+   "category": "Power Tool Combo Kits",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "321488482",
+   "brand": "DEWALT",
+   "model": "DWS779",
+   "label": "15 Amp Corded 12 in. Double Bevel Sliding Compound Miter Saw, Blade Wrench and Material Clamp",
+   "price": 449.0,
+   "original": 629.0,
+   "rating": 4.7532,
+   "reviews": 4274,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/124ef8e457ff7912.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/fd12651a-dc98-47c4-a9a5-63405d43c8a3/svn/dewalt-miter-saws-dws779-64_600.jpg",
+    "https://images.thdstatic.com/productImages/b4a14028-d9f2-480c-8fa0-128a09d783ce/svn/dewalt-miter-saws-dws779-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  },
+  {
+   "itemId": "314292748",
+   "brand": "Milwaukee",
+   "model": "2836-20",
+   "label": "M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool (Tool-Only)",
+   "price": 249.0,
+   "original": 249.0,
+   "rating": 4.718,
+   "reviews": 4426,
+   "canonicalUrl": null,
+   "storeSku": null,
+   "thumb": "/static/assets/catalog/26cda551516c3748.jpg",
+   "images": [
+    "https://images.thdstatic.com/productImages/6eff1fc0-5c80-49fe-b7dd-7339d2e61617/svn/milwaukee-oscillating-tools-2836-20-64_600.jpg",
+    "https://images.thdstatic.com/productImages/ae91c67d-2dfe-401d-98af-d778e2711e05/svn/milwaukee-oscillating-tools-2836-20-e4_600.jpg"
+   ],
+   "category": "Power Tools",
+   "sources": [
+    "plp-tools"
+   ]
+  }
+ ],
+ "demo_account": {
+  "email": "demo.shopper@example.test",
+  "first_name": "Jordan",
+  "last_name": "Reyes",
+  "phone": "7165550142",
+  "password": "HomeDepotDemo!2026"
+ },
+ "seed_orders": [
+  {
+   "order_number": "WD12345678",
+   "status": "Ready for Pickup",
+   "placed": "2026-08-15",
+   "store": "1287",
+   "fulfillment": "pickup",
+   "items": [
+    {
+     "itemId": "320326787",
+     "qty": 1
+    }
+   ]
+  },
+  {
+   "order_number": "WD12340001",
+   "status": "Completed",
+   "placed": "2026-07-28",
+   "store": "1287",
+   "fulfillment": "pickup",
+   "items": [
+    {
+     "itemId": "204632932",
+     "qty": 1
+    }
+   ]
+  }
+ ],
+ "seed_lists": [
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "itemId": "320326787"
+    }
+   ]
+  }
+ ]
+}

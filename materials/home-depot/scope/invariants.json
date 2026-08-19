@@ -1,0 +1,129 @@
+{
+ "schema_version": "offline-clone.invariants.v1",
+ "status": "frozen",
+ "invariants": [
+  {
+   "id": "offline-closure",
+   "statement": "No shipped page issues a runtime request to any remote origin.",
+   "priority": "p0",
+   "journey_ids": [
+    "e2e.535.search-pickup-order",
+    "browse.category",
+    "search.keyword-filter",
+    "pdp.inspect",
+    "cart.manage",
+    "checkout.payment"
+   ],
+   "coverage_dimension_ids": [
+    "source-anonymous-states"
+   ],
+   "acceptance_obligations": [
+    "Positive test(s) pass: clone/tests/test_no_remote_refs.py::test_all_pages_zero_runtime_remote_refs"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_no_remote_refs.py::test_all_pages_zero_runtime_remote_refs"
+   ],
+   "negative_test_refs": []
+  },
+  {
+   "id": "cart-totals",
+   "statement": "Cart subtotal+tax equals the source-observed total ($399 -> $430.92 for the anchor SKU).",
+   "priority": "p0",
+   "journey_ids": [
+    "cart.manage",
+    "checkout.payment",
+    "e2e.535.search-pickup-order"
+   ],
+   "coverage_dimension_ids": [
+    "p0-journeys"
+   ],
+   "acceptance_obligations": [
+    "Positive test(s) pass: clone/tests/test_catalog_and_cart.py::test_535_add_to_cart_and_totals"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_catalog_and_cart.py::test_535_add_to_cart_and_totals"
+   ],
+   "negative_test_refs": []
+  },
+  {
+   "id": "cart-qty-limit",
+   "statement": "Cart enforces the source 'Limit 3 per order' clamp.",
+   "priority": "p0",
+   "journey_ids": [
+    "cart.manage"
+   ],
+   "coverage_dimension_ids": [
+    "p0-journeys"
+   ],
+   "acceptance_obligations": [
+    "Positive test(s) pass: clone/tests/test_catalog_and_cart.py::test_cart_qty_limit_three"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_catalog_and_cart.py::test_cart_qty_limit_three"
+   ],
+   "negative_test_refs": []
+  },
+  {
+   "id": "checkout-payment-boundary",
+   "statement": "Checkout accepts only an opaque local-sandbox scenario; any card/credential field fails closed.",
+   "priority": "p0",
+   "journey_ids": [
+    "checkout.payment",
+    "e2e.535.search-pickup-order"
+   ],
+   "coverage_dimension_ids": [
+    "p0-journeys"
+   ],
+   "acceptance_obligations": [
+    "Positive test(s) pass: clone/tests/test_catalog_and_cart.py::test_checkout_rejects_payment_fields"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_catalog_and_cart.py::test_checkout_rejects_payment_fields"
+   ],
+   "negative_test_refs": []
+  },
+  {
+   "id": "order-atomicity",
+   "statement": "An approved checkout creates exactly one order reflecting the requested SKU/qty/pickup and totals; declined creates none.",
+   "priority": "p0",
+   "journey_ids": [
+    "checkout.payment",
+    "e2e.535.search-pickup-order"
+   ],
+   "coverage_dimension_ids": [
+    "p0-journeys"
+   ],
+   "acceptance_obligations": [
+    "Positive test(s) pass: clone/tests/test_catalog_and_cart.py::test_535_checkout_approved_creates_order, clone/tests/test_catalog_and_cart.py::test_checkout_declined_then_retry"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_catalog_and_cart.py::test_535_checkout_approved_creates_order",
+    "clone/tests/test_catalog_and_cart.py::test_checkout_declined_then_retry"
+   ],
+   "negative_test_refs": []
+  },
+  {
+   "id": "deterministic-reset",
+   "statement": "Reset clears cart/orders and restores the frozen seed orders/lists exactly.",
+   "priority": "p0",
+   "journey_ids": [
+    "e2e.535.search-pickup-order",
+    "browse.category",
+    "search.keyword-filter",
+    "pdp.inspect",
+    "cart.manage",
+    "checkout.payment"
+   ],
+   "coverage_dimension_ids": [
+    "p0-journeys"
+   ],
+   "acceptance_obligations": [
+    "Positive test(s) pass: clone/tests/test_backend_lifecycle.py::test_reset_is_deterministic"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_backend_lifecycle.py::test_reset_is_deterministic"
+   ],
+   "negative_test_refs": []
+  }
+ ]
+}
