@@ -5,8 +5,9 @@
   tasks (T01–T23) implemented and browser-verified end-to-end
 - Current reference: `references/08-deploy.md`
 - Next reference: none
-- Worktree disposition: working tree on `main`, **uncommitted**; no commit,
-  push, pull request, workflow dispatch or deployment was performed.
+- Worktree disposition: committed on branch `add-home-depot` and submitted as
+  PR #5 (`iamtonymwt:add-home-depot` → `tuxyw123/websitebench-pipeline:main`);
+  no workflow dispatch or deployment was performed.
 
 ## Authorization ceiling
 
