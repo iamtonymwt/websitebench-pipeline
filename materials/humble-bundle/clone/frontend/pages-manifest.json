@@ -1,0 +1,152 @@
+{
+  "about": {
+    "file": "pages/about.html",
+    "route": "/about",
+    "source_cell": "static/about/desktop/dom.html",
+    "title": "About Humble"
+  },
+  "accessibility": {
+    "file": "pages/accessibility.html",
+    "route": "/accessibility",
+    "source_cell": "static/accessibility/desktop/dom.html",
+    "title": "Humble Bundle Accessibility"
+  },
+  "books": {
+    "file": "pages/books.html",
+    "route": "/books",
+    "source_cell": "static/books/desktop/dom.html",
+    "title": "Books"
+  },
+  "bundle-2k": {
+    "file": "pages/bundle-2k.html",
+    "route": "/games/2k-megahits-2026-bundle",
+    "source_cell": "static/bundle-2k/desktop/dom.html",
+    "title": "2K Megahits 2026 Bundle (pay what you want and help charity)"
+  },
+  "bundle-anchor": {
+    "file": "pages/bundle-anchor.html",
+    "route": "/games/yes-chef-cooking-bundle",
+    "source_cell": "static/bundle-anchor/desktop/dom.html",
+    "title": "Yes Chef! - Cooking Bundle (pay what you want and help charity)"
+  },
+  "bundles": {
+    "file": "pages/bundles.html",
+    "route": "/bundles",
+    "source_cell": "static/bundles/desktop/dom.html",
+    "title": "All Bundles"
+  },
+  "charities": {
+    "file": "pages/charities.html",
+    "route": "/charities",
+    "source_cell": "static/charities/desktop/dom.html",
+    "title": "Humble Charity"
+  },
+  "cookie-policy": {
+    "file": "pages/cookie-policy.html",
+    "route": "/cookie-policy",
+    "source_cell": "static/cookie-policy/desktop/dom.html",
+    "title": "Cookie Policy"
+  },
+  "games": {
+    "file": "pages/games.html",
+    "route": "/games",
+    "source_cell": "static/games/desktop/dom.html",
+    "title": "Games"
+  },
+  "home": {
+    "file": "pages/home.html",
+    "route": "/",
+    "source_cell": "static/home/desktop/dom.html",
+    "title": "Humble Bundle | game bundles, book bundles, software bundles, and more"
+  },
+  "legal": {
+    "file": "pages/legal.html",
+    "route": "/legal",
+    "source_cell": "static/legal/desktop/dom.html",
+    "title": "Legal Notices"
+  },
+  "login": {
+    "file": "pages/login.html",
+    "route": "/login",
+    "source_cell": "static/login/desktop/dom.html",
+    "title": "Humble Bundle - Log In"
+  },
+  "membership": {
+    "file": "pages/membership.html",
+    "route": "/membership",
+    "source_cell": "static/membership/desktop/dom.html",
+    "title": "Humble Choice | Humble Bundle"
+  },
+  "notfound-404": {
+    "file": "pages/notfound-404.html",
+    "route": "404-handler",
+    "source_cell": "static/notfound-404/desktop/dom.html",
+    "title": "404 Page Not Found | Humble Bundle"
+  },
+  "privacy": {
+    "file": "pages/privacy.html",
+    "route": "/privacy",
+    "source_cell": "static/privacy/desktop/dom.html",
+    "title": "Privacy Policy"
+  },
+  "signup": {
+    "file": "pages/signup.html",
+    "route": "/signup",
+    "source_cell": "static/signup/desktop/dom.html",
+    "title": "Humble Bundle - Sign up"
+  },
+  "software": {
+    "file": "pages/software.html",
+    "route": "/software",
+    "source_cell": "static/software/desktop/dom.html",
+    "title": "Software"
+  },
+  "store": {
+    "file": "pages/store.html",
+    "route": "/store",
+    "source_cell": "static/store/desktop/dom.html",
+    "title": "The Humble Store: Great games. Fantastic prices. Support charity."
+  },
+  "store-product-satisfactory": {
+    "file": "pages/store-product-satisfactory.html",
+    "route": "/store/satisfactory",
+    "source_cell": "static/store-product-satisfactory/desktop/dom.html",
+    "title": "Buy Satisfactory from the Humble Store and save 30%"
+  },
+  "store-search": {
+    "file": "pages/store-search.html",
+    "route": "/store/search",
+    "source_cell": "static/store-search/desktop/dom.html",
+    "title": "\"portal\"   | The Humble Store"
+  },
+  "store-search-noresults": {
+    "file": "pages/store-search-noresults.html",
+    "route": "/store/search?search=zzzz-no-match-websitebench",
+    "source_cell": "static/store-search-noresults/desktop/dom.html",
+    "title": "\"zzzz-no-match-websitebench\"   | The Humble Store"
+  },
+  "support-article": {
+    "file": "pages/support-article.html",
+    "route": "/support/articles/52764568066971",
+    "source_cell": "interactive/support-article/dom.html",
+    "title": "Freedom to Create with COREL Graphics Suite 2025 - Redemption Instructions – Humble Bundle"
+  },
+  "support-category": {
+    "file": "pages/support-category.html",
+    "route": "/support/categories/200166394",
+    "source_cell": "interactive/support-category/dom.html",
+    "title": "Key Redemption – Humble Bundle"
+  },
+  "support-home": {
+    "file": "pages/support-home.html",
+    "route": "/support",
+    "source_cell": "interactive/support-home/dom.html",
+    "title": "Humble Bundle"
+  },
+  "terms": {
+    "file": "pages/terms.html",
+    "route": "/terms",
+    "source_cell": "static/terms/desktop/dom.html",
+    "title": "Terms of Service"
+  }
+}

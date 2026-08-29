@@ -1,0 +1,4800 @@
+{
+ "userOptions": {
+  "is_logged_in": false,
+  "logout_url": "/logout?goto=/games/shantae-heroic-heroines&qs="
+ },
+ "showSingleSignOn": true,
+ "debug": false,
+ "ipInChina": false,
+ "isEuCountry": false,
+ "baseSubscriptionPrice|money": {
+  "currency": "CAD",
+  "amount": 17.99
+ },
+ "bannerOptions": null,
+ "exchangeRates": {
+  "USD|decimal": 1.0,
+  "AUD|decimal": 1.4072425306052565,
+  "CHF|decimal": 0.7989898125160517,
+  "IDR|decimal": 17796.952315726394,
+  "KRW|decimal": 1396.353051964729,
+  "CNY|decimal": 6.723568187655166,
+  "ISK|decimal": 121.56493450903176,
+  "ILS|decimal": 2.9920383528807464,
+  "GBP|decimal": 0.7338840852666724,
+  "NZD|decimal": 1.682818251861998,
+  "DKK|decimal": 6.399965756356476,
+  "CAD|decimal": 1.3770225151956168,
+  "TRY|decimal": 47.953514253916616,
+  "HUF|decimal": 312.55885626230634,
+  "PHP|decimal": 61.727591815769195,
+  "RON|decimal": 4.495762349113946,
+  "NOK|decimal": 9.333533087920555,
+  "RUB|decimal": 117.201,
+  "ZAR|decimal": 16.17404331820906,
+  "MYR|decimal": 4.044003081927917,
+  "MXN|decimal": 16.99058299803099,
+  "INR|decimal": 95.70969951202808,
+  "THB|decimal": 32.914990154952484,
+  "JPY|decimal": 158.7620922866193,
+  "CZK|decimal": 20.677168050680592,
+  "BRL|decimal": 5.19356219501755,
+  "PLN|decimal": 3.697286191250749,
+  "EUR|decimal": 0.8560910880917729,
+  "SEK|decimal": 9.491909939217532,
+  "SGD|decimal": 1.2721513569043745,
+  "HKD|decimal": 7.843848985532061
+ },
+ "csrfTokenInput": "REDACTED-CSRF-TOKEN",
+ "csrfToken": "REDACTED-CSRF-TOKEN",
+ "user_max_reward_amount": 0,
+ "csrfFormKey": "REDACTED-CSRF-TOKEN",
+ "bundleData": {
+  "machine_name": "shantaeheroicheroines_bundle",
+  "jplayer_swf_path": "https://cdn.humblebundle.com/static/hashed/682bac84e8df7e444ab9127ce8e22f626caf0e41.swf",
+  "at_risk_tpkds": {},
+  "tier_display_data": {
+   "bt10": {
+    "header": "Pay CA$13.92 or more to also unlock!",
+    "identifier": "bt10",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "shantae_piratescurse",
+     "rwby_arrowfell",
+     "mightyswitchforce_collection",
+     "shantae_riskysrevenge",
+     "spidersaurs",
+     "mightyswitchforcehoseitdown",
+     "shantaeadvance_riskyrevolutiondeluxeedition25percentoffcoupon"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "initial": {
+    "header": "Pay CA$6.96 to unlock!",
+    "identifier": "initial",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "shantae_riskysrevenge",
+     "spidersaurs",
+     "mightyswitchforcehoseitdown",
+     "shantaeadvance_riskyrevolutiondeluxeedition25percentoffcoupon"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "bt15": {
+    "header": "Pay CA$20.88 or more to also unlock!",
+    "identifier": "bt15",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "shantae_halfgeniehero_ultimateedition",
+     "shantaeandthesevensirens",
+     "rivercitygirls",
+     "shantae_piratescurse",
+     "rwby_arrowfell",
+     "mightyswitchforce_collection",
+     "shantae_riskysrevenge",
+     "spidersaurs",
+     "mightyswitchforcehoseitdown",
+     "shantaeadvance_riskyrevolutiondeluxeedition25percentoffcoupon"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   }
+  },
+  "tier_order": [
+   "bt15",
+   "bt10",
+   "initial"
+  ],
+  "is_all_charity_bundle": false,
+  "author": "WayForward",
+  "tax_type": null,
+  "preset_prices": [
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 6.96
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 13.92
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt10"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 20.88
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt15"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 30.0
+    },
+    "suggested": true,
+    "qualifying_tier_id": "bt15"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 35.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt15"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 40.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt15"
+   }
+  ],
+  "cyoc_data": {},
+  "average_data": {
+   "average_usd_amount|decimal": 15.874878378470902,
+   "average_usd_string": "15.87487837847090087702919027",
+   "avguuid": "pcthl5KYHZpQ5LXV",
+   "cleanavg": "15.87",
+   "average_usd|money": {
+    "currency": "USD",
+    "amount": 15.874878378470902
+   },
+   "average|money": {
+    "currency": "CAD",
+    "amount": 21.86
+   },
+   "avghash": "+FhjdtKrR7AeRMltEtTFO4R7jXx46BJWEmmnYbdTjao="
+  },
+  "leaderboard_data": [
+   {
+    "name": "DillonAD",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 35.0
+    }
+   },
+   {
+    "name": "JillAstra",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "LTen",
+    "order_price|money": {
+     "currency": "AUD",
+     "amount": 35.0
+    }
+   },
+   {
+    "name": "Akuma M",
+    "order_price|money": {
+     "currency": "CAD",
+     "amount": 30.0
+    }
+   },
+   {
+    "name": "coolnik1221",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 20.0
+    }
+   },
+   {
+    "name": "Timmy",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 17.0
+    }
+   },
+   {
+    "name": "William",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 16.23
+    }
+   },
+   {
+    "name": "Arn",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 16.23
+    }
+   },
+   {
+    "name": "Unartiggeist",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 16.0
+    }
+   }
+  ],
+  "empty_tpkds": {},
+  "at_time|datetime": "2026-08-21T00:02:29.717521",
+  "basic_data": {
+   "eula": null,
+   "split_disclaimer": null,
+   "currency": "CAD",
+   "giving_fund": "ppgf",
+   "logo": "https://hb.imgix.net/ec50877f873a62bd36758d7371533216f233893c.png?auto=compress,format&h=340&w=1200&s=ec16d5913c7a890143df88d60d6fb5e1",
+   "disallowed_payment_processors": [],
+   "newsletter_mailing_list_machine_name": "bundle_emails",
+   "supports_partners": true,
+   "detailed_marketing_blurb": "Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in <em>Shantae and the Seven Sirens</em>! Save Sequin Land from a rampant crime wave with <em>Shantae: Half-Genie Hero Ultimate Edition</em>, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in <em>Shantae and the Pirate\u2019s Curse</em>! Plus, have even more fun with the schoolgirl warriors of <em>River City Girls</em> and the law-abiding citizens of <em>Mighty Switch Force</em>! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 7th, 2027. </span> ",
+   "order_form_disclaimer": null,
+   "media_type": "game",
+   "description": "<p><strong>Half-genie, big adventures!</strong> Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in <em>Shantae and the Seven Sirens</em>! Save Sequin Land from a rampant crime wave with <em>Shantae: Half-Genie Hero Ultimate Edition</em>, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in <em>Shantae and the Pirate\u2019s Curse</em>! Plus, have even more fun with the schoolgirl warriors of <em>River City Girls</em> and the law-abiding citizens of <em>Mighty Switch Force</em>! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!</p>\n<p><strong>Pay CA$6.96 or more.</strong> Normally, the total cost for the games in this bundle is as much as US$192. Here at Humble Bundle, you choose the price and increase your contribution to upgrade your bundle! This bundle has a minimum CA$6.96 purchase. Pay CA$6.96 or more to access Steam keys.</p>\n<p><strong>Redeem on Steam.</strong> All of the games in this bundle are available on Steam for Windows.</p>\n<p><strong>Support charity.</strong> Choose where the money goes - between the developers and to support Dames 4 Games. If you like what we do, you can leave us a Humble Tip too!</p>",
+   "legal_disclaimer": null,
+   "page_title_tag": "",
+   "short_marketing_blurb": "Half-genie, big adventures!",
+   "required_account_links": [
+    "steam"
+   ],
+   "require_linked_third_party_account_when": "only-when-free",
+   "region_lock_warnings": {},
+   "youtube_video_key": null,
+   "twitch_data": {},
+   "allowed_payment_processors": [
+    "free",
+    "paypal",
+    "alipay",
+    "alipay_payment_intent",
+    "stripe_checkout",
+    "stripe_payment_intent"
+   ],
+   "end_time|datetime": "2026-09-08T04:00:00",
+   "msrp|money": {
+    "currency": "CAD",
+    "amount": 264.3883229175584
+   },
+   "human_name": "Shantae & Heroic Heroines",
+   "tpkd_cutoff_price|money": {
+    "currency": "CAD",
+    "amount": 6.96
+   }
+  },
+  "tier_pricing_data": {
+   "bt10": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 13.92
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 21.86
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt10",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "initial": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 6.96
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 21.86
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": true,
+    "identifier": "initial",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "bt15": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 20.88
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 21.86
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt15",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   }
+  },
+  "partner_data": null,
+  "other_bundles_data": [
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/gregbearbirthdaybundleopenroadmedia_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       324.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$324"
+    },
+    "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=576eb764f980a4edc4ff65123ee0224e",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em></em>, <em></em>, <em>Anvil of Stars</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/greg-bear-birthday-bundle-open-road-media-books",
+    "tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=353&w=616&s=73a07b9e661f143511f78cc6f714eba4",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        2.78,
+        "EUR"
+       ],
+       "FR": [
+        2.77,
+        "EUR"
+       ],
+       "BG": [
+        3.15,
+        "EUR"
+       ],
+       "DK": [
+        3.28,
+        "EUR"
+       ],
+       "HR": [
+        2.76,
+        "EUR"
+       ],
+       "DE": [
+        2.81,
+        "EUR"
+       ],
+       "JP": [
+        3.3,
+        "USD"
+       ],
+       "HU": [
+        3.34,
+        "EUR"
+       ],
+       "US": [
+        3.0,
+        "USD"
+       ],
+       "FI": [
+        2.89,
+        "EUR"
+       ],
+       "BY": [
+        3.54,
+        "USD"
+       ],
+       "GR": [
+        2.78,
+        "EUR"
+       ],
+       "RU": [
+        383.56,
+        "RUB"
+       ],
+       "NL": [
+        2.86,
+        "EUR"
+       ],
+       "PT": [
+        2.78,
+        "EUR"
+       ],
+       "NO": [
+        2.63,
+        "EUR"
+       ],
+       "TW": [
+        3.15,
+        "USD"
+       ],
+       "TR": [
+        141.09,
+        "TRY"
+       ],
+       "NZ": [
+        5.92,
+        "NZD"
+       ],
+       "LV": [
+        2.76,
+        "EUR"
+       ],
+       "LT": [
+        2.86,
+        "EUR"
+       ],
+       "LU": [
+        2.7,
+        "EUR"
+       ],
+       "TH": [
+        3.0,
+        "USD"
+       ],
+       "PH": [
+        185.06,
+        "PHP"
+       ],
+       "RO": [
+        2.76,
+        "EUR"
+       ],
+       "IS": [
+        3.33,
+        "USD"
+       ],
+       "PL": [
+        2.76,
+        "EUR"
+       ],
+       "CH": [
+        2.69,
+        "EUR"
+       ],
+       "MT": [
+        2.76,
+        "EUR"
+       ],
+       "CN": [
+        20.32,
+        "CNY"
+       ],
+       "CL": [
+        3.57,
+        "USD"
+       ],
+       "EE": [
+        2.86,
+        "EUR"
+       ],
+       "EG": [
+        3.42,
+        "USD"
+       ],
+       "IT": [
+        2.73,
+        "EUR"
+       ],
+       "ZA": [
+        3.45,
+        "USD"
+       ],
+       "CZ": [
+        2.63,
+        "EUR"
+       ],
+       "CY": [
+        3.12,
+        "EUR"
+       ],
+       "AU": [
+        4.71,
+        "AUD"
+       ],
+       "GB": [
+        2.23,
+        "GBP"
+       ],
+       "IN": [
+        3.54,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        2.23,
+        "GBP"
+       ],
+       "IE": [
+        2.63,
+        "EUR"
+       ],
+       "ES": [
+        2.73,
+        "EUR"
+       ],
+       "MD": [
+        3.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        2.63,
+        "EUR"
+       ],
+       "UA": [
+        3.6,
+        "USD"
+       ],
+       "CA": [
+        4.22,
+        "CAD"
+       ],
+       "SK": [
+        3.23,
+        "EUR"
+       ],
+       "KR": [
+        3.3,
+        "USD"
+       ],
+       "SI": [
+        2.76,
+        "EUR"
+       ],
+       "SG": [
+        3.27,
+        "USD"
+       ],
+       "MX": [
+        3.48,
+        "USD"
+       ],
+       "SE": [
+        2.78,
+        "EUR"
+       ],
+       "AT": [
+        2.89,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        9.28,
+        "EUR"
+       ],
+       "FR": [
+        9.24,
+        "EUR"
+       ],
+       "BG": [
+        10.51,
+        "EUR"
+       ],
+       "DK": [
+        10.95,
+        "EUR"
+       ],
+       "HR": [
+        9.19,
+        "EUR"
+       ],
+       "DE": [
+        9.37,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        11.12,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        9.63,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        9.28,
+        "EUR"
+       ],
+       "RU": [
+        1278.55,
+        "RUB"
+       ],
+       "NL": [
+        9.54,
+        "EUR"
+       ],
+       "PT": [
+        9.28,
+        "EUR"
+       ],
+       "NO": [
+        8.76,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        470.31,
+        "TRY"
+       ],
+       "NZ": [
+        19.76,
+        "NZD"
+       ],
+       "LV": [
+        9.19,
+        "EUR"
+       ],
+       "LT": [
+        9.54,
+        "EUR"
+       ],
+       "LU": [
+        9.02,
+        "EUR"
+       ],
+       "TH": [
+        10.0,
+        "USD"
+       ],
+       "PH": [
+        616.87,
+        "PHP"
+       ],
+       "RO": [
+        9.19,
+        "EUR"
+       ],
+       "IS": [
+        11.1,
+        "USD"
+       ],
+       "PL": [
+        9.19,
+        "EUR"
+       ],
+       "CH": [
+        8.98,
+        "EUR"
+       ],
+       "MT": [
+        9.19,
+        "EUR"
+       ],
+       "CN": [
+        67.74,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        9.54,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        9.11,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        8.76,
+        "EUR"
+       ],
+       "CY": [
+        10.42,
+        "EUR"
+       ],
+       "AU": [
+        15.75,
+        "AUD"
+       ],
+       "GB": [
+        7.46,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.46,
+        "GBP"
+       ],
+       "IE": [
+        8.76,
+        "EUR"
+       ],
+       "ES": [
+        9.11,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.76,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        14.07,
+        "CAD"
+       ],
+       "SK": [
+        10.77,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        9.19,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        9.28,
+        "EUR"
+       ],
+       "AT": [
+        9.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt18",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.72,
+        "EUR"
+       ],
+       "FR": [
+        16.64,
+        "EUR"
+       ],
+       "BG": [
+        18.93,
+        "EUR"
+       ],
+       "DK": [
+        19.72,
+        "EUR"
+       ],
+       "HR": [
+        16.56,
+        "EUR"
+       ],
+       "DE": [
+        16.88,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        20.04,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.72,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.2,
+        "EUR"
+       ],
+       "PT": [
+        16.72,
+        "EUR"
+       ],
+       "NO": [
+        15.78,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.56,
+        "TRY"
+       ],
+       "NZ": [
+        35.58,
+        "NZD"
+       ],
+       "LV": [
+        16.56,
+        "EUR"
+       ],
+       "LT": [
+        17.2,
+        "EUR"
+       ],
+       "LU": [
+        16.25,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1110.37,
+        "PHP"
+       ],
+       "RO": [
+        16.56,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.56,
+        "EUR"
+       ],
+       "CH": [
+        16.19,
+        "EUR"
+       ],
+       "MT": [
+        16.56,
+        "EUR"
+       ],
+       "CN": [
+        121.93,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.2,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.41,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.78,
+        "EUR"
+       ],
+       "CY": [
+        18.77,
+        "EUR"
+       ],
+       "AU": [
+        28.34,
+        "AUD"
+       ],
+       "GB": [
+        13.42,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.42,
+        "GBP"
+       ],
+       "IE": [
+        15.78,
+        "EUR"
+       ],
+       "ES": [
+        16.41,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.78,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.33,
+        "CAD"
+       ],
+       "SK": [
+        19.4,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.56,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.72,
+        "EUR"
+       ],
+       "AT": [
+        17.35,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt18_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$324 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$324."
+     },
+     {
+      "heading": "Pay AU$4.71 or more",
+      "tooltip": "Name your price of AU$4.71 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub and PRC file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T18:00:00",
+    "author": "Open Road Media",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "The world of science fiction lost a titan when novelist Greg Bear passed away in 2022, but his books remain a perfect example of exactly what sci-fi was always meant to be. Author of over 50 books and co-founder of San Diego Comic Con, Bear made loving sci-fi into a career that spanned five decades. His work, which tested the limits of human (and non-human) consciousness and looked toward the far future and beyond, inspires and excites readers to this day. To celebrate what would have been Greg Bear\u2019s 75th Birthday, in partnership with Open Road Media, we\u2019ve collected a bundle of his best novels including award-winning classics like first contact thriller <em>Eon</em>, alien invasion drama <em>The Forge of God</em>, and post-apocalyptic space odyssey <em>Anvil of Stars</em>! Get a motherlode of some of the best sci-fi ever written for the price of your choosing, and support the Science Fiction & Fantasy Writers Association with your purchase!",
+    "tile_logo": "https://hb.imgix.net/ec343992eae9f55f52c94db55a21017493a1db5e.png?auto=compress,format&h=340&w=1200&s=de401b9bb65fa73cf486e75484327755",
+    "tile_short_name": "The Greg Bear Birthday Bundle by Open Road Media",
+    "start_date|datetime": "2026-08-20T18:00:00",
+    "hover_highlights": [
+     "27 books",
+     "US$324 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Greg Bear Birthday Bundle by Open Road Media",
+    "short_marketing_blurb": "Celebrate the birthday of one of sci-fi\u2019s masters",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "27 books",
+     "US$324 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/yeschefcookingbundle_bundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       208.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$208"
+    },
+    "machine_name": "yeschefcookingbundle_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=cd648c330733cbf4e8ae61aeaccacfe2",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Chef Knight</em>, <em>Pizza Possum</em>, <em>The Chef's Shift</em>, <em>Tailside: Cozy Cafe Sim</em>, <em>Tavern Manager Simulator</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/yes-chef-cooking-bundle",
+    "tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e6118af1c71a67d3aa9db97b9ade14d3",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        7.32,
+        "EUR"
+       ],
+       "FR": [
+        7.26,
+        "EUR"
+       ],
+       "BG": [
+        7.26,
+        "EUR"
+       ],
+       "DK": [
+        7.56,
+        "EUR"
+       ],
+       "HR": [
+        7.56,
+        "EUR"
+       ],
+       "DE": [
+        7.19,
+        "EUR"
+       ],
+       "JP": [
+        7.7,
+        "USD"
+       ],
+       "HU": [
+        7.68,
+        "EUR"
+       ],
+       "US": [
+        7.0,
+        "USD"
+       ],
+       "FI": [
+        7.59,
+        "EUR"
+       ],
+       "BY": [
+        8.26,
+        "USD"
+       ],
+       "GR": [
+        7.5,
+        "EUR"
+       ],
+       "RU": [
+        957.13,
+        "RUB"
+       ],
+       "NL": [
+        7.32,
+        "EUR"
+       ],
+       "PT": [
+        7.44,
+        "EUR"
+       ],
+       "NO": [
+        7.56,
+        "EUR"
+       ],
+       "TW": [
+        7.35,
+        "USD"
+       ],
+       "TR": [
+        335.19,
+        "TRY"
+       ],
+       "NZ": [
+        13.66,
+        "NZD"
+       ],
+       "LV": [
+        7.32,
+        "EUR"
+       ],
+       "LT": [
+        7.13,
+        "EUR"
+       ],
+       "LU": [
+        7.07,
+        "EUR"
+       ],
+       "TH": [
+        7.49,
+        "USD"
+       ],
+       "PH": [
+        429.71,
+        "PHP"
+       ],
+       "RO": [
+        7.01,
+        "EUR"
+       ],
+       "IS": [
+        8.68,
+        "USD"
+       ],
+       "PL": [
+        7.44,
+        "EUR"
+       ],
+       "CH": [
+        6.54,
+        "EUR"
+       ],
+       "MT": [
+        7.13,
+        "EUR"
+       ],
+       "CN": [
+        47.18,
+        "CNY"
+       ],
+       "CL": [
+        8.33,
+        "USD"
+       ],
+       "EE": [
+        7.38,
+        "EUR"
+       ],
+       "EG": [
+        7.98,
+        "USD"
+       ],
+       "IT": [
+        7.38,
+        "EUR"
+       ],
+       "ZA": [
+        8.05,
+        "USD"
+       ],
+       "CZ": [
+        7.32,
+        "EUR"
+       ],
+       "CY": [
+        7.19,
+        "EUR"
+       ],
+       "AU": [
+        10.86,
+        "AUD"
+       ],
+       "GB": [
+        6.2,
+        "GBP"
+       ],
+       "IN": [
+        8.26,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        5.17,
+        "GBP"
+       ],
+       "IE": [
+        7.44,
+        "EUR"
+       ],
+       "ES": [
+        7.32,
+        "EUR"
+       ],
+       "MD": [
+        8.4,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        6.05,
+        "EUR"
+       ],
+       "UA": [
+        8.4,
+        "USD"
+       ],
+       "CA": [
+        9.71,
+        "CAD"
+       ],
+       "SK": [
+        7.44,
+        "EUR"
+       ],
+       "KR": [
+        7.7,
+        "USD"
+       ],
+       "SI": [
+        7.38,
+        "EUR"
+       ],
+       "SG": [
+        7.63,
+        "USD"
+       ],
+       "MX": [
+        8.12,
+        "USD"
+       ],
+       "SE": [
+        7.56,
+        "EUR"
+       ],
+       "AT": [
+        7.26,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt13",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        13.58,
+        "EUR"
+       ],
+       "FR": [
+        13.47,
+        "EUR"
+       ],
+       "BG": [
+        13.47,
+        "EUR"
+       ],
+       "DK": [
+        14.03,
+        "EUR"
+       ],
+       "HR": [
+        14.03,
+        "EUR"
+       ],
+       "DE": [
+        13.36,
+        "EUR"
+       ],
+       "JP": [
+        14.3,
+        "USD"
+       ],
+       "HU": [
+        14.26,
+        "EUR"
+       ],
+       "US": [
+        13.0,
+        "USD"
+       ],
+       "FI": [
+        14.09,
+        "EUR"
+       ],
+       "BY": [
+        15.34,
+        "USD"
+       ],
+       "GR": [
+        13.92,
+        "EUR"
+       ],
+       "RU": [
+        1777.54,
+        "RUB"
+       ],
+       "NL": [
+        13.58,
+        "EUR"
+       ],
+       "PT": [
+        13.81,
+        "EUR"
+       ],
+       "NO": [
+        14.03,
+        "EUR"
+       ],
+       "TW": [
+        13.65,
+        "USD"
+       ],
+       "TR": [
+        622.49,
+        "TRY"
+       ],
+       "NZ": [
+        25.38,
+        "NZD"
+       ],
+       "LV": [
+        13.58,
+        "EUR"
+       ],
+       "LT": [
+        13.25,
+        "EUR"
+       ],
+       "LU": [
+        13.13,
+        "EUR"
+       ],
+       "TH": [
+        13.91,
+        "USD"
+       ],
+       "PH": [
+        798.04,
+        "PHP"
+       ],
+       "RO": [
+        13.02,
+        "EUR"
+       ],
+       "IS": [
+        16.12,
+        "USD"
+       ],
+       "PL": [
+        13.81,
+        "EUR"
+       ],
+       "CH": [
+        12.13,
+        "EUR"
+       ],
+       "MT": [
+        13.25,
+        "EUR"
+       ],
+       "CN": [
+        87.63,
+        "CNY"
+       ],
+       "CL": [
+        15.47,
+        "USD"
+       ],
+       "EE": [
+        13.7,
+        "EUR"
+       ],
+       "EG": [
+        14.82,
+        "USD"
+       ],
+       "IT": [
+        13.7,
+        "EUR"
+       ],
+       "ZA": [
+        14.95,
+        "USD"
+       ],
+       "CZ": [
+        13.58,
+        "EUR"
+       ],
+       "CY": [
+        13.36,
+        "EUR"
+       ],
+       "AU": [
+        20.18,
+        "AUD"
+       ],
+       "GB": [
+        11.52,
+        "GBP"
+       ],
+       "IN": [
+        15.34,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        9.6,
+        "GBP"
+       ],
+       "IE": [
+        13.81,
+        "EUR"
+       ],
+       "ES": [
+        13.58,
+        "EUR"
+       ],
+       "MD": [
+        15.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        11.23,
+        "EUR"
+       ],
+       "UA": [
+        15.6,
+        "USD"
+       ],
+       "CA": [
+        18.03,
+        "CAD"
+       ],
+       "SK": [
+        13.81,
+        "EUR"
+       ],
+       "KR": [
+        14.3,
+        "USD"
+       ],
+       "SI": [
+        13.7,
+        "EUR"
+       ],
+       "SG": [
+        14.17,
+        "USD"
+       ],
+       "MX": [
+        15.08,
+        "USD"
+       ],
+       "SE": [
+        14.03,
+        "EUR"
+       ],
+       "AT": [
+        13.47,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt13_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt16",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.73,
+        "EUR"
+       ],
+       "FR": [
+        16.59,
+        "EUR"
+       ],
+       "BG": [
+        16.59,
+        "EUR"
+       ],
+       "DK": [
+        17.28,
+        "EUR"
+       ],
+       "HR": [
+        17.28,
+        "EUR"
+       ],
+       "DE": [
+        16.45,
+        "EUR"
+       ],
+       "JP": [
+        17.6,
+        "USD"
+       ],
+       "HU": [
+        17.56,
+        "EUR"
+       ],
+       "US": [
+        16.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        18.88,
+        "USD"
+       ],
+       "GR": [
+        17.14,
+        "EUR"
+       ],
+       "RU": [
+        2187.74,
+        "RUB"
+       ],
+       "NL": [
+        16.73,
+        "EUR"
+       ],
+       "PT": [
+        17.01,
+        "EUR"
+       ],
+       "NO": [
+        17.28,
+        "EUR"
+       ],
+       "TW": [
+        16.8,
+        "USD"
+       ],
+       "TR": [
+        766.15,
+        "TRY"
+       ],
+       "NZ": [
+        31.23,
+        "NZD"
+       ],
+       "LV": [
+        16.73,
+        "EUR"
+       ],
+       "LT": [
+        16.31,
+        "EUR"
+       ],
+       "LU": [
+        16.18,
+        "EUR"
+       ],
+       "TH": [
+        17.12,
+        "USD"
+       ],
+       "PH": [
+        982.21,
+        "PHP"
+       ],
+       "RO": [
+        16.04,
+        "EUR"
+       ],
+       "IS": [
+        19.84,
+        "USD"
+       ],
+       "PL": [
+        17.01,
+        "EUR"
+       ],
+       "CH": [
+        14.95,
+        "EUR"
+       ],
+       "MT": [
+        16.31,
+        "EUR"
+       ],
+       "CN": [
+        107.86,
+        "CNY"
+       ],
+       "CL": [
+        19.04,
+        "USD"
+       ],
+       "EE": [
+        16.87,
+        "EUR"
+       ],
+       "EG": [
+        18.24,
+        "USD"
+       ],
+       "IT": [
+        16.87,
+        "EUR"
+       ],
+       "ZA": [
+        18.4,
+        "USD"
+       ],
+       "CZ": [
+        16.73,
+        "EUR"
+       ],
+       "CY": [
+        16.45,
+        "EUR"
+       ],
+       "AU": [
+        24.84,
+        "AUD"
+       ],
+       "GB": [
+        14.17,
+        "GBP"
+       ],
+       "IN": [
+        18.88,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.81,
+        "GBP"
+       ],
+       "IE": [
+        17.01,
+        "EUR"
+       ],
+       "ES": [
+        16.73,
+        "EUR"
+       ],
+       "MD": [
+        19.2,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        13.83,
+        "EUR"
+       ],
+       "UA": [
+        19.2,
+        "USD"
+       ],
+       "CA": [
+        22.19,
+        "CAD"
+       ],
+       "SK": [
+        17.01,
+        "EUR"
+       ],
+       "KR": [
+        17.6,
+        "USD"
+       ],
+       "SI": [
+        16.87,
+        "EUR"
+       ],
+       "SG": [
+        17.44,
+        "USD"
+       ],
+       "MX": [
+        18.56,
+        "USD"
+       ],
+       "SE": [
+        17.28,
+        "EUR"
+       ],
+       "AT": [
+        16.59,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt16_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$208 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$208."
+     },
+     {
+      "heading": "Pay AU$10.86 or more",
+      "tooltip": "Name your price of AU$10.86 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$10.86 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T04:00:00",
+    "author": "Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Take your chef skills to the next level with this bundle of tasty cooking games! Whether you\u2019re an amateur at best IRL or a seasoned professional in the kitchen, you\u2019re sure to find the perfect cooking challenge. Keep the ale flowing and the mood high in the charmingly old-timey <em>Tavern Manager Simulator</em>! Let your fingers fly across the keyboard in the high-octane typing game <em>The Chef\u2019s Shift</em>! (Say that three times fast.) Become the sneaky, ravenous beast you were always meant to be in arcade game <em>Pizza Possum</em>! Whatever your speed, whatever your tastes, this bundle of cooking games will satisfy any appetite! Grab these tasty treats while you can at the price of your choice, and support the FarmLink Project with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027. </span>",
+    "tile_logo": "https://hb.imgix.net/1816638967eeb74efee1af1d5edb39dbf288d2d9.png?auto=compress,format&h=340&w=1200&s=1aa4086e9cbdbfae27bff97e7cc2f377",
+    "tile_short_name": "Yes Chef! - Cooking Bundle",
+    "start_date|datetime": "2026-08-19T18:00:00",
+    "hover_highlights": [
+     "16 games",
+     "US$208 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Yes Chef! - Cooking Bundle",
+    "short_marketing_blurb": "Order up!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "16 games",
+     "US$208 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       688.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$688"
+    },
+    "machine_name": "ultimatevegancookbookbundlepagestreetpublishing_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=14b3f02ee5e8d25f832e91d31c618ae4",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Vegan YUM</em>, <em>Blk + Vegan</em>, <em>Frugal Vegan</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books",
+    "tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0b3ac49bb877ce81a0ab161192d5990c",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.63,
+        "EUR"
+       ],
+       "FR": [
+        16.55,
+        "EUR"
+       ],
+       "BG": [
+        18.82,
+        "EUR"
+       ],
+       "DK": [
+        19.61,
+        "EUR"
+       ],
+       "HR": [
+        16.47,
+        "EUR"
+       ],
+       "DE": [
+        16.78,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        19.92,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.25,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.63,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.1,
+        "EUR"
+       ],
+       "PT": [
+        16.63,
+        "EUR"
+       ],
+       "NO": [
+        15.69,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.98,
+        "TRY"
+       ],
+       "NZ": [
+        35.33,
+        "NZD"
+       ],
+       "LV": [
+        16.47,
+        "EUR"
+       ],
+       "LT": [
+        17.1,
+        "EUR"
+       ],
+       "LU": [
+        16.16,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1109.27,
+        "PHP"
+       ],
+       "RO": [
+        16.47,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.47,
+        "EUR"
+       ],
+       "CH": [
+        16.09,
+        "EUR"
+       ],
+       "MT": [
+        16.47,
+        "EUR"
+       ],
+       "CN": [
+        121.8,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.1,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.31,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.69,
+        "EUR"
+       ],
+       "CY": [
+        18.67,
+        "EUR"
+       ],
+       "AU": [
+        28.24,
+        "AUD"
+       ],
+       "GB": [
+        13.32,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.32,
+        "GBP"
+       ],
+       "IE": [
+        15.69,
+        "EUR"
+       ],
+       "ES": [
+        16.31,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.69,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.24,
+        "CAD"
+       ],
+       "SK": [
+        19.29,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.47,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.63,
+        "EUR"
+       ],
+       "AT": [
+        17.25,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$688 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$688."
+     },
+     {
+      "heading": "Pay AU$28.24 or more",
+      "tooltip": "Name your price of AU$28.24 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-08-27T18:00:00",
+    "author": "Macmillan Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Whether you\u2019re committed to the plant-based lifestyle or thinking about giving it a try, there\u2019s never been a better time to go vegan\u2014especially with this bundle of over 60 vegan cookbooks! We\u2019ve teamed up with Page Street Publishing for a treasure trove of recipes that bring the joys of veganism right to your home kitchen. If you\u2019re looking for Southern soul food with a vegetarian twist, scrumptious Mexican food that keeps things verde, delicious Asian-inspired meals for herbivores, or just tips on how to save while keeping your meals cruelty-free, you\u2019ll find all of that and so much more in this bundle! Grab these cooking ebooks at the price of your choice, and help support World Central Kitchen with your purchase!",
+    "tile_logo": "https://hb.imgix.net/aea8eefba51947fd4c44590e19559aa148a43891.png?auto=compress,format&h=340&w=1200&s=07aca8396c86f115a29216a98a3c6258",
+    "tile_short_name": "The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "start_date|datetime": "2026-07-30T18:00:00",
+    "hover_highlights": [
+     "61 books",
+     "US$688 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "short_marketing_blurb": "Powered by plants",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [
+     "CA"
+    ],
+    "highlights": [
+     "Pay What You Want",
+     "61 books",
+     "US$688 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/softwareengineeringmanning_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       1644.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$1,644"
+    },
+    "machine_name": "softwareengineeringmanning_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/1fe500e35e1b971fc7d2a5f4597bf7ae01c580d4.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=5bdcfc50742ce4d8f94db934a9f53b13",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Modern Fortran</em>, <em>Looks Good to Me</em>, <em>Think Distributed Systems</em>, <em>Architecture Modernization</em>, <em>Grokking Algorithms, Second Edition</em>, <em>Advanced Algorithms and Data Structures</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/software-engineering-manning-books",
+    "tile_image": "https://hb.imgix.net/1fe500e35e1b971fc7d2a5f4597bf7ae01c580d4.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ab73878b818ab2df171afc9c88dfc74b",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        8.25,
+        "EUR"
+       ],
+       "FR": [
+        8.21,
+        "EUR"
+       ],
+       "BG": [
+        9.34,
+        "EUR"
+       ],
+       "DK": [
+        9.73,
+        "EUR"
+       ],
+       "HR": [
+        8.17,
+        "EUR"
+       ],
+       "DE": [
+        8.33,
+        "EUR"
+       ],
+       "JP": [
+        9.9,
+        "USD"
+       ],
+       "HU": [
+        9.89,
+        "EUR"
+       ],
+       "US": [
+        9.0,
+        "USD"
+       ],
+       "FI": [
+        8.56,
+        "EUR"
+       ],
+       "BY": [
+        10.62,
+        "USD"
+       ],
+       "GR": [
+        8.25,
+        "EUR"
+       ],
+       "RU": [
+        1150.69,
+        "RUB"
+       ],
+       "NL": [
+        8.49,
+        "EUR"
+       ],
+       "PT": [
+        8.25,
+        "EUR"
+       ],
+       "NO": [
+        7.79,
+        "EUR"
+       ],
+       "TW": [
+        9.45,
+        "USD"
+       ],
+       "TR": [
+        428.35,
+        "TRY"
+       ],
+       "NZ": [
+        17.58,
+        "NZD"
+       ],
+       "LV": [
+        8.17,
+        "EUR"
+       ],
+       "LT": [
+        8.49,
+        "EUR"
+       ],
+       "LU": [
+        8.02,
+        "EUR"
+       ],
+       "TH": [
+        9.0,
+        "USD"
+       ],
+       "PH": [
+        547.11,
+        "PHP"
+       ],
+       "RO": [
+        8.17,
+        "EUR"
+       ],
+       "IS": [
+        9.99,
+        "USD"
+       ],
+       "PL": [
+        8.17,
+        "EUR"
+       ],
+       "CH": [
+        7.99,
+        "EUR"
+       ],
+       "MT": [
+        8.17,
+        "EUR"
+       ],
+       "CN": [
+        60.74,
+        "CNY"
+       ],
+       "CL": [
+        10.71,
+        "USD"
+       ],
+       "EE": [
+        8.49,
+        "EUR"
+       ],
+       "EG": [
+        10.26,
+        "USD"
+       ],
+       "IT": [
+        8.1,
+        "EUR"
+       ],
+       "ZA": [
+        10.35,
+        "USD"
+       ],
+       "CZ": [
+        7.79,
+        "EUR"
+       ],
+       "CY": [
+        9.27,
+        "EUR"
+       ],
+       "AU": [
+        14.05,
+        "AUD"
+       ],
+       "GB": [
+        6.68,
+        "GBP"
+       ],
+       "IN": [
+        10.62,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        6.68,
+        "GBP"
+       ],
+       "IE": [
+        7.79,
+        "EUR"
+       ],
+       "ES": [
+        8.1,
+        "EUR"
+       ],
+       "MD": [
+        10.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        7.79,
+        "EUR"
+       ],
+       "UA": [
+        10.8,
+        "USD"
+       ],
+       "CA": [
+        12.59,
+        "CAD"
+       ],
+       "SK": [
+        9.58,
+        "EUR"
+       ],
+       "KR": [
+        9.9,
+        "USD"
+       ],
+       "SI": [
+        8.17,
+        "EUR"
+       ],
+       "SG": [
+        9.81,
+        "USD"
+       ],
+       "MX": [
+        10.44,
+        "USD"
+       ],
+       "SE": [
+        8.25,
+        "EUR"
+       ],
+       "AT": [
+        8.56,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt29",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        26.62,
+        "EUR"
+       ],
+       "FR": [
+        26.5,
+        "EUR"
+       ],
+       "BG": [
+        30.14,
+        "EUR"
+       ],
+       "DK": [
+        31.4,
+        "EUR"
+       ],
+       "HR": [
+        26.37,
+        "EUR"
+       ],
+       "DE": [
+        26.87,
+        "EUR"
+       ],
+       "JP": [
+        31.9,
+        "USD"
+       ],
+       "HU": [
+        31.9,
+        "EUR"
+       ],
+       "US": [
+        29.0,
+        "USD"
+       ],
+       "FI": [
+        27.63,
+        "EUR"
+       ],
+       "BY": [
+        34.22,
+        "USD"
+       ],
+       "GR": [
+        26.62,
+        "EUR"
+       ],
+       "RU": [
+        3707.8,
+        "RUB"
+       ],
+       "NL": [
+        27.38,
+        "EUR"
+       ],
+       "PT": [
+        26.62,
+        "EUR"
+       ],
+       "NO": [
+        25.12,
+        "EUR"
+       ],
+       "TW": [
+        30.45,
+        "USD"
+       ],
+       "TR": [
+        1380.25,
+        "TRY"
+       ],
+       "NZ": [
+        56.68,
+        "NZD"
+       ],
+       "LV": [
+        26.37,
+        "EUR"
+       ],
+       "LT": [
+        27.38,
+        "EUR"
+       ],
+       "LU": [
+        25.87,
+        "EUR"
+       ],
+       "TH": [
+        29.0,
+        "USD"
+       ],
+       "PH": [
+        1762.93,
+        "PHP"
+       ],
+       "RO": [
+        26.37,
+        "EUR"
+       ],
+       "IS": [
+        32.19,
+        "USD"
+       ],
+       "PL": [
+        26.37,
+        "EUR"
+       ],
+       "CH": [
+        25.77,
+        "EUR"
+       ],
+       "MT": [
+        26.37,
+        "EUR"
+       ],
+       "CN": [
+        195.72,
+        "CNY"
+       ],
+       "CL": [
+        34.51,
+        "USD"
+       ],
+       "EE": [
+        27.38,
+        "EUR"
+       ],
+       "EG": [
+        33.06,
+        "USD"
+       ],
+       "IT": [
+        26.12,
+        "EUR"
+       ],
+       "ZA": [
+        33.35,
+        "USD"
+       ],
+       "CZ": [
+        25.12,
+        "EUR"
+       ],
+       "CY": [
+        29.89,
+        "EUR"
+       ],
+       "AU": [
+        45.29,
+        "AUD"
+       ],
+       "GB": [
+        21.53,
+        "GBP"
+       ],
+       "IN": [
+        34.22,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        21.53,
+        "GBP"
+       ],
+       "IE": [
+        25.12,
+        "EUR"
+       ],
+       "ES": [
+        26.12,
+        "EUR"
+       ],
+       "MD": [
+        34.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        25.12,
+        "EUR"
+       ],
+       "UA": [
+        34.8,
+        "USD"
+       ],
+       "CA": [
+        40.59,
+        "CAD"
+       ],
+       "SK": [
+        30.89,
+        "EUR"
+       ],
+       "KR": [
+        31.9,
+        "USD"
+       ],
+       "SI": [
+        26.37,
+        "EUR"
+       ],
+       "SG": [
+        31.61,
+        "USD"
+       ],
+       "MX": [
+        33.64,
+        "USD"
+       ],
+       "SE": [
+        26.62,
+        "EUR"
+       ],
+       "AT": [
+        27.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt29_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt59",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        54.17,
+        "EUR"
+       ],
+       "FR": [
+        53.92,
+        "EUR"
+       ],
+       "BG": [
+        61.33,
+        "EUR"
+       ],
+       "DK": [
+        63.88,
+        "EUR"
+       ],
+       "HR": [
+        53.66,
+        "EUR"
+       ],
+       "DE": [
+        54.68,
+        "EUR"
+       ],
+       "JP": [
+        64.9,
+        "USD"
+       ],
+       "HU": [
+        64.9,
+        "EUR"
+       ],
+       "US": [
+        59.0,
+        "USD"
+       ],
+       "FI": [
+        56.22,
+        "EUR"
+       ],
+       "BY": [
+        69.62,
+        "USD"
+       ],
+       "GR": [
+        54.17,
+        "EUR"
+       ],
+       "RU": [
+        7543.47,
+        "RUB"
+       ],
+       "NL": [
+        55.7,
+        "EUR"
+       ],
+       "PT": [
+        54.17,
+        "EUR"
+       ],
+       "NO": [
+        51.11,
+        "EUR"
+       ],
+       "TW": [
+        61.95,
+        "USD"
+       ],
+       "TR": [
+        2808.1,
+        "TRY"
+       ],
+       "NZ": [
+        115.32,
+        "NZD"
+       ],
+       "LV": [
+        53.66,
+        "EUR"
+       ],
+       "LT": [
+        55.7,
+        "EUR"
+       ],
+       "LU": [
+        52.64,
+        "EUR"
+       ],
+       "TH": [
+        59.0,
+        "USD"
+       ],
+       "PH": [
+        3586.67,
+        "PHP"
+       ],
+       "RO": [
+        53.66,
+        "EUR"
+       ],
+       "IS": [
+        65.49,
+        "USD"
+       ],
+       "PL": [
+        53.66,
+        "EUR"
+       ],
+       "CH": [
+        52.43,
+        "EUR"
+       ],
+       "MT": [
+        53.66,
+        "EUR"
+       ],
+       "CN": [
+        398.19,
+        "CNY"
+       ],
+       "CL": [
+        70.21,
+        "USD"
+       ],
+       "EE": [
+        55.7,
+        "EUR"
+       ],
+       "EG": [
+        67.26,
+        "USD"
+       ],
+       "IT": [
+        53.15,
+        "EUR"
+       ],
+       "ZA": [
+        67.85,
+        "USD"
+       ],
+       "CZ": [
+        51.11,
+        "EUR"
+       ],
+       "CY": [
+        60.82,
+        "EUR"
+       ],
+       "AU": [
+        92.15,
+        "AUD"
+       ],
+       "GB": [
+        43.81,
+        "GBP"
+       ],
+       "IN": [
+        69.62,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        43.81,
+        "GBP"
+       ],
+       "IE": [
+        51.11,
+        "EUR"
+       ],
+       "ES": [
+        53.15,
+        "EUR"
+       ],
+       "MD": [
+        70.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        51.11,
+        "EUR"
+       ],
+       "UA": [
+        70.8,
+        "USD"
+       ],
+       "CA": [
+        82.58,
+        "CAD"
+       ],
+       "SK": [
+        62.86,
+        "EUR"
+       ],
+       "KR": [
+        64.9,
+        "USD"
+       ],
+       "SI": [
+        53.66,
+        "EUR"
+       ],
+       "SG": [
+        64.31,
+        "USD"
+       ],
+       "MX": [
+        68.44,
+        "USD"
+       ],
+       "SE": [
+        54.17,
+        "EUR"
+       ],
+       "AT": [
+        56.22,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt59_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$1,644 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$1,644."
+     },
+     {
+      "heading": "Pay AU$14.05 or more",
+      "tooltip": "Name your price of AU$14.05 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in <<<>>> file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-01T18:00:00",
+    "author": "Manning Publications",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/softwareengineeringmanning_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "We see a bright future for you as a software engineer\u2014let us and Manning Publications help you see the vision. Master the art of writing efficient programs with elite eBooks that start from square one or build your existing skill set. Pay what you want for expert-led titles like <em>Architecture Modernization</em>, <em>Think Distributed Systems</em>, <em>Advanced Algorithms and Data Structures</em>, <em>100 SQL Server Mistakes and How to Avoid Them</em>, and more. Help support charity, develop your skills, and save some dough\u2014you can\u2019t beat that!",
+    "tile_logo": "https://hb.imgix.net/791176c0c2daaf6874246c824391e21a9ff1cc55.png?auto=compress,format&h=340&w=1200&s=668e8c87d0119962b216c67d150fa4ca",
+    "tile_short_name": "Software Engineering by Manning",
+    "start_date|datetime": "2026-08-11T18:00:00",
+    "hover_highlights": [
+     "26 books",
+     "US$1,644 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Tech Book Bundle: Software Engineering by Manning",
+    "short_marketing_blurb": "Surefire software engineering ebooks by Manning",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/softwareengineeringmanning_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "26 books",
+     "US$1,644 Value",
+     "Support Charity"
+    ]
+   }
+  ],
+  "tier_item_data": {
+   "mightyswitchforcehoseitdown": {
+    "machine_name": "mightyswitchforcehoseitdown",
+    "youtube_link": "pAAgoGnn99E",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/mightyswitchforcehoseitdown_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "WayForward\u2019s award-winning Mighty Switch Force series, transformed into a pick-up-and-play puzzler!",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 3.29
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 6.96
+    },
+    "subtitle_html": null,
+    "description_text": "WayForward\u2019s award-winning Mighty Switch Force series, transformed into a pick-up-and-play puzzler!\n<br>\n<br>\nTeam up with Officer Patricia Wagon to save Tangent City from a fiery blaze! As a member of Planet Land\u2019s Fire Brigade, your job is to douse the fire in each building \u2014 and to evacuate any Hooligan Sisters who may be trapped inside. It\u2019s a dangerous job, but if anyone can save the city, you and Patty can!\n<br>\n<br>\nSlide blocks around the playfield, and let loose a powerful water spray from Officer Wagon's Infinity Dousing Apparatus (err\u2026 hose).  Douse all of the flames, and the stage is clear! Sounds easy, right?\n<br>\n<br>\nBlock types vary from simple slide-puzzle obstacles to full-blown brain-busters like Turnpike Blocks, Mud Blocks, and Cloak Blocks.\n<br>\nEach level has been lovingly crafted and is WayForward Certified, guaranteed to challenge, befuddle, and tickle your fancy.\n<br>\n<br>\nThis version includes:\n<br>\n<br>\n-50 puzzles spread across 10 Worlds.\n<br>\n-Fully illustrated cutscenes\n<br>\n-Speed Run challenges\n<br>\n-An incredible soundtrack by Jake \u201cVirt\u201d Kaufman\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/mightyswitchforcehoseitdown.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Mighty Switch Force! Hose It Down",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/3a3869bba43087e975c4d116643d43b4a6f0422d.png?auto=compress,format&fit=clip&h=80&w=170&s=42f4c8079de4f160d82a53d49981c886",
+     "featured_image": "https://hb.imgix.net/3a3869bba43087e975c4d116643d43b4a6f0422d.png?auto=compress,format&w=300&s=fbde961be3c7cd0b3e130a59465089f7",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/c84ea105a2e247fa193e6127dba115a94dc40f5f.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=30669e72cd6919f52245812e75f250ed",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/3a3869bba43087e975c4d116643d43b4a6f0422d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=d60921b7991d0d52a7b7f4b445fc5a98",
+     "front_page_art_imgix": "https://hb.imgix.net/3a3869bba43087e975c4d116643d43b4a6f0422d.png?auto=compress,format&w=300&s=fbde961be3c7cd0b3e130a59465089f7",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Mighty Switch Force! Hose It Down",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "rivercitygirls": {
+    "machine_name": "rivercitygirls",
+    "youtube_link": "80ZyztIMKDs",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/rivercitygirls_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span data-sheets-root=\"1\">Steam Deck Playable</span>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "e10",
+     "pegi-rating": "12",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "ARC System Works",
+      "publisher-url": "https://arcsystemworks.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 33.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 20.88
+    },
+    "subtitle_html": null,
+    "description_text": "There's trouble once again on the mean streets of River City, but this time the boys are in over their heads! In this all-new entry in the legendary beat-'em-up series, hot-blooded heroes Kunio and Riki have been captured, leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up some payback. As you punch and kick your way across town - either solo or with a friend in local co-op - you'll gain new skills, chow down on power-ups, wield an assortment of weapons, and unleash an arsenal of combos, throws, and special attacks that will leave the bad guys crying for mama - all in outrageous 16-bit style! The awesome action is punctuated by manga story panels, anime cutscenes, and an epic synth-pop soundtrack. It\u2019s an old-school rumble for a new generation!\n<br>\n<br>\nKey Features:\n<br>\n-Wild beat-'em-up action for one or two players!\n<br>\n-Glorious pixel-art graphics plus anime and manga cutscenes!\n<br>\n-Fantastic soundtrack featuring Megan McDuffee, Chipzel, Cristina Vee, Dale North, and NateWantsToBattle!\n<br>\n-Six large city regions to fight through, complete with shops and side quests!\n<br>\n-Loads of weapons, items, and abilities to power-up your heroines!\n<br>\n-Guest appearances by classic River City characters!\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "River City Girls",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/810630e06ef8e2f6f6f3cb363f94913cad086781.png?auto=compress,format&w=300&s=205f93529e7f9ad24f142d6b877c51d6",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "River City Girls",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "mightyswitchforce_collection": {
+    "machine_name": "mightyswitchforce_collection",
+    "youtube_link": "RNGwBaJx-us",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/mightyswitchforce_collection_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Switch up the fun with four games in one!",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "e10",
+     "pegi-rating": "7",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 27.52668007876038
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 13.92
+    },
+    "subtitle_html": null,
+    "description_text": "<html><head></head><body>Switch up the fun with four games in one! As cybernetic peacekeeper Officer Patricia Wagon, you'll use your platforming skills, puzzle-solving abilities, and special level-altering Siren Helmet to protect the people of Planet Land and smash enemies into the screen! In Mighty Switch Force! and its HD remake, Mighty Switch Force! Hyper Drive Edition, you'll zap foes while \u201cswitching\u201d blocks from the foreground to the background (and vice versa) as you track down the delinquent Hooligan Sisters in each stage. Then, in Mighty Switch Force! 2, Officer Wagon trades in her Pellet Gun for a fire hose as she extinguishes a dangerous blaze and rescues would-be victims. Finally, in Mighty Switch Force! Academy, you'll put the trainees through their paces in expansive HD stages with co-op and versus modes for up to four players. The future of lighthearted law enforcement is here!<br/>\n<br/>\nKey Features:<br/>\n\u2022Four fantastic games in one: Mighty Switch Force!, Mighty Switch Force! Hyper Drive Edition, Mighty Switch Force! 2, and Mighty Switch Force! Academy<br/>\n\u2022Use your Siren Helmet to switch around level layouts and solve tricky puzzles!<br/>\n\u2022Blast enemies with your Pellet Gun and extinguish flames with your firehose!<br/>\n\u2022Encounter colorful characters like Corporal Gendarmor, Ugly Twitching Dog, and Ugly Secret Baby!<br/>\n\u2022Avoid hazards and interact with elements like Launch Blocks and Force Field Blocks to navigate more than 70 levels!<br/>\n\u2022Aim for the fastest time! Perfect for speedrunners!</body></html>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/mightyswitchforce_collection.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Mighty Switch Force! Collection",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/8449e923b6390754f64f0517bfe9c663fd412822.png?auto=compress,format&fit=clip&h=80&w=170&s=06583ee59255e537f6addee7688fd3c7",
+     "featured_image": "https://hb.imgix.net/8449e923b6390754f64f0517bfe9c663fd412822.png?auto=compress,format&w=300&s=2a38c5b889c66f7cd1888a0813f693a1",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/a962dbc2343740ddfd9a43bf64089b93770eada1.jpeg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=cd2508e8711b3c6efbd6ae66d2bf2725",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/8449e923b6390754f64f0517bfe9c663fd412822.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=385e64b205b928ee6fc9c5f607a3187d",
+     "front_page_art_imgix": "https://hb.imgix.net/8449e923b6390754f64f0517bfe9c663fd412822.png?auto=compress,format&w=300&s=2a38c5b889c66f7cd1888a0813f693a1",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Mighty Switch Force! Collection",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "shantaeadvance_riskyrevolutiondeluxeedition25percentoffcoupon": {
+    "machine_name": "shantaeadvance_riskyrevolutiondeluxeedition25percentoffcoupon",
+    "youtube_link": "Tah0TetCvXE",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": null,
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": {
+     "badge": "coupon"
+    },
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 6.96
+    },
+    "subtitle_html": null,
+    "description_text": "<p>Get 25% off Shantae Advance: Risky Revolution Deluxe Edition in the Humble Store!</p>\n<p>NOTE: Expires February 28th, 2027, 9pm PT. Does not stack with Humble Store sales.</p>\n<p><span>Shantae is back in an adventure 20 years in the making! The nefarious pirate Risky Boots has a \u201cgroundbreaking\u201d new plan that will leave Sequin Land spinning \u2014 by rotating the continent, she can move any town right to the coast for easy plundering! As Shantae, turn the tectonic tables on Risky by taking control of the land itself: shift, twist, navigate, and explore by swapping between mix-and-match multilayered levels! Hair-whip and belly-dance your way through scrambled lands, misplaced towns, monster-filled crypts, and daunting labyrinths. Six creature transformations, fierce boss battles, and a 4-player versus mode await!</span><br><br><span>The Deluxe Edition of Shantae Advance: Risky Revolution adds three special bonus outfits that change Shantae\u2019s appearance and boost her magical abilities: Sizzle Armor Costume (enhanced Fireball Power), Relic Hunter Costume (enhanced Pike Ball Power), and High Voltage Costume (enhanced Storm Puff Power)!</span><br><br><span>Key Features:</span><br><br><span>\u2022 Discover the lost chapter of the Shantae saga, fully restored and released after 20 years!</span><br><span>\u2022 Fight and explore using your hair-whipping ability, magic items, and belly-dance transformations (including monkey, elephant, crab, and more)!</span><br><span>\u2022 Spin and shift Front Yard and Back Yard playfields to create new routes and solve puzzles!</span><br><span>\u2022 Visit towns, battle through labyrinths, purchase upgrades, find collectables, and meet with friends like Rottytops, Sky, and Bolo!</span><br><span>\u2022 For the first time ever in a Shantae game, four players can compete in Battle Mode!</span><br><span>\u2022 Deluxe Edition includes three bonus outfits: Sizzle Armor Costume, Relic Hunter Costume, and High Voltage Costume!</span></p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/shantaeadvance_riskyrevolutiondeluxeedition25percentoffcoupon.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Shantae Advance: Risky Revolution Deluxe Edition 25% off Coupon",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://www.wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/2d61db6b16b9ffb6019ddfb045ce11f3c9031d2b.png?auto=compress,format&fit=clip&h=80&w=170&s=896c0d6c89a310641d55aa18bd2aa743",
+     "featured_image": null,
+     "front_page_art_imgix_retina": "https://hb.imgix.net/2d61db6b16b9ffb6019ddfb045ce11f3c9031d2b.png?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=8b00257f25a2d5766e635911a0fbadde",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2d61db6b16b9ffb6019ddfb045ce11f3c9031d2b.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=83575633c93c49c21c7efc35716041ad",
+     "front_page_art_imgix": "https://hb.imgix.net/2d61db6b16b9ffb6019ddfb045ce11f3c9031d2b.png?auto=compress,format&w=300&s=5df09f6db1d3631caf3b1233be481d2f",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Shantae Advance: Risky Revolution Deluxe Edition 25% off Coupon",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "rwby_arrowfell": {
+    "machine_name": "rwby_arrowfell",
+    "youtube_link": "P5yx68s1wZo",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/rwby_arrowfell_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span data-sheets-root=\"1\">Steam Deck Verified</span>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Arc System Works",
+      "publisher-url": "https://www.arcsystemworks.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 38.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 13.92
+    },
+    "subtitle_html": null,
+    "description_text": "Dive into an explosive new RWBY action-adventure! Instantly switch between all four members of Team RWBY \u2014 Ruby Rose, Weiss Schnee, Blake Belladonna, and Yang Xiao Long \u2014 and use their signature weapons and Semblances to battle the Creatures of Grimm and other foes in side-scrolling, 2D combat and exploration! Featuring an in-canon story set during RWBY Volume 7, all-new cutscenes from the team behind the show, and an original theme song by Jeff Williams and Casey Lee Williams, <i>RWBY: Arrowfell</i> lets you traverse Atlas and more than 25 other areas to solve environmental puzzles, slay massive bosses, power up with Skill Points, and interact with characters such as Penny, Winter, and General Ironwood, as well as the enigmatic new team of Huntresses, Team BRIR! Only Team RWBY can protect Remnant from a mysterious new threat in <i>RWBY: Arrowfell</i>!\n<br>\n<br>\nKey Features:\n<br>\n\u2022 Play as all four members of Team RWBY \u2014 Ruby, Weiss, Blake, and Yang \u2014 each with their own weapons and abilities! Switch between them at any time!\n<br>\n\u2022 Use each character's Semblances to get an edge in combat and solve puzzles!\n<br>\n\u2022 Featuring an original theme song by Jeff Williams with vocals by Casey Lee Williams!\n<br>\n\u2022 An all-new canonical story set during RWBY Volume 7 from RWBY writers Kerry Shawcross, Miles Luna, and Eddy Rivas!\n<br>\n\u2022 Explore a variety of nonlinear environments in Atlas, Mantle, and the surrounding areas!\n<br>\n\u2022 Interact with familiar characters such as Penny, Winter, General Ironwood, and the Ace Operatives, as well as new faces such as Team BRIR!\n<br>\n\u2022 Collect Skill Points to power up Team RWBY's stats!\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/rwby_arrowfell.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "RWBY: Arrowfell",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/81444deba0ee91112c8d6394776b737e9413aba8.png?auto=compress,format&fit=clip&h=80&w=170&s=591a01b19bc763bffd3a590ed1f7a675",
+     "featured_image": "https://hb.imgix.net/81444deba0ee91112c8d6394776b737e9413aba8.png?auto=compress,format&w=300&s=1d5a411364e170b0c0afb8894069c0af",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/a93fc336a71ab0f89e4d9db8875ef2fc6a6e6ab2.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=e2074b163d2ad3542f9ff29491fe6b08",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/81444deba0ee91112c8d6394776b737e9413aba8.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=46804bacacfb009718a65a91fbbf58c2",
+     "front_page_art_imgix": "https://hb.imgix.net/81444deba0ee91112c8d6394776b737e9413aba8.png?auto=compress,format&w=300&s=1d5a411364e170b0c0afb8894069c0af",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "RWBY: Arrowfell",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "shantae_riskysrevenge": {
+    "machine_name": "shantae_riskysrevenge",
+    "youtube_link": "UK1C6mdY8hs",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/shantae_riskysrevenge_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 10.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 6.96
+    },
+    "subtitle_html": null,
+    "description_text": "<span><i>Shantae: Risky&rsquo;s Revenge &ndash; Director&rsquo;s Cut</i> combines all of the award-winning content from previous releases and adds even more! The pixel-based masterpiece remains intact, newly augmented with HD portrait artwork and extra challenge. New illustrations, Steam Trading Cards, Achievements, emoticons, controller support, fully configurable controls, and an unlockable Magic Mode with alternate costume round out the package. The Director&rsquo;s Cut also introduces a re-imagined Warp System, perfect for speed runners and returning players alike! Play one of the most critically acclaimed handheld series of all time, now on your PC!</span>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/shantae_riskysrevenge.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Shantae: Risky's Revenge - Director's Cut",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/4de819ed5e5d8cdd8e9e53e2874efe73fac60428.png?auto=compress,format&fit=clip&h=80&w=170&s=b600b35e3ee1b4aa2e5c1ab96b2f8601",
+     "featured_image": "https://hb.imgix.net/4de819ed5e5d8cdd8e9e53e2874efe73fac60428.png?auto=compress,format&w=300&s=b33dfef27f67603c4aacdf800888dd3c",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/74cb20d5ddd80e48d1c9552b2d0f4fde14f78791.jpeg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=a6bb65d97868978f49632501140ba1f6",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/4de819ed5e5d8cdd8e9e53e2874efe73fac60428.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=85ea9d69c9dc93e519b6da59b56da47e",
+     "front_page_art_imgix": "https://hb.imgix.net/4de819ed5e5d8cdd8e9e53e2874efe73fac60428.png?auto=compress,format&w=300&s=b33dfef27f67603c4aacdf800888dd3c",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Shantae: Risky's Revenge - Director's Cut",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "care_org": {
+    "machine_name": "care_org",
+    "youtube_link": null,
+    "item_content_type": null,
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": null,
+    "featured_image": null,
+    "ppgf_info": {
+     "category": "International,Human Services,Disaster Relief",
+     "city": "Atlanta",
+     "description": "Founded in 1945 with the creation of the CARE Package\u00ae, CARE is a leading humanitarian organization fighting global poverty. CARE places special focus on working alongside women and girls. Equipped with the proper resources women and girls have the power to lift whole families and entire communities out of poverty. In 2022, CARE worked in over 110 countries, reaching more than 170 million people through 1,600 projects. To learn more, visit\u202fwww.care.org.",
+     "url": "http://www.care.org/",
+     "country": "US",
+     "charity_id": "5153",
+     "state": "GA",
+     "keywords": "poverty, disaster relief, care, children, women, girls",
+     "human_name": "CARE",
+     "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FZjMyZmIzNjEtNDJiMi00NTc2LWJjNWQtN2NlNGYwNzk0YjQx%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=630f6207fe554edd68d4774717abf65a"
+    },
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "subtitle_html": null,
+    "description_text": "<p><em>Donations to support&nbsp;<span>Care.org</span> are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.</em><br>&nbsp;<br>Founded in 1945 with the creation of the CARE Package\u00ae, CARE is a leading humanitarian organization fighting global poverty. CARE places special focus on working alongside women and girls. Equipped with the proper resources women and girls have the power to lift whole families and entire communities out of poverty. In 2022, CARE worked in over 110 countries, reaching more than 170 million people through 1,600 projects.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/charities/care_org.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "<span>Care.org</span>",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Care.org",
+      "developer-url": "https://www.care.org/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {},
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/4bc7a8113cbf49fa3ab9ccb2eaaa6857955146b1.png?auto=compress,format&fit=clip&h=80&w=170&s=1113212be72cfaed1cb40da0faeb0625",
+     "featured_image": null,
+     "front_page_art_imgix_retina": "https://hb.imgix.net/4bc7a8113cbf49fa3ab9ccb2eaaa6857955146b1.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=bacc5bb451f0e6e9c0bb7f4fe1e88bda",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/4bc7a8113cbf49fa3ab9ccb2eaaa6857955146b1.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=945c31fcd5d32bf94ee0b9d5da9fd924",
+     "front_page_art_imgix": "https://hb.imgix.net/4bc7a8113cbf49fa3ab9ccb2eaaa6857955146b1.png?auto=compress,format&fit=clip&h=240&w=180&s=517b43279f8ae4987dc4a8474a3ae44d",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Care.org",
+    "is_mystery_box": null,
+    "payee_secondary_id": "5153",
+    "wallet_credit": {}
+   },
+   "shantaeandthesevensirens": {
+    "machine_name": "shantaeandthesevensirens",
+    "youtube_link": "bQXEi0f3kf8",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/shantaeandthesevensirens_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Cartoon Violence, Suggestive Themes",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span data-sheets-root=\"1\">Steam Deck Verified</span>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "t",
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 33.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 20.88
+    },
+    "subtitle_html": null,
+    "description_text": "Shantae is back in an all-new tropical adventure! In her fifth outing, the Half-Genie hero gains new Fusion Magic abilities to explore a vast sunken city, makes new Half-Genie friends, and battles the Seven Sirens in her biggest, most thrilling quest yet! Featuring multiple towns and more labyrinths than ever before, an awesome aquatic journey full of danger and discovery awaits!\n<br>\n<br>\nKey Features:\n<br>\n-Traverse an expansive, interconnected world above and below the sea!\n<br>\n-Use Fusion Magic to change instantly between new creature forms!\n<br>\n-Belly dance to activate machinery, restore health, and more!\n<br>\n-Collect and power up with Monster Cards!\n<br>\n-Enjoy minigames, acquire magic and items, and uncover secrets!\n<br>\n-Gorgeously animated TV-style cutscenes!\n<br>\n-All-new characters and returning favorites like Rottytops, Sky, Bolo, and the nefarious pirate Risky Boots!\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/shantaeandthesevensirens_v2.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Shantae and the Seven Sirens",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/shantaeandthesevensirens_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/c52d747907fea4aa3516af570283dace54526f77.png?auto=compress,format&w=300&s=aa6908510b5344726635ef161b73d98a",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/5a79416fafd21455b5bd1990e332ce89b3a6bd99.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=9f7a49a438f752ecfcae3b12da7886c7",
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/c52d747907fea4aa3516af570283dace54526f77.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=c64212c08c852868f9f2931c39bf9a78",
+     "front_page_art_imgix": "https://hb.imgix.net/c52d747907fea4aa3516af570283dace54526f77.png?auto=compress,format&w=300&s=aa6908510b5344726635ef161b73d98a",
+     "front_page_art_charity_imgix": "https://hb.imgix.net/c52d747907fea4aa3516af570283dace54526f77.png?auto=compress,format&fit=clip&h=80&w=170&s=0e89005c51ce19927225035be478126b",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Shantae and the Seven Sirens",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "shantae_piratescurse": {
+    "machine_name": "shantae_piratescurse",
+    "youtube_link": "ZTkv8CkYhHQ",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/shantae_piratescurse_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 21.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 13.92
+    },
+    "subtitle_html": null,
+    "description_text": "<html>\n <head>\n </head>\n <body>\n  Embark on a brand new adventure with Shantae, the hair-whipping belly dancing genie. When she loses her magic, Shantae must team up with her nemesis, the nefarious pirate Risky Boots in order to save Sequin Land from an evil curse. As a pirate, Shantae gains new weapons to advance her quest, slay monsters, battle epic bosses\u2026and hopefully get her magic back in the bargain!  But can she really trust her deadliest enemy?\n  <br>\n  <br>\n  The third Shantae game is the biggest yet!  Beyond Sequin Land lie cursed islands and labyrinths each hiding a new piece of Pirate Gear - Flintlock Pistol, Pirate Hat, Scimitar, Risky's Boots, and even a Cannon. Upgrade Shantae's hair and weapons or unlock advanced Fighter's Moves. Locate maps, return lost Heart Squids, collect rare loot, and laugh out loud at the weird, wild, and wonderfully humorous cast of characters. Incredible high resolution artwork, unlockable Pirate-Mode, multiple endings, and an unforgettable soundtrack make this one game you won't want to miss!\n </body>\n</html>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/shantae_piratescurse.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Shantae and the Pirate's Curse",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/games"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/2fdac22dd0551491583706dd6d3451cbfd4881de.png?auto=compress,format&fit=clip&h=80&w=170&s=fbd0f49c05da9cd8c325a63d2b7f27a1",
+     "featured_image": "https://hb.imgix.net/2fdac22dd0551491583706dd6d3451cbfd4881de.png?auto=compress,format&w=300&s=894cf74354456358c69ef0ad4b09add0",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/53cce35939822f4d38237cbb43cbbf1e1ed10299.jpeg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=993893bdb0fddac376ab51932e67b028",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2fdac22dd0551491583706dd6d3451cbfd4881de.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=5bb8894138ee6d4687c7219f0cc53abe",
+     "front_page_art_imgix": "https://hb.imgix.net/2fdac22dd0551491583706dd6d3451cbfd4881de.png?auto=compress,format&w=300&s=894cf74354456358c69ef0ad4b09add0",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Shantae and the Pirate's Curse",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "spidersaurs": {
+    "machine_name": "spidersaurs",
+    "youtube_link": "mnye8pByT8I",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/spidersaurs_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span data-sheets-root=\"1\">Armed with an arsenal of awesome weapons, it's up to you (and a friend in co-op mode) to shoot your way through six levels of ferocious run-\u2019n\u2019-gun mayhem and send these mutant monstrosities back to the stone age.</span>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 22.79
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 6.96
+    },
+    "subtitle_html": null,
+    "description_text": "Alert! Alert! The nightmarish dinosaur-spider hybrids known as <i>Spidersaurs</i> have run amok and only you (and a friend in co-op mode) can stop them! Created by InGest Corp to provide the meat and muscle that humanity needs to end world hunger, the <i>Spidersaurs</i> are now on the loose, leaving it to two former taste-testers \u2013 officer-in-training Adrian and punk-rocker Victoria \u2013 to use their awesome firepower to overcome six stages of ferocious run-'n'-gun action. Blast through a sweltering jungle, an infested laboratory, the heart of a live volcano, and more! The tangy food source with a bite is biting back, but by grabbing power-ups, gaining new abilities, and obliterating everything in sight, you can send these mutant monstrosities back to the stone age.\n<br>\n<br>\nKey Features:\n<br>\n\u2022 Intense, Saturday-morning-cartoon-style action for one or two players \u2014 complete with theme song and epic intro from Powerhouse Animation!\n<br>\n\u2022 Two distinct playable characters: punk rocker Victoria and officer-in-training Adrian!\n<br>\n\u2022 Unleash awesome firepower \u2014 everything from spread guns and lasers to detonating footballs and bass-heavy electronica! Twelve weapons in all!\n<br>\n\u2022 Explosive environments including volcanoes, jungles, laboratories, and more!\n<br>\n\u2022 A menagerie of unique and terrifying <i>Spidersaurs</i> to battle!\n<br>\n\u2022 Unlock new abilities as you advance through the InGest Corp facility!\n<br>\n\u2022 Three difficulty settings: Well Done, Medium, and Rare!\n<br>\n\u2022 Unlockable arcade mode and speedrun mode!\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/spidersaurs.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Spidersaurs",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/e6556cddf5edd63a907b2ee560e13420ac8599b5.png?auto=compress,format&fit=clip&h=80&w=170&s=52e8a4859b03664acc9af1c54c7c6d8b",
+     "featured_image": "https://hb.imgix.net/e6556cddf5edd63a907b2ee560e13420ac8599b5.png?auto=compress,format&w=300&s=f593a6bacd4e68921694be9497d3bef2",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/6a6c8f59df26390d63fd80fb5512f983b8c74b03.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=a78174baed3a723c91fcb53f4d9e4db8",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e6556cddf5edd63a907b2ee560e13420ac8599b5.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=d74af772d098f18907ba8bf65e02fda1",
+     "front_page_art_imgix": "https://hb.imgix.net/e6556cddf5edd63a907b2ee560e13420ac8599b5.png?auto=compress,format&w=300&s=f593a6bacd4e68921694be9497d3bef2",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Spidersaurs",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "shantae_halfgeniehero_ultimateedition": {
+    "machine_name": "shantae_halfgeniehero_ultimateedition",
+    "youtube_link": "gCqFPPDzCzw",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/shantae_halfgeniehero_ultimateedition_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "WayForward ",
+      "publisher-url": "https://wayforward.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 33.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 20.88
+    },
+    "subtitle_html": null,
+    "description_text": "<html>\n <head>\n </head>\n <body>\n  Shantae embarks on her first full HD adventure! When a mysterious crime wave sweeps Sequin Land, it\u2019s up to Half-Genie Hero Shantae to save the day! Use Shantae\u2019s devastating Hair-Whip Attack to send monsters flying, or Belly Dance to transform into a more powerful creature form! Topple the masterminds behind each criminal caper and prepare for the ultimate showdown against Shantae\u2019s arch nemesis - the bodacious buccaneer Risky Boots!\n  <br>\n  <br>\n  Key Features:\n  <br>\n  <br>\n  \u2022 Shantae\u2019s trademark moves return! Dance to transform into all-new and classic creatures, or summon magical attacks! Over a dozen dances to discover in all!\n  <br>\n  \u2022 New Relic System allows players to unlock new powers and customize moves for Shantae and her many forms!\n  <br>\n  \u2022 Conquer arcade-style action stages that unfold into a full world to explore. Fast action and quest-style exploration rolled into one!\n  <br>\n  \u2022 When Shantae\u2019s story ends, you\u2019re just getting started! DLC Modes introduce new characters, levels, and bosses!\n  <br>\n  \u2022 Huge Bosses, humorous dialogue, and the wonderfully weird Shantae cast return, now in fully animated HD!\n  <br>\n  <br>\n  This all-inclusive version comes with all of the previously released DLC, Modes, and Costumes!\n  <br>\n  <br>\n  Save the day as belly dancing half-genie Shantae! Conquer Sequin Land as the evil Risky Boots in \u2018Pirate Queen\u2019s Quest\u2019! Swap between Sky, Bolo, and Rottytops in \u2018Friends to the End\u2019! And finally, wall-jump as Ninja Shantae, soak up sun as Beach Shantae, serve justice as Officer Shantae!\n  <br>\n  <br>\n  Also includes Tinkerbat Transformation, Blue Shantae & Classic Risky costumes!\n </body>\n</html>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/shantae_halfgeniehero_ultimateedition.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Shantae: Half-Genie Hero Ultimate Edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "WayForward",
+      "developer-url": "https://wayforward.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/f5761f0d76cd104674a19d236788d4d0f1f1c30e.png?auto=compress,format&fit=clip&h=80&w=170&s=6db29aaed80a9929cbf43e5f34b49e75",
+     "featured_image": "https://hb.imgix.net/f5761f0d76cd104674a19d236788d4d0f1f1c30e.png?auto=compress,format&w=300&s=1b49d35ffce2c6ddecb726b5d5ef3cb8",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/79d1e4e36a7f4ea8c334787ac66e8dba7ab209a4.jpeg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=6d0b317abfd77b969b75c8e0fedcf33f",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/f5761f0d76cd104674a19d236788d4d0f1f1c30e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=a173c310d56fd4aba33bfa772a47986a",
+     "front_page_art_imgix": "https://hb.imgix.net/f5761f0d76cd104674a19d236788d4d0f1f1c30e.png?auto=compress,format&w=300&s=1b49d35ffce2c6ddecb726b5d5ef3cb8",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Shantae: Half-Genie Hero Ultimate Edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   }
+  },
+  "splits": [
+   {
+    "partner_split|decimal": 0.6,
+    "name": "WayForward",
+    "extra_charity_partner_split|decimal": 0.525,
+    "extra_charity_split|decimal": 0.575,
+    "sibling_split|decimal": 0.65,
+    "class": "wayforward"
+   },
+   {
+    "partner_split|decimal": 0.05,
+    "name": "CARE",
+    "extra_charity_partner_split|decimal": 0.15,
+    "extra_charity_split|decimal": 0.15,
+    "secondary_id": "5153",
+    "sibling_split|decimal": 0.05,
+    "class": "paypalgivingfund"
+   },
+   {
+    "partner_split|decimal": 0.2,
+    "name": "Humble Tip",
+    "extra_charity_partner_split|decimal": 0.175,
+    "extra_charity_split|decimal": 0.275,
+    "minimum_split|decimal": 0.15,
+    "sibling_split|decimal": 0.3,
+    "class": "humblebundle"
+   }
+  ],
+  "upsell_data": {
+   "monthly_v2_premium": {
+    "category": "subscriptionplan",
+    "image_url": "https://hb.imgix.net/dbff2288ba058d5ab35f145358617bcf487a6c6e.png?auto=compress,format&fit=crop&h=353&w=616&s=b73537cf9c1f7b9d7afcd3188cdfb1ff",
+    "machine_name": "monthly_v2_premium",
+    "description": "",
+    "discount_percentage|decimal": 5.0,
+    "full_price|money": {
+     "currency": "CAD",
+     "amount": 17.99
+    },
+    "renewal_date|datetime": "2026-09-29T17:00:00",
+    "subscription_content_product": "august_2026_choice",
+    "active_content_end_time|datetime": "2026-09-01T17:00:00",
+    "disallow_subscription_discount": null,
+    "subscription_credits": 1,
+    "human_name": "Month-to-Month Plan",
+    "current_price|money": {
+     "currency": "CAD",
+     "amount": 17.09
+    },
+    "active_content_start_time|datetime": "2026-08-04T17:00:00"
+   }
+  },
+  "statistics_data": {
+   "total_charity_raised|money": {
+    "currency": "CAD",
+    "amount": 12135.0
+   },
+   "num_purchases|decimal": 4236.0
+  },
+  "charity_data": {
+   "charity_items": {
+    "care_org": {
+     "machine_name": "care_org",
+     "youtube_link": null,
+     "item_content_type": null,
+     "soundtrack_listing": {
+      "hide_listing": null,
+      "tracks": []
+     },
+     "user_ratings": {},
+     "limited_content": null,
+     "availability_icons": null,
+     "featured_image": null,
+     "ppgf_info": {
+      "category": "International,Human Services,Disaster Relief",
+      "city": "Atlanta",
+      "description": "Founded in 1945 with the creation of the CARE Package\u00ae, CARE is a leading humanitarian organization fighting global poverty. CARE places special focus on working alongside women and girls. Equipped with the proper resources women and girls have the power to lift whole families and entire communities out of poverty. In 2022, CARE worked in over 110 countries, reaching more than 170 million people through 1,600 projects. To learn more, visit\u202fwww.care.org.",
+      "url": "http://www.care.org/",
+      "country": "US",
+      "charity_id": "5153",
+      "state": "GA",
+      "keywords": "poverty, disaster relief, care, children, women, girls",
+      "human_name": "CARE",
+      "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FZjMyZmIzNjEtNDJiMi00NTc2LWJjNWQtN2NlNGYwNzk0YjQx%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=630f6207fe554edd68d4774717abf65a"
+     },
+     "is_region_locked": false,
+     "exclusive_countries": [],
+     "display_user_ratings": null,
+     "rating_details": "",
+     "front_page_art_enabled": true,
+     "rating_info": null,
+     "callout": null,
+     "subscribe_text": null,
+     "all_ratings": {
+      "rar-rating": null,
+      "esrb-rating": null,
+      "pegi-rating": null,
+      "oflc-nz-rating": null,
+      "oflc-au-rating": null,
+      "usk-rating": null
+     },
+     "cta_badge": null,
+     "book_preview": null,
+     "publishers": [],
+     "show_rating": null,
+     "side_box_art_text": null,
+     "third_party_subscribe_text": null,
+     "msrp_price": null,
+     "subtitle_html": null,
+     "description_text": "<p><em>Donations to support&nbsp;<span>Care.org</span> are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.</em><br>&nbsp;<br>Founded in 1945 with the creation of the CARE Package\u00ae, CARE is a leading humanitarian organization fighting global poverty. CARE places special focus on working alongside women and girls. Equipped with the proper resources women and girls have the power to lift whole families and entire communities out of poverty. In 2022, CARE worked in over 110 countries, reaching more than 170 million people through 1,600 projects.</p>",
+     "user_ratings_css_class": "none",
+     "wide_hero_art": false,
+     "front_page_art": {
+      "image_path": "images/charities/care_org.png",
+      "title": null,
+      "resolved_paths": {},
+      "image_text": "<span>Care.org</span>",
+      "link": null,
+      "badge_info": {
+       "badge_tooltip": null,
+       "badge_number": null,
+       "badge_type": null
+      }
+     },
+     "preview_image": null,
+     "developers": [
+      {
+       "developer-name": "Care.org",
+       "developer-url": "https://www.care.org/"
+      }
+     ],
+     "is_clickable": true,
+     "platforms_and_oses": {},
+     "resolved_paths": {
+      "front_page_art_charity_imgix": "https://hb.imgix.net/4bc7a8113cbf49fa3ab9ccb2eaaa6857955146b1.png?auto=compress,format&fit=clip&h=80&w=170&s=1113212be72cfaed1cb40da0faeb0625",
+      "featured_image": null,
+      "front_page_art_imgix_retina": "https://hb.imgix.net/4bc7a8113cbf49fa3ab9ccb2eaaa6857955146b1.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=bacc5bb451f0e6e9c0bb7f4fe1e88bda",
+      "front_page_art_charity_imgix_retina": "https://hb.imgix.net/4bc7a8113cbf49fa3ab9ccb2eaaa6857955146b1.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=945c31fcd5d32bf94ee0b9d5da9fd924",
+      "front_page_art_imgix": "https://hb.imgix.net/4bc7a8113cbf49fa3ab9ccb2eaaa6857955146b1.png?auto=compress,format&fit=clip&h=240&w=180&s=517b43279f8ae4987dc4a8474a3ae44d",
+      "preview_image": null
+     },
+     "disallowed_countries": [],
+     "front_page_url": null,
+     "tall_hero_art": false,
+     "human_name": "Care.org",
+     "is_mystery_box": null,
+     "payee_secondary_id": "5153",
+     "wallet_credit": {}
+    }
+   },
+   "header": "",
+   "charity_item_machine_names": [
+    "care_org"
+   ]
+  },
+  "page_url": "games/shantae-heroic-heroines"
+ }
+}

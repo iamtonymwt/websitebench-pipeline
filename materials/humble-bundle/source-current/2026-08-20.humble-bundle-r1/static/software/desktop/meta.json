@@ -1,0 +1,19 @@
+{
+ "url": "https://www.humblebundle.com/software",
+ "final_url": "https://www.humblebundle.com/software",
+ "title": "Software",
+ "ts_utc": "2026-08-20T22:37:06+00:00",
+ "viewport": {
+  "label": "desktop",
+  "width": 1440,
+  "height": 900,
+  "device_scale_factor": 1,
+  "is_mobile": false
+ },
+ "settle_ms": 7214,
+ "http_status": 200,
+ "notes": [
+  "analytics/consent/captcha hosts route-blocked",
+  "sweep_steps=5"
+ ]
+}

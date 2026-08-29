@@ -1,0 +1,456 @@
+{
+ "num_results": 29,
+ "page_index": 1,
+ "request": 1,
+ "search": "portal",
+ "num_pages": 2,
+ "results": [
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpg?auto=compress,format&fit=crop&h=206&w=360&s=8496b5fe7bd76491bc3def1099f39245",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalkombat_xl_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpg?auto=compress,format&fit=crop&h=84&w=135&s=788b7288e9a734af98de2e3b4117fdf2",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-kombat-xl",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpg?auto=compress,format&fit=crop&h=154&w=270&s=bb6c07b3d2c9b5c87a047f740d1ae98c",
+   "large_capsule": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4dbeacd232a49ffb53fdc023e4781274",
+   "human_name": "Mortal Kombat XL",
+   "type": "product",
+   "icon": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpg?auto=compress,format&fit=crop&h=64&w=103&s=640ee72bf0f33b7a41cad06c6de5d04a",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 39.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 7.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=062a04bb367ba0229341b0548bbcb246",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalkombatx_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=81a9ea2453faeff16f9fa9a923731217",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-kombat-x",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=ec99c2a847994a9f1393a81bcd8cbe8a",
+   "large_capsule": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=eb1553ec6265cb7197b02f4aa0970327",
+   "human_name": "Mortal Kombat X",
+   "type": "product",
+   "icon": "https://hb.imgix.net/b4b218c997925fc4460eac100b610c72fee66f91.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=35b229cab9445a821122be13ce4075fe",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 29.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 5.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/04b289e4c9a90c164d11b98854fe4c4a10a7ef8a.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=bedff177c0979ac9d4e7b9cb24807051",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalkombat11_aftermath_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/04b289e4c9a90c164d11b98854fe4c4a10a7ef8a.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=8e577d182fd96826cbf454d5b857bdc6",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-kombat11-aftermath-expansion",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/04b289e4c9a90c164d11b98854fe4c4a10a7ef8a.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=ad6f5d24ddb550c5e21a9b0dfd498caf",
+   "large_capsule": "https://hb.imgix.net/04b289e4c9a90c164d11b98854fe4c4a10a7ef8a.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=733889e76677e5e3f2b6acedbeaf830c",
+   "human_name": "Mortal Kombat 11: Aftermath Expansion.",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/04b289e4c9a90c164d11b98854fe4c4a10a7ef8a.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=d44f09925979305105739d1223d62ed1",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 49.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 4.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/1130081ca034b189ae228799a2be43b0bd6873a2.jpg?auto=compress,format&fit=crop&h=206&w=360&s=ec70548fbcae66e2dd7411d968a504e5",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalsin_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/1130081ca034b189ae228799a2be43b0bd6873a2.jpg?auto=compress,format&fit=crop&h=84&w=135&s=2303c5c09c1c24a3fabdca96776168e5",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "mortal-sin",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/1130081ca034b189ae228799a2be43b0bd6873a2.jpg?auto=compress,format&fit=crop&h=154&w=270&s=c5219d955c3317c8dbca4137b3c93fbd",
+   "large_capsule": "https://hb.imgix.net/1130081ca034b189ae228799a2be43b0bd6873a2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=52753db8d036b1da89b7d5214ed05290",
+   "human_name": "Mortal Sin",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/1130081ca034b189ae228799a2be43b0bd6873a2.jpg?auto=compress,format&fit=crop&h=64&w=103&s=5ab7c4067dfb6d099a8ba8739bf64d5f",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 32.5
+   },
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 32.5
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/163deb4e19ad2320f39cf3762600fcf495299f88.jpg?auto=compress,format&fit=crop&h=206&w=360&s=35c5faf51fe987fd17c0b5695142b963",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalkombat_legacykollection_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/163deb4e19ad2320f39cf3762600fcf495299f88.jpg?auto=compress,format&fit=crop&h=84&w=135&s=620fc1e55e51bef33f1300e570814d6d",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-kombat-legacy-kollection",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/163deb4e19ad2320f39cf3762600fcf495299f88.jpg?auto=compress,format&fit=crop&h=154&w=270&s=22ac90b710aef5ac5d08ccc424f6b037",
+   "large_capsule": "https://hb.imgix.net/163deb4e19ad2320f39cf3762600fcf495299f88.jpg?auto=compress,format&fit=crop&h=353&w=616&s=415825a32cfcd74fb49276e0e6a2eb93",
+   "human_name": "Mortal Kombat: Legacy Kollection",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/163deb4e19ad2320f39cf3762600fcf495299f88.jpg?auto=compress,format&fit=crop&h=64&w=103&s=d344a88b57ae6b6e703d4f47139c962f",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 64.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 35.74
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/1a4af995f9fd1925b82e3b614e09b0da24a10681.jpg?auto=compress,format&fit=crop&h=206&w=360&s=01ee5fd9f02aef85f88afbfbe043dd58",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalkombat11_kombatpack_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/1a4af995f9fd1925b82e3b614e09b0da24a10681.jpg?auto=compress,format&fit=crop&h=84&w=135&s=bf99ca7e45126fcf9b8718c1c95dfdb2",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-kombat-11-kombat-pack-1",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/1a4af995f9fd1925b82e3b614e09b0da24a10681.jpg?auto=compress,format&fit=crop&h=154&w=270&s=4b394f13523b34ecfa563590d4f68445",
+   "large_capsule": "https://hb.imgix.net/1a4af995f9fd1925b82e3b614e09b0da24a10681.jpg?auto=compress,format&fit=crop&h=353&w=616&s=65ac332195e72a399c80a4202bb70cf3",
+   "human_name": "Mortal Kombat 11 Kombat Pack 1",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/1a4af995f9fd1925b82e3b614e09b0da24a10681.jpg?auto=compress,format&fit=crop&h=64&w=103&s=fe0a0a86cf7c54e7726ca6db19e68c84",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 24.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 6.24
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/59c3c683f45ab513c94fa1e098385dfc9e77b348.jpg?auto=compress,format&fit=crop&h=206&w=360&s=d052f883c99fd31dd33348f3cebaf962",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalglory2_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/59c3c683f45ab513c94fa1e098385dfc9e77b348.jpg?auto=compress,format&fit=crop&h=84&w=135&s=20414f5f5f4aba48365e5b2bad2562fa",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-glory-2",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/59c3c683f45ab513c94fa1e098385dfc9e77b348.jpg?auto=compress,format&fit=crop&h=154&w=270&s=99e92617a60fcc46237cb4d353e0ca9a",
+   "large_capsule": "https://hb.imgix.net/59c3c683f45ab513c94fa1e098385dfc9e77b348.jpg?auto=compress,format&fit=crop&h=353&w=616&s=cd3f97edc1eaac21bfa6023ca508eab0",
+   "human_name": "Mortal Glory 2",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/59c3c683f45ab513c94fa1e098385dfc9e77b348.jpg?auto=compress,format&fit=crop&h=64&w=103&s=f80a4b531a34d01c50191916c525b216",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 15.49
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 7.74
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/368580bdea4907bc912a9aa53f38e84e2f9619fc.jpg?auto=compress,format&fit=crop&h=206&w=360&s=670a8fc7683d041ec09d19d6412d3797",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalglory_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/368580bdea4907bc912a9aa53f38e84e2f9619fc.jpg?auto=compress,format&fit=crop&h=84&w=135&s=2f094f895666e31ceb2ba0eefb58cbde",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-glory",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/368580bdea4907bc912a9aa53f38e84e2f9619fc.jpg?auto=compress,format&fit=crop&h=154&w=270&s=bb0623a1788b64c0ab99ad434ddb16fb",
+   "large_capsule": "https://hb.imgix.net/368580bdea4907bc912a9aa53f38e84e2f9619fc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=86eb02daddadd2d5b5be06221ac75d69",
+   "human_name": "Mortal Glory",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/368580bdea4907bc912a9aa53f38e84e2f9619fc.jpg?auto=compress,format&fit=crop&h=64&w=103&s=47e2eccbc471315e2cd3abacb5cf39b0",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 10.49
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 2.09
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/bfd9ad325bbe70a6987200542673a5be6e797c65.jpg?auto=compress,format&fit=crop&h=206&w=360&s=7860ed4ffd73135058436d2bda30ce72",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalglory-freshblooddlc_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/bfd9ad325bbe70a6987200542673a5be6e797c65.jpg?auto=compress,format&fit=crop&h=84&w=135&s=59e1e2c6e4030555917e366e5e9ee9b2",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-glory-fresh-blood-dlc",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/bfd9ad325bbe70a6987200542673a5be6e797c65.jpg?auto=compress,format&fit=crop&h=154&w=270&s=acd1a84b47c7407c28ecfe2015124a32",
+   "large_capsule": "https://hb.imgix.net/bfd9ad325bbe70a6987200542673a5be6e797c65.jpg?auto=compress,format&fit=crop&h=353&w=616&s=cdcfb5dbabcb7efd2804cb46d1eb512d",
+   "human_name": "Mortal Glory - Fresh Blood DLC",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/bfd9ad325bbe70a6987200542673a5be6e797c65.jpg?auto=compress,format&fit=crop&h=64&w=103&s=272cc43340914c86c266cec58c748c2e",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 4.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 3.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  }
+ ]
+}

@@ -1,0 +1,402 @@
+{
+  "schema_version": "humble-bundle.frontend-gate-samples.v1",
+  "app_file": "clone/app.py",
+  "app_attr": "app",
+  "module_name": "humble_bundle_clone_app",
+  "checks": [
+    {
+      "id": "core.bundles",
+      "url": "/bundles",
+      "expect_status": 200,
+      "expect_contains": [
+        "Humble Bundles"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.bundle-anchor",
+      "url": "/games/yes-chef-cooking-bundle",
+      "expect_status": 200,
+      "expect_contains": [
+        "Yes Chef!"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.store-product",
+      "url": "/store/satisfactory",
+      "expect_status": 200,
+      "expect_contains": [
+        "Add to Cart"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.store-no-results",
+      "url": "/store/search?search=zzzz-no-match-websitebench",
+      "expect_status": 200,
+      "expect_contains": [
+        "0 Results"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.not-found",
+      "url": "/this-page-does-not-exist-websitebench",
+      "expect_status": 404,
+      "expect_contains": [
+        "page you requested cannot be found"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.games",
+      "url": "/games",
+      "expect_status": 200,
+      "expect_contains": [
+        "Games"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.home",
+      "url": "/",
+      "expect_status": 200,
+      "expect_contains": [
+        "Get great games every month with Humble Choice"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.books",
+      "url": "/books",
+      "expect_status": 200,
+      "expect_contains": [
+        "Books"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.software",
+      "url": "/software",
+      "expect_status": 200,
+      "expect_contains": [
+        "Software"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.store",
+      "url": "/store",
+      "expect_status": 200,
+      "expect_contains": [
+        "Humble Store"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.store-search-portal",
+      "url": "/store/search?search=portal",
+      "expect_status": 200,
+      "expect_contains": [
+        "The Humble Store"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.bundle-2k",
+      "url": "/games/2k-megahits-2026-bundle",
+      "expect_status": 200,
+      "expect_contains": [
+        "Megahits 2026 Bundle"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.bundle-hydrated",
+      "url": "/games/dungeons-dragons-classics-collection-2026",
+      "expect_status": 200,
+      "expect_contains": [
+        "Pay What You Want"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.membership",
+      "url": "/membership",
+      "expect_status": 200,
+      "expect_contains": [
+        "Humble Choice"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.healthz",
+      "url": "/healthz",
+      "expect_status": 200,
+      "expect_contains": [
+        "\"site_id\":\"humble-bundle\""
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.api-preview-15",
+      "url": "/api/bundle/yes-chef-cooking-bundle/preview?amount_minor=1500",
+      "expect_status": 200,
+      "expect_contains": [
+        "\"unlocked_count\":7"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.api-search-portal",
+      "url": "/api/search?search=portal",
+      "expect_status": 200,
+      "expect_contains": [
+        "\"num_results\":29"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.api-suggest-portal",
+      "url": "/api/suggest?q=portal",
+      "expect_status": 200,
+      "expect_contains": [
+        "Massive Unreal Engine Bundle"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "core.api-bundles",
+      "url": "/api/bundles",
+      "expect_status": 200,
+      "expect_contains": [
+        "yes-chef-cooking-bundle"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.login",
+      "url": "/login",
+      "expect_status": 200,
+      "expect_contains": [
+        "Forgot your password?"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.signup",
+      "url": "/signup",
+      "expect_status": 200,
+      "expect_contains": [
+        "Create an account"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.secure-area",
+      "url": "/home/library",
+      "expect_status": 302,
+      "expect_contains": [],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.support",
+      "url": "/support",
+      "expect_status": 200,
+      "expect_contains": [
+        "Humble Bundle"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.support-category",
+      "url": "/support/categories/200166394",
+      "expect_status": 200,
+      "expect_contains": [
+        "Key Redemption"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.external",
+      "url": "/external/blog-humblebundle-com",
+      "expect_status": 200,
+      "expect_contains": [
+        "outside the offline demo"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.support-article",
+      "url": "/support/articles/52764568066971",
+      "expect_status": 200,
+      "expect_contains": [
+        "Redemption"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.about",
+      "url": "/about",
+      "expect_status": 200,
+      "expect_contains": [
+        "Humble Bundle"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.charities",
+      "url": "/charities",
+      "expect_status": 200,
+      "expect_contains": [
+        "charit"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.terms",
+      "url": "/terms",
+      "expect_status": 200,
+      "expect_contains": [
+        "Terms of Service"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.privacy",
+      "url": "/privacy",
+      "expect_status": 200,
+      "expect_contains": [
+        "Privacy"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.legal",
+      "url": "/legal",
+      "expect_status": 200,
+      "expect_contains": [
+        "Legal"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.cookie-policy",
+      "url": "/cookie-policy",
+      "expect_status": 200,
+      "expect_contains": [
+        "Cookie"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    },
+    {
+      "id": "auth.accessibility",
+      "url": "/accessibility",
+      "expect_status": 200,
+      "expect_contains": [
+        "Accessibility Policy"
+      ],
+      "expect_not_contains": [
+        "NotImplementedError"
+      ],
+      "session": false
+    }
+  ]
+}

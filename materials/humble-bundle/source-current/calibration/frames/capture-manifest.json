@@ -1,0 +1,170 @@
+{
+ "run": {
+  "purpose": "three-frame visual-stability calibration capture",
+  "target": "https://www.humblebundle.com",
+  "out_root": "/Users/wentaoma/Desktop/websitebench-pipeline/materials/humble-bundle/source-current/calibration/frames",
+  "started_utc": "2026-08-20T22:56:13+00:00",
+  "browser_version": "149.0.7827.55",
+  "headless": false,
+  "frames_per_cell": 3,
+  "frame_gap_s": 20.0,
+  "workers": 2,
+  "viewports": [
+   "desktop",
+   "mobile"
+  ],
+  "checkpoints": [
+   "home",
+   "bundles",
+   "games",
+   "bundle-anchor",
+   "store",
+   "store-search",
+   "store-search-noresults",
+   "store-product-satisfactory",
+   "login",
+   "signup",
+   "membership",
+   "notfound-404"
+  ],
+  "base_settle_ms": 3500,
+  "notes": [
+   "fresh ephemeral browser context per frame; cookies/session state never persisted",
+   "request/response headers never saved",
+   "analytics/consent/captcha hosts route-blocked (same policy as the static matrix)",
+   "read-only public GET page loads; robots-disallowed paths refused"
+  ]
+ },
+ "cells": {
+  "home/desktop": {
+   "frames": {
+    "frame-1": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-2": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-3": {
+     "status": "ok",
+     "attempts": 2,
+     "reason": null,
+     "http_status": 200
+    }
+   },
+   "url": "https://www.humblebundle.com/",
+   "status": "ok"
+  },
+  "bundles/desktop": {
+   "frames": {
+    "frame-1": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-2": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-3": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    }
+   },
+   "url": "https://www.humblebundle.com/bundles",
+   "status": "ok"
+  },
+  "games/desktop": {
+   "frames": {
+    "frame-1": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-2": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-3": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    }
+   },
+   "url": "https://www.humblebundle.com/games",
+   "status": "ok"
+  },
+  "bundle-anchor/desktop": {
+   "frames": {
+    "frame-1": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-2": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-3": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    }
+   },
+   "url": "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+   "status": "ok"
+  },
+  "store/desktop": {
+   "frames": {
+    "frame-1": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-2": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    }
+   },
+   "url": "https://www.humblebundle.com/store"
+  },
+  "store-search/desktop": {
+   "frames": {
+    "frame-1": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    },
+    "frame-2": {
+     "status": "ok",
+     "attempts": 1,
+     "reason": null,
+     "http_status": 200
+    }
+   },
+   "url": "https://www.humblebundle.com/store/search?search=portal"
+  }
+ }
+}

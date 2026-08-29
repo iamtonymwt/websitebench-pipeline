@@ -1,0 +1,5384 @@
+{
+ "userOptions": {
+  "is_logged_in": false,
+  "logout_url": "/logout?goto=/games/short-games-showcase-bundle&qs="
+ },
+ "showSingleSignOn": true,
+ "debug": false,
+ "ipInChina": false,
+ "isEuCountry": false,
+ "baseSubscriptionPrice|money": {
+  "currency": "CAD",
+  "amount": 17.99
+ },
+ "bannerOptions": null,
+ "exchangeRates": {
+  "USD|decimal": 1.0,
+  "AUD|decimal": 1.4072425306052565,
+  "CHF|decimal": 0.7989898125160517,
+  "IDR|decimal": 17796.952315726394,
+  "KRW|decimal": 1396.353051964729,
+  "CNY|decimal": 6.723568187655166,
+  "ISK|decimal": 121.56493450903176,
+  "ILS|decimal": 2.9920383528807464,
+  "GBP|decimal": 0.7338840852666724,
+  "NZD|decimal": 1.682818251861998,
+  "DKK|decimal": 6.399965756356476,
+  "CAD|decimal": 1.3770225151956168,
+  "TRY|decimal": 47.953514253916616,
+  "HUF|decimal": 312.55885626230634,
+  "PHP|decimal": 61.727591815769195,
+  "RON|decimal": 4.495762349113946,
+  "NOK|decimal": 9.333533087920555,
+  "RUB|decimal": 117.201,
+  "ZAR|decimal": 16.17404331820906,
+  "MYR|decimal": 4.044003081927917,
+  "MXN|decimal": 16.99058299803099,
+  "INR|decimal": 95.70969951202808,
+  "THB|decimal": 32.914990154952484,
+  "JPY|decimal": 158.7620922866193,
+  "CZK|decimal": 20.677168050680592,
+  "BRL|decimal": 5.19356219501755,
+  "PLN|decimal": 3.697286191250749,
+  "EUR|decimal": 0.8560910880917729,
+  "SEK|decimal": 9.491909939217532,
+  "SGD|decimal": 1.2721513569043745,
+  "HKD|decimal": 7.843848985532061
+ },
+ "csrfTokenInput": "REDACTED-CSRF-TOKEN",
+ "csrfToken": "REDACTED-CSRF-TOKEN",
+ "user_max_reward_amount": 0,
+ "csrfFormKey": "REDACTED-CSRF-TOKEN",
+ "bundleData": {
+  "machine_name": "shortgamesshowcasebundle_bundle",
+  "jplayer_swf_path": "https://cdn.humblebundle.com/static/hashed/682bac84e8df7e444ab9127ce8e22f626caf0e41.swf",
+  "at_risk_tpkds": {},
+  "tier_display_data": {
+   "bt12": {
+    "header": "Pay CA$16.83 or more to also unlock!",
+    "identifier": "bt12",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "botanymanor",
+     "biped",
+     "monsterprom2_monstercamp",
+     "anomalyagent",
+     "nanoapostle",
+     "Knightica",
+     "thedarkqueenofmortholme",
+     "fillupthehole",
+     "oldmansjourney",
+     "teacup",
+     "ajugglerstale",
+     "scannersombre",
+     "astroprospector",
+     "atinystickertale"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "initial": {
+    "header": "Pay CA$8.41 to unlock!",
+    "identifier": "initial",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "fillupthehole",
+     "oldmansjourney",
+     "teacup",
+     "ajugglerstale",
+     "scannersombre",
+     "astroprospector",
+     "atinystickertale"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   }
+  },
+  "tier_order": [
+   "bt12",
+   "initial"
+  ],
+  "is_all_charity_bundle": false,
+  "author": "Publishers",
+  "tax_type": null,
+  "preset_prices": [
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 30.0
+    },
+    "suggested": true,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 35.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 40.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 45.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   }
+  ],
+  "cyoc_data": {},
+  "average_data": {
+   "average_usd_amount|decimal": 12.707712097087846,
+   "average_usd_string": "12.70771209708784689390130342",
+   "avguuid": "EM9ULsIUZ51ksYSC",
+   "cleanavg": "12.70",
+   "average_usd|money": {
+    "currency": "USD",
+    "amount": 12.707712097087846
+   },
+   "average|money": {
+    "currency": "CAD",
+    "amount": 17.49
+   },
+   "avghash": "FL8DW30ykuumBsmk+IszYSj+kpRkW0RvbQW8X2koI+8="
+  },
+  "leaderboard_data": [
+   {
+    "name": "Dr. B",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "Super",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 20.0
+    }
+   },
+   {
+    "name": "Kevlaxo",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 15.0
+    }
+   },
+   {
+    "name": "B 4 2 0",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 12.68
+    }
+   },
+   {
+    "name": "Erya",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 12.68
+    }
+   },
+   {
+    "name": "DionDuncan",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 12.58
+    }
+   },
+   {
+    "name": "Niceone548",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 12.58
+    }
+   },
+   {
+    "name": "JerJo",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 12.5
+    }
+   },
+   {
+    "name": "Wargods17282",
+    "order_price|money": {
+     "currency": "GBP",
+     "amount": 10.68
+    }
+   }
+  ],
+  "empty_tpkds": {},
+  "at_time|datetime": "2026-08-21T00:02:35.495256",
+  "basic_data": {
+   "eula": null,
+   "split_disclaimer": null,
+   "currency": "CAD",
+   "giving_fund": "ppgf",
+   "logo": "https://hb.imgix.net/8cf651f0a399318e266bb876fe5033ac3941e487.png?auto=compress,format&h=340&w=1200&s=f92aefe6c243a090e8d4f5d9c1fb4cf3",
+   "disallowed_payment_processors": [],
+   "newsletter_mailing_list_machine_name": "bundle_emails",
+   "supports_partners": true,
+   "detailed_marketing_blurb": "Don\u2019t let life keep you from unwinding with a great game\u2014cozy up for a quick session with our Short Games Showcase. Play <em>Botany Manor</em>, the cozy garden sim where you experiment with flora and fauna as a botanist. Try <em>Anomaly Agent</em>, the bloody good retro-inspired side-scrolling beat \u2019em up armed with an addictive synthwave soundtrack! Or connect with a friend for a co-op moment in <em>Biped</em>, the speed-and movement-focused puzzler. Pay what you want for 14 games that work around your schedule and help support Comic Relief with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before February 28th, 2027. </span>",
+   "order_form_disclaimer": null,
+   "media_type": "game",
+   "description": "<p><strong>A showcase of short, great games.</strong> Don\u2019t let life keep you from unwinding with a great game\u2014cozy up for a quick session with our Short Games Showcase. Play <em>Botany Manor</em>, the cozy garden sim where you experiment with flora and fauna as a botanist. Try <em>Anomaly Agent</em>, the bloody good retro-inspired side-scrolling beat \u2019em up armed with an addictive synthwave soundtrack! Or connect with a friend for a co-op moment in <em>Biped</em>, the speed-and movement-focused puzzler. Pay what you want for 14 games that work around your schedule and help support Comic Relief with your purchase!<br><br><strong><span style=\"color: #ef9741;\">Keys expire. Please redeem before February 28th, 2027.</span></strong></p>\n<p><strong>Pay CA$8.41 or more.</strong> Normally, the total cost for the games in this bundle is as much as US$166. Here at Humble Bundle, you choose the price and increase your contribution to upgrade your bundle! This bundle has a minimum CA$8.41 purchase. Pay CA$8.41 or more to access Steam keys.</p>\n<p><strong>Redeem on Steam.</strong> All of the games in this bundle are available on Steam for Windows \u2014 and some for Mac and Linux too. Please check out the full system requirements <a href=\"https://support.humblebundle.com/hc/en-us/articles/53932056647707/live_preview/01KZ4QRV7Q33C4PMF1P89VPB9A\" rel=\"noopener\" target=\"_blank\">here</a> prior to purchasing.</p>\n<p><strong>Support charity.</strong> Choose where the money goes - between the publishers and to support Comic Relief. If you like what we do, you can leave us a Humble Tip too!</p>",
+   "legal_disclaimer": null,
+   "page_title_tag": "",
+   "short_marketing_blurb": "A showcase of short, great games",
+   "required_account_links": [
+    "steam"
+   ],
+   "require_linked_third_party_account_when": "only-when-free",
+   "region_lock_warnings": {},
+   "youtube_video_key": null,
+   "twitch_data": {},
+   "allowed_payment_processors": [
+    "free",
+    "paypal",
+    "alipay",
+    "alipay_payment_intent",
+    "stripe_checkout",
+    "stripe_payment_intent"
+   ],
+   "end_time|datetime": "2026-08-29T04:00:00",
+   "msrp|money": {
+    "currency": "CAD",
+    "amount": 228.58573752247239
+   },
+   "human_name": "Short Games Showcase Bundle",
+   "tpkd_cutoff_price|money": {
+    "currency": "CAD",
+    "amount": 8.41
+   }
+  },
+  "tier_pricing_data": {
+   "initial": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 17.5
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": true,
+    "identifier": "initial",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "bt12": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 17.5
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt12",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   }
+  },
+  "partner_data": null,
+  "other_bundles_data": [
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/gregbearbirthdaybundleopenroadmedia_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       324.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$324"
+    },
+    "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=576eb764f980a4edc4ff65123ee0224e",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em></em>, <em></em>, <em>Anvil of Stars</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/greg-bear-birthday-bundle-open-road-media-books",
+    "tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=353&w=616&s=73a07b9e661f143511f78cc6f714eba4",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        2.78,
+        "EUR"
+       ],
+       "FR": [
+        2.77,
+        "EUR"
+       ],
+       "BG": [
+        3.15,
+        "EUR"
+       ],
+       "DK": [
+        3.28,
+        "EUR"
+       ],
+       "HR": [
+        2.76,
+        "EUR"
+       ],
+       "DE": [
+        2.81,
+        "EUR"
+       ],
+       "JP": [
+        3.3,
+        "USD"
+       ],
+       "HU": [
+        3.34,
+        "EUR"
+       ],
+       "US": [
+        3.0,
+        "USD"
+       ],
+       "FI": [
+        2.89,
+        "EUR"
+       ],
+       "BY": [
+        3.54,
+        "USD"
+       ],
+       "GR": [
+        2.78,
+        "EUR"
+       ],
+       "RU": [
+        383.56,
+        "RUB"
+       ],
+       "NL": [
+        2.86,
+        "EUR"
+       ],
+       "PT": [
+        2.78,
+        "EUR"
+       ],
+       "NO": [
+        2.63,
+        "EUR"
+       ],
+       "TW": [
+        3.15,
+        "USD"
+       ],
+       "TR": [
+        141.09,
+        "TRY"
+       ],
+       "NZ": [
+        5.92,
+        "NZD"
+       ],
+       "LV": [
+        2.76,
+        "EUR"
+       ],
+       "LT": [
+        2.86,
+        "EUR"
+       ],
+       "LU": [
+        2.7,
+        "EUR"
+       ],
+       "TH": [
+        3.0,
+        "USD"
+       ],
+       "PH": [
+        185.06,
+        "PHP"
+       ],
+       "RO": [
+        2.76,
+        "EUR"
+       ],
+       "IS": [
+        3.33,
+        "USD"
+       ],
+       "PL": [
+        2.76,
+        "EUR"
+       ],
+       "CH": [
+        2.69,
+        "EUR"
+       ],
+       "MT": [
+        2.76,
+        "EUR"
+       ],
+       "CN": [
+        20.32,
+        "CNY"
+       ],
+       "CL": [
+        3.57,
+        "USD"
+       ],
+       "EE": [
+        2.86,
+        "EUR"
+       ],
+       "EG": [
+        3.42,
+        "USD"
+       ],
+       "IT": [
+        2.73,
+        "EUR"
+       ],
+       "ZA": [
+        3.45,
+        "USD"
+       ],
+       "CZ": [
+        2.63,
+        "EUR"
+       ],
+       "CY": [
+        3.12,
+        "EUR"
+       ],
+       "AU": [
+        4.71,
+        "AUD"
+       ],
+       "GB": [
+        2.23,
+        "GBP"
+       ],
+       "IN": [
+        3.54,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        2.23,
+        "GBP"
+       ],
+       "IE": [
+        2.63,
+        "EUR"
+       ],
+       "ES": [
+        2.73,
+        "EUR"
+       ],
+       "MD": [
+        3.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        2.63,
+        "EUR"
+       ],
+       "UA": [
+        3.6,
+        "USD"
+       ],
+       "CA": [
+        4.22,
+        "CAD"
+       ],
+       "SK": [
+        3.23,
+        "EUR"
+       ],
+       "KR": [
+        3.3,
+        "USD"
+       ],
+       "SI": [
+        2.76,
+        "EUR"
+       ],
+       "SG": [
+        3.27,
+        "USD"
+       ],
+       "MX": [
+        3.48,
+        "USD"
+       ],
+       "SE": [
+        2.78,
+        "EUR"
+       ],
+       "AT": [
+        2.89,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        9.28,
+        "EUR"
+       ],
+       "FR": [
+        9.24,
+        "EUR"
+       ],
+       "BG": [
+        10.51,
+        "EUR"
+       ],
+       "DK": [
+        10.95,
+        "EUR"
+       ],
+       "HR": [
+        9.19,
+        "EUR"
+       ],
+       "DE": [
+        9.37,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        11.12,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        9.63,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        9.28,
+        "EUR"
+       ],
+       "RU": [
+        1278.55,
+        "RUB"
+       ],
+       "NL": [
+        9.54,
+        "EUR"
+       ],
+       "PT": [
+        9.28,
+        "EUR"
+       ],
+       "NO": [
+        8.76,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        470.31,
+        "TRY"
+       ],
+       "NZ": [
+        19.76,
+        "NZD"
+       ],
+       "LV": [
+        9.19,
+        "EUR"
+       ],
+       "LT": [
+        9.54,
+        "EUR"
+       ],
+       "LU": [
+        9.02,
+        "EUR"
+       ],
+       "TH": [
+        10.0,
+        "USD"
+       ],
+       "PH": [
+        616.87,
+        "PHP"
+       ],
+       "RO": [
+        9.19,
+        "EUR"
+       ],
+       "IS": [
+        11.1,
+        "USD"
+       ],
+       "PL": [
+        9.19,
+        "EUR"
+       ],
+       "CH": [
+        8.98,
+        "EUR"
+       ],
+       "MT": [
+        9.19,
+        "EUR"
+       ],
+       "CN": [
+        67.74,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        9.54,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        9.11,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        8.76,
+        "EUR"
+       ],
+       "CY": [
+        10.42,
+        "EUR"
+       ],
+       "AU": [
+        15.75,
+        "AUD"
+       ],
+       "GB": [
+        7.46,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.46,
+        "GBP"
+       ],
+       "IE": [
+        8.76,
+        "EUR"
+       ],
+       "ES": [
+        9.11,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.76,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        14.07,
+        "CAD"
+       ],
+       "SK": [
+        10.77,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        9.19,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        9.28,
+        "EUR"
+       ],
+       "AT": [
+        9.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt18",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.72,
+        "EUR"
+       ],
+       "FR": [
+        16.64,
+        "EUR"
+       ],
+       "BG": [
+        18.93,
+        "EUR"
+       ],
+       "DK": [
+        19.72,
+        "EUR"
+       ],
+       "HR": [
+        16.56,
+        "EUR"
+       ],
+       "DE": [
+        16.88,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        20.04,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.72,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.2,
+        "EUR"
+       ],
+       "PT": [
+        16.72,
+        "EUR"
+       ],
+       "NO": [
+        15.78,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.56,
+        "TRY"
+       ],
+       "NZ": [
+        35.58,
+        "NZD"
+       ],
+       "LV": [
+        16.56,
+        "EUR"
+       ],
+       "LT": [
+        17.2,
+        "EUR"
+       ],
+       "LU": [
+        16.25,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1110.37,
+        "PHP"
+       ],
+       "RO": [
+        16.56,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.56,
+        "EUR"
+       ],
+       "CH": [
+        16.19,
+        "EUR"
+       ],
+       "MT": [
+        16.56,
+        "EUR"
+       ],
+       "CN": [
+        121.93,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.2,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.41,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.78,
+        "EUR"
+       ],
+       "CY": [
+        18.77,
+        "EUR"
+       ],
+       "AU": [
+        28.34,
+        "AUD"
+       ],
+       "GB": [
+        13.42,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.42,
+        "GBP"
+       ],
+       "IE": [
+        15.78,
+        "EUR"
+       ],
+       "ES": [
+        16.41,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.78,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.33,
+        "CAD"
+       ],
+       "SK": [
+        19.4,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.56,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.72,
+        "EUR"
+       ],
+       "AT": [
+        17.35,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt18_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$324 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$324."
+     },
+     {
+      "heading": "Pay AU$4.71 or more",
+      "tooltip": "Name your price of AU$4.71 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub and PRC file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T18:00:00",
+    "author": "Open Road Media",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "The world of science fiction lost a titan when novelist Greg Bear passed away in 2022, but his books remain a perfect example of exactly what sci-fi was always meant to be. Author of over 50 books and co-founder of San Diego Comic Con, Bear made loving sci-fi into a career that spanned five decades. His work, which tested the limits of human (and non-human) consciousness and looked toward the far future and beyond, inspires and excites readers to this day. To celebrate what would have been Greg Bear\u2019s 75th Birthday, in partnership with Open Road Media, we\u2019ve collected a bundle of his best novels including award-winning classics like first contact thriller <em>Eon</em>, alien invasion drama <em>The Forge of God</em>, and post-apocalyptic space odyssey <em>Anvil of Stars</em>! Get a motherlode of some of the best sci-fi ever written for the price of your choosing, and support the Science Fiction & Fantasy Writers Association with your purchase!",
+    "tile_logo": "https://hb.imgix.net/ec343992eae9f55f52c94db55a21017493a1db5e.png?auto=compress,format&h=340&w=1200&s=de401b9bb65fa73cf486e75484327755",
+    "tile_short_name": "The Greg Bear Birthday Bundle by Open Road Media",
+    "start_date|datetime": "2026-08-20T18:00:00",
+    "hover_highlights": [
+     "27 books",
+     "US$324 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Greg Bear Birthday Bundle by Open Road Media",
+    "short_marketing_blurb": "Celebrate the birthday of one of sci-fi\u2019s masters",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "27 books",
+     "US$324 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/yeschefcookingbundle_bundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       208.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$208"
+    },
+    "machine_name": "yeschefcookingbundle_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=cd648c330733cbf4e8ae61aeaccacfe2",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Chef Knight</em>, <em>Pizza Possum</em>, <em>The Chef's Shift</em>, <em>Tailside: Cozy Cafe Sim</em>, <em>Tavern Manager Simulator</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/yes-chef-cooking-bundle",
+    "tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e6118af1c71a67d3aa9db97b9ade14d3",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        7.32,
+        "EUR"
+       ],
+       "FR": [
+        7.26,
+        "EUR"
+       ],
+       "BG": [
+        7.26,
+        "EUR"
+       ],
+       "DK": [
+        7.56,
+        "EUR"
+       ],
+       "HR": [
+        7.56,
+        "EUR"
+       ],
+       "DE": [
+        7.19,
+        "EUR"
+       ],
+       "JP": [
+        7.7,
+        "USD"
+       ],
+       "HU": [
+        7.68,
+        "EUR"
+       ],
+       "US": [
+        7.0,
+        "USD"
+       ],
+       "FI": [
+        7.59,
+        "EUR"
+       ],
+       "BY": [
+        8.26,
+        "USD"
+       ],
+       "GR": [
+        7.5,
+        "EUR"
+       ],
+       "RU": [
+        957.13,
+        "RUB"
+       ],
+       "NL": [
+        7.32,
+        "EUR"
+       ],
+       "PT": [
+        7.44,
+        "EUR"
+       ],
+       "NO": [
+        7.56,
+        "EUR"
+       ],
+       "TW": [
+        7.35,
+        "USD"
+       ],
+       "TR": [
+        335.19,
+        "TRY"
+       ],
+       "NZ": [
+        13.66,
+        "NZD"
+       ],
+       "LV": [
+        7.32,
+        "EUR"
+       ],
+       "LT": [
+        7.13,
+        "EUR"
+       ],
+       "LU": [
+        7.07,
+        "EUR"
+       ],
+       "TH": [
+        7.49,
+        "USD"
+       ],
+       "PH": [
+        429.71,
+        "PHP"
+       ],
+       "RO": [
+        7.01,
+        "EUR"
+       ],
+       "IS": [
+        8.68,
+        "USD"
+       ],
+       "PL": [
+        7.44,
+        "EUR"
+       ],
+       "CH": [
+        6.54,
+        "EUR"
+       ],
+       "MT": [
+        7.13,
+        "EUR"
+       ],
+       "CN": [
+        47.18,
+        "CNY"
+       ],
+       "CL": [
+        8.33,
+        "USD"
+       ],
+       "EE": [
+        7.38,
+        "EUR"
+       ],
+       "EG": [
+        7.98,
+        "USD"
+       ],
+       "IT": [
+        7.38,
+        "EUR"
+       ],
+       "ZA": [
+        8.05,
+        "USD"
+       ],
+       "CZ": [
+        7.32,
+        "EUR"
+       ],
+       "CY": [
+        7.19,
+        "EUR"
+       ],
+       "AU": [
+        10.86,
+        "AUD"
+       ],
+       "GB": [
+        6.2,
+        "GBP"
+       ],
+       "IN": [
+        8.26,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        5.17,
+        "GBP"
+       ],
+       "IE": [
+        7.44,
+        "EUR"
+       ],
+       "ES": [
+        7.32,
+        "EUR"
+       ],
+       "MD": [
+        8.4,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        6.05,
+        "EUR"
+       ],
+       "UA": [
+        8.4,
+        "USD"
+       ],
+       "CA": [
+        9.71,
+        "CAD"
+       ],
+       "SK": [
+        7.44,
+        "EUR"
+       ],
+       "KR": [
+        7.7,
+        "USD"
+       ],
+       "SI": [
+        7.38,
+        "EUR"
+       ],
+       "SG": [
+        7.63,
+        "USD"
+       ],
+       "MX": [
+        8.12,
+        "USD"
+       ],
+       "SE": [
+        7.56,
+        "EUR"
+       ],
+       "AT": [
+        7.26,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt13",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        13.58,
+        "EUR"
+       ],
+       "FR": [
+        13.47,
+        "EUR"
+       ],
+       "BG": [
+        13.47,
+        "EUR"
+       ],
+       "DK": [
+        14.03,
+        "EUR"
+       ],
+       "HR": [
+        14.03,
+        "EUR"
+       ],
+       "DE": [
+        13.36,
+        "EUR"
+       ],
+       "JP": [
+        14.3,
+        "USD"
+       ],
+       "HU": [
+        14.26,
+        "EUR"
+       ],
+       "US": [
+        13.0,
+        "USD"
+       ],
+       "FI": [
+        14.09,
+        "EUR"
+       ],
+       "BY": [
+        15.34,
+        "USD"
+       ],
+       "GR": [
+        13.92,
+        "EUR"
+       ],
+       "RU": [
+        1777.54,
+        "RUB"
+       ],
+       "NL": [
+        13.58,
+        "EUR"
+       ],
+       "PT": [
+        13.81,
+        "EUR"
+       ],
+       "NO": [
+        14.03,
+        "EUR"
+       ],
+       "TW": [
+        13.65,
+        "USD"
+       ],
+       "TR": [
+        622.49,
+        "TRY"
+       ],
+       "NZ": [
+        25.38,
+        "NZD"
+       ],
+       "LV": [
+        13.58,
+        "EUR"
+       ],
+       "LT": [
+        13.25,
+        "EUR"
+       ],
+       "LU": [
+        13.13,
+        "EUR"
+       ],
+       "TH": [
+        13.91,
+        "USD"
+       ],
+       "PH": [
+        798.04,
+        "PHP"
+       ],
+       "RO": [
+        13.02,
+        "EUR"
+       ],
+       "IS": [
+        16.12,
+        "USD"
+       ],
+       "PL": [
+        13.81,
+        "EUR"
+       ],
+       "CH": [
+        12.13,
+        "EUR"
+       ],
+       "MT": [
+        13.25,
+        "EUR"
+       ],
+       "CN": [
+        87.63,
+        "CNY"
+       ],
+       "CL": [
+        15.47,
+        "USD"
+       ],
+       "EE": [
+        13.7,
+        "EUR"
+       ],
+       "EG": [
+        14.82,
+        "USD"
+       ],
+       "IT": [
+        13.7,
+        "EUR"
+       ],
+       "ZA": [
+        14.95,
+        "USD"
+       ],
+       "CZ": [
+        13.58,
+        "EUR"
+       ],
+       "CY": [
+        13.36,
+        "EUR"
+       ],
+       "AU": [
+        20.18,
+        "AUD"
+       ],
+       "GB": [
+        11.52,
+        "GBP"
+       ],
+       "IN": [
+        15.34,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        9.6,
+        "GBP"
+       ],
+       "IE": [
+        13.81,
+        "EUR"
+       ],
+       "ES": [
+        13.58,
+        "EUR"
+       ],
+       "MD": [
+        15.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        11.23,
+        "EUR"
+       ],
+       "UA": [
+        15.6,
+        "USD"
+       ],
+       "CA": [
+        18.03,
+        "CAD"
+       ],
+       "SK": [
+        13.81,
+        "EUR"
+       ],
+       "KR": [
+        14.3,
+        "USD"
+       ],
+       "SI": [
+        13.7,
+        "EUR"
+       ],
+       "SG": [
+        14.17,
+        "USD"
+       ],
+       "MX": [
+        15.08,
+        "USD"
+       ],
+       "SE": [
+        14.03,
+        "EUR"
+       ],
+       "AT": [
+        13.47,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt13_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt16",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.73,
+        "EUR"
+       ],
+       "FR": [
+        16.59,
+        "EUR"
+       ],
+       "BG": [
+        16.59,
+        "EUR"
+       ],
+       "DK": [
+        17.28,
+        "EUR"
+       ],
+       "HR": [
+        17.28,
+        "EUR"
+       ],
+       "DE": [
+        16.45,
+        "EUR"
+       ],
+       "JP": [
+        17.6,
+        "USD"
+       ],
+       "HU": [
+        17.56,
+        "EUR"
+       ],
+       "US": [
+        16.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        18.88,
+        "USD"
+       ],
+       "GR": [
+        17.14,
+        "EUR"
+       ],
+       "RU": [
+        2187.74,
+        "RUB"
+       ],
+       "NL": [
+        16.73,
+        "EUR"
+       ],
+       "PT": [
+        17.01,
+        "EUR"
+       ],
+       "NO": [
+        17.28,
+        "EUR"
+       ],
+       "TW": [
+        16.8,
+        "USD"
+       ],
+       "TR": [
+        766.15,
+        "TRY"
+       ],
+       "NZ": [
+        31.23,
+        "NZD"
+       ],
+       "LV": [
+        16.73,
+        "EUR"
+       ],
+       "LT": [
+        16.31,
+        "EUR"
+       ],
+       "LU": [
+        16.18,
+        "EUR"
+       ],
+       "TH": [
+        17.12,
+        "USD"
+       ],
+       "PH": [
+        982.21,
+        "PHP"
+       ],
+       "RO": [
+        16.04,
+        "EUR"
+       ],
+       "IS": [
+        19.84,
+        "USD"
+       ],
+       "PL": [
+        17.01,
+        "EUR"
+       ],
+       "CH": [
+        14.95,
+        "EUR"
+       ],
+       "MT": [
+        16.31,
+        "EUR"
+       ],
+       "CN": [
+        107.86,
+        "CNY"
+       ],
+       "CL": [
+        19.04,
+        "USD"
+       ],
+       "EE": [
+        16.87,
+        "EUR"
+       ],
+       "EG": [
+        18.24,
+        "USD"
+       ],
+       "IT": [
+        16.87,
+        "EUR"
+       ],
+       "ZA": [
+        18.4,
+        "USD"
+       ],
+       "CZ": [
+        16.73,
+        "EUR"
+       ],
+       "CY": [
+        16.45,
+        "EUR"
+       ],
+       "AU": [
+        24.84,
+        "AUD"
+       ],
+       "GB": [
+        14.17,
+        "GBP"
+       ],
+       "IN": [
+        18.88,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.81,
+        "GBP"
+       ],
+       "IE": [
+        17.01,
+        "EUR"
+       ],
+       "ES": [
+        16.73,
+        "EUR"
+       ],
+       "MD": [
+        19.2,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        13.83,
+        "EUR"
+       ],
+       "UA": [
+        19.2,
+        "USD"
+       ],
+       "CA": [
+        22.19,
+        "CAD"
+       ],
+       "SK": [
+        17.01,
+        "EUR"
+       ],
+       "KR": [
+        17.6,
+        "USD"
+       ],
+       "SI": [
+        16.87,
+        "EUR"
+       ],
+       "SG": [
+        17.44,
+        "USD"
+       ],
+       "MX": [
+        18.56,
+        "USD"
+       ],
+       "SE": [
+        17.28,
+        "EUR"
+       ],
+       "AT": [
+        16.59,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt16_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$208 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$208."
+     },
+     {
+      "heading": "Pay AU$10.86 or more",
+      "tooltip": "Name your price of AU$10.86 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$10.86 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T04:00:00",
+    "author": "Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Take your chef skills to the next level with this bundle of tasty cooking games! Whether you\u2019re an amateur at best IRL or a seasoned professional in the kitchen, you\u2019re sure to find the perfect cooking challenge. Keep the ale flowing and the mood high in the charmingly old-timey <em>Tavern Manager Simulator</em>! Let your fingers fly across the keyboard in the high-octane typing game <em>The Chef\u2019s Shift</em>! (Say that three times fast.) Become the sneaky, ravenous beast you were always meant to be in arcade game <em>Pizza Possum</em>! Whatever your speed, whatever your tastes, this bundle of cooking games will satisfy any appetite! Grab these tasty treats while you can at the price of your choice, and support the FarmLink Project with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027. </span>",
+    "tile_logo": "https://hb.imgix.net/1816638967eeb74efee1af1d5edb39dbf288d2d9.png?auto=compress,format&h=340&w=1200&s=1aa4086e9cbdbfae27bff97e7cc2f377",
+    "tile_short_name": "Yes Chef! - Cooking Bundle",
+    "start_date|datetime": "2026-08-19T18:00:00",
+    "hover_highlights": [
+     "16 games",
+     "US$208 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Yes Chef! - Cooking Bundle",
+    "short_marketing_blurb": "Order up!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "16 games",
+     "US$208 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/shantaefranchisebundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       192.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$192"
+    },
+    "machine_name": "shantaeheroicheroines_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=edd5f1bb3f076ded31ee89f974896c35",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>River City Girls</em> and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/shantae-heroic-heroines",
+    "tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d9ca18756b816bf711cc7dcfcedaec8e",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        5.23,
+        "EUR"
+       ],
+       "FR": [
+        5.19,
+        "EUR"
+       ],
+       "BG": [
+        5.19,
+        "EUR"
+       ],
+       "DK": [
+        5.41,
+        "EUR"
+       ],
+       "HR": [
+        5.41,
+        "EUR"
+       ],
+       "DE": [
+        5.15,
+        "EUR"
+       ],
+       "JP": [
+        5.5,
+        "USD"
+       ],
+       "HU": [
+        5.49,
+        "EUR"
+       ],
+       "US": [
+        5.0,
+        "USD"
+       ],
+       "FI": [
+        5.43,
+        "EUR"
+       ],
+       "BY": [
+        5.9,
+        "USD"
+       ],
+       "GR": [
+        5.36,
+        "EUR"
+       ],
+       "RU": [
+        683.66,
+        "RUB"
+       ],
+       "NL": [
+        5.23,
+        "EUR"
+       ],
+       "PT": [
+        5.32,
+        "EUR"
+       ],
+       "NO": [
+        5.41,
+        "EUR"
+       ],
+       "TW": [
+        5.25,
+        "USD"
+       ],
+       "TR": [
+        238.78,
+        "TRY"
+       ],
+       "NZ": [
+        9.79,
+        "NZD"
+       ],
+       "LV": [
+        5.23,
+        "EUR"
+       ],
+       "LT": [
+        5.1,
+        "EUR"
+       ],
+       "LU": [
+        5.06,
+        "EUR"
+       ],
+       "TH": [
+        5.35,
+        "USD"
+       ],
+       "PH": [
+        306.11,
+        "PHP"
+       ],
+       "RO": [
+        5.02,
+        "EUR"
+       ],
+       "IS": [
+        6.2,
+        "USD"
+       ],
+       "PL": [
+        5.32,
+        "EUR"
+       ],
+       "CH": [
+        4.68,
+        "EUR"
+       ],
+       "MT": [
+        5.1,
+        "EUR"
+       ],
+       "CN": [
+        33.71,
+        "CNY"
+       ],
+       "CL": [
+        5.95,
+        "USD"
+       ],
+       "EE": [
+        5.28,
+        "EUR"
+       ],
+       "EG": [
+        5.7,
+        "USD"
+       ],
+       "IT": [
+        5.28,
+        "EUR"
+       ],
+       "ZA": [
+        5.75,
+        "USD"
+       ],
+       "CZ": [
+        5.23,
+        "EUR"
+       ],
+       "CY": [
+        5.15,
+        "EUR"
+       ],
+       "AU": [
+        7.77,
+        "AUD"
+       ],
+       "GB": [
+        4.42,
+        "GBP"
+       ],
+       "IN": [
+        5.9,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        3.69,
+        "GBP"
+       ],
+       "IE": [
+        5.32,
+        "EUR"
+       ],
+       "ES": [
+        5.23,
+        "EUR"
+       ],
+       "MD": [
+        6.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        4.33,
+        "EUR"
+       ],
+       "UA": [
+        6.0,
+        "USD"
+       ],
+       "CA": [
+        6.96,
+        "CAD"
+       ],
+       "SK": [
+        5.32,
+        "EUR"
+       ],
+       "KR": [
+        5.5,
+        "USD"
+       ],
+       "SI": [
+        5.28,
+        "EUR"
+       ],
+       "SG": [
+        5.45,
+        "USD"
+       ],
+       "MX": [
+        5.8,
+        "USD"
+       ],
+       "SE": [
+        5.41,
+        "EUR"
+       ],
+       "AT": [
+        5.19,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        10.47,
+        "EUR"
+       ],
+       "FR": [
+        10.39,
+        "EUR"
+       ],
+       "BG": [
+        10.39,
+        "EUR"
+       ],
+       "DK": [
+        10.82,
+        "EUR"
+       ],
+       "HR": [
+        10.82,
+        "EUR"
+       ],
+       "DE": [
+        10.3,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        10.99,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        10.86,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        10.73,
+        "EUR"
+       ],
+       "RU": [
+        1367.34,
+        "RUB"
+       ],
+       "NL": [
+        10.47,
+        "EUR"
+       ],
+       "PT": [
+        10.65,
+        "EUR"
+       ],
+       "NO": [
+        10.82,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        477.57,
+        "TRY"
+       ],
+       "NZ": [
+        19.59,
+        "NZD"
+       ],
+       "LV": [
+        10.47,
+        "EUR"
+       ],
+       "LT": [
+        10.21,
+        "EUR"
+       ],
+       "LU": [
+        10.13,
+        "EUR"
+       ],
+       "TH": [
+        10.7,
+        "USD"
+       ],
+       "PH": [
+        612.22,
+        "PHP"
+       ],
+       "RO": [
+        10.04,
+        "EUR"
+       ],
+       "IS": [
+        12.4,
+        "USD"
+       ],
+       "PL": [
+        10.65,
+        "EUR"
+       ],
+       "CH": [
+        9.36,
+        "EUR"
+       ],
+       "MT": [
+        10.21,
+        "EUR"
+       ],
+       "CN": [
+        67.43,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        10.56,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        10.56,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        10.47,
+        "EUR"
+       ],
+       "CY": [
+        10.3,
+        "EUR"
+       ],
+       "AU": [
+        15.55,
+        "AUD"
+       ],
+       "GB": [
+        8.86,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.39,
+        "GBP"
+       ],
+       "IE": [
+        10.65,
+        "EUR"
+       ],
+       "ES": [
+        10.47,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.66,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        13.92,
+        "CAD"
+       ],
+       "SK": [
+        10.65,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        10.56,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        10.82,
+        "EUR"
+       ],
+       "AT": [
+        10.39,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt15",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        15.71,
+        "EUR"
+       ],
+       "FR": [
+        15.58,
+        "EUR"
+       ],
+       "BG": [
+        15.58,
+        "EUR"
+       ],
+       "DK": [
+        16.23,
+        "EUR"
+       ],
+       "HR": [
+        16.23,
+        "EUR"
+       ],
+       "DE": [
+        15.45,
+        "EUR"
+       ],
+       "JP": [
+        16.5,
+        "USD"
+       ],
+       "HU": [
+        16.49,
+        "EUR"
+       ],
+       "US": [
+        15.0,
+        "USD"
+       ],
+       "FI": [
+        16.3,
+        "EUR"
+       ],
+       "BY": [
+        17.7,
+        "USD"
+       ],
+       "GR": [
+        16.1,
+        "EUR"
+       ],
+       "RU": [
+        2051.01,
+        "RUB"
+       ],
+       "NL": [
+        15.71,
+        "EUR"
+       ],
+       "PT": [
+        15.97,
+        "EUR"
+       ],
+       "NO": [
+        16.23,
+        "EUR"
+       ],
+       "TW": [
+        15.75,
+        "USD"
+       ],
+       "TR": [
+        716.36,
+        "TRY"
+       ],
+       "NZ": [
+        29.39,
+        "NZD"
+       ],
+       "LV": [
+        15.71,
+        "EUR"
+       ],
+       "LT": [
+        15.32,
+        "EUR"
+       ],
+       "LU": [
+        15.19,
+        "EUR"
+       ],
+       "TH": [
+        16.05,
+        "USD"
+       ],
+       "PH": [
+        918.33,
+        "PHP"
+       ],
+       "RO": [
+        15.06,
+        "EUR"
+       ],
+       "IS": [
+        18.6,
+        "USD"
+       ],
+       "PL": [
+        15.97,
+        "EUR"
+       ],
+       "CH": [
+        14.04,
+        "EUR"
+       ],
+       "MT": [
+        15.32,
+        "EUR"
+       ],
+       "CN": [
+        101.14,
+        "CNY"
+       ],
+       "CL": [
+        17.85,
+        "USD"
+       ],
+       "EE": [
+        15.84,
+        "EUR"
+       ],
+       "EG": [
+        17.1,
+        "USD"
+       ],
+       "IT": [
+        15.84,
+        "EUR"
+       ],
+       "ZA": [
+        17.25,
+        "USD"
+       ],
+       "CZ": [
+        15.71,
+        "EUR"
+       ],
+       "CY": [
+        15.45,
+        "EUR"
+       ],
+       "AU": [
+        23.33,
+        "AUD"
+       ],
+       "GB": [
+        13.3,
+        "GBP"
+       ],
+       "IN": [
+        17.7,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.09,
+        "GBP"
+       ],
+       "IE": [
+        15.97,
+        "EUR"
+       ],
+       "ES": [
+        15.71,
+        "EUR"
+       ],
+       "MD": [
+        18.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        12.99,
+        "EUR"
+       ],
+       "UA": [
+        18.0,
+        "USD"
+       ],
+       "CA": [
+        20.88,
+        "CAD"
+       ],
+       "SK": [
+        15.97,
+        "EUR"
+       ],
+       "KR": [
+        16.5,
+        "USD"
+       ],
+       "SI": [
+        15.84,
+        "EUR"
+       ],
+       "SG": [
+        16.35,
+        "USD"
+       ],
+       "MX": [
+        17.4,
+        "USD"
+       ],
+       "SE": [
+        16.23,
+        "EUR"
+       ],
+       "AT": [
+        15.58,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt15_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$192 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$192."
+     },
+     {
+      "heading": "Pay AU$7.77 or more",
+      "tooltip": "Name your price of AU$7.77 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$7.77 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-08T04:00:00",
+    "author": "WayForward",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in <em>Shantae and the Seven Sirens</em>! Save Sequin Land from a rampant crime wave with <em>Shantae: Half-Genie Hero Ultimate Edition</em>, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in <em>Shantae and the Pirate\u2019s Curse</em>! Plus, have even more fun with the schoolgirl warriors of <em>River City Girls</em> and the law-abiding citizens of <em>Mighty Switch Force</em>! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 7th, 2027. </span> ",
+    "tile_logo": "https://hb.imgix.net/ec50877f873a62bd36758d7371533216f233893c.png?auto=compress,format&h=340&w=1200&s=ec16d5913c7a890143df88d60d6fb5e1",
+    "tile_short_name": "Shantae & Heroic Heroines",
+    "start_date|datetime": "2026-08-17T18:00:00",
+    "hover_highlights": [
+     "10 games",
+     "US$192 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Shantae & Heroic Heroines",
+    "short_marketing_blurb": "Half-genie, big adventures!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "10 games",
+     "US$192 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       688.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$688"
+    },
+    "machine_name": "ultimatevegancookbookbundlepagestreetpublishing_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=14b3f02ee5e8d25f832e91d31c618ae4",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Vegan YUM</em>, <em>Blk + Vegan</em>, <em>Frugal Vegan</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books",
+    "tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0b3ac49bb877ce81a0ab161192d5990c",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.63,
+        "EUR"
+       ],
+       "FR": [
+        16.55,
+        "EUR"
+       ],
+       "BG": [
+        18.82,
+        "EUR"
+       ],
+       "DK": [
+        19.61,
+        "EUR"
+       ],
+       "HR": [
+        16.47,
+        "EUR"
+       ],
+       "DE": [
+        16.78,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        19.92,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.25,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.63,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.1,
+        "EUR"
+       ],
+       "PT": [
+        16.63,
+        "EUR"
+       ],
+       "NO": [
+        15.69,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.98,
+        "TRY"
+       ],
+       "NZ": [
+        35.33,
+        "NZD"
+       ],
+       "LV": [
+        16.47,
+        "EUR"
+       ],
+       "LT": [
+        17.1,
+        "EUR"
+       ],
+       "LU": [
+        16.16,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1109.27,
+        "PHP"
+       ],
+       "RO": [
+        16.47,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.47,
+        "EUR"
+       ],
+       "CH": [
+        16.09,
+        "EUR"
+       ],
+       "MT": [
+        16.47,
+        "EUR"
+       ],
+       "CN": [
+        121.8,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.1,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.31,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.69,
+        "EUR"
+       ],
+       "CY": [
+        18.67,
+        "EUR"
+       ],
+       "AU": [
+        28.24,
+        "AUD"
+       ],
+       "GB": [
+        13.32,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.32,
+        "GBP"
+       ],
+       "IE": [
+        15.69,
+        "EUR"
+       ],
+       "ES": [
+        16.31,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.69,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.24,
+        "CAD"
+       ],
+       "SK": [
+        19.29,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.47,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.63,
+        "EUR"
+       ],
+       "AT": [
+        17.25,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$688 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$688."
+     },
+     {
+      "heading": "Pay AU$28.24 or more",
+      "tooltip": "Name your price of AU$28.24 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-08-27T18:00:00",
+    "author": "Macmillan Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Whether you\u2019re committed to the plant-based lifestyle or thinking about giving it a try, there\u2019s never been a better time to go vegan\u2014especially with this bundle of over 60 vegan cookbooks! We\u2019ve teamed up with Page Street Publishing for a treasure trove of recipes that bring the joys of veganism right to your home kitchen. If you\u2019re looking for Southern soul food with a vegetarian twist, scrumptious Mexican food that keeps things verde, delicious Asian-inspired meals for herbivores, or just tips on how to save while keeping your meals cruelty-free, you\u2019ll find all of that and so much more in this bundle! Grab these cooking ebooks at the price of your choice, and help support World Central Kitchen with your purchase!",
+    "tile_logo": "https://hb.imgix.net/aea8eefba51947fd4c44590e19559aa148a43891.png?auto=compress,format&h=340&w=1200&s=07aca8396c86f115a29216a98a3c6258",
+    "tile_short_name": "The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "start_date|datetime": "2026-07-30T18:00:00",
+    "hover_highlights": [
+     "61 books",
+     "US$688 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "short_marketing_blurb": "Powered by plants",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [
+     "CA"
+    ],
+    "highlights": [
+     "Pay What You Want",
+     "61 books",
+     "US$688 Value",
+     "Support Charity"
+    ]
+   }
+  ],
+  "tier_item_data": {
+   "teacup": {
+    "machine_name": "teacup",
+    "youtube_link": "4G201hQOjas",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/teacup_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "96% Positive on Steam<br><br>Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Whitethorn Games",
+      "publisher-url": "https://whitethorngames.com"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 11.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "subtitle_html": null,
+    "description_text": "<strong><i>Teacup</i> </strong> is a short and wholesome narrative adventure game with a focus on exploration and non-linear progression. <br><br>You play as the titular <i>Teacup</i>, a shy and introverted young frog who loves drinking tea and reading. The day before she is to host a tea party at her house, she realizes <strong> she is completely out of tea, </strong> and thus must venture into the woods around her to find the herbs she needs to restock her pantry. <br><br>You are free to tackle the list of ingredients <i>Teacup</i> must gather in any order you wish. Find your own path through the world of Little Pond. <br><br>During your adventure you will meet the charming inhabitants of the forest. Some are talkative, some are grumpy, but all of them will lend you an ear on your adventure. <br><br>Most of the animals you meet will be glad to help <i>Teacup</i>\u2026 in exchange for a small favor or some help. Organize a (oddly shaped) market stall, win an underwater race and more!",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/teacup.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Teacup",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Smarto Club",
+      "developer-url": "https://smarto.club/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/1347d79cd1817438f1459bddb7cb9e34fd3ba5e1.png?auto=compress,format&fit=clip&h=80&w=170&s=3e782e5282f52c7f2912c25c8852df55",
+     "featured_image": "https://hb.imgix.net/1347d79cd1817438f1459bddb7cb9e34fd3ba5e1.png?auto=compress,format&w=300&s=434b2360f1345c1ce9f78d1bb7962350",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/b52edac819d3640064c41d5606e50c437a2f4baa.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=5770a9df60b60c28d70a4b3033496d93",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/1347d79cd1817438f1459bddb7cb9e34fd3ba5e1.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=80eb1b2f9b57cdb36b63d1439360eff9",
+     "front_page_art_imgix": "https://hb.imgix.net/1347d79cd1817438f1459bddb7cb9e34fd3ba5e1.png?auto=compress,format&w=300&s=434b2360f1345c1ce9f78d1bb7962350",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Teacup",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "monsterprom2_monstercamp": {
+    "machine_name": "monsterprom2_monstercamp",
+    "youtube_link": "cmhR-KOcItg",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx",
+        "hb-linux"
+       ],
+       "unavailable": []
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/monsterprom2_monstercamp_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "97% Positive on Steam<br><br>Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Those Awesome Guys",
+      "publisher-url": "https://thoseawesomeguys.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 15.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "subtitle_html": null,
+    "description_text": "\"<i>Monster Prom 2: Monster Camp</i>\" brings you more of the world's best (and maybe only?) multiplayer dating sim; but in a way you've never expected! <br><br>The original Monster Prom is a multiplayer dating sim that shines for its beautiful art and unapologetic humor. <br><br>The sequel brings you into a new setup (summer camp) with new characters to romance, including old faces and new ones: Damien, Calculester, Milo, Dahlia, Joy and Aaravi. But that's not all, Monster Camp comes with twists here and there: from the campfire mechanics to a new stage full of magic mixed drinks. <br><br>We're repeating the best from the popular \"Monster Prom\" formula, but adding some new spices to it. You will see ;)",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Monster Prom 2: Monster Camp",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Beautiful Glitch",
+      "developer-url": "http://monsterprom.pizza/press/index.php"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/41ab42e4be2a37e1c1cfa8f9eadeed81a1de520c.png?auto=compress,format&w=300&s=bf374dfbf10280d6a6afe81c0e35e553",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Monster Prom 2: Monster Camp",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "comicrelief": {
+    "machine_name": "comicrelief",
+    "youtube_link": null,
+    "item_content_type": null,
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": null,
+    "featured_image": null,
+    "ppgf_info": {
+     "category": "Philanthropy, Grants, Other,Human Services,Children and Youth Development",
+     "city": "New York",
+     "description": "Red Nose Day is a campaign to end child poverty. Money raised supports programs that ensure children who need it most are safe, healthy, educated and empowered. Red Nose Day ensures your donations go where the need is the greatest, providing food, shelter, medicine, and most of all hope. Since 2015, the campaign has raised more than $240 million, positively impacting the lives of over 25 million children. Red Nose Day is a program of Comic Relief US, a 501(c)(3) public charity.",
+     "url": "http://www.comicrelief.org",
+     "country": "US",
+     "charity_id": "76185",
+     "state": "NY",
+     "keywords": "Red Nose Day, Red Nose Day USA, Comic Relief, Comic Relief USA, NBC, Walgreens, Entertainment, Mars, M&Ms, Red Nose Day in School, Hasbro, Poverty, SDG, Global Goals, Children, Kids",
+     "human_name": "Comic Relief Red Nose Day",
+     "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FZDlhNTBiOWQtOTdlMS00MGIyLWJiOWQtNjAyZDM1YjY4Y2Nj%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=f366eb03ee30978bd1a28fb3eceebd19"
+    },
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-url": "https://comicrelief.org/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "subtitle_html": null,
+    "description_text": "<p><em>Donations to support Comic Relief are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.<br></em><br>Laughter changes things. Nearly 12 million kids in the U.S. are growing up in poverty, and your donation funds healthy food, doctor\u2019s visits, and after-school programs that change kids\u2019 lives. Join Comic Relief in the fight to end childhood poverty.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/charities/CharityLogos/comicrelief_v3.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Comic Relief",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "comicrelief.org",
+      "developer-url": "https://comicrelief.org/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {},
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/33fd4f2fce14cd5d54067680762400368d7a2876.png?auto=compress,format&fit=clip&h=80&w=170&s=0fce35a8ef336d63598926cf0b67daa7",
+     "featured_image": null,
+     "front_page_art_imgix_retina": "https://hb.imgix.net/33fd4f2fce14cd5d54067680762400368d7a2876.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=37e16b4cadeeb34443fa3921d638eaaa",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/33fd4f2fce14cd5d54067680762400368d7a2876.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=7b68a75251fd9b94486038274b161417",
+     "front_page_art_imgix": "https://hb.imgix.net/33fd4f2fce14cd5d54067680762400368d7a2876.png?auto=compress,format&fit=clip&h=240&w=180&s=52903fbd62c9bb7b11da0896a043310d",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Comic Relief",
+    "is_mystery_box": null,
+    "payee_secondary_id": "76185",
+    "wallet_credit": {}
+   },
+   "Knightica": {
+    "machine_name": "Knightica",
+    "youtube_link": "G-te4rdRIAo",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/Knightica_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>74% Positive on Steam</span><br><br>Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Goblinz Publishing"
+     },
+     {
+      "publisher-name": "WR game"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 19.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "subtitle_html": null,
+    "description_text": "<p><i>Knightica</i> is a turn-based roguelike auto-battler where you lead an army of powerful units. Recruit, place and command your troops to free the Kingdoms. Discover amazing synergies, gather demonic souls, face dangerous monsters and lead your army to victory!</p>\n<strong class=\"hmb\"><br>ASSEMBLE YOUR ARMY </strong> <br>\n<p>Enroll units of all shapes and sizes! It's up to you to make them work together! Place and rotate them to use their specific <strong> talents </strong> to the fullest. Will you lead an army of undead or put your trust in the magician's guild?<br><br></p>\n<strong class=\"hmb\">YOUR CHOICES MATTER</strong>\n<p>Choose your commander, units, and items, and make decisions about the path you take. Is it worth stopping at this <strong> strange shop </strong> , or do you feel ready to fight an <strong> elite demon </strong> ? Every run presents new opportunities to experiment with <strong> powerful combinations </strong> , ensuring no two adventures are ever the same.</p>\n<p><strong class=\"hmb\"><br>FIND YOUR OWN STRATEGY</strong></p>\n<p><strong> Upgrade </strong> your troops, swarm your enemies, search for the perfect ally or focus on your economy. It\u2019s up to you to find the best way to use the <strong> enchants </strong> , troops and demonic souls at your disposal.</p>\n<strong class=\"hmb\"><br>CONQUER THE KINGDOM </strong> <br>\n<p>Lead your army through <strong> increasingly difficult </strong> worlds, adapt, and overcome many situations with varied enemies and <strong> terrifying bosses </strong> using unique demonic tactics. Try to go as far as you can because only you can secure the future of the realm and ensure peace prevails once more!</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Knightica",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Mad Mango Games"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/c814052572c5bdbb2ec55ff170ed4248ca54a1c9.png?auto=compress,format&w=300&s=ee587455ddf4fae56b6af7c6f981ce3b",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Knightica",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "fillupthehole": {
+    "machine_name": "fillupthehole",
+    "youtube_link": "HytocgEx9K4",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/fillupthehole_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "90% Positive on Steam<br><br>Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 3.89
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "subtitle_html": null,
+    "description_text": "<p><strong> <i>Fill Up The Hole</i> </strong> is a short incremental game where you help peons create as much garbage as possible and toss it into a hole. Watch your village grow and evolve as you unlock visual upgrades and new features.</p>\n<p><strong> Throw Garbage </strong></p>\n<p>Your peons automatically gather garbage and throw it into the hole. The more they throw, the more progress you make!<br><br><strong>Create a Village</strong></p>\n<p>Expand your village, put your peons to work, and maximize the amount of garbage produced and thrown.<br><br><strong>Upgrade</strong></p>\n<p>Unlock upgrades and abilities to enhance your buildings and peons.<br><br><strong class=\"hmb\">Gameplay</strong></p>\n<ul>\n<li>\n<p>Produce trash in different ways</p>\n</li>\n<li>\n<p>Find the best way to put it in the hole</p>\n</li>\n<li>\n<p>Acquire different resources and upgrades</p>\n</li>\n</ul>\n<strong class=\"hmb\">Multiple Strategies </strong> <br>\n<ul>\n<li>\n<p>Expand your base by taking the time to remove rocks</p>\n</li>\n<li>\n<p>Create and upgrade different buildings</p>\n</li>\n<li>\n<p>The order of the buildings can make a difference</p>\n</li>\n<li>\n<p>Enhance the abilities of your peons</p>\n</li>\n<li>\n<p>Gain new research, talents, and skills</p>\n</li>\n</ul>\n<strong class=\"hmb\">Features </strong> <br>\n<ul>\n<li>\n<p>10+ unique buildings</p>\n</li>\n<li>\n<p>Skill tree of upgrades to explore</p>\n</li>\n<li>\n<p>Experiment with different strategies</p>\n</li>\n<li>\n<p>Short experience (around 2h30m playthrough)</p>\n</li>\n<li>\n<p>Two endings</p>\n</li>\n<li>\n<p>Extended and relax mode (for players who prefer a longer or more idle experience)</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Fill Up The Hole",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Fluffy Lotus"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/7fe5fbde4c02cf65fcfb58de7f26354a49ca4c2d.png?auto=compress,format&w=300&s=3046de0b64149ba0c26c7b793b556fe2",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Fill Up The Hole",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "thedarkqueenofmortholme": {
+    "machine_name": "thedarkqueenofmortholme",
+    "youtube_link": "6CuyPGF6CSg",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-linux"
+       ],
+       "unavailable": [
+        "hb-osx"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/thedarkqueenofmortholme_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "83% Positive on Steam<br><br>Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Monster Theater",
+      "publisher-url": "https://monstertheater.games/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 6.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">Change is inevitable </strong> <br>\n<p>Experience a macabre, short-form, second-person indie, you play as <i>The Dark Queen of Mortholme</i>, the final barrier between the Hero and the end credits.</p>\n<p>In this fixed-screen pixel art game, use the Queen's attacks against this hero, slay them, and quell this nuisance once and for all.</p>\n<p>But, wait. How is this possible? The Hero keeps coming back.</p>\n<strong class=\"hmb\">Multiple Endings </strong> <br>\n<p>Depending on your dialogue choices, the story will play out differently. Will you see the Hero's point of view, or continue ruling as the Queen Everlasting?</p>\n<strong class=\"hmb\">Features </strong> <br>\n<ul>\n<li>\n<p><strong> Unleash Queenly Chaos </strong> :&nbsp;Wield the ever-evolving arsenal of the Dark Queen\u2019s most devastating attacks.</p>\n</li>\n<li>\n<p><strong> A Relentless Foe </strong> :&nbsp;Face a persistent Hero in a final showdown to end all final showdowns.</p>\n</li>\n<li>\n<p><strong> Handcrafted Pixel Art: </strong> Painstakingly designed for impeccable game feel.</p>\n</li>\n<li>\n<p><strong> A Haunting Score </strong> :&nbsp;Fall into the tones of the Dark Queen\u2019s domain.</p>\n</li>\n<li>\n<p><strong> Conquer and Collect </strong> :&nbsp;Unlock Steam Achievements as you slay this annoying hero!</p>\n</li>\n<li>\n<p><strong> A Challenge Worth Finishing </strong> :&nbsp;Designed to be beaten in a single, emotional sitting.</p>\n</li>\n</ul>\n<p></p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/thedarkqueenofmortholme.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "The Dark Queen of Mortholme",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Mosu"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/2d5b1315db0d2cce13ff925e77f996d98008370e.png?auto=compress,format&fit=clip&h=80&w=170&s=a2abb7d635155a1bb4155a016c91d08e",
+     "featured_image": "https://hb.imgix.net/2d5b1315db0d2cce13ff925e77f996d98008370e.png?auto=compress,format&w=300&s=c1822112d8576ca4be11f3b43c467be8",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/236d7cf49c43070db2d72f70cc5a1e1682cf6045.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=c97d46513b6efd301980736fed51feae",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2d5b1315db0d2cce13ff925e77f996d98008370e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=640123503a36c5c229b103c9910f788d",
+     "front_page_art_imgix": "https://hb.imgix.net/2d5b1315db0d2cce13ff925e77f996d98008370e.png?auto=compress,format&w=300&s=c1822112d8576ca4be11f3b43c467be8",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "The Dark Queen of Mortholme",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "botanymanor": {
+    "machine_name": "botanymanor",
+    "youtube_link": "mzz9h9_x2T4",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/botanymanor_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "94% Positive on Steam<br><br>Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Whitethorn Games",
+      "publisher-url": "https://whitethorngames.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 29.39
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "subtitle_html": null,
+    "description_text": "<i>Botany Manor</i> is a first-person puzzle game set in a Victorian English manor. <br><br>It's 1890, and you play as botanist Arabella Greene, who is working to finish her botanical research book 'Forgotten Flora'.<br><br>Explore a complete historical English manor and its grounds, researching how to grow rare plant specimens from seed.<br><br>There are many rooms and gardens to discover, all set inside a beautiful countryside surrounding.<br><br>The manor is filled with mysterious clues for you to discover, including books, posters, letters and fascinating Victorian contraptions.<br><br>The plants you grow are fantastical, but still inspired by real phenomena in nature, so some of them require you to think outside the box. Using what's available to you in the manor, you must create the ideal conditions for each plant.<br><br>Room by room, you learn more about the life and career of Arabella, and the challenges she faced as a woman navigating her scientific career.<br><br><i>Botany Manor</i> offers a relaxing and peaceful environment, feel free to stop and smell the roses.<br>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/botanymanor.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Botany Manor",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Balloon Studios",
+      "developer-url": "https://www.balloonstudios.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/42f4d47db16f21915527523ae381109e9967fe2c.png?auto=compress,format&fit=clip&h=80&w=170&s=a36df66ad8739c95f84359019278a106",
+     "featured_image": "https://hb.imgix.net/42f4d47db16f21915527523ae381109e9967fe2c.png?auto=compress,format&w=300&s=ee62b62645bcef1b0d978a5c51cda6c0",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/d2ff8c7a4d5280121171a529515021f40932a0cd.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=3c4c03dd73b641f18a8d546fae428d28",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/42f4d47db16f21915527523ae381109e9967fe2c.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=3c2c7b9df15370d0c7128998e576e020",
+     "front_page_art_imgix": "https://hb.imgix.net/42f4d47db16f21915527523ae381109e9967fe2c.png?auto=compress,format&w=300&s=ee62b62645bcef1b0d978a5c51cda6c0",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Botany Manor",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "astroprospector": {
+    "machine_name": "astroprospector",
+    "youtube_link": "hyis2-ib_90",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/astroprospector_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "80% Positive on Steam<br><br>Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SpaceJazz",
+      "publisher-url": "https://www.spacejazzgames.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 6.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">Endless Coffee Update! (Survivors-like Roguelite) </strong> <br>\n<p>Endless Coffee is a massive free update for <i>Astro Prospector</i>, including a new mode with <strong> 5 new weapons </strong> , <strong> 200+ new upgrades </strong> , <strong> 9 different ships </strong> , new enemies and <strong> a thousand ways to break the Universe </strong> !<br><br><strong>Build </strong> your own ship, <strong> survive </strong> 21 Days and <strong> destroy </strong> the source of SpaceCorp.<br><br>Then, <strong> go Endless </strong> , find <strong> powerful synergies </strong> and try to get as far as possible!<br><br><strong class=\"hmb\">Endless Coffee Features</strong></p>\n<ul>\n<li>\n<p>New survivors-like, ship builder mode.</p>\n</li>\n<li>\n<p>Survive 21 Days and go Endless. Reach as far as you can!</p>\n</li>\n<li>\n<p>Master 9 different ships, each one with unique gameplay.</p>\n</li>\n<li>\n<p>Unlock new skills by levelling up and winning with each ship.</p>\n</li>\n<li>\n<p>420+ upgrades to discover.</p>\n</li>\n<li>\n<p>Dozens of hours of playtime, find clever combinations, break the Universe!</p>\n</li>\n</ul>\n<p><br>--------------------</p>\n<strong class=\"hmb\"><br>Story Mode (Incremental) </strong> <br>\n<p><i>Astro Prospector</i> is an <strong> incremental bullet hell </strong> about mining cofferoids and fighting the evil SpaceCorp. <strong> Collect </strong> resources, <strong> upgrade </strong> your ship and <strong> become </strong> unstoppable.</p>\n<p></p>\n<p>Mine cofferoids from SpaceCorp's fields and steal their AstroCoffee seeds.<br><br>Explore and upgrade the skill tree to increase your ship power.<br><br>Enemy Machines will try to stop you. Dodge their bullets and destroy them. F*ck SpaceCorp!</p>\n<strong class=\"hmb\"><br>Story Mode Features </strong> <br>\n<ul>\n<li>\n<p>Addictive incremental progression.</p>\n</li>\n<li>\n<p>25 Zones with unique enemies and bosses.</p>\n</li>\n<li>\n<p>Unlock new skills by completing tasks and destroying SpaceCorp Machines.</p>\n</li>\n<li>\n<p>200+ upgrades to discover.</p>\n</li>\n<li>\n<p>Short and intense experience (~5.0hr playtime).</p>\n</li>\n</ul>\n<strong class=\"hmb\"><br>Discord </strong> <br>\n<p>Join our server Discord, so you can stay tuned and give us feedback. You can find the link of the sidebar!<br><br></p>\n<strong class=\"hmb\">Warning! </strong> <br>\n<p>This game contains flashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions.</p>\n<p>Player discretion is advised!</p>\n<p></p>\n<p></p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Astro Prospector",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Incrementalist"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/6a06782693160316c9a9e999b69ab5b0d9c626fd.png?auto=compress,format&w=300&s=f7ee942e0d9f980fab7a7be594487054",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Astro Prospector",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "scannersombre": {
+    "machine_name": "scannersombre",
+    "youtube_link": "JBv2G5Dv1bU",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx"
+       ],
+       "unavailable": [
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/scannersombre_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "90% Positive on Steam<br><br>Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 8.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "subtitle_html": null,
+    "description_text": "<p><i> <i>Scanner Sombre</i> </i> is a tense 3d horror cave exploration game where oppressive darkness becomes your greatest enemy. The silence, broken only by echoes and hesitant footsteps, builds chilling tension, while the unseen unknown keeps you on edge. Blending psychological horror with discovery, it challenges you to navigate a hidden world lit by a LIDAR scanner. From the creators of <i> Prison Architect </i> , this immersive adventure uses light and shadow to craft a hauntingly beautiful yet terrifying experience.</p>\n<p>In <i> <i>Scanner Sombre</i> </i> , the LIDAR scanner is your lifeline. Armed with this innovative tool, you reveal the unseen by casting light into the abyss, slowly mapping the cave around you. As the silence presses in, and shadows twist, the scanner\u2019s color-coded beams uncover hidden dangers and untold mysteries lurking in the dark.</p>\n<p><i><i>Scanner Sombre</i> </i> features a striking visual style built around vibrant, rainbow-colored point clouds, inspired by industrial LIDAR scans. Players use a handheld scanner to gradually reveal the environment, with color-coded points helping to perceive depth. This distinctive, inhuman aesthetic creates an eerie atmosphere and enhances the exploration experience.</p>\n<p>In <i> <i>Scanner Sombre</i> </i> , the story unfolds subtly through the environment, with hints of forgotten histories hidden within the cave. As you explore, remnants of the past, strange symbols, and eerie remnants suggest a deeper, darker narrative. Each step forward invites you to unravel the mysteries bit by bit.</p>\n<p>Introversion Software has been developing games since 2001, and stands behind acclaimed titles like Uplink, Defcon, Darwinia, Multiwinia, Prison Architect, <i>Scanner Sombre</i>, and their latest release, The Last Starship. Introversion has garnered both critical and commercial success being recognised with multiple awards including the IGF grand prize for Darwinia and BAFTA for best persistent game (Prison Architect). They have sold more than 4M copies of their games worldwide.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/scannersombre.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Scanner Sombre",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Introversion Software",
+      "developer-url": "https://www.introversion.co.uk/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/744f37f06df00d81fa37efbe7f96c0d858f34c8c.png?auto=compress,format&fit=clip&h=80&w=170&s=a1bdd9408dcd598be5e4c67c3d9017a7",
+     "featured_image": "https://hb.imgix.net/744f37f06df00d81fa37efbe7f96c0d858f34c8c.png?auto=compress,format&w=300&s=f20d54c37808b1d3eaa31323d6a0b604",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/e5cc815f9b1f28e0c330247240f1b43be113ee37.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=560bda497dd55c10cf2f7cfac4d86986",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/744f37f06df00d81fa37efbe7f96c0d858f34c8c.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=beb5595358b9651761084d444610e7bd",
+     "front_page_art_imgix": "https://hb.imgix.net/744f37f06df00d81fa37efbe7f96c0d858f34c8c.png?auto=compress,format&w=300&s=f20d54c37808b1d3eaa31323d6a0b604",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Scanner Sombre",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "atinystickertale": {
+    "machine_name": "atinystickertale",
+    "youtube_link": "jPHc46jJ5_E",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx",
+        "hb-linux"
+       ],
+       "unavailable": []
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/atinystickertale_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "97% Positive on Steam<br><br>Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 12.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "subtitle_html": null,
+    "description_text": "<a href=\"https://store.steampowered.com/publisher/ogrepixel\" rel=\"noopener\" target=\"_blank\"></a><a href=\"https://ogrepixel.com/subscribe/\" rel=\"noopener\" target=\"_blank\"></a><a href=\"https://discord.me/ogrepixel\" rel=\"noopener\" target=\"_blank\"></a><br><strong><i>A Tiny Sticker Tale</i> is a cozy miniature adventure about changing the world, using the power of stickers! </strong> <br><br>*(This is an emotional and short experience whose main story can be enjoyed in approximately 2 hours) <br><br><br><i> In <strong> A Tiny Sticker Tale </strong> , take anything from the world around you, turn it into a sticker, and use your creativity to stick it back in different places, solving puzzles, and helping your new friends! </i> <br><br><br>In this wholesome bite-sized adventure, step into the tiny boots of <strong> Flynn, the donkey </strong> , and journey across Figori Island, discovering the vibrant quests that will require the power of a very special magical sticker album. <br><strong><br><br>Game Features </strong> <br><br>\n<ul>\n<li><strong> Unique gameplay </strong> , use your creativity to solve puzzles by taking and placing stickers in different places</li>\n<li><strong> Change your surroundings </strong> by placing stickers</li>\n<li><strong> Customize and decorate </strong> your Island however you want!</li>\n<li><strong> Gorgeous, inviting art style </strong> , Figori Island is the perfect place to rest up after a long day of adventuring</li>\n<li>Discover a detailed and fascinating Island full of mystery and adventure</li>\n<li><strong> Collect all stickers </strong> from the Island</li>\n</ul>\n<br><br>* <strong> <i>A Tiny Sticker Tale</i> </strong> is designed to be a <strong> short adventure </strong> filled with many <strong> details </strong> , great <strong> additional content to the main story </strong> , and a lot of <strong> replayability </strong> ! <br><br>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "A Tiny Sticker Tale",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Ogre Pixel",
+      "developer-url": "https://ogrepixel.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/04f4409c75b110eef960aea50ea3d101d62008c2.png?auto=compress,format&w=300&s=a684ef878f9a2c7a62625b4cf9233e7b",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "A Tiny Sticker Tale",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "anomalyagent": {
+    "machine_name": "anomalyagent",
+    "youtube_link": "xzT4qITeEVQ",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx",
+        "hb-linux"
+       ],
+       "unavailable": []
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/anomalyagent_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "94% Positive on Steam<br><br>Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "GameDev.ist",
+      "publisher-url": "https://gamedev.ist/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 15.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "subtitle_html": null,
+    "description_text": "Become Agent 70 and stop the anomalies threatening to destroy the balance of the world!<br><br>\n<ul>\n<li>Use extraordinary anomaly weapons to toss your opponents around! Overcome your enemies using melee techniques or deadly firearms!</li>\n<li>Modify your gameplay by upgrading your character in different ways.</li>\n<li>Escape your pursuers with acrobatic moves.</li>\n</ul>\nShape how the story unfolds. Unravel the mysteries you face and make the world a safer place... or plunge it into disaster.<br>With memorable characters, unique Anomaly Bosses, a story full of twists, and smooth gameplay, Anomaly Agent is an adventure to be savored. We hope you enjoy your journey!",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/anomalyagent.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Anomoly Agent",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Phew Phew Games",
+      "developer-url": "https://phewphewgames.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/a5c124451a5463fca9fe40a799b887f24906acee.png?auto=compress,format&fit=clip&h=80&w=170&s=98cb6933f131ae73d19747339eee411d",
+     "featured_image": "https://hb.imgix.net/a5c124451a5463fca9fe40a799b887f24906acee.png?auto=compress,format&w=300&s=cb840c2b976030fe09bad022f7d3a3cf",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/835e692db0be6b530cd9b28c21fbb1d02f3bfd6d.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=1474c00a47e0a92bee91b9318bb017c0",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/a5c124451a5463fca9fe40a799b887f24906acee.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=f30fd77d8402448c36c4f87116c0d153",
+     "front_page_art_imgix": "https://hb.imgix.net/a5c124451a5463fca9fe40a799b887f24906acee.png?auto=compress,format&w=300&s=cb840c2b976030fe09bad022f7d3a3cf",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Anomoly Agent",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "oldmansjourney": {
+    "machine_name": "oldmansjourney",
+    "youtube_link": "tJ29Ql3xDhY",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx"
+       ],
+       "unavailable": [
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/oldmansjourney_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "88% Positive on Steam<br><br>Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 11.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "subtitle_html": null,
+    "description_text": "Old Man\u2019s Journey, a soul-searching puzzle adventure, tells a story of life, loss, reconciliation, and hope. Entrenched in a beautifully sunkissed and handcrafted world, embark on a heartfelt journey interwoven with lighthearted and pressure-free puzzle solving. <br><br>A visual narrative about life\u2019s precious moments, broken dreams, and changed plans, uncover stories of the old man\u2019s life told through beautiful vignettes of his memories. Interacting with the serene and whimsical environment, solve playful puzzles by shaping the landscape, growing the hills to create the old man\u2019s path forward. <br><br>During this compact gameplay experience, you\u2019ll be transported to a vibrant and wishful world, exploring life\u2019s complexities through the old man\u2019s eyes. Meditatively delightful and reflective, Old Man\u2019s Journey invites you to immerse yourself in quiet and inquisitive puzzles, and experience the old man\u2019s heartache, regret, and hope. <br><strong class=\"hmb\"><br>Features </strong> <br>\n<ul>\n<li>A powerful and emotional narrative told only through imagery</li>\n<li>Gorgeously whimsical landscapes with hand-drawn art and frame-by-frame animations</li>\n<li>Handcrafted, pressure-free puzzles</li>\n<li>Unique delightful landscape-shaping mechanic</li>\n<li>A compact game experience perfect for a wanderlust-evoking escape</li>\n<li>Original and emotionally compelling soundtrack by SCNTFC</li>\n<li>Crisp drawings rendered in native resolution - even on your 4K monitor</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Old Man's Journey",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Broken Rules",
+      "developer-url": "http://brokenrul.es/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/6aed9366123523af21bdf101aafffe2787180402.png?auto=compress,format&w=300&s=8f5e7ad5c9856674ffb7981ad7862506",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Old Man's Journey",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "biped": {
+    "machine_name": "biped",
+    "youtube_link": "5E8Tr4vrT4c",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/biped_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "86% Positive on Steam<br><br>Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "META Publishing",
+      "publisher-url": "http://metapublishing.io/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 17.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "subtitle_html": null,
+    "description_text": "<p>Biped is a physics-based 3D co-op action-adventure game with a strong focus on moment-to-moment collaboration between two players. Two little bipedal robots, Aku and Sila, will walk side by side and embark on a fun and bonding journey. <br><strong><br>MASTER INNOVATIVE AND SIMPLE CONTROLS </strong> <br>No buttons! You control both legs of a biped with two joysticks, which allow you to perform all the actions from walking and skating to more driving and woodcutting.<strong><br><br>CONQUER TWO-PLAYER CO-OP </strong> <br>Enjoy the adventure solo or grab a friend or a family member and have a blast together in co-op mode. Communicate and coordinate to conquer challenges together and find out how good a pair you truly are. <strong> <br><br>EXPLORE FUN ENVIRONMENTS </strong> <br>Your adventure will take you to many beautiful and mysterious location on the planet. Explore secrets in forests, valleys, waterfalls and icy mountains and find your way through the puzzling paths that lead to the planetary beacons.<strong><br><br>PAIR YOUR LOOKS </strong> <br><br>Collect treasures and buy a goofy hats! Dress up your biped the way you like. Better yet, match your partner\u2019s look and become the most dazzling adventurers in this epic quest. <br><a href=\"https://store.steampowered.com/publisher/MetaPublishing\"></a></p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Biped",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "NEXT Studios",
+      "developer-url": "https://www.nextstudios.com/index_en/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/4e631e8fa233d264bf9c3c0b4b9acd6c9d589163.png?auto=compress,format&w=300&s=ffb1dea1dcf8f4b5e54d0424e4c041a3",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [
+     "CN"
+    ],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Biped",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "ajugglerstale": {
+    "machine_name": "ajugglerstale",
+    "youtube_link": "fVCxfQvQ8jk",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/ajugglerstale_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "93% Positive on Steam<br><br>Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Assemble Entertainment",
+      "publisher-url": "https://lnk.bio/AssembleEntertainment"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 20.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.41
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">FEATURES </strong> <br>\n<ul>\n<li>Make use of the puppet\u2019s strings in unique puzzles, find your way around obstacles, cross raging rivers, sneak through bandit camps and make it past dangerous traps to find freedom.</li>\n<li>Explore a beautiful and grim world, inspired by the tone and mood of traditional fairy tales.</li>\n<li>Live through an intense story of hope and empowerment.</li>\n<li>Find out what it takes to truly break free from all strings attached.</li>\n</ul>\n<strong class=\"hmb\">STORY </strong> <br><i> \"Ladies and Gentlemen! Come in, come in! In the mood for a story, are we?\" </i> <br><br>Abby is an artiste held captive at a circus: She spends her days entertaining the audience and her nights in a cage, longing for freedom. One day, she escapes the circus and gets to explore a mystical world. <br><br>Alas, freedom comes at a cost and Abby soon finds herself dragged into the dangers this world has to offer: In a war-torn, medieval fairytale, surrounded by ravaged, starving citizens and hunted by the relentless cut-throat Tonda, Abby has to cross raging rivers, make it through bandit camps and around traps. <br><br>Her adventure is always accompanied by the lyrical rhymes of puppet master Jack, who is telling her story while holding the strings of his puppets firmly in his ever-helpful hands. <br><br>Who can Abby trust? Can she find a way to truly break free? Despite dangling from her threads, will Abby learn that she can still influence her destiny? <br><i><br>\"Abby, Abby... Don't you see, the threads holding you up \u2013 also hold you back.\" </i>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "A Juggler's Tale",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "kaleidoscube",
+      "developer-url": "https://www.kaleidoscube.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/be1d14b2a41c17db9df4f08903d6469161467fd0.png?auto=compress,format&w=300&s=93d210008721e42112c296ba970d1991",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "A Juggler's Tale",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "nanoapostle": {
+    "machine_name": "nanoapostle",
+    "youtube_link": "zbb85Y-JjtE",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/nanoapostle_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "95% Positive on Steam<br><br>Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "PQube",
+      "publisher-url": "https://pqube.co.uk/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 27.52668007876038
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.83
+    },
+    "subtitle_html": null,
+    "description_text": "Deep within the bowels of a shadowy research facility, Anita, a girl birthed from experimental procedures, is implanted with the sentient nanomechanical entity known as \u2018Apostle\u2019. Working together with her nanite allies Anita must defeat a series of dangerous prototype bio-weapons as she searches for a way to break free from her nightmarish prison. <br><strong>Battle against merciless adversaries: </strong> Face axe-wielding mechs, fire-spewing behemoths, and psychokinetic terrors, in vicious encounters culminating in the brutal execution of your foes. <br><br><strong> Evolving multi-stage battles: </strong> When threatened, the destructive bio-weapons feature a failsafe causing them to become more ferocious, and often warping environments to enhance their onslaught. <br><br><strong> More than a weapon: </strong> The symbiotic relationship between Anita and Apostle grants her numerous abilities such as Dodge, Parry, a series of Slashing Attacks, and a deadly Projectile. <br><strong><br>Master the Destruction Point system: </strong> Utilise Apostle\u2019s nanites to identify structural weaknesses known as \u2018Destruction Points\u2019, and exploit your opponent\u2019s vulnerabilities to land devastating blows. <br><br><strong> Experiment with skills: </strong> Earn skill points through combat and challenge stages. Whether you favour a tactical or reckless approach, create unique skill combinations that resonate with your style. <br><br><strong> Take on the Challenge System: </strong> Earn skill points by completing various tasks from defeating hordes of minions to demonstrating dexterity in the parkour challenges.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "NanoApostle",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/nanoapostle_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "18Light Game Ltd.",
+      "developer-url": "https://18light.cc/en.html"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/9596cd9a6c649d8ee67df2a86e7382a392e5f8ee.png?auto=compress,format&w=300&s=945dd139ad5b343c3d1a3eeb9f7c0cd5",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "NanoApostle",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   }
+  },
+  "splits": [
+   {
+    "partner_split|decimal": 0.6,
+    "name": "Publishers",
+    "extra_charity_partner_split|decimal": 0.525,
+    "extra_charity_split|decimal": 0.575,
+    "sibling_split|decimal": 0.65,
+    "class": "publisher"
+   },
+   {
+    "partner_split|decimal": 0.05,
+    "name": "Comic Relief",
+    "extra_charity_partner_split|decimal": 0.15,
+    "extra_charity_split|decimal": 0.15,
+    "secondary_id": "76185",
+    "sibling_split|decimal": 0.05,
+    "class": "paypalgivingfund"
+   },
+   {
+    "partner_split|decimal": 0.2,
+    "name": "Humble Tip",
+    "extra_charity_partner_split|decimal": 0.175,
+    "extra_charity_split|decimal": 0.275,
+    "minimum_split|decimal": 0.15,
+    "sibling_split|decimal": 0.3,
+    "class": "humblebundle"
+   }
+  ],
+  "upsell_data": {
+   "monthly_v2_premium": {
+    "category": "subscriptionplan",
+    "image_url": "https://hb.imgix.net/dbff2288ba058d5ab35f145358617bcf487a6c6e.png?auto=compress,format&fit=crop&h=353&w=616&s=b73537cf9c1f7b9d7afcd3188cdfb1ff",
+    "machine_name": "monthly_v2_premium",
+    "description": "",
+    "discount_percentage|decimal": 5.0,
+    "full_price|money": {
+     "currency": "CAD",
+     "amount": 17.99
+    },
+    "renewal_date|datetime": "2026-09-29T17:00:00",
+    "subscription_content_product": "august_2026_choice",
+    "active_content_end_time|datetime": "2026-09-01T17:00:00",
+    "disallow_subscription_discount": null,
+    "subscription_credits": 1,
+    "human_name": "Month-to-Month Plan",
+    "current_price|money": {
+     "currency": "CAD",
+     "amount": 17.09
+    },
+    "active_content_start_time|datetime": "2026-08-04T17:00:00"
+   }
+  },
+  "statistics_data": {
+   "total_charity_raised|money": {
+    "currency": "CAD",
+    "amount": 7757.0
+   },
+   "num_purchases|decimal": 2927.0
+  },
+  "charity_data": {
+   "charity_items": {
+    "comicrelief": {
+     "machine_name": "comicrelief",
+     "youtube_link": null,
+     "item_content_type": null,
+     "soundtrack_listing": {
+      "hide_listing": null,
+      "tracks": []
+     },
+     "user_ratings": {},
+     "limited_content": null,
+     "availability_icons": null,
+     "featured_image": null,
+     "ppgf_info": {
+      "category": "Philanthropy, Grants, Other,Human Services,Children and Youth Development",
+      "city": "New York",
+      "description": "Red Nose Day is a campaign to end child poverty. Money raised supports programs that ensure children who need it most are safe, healthy, educated and empowered. Red Nose Day ensures your donations go where the need is the greatest, providing food, shelter, medicine, and most of all hope. Since 2015, the campaign has raised more than $240 million, positively impacting the lives of over 25 million children. Red Nose Day is a program of Comic Relief US, a 501(c)(3) public charity.",
+      "url": "http://www.comicrelief.org",
+      "country": "US",
+      "charity_id": "76185",
+      "state": "NY",
+      "keywords": "Red Nose Day, Red Nose Day USA, Comic Relief, Comic Relief USA, NBC, Walgreens, Entertainment, Mars, M&Ms, Red Nose Day in School, Hasbro, Poverty, SDG, Global Goals, Children, Kids",
+      "human_name": "Comic Relief Red Nose Day",
+      "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FZDlhNTBiOWQtOTdlMS00MGIyLWJiOWQtNjAyZDM1YjY4Y2Nj%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=f366eb03ee30978bd1a28fb3eceebd19"
+     },
+     "is_region_locked": false,
+     "exclusive_countries": [],
+     "display_user_ratings": null,
+     "rating_details": "",
+     "front_page_art_enabled": true,
+     "rating_info": null,
+     "callout": null,
+     "subscribe_text": null,
+     "all_ratings": {
+      "rar-rating": null,
+      "esrb-rating": null,
+      "pegi-rating": null,
+      "oflc-nz-rating": null,
+      "oflc-au-rating": null,
+      "usk-rating": null
+     },
+     "cta_badge": null,
+     "book_preview": null,
+     "publishers": [
+      {
+       "publisher-url": "https://comicrelief.org/"
+      }
+     ],
+     "show_rating": null,
+     "side_box_art_text": null,
+     "third_party_subscribe_text": null,
+     "msrp_price": null,
+     "subtitle_html": null,
+     "description_text": "<p><em>Donations to support Comic Relief are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.<br></em><br>Laughter changes things. Nearly 12 million kids in the U.S. are growing up in poverty, and your donation funds healthy food, doctor\u2019s visits, and after-school programs that change kids\u2019 lives. Join Comic Relief in the fight to end childhood poverty.</p>",
+     "user_ratings_css_class": "none",
+     "wide_hero_art": false,
+     "front_page_art": {
+      "image_path": "images/charities/CharityLogos/comicrelief_v3.png",
+      "title": null,
+      "resolved_paths": {},
+      "image_text": "Comic Relief",
+      "link": null,
+      "badge_info": {
+       "badge_tooltip": null,
+       "badge_number": null,
+       "badge_type": null
+      }
+     },
+     "preview_image": null,
+     "developers": [
+      {
+       "developer-name": "comicrelief.org",
+       "developer-url": "https://comicrelief.org/"
+      }
+     ],
+     "is_clickable": true,
+     "platforms_and_oses": {},
+     "resolved_paths": {
+      "front_page_art_charity_imgix": "https://hb.imgix.net/33fd4f2fce14cd5d54067680762400368d7a2876.png?auto=compress,format&fit=clip&h=80&w=170&s=0fce35a8ef336d63598926cf0b67daa7",
+      "featured_image": null,
+      "front_page_art_imgix_retina": "https://hb.imgix.net/33fd4f2fce14cd5d54067680762400368d7a2876.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=37e16b4cadeeb34443fa3921d638eaaa",
+      "front_page_art_charity_imgix_retina": "https://hb.imgix.net/33fd4f2fce14cd5d54067680762400368d7a2876.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=7b68a75251fd9b94486038274b161417",
+      "front_page_art_imgix": "https://hb.imgix.net/33fd4f2fce14cd5d54067680762400368d7a2876.png?auto=compress,format&fit=clip&h=240&w=180&s=52903fbd62c9bb7b11da0896a043310d",
+      "preview_image": null
+     },
+     "disallowed_countries": [],
+     "front_page_url": null,
+     "tall_hero_art": false,
+     "human_name": "Comic Relief",
+     "is_mystery_box": null,
+     "payee_secondary_id": "76185",
+     "wallet_credit": {}
+    }
+   },
+   "header": "",
+   "charity_item_machine_names": [
+    "comicrelief"
+   ]
+  },
+  "page_url": "games/short-games-showcase-bundle"
+ }
+}

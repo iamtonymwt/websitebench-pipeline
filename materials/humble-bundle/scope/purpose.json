@@ -1,0 +1,22 @@
+{
+  "schema_version": "offline-clone.purpose.v1",
+  "purpose_id": "pwyw-bundle-commerce",
+  "statement": "Help gamers discover pay-what-you-want bundles and store deals, choose a price tier with a charity split, and buy digital games whose keys and downloads land in their Humble library.",
+  "primary_actor_ids": [
+    "visitor",
+    "account-holder"
+  ],
+  "mainline_journey_ids": [
+    "core-671"
+  ],
+  "out_of_scope": [
+    "real SSO identity providers",
+    "real payments/mail",
+    "Humble Choice subscription checkout (marketing page only)",
+    "locale subdomains (en only)",
+    "blog (external link only)",
+    "developer/partner portals",
+    "full store catalog (authorized subset: portal search + adventure category, first 2 pages each, 69 products)"
+  ],
+  "status": "draft"
+}

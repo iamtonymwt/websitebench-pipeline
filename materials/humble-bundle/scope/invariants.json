@@ -1,0 +1,231 @@
+{
+ "schema_version": "offline-clone.invariants.v1",
+ "status": "draft",
+ "invariants": [
+  {
+   "id": "zero-remote-runtime",
+   "priority": "p0",
+   "statement": "Every served page and asset resolves locally; no runtime request leaves 127.0.0.1.",
+   "journey_ids": [
+    "core-671",
+    "browse",
+    "detail"
+   ],
+   "coverage_dimension_ids": [
+    "reachability"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_no_remote_refs.py::test_frozen_pages_have_no_remote_loads"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_no_remote_refs.py::test_asset_dir_closed"
+   ]
+  },
+  {
+   "id": "frozen-routes-reachable",
+   "priority": "p0",
+   "statement": "All frozen routes serve their captured page at the real path.",
+   "journey_ids": [
+    "entry-nav",
+    "browse"
+   ],
+   "coverage_dimension_ids": [
+    "reachability"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_smoke.py::test_all_frozen_routes"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_smoke.py::test_unknown_route_is_branded_404"
+   ]
+  },
+  {
+   "id": "tier-engine-oracle",
+   "priority": "p0",
+   "statement": "Anchor bundle tier engine reproduces frozen thresholds CA$9.71/18.03/22.19: $15 yields 7 items with the captured missing-out message and Checkout affordance; below-floor amounts are rejected with floor messaging.",
+   "journey_ids": [
+    "core-671",
+    "tiers",
+    "tiers-below-floor"
+   ],
+   "coverage_dimension_ids": [
+    "interaction"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_bundle_tiers.py::test_custom_15_unlocks_tier1"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_bundle_tiers.py::test_below_floor_rejected"
+   ]
+  },
+  {
+   "id": "captured-order-default-sort",
+   "priority": "p0",
+   "statement": "Store search 'portal' and adventure bestselling listings reproduce the captured result order exactly.",
+   "journey_ids": [
+    "search",
+    "sort-compare"
+   ],
+   "coverage_dimension_ids": [
+    "backend-semantics"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_catalog.py::test_portal_search_captured_order",
+    "clone/tests/test_catalog.py::test_adventure_bestselling_order"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_catalog.py::test_alphabetical_sort_differs_from_captured_order"
+   ]
+  },
+  {
+   "id": "no-results-copy",
+   "priority": "p1",
+   "statement": "zzzz-no-match-websitebench search shows the captured '0 Results' state with a route back.",
+   "journey_ids": [
+    "no-results"
+   ],
+   "coverage_dimension_ids": [
+    "interaction"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_catalog.py::test_no_results_copy"
+   ],
+   "negative_test_refs": []
+  },
+  {
+   "id": "branded-404",
+   "priority": "p1",
+   "statement": "Unknown routes return HTTP 404 with the captured branded copy and intact navigation.",
+   "journey_ids": [
+    "not-found"
+   ],
+   "coverage_dimension_ids": [
+    "reachability"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_smoke.py::test_unknown_route_is_branded_404"
+   ],
+   "negative_test_refs": []
+  },
+  {
+   "id": "secure-area-gate",
+   "priority": "p0",
+   "statement": "Anonymous requests to /home/* redirect 302 to /login?goto=<path>&qs=reason%3DsecureArea.",
+   "journey_ids": [
+    "validation-permissions"
+   ],
+   "coverage_dimension_ids": [
+    "backend-semantics"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_auth.py::test_secure_area_redirect"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_auth.py::test_secure_area_allows_authenticated_demo"
+   ]
+  },
+  {
+   "id": "host-session-cookie",
+   "priority": "p0",
+   "statement": "Session cookie is __Host-websitebench-humble-bundle-session with Secure/HttpOnly/SameSite and no parent Domain.",
+   "journey_ids": [
+    "login-logout"
+   ],
+   "coverage_dimension_ids": [
+    "backend-semantics"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_auth.py::test_session_cookie_attributes"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_auth.py::test_no_session_cookie_for_anonymous_page_view"
+   ]
+  },
+  {
+   "id": "payment-sandbox-only",
+   "priority": "p0",
+   "statement": "Checkout accepts only opaque sandbox scenario ids; payment-shaped keys are rejected before persistence; no real payment path exists.",
+   "journey_ids": [
+    "checkout-promo-declined",
+    "core-671"
+   ],
+   "coverage_dimension_ids": [
+    "backend-semantics"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_checkout.py::test_payment_key_guard"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_checkout.py::test_declined_scenario_creates_no_order"
+   ]
+  },
+  {
+   "id": "checkout-math",
+   "priority": "p0",
+   "statement": "Order review/confirmation reflect the chosen bundle, the custom price, and charity split math consistent with frozen splits.",
+   "journey_ids": [
+    "core-671"
+   ],
+   "coverage_dimension_ids": [
+    "backend-semantics"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_checkout.py::test_totals_reflect_custom_price"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_checkout.py::test_custom_splits_must_sum_to_total"
+   ]
+  },
+  {
+   "id": "cart-cap",
+   "priority": "p2",
+   "statement": "Cart enforces the observed MAX_CART_SIZE of 20.",
+   "journey_ids": [
+    "cart"
+   ],
+   "coverage_dimension_ids": [
+    "interaction"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_cart.py::test_cart_size_cap"
+   ],
+   "negative_test_refs": []
+  },
+  {
+   "id": "deterministic-reset",
+   "priority": "p0",
+   "statement": "POST /__admin/reset restores the full deterministic seed (catalog, bundles, demo account, seeded purchases).",
+   "journey_ids": [
+    "library-keys",
+    "history-manage"
+   ],
+   "coverage_dimension_ids": [
+    "backend-semantics"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_lifecycle.py::test_admin_reset_restores_seed"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_lifecycle.py::test_admin_reset_requires_token"
+   ]
+  },
+  {
+   "id": "currency-cad-frozen",
+   "priority": "p0",
+   "statement": "All money renders in the captured CAD formatting (CA$ prefix, two decimals).",
+   "journey_ids": [
+    "detail",
+    "tiers"
+   ],
+   "coverage_dimension_ids": [
+    "data-subset"
+   ],
+   "positive_test_refs": [
+    "clone/tests/test_catalog.py::test_currency_formatting"
+   ],
+   "negative_test_refs": [
+    "clone/tests/test_catalog.py::test_seed_money_is_integer_cad_only"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4470 @@
+{
+ "userOptions": {
+  "is_logged_in": false,
+  "logout_url": "/logout?goto=/games/hambles-summer-island-getaway-bundle&qs="
+ },
+ "showSingleSignOn": true,
+ "debug": false,
+ "ipInChina": false,
+ "isEuCountry": false,
+ "baseSubscriptionPrice|money": {
+  "currency": "CAD",
+  "amount": 17.99
+ },
+ "bannerOptions": null,
+ "exchangeRates": {
+  "USD|decimal": 1.0,
+  "AUD|decimal": 1.4072425306052565,
+  "CHF|decimal": 0.7989898125160517,
+  "IDR|decimal": 17796.952315726394,
+  "KRW|decimal": 1396.353051964729,
+  "CNY|decimal": 6.723568187655166,
+  "ISK|decimal": 121.56493450903176,
+  "ILS|decimal": 2.9920383528807464,
+  "GBP|decimal": 0.7338840852666724,
+  "NZD|decimal": 1.682818251861998,
+  "DKK|decimal": 6.399965756356476,
+  "CAD|decimal": 1.3770225151956168,
+  "TRY|decimal": 47.953514253916616,
+  "HUF|decimal": 312.55885626230634,
+  "PHP|decimal": 61.727591815769195,
+  "RON|decimal": 4.495762349113946,
+  "NOK|decimal": 9.333533087920555,
+  "RUB|decimal": 117.201,
+  "ZAR|decimal": 16.17404331820906,
+  "MYR|decimal": 4.044003081927917,
+  "MXN|decimal": 16.99058299803099,
+  "INR|decimal": 95.70969951202808,
+  "THB|decimal": 32.914990154952484,
+  "JPY|decimal": 158.7620922866193,
+  "CZK|decimal": 20.677168050680592,
+  "BRL|decimal": 5.19356219501755,
+  "PLN|decimal": 3.697286191250749,
+  "EUR|decimal": 0.8560910880917729,
+  "SEK|decimal": 9.491909939217532,
+  "SGD|decimal": 1.2721513569043745,
+  "HKD|decimal": 7.843848985532061
+ },
+ "csrfTokenInput": "REDACTED-CSRF-TOKEN",
+ "csrfToken": "REDACTED-CSRF-TOKEN",
+ "user_max_reward_amount": 0,
+ "csrfFormKey": "REDACTED-CSRF-TOKEN",
+ "bundleData": {
+  "machine_name": "hamblessummerislandgetawaybundle_bundle",
+  "jplayer_swf_path": "https://cdn.humblebundle.com/static/hashed/682bac84e8df7e444ab9127ce8e22f626caf0e41.swf",
+  "at_risk_tpkds": {},
+  "tier_display_data": {
+   "bt12": {
+    "header": "Pay CA$16.79 or more to also unlock!",
+    "identifier": "bt12",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "primordialis",
+     "caribbeanlegend",
+     "forgottenseas",
+     "islanders_newshores",
+     "justatothemoonseriesbeachepisode",
+     "thesouthisland",
+     "islanders",
+     "flooded"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "initial": {
+    "header": "Pay CA$8.39 to unlock!",
+    "identifier": "initial",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "islanders_newshores",
+     "justatothemoonseriesbeachepisode",
+     "thesouthisland",
+     "islanders",
+     "flooded"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   }
+  },
+  "tier_order": [
+   "bt12",
+   "initial"
+  ],
+  "is_all_charity_bundle": false,
+  "author": "Publishers",
+  "tax_type": null,
+  "preset_prices": [
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 8.39
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 16.79
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 30.0
+    },
+    "suggested": true,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 35.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 40.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 45.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   }
+  ],
+  "cyoc_data": {},
+  "average_data": {
+   "average_usd_amount|decimal": 12.259013338608714,
+   "average_usd_string": "12.25901333860871397733567264",
+   "avguuid": "AUnHQocPid6IMx29",
+   "cleanavg": "12.25",
+   "average_usd|money": {
+    "currency": "USD",
+    "amount": 12.259013338608714
+   },
+   "average|money": {
+    "currency": "CAD",
+    "amount": 16.88
+   },
+   "avghash": "lZJ68q+e/pKPgfUSn8lgfDUmIrzgV3vcYGBZKDaiKNA="
+  },
+  "leaderboard_data": [
+   {
+    "name": "xipeta",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 12.57
+    }
+   },
+   {
+    "name": "AERTH",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 13.08
+    }
+   },
+   {
+    "name": "ML",
+    "order_price|money": {
+     "currency": "CNY",
+     "amount": 80.98
+    }
+   },
+   {
+    "name": "OsuCelsius",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 12.0
+    }
+   },
+   {
+    "name": "DustPAL",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 12.0
+    }
+   },
+   {
+    "name": "L1ghtShad3",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 12.0
+    }
+   },
+   {
+    "name": "Niema Moshiri",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 12.0
+    }
+   },
+   {
+    "name": "Danilo",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 6.33
+    }
+   },
+   {
+    "name": "Wither",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 6.27
+    }
+   }
+  ],
+  "empty_tpkds": {},
+  "at_time|datetime": "2026-08-21T00:02:28.574042",
+  "basic_data": {
+   "eula": null,
+   "split_disclaimer": null,
+   "currency": "CAD",
+   "giving_fund": "ppgf",
+   "logo": "https://hb.imgix.net/b8b3fd4eb1e39415b7626542e1c63464175b571d.png?auto=compress,format&h=340&w=1200&s=2a5746103297134392ede0eb8daaf03a",
+   "disallowed_payment_processors": [],
+   "newsletter_mailing_list_machine_name": "bundle_emails",
+   "supports_partners": true,
+   "detailed_marketing_blurb": "Take a break and soak up some sun with all the beachy summer games in Hamble\u2019s Summer Getaway Bundle! Play all of our friendly mascot\u2019s favorite seasonal games, from fishing challenges to island builders and beyond! Design the perfect fish and explore the depths of <em>Primordialis</em>, where predators and prey are around every reef! Design your unique island paradises in a variety of new styles and biomes in <em>Islanders: New Shores</em>! Bring the summer fun home with all of these games and more! Pay what you choose for all eight of these sun-soaked adventures, and support Whale & Dolphin Conservation with your purchase! <br><br><strong><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027.<br><br></span></strong><strong>",
+   "order_form_disclaimer": null,
+   "media_type": "game",
+   "description": "<p><strong>Summer fun with Hamble!</strong> Take a break and soak up some sun with all the beachy summer games in Hamble\u2019s Summer Getaway Bundle! Play all of our friendly mascot\u2019s favorite seasonal games, from fishing challenges to island builders and beyond! Design the perfect fish and explore the depths of <em>Primordialis</em>, where predators and prey are around every reef! Design your unique island paradises in a variety of new styles and biomes in <em>Islanders: New Shores</em>! Bring the summer fun home with all of these games and more! Pay what you choose for all eight of these sun-soaked adventures, and support Whale &amp; Dolphin Conservation with your purchase!<br><br><strong><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027.<br><br></span></strong><strong>Pay CA$8.39 or more.</strong> Normally, the total cost for the games in this bundle is as much as US$104. Here at Humble Bundle, you choose the price and increase your contribution to upgrade your bundle! This bundle has a minimum CA$8.39 purchase. Pay CA$8.39 or more to access Steam keys.</p>\n<p><strong>Redeem on Steam.</strong> <span>Games in this bundle are available on Steam for Windows - and some for Mac or Linux too. <i style=\"color: #ef9741;\">The South Island is only available as a DRM-Free download.</i></span></p>\n<p><strong>Support charity.</strong> Choose where the money goes - between the publishers and to support Whale &amp; Dolphin Conservation. If you like what we do, you can leave us a Humble Tip too!</p>",
+   "legal_disclaimer": null,
+   "page_title_tag": "",
+   "short_marketing_blurb": "Summer fun with Hamble!",
+   "required_account_links": [
+    "steam"
+   ],
+   "require_linked_third_party_account_when": "only-when-free",
+   "region_lock_warnings": {},
+   "youtube_video_key": null,
+   "twitch_data": {},
+   "allowed_payment_processors": [
+    "free",
+    "paypal",
+    "alipay",
+    "alipay_payment_intent",
+    "stripe_checkout",
+    "stripe_payment_intent"
+   ],
+   "end_time|datetime": "2026-09-10T04:00:00",
+   "msrp|money": {
+    "currency": "CAD",
+    "amount": 143.21034158034414
+   },
+   "human_name": "Hamble's Summer Island Getaway Bundle",
+   "tpkd_cutoff_price|money": {
+    "currency": "CAD",
+    "amount": 8.39
+   }
+  },
+  "tier_pricing_data": {
+   "initial": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 8.39
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 16.88
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": true,
+    "identifier": "initial",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "bt12": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 16.79
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 16.88
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt12",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   }
+  },
+  "partner_data": null,
+  "other_bundles_data": [
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/gregbearbirthdaybundleopenroadmedia_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       324.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$324"
+    },
+    "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=576eb764f980a4edc4ff65123ee0224e",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em></em>, <em></em>, <em>Anvil of Stars</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/greg-bear-birthday-bundle-open-road-media-books",
+    "tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=353&w=616&s=73a07b9e661f143511f78cc6f714eba4",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        2.78,
+        "EUR"
+       ],
+       "FR": [
+        2.77,
+        "EUR"
+       ],
+       "BG": [
+        3.15,
+        "EUR"
+       ],
+       "DK": [
+        3.28,
+        "EUR"
+       ],
+       "HR": [
+        2.76,
+        "EUR"
+       ],
+       "DE": [
+        2.81,
+        "EUR"
+       ],
+       "JP": [
+        3.3,
+        "USD"
+       ],
+       "HU": [
+        3.34,
+        "EUR"
+       ],
+       "US": [
+        3.0,
+        "USD"
+       ],
+       "FI": [
+        2.89,
+        "EUR"
+       ],
+       "BY": [
+        3.54,
+        "USD"
+       ],
+       "GR": [
+        2.78,
+        "EUR"
+       ],
+       "RU": [
+        383.56,
+        "RUB"
+       ],
+       "NL": [
+        2.86,
+        "EUR"
+       ],
+       "PT": [
+        2.78,
+        "EUR"
+       ],
+       "NO": [
+        2.63,
+        "EUR"
+       ],
+       "TW": [
+        3.15,
+        "USD"
+       ],
+       "TR": [
+        141.09,
+        "TRY"
+       ],
+       "NZ": [
+        5.92,
+        "NZD"
+       ],
+       "LV": [
+        2.76,
+        "EUR"
+       ],
+       "LT": [
+        2.86,
+        "EUR"
+       ],
+       "LU": [
+        2.7,
+        "EUR"
+       ],
+       "TH": [
+        3.0,
+        "USD"
+       ],
+       "PH": [
+        185.06,
+        "PHP"
+       ],
+       "RO": [
+        2.76,
+        "EUR"
+       ],
+       "IS": [
+        3.33,
+        "USD"
+       ],
+       "PL": [
+        2.76,
+        "EUR"
+       ],
+       "CH": [
+        2.69,
+        "EUR"
+       ],
+       "MT": [
+        2.76,
+        "EUR"
+       ],
+       "CN": [
+        20.32,
+        "CNY"
+       ],
+       "CL": [
+        3.57,
+        "USD"
+       ],
+       "EE": [
+        2.86,
+        "EUR"
+       ],
+       "EG": [
+        3.42,
+        "USD"
+       ],
+       "IT": [
+        2.73,
+        "EUR"
+       ],
+       "ZA": [
+        3.45,
+        "USD"
+       ],
+       "CZ": [
+        2.63,
+        "EUR"
+       ],
+       "CY": [
+        3.12,
+        "EUR"
+       ],
+       "AU": [
+        4.71,
+        "AUD"
+       ],
+       "GB": [
+        2.23,
+        "GBP"
+       ],
+       "IN": [
+        3.54,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        2.23,
+        "GBP"
+       ],
+       "IE": [
+        2.63,
+        "EUR"
+       ],
+       "ES": [
+        2.73,
+        "EUR"
+       ],
+       "MD": [
+        3.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        2.63,
+        "EUR"
+       ],
+       "UA": [
+        3.6,
+        "USD"
+       ],
+       "CA": [
+        4.22,
+        "CAD"
+       ],
+       "SK": [
+        3.23,
+        "EUR"
+       ],
+       "KR": [
+        3.3,
+        "USD"
+       ],
+       "SI": [
+        2.76,
+        "EUR"
+       ],
+       "SG": [
+        3.27,
+        "USD"
+       ],
+       "MX": [
+        3.48,
+        "USD"
+       ],
+       "SE": [
+        2.78,
+        "EUR"
+       ],
+       "AT": [
+        2.89,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        9.28,
+        "EUR"
+       ],
+       "FR": [
+        9.24,
+        "EUR"
+       ],
+       "BG": [
+        10.51,
+        "EUR"
+       ],
+       "DK": [
+        10.95,
+        "EUR"
+       ],
+       "HR": [
+        9.19,
+        "EUR"
+       ],
+       "DE": [
+        9.37,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        11.12,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        9.63,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        9.28,
+        "EUR"
+       ],
+       "RU": [
+        1278.55,
+        "RUB"
+       ],
+       "NL": [
+        9.54,
+        "EUR"
+       ],
+       "PT": [
+        9.28,
+        "EUR"
+       ],
+       "NO": [
+        8.76,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        470.31,
+        "TRY"
+       ],
+       "NZ": [
+        19.76,
+        "NZD"
+       ],
+       "LV": [
+        9.19,
+        "EUR"
+       ],
+       "LT": [
+        9.54,
+        "EUR"
+       ],
+       "LU": [
+        9.02,
+        "EUR"
+       ],
+       "TH": [
+        10.0,
+        "USD"
+       ],
+       "PH": [
+        616.87,
+        "PHP"
+       ],
+       "RO": [
+        9.19,
+        "EUR"
+       ],
+       "IS": [
+        11.1,
+        "USD"
+       ],
+       "PL": [
+        9.19,
+        "EUR"
+       ],
+       "CH": [
+        8.98,
+        "EUR"
+       ],
+       "MT": [
+        9.19,
+        "EUR"
+       ],
+       "CN": [
+        67.74,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        9.54,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        9.11,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        8.76,
+        "EUR"
+       ],
+       "CY": [
+        10.42,
+        "EUR"
+       ],
+       "AU": [
+        15.75,
+        "AUD"
+       ],
+       "GB": [
+        7.46,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.46,
+        "GBP"
+       ],
+       "IE": [
+        8.76,
+        "EUR"
+       ],
+       "ES": [
+        9.11,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.76,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        14.07,
+        "CAD"
+       ],
+       "SK": [
+        10.77,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        9.19,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        9.28,
+        "EUR"
+       ],
+       "AT": [
+        9.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt18",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.72,
+        "EUR"
+       ],
+       "FR": [
+        16.64,
+        "EUR"
+       ],
+       "BG": [
+        18.93,
+        "EUR"
+       ],
+       "DK": [
+        19.72,
+        "EUR"
+       ],
+       "HR": [
+        16.56,
+        "EUR"
+       ],
+       "DE": [
+        16.88,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        20.04,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.72,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.2,
+        "EUR"
+       ],
+       "PT": [
+        16.72,
+        "EUR"
+       ],
+       "NO": [
+        15.78,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.56,
+        "TRY"
+       ],
+       "NZ": [
+        35.58,
+        "NZD"
+       ],
+       "LV": [
+        16.56,
+        "EUR"
+       ],
+       "LT": [
+        17.2,
+        "EUR"
+       ],
+       "LU": [
+        16.25,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1110.37,
+        "PHP"
+       ],
+       "RO": [
+        16.56,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.56,
+        "EUR"
+       ],
+       "CH": [
+        16.19,
+        "EUR"
+       ],
+       "MT": [
+        16.56,
+        "EUR"
+       ],
+       "CN": [
+        121.93,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.2,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.41,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.78,
+        "EUR"
+       ],
+       "CY": [
+        18.77,
+        "EUR"
+       ],
+       "AU": [
+        28.34,
+        "AUD"
+       ],
+       "GB": [
+        13.42,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.42,
+        "GBP"
+       ],
+       "IE": [
+        15.78,
+        "EUR"
+       ],
+       "ES": [
+        16.41,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.78,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.33,
+        "CAD"
+       ],
+       "SK": [
+        19.4,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.56,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.72,
+        "EUR"
+       ],
+       "AT": [
+        17.35,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt18_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$324 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$324."
+     },
+     {
+      "heading": "Pay AU$4.71 or more",
+      "tooltip": "Name your price of AU$4.71 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub and PRC file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T18:00:00",
+    "author": "Open Road Media",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "The world of science fiction lost a titan when novelist Greg Bear passed away in 2022, but his books remain a perfect example of exactly what sci-fi was always meant to be. Author of over 50 books and co-founder of San Diego Comic Con, Bear made loving sci-fi into a career that spanned five decades. His work, which tested the limits of human (and non-human) consciousness and looked toward the far future and beyond, inspires and excites readers to this day. To celebrate what would have been Greg Bear\u2019s 75th Birthday, in partnership with Open Road Media, we\u2019ve collected a bundle of his best novels including award-winning classics like first contact thriller <em>Eon</em>, alien invasion drama <em>The Forge of God</em>, and post-apocalyptic space odyssey <em>Anvil of Stars</em>! Get a motherlode of some of the best sci-fi ever written for the price of your choosing, and support the Science Fiction & Fantasy Writers Association with your purchase!",
+    "tile_logo": "https://hb.imgix.net/ec343992eae9f55f52c94db55a21017493a1db5e.png?auto=compress,format&h=340&w=1200&s=de401b9bb65fa73cf486e75484327755",
+    "tile_short_name": "The Greg Bear Birthday Bundle by Open Road Media",
+    "start_date|datetime": "2026-08-20T18:00:00",
+    "hover_highlights": [
+     "27 books",
+     "US$324 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Greg Bear Birthday Bundle by Open Road Media",
+    "short_marketing_blurb": "Celebrate the birthday of one of sci-fi\u2019s masters",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "27 books",
+     "US$324 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/yeschefcookingbundle_bundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       208.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$208"
+    },
+    "machine_name": "yeschefcookingbundle_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=cd648c330733cbf4e8ae61aeaccacfe2",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Chef Knight</em>, <em>Pizza Possum</em>, <em>The Chef's Shift</em>, <em>Tailside: Cozy Cafe Sim</em>, <em>Tavern Manager Simulator</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/yes-chef-cooking-bundle",
+    "tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e6118af1c71a67d3aa9db97b9ade14d3",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        7.32,
+        "EUR"
+       ],
+       "FR": [
+        7.26,
+        "EUR"
+       ],
+       "BG": [
+        7.26,
+        "EUR"
+       ],
+       "DK": [
+        7.56,
+        "EUR"
+       ],
+       "HR": [
+        7.56,
+        "EUR"
+       ],
+       "DE": [
+        7.19,
+        "EUR"
+       ],
+       "JP": [
+        7.7,
+        "USD"
+       ],
+       "HU": [
+        7.68,
+        "EUR"
+       ],
+       "US": [
+        7.0,
+        "USD"
+       ],
+       "FI": [
+        7.59,
+        "EUR"
+       ],
+       "BY": [
+        8.26,
+        "USD"
+       ],
+       "GR": [
+        7.5,
+        "EUR"
+       ],
+       "RU": [
+        957.13,
+        "RUB"
+       ],
+       "NL": [
+        7.32,
+        "EUR"
+       ],
+       "PT": [
+        7.44,
+        "EUR"
+       ],
+       "NO": [
+        7.56,
+        "EUR"
+       ],
+       "TW": [
+        7.35,
+        "USD"
+       ],
+       "TR": [
+        335.19,
+        "TRY"
+       ],
+       "NZ": [
+        13.66,
+        "NZD"
+       ],
+       "LV": [
+        7.32,
+        "EUR"
+       ],
+       "LT": [
+        7.13,
+        "EUR"
+       ],
+       "LU": [
+        7.07,
+        "EUR"
+       ],
+       "TH": [
+        7.49,
+        "USD"
+       ],
+       "PH": [
+        429.71,
+        "PHP"
+       ],
+       "RO": [
+        7.01,
+        "EUR"
+       ],
+       "IS": [
+        8.68,
+        "USD"
+       ],
+       "PL": [
+        7.44,
+        "EUR"
+       ],
+       "CH": [
+        6.54,
+        "EUR"
+       ],
+       "MT": [
+        7.13,
+        "EUR"
+       ],
+       "CN": [
+        47.18,
+        "CNY"
+       ],
+       "CL": [
+        8.33,
+        "USD"
+       ],
+       "EE": [
+        7.38,
+        "EUR"
+       ],
+       "EG": [
+        7.98,
+        "USD"
+       ],
+       "IT": [
+        7.38,
+        "EUR"
+       ],
+       "ZA": [
+        8.05,
+        "USD"
+       ],
+       "CZ": [
+        7.32,
+        "EUR"
+       ],
+       "CY": [
+        7.19,
+        "EUR"
+       ],
+       "AU": [
+        10.86,
+        "AUD"
+       ],
+       "GB": [
+        6.2,
+        "GBP"
+       ],
+       "IN": [
+        8.26,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        5.17,
+        "GBP"
+       ],
+       "IE": [
+        7.44,
+        "EUR"
+       ],
+       "ES": [
+        7.32,
+        "EUR"
+       ],
+       "MD": [
+        8.4,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        6.05,
+        "EUR"
+       ],
+       "UA": [
+        8.4,
+        "USD"
+       ],
+       "CA": [
+        9.71,
+        "CAD"
+       ],
+       "SK": [
+        7.44,
+        "EUR"
+       ],
+       "KR": [
+        7.7,
+        "USD"
+       ],
+       "SI": [
+        7.38,
+        "EUR"
+       ],
+       "SG": [
+        7.63,
+        "USD"
+       ],
+       "MX": [
+        8.12,
+        "USD"
+       ],
+       "SE": [
+        7.56,
+        "EUR"
+       ],
+       "AT": [
+        7.26,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt13",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        13.58,
+        "EUR"
+       ],
+       "FR": [
+        13.47,
+        "EUR"
+       ],
+       "BG": [
+        13.47,
+        "EUR"
+       ],
+       "DK": [
+        14.03,
+        "EUR"
+       ],
+       "HR": [
+        14.03,
+        "EUR"
+       ],
+       "DE": [
+        13.36,
+        "EUR"
+       ],
+       "JP": [
+        14.3,
+        "USD"
+       ],
+       "HU": [
+        14.26,
+        "EUR"
+       ],
+       "US": [
+        13.0,
+        "USD"
+       ],
+       "FI": [
+        14.09,
+        "EUR"
+       ],
+       "BY": [
+        15.34,
+        "USD"
+       ],
+       "GR": [
+        13.92,
+        "EUR"
+       ],
+       "RU": [
+        1777.54,
+        "RUB"
+       ],
+       "NL": [
+        13.58,
+        "EUR"
+       ],
+       "PT": [
+        13.81,
+        "EUR"
+       ],
+       "NO": [
+        14.03,
+        "EUR"
+       ],
+       "TW": [
+        13.65,
+        "USD"
+       ],
+       "TR": [
+        622.49,
+        "TRY"
+       ],
+       "NZ": [
+        25.38,
+        "NZD"
+       ],
+       "LV": [
+        13.58,
+        "EUR"
+       ],
+       "LT": [
+        13.25,
+        "EUR"
+       ],
+       "LU": [
+        13.13,
+        "EUR"
+       ],
+       "TH": [
+        13.91,
+        "USD"
+       ],
+       "PH": [
+        798.04,
+        "PHP"
+       ],
+       "RO": [
+        13.02,
+        "EUR"
+       ],
+       "IS": [
+        16.12,
+        "USD"
+       ],
+       "PL": [
+        13.81,
+        "EUR"
+       ],
+       "CH": [
+        12.13,
+        "EUR"
+       ],
+       "MT": [
+        13.25,
+        "EUR"
+       ],
+       "CN": [
+        87.63,
+        "CNY"
+       ],
+       "CL": [
+        15.47,
+        "USD"
+       ],
+       "EE": [
+        13.7,
+        "EUR"
+       ],
+       "EG": [
+        14.82,
+        "USD"
+       ],
+       "IT": [
+        13.7,
+        "EUR"
+       ],
+       "ZA": [
+        14.95,
+        "USD"
+       ],
+       "CZ": [
+        13.58,
+        "EUR"
+       ],
+       "CY": [
+        13.36,
+        "EUR"
+       ],
+       "AU": [
+        20.18,
+        "AUD"
+       ],
+       "GB": [
+        11.52,
+        "GBP"
+       ],
+       "IN": [
+        15.34,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        9.6,
+        "GBP"
+       ],
+       "IE": [
+        13.81,
+        "EUR"
+       ],
+       "ES": [
+        13.58,
+        "EUR"
+       ],
+       "MD": [
+        15.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        11.23,
+        "EUR"
+       ],
+       "UA": [
+        15.6,
+        "USD"
+       ],
+       "CA": [
+        18.03,
+        "CAD"
+       ],
+       "SK": [
+        13.81,
+        "EUR"
+       ],
+       "KR": [
+        14.3,
+        "USD"
+       ],
+       "SI": [
+        13.7,
+        "EUR"
+       ],
+       "SG": [
+        14.17,
+        "USD"
+       ],
+       "MX": [
+        15.08,
+        "USD"
+       ],
+       "SE": [
+        14.03,
+        "EUR"
+       ],
+       "AT": [
+        13.47,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt13_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt16",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.73,
+        "EUR"
+       ],
+       "FR": [
+        16.59,
+        "EUR"
+       ],
+       "BG": [
+        16.59,
+        "EUR"
+       ],
+       "DK": [
+        17.28,
+        "EUR"
+       ],
+       "HR": [
+        17.28,
+        "EUR"
+       ],
+       "DE": [
+        16.45,
+        "EUR"
+       ],
+       "JP": [
+        17.6,
+        "USD"
+       ],
+       "HU": [
+        17.56,
+        "EUR"
+       ],
+       "US": [
+        16.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        18.88,
+        "USD"
+       ],
+       "GR": [
+        17.14,
+        "EUR"
+       ],
+       "RU": [
+        2187.74,
+        "RUB"
+       ],
+       "NL": [
+        16.73,
+        "EUR"
+       ],
+       "PT": [
+        17.01,
+        "EUR"
+       ],
+       "NO": [
+        17.28,
+        "EUR"
+       ],
+       "TW": [
+        16.8,
+        "USD"
+       ],
+       "TR": [
+        766.15,
+        "TRY"
+       ],
+       "NZ": [
+        31.23,
+        "NZD"
+       ],
+       "LV": [
+        16.73,
+        "EUR"
+       ],
+       "LT": [
+        16.31,
+        "EUR"
+       ],
+       "LU": [
+        16.18,
+        "EUR"
+       ],
+       "TH": [
+        17.12,
+        "USD"
+       ],
+       "PH": [
+        982.21,
+        "PHP"
+       ],
+       "RO": [
+        16.04,
+        "EUR"
+       ],
+       "IS": [
+        19.84,
+        "USD"
+       ],
+       "PL": [
+        17.01,
+        "EUR"
+       ],
+       "CH": [
+        14.95,
+        "EUR"
+       ],
+       "MT": [
+        16.31,
+        "EUR"
+       ],
+       "CN": [
+        107.86,
+        "CNY"
+       ],
+       "CL": [
+        19.04,
+        "USD"
+       ],
+       "EE": [
+        16.87,
+        "EUR"
+       ],
+       "EG": [
+        18.24,
+        "USD"
+       ],
+       "IT": [
+        16.87,
+        "EUR"
+       ],
+       "ZA": [
+        18.4,
+        "USD"
+       ],
+       "CZ": [
+        16.73,
+        "EUR"
+       ],
+       "CY": [
+        16.45,
+        "EUR"
+       ],
+       "AU": [
+        24.84,
+        "AUD"
+       ],
+       "GB": [
+        14.17,
+        "GBP"
+       ],
+       "IN": [
+        18.88,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.81,
+        "GBP"
+       ],
+       "IE": [
+        17.01,
+        "EUR"
+       ],
+       "ES": [
+        16.73,
+        "EUR"
+       ],
+       "MD": [
+        19.2,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        13.83,
+        "EUR"
+       ],
+       "UA": [
+        19.2,
+        "USD"
+       ],
+       "CA": [
+        22.19,
+        "CAD"
+       ],
+       "SK": [
+        17.01,
+        "EUR"
+       ],
+       "KR": [
+        17.6,
+        "USD"
+       ],
+       "SI": [
+        16.87,
+        "EUR"
+       ],
+       "SG": [
+        17.44,
+        "USD"
+       ],
+       "MX": [
+        18.56,
+        "USD"
+       ],
+       "SE": [
+        17.28,
+        "EUR"
+       ],
+       "AT": [
+        16.59,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt16_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$208 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$208."
+     },
+     {
+      "heading": "Pay AU$10.86 or more",
+      "tooltip": "Name your price of AU$10.86 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$10.86 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T04:00:00",
+    "author": "Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Take your chef skills to the next level with this bundle of tasty cooking games! Whether you\u2019re an amateur at best IRL or a seasoned professional in the kitchen, you\u2019re sure to find the perfect cooking challenge. Keep the ale flowing and the mood high in the charmingly old-timey <em>Tavern Manager Simulator</em>! Let your fingers fly across the keyboard in the high-octane typing game <em>The Chef\u2019s Shift</em>! (Say that three times fast.) Become the sneaky, ravenous beast you were always meant to be in arcade game <em>Pizza Possum</em>! Whatever your speed, whatever your tastes, this bundle of cooking games will satisfy any appetite! Grab these tasty treats while you can at the price of your choice, and support the FarmLink Project with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027. </span>",
+    "tile_logo": "https://hb.imgix.net/1816638967eeb74efee1af1d5edb39dbf288d2d9.png?auto=compress,format&h=340&w=1200&s=1aa4086e9cbdbfae27bff97e7cc2f377",
+    "tile_short_name": "Yes Chef! - Cooking Bundle",
+    "start_date|datetime": "2026-08-19T18:00:00",
+    "hover_highlights": [
+     "16 games",
+     "US$208 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Yes Chef! - Cooking Bundle",
+    "short_marketing_blurb": "Order up!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "16 games",
+     "US$208 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/shantaefranchisebundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       192.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$192"
+    },
+    "machine_name": "shantaeheroicheroines_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=edd5f1bb3f076ded31ee89f974896c35",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>River City Girls</em> and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/shantae-heroic-heroines",
+    "tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d9ca18756b816bf711cc7dcfcedaec8e",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        5.23,
+        "EUR"
+       ],
+       "FR": [
+        5.19,
+        "EUR"
+       ],
+       "BG": [
+        5.19,
+        "EUR"
+       ],
+       "DK": [
+        5.41,
+        "EUR"
+       ],
+       "HR": [
+        5.41,
+        "EUR"
+       ],
+       "DE": [
+        5.15,
+        "EUR"
+       ],
+       "JP": [
+        5.5,
+        "USD"
+       ],
+       "HU": [
+        5.49,
+        "EUR"
+       ],
+       "US": [
+        5.0,
+        "USD"
+       ],
+       "FI": [
+        5.43,
+        "EUR"
+       ],
+       "BY": [
+        5.9,
+        "USD"
+       ],
+       "GR": [
+        5.36,
+        "EUR"
+       ],
+       "RU": [
+        683.66,
+        "RUB"
+       ],
+       "NL": [
+        5.23,
+        "EUR"
+       ],
+       "PT": [
+        5.32,
+        "EUR"
+       ],
+       "NO": [
+        5.41,
+        "EUR"
+       ],
+       "TW": [
+        5.25,
+        "USD"
+       ],
+       "TR": [
+        238.78,
+        "TRY"
+       ],
+       "NZ": [
+        9.79,
+        "NZD"
+       ],
+       "LV": [
+        5.23,
+        "EUR"
+       ],
+       "LT": [
+        5.1,
+        "EUR"
+       ],
+       "LU": [
+        5.06,
+        "EUR"
+       ],
+       "TH": [
+        5.35,
+        "USD"
+       ],
+       "PH": [
+        306.11,
+        "PHP"
+       ],
+       "RO": [
+        5.02,
+        "EUR"
+       ],
+       "IS": [
+        6.2,
+        "USD"
+       ],
+       "PL": [
+        5.32,
+        "EUR"
+       ],
+       "CH": [
+        4.68,
+        "EUR"
+       ],
+       "MT": [
+        5.1,
+        "EUR"
+       ],
+       "CN": [
+        33.71,
+        "CNY"
+       ],
+       "CL": [
+        5.95,
+        "USD"
+       ],
+       "EE": [
+        5.28,
+        "EUR"
+       ],
+       "EG": [
+        5.7,
+        "USD"
+       ],
+       "IT": [
+        5.28,
+        "EUR"
+       ],
+       "ZA": [
+        5.75,
+        "USD"
+       ],
+       "CZ": [
+        5.23,
+        "EUR"
+       ],
+       "CY": [
+        5.15,
+        "EUR"
+       ],
+       "AU": [
+        7.77,
+        "AUD"
+       ],
+       "GB": [
+        4.42,
+        "GBP"
+       ],
+       "IN": [
+        5.9,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        3.69,
+        "GBP"
+       ],
+       "IE": [
+        5.32,
+        "EUR"
+       ],
+       "ES": [
+        5.23,
+        "EUR"
+       ],
+       "MD": [
+        6.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        4.33,
+        "EUR"
+       ],
+       "UA": [
+        6.0,
+        "USD"
+       ],
+       "CA": [
+        6.96,
+        "CAD"
+       ],
+       "SK": [
+        5.32,
+        "EUR"
+       ],
+       "KR": [
+        5.5,
+        "USD"
+       ],
+       "SI": [
+        5.28,
+        "EUR"
+       ],
+       "SG": [
+        5.45,
+        "USD"
+       ],
+       "MX": [
+        5.8,
+        "USD"
+       ],
+       "SE": [
+        5.41,
+        "EUR"
+       ],
+       "AT": [
+        5.19,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        10.47,
+        "EUR"
+       ],
+       "FR": [
+        10.39,
+        "EUR"
+       ],
+       "BG": [
+        10.39,
+        "EUR"
+       ],
+       "DK": [
+        10.82,
+        "EUR"
+       ],
+       "HR": [
+        10.82,
+        "EUR"
+       ],
+       "DE": [
+        10.3,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        10.99,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        10.86,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        10.73,
+        "EUR"
+       ],
+       "RU": [
+        1367.34,
+        "RUB"
+       ],
+       "NL": [
+        10.47,
+        "EUR"
+       ],
+       "PT": [
+        10.65,
+        "EUR"
+       ],
+       "NO": [
+        10.82,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        477.57,
+        "TRY"
+       ],
+       "NZ": [
+        19.59,
+        "NZD"
+       ],
+       "LV": [
+        10.47,
+        "EUR"
+       ],
+       "LT": [
+        10.21,
+        "EUR"
+       ],
+       "LU": [
+        10.13,
+        "EUR"
+       ],
+       "TH": [
+        10.7,
+        "USD"
+       ],
+       "PH": [
+        612.22,
+        "PHP"
+       ],
+       "RO": [
+        10.04,
+        "EUR"
+       ],
+       "IS": [
+        12.4,
+        "USD"
+       ],
+       "PL": [
+        10.65,
+        "EUR"
+       ],
+       "CH": [
+        9.36,
+        "EUR"
+       ],
+       "MT": [
+        10.21,
+        "EUR"
+       ],
+       "CN": [
+        67.43,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        10.56,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        10.56,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        10.47,
+        "EUR"
+       ],
+       "CY": [
+        10.3,
+        "EUR"
+       ],
+       "AU": [
+        15.55,
+        "AUD"
+       ],
+       "GB": [
+        8.86,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.39,
+        "GBP"
+       ],
+       "IE": [
+        10.65,
+        "EUR"
+       ],
+       "ES": [
+        10.47,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.66,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        13.92,
+        "CAD"
+       ],
+       "SK": [
+        10.65,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        10.56,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        10.82,
+        "EUR"
+       ],
+       "AT": [
+        10.39,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt15",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        15.71,
+        "EUR"
+       ],
+       "FR": [
+        15.58,
+        "EUR"
+       ],
+       "BG": [
+        15.58,
+        "EUR"
+       ],
+       "DK": [
+        16.23,
+        "EUR"
+       ],
+       "HR": [
+        16.23,
+        "EUR"
+       ],
+       "DE": [
+        15.45,
+        "EUR"
+       ],
+       "JP": [
+        16.5,
+        "USD"
+       ],
+       "HU": [
+        16.49,
+        "EUR"
+       ],
+       "US": [
+        15.0,
+        "USD"
+       ],
+       "FI": [
+        16.3,
+        "EUR"
+       ],
+       "BY": [
+        17.7,
+        "USD"
+       ],
+       "GR": [
+        16.1,
+        "EUR"
+       ],
+       "RU": [
+        2051.01,
+        "RUB"
+       ],
+       "NL": [
+        15.71,
+        "EUR"
+       ],
+       "PT": [
+        15.97,
+        "EUR"
+       ],
+       "NO": [
+        16.23,
+        "EUR"
+       ],
+       "TW": [
+        15.75,
+        "USD"
+       ],
+       "TR": [
+        716.36,
+        "TRY"
+       ],
+       "NZ": [
+        29.39,
+        "NZD"
+       ],
+       "LV": [
+        15.71,
+        "EUR"
+       ],
+       "LT": [
+        15.32,
+        "EUR"
+       ],
+       "LU": [
+        15.19,
+        "EUR"
+       ],
+       "TH": [
+        16.05,
+        "USD"
+       ],
+       "PH": [
+        918.33,
+        "PHP"
+       ],
+       "RO": [
+        15.06,
+        "EUR"
+       ],
+       "IS": [
+        18.6,
+        "USD"
+       ],
+       "PL": [
+        15.97,
+        "EUR"
+       ],
+       "CH": [
+        14.04,
+        "EUR"
+       ],
+       "MT": [
+        15.32,
+        "EUR"
+       ],
+       "CN": [
+        101.14,
+        "CNY"
+       ],
+       "CL": [
+        17.85,
+        "USD"
+       ],
+       "EE": [
+        15.84,
+        "EUR"
+       ],
+       "EG": [
+        17.1,
+        "USD"
+       ],
+       "IT": [
+        15.84,
+        "EUR"
+       ],
+       "ZA": [
+        17.25,
+        "USD"
+       ],
+       "CZ": [
+        15.71,
+        "EUR"
+       ],
+       "CY": [
+        15.45,
+        "EUR"
+       ],
+       "AU": [
+        23.33,
+        "AUD"
+       ],
+       "GB": [
+        13.3,
+        "GBP"
+       ],
+       "IN": [
+        17.7,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.09,
+        "GBP"
+       ],
+       "IE": [
+        15.97,
+        "EUR"
+       ],
+       "ES": [
+        15.71,
+        "EUR"
+       ],
+       "MD": [
+        18.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        12.99,
+        "EUR"
+       ],
+       "UA": [
+        18.0,
+        "USD"
+       ],
+       "CA": [
+        20.88,
+        "CAD"
+       ],
+       "SK": [
+        15.97,
+        "EUR"
+       ],
+       "KR": [
+        16.5,
+        "USD"
+       ],
+       "SI": [
+        15.84,
+        "EUR"
+       ],
+       "SG": [
+        16.35,
+        "USD"
+       ],
+       "MX": [
+        17.4,
+        "USD"
+       ],
+       "SE": [
+        16.23,
+        "EUR"
+       ],
+       "AT": [
+        15.58,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt15_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$192 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$192."
+     },
+     {
+      "heading": "Pay AU$7.77 or more",
+      "tooltip": "Name your price of AU$7.77 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$7.77 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-08T04:00:00",
+    "author": "WayForward",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in <em>Shantae and the Seven Sirens</em>! Save Sequin Land from a rampant crime wave with <em>Shantae: Half-Genie Hero Ultimate Edition</em>, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in <em>Shantae and the Pirate\u2019s Curse</em>! Plus, have even more fun with the schoolgirl warriors of <em>River City Girls</em> and the law-abiding citizens of <em>Mighty Switch Force</em>! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 7th, 2027. </span> ",
+    "tile_logo": "https://hb.imgix.net/ec50877f873a62bd36758d7371533216f233893c.png?auto=compress,format&h=340&w=1200&s=ec16d5913c7a890143df88d60d6fb5e1",
+    "tile_short_name": "Shantae & Heroic Heroines",
+    "start_date|datetime": "2026-08-17T18:00:00",
+    "hover_highlights": [
+     "10 games",
+     "US$192 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Shantae & Heroic Heroines",
+    "short_marketing_blurb": "Half-genie, big adventures!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "10 games",
+     "US$192 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       688.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$688"
+    },
+    "machine_name": "ultimatevegancookbookbundlepagestreetpublishing_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=14b3f02ee5e8d25f832e91d31c618ae4",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Vegan YUM</em>, <em>Blk + Vegan</em>, <em>Frugal Vegan</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books",
+    "tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0b3ac49bb877ce81a0ab161192d5990c",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.63,
+        "EUR"
+       ],
+       "FR": [
+        16.55,
+        "EUR"
+       ],
+       "BG": [
+        18.82,
+        "EUR"
+       ],
+       "DK": [
+        19.61,
+        "EUR"
+       ],
+       "HR": [
+        16.47,
+        "EUR"
+       ],
+       "DE": [
+        16.78,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        19.92,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.25,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.63,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.1,
+        "EUR"
+       ],
+       "PT": [
+        16.63,
+        "EUR"
+       ],
+       "NO": [
+        15.69,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.98,
+        "TRY"
+       ],
+       "NZ": [
+        35.33,
+        "NZD"
+       ],
+       "LV": [
+        16.47,
+        "EUR"
+       ],
+       "LT": [
+        17.1,
+        "EUR"
+       ],
+       "LU": [
+        16.16,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1109.27,
+        "PHP"
+       ],
+       "RO": [
+        16.47,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.47,
+        "EUR"
+       ],
+       "CH": [
+        16.09,
+        "EUR"
+       ],
+       "MT": [
+        16.47,
+        "EUR"
+       ],
+       "CN": [
+        121.8,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.1,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.31,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.69,
+        "EUR"
+       ],
+       "CY": [
+        18.67,
+        "EUR"
+       ],
+       "AU": [
+        28.24,
+        "AUD"
+       ],
+       "GB": [
+        13.32,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.32,
+        "GBP"
+       ],
+       "IE": [
+        15.69,
+        "EUR"
+       ],
+       "ES": [
+        16.31,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.69,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.24,
+        "CAD"
+       ],
+       "SK": [
+        19.29,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.47,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.63,
+        "EUR"
+       ],
+       "AT": [
+        17.25,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$688 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$688."
+     },
+     {
+      "heading": "Pay AU$28.24 or more",
+      "tooltip": "Name your price of AU$28.24 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-08-27T18:00:00",
+    "author": "Macmillan Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Whether you\u2019re committed to the plant-based lifestyle or thinking about giving it a try, there\u2019s never been a better time to go vegan\u2014especially with this bundle of over 60 vegan cookbooks! We\u2019ve teamed up with Page Street Publishing for a treasure trove of recipes that bring the joys of veganism right to your home kitchen. If you\u2019re looking for Southern soul food with a vegetarian twist, scrumptious Mexican food that keeps things verde, delicious Asian-inspired meals for herbivores, or just tips on how to save while keeping your meals cruelty-free, you\u2019ll find all of that and so much more in this bundle! Grab these cooking ebooks at the price of your choice, and help support World Central Kitchen with your purchase!",
+    "tile_logo": "https://hb.imgix.net/aea8eefba51947fd4c44590e19559aa148a43891.png?auto=compress,format&h=340&w=1200&s=07aca8396c86f115a29216a98a3c6258",
+    "tile_short_name": "The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "start_date|datetime": "2026-07-30T18:00:00",
+    "hover_highlights": [
+     "61 books",
+     "US$688 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "short_marketing_blurb": "Powered by plants",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [
+     "CA"
+    ],
+    "highlights": [
+     "Pay What You Want",
+     "61 books",
+     "US$688 Value",
+     "Support Charity"
+    ]
+   }
+  ],
+  "tier_item_data": {
+   "islanders": {
+    "machine_name": "islanders",
+    "youtube_link": "nnDWm9dpu3o",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx"
+       ],
+       "unavailable": [
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/islanders_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<strong><span style=\"color: #ef9741;\">Relaxing, City Builder, Strategy, Building, Puzzle, Indie</span></strong>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Coatsink",
+      "publisher-url": "https://coatsink.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 6.69
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.39
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">A quick note from the developers: </strong> <br>You want to build beautiful cities without investing hours on end into stressful resource management? Say no more! <i>ISLANDERS</i> should be right up your alley. <br><br><i>ISLANDERS</i> is a minimalist strategy game about building cities on colorful islands. Explore an infinite number of ever-changing new lands, expand your settlements from sprawling villages to vast cities and enjoy the relaxing atmosphere.<br><br>If you\u2019re thinking about buying <i>ISLANDERS</i> please keep in mind that we are a very passionate but small team of three. This is not a blockbuster experience with hours and hours of content. What we\u2019d like to offer you is a simple game that lets anybody create and explore their own little worlds, while providing enough depth for players who want to challenge themselves. And you can get it at the price of a medium sized pumpkin spice matcha caramel latte. <br><br>Please don't hesitate to contact us if you have feedback, questions, or problems with the game. We\u2019ll do our best to get back to you as quickly as possible and provide support if needed. Also let us know if you enjoyed the game, because that makes our day! <br><strong class=\"hmb\"><br>This game offers you: </strong> <br><br>\n<ul>\n<li>Intuitive and rewarding city building gameplay</li>\n<li>Endless amount of procedurally generated islands</li>\n<li>A relaxing atmosphere</li>\n<li>Beautiful, vibrant colors</li>\n<li>Great for playing every now and then, discovering some new islands and beating your high score</li>\n</ul>\n<strong class=\"hmb\">This game doesn\u2019t have:</strong><br>\n<ul>\n<li>Helicopters</li>\n<li>Guns</li>\n<li>Lootboxes</li>\n<li>A cinematic story</li>\n<li>Huge explosions (not even small ones actually)</li>\n<li>Online multiplayer</li>\n<li>Microtransactions</li>\n<li>Orcs</li>\n</ul>\n<strong class=\"hmb\">Wanna know the specifics? </strong> <br><br>The gameplay of <i>ISLANDERS</i> is pretty intuitive. You start with a set of buildings in your inventory that you can place on your island. Placing buildings is rewarded with points. The amount of points you get depends on what surrounds the buildings when you place them. Gather enough points to refill your inventory and unlock new buildings. <br><br>Once your city is big enough you may choose to travel to the next island (they are generated procedurally, so you can literally keep exploring forever). If you run out of buildings the game ends. This is where you high five yourself for beating the high score, take a proud last glance at the epic city you've built and start just one more round... <strong class=\"hmb\"> <br><br><i>ISLANDERS</i> is inspired by amazing games like:</strong><br>\n<ul>\n<li>Bad North</li>\n<li>Anno</li>\n<li>The Settlers</li>\n<li>Sim City</li>\n<li>Kingdoms and Castles</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/storefront/islanders.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "ISLANDERS",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Coatsink, GrizzlyGames, Stage Clear Studios",
+      "developer-url": "https://coatsink.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/3439c7f47cb594e7140774068043562f3e59b5fb.png?auto=compress,format&fit=clip&h=80&w=170&s=16c48286ecc61e62f5cb35a1bf3b8305",
+     "featured_image": "https://hb.imgix.net/3439c7f47cb594e7140774068043562f3e59b5fb.png?auto=compress,format&w=300&s=0b7be6b389517258b9d3c771d9b17d59",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/793ed4ac5d7a6dd47ab1eab4ae5baf72f1b12b0f.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=6eee2b6c436db00c2f7bc2c7a13dc102",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/3439c7f47cb594e7140774068043562f3e59b5fb.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2d83db95493a709f50e9d2fcc10562f4",
+     "front_page_art_imgix": "https://hb.imgix.net/3439c7f47cb594e7140774068043562f3e59b5fb.png?auto=compress,format&w=300&s=0b7be6b389517258b9d3c771d9b17d59",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "ISLANDERS",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "thesouthisland": {
+    "machine_name": "thesouthisland",
+    "youtube_link": "d4xiW3p2o5E",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [],
+     "human_names": {
+      "hb-drmfree": "DRM-free download"
+     },
+     "delivery_to_platform": {},
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-drmfree": "Download for"
+     },
+     "delivery_icons": [
+      "hb-drmfree"
+     ],
+     "platform_to_delivery": {}
+    },
+    "featured_image": "images/storefront/master_images/thesouthisland_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<strong><span style=\"color: #ef9741;\">Action RPG, Action-Adventure, Pixel Graphics, Crafting</span></strong>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 16.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.39
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">A NEW CHALLENGE </strong> <br>\n<p>After an act of desperation and courage, Ayo finds himself separated from his mother and adrift in the ocean. Upon finding solid ground, he encounters a new and challenging land, a place full of mysteries and dangers. Face a variety of enemies, from wild animals to hostile indigenous warriors, as you explore dense forests, open fields, and dark caves.<br><br></p>\n<p><i>The South Island</i> is an action RPG with a nostalgic pixel art style, inspired by the exploration of Zelda (SNES) and the progression system of classic Diablo.</p>\n<strong class=\"hmb\"> <br><br>FEATURES </strong> <br>\n<ul>\n<li>\n<p>Over 40 hand-drawn maps and special areas, exploring the local fauna and flora;</p>\n</li>\n<li>\n<p>Help the main character face unique enemies while progressing, collecting items and resources;</p>\n</li>\n<li>\n<p>Fight with native, magical, and firearm weapons: axe, spear, blowgun, bow and arrow, magic staff, and arquebus;</p>\n</li>\n<li>\n<p>Face epic bosses, unique entities, and 2D platform-style battles;</p>\n</li>\n<li>\n<p>Different mechanics in each map \u2014 discover new features as you progress through the game;</p>\n</li>\n<li>\n<p>Craft unique items: cook traditional native recipes and create local crafts using gathered resources;</p>\n</li>\n<li>\n<p>Special merchant with a full buying and selling system;</p>\n</li>\n<li>\n<p>Puzzles, mini-games, side quests, and an engaging story about a brave young boy.</p>\n</li>\n</ul>\n<strong class=\"hmb\"> <br><br>BRAVE HERO </strong> <br>\n<p>Help Ayo overcome all challenges and rescue his mother. Face formidable enemies, solve intriguing puzzles, and explore a vibrant, lively world. Ayo's courage and determination will be tested at every step. Are you ready for this epic adventure?</p>\n<strong class=\"hmb\"> <br><br>MERCHANT </strong> <br>\n<p>No one knows where he comes from... only that he has everything you need. Buy and sell with the wandering merchant before he vanishes.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/storefront/thesouthisland.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "The South Island",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Titan Art Games",
+      "developer-url": "https://store.steampowered.com/search/?developer=Titan%20Art%20Games"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "download": []
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/82923d7cac33a754a6326790f01a44ba48a7f255.png?auto=compress,format&fit=clip&h=80&w=170&s=99424be7baaada62ac786f4b7e50c482",
+     "featured_image": "https://hb.imgix.net/82923d7cac33a754a6326790f01a44ba48a7f255.png?auto=compress,format&w=300&s=50ffeeef04b2407ebae22fed9a672592",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/687b1c9a72f95396ff33780bcc103b238791b664.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=93b9c234661f6c90e09c3020e54fa3fe",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/82923d7cac33a754a6326790f01a44ba48a7f255.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=ec1bff9c3279a8ec88c23db7c2478a84",
+     "front_page_art_imgix": "https://hb.imgix.net/82923d7cac33a754a6326790f01a44ba48a7f255.png?auto=compress,format&w=300&s=50ffeeef04b2407ebae22fed9a672592",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "The South Island",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "wdc_gamersfororcas": {
+    "machine_name": "wdc_gamersfororcas",
+    "youtube_link": "hxTzidaaYHU",
+    "item_content_type": null,
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": null,
+    "featured_image": null,
+    "ppgf_info": {
+     "category": "Environment",
+     "city": "Chippenham",
+     "description": "WDC, Whale and Dolphin Conservation (formerly WDCS) is the leading global charity dedicated to the conservation and protection of whales and dolphins. We defend these remarkable creatures against the many threats they face through campaigns, lobbying, advising governments, conservation projects, field research and rescue. Our vision is a world where every whale and dolphin is safe and free.",
+     "url": "http://www.whales.org",
+     "country": "GB",
+     "charity_id": "16618",
+     "state": "WILTSHIRE",
+     "keywords": "Whale, Dolphin, Orca, Conservation, Wildlife",
+     "human_name": "Whale and Dolphin Conservation",
+     "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FYzQwZmU4MmQtODlkNy00ZTU4LTlmZDQtNzhiYzFjYmU1OTI5%2Ffile.JPG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=4033c8cfb50db4afe9369d9d04d91fe7"
+    },
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "subtitle_html": null,
+    "description_text": "<p><em>Donations to support <span>WDC, Whale and Dolphin Conservation&nbsp;</span>are made to the&nbsp;<a rel=\"nofollow\" target=\"_blank\" href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\">PayPal Giving Fund</a>, subject to its policies.</em></p>\n<p>WDC, Whale and Dolphin Conservation is the leading global charity dedicated to the conservation and protection of whales and dolphins. We defend these remarkable creatures against the many threats they face through campaigns, lobbying, advising governments, conservation projects, field research and rescue. Our mission is to amaze people with the wonder of whales and dolphins, and inspire global action to protect them. Our vision is a world where every whale and dolphin is safe and free.</p>\n<p>WDC has offices in the UK, US, Germany and South America and currently works on a range of campaigns, including:</p>\n<ul>\n<li>Ending hunting and commercial whaling</li>\n<li>Helping to tackle ocean plastic pollution, which poses a serious threat to whales and dolphins</li>\n<li>Ending&nbsp; keeping&nbsp; whales and dolphins&nbsp; in captivity</li>\n<li>Tackling the issue of bycatch, where whales and dolphins are accidentally caught in fishing gear</li>\n<li>Creating safe homes for whales and dolphins</li>\n</ul>\n<p>To find out more about our work visit&nbsp;<a href=\"http://www.whales.org/\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.whales.org&amp;source=gmail&amp;ust=1481223990989000&amp;usg=AFQjCNHtdxxEX-cWc3-JqzFfQp_SJHO7mg\">www.whales.org</a>&nbsp;or find WDC on Twitter, Facebook and Instagram.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/logos/wdc_gamersfororcas.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "\u00a0WDC, Whale and Dolphin Conservation",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "whales.org",
+      "developer-url": "http://www.whales.org/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {},
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/87fa87ef026be6f62fcd86a65255a74e54948d7b.png?auto=compress,format&fit=clip&h=80&w=170&s=c63882a21d969487ead34a1743bad8b2",
+     "featured_image": null,
+     "front_page_art_imgix_retina": "https://hb.imgix.net/87fa87ef026be6f62fcd86a65255a74e54948d7b.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=e1bcad17d17baae05eecbb15346e3339",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/87fa87ef026be6f62fcd86a65255a74e54948d7b.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=9f266a2bac4cfeb34aaaeb56e540544a",
+     "front_page_art_imgix": "https://hb.imgix.net/87fa87ef026be6f62fcd86a65255a74e54948d7b.png?auto=compress,format&fit=clip&h=240&w=180&s=04526334fa9a801f014982ef163b7a25",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "WDC, Whale and Dolphin Conservation",
+    "is_mystery_box": null,
+    "payee_secondary_id": "16618",
+    "wallet_credit": {}
+   },
+   "flooded": {
+    "machine_name": "flooded",
+    "youtube_link": "pWAIm8y7lUw",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/flooded_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<strong><span style=\"color: #ef9741;\">RTS, City Builder, Time Management, Management, 2D</span></strong>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Surefire.Games"
+     },
+     {
+      "publisher-name": "better. publishing",
+      "publisher-url": "https://betterpublishing.pro/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 16.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.39
+    },
+    "subtitle_html": null,
+    "description_text": "<span></span><strong class=\"hmb\">SURVIVE THE FLOOD </strong> <br>Most likely due to global warming, the waters have risen to a level leaving only a handful of places habitable. As a small group of survivors, you need to extract resources in order to build an ark and move to a safer place. But beware, with time the waters are getting higher, leaving you with less land to use!<br><br><strong> MANAGE YOUR PROUCTION </strong> <br>Use different buildings to excavate precious resources. Upgrade them in order to maximize the production speed, find relics that will boost your performance and develop new technologies which will allow you to keep up the production rate on a smaller area.<br><br><strong> DEFEND THE ISLAND </strong> <br>Turns out you\u2019re not alone in this hostile environment. Other survivors have settled on nearby islands and they will take every chance to plunder your land. Build various defensive towers and traps to keep your miners safe.<br><br><strong> EXPLORE DIVERSE ISLANDS </strong> <br>Once your island plunges into the ocean, you will need to find a new piece of land. Make sure you gather enough resources in time to build an arc and explore the unknown waters. Beware, you will encounter different biomes, each with their own set of characteristics!<br><br><strong> UNCOVER THE STORY </strong> <br>With global warming being the one of the main issues of today\u2019s society, it seems to be the easiest explanation of the worldwide flood. But is it really the reason why you are trapped on an island, fighting for survival and trying to reach the tallest mountain? Play the story mode to find out!<br><br><strong> ROGUE-LITE RTS </strong> <br>Although <i>Flooded</i> will be story-driven, it will also include rogue-lite elements. Thanks to the procedurally generated islands, each playthrough will be different, while new commanders and relics unlocked with progress will allow you to apply different strategies. Create your own scenario in Quickplay or try the Endless mode, in which the level of water will lower every time you enter a new era, therefore giving you back some land.<span></span>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/flooded.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Flooded",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Artificial Disasters",
+      "developer-url": "https://x.com/adisastersgames"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/3b3fabf22d99b3e65aa8743b7e38a1758142b7ae.png?auto=compress,format&fit=clip&h=80&w=170&s=2f3d3aa42edb63c0ee19764554967d60",
+     "featured_image": "https://hb.imgix.net/3b3fabf22d99b3e65aa8743b7e38a1758142b7ae.png?auto=compress,format&w=300&s=77cf277fc93c9f15be3f93a2e2aa6189",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/a82e999e7514776126bae273acf1fe74bd39d294.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=40a801ac753fb6b5bea49c51f2a491b5",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/3b3fabf22d99b3e65aa8743b7e38a1758142b7ae.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=18615d5204400c05c4510c7189d553ae",
+     "front_page_art_imgix": "https://hb.imgix.net/3b3fabf22d99b3e65aa8743b7e38a1758142b7ae.png?auto=compress,format&w=300&s=77cf277fc93c9f15be3f93a2e2aa6189",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Flooded",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "justatothemoonseriesbeachepisode": {
+    "machine_name": "justatothemoonseriesbeachepisode",
+    "youtube_link": "1jMne7b7FZM",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx",
+        "hb-linux"
+       ],
+       "unavailable": []
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/justatothemoonseriesbeachepisode_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<strong><span style=\"color: #ef9741;\">Story Rich, Adventure, Emotional, RPG, Atmospheric</span></strong>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 9.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.39
+    },
+    "subtitle_html": null,
+    "description_text": "The Beach Episode(TM) of To the Moon, Finding Paradise, and Impostor Factory.\n<br>\n<br>\n<i>\n Or is it?\n</i>\n<br>\n<br>\n...Yes, it technically is.\n<i>\n <i>Just A To the Moon Series Beach Episode</i>\n</i>\nis just that: A To the Moon series beach episode.\n<br>\n<br>\nGet ready for a new short adventure as the SigCorp. crew takes off to an all-expenses-paid vacation at the Golden Lobster Hotel & Resort! For a grand total of 1 day, which is apparently the most the company was willing to fork out. \u00af\\_(\u30c4)_/\u00af\n<br>\n<br>\nJoin familiar faces from\n<i>\n To the Moon, Finding Paradise,\n</i>\nand\n<i>\n Impostor Factory\n</i>\nin this narrative adventure filled with mini-games of varying elements, mysteries and relaxation, as well as--\n<br>\n<br>\n<br>\nWait, most of the characters here should already be dead.....\n<br>\n<br>\n<i>\n</i>\n<strong class=\"hmb\">\n <br>\n <br>\n Key Features\n</strong>\n<br>\n<ul>\n <li>\n  A beach\n  <br>\n </li>\n <li>\n  An episode\n  <br>\n </li>\n <li>\n  A cozy mix between adventure game elements and classic RPG aesthetics\n  <br>\n </li>\n <li>\n  Dialogues that read so wrong but feel so right\n  <br>\n </li>\n <li>\n  Platplat the platypus\n  <br>\n </li>\n <li>\n  Rudog\n  <br>\n </li>\n <li>\n  Long-cat & Ricebot(?)\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/storefront/justatothemoonseriesbeachepisode.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Just a To the Moon Series Beach Episode",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Freebird Games",
+      "developer-url": "https://freebirdgames.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/39dce5c834334cad48f2796ea78ce4928ec33b8a.png?auto=compress,format&fit=clip&h=80&w=170&s=f7c1acb3b39200b932d556d43a7f6e09",
+     "featured_image": "https://hb.imgix.net/39dce5c834334cad48f2796ea78ce4928ec33b8a.png?auto=compress,format&w=300&s=be5cef6a1a3947121057df4650b3a901",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/20f4ae2a55f1c07507bbf6b50337acb13f718d81.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=dd6b20992691b1b598317eed764dfa22",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/39dce5c834334cad48f2796ea78ce4928ec33b8a.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=227bbda3e97afe0f3b5c5345f15aa20c",
+     "front_page_art_imgix": "https://hb.imgix.net/39dce5c834334cad48f2796ea78ce4928ec33b8a.png?auto=compress,format&w=300&s=be5cef6a1a3947121057df4650b3a901",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Just a To the Moon Series Beach Episode",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "caribbeanlegend": {
+    "machine_name": "caribbeanlegend",
+    "youtube_link": "owfOKxgtEx4",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/caribbeanlegend_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<strong><span style=\"color: #ef9741;\">Pirates, RPG, Open World, Naval, Romance, Sandbox</span></strong>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Valkyrie Initiative"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 39.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.79
+    },
+    "subtitle_html": null,
+    "description_text": "<p><strong> <i> Inspired by Sea Dogs series and Sid Meier's Pirates! </i> <br><br></strong></p>\n<p>Welcome to the Caribbean in 1654 AD, a place teeming with opportunities and mysteries. Assume the role of Charles de Maure, a young French noble who embarked on a journey to the New World to assist his brother. What initially appeared to be a simple family matter quickly evolves into a lifelong adventure.<br><br></p>\n<p>Immerse yourself in the tale of a noble brat who rises to become the most influential figure in the Caribbean. <strong> Riches, titles, power, and romance \u2013 the ultimate booty awaits, and it's up to you to seize it all.<br><br></strong></p>\n<ul>\n<li>\n<p>Embark on a 200-hour-long journey.</p>\n</li>\n<li>\n<p>Undertake hundreds of quests.</p>\n</li>\n<li>\n<p>Freeplay, rush through the story, or combine both - you're the Captain, and your ship will sail where you command.</p>\n</li>\n<li>\n<p>Experience a historical narrative with a touch of mystique.</p>\n</li>\n<li>\n<p>Explore romantic interests and companions.</p>\n</li>\n<li>\n<p>Choose from various career options, from general-governor to pirate baron.<br><br></p>\n</li>\n</ul>\n<p>The Caribbean Sea \u2013 a realm of dozens of islands and cities, a grand archipelago shrouded in mystery and secrets. From the summits of Indian pyramids to the ocean depths, unique rewards, quests, and curiosities await. <strong> This open world is your sandbox, you are free to explore it and shape your legend as you see fit. </strong> Your decisions determine where to go, what to do, and who to take with you. Subdue the New World or it will destroy you!<br><br></p>\n<ul>\n<li>\n<p>Discover dozens of islands and settlements.</p>\n</li>\n<li>\n<p>Build your very own colony.</p>\n</li>\n<li>\n<p>Explore caves, pyramids, jungles, Indian tribes, and lost cities.</p>\n</li>\n<li>\n<p>Visit taverns, brothels, shipyards, churches, forts, and many other points of interest.</p>\n</li>\n<li>\n<p>Engage in treasure hunting and gambling.</p>\n</li>\n<li>\n<p>Experience dynamic weather and the serene turquoise sea.<br><br></p>\n</li>\n</ul>\n<p><strong> Owning a warship is a privilege, a symbol of status and luxury. </strong> You are among the very few who can afford such grandeur. Begin your journey with a simple sloop and work your way up to commanding a ship of the line or even a fleet of these formidable vessels, ready to plunder cities at your whim. No one will stand in your way. Tired from leading massive armadas and the responsibility? Take command of a fast Frigate or Corvette and just free roam the Caribbean. In moments of tranquility at sea, relish the stunning views, embrace the sense of exploration, or navigate in the heart of a storm.<br><br></p>\n<ul>\n<li>\n<p>Command dozens of ships representing the glory of the Age of Sail.</p>\n</li>\n<li>\n<p>Customize, paint, upgrade, and repair your vessel.</p>\n</li>\n<li>\n<p>Engage in unforgiving yet enjoyable naval combat.</p>\n</li>\n<li>\n<p>Experience intense boarding action, from the upper deck to the captain's cabin.</p>\n</li>\n<li>\n<p>Collect unique vessels to rule the seas.</p>\n</li>\n<li>\n<p>Manage booty distribution, morale, and the threat of mutinies.</p>\n</li>\n<li>\n<p>Assemble a formidable team of officers.<br><br></p>\n</li>\n</ul>\n<p>Captains are most vulnerable when they set foot on land. Surviving naval combat can be challenging, but at least you won't die alone \u2013 your crew will stand with you till the very end. Land battles are different: dishonest, ruthless and risky for you and those who you hold dear. <strong> Bring your companions with you, poison your weapons, study the terrain, craft deadly items, and confront thugs, soldiers, pirates, and rivals head-on.<br><br></strong></p>\n<ul>\n<li>\n<p>Tailor your character's build \u2013 become a heavy swordsman, a nimble rogue, a master sharpshooter, or a silver-tongued diplomat.</p>\n</li>\n<li>\n<p>Equip yourself and your companions with a wide array of swords, axes, rapiers, armor, muskets, and pistols.</p>\n</li>\n<li>\n<p>Craft amulets, ammo, potions, and always be prepared for battle.</p>\n</li>\n<li>\n<p>Seek out challenges \u2013 the more you fight, the stronger both you and your character become.</p>\n</li>\n<li>\n<p>Command military operations from raiding to sieges.</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/storefront/carribeanlegend.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Caribbean Legend",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "BlackMark Studio",
+      "developer-url": "https://store.steampowered.com/search/?developer=BlackMark%20Studio"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/a6afa79a93310545843f3da8d1009cdb294b7a93.png?auto=compress,format&fit=clip&h=80&w=170&s=800a990d43a0e25f4a87321eb78c7621",
+     "featured_image": "https://hb.imgix.net/a6afa79a93310545843f3da8d1009cdb294b7a93.png?auto=compress,format&w=300&s=4ee42ea886e68b53fff585f95c69a931",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/79963d3514b41cefb0a2bb5066679f747fab78db.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=d47609e15e384f46f19c0ea9fe44f15b",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/a6afa79a93310545843f3da8d1009cdb294b7a93.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=041062d65d445fe76b5d859da8fda9c7",
+     "front_page_art_imgix": "https://hb.imgix.net/a6afa79a93310545843f3da8d1009cdb294b7a93.png?auto=compress,format&w=300&s=4ee42ea886e68b53fff585f95c69a931",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Caribbean Legend",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "forgottenseas": {
+    "machine_name": "forgottenseas",
+    "youtube_link": "u1MxdvLDJcs",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/forgottenseas_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<p style=\"color: #ef9741;\">Action, Co-op, Pirates, Combat, Survival, Simulation</p>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "indie.io",
+      "publisher-url": "https://www.indie.io"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 32.5
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.79
+    },
+    "subtitle_html": null,
+    "description_text": "<p><strong>ABOUT THE GAME</strong><br><br>Survive the Void and rule the seas! Lost in the Bermuda Void, a strange realm where the ocean is endless and islands fade in and out of existence, seemingly suspended in the time of Dread Pirates. Neither alive nor truly dead, they roam these waters in search of prey. Unless you want to be fodder left in the wake of their mighty ships, you'll have to craft a ship and take to the waves - then conquer the <i>forgotten seas</i>, whose treacherous waters are full of bounty, treasure, and grave danger!<br><br><strong>CRAFT SHIPS IN BOTTLES</strong><br><br>Ships are magic in the Void and essential to survival. Even loaded with food, tools, and weapons, every ship can fit down into a bottle - from the tiniest schooner to the greatest dreadnaughts - and be unleashed at a moment's notice! Store away your ship for exploration or keep it as an unwelcome surprise for your enemies. Or even better, craft a custom fleet with a ship for every occasion. Lure in pirates expecting an easy fight, then surprise them with a full broadside from a man-o-war that appears out of nowhere!<br><br><strong>MAKE LANDFALL, WITH CAUTION</strong><br><br>No ship is complete without a port of call. Land on an island, use the robust crafting and building system to erect a dock worthy of your vessel, then head inland, seeking lost treasures, rare resources, and piecing together the mystery of the Bermuda Void. But be careful: The treacherous <i>forgotten seas</i> can claim the island, just as you reach your prize, leaving you in a heart-pounding race against time to reach the shore and deploy your ship to find safety.</p>\n<p><strong> UNEARTH ANCIENT TREASURES</strong><br><br>Don\u2019t think the prizes will jump in your lap! The Dread Pirates are ancient sailors worth their salt, and the treasures are well hidden. First, you\u2019ll need to assemble an ancient map, torn apart by time and scattered to the four winds. Second, you\u2019ll need to find the spot and brave the dangers of whatever island or sunken ruin it guides you to. Only then can you claim the treasure for yourself and carve out your destiny on the high seas.</p>\n<p><strong> BATTLE THE PIRATES AND THE SEAS</strong><br><br>An intuitive dual-wielding system means fast-paced battles on land and deck. However, the true challenge lies on the high seas, as sail ships clash. Watch your speed, heading, and enemy positions. A mistake might mean that your broadside will fall short and the enemy will turn your prized ship into a mess of splinters and torn sails - just as an oceanic anomaly bears down on your both, with storms, whirlpools, and strange beasts for whom a survivor is a rare delicacy...</p>\n<p><strong> CAN YOU SOLVE THE MYSTERY?</strong><br><br>Between unpredictable anomalies, vicious pirates, and the ever-looming specter of hunger and dehydration, lies the mystery of the void. Where did this anomaly come from? Why does it persist? When will you be able to escape? Can you escape? The answers wait within the storms, in sunken pyramids, amidst wreckage beneath the waves. Build, farm, craft, sail, conquer - then face the ultimate challenge, taking your ship into the unknown and maybe, just maybe, finding a way back to the real world...</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Forgotten Seas",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Pangea Game Studios",
+      "developer-url": "https://www.forgottenseas.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/00ef3c778b74f3901bbc7be5d5a49d6337534113.png?auto=compress,format&w=300&s=b04664aed6b203503c84d40f93d1aa97",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Forgotten Seas",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "islanders_newshores": {
+    "machine_name": "islanders_newshores",
+    "youtube_link": "b3hCDB-29iI",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx"
+       ],
+       "unavailable": [
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/islanders_newshores_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<strong><span style=\"color: #ef9741;\">Casual, Strategy, City Builder, Relaxing, Building, Indie</span></strong>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Coatsink",
+      "publisher-url": "https://coatsink.com/"
+     },
+     {
+      "publisher-name": "Thunderful Publishing"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 12.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 8.39
+    },
+    "subtitle_html": null,
+    "description_text": "The next chapter in the beloved minimalist city-building franchise is here. <i>ISLANDERS: New Shores</i> invites you back to a world of tranquil creativity, now reimagined with expanded gameplay, stunning visuals, and a host of fresh features that build on the charm of the original. <br><br>Whether you're a longtime fan or a newcomer, prepare to explore, build, and strategise like never before. <strong class=\"hmb\"> <br><br>Build Your Dream Cities Across 50 Unique Levels </strong> <br>Explore over 44 building types across 6 diverse biomes, each available in 4 vibrant colour variations, letting you customise your strategy and create truly unique cities. <br><br>Choose your mode of play; <strong> High Score Mode </strong> for those who love a competitive twist, or <strong> Sandbox Mode </strong> to let your creativity run wild. <br><strong class=\"hmb\"><br>Experience a World of New Features </strong> <br><strong> Photo Mode </strong> - Capture and share your stunning island creations with customisable filters and a turntable camera. <br><br><strong> Expanded Soundtrack </strong> - Enjoy 75 minutes of original music that sets the perfect mood for your building adventures. <br><br><strong> Dynamic Scoring Systems </strong> - Master innovative scoring methods - such as line of sight, distance bonuses, and inter-island strategies - to enhance your gameplay. <br><br><strong> Boons </strong> - Unlock single-use power-ups that give you unique tactical advantages as you progress. <br><br><strong> Twitch Integration </strong> - Streamers can now engage their audiences directly with interactive features built into the game. <br><strong class=\"hmb\"><br>A Visual Overhaul That Elevates the Experience </strong> <br>With a complete reimagining of the minimalist aesthetic, <i>ISLANDERS: New Shores</i> delivers a visual feast that complements its deep, strategic gameplay. Whether you\u2019re here to relax or to challenge your building skills, every new shore offers a fresh canvas for creativity. <strong class=\"hmb\"> <br><br>Key Features </strong> <br>- Two modes: High Score and Sandbox (with separate saves) <br>- 44 unique building types and 7 island properties <br>- 50 dynamic island generators offering endless variety <br>- Photo Mode with filters and a turntable camera <br>- 75 minutes of original, immersive music <br>- Boons: new one-time power-ups for strategic gameplay <br>- Advanced scoring systems that reward clever tactics <br>- Twitch integration for an interactive streaming experience <br><br><i>ISLANDERS: New Shores</i> - where every island is a new adventure, and every build is a chance to create something extraordinary.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/storefront/islandersnewshores.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "ISLANDERS: New Shores",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "The Station"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/bb8230f442e1d28b7c75556a3deea654c0d31a5a.png?auto=compress,format&fit=clip&h=80&w=170&s=40bf95cd73435de32ba82b433ab0234e",
+     "featured_image": "https://hb.imgix.net/bb8230f442e1d28b7c75556a3deea654c0d31a5a.png?auto=compress,format&w=300&s=72fbf14047220897950619a01997b757",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/9759f353acd7406d38a5752211035f70c515fd42.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=5e1f31003ddeb1e0e27c9f96a121b17b",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/bb8230f442e1d28b7c75556a3deea654c0d31a5a.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2f526795725b4aab0c59be3b39ff1487",
+     "front_page_art_imgix": "https://hb.imgix.net/bb8230f442e1d28b7c75556a3deea654c0d31a5a.png?auto=compress,format&w=300&s=72fbf14047220897950619a01997b757",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "ISLANDERS: New Shores",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "primordialis": {
+    "machine_name": "primordialis",
+    "youtube_link": "e98ztijJPqw",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/primordialis_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<strong><span style=\"color: #ef9741;\">Early Access, Simulation, Physics, Action Roguelike, Sci-fi</span></strong>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 25.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.79
+    },
+    "subtitle_html": null,
+    "description_text": "<p><strong> <i>Primordialis</i> </strong> is a physics-based roguelike fish builder. Unleash your creativity to defeat creatures using venomous tentacles, electrical shocks, or exploding children. The possibilities are endless. Explore the primordial depths to reveal its secrets and discover what lies beyond.</p>\n<p><strong>Create</strong></p>\n<p><span> </span> The core of <i>Primordialis</i> is its simple yet deep creature creation system. Your body is constructed out of cells which each have unique properties and functions. With over 60 cell types to place and combine, there are countless creative combinations you can use to engineer your perfect fish. <br>You are given the freedom to play how you want, whether you want to be a massive serpent that swallows other creatures whole or to tinker with complex mechanisms and circuitry. Your only limit is your imagination.</p>\n<p><strong>Survive&nbsp;</strong></p>\n<p><span> </span> In the main rogue-like mode, you embark on a difficult journey of growth and evolution. Explore the world and learn to deal with a diverse ecosystem of hand-crafted enemies, all built using the same creature creation system as you. Discover cell types, mutations and more to help you survive in this harsh and brutal world. Traverse the 5 main biomes and discover what lies at the end. <br><br>You can also play in sandbox mode if you want to perfect your creature design plans before a run, study the biology of your enemies, or just enjoy some relaxed creature building.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/storefront/primordialis.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Primordialis",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Kyler Natividad",
+      "developer-url": "https://kylernatividad.com/"
+     },
+     {
+      "developer-name": "Keith Sammut"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/6e7dcb93f9a2b0cab2e0920335e3724c1a4c8131.png?auto=compress,format&fit=clip&h=80&w=170&s=e4daf24995cadc9333ad5f03251760c3",
+     "featured_image": "https://hb.imgix.net/6e7dcb93f9a2b0cab2e0920335e3724c1a4c8131.png?auto=compress,format&w=300&s=b14833d88f304a04279a0a5744d18d5c",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/b719d6c9c51aff1b9a25f80186b84ec6bc23ada1.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=ae5bb9aca5b3ec5a62beb4ccd923cf03",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/6e7dcb93f9a2b0cab2e0920335e3724c1a4c8131.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=31a9564eb28b5f92f19da63940fa6a37",
+     "front_page_art_imgix": "https://hb.imgix.net/6e7dcb93f9a2b0cab2e0920335e3724c1a4c8131.png?auto=compress,format&w=300&s=b14833d88f304a04279a0a5744d18d5c",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Primordialis",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   }
+  },
+  "splits": [
+   {
+    "partner_split|decimal": 0.6,
+    "name": "Publishers",
+    "extra_charity_partner_split|decimal": 0.525,
+    "extra_charity_split|decimal": 0.575,
+    "sibling_split|decimal": 0.65,
+    "class": "publisher"
+   },
+   {
+    "partner_split|decimal": 0.05,
+    "name": "Whale & Dolphin Conservation",
+    "extra_charity_partner_split|decimal": 0.15,
+    "extra_charity_split|decimal": 0.15,
+    "secondary_id": "16618",
+    "sibling_split|decimal": 0.05,
+    "class": "paypalgivingfund"
+   },
+   {
+    "partner_split|decimal": 0.2,
+    "name": "Humble Tip",
+    "extra_charity_partner_split|decimal": 0.175,
+    "extra_charity_split|decimal": 0.275,
+    "minimum_split|decimal": 0.15,
+    "sibling_split|decimal": 0.3,
+    "class": "humblebundle"
+   }
+  ],
+  "upsell_data": {
+   "monthly_v2_premium": {
+    "category": "subscriptionplan",
+    "image_url": "https://hb.imgix.net/dbff2288ba058d5ab35f145358617bcf487a6c6e.png?auto=compress,format&fit=crop&h=353&w=616&s=b73537cf9c1f7b9d7afcd3188cdfb1ff",
+    "machine_name": "monthly_v2_premium",
+    "description": "",
+    "discount_percentage|decimal": 5.0,
+    "full_price|money": {
+     "currency": "CAD",
+     "amount": 17.99
+    },
+    "renewal_date|datetime": "2026-09-29T17:00:00",
+    "subscription_content_product": "august_2026_choice",
+    "active_content_end_time|datetime": "2026-09-01T17:00:00",
+    "disallow_subscription_discount": null,
+    "subscription_credits": 1,
+    "human_name": "Month-to-Month Plan",
+    "current_price|money": {
+     "currency": "CAD",
+     "amount": 17.09
+    },
+    "active_content_start_time|datetime": "2026-08-04T17:00:00"
+   }
+  },
+  "statistics_data": {
+   "total_charity_raised|money": {
+    "currency": "CAD",
+    "amount": 3115.0
+   },
+   "num_purchases|decimal": 1005.0
+  },
+  "charity_data": {
+   "charity_items": {
+    "wdc_gamersfororcas": {
+     "machine_name": "wdc_gamersfororcas",
+     "youtube_link": "hxTzidaaYHU",
+     "item_content_type": null,
+     "soundtrack_listing": {
+      "hide_listing": null,
+      "tracks": []
+     },
+     "user_ratings": {},
+     "limited_content": null,
+     "availability_icons": null,
+     "featured_image": null,
+     "ppgf_info": {
+      "category": "Environment",
+      "city": "Chippenham",
+      "description": "WDC, Whale and Dolphin Conservation (formerly WDCS) is the leading global charity dedicated to the conservation and protection of whales and dolphins. We defend these remarkable creatures against the many threats they face through campaigns, lobbying, advising governments, conservation projects, field research and rescue. Our vision is a world where every whale and dolphin is safe and free.",
+      "url": "http://www.whales.org",
+      "country": "GB",
+      "charity_id": "16618",
+      "state": "WILTSHIRE",
+      "keywords": "Whale, Dolphin, Orca, Conservation, Wildlife",
+      "human_name": "Whale and Dolphin Conservation",
+      "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FYzQwZmU4MmQtODlkNy00ZTU4LTlmZDQtNzhiYzFjYmU1OTI5%2Ffile.JPG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=4033c8cfb50db4afe9369d9d04d91fe7"
+     },
+     "is_region_locked": false,
+     "exclusive_countries": [],
+     "display_user_ratings": null,
+     "rating_details": "",
+     "front_page_art_enabled": true,
+     "rating_info": null,
+     "callout": null,
+     "subscribe_text": null,
+     "all_ratings": {
+      "rar-rating": null,
+      "esrb-rating": null,
+      "pegi-rating": null,
+      "oflc-nz-rating": null,
+      "oflc-au-rating": null,
+      "usk-rating": null
+     },
+     "cta_badge": null,
+     "book_preview": null,
+     "publishers": [],
+     "show_rating": null,
+     "side_box_art_text": null,
+     "third_party_subscribe_text": null,
+     "msrp_price": null,
+     "subtitle_html": null,
+     "description_text": "<p><em>Donations to support <span>WDC, Whale and Dolphin Conservation&nbsp;</span>are made to the&nbsp;<a rel=\"nofollow\" target=\"_blank\" href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\">PayPal Giving Fund</a>, subject to its policies.</em></p>\n<p>WDC, Whale and Dolphin Conservation is the leading global charity dedicated to the conservation and protection of whales and dolphins. We defend these remarkable creatures against the many threats they face through campaigns, lobbying, advising governments, conservation projects, field research and rescue. Our mission is to amaze people with the wonder of whales and dolphins, and inspire global action to protect them. Our vision is a world where every whale and dolphin is safe and free.</p>\n<p>WDC has offices in the UK, US, Germany and South America and currently works on a range of campaigns, including:</p>\n<ul>\n<li>Ending hunting and commercial whaling</li>\n<li>Helping to tackle ocean plastic pollution, which poses a serious threat to whales and dolphins</li>\n<li>Ending&nbsp; keeping&nbsp; whales and dolphins&nbsp; in captivity</li>\n<li>Tackling the issue of bycatch, where whales and dolphins are accidentally caught in fishing gear</li>\n<li>Creating safe homes for whales and dolphins</li>\n</ul>\n<p>To find out more about our work visit&nbsp;<a href=\"http://www.whales.org/\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.whales.org&amp;source=gmail&amp;ust=1481223990989000&amp;usg=AFQjCNHtdxxEX-cWc3-JqzFfQp_SJHO7mg\">www.whales.org</a>&nbsp;or find WDC on Twitter, Facebook and Instagram.</p>",
+     "user_ratings_css_class": "none",
+     "wide_hero_art": false,
+     "front_page_art": {
+      "image_path": "images/logos/wdc_gamersfororcas.png",
+      "title": null,
+      "resolved_paths": {},
+      "image_text": "\u00a0WDC, Whale and Dolphin Conservation",
+      "link": null,
+      "badge_info": {
+       "badge_tooltip": null,
+       "badge_number": null,
+       "badge_type": null
+      }
+     },
+     "preview_image": null,
+     "developers": [
+      {
+       "developer-name": "whales.org",
+       "developer-url": "http://www.whales.org/"
+      }
+     ],
+     "is_clickable": true,
+     "platforms_and_oses": {},
+     "resolved_paths": {
+      "front_page_art_charity_imgix": "https://hb.imgix.net/87fa87ef026be6f62fcd86a65255a74e54948d7b.png?auto=compress,format&fit=clip&h=80&w=170&s=c63882a21d969487ead34a1743bad8b2",
+      "featured_image": null,
+      "front_page_art_imgix_retina": "https://hb.imgix.net/87fa87ef026be6f62fcd86a65255a74e54948d7b.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=e1bcad17d17baae05eecbb15346e3339",
+      "front_page_art_charity_imgix_retina": "https://hb.imgix.net/87fa87ef026be6f62fcd86a65255a74e54948d7b.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=9f266a2bac4cfeb34aaaeb56e540544a",
+      "front_page_art_imgix": "https://hb.imgix.net/87fa87ef026be6f62fcd86a65255a74e54948d7b.png?auto=compress,format&fit=clip&h=240&w=180&s=04526334fa9a801f014982ef163b7a25",
+      "preview_image": null
+     },
+     "disallowed_countries": [],
+     "front_page_url": null,
+     "tall_hero_art": false,
+     "human_name": "WDC, Whale and Dolphin Conservation",
+     "is_mystery_box": null,
+     "payee_secondary_id": "16618",
+     "wallet_credit": {}
+    }
+   },
+   "header": "",
+   "charity_item_machine_names": [
+    "wdc_gamersfororcas"
+   ]
+  },
+  "page_url": "games/hambles-summer-island-getaway-bundle"
+ }
+}

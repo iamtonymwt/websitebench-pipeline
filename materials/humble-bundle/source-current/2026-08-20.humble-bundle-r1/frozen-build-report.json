@@ -1,0 +1,1543 @@
+{
+  "builder": "materials/humble-bundle/tools/build_frozen_pages.py",
+  "dropped_missing_references": [
+    {
+      "url": "https://cdn.humblebundle.com/static/hashed/8a88fa654693019cbe2ea724259402d591fd26e6.jpg",
+      "where": [
+        "home:link@href"
+      ]
+    },
+    {
+      "url": "https://cdn.humblebundle.com/static/hashed/ae004602956f47425ecc0edaf72e710b8a4bb812.png",
+      "where": [
+        "store-search-noresults:link@href",
+        "store-search:link@href"
+      ]
+    },
+    {
+      "url": "https://cdn.ziffstatic.com/jst/zdconsent.js",
+      "where": [
+        "about:link@href",
+        "accessibility:link@href",
+        "books:link@href",
+        "bundle-2k:link@href",
+        "bundle-anchor:link@href",
+        "bundles:link@href",
+        "charities:link@href",
+        "cookie-policy:link@href",
+        "games:link@href",
+        "home:link@href",
+        "legal:link@href",
+        "login:link@href",
+        "membership:link@href",
+        "notfound-404:link@href",
+        "privacy:link@href",
+        "signup:link@href",
+        "software:link@href",
+        "store-product-satisfactory:link@href",
+        "store-search-noresults:link@href",
+        "store-search:link@href",
+        "store:link@href",
+        "terms:link@href"
+      ]
+    },
+    {
+      "url": "https://hb.imgix.net/0611398f861a80fde1a3167a6369147a6769fef2.png?auto=compress,format&h=630&w=1200&s=cc8543a1760b0a30096c809d47d129b6",
+      "where": [
+        "bundle-2k:link@href"
+      ]
+    },
+    {
+      "url": "https://hb.imgix.net/5e4238345f057a4b7b7faf0718614875dac58576.png?auto=compress,format&fit=crop&h=353&w=616&s=5cf4dc005db10f8849d4d54000d9d29b",
+      "where": [
+        "store:link@href"
+      ]
+    },
+    {
+      "url": "https://hb.imgix.net/90f1af7e79bc790c32874da0fe5b495094014902.png?auto=compress,format&h=630&w=1200&s=52a01f34a8d442ac4964f4670bbd31a0",
+      "where": [
+        "bundle-anchor:link@href"
+      ]
+    },
+    {
+      "url": "https://hb.imgix.net/ac621b6cecc1d2e1f32bfba9d5530ca30c7d8bd7.jpg?auto=compress,format&h=630&w=1200&s=ee76cf8f51816c8266b71750ae55a868",
+      "where": [
+        "membership:link@href"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/0c70d0a8c24486c00ad8b88e048e264c.mp4?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/0c70d0a8c24486c00ad8b88e048e264c.webm?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/4ae40d10ec3a57af7383093592ff3b81.mp4?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/4ae40d10ec3a57af7383093592ff3b81.webm?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/ba2288bfc8de419b0efd011cb336bb13.mp4?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/ba2288bfc8de419b0efd011cb336bb13.webm?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/c12bee7d20a26b31b122eaeff4be274b.mp4?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/c12bee7d20a26b31b122eaeff4be274b.webm?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/cd91596e6bb3a7cfa307f7d2b4c0323d.mp4?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/cd91596e6bb3a7cfa307f7d2b4c0323d.webm?t=1726567322",
+      "where": [
+        "bundle-anchor:source@src"
+      ]
+    }
+  ],
+  "missing_assets_all": [
+    {
+      "host_scope": "support-origin",
+      "local_path": "/static/assets/missing/34fd95da0c61a5c5a76d3fab8ffde3e40c3e38d2.bin",
+      "url": "https://support.humblebundle.com/hc/theming_assets/01HZPFDEP0BXRGWZZE981RGMXN",
+      "wheres": [
+        "css:https://support.humblebundle.com/hc/theming_assets/522481/32210/style.css?digest=50345918596379"
+      ]
+    },
+    {
+      "host_scope": "support-origin",
+      "local_path": "/static/assets/missing/11c4116479cbc26de3e4c643d2fd3d44fa88566f.bin",
+      "url": "https://support.humblebundle.com/hc/theming_assets/01HZPFDETH0CKJEZHYZ0HPDFAA",
+      "wheres": [
+        "css:https://support.humblebundle.com/hc/theming_assets/522481/32210/style.css?digest=50345918596379"
+      ]
+    },
+    {
+      "host_scope": "support-origin",
+      "local_path": "/static/assets/missing/1ea1e51ad161c7006542ba613d5640b6a5a66858.bin",
+      "url": "https://support.humblebundle.com/hc/theming_assets/01HZPFDEYY7HN0JJKMMTFBY109",
+      "wheres": [
+        "css:https://support.humblebundle.com/hc/theming_assets/522481/32210/style.css?digest=50345918596379"
+      ]
+    }
+  ],
+  "notes": [
+    "deterministic re-runnable build; no network, no browser",
+    "serialized DOM captures carry no doctype; '<!DOCTYPE html>' is injected after the websitebench-frozen marker to preserve standards-mode rendering",
+    "csrf-token meta values and authenticity_token inputs are neutralized to a fixed placeholder",
+    "missing assets are rewritten to /static/assets/missing/<sha1-of-url><ext> and listed here for a follow-up capture pass (never fetched by this tool)"
+  ],
+  "pages": {
+    "about": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 36,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 600,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 600,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/about.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 20,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 2,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/about",
+      "source_cell": "static/about/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/about",
+      "state_blobs_extracted": []
+    },
+    "accessibility": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 19,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 495,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 495,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/accessibility.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 19,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 2,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/accessibility",
+      "source_cell": "static/accessibility/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/accessibility",
+      "state_blobs_extracted": []
+    },
+    "books": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 97,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1359,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 1359,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/books.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 18,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/books",
+      "source_cell": "static/books/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/books",
+      "state_blobs_extracted": []
+    },
+    "bundle-2k": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 5,
+        "navigation_links": 0,
+        "text_or_comment_refs": 4
+      },
+      "assets_rewritten": 71,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1783,
+        "ids_only_in_desktop": [
+          "theia-sticky-sidebar-stylesheet-TSS"
+        ],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 1768,
+        "notable_classes_only_in_desktop": [
+          "desktop-back-to-top",
+          "desktop-tier-collection-view",
+          "desktop-tiers-view"
+        ],
+        "notable_classes_only_in_mobile": [
+          "mobile-tier-collection-view",
+          "mobile-tiers-view"
+        ],
+        "tag_count_delta": 15,
+        "top_tag_deltas": {
+          "a": 1,
+          "div": 11,
+          "i": 1,
+          "span": 1,
+          "style": 1
+        }
+      },
+      "file": "clone/frontend/pages/bundle-2k.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/0611398f861a80fde1a3167a6369147a6769fef2.png?auto=compress,format&h=630&w=1200&s=cc8543a1760b0a3009"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/0611398f861a80fde1a3167a6369147a6769fef2.png?auto=compress,format&h=630&w=1200&s=cc8543a1760b0a3009"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/0611398f861a80fde1a3167a6369147a6769fef2.png?auto=compress,format&h=512&w=1024&s=7eb57c3f336106cab0"
+        },
+        {
+          "attr": "data-lazy",
+          "kind": "inert",
+          "tag": "img",
+          "url": "https://hb.imgix.net/515c878b28c0ecaf1f07910fe6296defdbe801fa.jpg?auto=compress,format&fit=clip&h=350&w=600&s=380162e08f"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 55,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 2,
+        "remote-head-link": 10,
+        "script_inline": 12,
+        "script_src": 5,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/games/2k-megahits-2026-bundle",
+      "source_cell": "static/bundle-2k/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/games/2k-megahits-2026-bundle",
+      "state_blobs_extracted": []
+    },
+    "bundle-anchor": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 4,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 67,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 2125,
+        "ids_only_in_desktop": [
+          "theia-sticky-sidebar-stylesheet-TSS"
+        ],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 2110,
+        "notable_classes_only_in_desktop": [
+          "desktop-back-to-top",
+          "desktop-tier-collection-view",
+          "desktop-tiers-view"
+        ],
+        "notable_classes_only_in_mobile": [
+          "mobile-tier-collection-view",
+          "mobile-tiers-view"
+        ],
+        "tag_count_delta": 15,
+        "top_tag_deltas": {
+          "a": 1,
+          "div": 11,
+          "i": 1,
+          "span": 1,
+          "style": 1
+        }
+      },
+      "file": "clone/frontend/pages/bundle-anchor.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/90f1af7e79bc790c32874da0fe5b495094014902.png?auto=compress,format&h=630&w=1200&s=52a01f34a8d442ac49"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/90f1af7e79bc790c32874da0fe5b495094014902.png?auto=compress,format&h=630&w=1200&s=52a01f34a8d442ac49"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/90f1af7e79bc790c32874da0fe5b495094014902.png?auto=compress,format&h=512&w=1024&s=6e1fe3300664491762"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 43,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 12,
+        "remote-head-link": 10,
+        "script_inline": 12,
+        "script_src": 5,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/games/yes-chef-cooking-bundle",
+      "source_cell": "static/bundle-anchor/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+      "state_blobs_extracted": []
+    },
+    "bundles": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 249,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 3017,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 3017,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/bundles.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 19,
+      "removals": {
+        "external_iframe": 7,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/bundles",
+      "source_cell": "static/bundles/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/bundles",
+      "state_blobs_extracted": []
+    },
+    "charities": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 2,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 25,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 527,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 527,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/charities.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/e2fae3d9f2e5a6e3cb3f4e0dd8a8f418af4d9a3c.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 22,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 2,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/charities",
+      "source_cell": "static/charities/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/charities",
+      "state_blobs_extracted": []
+    },
+    "cookie-policy": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 3
+      },
+      "assets_rewritten": 17,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 546,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 546,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/cookie-policy.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 25,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 2,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/cookie-policy",
+      "source_cell": "static/cookie-policy/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/cookie-policy",
+      "state_blobs_extracted": []
+    },
+    "games": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 73,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1179,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 1179,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/games.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 18,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/games",
+      "source_cell": "static/games/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/games",
+      "state_blobs_extracted": []
+    },
+    "home": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 4,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 150,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1733,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 1697,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 36,
+        "top_tag_deltas": {
+          "a": 2,
+          "div": 22,
+          "img": 2,
+          "li": 4,
+          "span": 4,
+          "ul": 2
+        }
+      },
+      "file": "clone/frontend/pages/home.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/8a88fa654693019cbe2ea724259402d591fd26e6.jpg"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/8a88fa654693019cbe2ea724259402d591fd26e6.jpg"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/8a88fa654693019cbe2ea724259402d591fd26e6.jpg"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 22,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 2,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/",
+      "source_cell": "static/home/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/",
+      "state_blobs_extracted": []
+    },
+    "legal": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 19,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 498,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 498,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/legal.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 18,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 2,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/legal",
+      "source_cell": "static/legal/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/legal",
+      "state_blobs_extracted": []
+    },
+    "login": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 17,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 198,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 198,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/login.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 8,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/login",
+      "source_cell": "static/login/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/login",
+      "state_blobs_extracted": []
+    },
+    "membership": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 26,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 69,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1504,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 1433,
+        "notable_classes_only_in_desktop": [
+          "games-nav-left",
+          "games-nav-right"
+        ],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 71,
+        "top_tag_deltas": {
+          "button": 2,
+          "div": 52,
+          "i": 2,
+          "img": 15
+        }
+      },
+      "file": "clone/frontend/pages/membership.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/ac621b6cecc1d2e1f32bfba9d5530ca30c7d8bd7.jpg?auto=compress,format&h=630&w=1200&s=ee76cf8f51816c8266"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/ac621b6cecc1d2e1f32bfba9d5530ca30c7d8bd7.jpg?auto=compress,format&h=630&w=1200&s=ee76cf8f51816c8266"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/ac621b6cecc1d2e1f32bfba9d5530ca30c7d8bd7.jpg?auto=compress,format&h=512&w=1024&s=496ecb80902686ad15"
+        },
+        {
+          "attr": "data-content-choice-data",
+          "kind": "embedded",
+          "tag": "button",
+          "url": "{\"gatekeeper\": {\"recommendation_copy_dict\": {\"copy\": \"Chaos is wreaking havoc across the realm, and it\\u2019s your missi"
+        },
+        {
+          "attr": "data-content-choice-data",
+          "kind": "embedded",
+          "tag": "button",
+          "url": "{\"gatekeeper\": {\"recommendation_copy_dict\": {\"copy\": \"Chaos is wreaking havoc across the realm, and it\\u2019s your missi"
+        },
+        {
+          "attr": "data-content-choice-data",
+          "kind": "embedded",
+          "tag": "button",
+          "url": "{\"gatekeeper\": {\"recommendation_copy_dict\": {\"copy\": \"Chaos is wreaking havoc across the realm, and it\\u2019s your missi"
+        },
+        {
+          "attr": "data-content-choice-data",
+          "kind": "embedded",
+          "tag": "button",
+          "url": "{\"gatekeeper\": {\"recommendation_copy_dict\": {\"copy\": \"Chaos is wreaking havoc across the realm, and it\\u2019s your missi"
+        },
+        {
+          "attr": "data-content-choice-data",
+          "kind": "embedded",
+          "tag": "button",
+          "url": "{\"gatekeeper\": {\"recommendation_copy_dict\": {\"copy\": \"Chaos is wreaking havoc across the realm, and it\\u2019s your missi"
+        },
+        {
+          "attr": "data-content-choice-data",
+          "kind": "embedded",
+          "tag": "button",
+          "url": "{\"gatekeeper\": {\"recommendation_copy_dict\": {\"copy\": \"Chaos is wreaking havoc across the realm, and it\\u2019s your missi"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 20,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 2,
+        "remote-head-link": 10,
+        "script_inline": 12,
+        "script_src": 5,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/membership",
+      "source_cell": "static/membership/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/membership",
+      "state_blobs_extracted": []
+    },
+    "notfound-404": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 43,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 738,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 738,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/notfound-404.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 19,
+      "removals": {
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 10,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "404-handler",
+      "source_cell": "static/notfound-404/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/this-page-does-not-exist-websitebench",
+      "state_blobs_extracted": []
+    },
+    "privacy": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 4
+      },
+      "assets_rewritten": 20,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1341,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 1341,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/privacy.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 40,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 2,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/privacy",
+      "source_cell": "static/privacy/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/privacy",
+      "state_blobs_extracted": []
+    },
+    "signup": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 16,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 200,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 200,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/signup.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 8,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/signup",
+      "source_cell": "static/signup/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/signup",
+      "state_blobs_extracted": []
+    },
+    "software": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 1
+      },
+      "assets_rewritten": 121,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1568,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 1568,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/software.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 19,
+      "removals": {
+        "external_iframe": 7,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/software",
+      "source_cell": "static/software/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/software",
+      "state_blobs_extracted": []
+    },
+    "store": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 70,
+        "navigation_links": 0,
+        "text_or_comment_refs": 4
+      },
+      "assets_rewritten": 366,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 10065,
+        "ids_only_in_desktop": [
+          "slick-slide-control00",
+          "slick-slide-control01",
+          "slick-slide-control010",
+          "slick-slide-control011",
+          "slick-slide-control012",
+          "slick-slide-control013"
+        ],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 9788,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 277,
+        "top_tag_deltas": {
+          "a": 6,
+          "button": 58,
+          "div": 114,
+          "i": 18,
+          "img": 9,
+          "li": 31,
+          "span": 24,
+          "ul": 17
+        }
+      },
+      "file": "clone/frontend/pages/store.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/5e4238345f057a4b7b7faf0718614875dac58576.png?auto=compress,format&fit=crop&h=353&w=616&s=5cf4dc005d"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/5e4238345f057a4b7b7faf0718614875dac58576.png?auto=compress,format&fit=crop&h=353&w=616&s=5cf4dc005d"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://hb.imgix.net/5e4238345f057a4b7b7faf0718614875dac58576.png?auto=compress,format&fit=crop&h=353&w=616&s=5cf4dc005d"
+        },
+        {
+          "attr": "data-lazy",
+          "kind": "inert",
+          "tag": "img",
+          "url": "https://hb.imgix.net/0bc610f7e7dfbbeef52a4f93a1941eb69c5a16a0.jpg?auto=compress,format&fit=crop&h=206&w=360&s=7fe32a838a"
+        },
+        {
+          "attr": "data-lazy",
+          "kind": "inert",
+          "tag": "img",
+          "url": "https://hb.imgix.net/9b64375562eb1926dbaaabe538c92ec9e0fd095b.jpg?auto=compress,format&fit=crop&h=206&w=360&s=740b1ace44"
+        },
+        {
+          "attr": "data-lazy",
+          "kind": "inert",
+          "tag": "img",
+          "url": "https://hb.imgix.net/0416f46df31e482b5ceb376868a32990bd311850.jpg?auto=compress,format&fit=crop&h=206&w=360&s=e90360f0c4"
+        },
+        {
+          "attr": "data-lazy",
+          "kind": "inert",
+          "tag": "img",
+          "url": "https://hb.imgix.net/8e01ae9ac97a4cd71f23990f25ebb8ef2eb43e4e.jpg?auto=compress,format&fit=crop&h=206&w=360&s=6fae1e4e80"
+        },
+        {
+          "attr": "data-lazy",
+          "kind": "inert",
+          "tag": "img",
+          "url": "https://hb.imgix.net/0bc610f7e7dfbbeef52a4f93a1941eb69c5a16a0.jpg?auto=compress,format&fit=crop&h=206&w=360&s=7fe32a838a"
+        },
+        {
+          "attr": "data-lazy",
+          "kind": "inert",
+          "tag": "img",
+          "url": "https://hb.imgix.net/9b64375562eb1926dbaaabe538c92ec9e0fd095b.jpg?auto=compress,format&fit=crop&h=206&w=360&s=740b1ace44"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 26,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 2,
+        "remote-head-link": 10,
+        "script_inline": 13,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/store",
+      "source_cell": "static/store/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/store",
+      "state_blobs_extracted": []
+    },
+    "store-product-satisfactory": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 4
+      },
+      "assets_rewritten": 116,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1483,
+        "ids_only_in_desktop": [
+          "carousel-d9xxa4i5",
+          "carousel-hes0zur2",
+          "carousel-z0t6ryjy"
+        ],
+        "ids_only_in_mobile": [
+          "carousel-4wafklbz",
+          "carousel-84wg7r0q",
+          "carousel-eec4fodj"
+        ],
+        "mobile_tag_total": 1466,
+        "notable_classes_only_in_desktop": [
+          "js-carousel-arrow"
+        ],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 17,
+        "top_tag_deltas": {
+          "a": 4,
+          "div": 6,
+          "i": 4,
+          "img": 3
+        }
+      },
+      "file": "clone/frontend/pages/store-product-satisfactory.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 29,
+      "removals": {
+        "external_iframe": 11,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 14,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/store/satisfactory",
+      "source_cell": "static/store-product-satisfactory/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/store/satisfactory",
+      "state_blobs_extracted": []
+    },
+    "store-search": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 4,
+        "navigation_links": 0,
+        "text_or_comment_refs": 4
+      },
+      "assets_rewritten": 54,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 1630,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 1630,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/store-search.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/ae004602956f47425ecc0edaf72e710b8a4bb812.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/ae004602956f47425ecc0edaf72e710b8a4bb812.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/ae004602956f47425ecc0edaf72e710b8a4bb812.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 24,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 2,
+        "remote-head-link": 10,
+        "script_inline": 13,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/store/search",
+      "source_cell": "static/store-search/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/store/search?search=portal",
+      "state_blobs_extracted": []
+    },
+    "store-search-noresults": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 4,
+        "navigation_links": 0,
+        "text_or_comment_refs": 4
+      },
+      "assets_rewritten": 20,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 811,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 811,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/store-search-noresults.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/ae004602956f47425ecc0edaf72e710b8a4bb812.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/ae004602956f47425ecc0edaf72e710b8a4bb812.png"
+        },
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/ae004602956f47425ecc0edaf72e710b8a4bb812.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 24,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 2,
+        "remote-head-link": 10,
+        "script_inline": 13,
+        "script_src": 3,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/store/search?search=zzzz-no-match-websitebench",
+      "source_cell": "static/store-search-noresults/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/store/search?search=zzzz-no-match-websitebench",
+      "state_blobs_extracted": []
+    },
+    "support-article": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 0,
+        "navigation_links": 0,
+        "text_or_comment_refs": 19
+      },
+      "assets_rewritten": 6,
+      "csrf_values_neutralized": 1,
+      "desktop_vs_mobile_divergence": null,
+      "file": "clone/frontend/pages/support-article.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 32,
+      "removals": {
+        "remote-head-link": 2,
+        "script_inline": 2,
+        "script_src": 6
+      },
+      "route": "/support/articles/52764568066971",
+      "source_cell": "interactive/support-article/dom.html",
+      "source_url": "https://support.humblebundle.com/hc/en-us/articles/52764568066971-...",
+      "state_blobs_extracted": []
+    },
+    "support-category": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 0,
+        "navigation_links": 0,
+        "text_or_comment_refs": 14
+      },
+      "assets_rewritten": 5,
+      "csrf_values_neutralized": 1,
+      "desktop_vs_mobile_divergence": null,
+      "file": "clone/frontend/pages/support-category.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 38,
+      "removals": {
+        "remote-head-link": 8,
+        "script_inline": 2,
+        "script_src": 6
+      },
+      "route": "/support/categories/200166394",
+      "source_cell": "interactive/support-category/dom.html",
+      "source_url": "https://support.humblebundle.com/hc/en-us/categories/200166394",
+      "state_blobs_extracted": []
+    },
+    "support-home": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 0,
+        "navigation_links": 0,
+        "text_or_comment_refs": 14
+      },
+      "assets_rewritten": 5,
+      "csrf_values_neutralized": 1,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 155,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 155,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/support-home.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 37,
+      "removals": {
+        "remote-head-link": 8,
+        "script_inline": 2,
+        "script_src": 6
+      },
+      "route": "/support",
+      "source_cell": "interactive/support-home/dom.html",
+      "source_url": "https://support.humblebundle.com/hc/en-us",
+      "state_blobs_extracted": []
+    },
+    "terms": {
+      "allowed_remote_refs": {
+        "inert_attribute_refs": 1,
+        "navigation_links": 0,
+        "text_or_comment_refs": 7
+      },
+      "assets_rewritten": 17,
+      "csrf_values_neutralized": 0,
+      "desktop_vs_mobile_divergence": {
+        "desktop_tag_total": 690,
+        "ids_only_in_desktop": [],
+        "ids_only_in_mobile": [],
+        "mobile_tag_total": 690,
+        "notable_classes_only_in_desktop": [],
+        "notable_classes_only_in_mobile": [],
+        "tag_count_delta": 0,
+        "top_tag_deltas": {}
+      },
+      "file": "clone/frontend/pages/terms.html",
+      "forbidden_remote_refs": [],
+      "inert_remote_ref_samples": [
+        {
+          "attr": "content",
+          "kind": "inert",
+          "tag": "meta",
+          "url": "https://cdn.humblebundle.com/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png"
+        }
+      ],
+      "missing_asset_refs_rewritten": 0,
+      "missing_assets": [],
+      "page_links_rewritten": 24,
+      "removals": {
+        "external_iframe": 1,
+        "missing-asset-reference": 1,
+        "remote-head-link": 10,
+        "script_inline": 11,
+        "script_src": 2,
+        "script_tracker": 2,
+        "tracking_pixel_img": 1
+      },
+      "route": "/terms",
+      "source_cell": "static/terms/desktop/dom.html",
+      "source_url": "https://www.humblebundle.com/terms",
+      "state_blobs_extracted": []
+    }
+  },
+  "run": "2026-08-20.humble-bundle-r1",
+  "totals": {
+    "assets_localized": 544,
+    "assets_localized_bytes": 14608363,
+    "css_assets_transformed": 14,
+    "css_remote_url_leftovers": [],
+    "css_url_rewrites": 210,
+    "forbidden_remote_refs_total": 0,
+    "missing_assets_unique_urls": 3,
+    "pages_built": 25,
+    "removals_by_category": {
+      "external_iframe": 43,
+      "missing-asset-reference": 39,
+      "remote-head-link": 238,
+      "script_inline": 259,
+      "script_src": 83,
+      "script_tracker": 44,
+      "tracking_pixel_img": 22
+    },
+    "state_blobs_extracted": 0
+  }
+}

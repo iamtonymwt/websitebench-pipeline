@@ -1,0 +1,28 @@
+{
+  "boot": {
+    "argv": [
+      "{python}",
+      "-m",
+      "uvicorn",
+      "app:app",
+      "--host",
+      "127.0.0.1",
+      "--port",
+      "{port}",
+      "--log-level",
+      "warning"
+    ],
+    "cwd": "clone",
+    "env": {}
+  },
+  "deferred": {},
+  "prepare": [],
+  "routes": {
+    "home": "/"
+  },
+  "schema_version": "offline-clone.verify-driver.v1",
+  "site_id": "humble-bundle",
+  "states": {
+    "home.loaded": []
+  }
+}

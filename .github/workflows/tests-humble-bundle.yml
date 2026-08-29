@@ -1,0 +1,26 @@
+name: diagnostics (humble-bundle)
+on:
+  pull_request:
+    paths:
+      - materials/humble-bundle/**
+      - harbor/sites/humble-bundle/**
+      - harbor/instances/humble-bundle/**
+      - .github/workflows/tests-humble-bundle.yml
+      - .github/workflows/clone-diagnostics.yml
+  push:
+    paths:
+      - materials/humble-bundle/**
+      - harbor/sites/humble-bundle/**
+      - harbor/instances/humble-bundle/**
+      - .github/workflows/tests-humble-bundle.yml
+      - .github/workflows/clone-diagnostics.yml
+permissions:
+  contents: read
+concurrency:
+  group: diagnostics-humble-bundle-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  diagnostics:
+    uses: ./.github/workflows/clone-diagnostics.yml
+    with:
+      site: humble-bundle

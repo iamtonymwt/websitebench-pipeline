@@ -1,0 +1,1019 @@
+{
+ "num_results": 29,
+ "page_index": 0,
+ "request": 1,
+ "search": "portal",
+ "num_pages": 2,
+ "results": [
+  {
+   "standard_carousel_image": "https://hb.imgix.net/0d29929d903f269e9e95e7f64d7e7abf6eaccc32.jpg?auto=compress,format&fit=crop&h=206&w=360&s=939f75371d9f72a24abdc7699cbad58d",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "bridgeconstructorportal_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/0d29929d903f269e9e95e7f64d7e7abf6eaccc32.jpg?auto=compress,format&fit=crop&h=84&w=135&s=b3d041b1cf8819d3c868787dd0fc6a81",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "bridge-constructor-portal",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/0d29929d903f269e9e95e7f64d7e7abf6eaccc32.jpg?auto=compress,format&fit=crop&h=154&w=270&s=fe619af5a54e2f9034566bb39fae28b9",
+   "large_capsule": "https://hb.imgix.net/0d29929d903f269e9e95e7f64d7e7abf6eaccc32.jpg?auto=compress,format&fit=crop&h=353&w=616&s=019aec0b128cb906367ea7e6b2a5c49f",
+   "human_name": "Bridge Constructor Portal",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/0d29929d903f269e9e95e7f64d7e7abf6eaccc32.jpg?auto=compress,format&fit=crop&h=64&w=103&s=bbedeb52e899a678b930e40a2e57a1e6",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 13.85
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 1.38
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/86babdc10ca6c67aefa2ef2a6ffe7b3ec57ee61a.jpg?auto=compress,format&fit=crop&h=206&w=360&s=5fa733d2afcd86b99b94f0f36df4c2ba",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "portalknights_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/86babdc10ca6c67aefa2ef2a6ffe7b3ec57ee61a.jpg?auto=compress,format&fit=crop&h=84&w=135&s=7f547070c45a415d5c5869feb5bba22b",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "portal-knights",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/86babdc10ca6c67aefa2ef2a6ffe7b3ec57ee61a.jpg?auto=compress,format&fit=crop&h=154&w=270&s=687d8d5bca909c23146e14d4cb26613e",
+   "large_capsule": "https://hb.imgix.net/86babdc10ca6c67aefa2ef2a6ffe7b3ec57ee61a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4f96237d3172f6627199a13f411fb86f",
+   "human_name": "Portal Knights",
+   "type": "product",
+   "icon": "https://hb.imgix.net/86babdc10ca6c67aefa2ef2a6ffe7b3ec57ee61a.jpg?auto=compress,format&fit=crop&h=64&w=103&s=2a830d2dd90988eda50c7e05908b7376",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 27.72
+   },
+   "sale_end": 1787850000.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 5.54
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/f51802c3a66e481850e861d286f6ceb02167f297.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=659ffd5000b154e6b150aa2342b43387",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "zanzarah_thehiddenportal_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/f51802c3a66e481850e861d286f6ceb02167f297.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=a0b735c684c6d1c3df3a383624952f50",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "zanzarah-the-hidden-portal",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/f51802c3a66e481850e861d286f6ceb02167f297.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=50191cac6509af424ba4f01b54612226",
+   "large_capsule": "https://hb.imgix.net/f51802c3a66e481850e861d286f6ceb02167f297.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=84d2e8d32102f0a47f2f8929030c8893",
+   "human_name": "Zanzarah: The Hidden Portal",
+   "type": "product",
+   "icon": "https://hb.imgix.net/8254c6d6b9143f3f56d02f67c1c5e5ba18035ce7.jpg?auto=compress,format&fit=crop&h=64&w=103&s=4e1526bbcac2d1120b5ba4ac61eccad6",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 11.08
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 1.1
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/ff59a47228b7b4b601ff267c662c5e76bf1230b1.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=62bbbd0299ea8ec4f5c4e79bde18d9c7",
+   "delivery_methods": [
+    "switch"
+   ],
+   "machine_name": "bridgeconstructorportal_switch_storefront",
+   "giftable_when": "never",
+   "incompatible_features": [
+    "subscriber-discount-coupons"
+   ],
+   "xray_traits_thumbnail": "https://hb.imgix.net/ff59a47228b7b4b601ff267c662c5e76bf1230b1.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=6ec60141ee697d6fbbd0b906ba2b2fa9",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "bridge-constructor-portal-switch",
+   "platforms": [
+    "switch"
+   ],
+   "icon_dict": {
+    "switch": {
+     "available": [
+      "switch"
+     ],
+     "unavailable": [
+      "windows",
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/ff59a47228b7b4b601ff267c662c5e76bf1230b1.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=648bbdc2e65f90e011406d832ff6d685",
+   "large_capsule": "https://hb.imgix.net/ff59a47228b7b4b601ff267c662c5e76bf1230b1.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=8bc66024beb364629594c03cdc0c06da",
+   "human_name": "Bridge Constructor Portal",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/ff59a47228b7b4b601ff267c662c5e76bf1230b1.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=d382d01b844a603ede7fb0d2a2932208",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.0,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 18.06
+   },
+   "nonrefundable": true,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 18.06
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/abbdfeea50c6208159e98707bf678480858b4b52.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=ebc1f5721c7b5006a67104b384cc441c",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "bridgeconstructor_portal_portalproficiency_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/abbdfeea50c6208159e98707bf678480858b4b52.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=25923f0813f629b19d04bc6cc150a57a",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "bridge-constructor-portal-portal-proficiency",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/abbdfeea50c6208159e98707bf678480858b4b52.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=468e4f1295fdee8e103f7e2b5e9c876e",
+   "large_capsule": "https://hb.imgix.net/abbdfeea50c6208159e98707bf678480858b4b52.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=80a7418d81169a472cc83cdc8fac3017",
+   "human_name": "Bridge Constructor Portal - Portal Proficiency",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/abbdfeea50c6208159e98707bf678480858b4b52.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=5c0511be493b2b3aea6cfa164f1ba71d",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 5.53
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 1.38
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/3870c6babc48a150d71c036dbac39aed6d66804c.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=e8fe8f9029add5f22d0ea75d66569645",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "pinballfx3_portalpinball_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/3870c6babc48a150d71c036dbac39aed6d66804c.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=f3daa30b1847089ad60117ed464037aa",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "pinball-fx3-portal-pinball",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/3870c6babc48a150d71c036dbac39aed6d66804c.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=991be95848065ca83c0147037211c807",
+   "large_capsule": "https://hb.imgix.net/3870c6babc48a150d71c036dbac39aed6d66804c.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=a6e9a9624498f7849298f864660b5d4e",
+   "human_name": "Pinball FX3 - Portal  Pinball",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/3870c6babc48a150d71c036dbac39aed6d66804c.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=9db2c3f7c1e02e94b369456c8605e031",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 4.14
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 2.77
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/bcb1fc3852eec0ea42fb3231d4563d335d9db14d.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=04086a1f6a33d694028533afba047c83",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "spellrune_realmofportals_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/bcb1fc3852eec0ea42fb3231d4563d335d9db14d.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=ad0a2dc69389ea9a7b18741124e94b1c",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "spellrune-realm-of-portals",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/bcb1fc3852eec0ea42fb3231d4563d335d9db14d.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=3549b317fb67b683aba2e1a9869302b4",
+   "large_capsule": "https://hb.imgix.net/bcb1fc3852eec0ea42fb3231d4563d335d9db14d.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=69de87ae3beea1b746f9bc52069d3ba2",
+   "human_name": "Spellrune: Realm of Portals",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/bcb1fc3852eec0ea42fb3231d4563d335d9db14d.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=fe69b07496dff7257eeebb1d0c50047d",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 11.49
+   },
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 11.49
+   },
+   "cta_badge": "earlyaccess",
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/bc0320c6bdd1b1ef74675228ad6fe2a261646e82.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=48f7e41af2433280bdacc7ff3d20f5b5",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "rogueempire_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/bc0320c6bdd1b1ef74675228ad6fe2a261646e82.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=673d9526832139a4065f2cdb4eebc5e1",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "rogue-empire-dungeon-crawler-rpg",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/bc0320c6bdd1b1ef74675228ad6fe2a261646e82.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=5e2968889b1faf0ce9d9408ea5e2902f",
+   "large_capsule": "https://hb.imgix.net/bc0320c6bdd1b1ef74675228ad6fe2a261646e82.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=40f59c444674b17476b71b601ca09b07",
+   "human_name": "Rogue Empire: Dungeon Crawler RPG",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/bc0320c6bdd1b1ef74675228ad6fe2a261646e82.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=d820c06335710380e467f194c5c404b3",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 20.79
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 9.35
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/7bcadb148d06e8d000c387eaaead3496484f5932.jpg?auto=compress,format&fit=crop&h=206&w=360&s=453dcd0d2120473c84e8639b5fb466e1",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "persona3portable_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/7bcadb148d06e8d000c387eaaead3496484f5932.jpg?auto=compress,format&fit=crop&h=84&w=135&s=8c7a1a42def776e032457e455d84d328",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "persona-3-portable",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/7bcadb148d06e8d000c387eaaead3496484f5932.jpg?auto=compress,format&fit=crop&h=154&w=270&s=7633f0547667fcdb37c81d19b4d2ee39",
+   "large_capsule": "https://hb.imgix.net/7bcadb148d06e8d000c387eaaead3496484f5932.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fd2063fa1b265432d1ab1436301b19fe",
+   "human_name": "Persona 3 Portable",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/7bcadb148d06e8d000c387eaaead3496484f5932.jpg?auto=compress,format&fit=crop&h=64&w=103&s=5b5dd7b5af1a29fd50d6f1c2ece0eaa5",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 27.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 13.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/cc18950553cf33aaf4df9aebb17b8e5d8849210d.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=ab81a08264dba5ed4e01a71351f5251e",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "postal2_storefront",
+   "giftable_when": "always",
+   "promotional_message": "Not your typical game about buying milk.",
+   "xray_traits_thumbnail": "https://hb.imgix.net/cc18950553cf33aaf4df9aebb17b8e5d8849210d.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=e6c6486f9c6c68853161a95a04ea4b1d",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "postal-2",
+   "platforms": [
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac"
+     ],
+     "unavailable": [
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/cc18950553cf33aaf4df9aebb17b8e5d8849210d.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=46dd363a8de30425f987e13507ec76a5",
+   "large_capsule": "https://hb.imgix.net/cc18950553cf33aaf4df9aebb17b8e5d8849210d.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=f4bfa84d5ae646cccc96e44bcf576fef",
+   "human_name": "POSTAL 2",
+   "icon": "https://hb.imgix.net/f1bb2de87c4c92beb74c497c2eff77bcc73ee9a1.jpg?auto=compress,format&fit=crop&h=64&w=103&s=3c9e84a976b82dda04c4e09e671a2af6",
+   "type": "product",
+   "mini_carousel_image": "https://hb.imgix.net/febabaed4312976a9aae334b08b0ccabf567cf28.png?auto=compress,format&fit=crop&h=401&w=340&s=503782b660f5edff2df466ae1c02f96f",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 10.99
+   },
+   "sale_end": 1788195600.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 1.09
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/0557c30b0b9d2d8065fc271baf6096c8195597bb.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=32afcd1bb29990bdaab3dea7c0578b1e",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "postal2_paradiselost_storefront",
+   "giftable_when": "always",
+   "promotional_message": "After his Apocalypse Weekend escapades, The Postal Dude finally returns!",
+   "xray_traits_thumbnail": "https://hb.imgix.net/0557c30b0b9d2d8065fc271baf6096c8195597bb.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=79ef0665aa7713fbfb5241c71f7e5c0f",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "postal-2-paradise-lost",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/0557c30b0b9d2d8065fc271baf6096c8195597bb.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=44126f36f57877924eb3646d9db62e11",
+   "large_capsule": "https://hb.imgix.net/0557c30b0b9d2d8065fc271baf6096c8195597bb.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=b3856dfa3bfce19dfc36236fb86cee8c",
+   "human_name": "POSTAL 2: Paradise Lost",
+   "icon": "https://hb.imgix.net/18d0b8de006844f1b73e23941e862705f2a4ddb8.jpg?auto=compress,format&fit=crop&h=64&w=103&s=adcb85523d92d929ecd810e6699d8f19",
+   "type": "product",
+   "mini_carousel_image": "https://hb.imgix.net/cfff8a8cd3f921fcbb34e6e311c9e1fc713bc69f.png?auto=compress,format&fit=crop&h=401&w=340&s=2fb489695d92055c51da03a524dba52f",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 6.49
+   },
+   "sale_end": 1788195600.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 0.64
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/b45a381071eb0e77dc48efa23e018b45e9e741b9.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=cdbb289833c7f25d0721fea77083f691",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "postal_redux_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/b45a381071eb0e77dc48efa23e018b45e9e741b9.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=3667fe578d1b0d0b717203fa359fe770",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "postal-redux",
+   "platforms": [
+    "linux",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "linux"
+     ],
+     "unavailable": [
+      "mac"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/b45a381071eb0e77dc48efa23e018b45e9e741b9.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=39d97fd19f56b4d48a372ad030ba9049",
+   "large_capsule": "https://hb.imgix.net/b45a381071eb0e77dc48efa23e018b45e9e741b9.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=143aaaba7a7967a12887c7af7a0f3e60",
+   "human_name": "POSTAL Redux",
+   "type": "product",
+   "icon": "https://hb.imgix.net/b45a381071eb0e77dc48efa23e018b45e9e741b9.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=8d60a4433814c31b0c974b6fca739240",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 9.99
+   },
+   "sale_end": 1788195600.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 0.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/3b7741a28a521d71101b5853adc6064ab3e6b308.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=485e58287fbef75ad7806bbb1a92ae81",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "postal_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/3b7741a28a521d71101b5853adc6064ab3e6b308.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=f9570f84f2844d0411c9bb909e863798",
+   "content_types": [
+    "mobile",
+    "game",
+    "music"
+   ],
+   "human_url": "postal",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/3b7741a28a521d71101b5853adc6064ab3e6b308.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=e1cc2fc1136de9e2952e6deca2e657b5",
+   "large_capsule": "https://hb.imgix.net/3b7741a28a521d71101b5853adc6064ab3e6b308.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=7c02a2cffb0f96b1d8ee78085d462e84",
+   "human_name": "POSTAL",
+   "type": "product",
+   "icon": "https://hb.imgix.net/8b5ccb6fa0801520a12e4ba516bca87bf6f0581d.jpg?auto=compress,format&fit=crop&h=64&w=103&s=583a46a26ebbf4e2596be82b2ff832db",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 2.19
+   },
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 2.19
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/b21b53cc04517310f9b9bf956d5905418a7fd000.jpg?auto=compress,format&fit=crop&h=206&w=360&s=58b43c1f4039d7713986a87b11934de1",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "postal4_noregerts_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/b21b53cc04517310f9b9bf956d5905418a7fd000.jpg?auto=compress,format&fit=crop&h=84&w=135&s=8dadd3778e4ffcac4ed0dc9ba0993f45",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "postal-4-no-regerts",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/b21b53cc04517310f9b9bf956d5905418a7fd000.jpg?auto=compress,format&fit=crop&h=154&w=270&s=764ff12130c177f36d82724ed965f85b",
+   "large_capsule": "https://hb.imgix.net/b21b53cc04517310f9b9bf956d5905418a7fd000.jpg?auto=compress,format&fit=crop&h=353&w=616&s=08917b1c09889f2b4c6d79a404062394",
+   "human_name": "POSTAL 4: No Regerts",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/b21b53cc04517310f9b9bf956d5905418a7fd000.jpg?auto=compress,format&fit=crop&h=64&w=103&s=1b9fcfe50419c47283cfc4fad45e16d4",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 45.49
+   },
+   "sale_end": 1788195600.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 22.74
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/8ccd3f6563a94b8558aca0271af2bec6dde6dec0.jpg?auto=compress,format&fit=crop&h=206&w=360&s=e26007c2b793aa9afe114dc3a6aecf18",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "postal_braindamaged_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/8ccd3f6563a94b8558aca0271af2bec6dde6dec0.jpg?auto=compress,format&fit=crop&h=84&w=135&s=f49872adf2eff644f32b573b16470449",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "postal-brain-damaged",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/8ccd3f6563a94b8558aca0271af2bec6dde6dec0.jpg?auto=compress,format&fit=crop&h=154&w=270&s=422b4205afbeedfed9ca19419c78e887",
+   "large_capsule": "https://hb.imgix.net/8ccd3f6563a94b8558aca0271af2bec6dde6dec0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=53f01aa30ac750e05a9463226b0f477a",
+   "human_name": "POSTAL: Brain Damaged",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/8ccd3f6563a94b8558aca0271af2bec6dde6dec0.jpg?auto=compress,format&fit=crop&h=64&w=103&s=154fbf451dceb7adf2298bc9ce680027",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 22.79
+   },
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 22.79
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/2dc0918b93f0f28956d492361139b04e2c2b8559.jpg?auto=compress,format&fit=crop&h=206&w=360&s=f0933a26a3ebdc9eed478bcc2ef65c04",
+   "delivery_methods": [
+    "switch"
+   ],
+   "machine_name": "persona3portable_switch_storefront",
+   "giftable_when": "never",
+   "incompatible_features": [
+    "subscriber-discount-coupons"
+   ],
+   "xray_traits_thumbnail": "https://hb.imgix.net/2dc0918b93f0f28956d492361139b04e2c2b8559.jpg?auto=compress,format&fit=crop&h=84&w=135&s=ecbdf2d594364e573db25a9226800f83",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "persona-3-portable-switch",
+   "platforms": [
+    "switch"
+   ],
+   "icon_dict": {
+    "switch": {
+     "available": [
+      "switch"
+     ],
+     "unavailable": [
+      "windows",
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/2dc0918b93f0f28956d492361139b04e2c2b8559.jpg?auto=compress,format&fit=crop&h=154&w=270&s=e2c99142fa5e77acc1e55a3937e6690e",
+   "large_capsule": "https://hb.imgix.net/2dc0918b93f0f28956d492361139b04e2c2b8559.jpg?auto=compress,format&fit=crop&h=353&w=616&s=49bf78ca16d24f8199d9a65eeb549224",
+   "human_name": "Persona 3 Portable",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/2dc0918b93f0f28956d492361139b04e2c2b8559.jpg?auto=compress,format&fit=crop&h=64&w=103&s=02b23d01eec35bc44eeae9676f64c989",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.0,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 26.99
+   },
+   "nonrefundable": true,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 26.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/de2e40a6b159af3110007a1262ed7e210a6aaf55.jpg?auto=compress,format&fit=crop&h=206&w=360&s=4ee0315af6537d077b9675ef2ee07957",
+   "delivery_methods": [
+    "epic"
+   ],
+   "machine_name": "mortalshell_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/de2e40a6b159af3110007a1262ed7e210a6aaf55.jpg?auto=compress,format&fit=crop&h=84&w=135&s=22a8d27e430e81fd02e48d39c696d4e9",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "mortal-shell",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "epic": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/de2e40a6b159af3110007a1262ed7e210a6aaf55.jpg?auto=compress,format&fit=crop&h=154&w=270&s=4d6886f640b170266af615a4b85ef265",
+   "large_capsule": "https://hb.imgix.net/de2e40a6b159af3110007a1262ed7e210a6aaf55.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ce290ecd7f39d40e900f4aa925a4bc83",
+   "human_name": "Mortal Shell",
+   "required_account_links": [
+    "epic_keyless"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/de2e40a6b159af3110007a1262ed7e210a6aaf55.jpg?auto=compress,format&fit=crop&h=64&w=103&s=22496714fd095def59b7602b5a8a6590",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 32.99
+   },
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 32.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/a0bf6c0c18d2354ccc2b5bce3aa1dd51d3953c5d.jpg?auto=compress,format&fit=crop&h=206&w=360&s=4ff90791340314c62d41b478caeeb193",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalkombat1_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/a0bf6c0c18d2354ccc2b5bce3aa1dd51d3953c5d.jpg?auto=compress,format&fit=crop&h=84&w=135&s=a32d30350689531f0ae8d38692e6551f",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-kombat-1",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/a0bf6c0c18d2354ccc2b5bce3aa1dd51d3953c5d.jpg?auto=compress,format&fit=crop&h=154&w=270&s=d70234b11efa661e8fbe39acd957df69",
+   "large_capsule": "https://hb.imgix.net/a0bf6c0c18d2354ccc2b5bce3aa1dd51d3953c5d.jpg?auto=compress,format&fit=crop&h=353&w=616&s=918685149f949b55404dca52309e0494",
+   "human_name": "Mortal Kombat 1",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/a0bf6c0c18d2354ccc2b5bce3aa1dd51d3953c5d.jpg?auto=compress,format&fit=crop&h=64&w=103&s=5e2c48fb5db606f6bd4a462a66c01830",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.0,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 89.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 17.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/e937b6be87469737771c043b5b6adb095af6f97d.jpg?auto=compress,format&fit=crop&h=206&w=360&s=1e4a82b22b72bd8d1bd96793566c9cdc",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalkombat11ultimateadd-onbundle_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/e937b6be87469737771c043b5b6adb095af6f97d.jpg?auto=compress,format&fit=crop&h=84&w=135&s=23ffb3f919b4209702261deaacd84b35",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-kombat-11-ultimate-addon-bundle",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/e937b6be87469737771c043b5b6adb095af6f97d.jpg?auto=compress,format&fit=crop&h=154&w=270&s=bc8fc3e33d6c6e7c56be59c36914b33d",
+   "large_capsule": "https://hb.imgix.net/e937b6be87469737771c043b5b6adb095af6f97d.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d60d8c9e545d20ee007b9c89ed594f5f",
+   "human_name": "Mortal Kombat 11 Ultimate Add-On Bundle",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/e937b6be87469737771c043b5b6adb095af6f97d.jpg?auto=compress,format&fit=crop&h=64&w=103&s=499a3f869cfab2875d645624d491aa3c",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.0,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 59.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 5.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/8bd4c140fe4a0c5cfba973470521fedaf0d18f92.jpg?auto=compress,format&fit=crop&h=206&w=360&s=08d375932b853e0c426b7e9171bd4021",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "mortalkombat11_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/8bd4c140fe4a0c5cfba973470521fedaf0d18f92.jpg?auto=compress,format&fit=crop&h=84&w=135&s=0f24a73857f321b0aabbb1c4ad4ace89",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "mortal-kombat-11",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/8bd4c140fe4a0c5cfba973470521fedaf0d18f92.jpg?auto=compress,format&fit=crop&h=154&w=270&s=d95113c179a8f4444a6e156e37bf281e",
+   "large_capsule": "https://hb.imgix.net/8bd4c140fe4a0c5cfba973470521fedaf0d18f92.jpg?auto=compress,format&fit=crop&h=353&w=616&s=c807c73362d12c81dfe4015d0011197c",
+   "human_name": "Mortal Kombat 11",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/8bd4c140fe4a0c5cfba973470521fedaf0d18f92.jpg?auto=compress,format&fit=crop&h=64&w=103&s=50bbec51e73ba27eae45604a456f7e82",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 69.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 6.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  }
+ ]
+}

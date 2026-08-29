@@ -1,0 +1,4819 @@
+{
+ "userOptions": {
+  "is_logged_in": false,
+  "logout_url": "/logout?goto=/games/built-differently-builder-games&qs="
+ },
+ "showSingleSignOn": true,
+ "debug": false,
+ "ipInChina": false,
+ "isEuCountry": false,
+ "baseSubscriptionPrice|money": {
+  "currency": "CAD",
+  "amount": 17.99
+ },
+ "bannerOptions": null,
+ "exchangeRates": {
+  "USD|decimal": 1.0,
+  "AUD|decimal": 1.4072425306052565,
+  "CHF|decimal": 0.7989898125160517,
+  "IDR|decimal": 17796.952315726394,
+  "KRW|decimal": 1396.353051964729,
+  "CNY|decimal": 6.723568187655166,
+  "ISK|decimal": 121.56493450903176,
+  "ILS|decimal": 2.9920383528807464,
+  "GBP|decimal": 0.7338840852666724,
+  "NZD|decimal": 1.682818251861998,
+  "DKK|decimal": 6.399965756356476,
+  "CAD|decimal": 1.3770225151956168,
+  "TRY|decimal": 47.953514253916616,
+  "HUF|decimal": 312.55885626230634,
+  "PHP|decimal": 61.727591815769195,
+  "RON|decimal": 4.495762349113946,
+  "NOK|decimal": 9.333533087920555,
+  "RUB|decimal": 117.201,
+  "ZAR|decimal": 16.17404331820906,
+  "MYR|decimal": 4.044003081927917,
+  "MXN|decimal": 16.99058299803099,
+  "INR|decimal": 95.70969951202808,
+  "THB|decimal": 32.914990154952484,
+  "JPY|decimal": 158.7620922866193,
+  "CZK|decimal": 20.677168050680592,
+  "BRL|decimal": 5.19356219501755,
+  "PLN|decimal": 3.697286191250749,
+  "EUR|decimal": 0.8560910880917729,
+  "SEK|decimal": 9.491909939217532,
+  "SGD|decimal": 1.2721513569043745,
+  "HKD|decimal": 7.843848985532061
+ },
+ "csrfTokenInput": "REDACTED-CSRF-TOKEN",
+ "csrfToken": "REDACTED-CSRF-TOKEN",
+ "user_max_reward_amount": 0,
+ "csrfFormKey": "REDACTED-CSRF-TOKEN",
+ "bundleData": {
+  "machine_name": "builtdifferentlybuildergames_bundle",
+  "jplayer_swf_path": "https://cdn.humblebundle.com/static/hashed/682bac84e8df7e444ab9127ce8e22f626caf0e41.swf",
+  "at_risk_tpkds": {},
+  "tier_display_data": {
+   "bt10": {
+    "header": "Pay CA$13.93 or more to also unlock!",
+    "identifier": "bt10",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "peraspera_deluxe",
+     "steamworldbuild",
+     "endzone2deluxe",
+     "iamfuture_cozyapocalypsesurvival",
+     "gourdlets",
+     "urbo"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "initial": {
+    "header": "Pay CA$9.75 to unlock!",
+    "identifier": "initial",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "iamfuture_cozyapocalypsesurvival",
+     "gourdlets",
+     "urbo"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "bt14": {
+    "header": "Pay CA$19.51 or more to also unlock!",
+    "identifier": "bt14",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "frostpunk_gameoftheyear",
+     "diplomacyisnotanoption",
+     "terratechprospectoredition",
+     "drillcore",
+     "peraspera_deluxe",
+     "steamworldbuild",
+     "endzone2deluxe",
+     "iamfuture_cozyapocalypsesurvival",
+     "gourdlets",
+     "urbo"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   }
+  },
+  "tier_order": [
+   "bt14",
+   "bt10",
+   "initial"
+  ],
+  "is_all_charity_bundle": false,
+  "author": "Publishers",
+  "tax_type": null,
+  "preset_prices": [
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 9.75
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 13.93
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt10"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 19.51
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt14"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 30.0
+    },
+    "suggested": true,
+    "qualifying_tier_id": "bt14"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 35.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt14"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 40.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt14"
+   }
+  ],
+  "cyoc_data": {},
+  "average_data": {
+   "average_usd_amount|decimal": 15.163964351381894,
+   "average_usd_string": "15.16396435138189414385714224",
+   "avguuid": "4VPqiTe5lFAQG7zf",
+   "cleanavg": "15.16",
+   "average_usd|money": {
+    "currency": "USD",
+    "amount": 15.163964351381894
+   },
+   "average|money": {
+    "currency": "CAD",
+    "amount": 20.88
+   },
+   "avghash": "2qI0Uw4pbSDmezPphZPZbd9OqpTyz1v18X89G109tyQ="
+  },
+  "leaderboard_data": [
+   {
+    "name": "MCaxel007",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 30.0
+    }
+   },
+   {
+    "name": "KilRoYDK",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "Jovke",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "Anobuthix",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "Notthatotherguy",
+    "order_price|money": {
+     "currency": "AUD",
+     "amount": 40.0
+    }
+   },
+   {
+    "name": "Trashrat1",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "clapzou",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 20.0
+    }
+   },
+   {
+    "name": "Shakma",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 20.0
+    }
+   },
+   {
+    "name": "OurLordSpungus",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 20.0
+    }
+   }
+  ],
+  "empty_tpkds": {},
+  "at_time|datetime": "2026-08-21T00:02:30.761190",
+  "basic_data": {
+   "eula": null,
+   "split_disclaimer": null,
+   "currency": "CAD",
+   "giving_fund": "ppgf",
+   "logo": "https://hb.imgix.net/deac28044b16f1cc59aeca42d626904caf3e8da0.png?auto=compress,format&h=340&w=1200&s=ba64fd3d10870986176c15936fea4027",
+   "disallowed_payment_processors": [],
+   "newsletter_mailing_list_machine_name": "bundle_emails",
+   "supports_partners": true,
+   "detailed_marketing_blurb": "Grab your hardhat and shovel because it\u2019s time to clock in at the Built Differently: Builder Games Bundle! Save big on the Game of the Year Edition of <em>Frostpunk</em>, the society-first survival builder where you roleplay as ruler of the last city on Earth. Will you rule with an iron fist? Or build your empire on a foundation of lies? The choices are yours. Or unearth great games like <em>Diplomacy Is Not an Option</em> and <em>Drill Core</em> from this 10-title collection. Plus, your hard work helps support the Her Future Coalition! <br/><br/><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 4th, 2027. </span>",
+   "order_form_disclaimer": null,
+   "media_type": "game",
+   "description": "<p><strong>CAUTION: Fun Zone Ahead.</strong> Grab your hardhat and shovel because it\u2019s time to clock in at the Built Differently: Builder Games Bundle! Save big on the Game of the Year Edition of <em>Frostpunk</em>, the society-first survival builder where you roleplay as ruler of the last city on Earth. Will you rule with an iron fist? Or build your empire on a foundation of lies? The choices are yours. Or unearth great games like <em>Diplomacy Is Not an Option</em> and <em>Drill Core</em> from this 10-title collection. Plus, your hard work helps support the Her Future Coalition!</p>\n\n<p><strong>Pay CA$9.75 or more.</strong> Normally, the total cost for the games in this bundle is as much as US$316. Here at Humble Bundle, you choose the price and increase your contribution to upgrade your bundle! This bundle has a minimum CA$9.75 purchase. Pay CA$9.75 or more to access Steam keys.</p>\n\n<p><strong>Redeem on Steam.</strong> All of the games in this bundle are available on Steam. Please review the system requirements <a href=\"https://support.humblebundle.com/hc/en-us/articles/54375782493339\">here</a> prior to purchasing. <br/><br/><strong><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 4th, 2027.</span></strong></p>\n\n<p><strong>Support charity.</strong> Choose where the money goes - between the publishers and to support&nbsp;<span data-sheets-root=\"1\">Her Future Coalition</span>. If you like what we do, you can leave us a Humble Tip too!</p>",
+   "legal_disclaimer": null,
+   "page_title_tag": "",
+   "short_marketing_blurb": "CAUTION: Fun Zone Ahead",
+   "required_account_links": [
+    "steam"
+   ],
+   "require_linked_third_party_account_when": "only-when-free",
+   "region_lock_warnings": {},
+   "youtube_video_key": null,
+   "twitch_data": {},
+   "allowed_payment_processors": [
+    "free",
+    "paypal",
+    "alipay",
+    "alipay_payment_intent",
+    "stripe_checkout",
+    "stripe_payment_intent"
+   ],
+   "end_time|datetime": "2026-09-05T04:00:00",
+   "msrp|money": {
+    "currency": "CAD",
+    "amount": 435.1391148018149
+   },
+   "human_name": "Built Differently: Builder Games",
+   "tpkd_cutoff_price|money": {
+    "currency": "CAD",
+    "amount": 9.75
+   }
+  },
+  "tier_pricing_data": {
+   "bt10": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 13.93
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 20.88
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt10",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "initial": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 9.75
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 20.88
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": true,
+    "identifier": "initial",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "bt14": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 19.51
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 20.88
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt14",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   }
+  },
+  "partner_data": null,
+  "other_bundles_data": [
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/gregbearbirthdaybundleopenroadmedia_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       324.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$324"
+    },
+    "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=576eb764f980a4edc4ff65123ee0224e",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em></em>, <em></em>, <em>Anvil of Stars</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/greg-bear-birthday-bundle-open-road-media-books",
+    "tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=353&w=616&s=73a07b9e661f143511f78cc6f714eba4",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        2.78,
+        "EUR"
+       ],
+       "FR": [
+        2.77,
+        "EUR"
+       ],
+       "BG": [
+        3.15,
+        "EUR"
+       ],
+       "DK": [
+        3.28,
+        "EUR"
+       ],
+       "HR": [
+        2.76,
+        "EUR"
+       ],
+       "DE": [
+        2.81,
+        "EUR"
+       ],
+       "JP": [
+        3.3,
+        "USD"
+       ],
+       "HU": [
+        3.34,
+        "EUR"
+       ],
+       "US": [
+        3.0,
+        "USD"
+       ],
+       "FI": [
+        2.89,
+        "EUR"
+       ],
+       "BY": [
+        3.54,
+        "USD"
+       ],
+       "GR": [
+        2.78,
+        "EUR"
+       ],
+       "RU": [
+        383.56,
+        "RUB"
+       ],
+       "NL": [
+        2.86,
+        "EUR"
+       ],
+       "PT": [
+        2.78,
+        "EUR"
+       ],
+       "NO": [
+        2.63,
+        "EUR"
+       ],
+       "TW": [
+        3.15,
+        "USD"
+       ],
+       "TR": [
+        141.09,
+        "TRY"
+       ],
+       "NZ": [
+        5.92,
+        "NZD"
+       ],
+       "LV": [
+        2.76,
+        "EUR"
+       ],
+       "LT": [
+        2.86,
+        "EUR"
+       ],
+       "LU": [
+        2.7,
+        "EUR"
+       ],
+       "TH": [
+        3.0,
+        "USD"
+       ],
+       "PH": [
+        185.06,
+        "PHP"
+       ],
+       "RO": [
+        2.76,
+        "EUR"
+       ],
+       "IS": [
+        3.33,
+        "USD"
+       ],
+       "PL": [
+        2.76,
+        "EUR"
+       ],
+       "CH": [
+        2.69,
+        "EUR"
+       ],
+       "MT": [
+        2.76,
+        "EUR"
+       ],
+       "CN": [
+        20.32,
+        "CNY"
+       ],
+       "CL": [
+        3.57,
+        "USD"
+       ],
+       "EE": [
+        2.86,
+        "EUR"
+       ],
+       "EG": [
+        3.42,
+        "USD"
+       ],
+       "IT": [
+        2.73,
+        "EUR"
+       ],
+       "ZA": [
+        3.45,
+        "USD"
+       ],
+       "CZ": [
+        2.63,
+        "EUR"
+       ],
+       "CY": [
+        3.12,
+        "EUR"
+       ],
+       "AU": [
+        4.71,
+        "AUD"
+       ],
+       "GB": [
+        2.23,
+        "GBP"
+       ],
+       "IN": [
+        3.54,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        2.23,
+        "GBP"
+       ],
+       "IE": [
+        2.63,
+        "EUR"
+       ],
+       "ES": [
+        2.73,
+        "EUR"
+       ],
+       "MD": [
+        3.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        2.63,
+        "EUR"
+       ],
+       "UA": [
+        3.6,
+        "USD"
+       ],
+       "CA": [
+        4.22,
+        "CAD"
+       ],
+       "SK": [
+        3.23,
+        "EUR"
+       ],
+       "KR": [
+        3.3,
+        "USD"
+       ],
+       "SI": [
+        2.76,
+        "EUR"
+       ],
+       "SG": [
+        3.27,
+        "USD"
+       ],
+       "MX": [
+        3.48,
+        "USD"
+       ],
+       "SE": [
+        2.78,
+        "EUR"
+       ],
+       "AT": [
+        2.89,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        9.28,
+        "EUR"
+       ],
+       "FR": [
+        9.24,
+        "EUR"
+       ],
+       "BG": [
+        10.51,
+        "EUR"
+       ],
+       "DK": [
+        10.95,
+        "EUR"
+       ],
+       "HR": [
+        9.19,
+        "EUR"
+       ],
+       "DE": [
+        9.37,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        11.12,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        9.63,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        9.28,
+        "EUR"
+       ],
+       "RU": [
+        1278.55,
+        "RUB"
+       ],
+       "NL": [
+        9.54,
+        "EUR"
+       ],
+       "PT": [
+        9.28,
+        "EUR"
+       ],
+       "NO": [
+        8.76,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        470.31,
+        "TRY"
+       ],
+       "NZ": [
+        19.76,
+        "NZD"
+       ],
+       "LV": [
+        9.19,
+        "EUR"
+       ],
+       "LT": [
+        9.54,
+        "EUR"
+       ],
+       "LU": [
+        9.02,
+        "EUR"
+       ],
+       "TH": [
+        10.0,
+        "USD"
+       ],
+       "PH": [
+        616.87,
+        "PHP"
+       ],
+       "RO": [
+        9.19,
+        "EUR"
+       ],
+       "IS": [
+        11.1,
+        "USD"
+       ],
+       "PL": [
+        9.19,
+        "EUR"
+       ],
+       "CH": [
+        8.98,
+        "EUR"
+       ],
+       "MT": [
+        9.19,
+        "EUR"
+       ],
+       "CN": [
+        67.74,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        9.54,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        9.11,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        8.76,
+        "EUR"
+       ],
+       "CY": [
+        10.42,
+        "EUR"
+       ],
+       "AU": [
+        15.75,
+        "AUD"
+       ],
+       "GB": [
+        7.46,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.46,
+        "GBP"
+       ],
+       "IE": [
+        8.76,
+        "EUR"
+       ],
+       "ES": [
+        9.11,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.76,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        14.07,
+        "CAD"
+       ],
+       "SK": [
+        10.77,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        9.19,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        9.28,
+        "EUR"
+       ],
+       "AT": [
+        9.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt18",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.72,
+        "EUR"
+       ],
+       "FR": [
+        16.64,
+        "EUR"
+       ],
+       "BG": [
+        18.93,
+        "EUR"
+       ],
+       "DK": [
+        19.72,
+        "EUR"
+       ],
+       "HR": [
+        16.56,
+        "EUR"
+       ],
+       "DE": [
+        16.88,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        20.04,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.72,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.2,
+        "EUR"
+       ],
+       "PT": [
+        16.72,
+        "EUR"
+       ],
+       "NO": [
+        15.78,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.56,
+        "TRY"
+       ],
+       "NZ": [
+        35.58,
+        "NZD"
+       ],
+       "LV": [
+        16.56,
+        "EUR"
+       ],
+       "LT": [
+        17.2,
+        "EUR"
+       ],
+       "LU": [
+        16.25,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1110.37,
+        "PHP"
+       ],
+       "RO": [
+        16.56,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.56,
+        "EUR"
+       ],
+       "CH": [
+        16.19,
+        "EUR"
+       ],
+       "MT": [
+        16.56,
+        "EUR"
+       ],
+       "CN": [
+        121.93,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.2,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.41,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.78,
+        "EUR"
+       ],
+       "CY": [
+        18.77,
+        "EUR"
+       ],
+       "AU": [
+        28.34,
+        "AUD"
+       ],
+       "GB": [
+        13.42,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.42,
+        "GBP"
+       ],
+       "IE": [
+        15.78,
+        "EUR"
+       ],
+       "ES": [
+        16.41,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.78,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.33,
+        "CAD"
+       ],
+       "SK": [
+        19.4,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.56,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.72,
+        "EUR"
+       ],
+       "AT": [
+        17.35,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt18_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$324 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$324."
+     },
+     {
+      "heading": "Pay AU$4.71 or more",
+      "tooltip": "Name your price of AU$4.71 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub and PRC file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T18:00:00",
+    "author": "Open Road Media",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "The world of science fiction lost a titan when novelist Greg Bear passed away in 2022, but his books remain a perfect example of exactly what sci-fi was always meant to be. Author of over 50 books and co-founder of San Diego Comic Con, Bear made loving sci-fi into a career that spanned five decades. His work, which tested the limits of human (and non-human) consciousness and looked toward the far future and beyond, inspires and excites readers to this day. To celebrate what would have been Greg Bear\u2019s 75th Birthday, in partnership with Open Road Media, we\u2019ve collected a bundle of his best novels including award-winning classics like first contact thriller <em>Eon</em>, alien invasion drama <em>The Forge of God</em>, and post-apocalyptic space odyssey <em>Anvil of Stars</em>! Get a motherlode of some of the best sci-fi ever written for the price of your choosing, and support the Science Fiction & Fantasy Writers Association with your purchase!",
+    "tile_logo": "https://hb.imgix.net/ec343992eae9f55f52c94db55a21017493a1db5e.png?auto=compress,format&h=340&w=1200&s=de401b9bb65fa73cf486e75484327755",
+    "tile_short_name": "The Greg Bear Birthday Bundle by Open Road Media",
+    "start_date|datetime": "2026-08-20T18:00:00",
+    "hover_highlights": [
+     "27 books",
+     "US$324 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Greg Bear Birthday Bundle by Open Road Media",
+    "short_marketing_blurb": "Celebrate the birthday of one of sci-fi\u2019s masters",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "27 books",
+     "US$324 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/yeschefcookingbundle_bundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       208.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$208"
+    },
+    "machine_name": "yeschefcookingbundle_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=cd648c330733cbf4e8ae61aeaccacfe2",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Chef Knight</em>, <em>Pizza Possum</em>, <em>The Chef's Shift</em>, <em>Tailside: Cozy Cafe Sim</em>, <em>Tavern Manager Simulator</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/yes-chef-cooking-bundle",
+    "tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e6118af1c71a67d3aa9db97b9ade14d3",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        7.32,
+        "EUR"
+       ],
+       "FR": [
+        7.26,
+        "EUR"
+       ],
+       "BG": [
+        7.26,
+        "EUR"
+       ],
+       "DK": [
+        7.56,
+        "EUR"
+       ],
+       "HR": [
+        7.56,
+        "EUR"
+       ],
+       "DE": [
+        7.19,
+        "EUR"
+       ],
+       "JP": [
+        7.7,
+        "USD"
+       ],
+       "HU": [
+        7.68,
+        "EUR"
+       ],
+       "US": [
+        7.0,
+        "USD"
+       ],
+       "FI": [
+        7.59,
+        "EUR"
+       ],
+       "BY": [
+        8.26,
+        "USD"
+       ],
+       "GR": [
+        7.5,
+        "EUR"
+       ],
+       "RU": [
+        957.13,
+        "RUB"
+       ],
+       "NL": [
+        7.32,
+        "EUR"
+       ],
+       "PT": [
+        7.44,
+        "EUR"
+       ],
+       "NO": [
+        7.56,
+        "EUR"
+       ],
+       "TW": [
+        7.35,
+        "USD"
+       ],
+       "TR": [
+        335.19,
+        "TRY"
+       ],
+       "NZ": [
+        13.66,
+        "NZD"
+       ],
+       "LV": [
+        7.32,
+        "EUR"
+       ],
+       "LT": [
+        7.13,
+        "EUR"
+       ],
+       "LU": [
+        7.07,
+        "EUR"
+       ],
+       "TH": [
+        7.49,
+        "USD"
+       ],
+       "PH": [
+        429.71,
+        "PHP"
+       ],
+       "RO": [
+        7.01,
+        "EUR"
+       ],
+       "IS": [
+        8.68,
+        "USD"
+       ],
+       "PL": [
+        7.44,
+        "EUR"
+       ],
+       "CH": [
+        6.54,
+        "EUR"
+       ],
+       "MT": [
+        7.13,
+        "EUR"
+       ],
+       "CN": [
+        47.18,
+        "CNY"
+       ],
+       "CL": [
+        8.33,
+        "USD"
+       ],
+       "EE": [
+        7.38,
+        "EUR"
+       ],
+       "EG": [
+        7.98,
+        "USD"
+       ],
+       "IT": [
+        7.38,
+        "EUR"
+       ],
+       "ZA": [
+        8.05,
+        "USD"
+       ],
+       "CZ": [
+        7.32,
+        "EUR"
+       ],
+       "CY": [
+        7.19,
+        "EUR"
+       ],
+       "AU": [
+        10.86,
+        "AUD"
+       ],
+       "GB": [
+        6.2,
+        "GBP"
+       ],
+       "IN": [
+        8.26,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        5.17,
+        "GBP"
+       ],
+       "IE": [
+        7.44,
+        "EUR"
+       ],
+       "ES": [
+        7.32,
+        "EUR"
+       ],
+       "MD": [
+        8.4,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        6.05,
+        "EUR"
+       ],
+       "UA": [
+        8.4,
+        "USD"
+       ],
+       "CA": [
+        9.71,
+        "CAD"
+       ],
+       "SK": [
+        7.44,
+        "EUR"
+       ],
+       "KR": [
+        7.7,
+        "USD"
+       ],
+       "SI": [
+        7.38,
+        "EUR"
+       ],
+       "SG": [
+        7.63,
+        "USD"
+       ],
+       "MX": [
+        8.12,
+        "USD"
+       ],
+       "SE": [
+        7.56,
+        "EUR"
+       ],
+       "AT": [
+        7.26,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt13",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        13.58,
+        "EUR"
+       ],
+       "FR": [
+        13.47,
+        "EUR"
+       ],
+       "BG": [
+        13.47,
+        "EUR"
+       ],
+       "DK": [
+        14.03,
+        "EUR"
+       ],
+       "HR": [
+        14.03,
+        "EUR"
+       ],
+       "DE": [
+        13.36,
+        "EUR"
+       ],
+       "JP": [
+        14.3,
+        "USD"
+       ],
+       "HU": [
+        14.26,
+        "EUR"
+       ],
+       "US": [
+        13.0,
+        "USD"
+       ],
+       "FI": [
+        14.09,
+        "EUR"
+       ],
+       "BY": [
+        15.34,
+        "USD"
+       ],
+       "GR": [
+        13.92,
+        "EUR"
+       ],
+       "RU": [
+        1777.54,
+        "RUB"
+       ],
+       "NL": [
+        13.58,
+        "EUR"
+       ],
+       "PT": [
+        13.81,
+        "EUR"
+       ],
+       "NO": [
+        14.03,
+        "EUR"
+       ],
+       "TW": [
+        13.65,
+        "USD"
+       ],
+       "TR": [
+        622.49,
+        "TRY"
+       ],
+       "NZ": [
+        25.38,
+        "NZD"
+       ],
+       "LV": [
+        13.58,
+        "EUR"
+       ],
+       "LT": [
+        13.25,
+        "EUR"
+       ],
+       "LU": [
+        13.13,
+        "EUR"
+       ],
+       "TH": [
+        13.91,
+        "USD"
+       ],
+       "PH": [
+        798.04,
+        "PHP"
+       ],
+       "RO": [
+        13.02,
+        "EUR"
+       ],
+       "IS": [
+        16.12,
+        "USD"
+       ],
+       "PL": [
+        13.81,
+        "EUR"
+       ],
+       "CH": [
+        12.13,
+        "EUR"
+       ],
+       "MT": [
+        13.25,
+        "EUR"
+       ],
+       "CN": [
+        87.63,
+        "CNY"
+       ],
+       "CL": [
+        15.47,
+        "USD"
+       ],
+       "EE": [
+        13.7,
+        "EUR"
+       ],
+       "EG": [
+        14.82,
+        "USD"
+       ],
+       "IT": [
+        13.7,
+        "EUR"
+       ],
+       "ZA": [
+        14.95,
+        "USD"
+       ],
+       "CZ": [
+        13.58,
+        "EUR"
+       ],
+       "CY": [
+        13.36,
+        "EUR"
+       ],
+       "AU": [
+        20.18,
+        "AUD"
+       ],
+       "GB": [
+        11.52,
+        "GBP"
+       ],
+       "IN": [
+        15.34,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        9.6,
+        "GBP"
+       ],
+       "IE": [
+        13.81,
+        "EUR"
+       ],
+       "ES": [
+        13.58,
+        "EUR"
+       ],
+       "MD": [
+        15.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        11.23,
+        "EUR"
+       ],
+       "UA": [
+        15.6,
+        "USD"
+       ],
+       "CA": [
+        18.03,
+        "CAD"
+       ],
+       "SK": [
+        13.81,
+        "EUR"
+       ],
+       "KR": [
+        14.3,
+        "USD"
+       ],
+       "SI": [
+        13.7,
+        "EUR"
+       ],
+       "SG": [
+        14.17,
+        "USD"
+       ],
+       "MX": [
+        15.08,
+        "USD"
+       ],
+       "SE": [
+        14.03,
+        "EUR"
+       ],
+       "AT": [
+        13.47,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt13_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt16",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.73,
+        "EUR"
+       ],
+       "FR": [
+        16.59,
+        "EUR"
+       ],
+       "BG": [
+        16.59,
+        "EUR"
+       ],
+       "DK": [
+        17.28,
+        "EUR"
+       ],
+       "HR": [
+        17.28,
+        "EUR"
+       ],
+       "DE": [
+        16.45,
+        "EUR"
+       ],
+       "JP": [
+        17.6,
+        "USD"
+       ],
+       "HU": [
+        17.56,
+        "EUR"
+       ],
+       "US": [
+        16.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        18.88,
+        "USD"
+       ],
+       "GR": [
+        17.14,
+        "EUR"
+       ],
+       "RU": [
+        2187.74,
+        "RUB"
+       ],
+       "NL": [
+        16.73,
+        "EUR"
+       ],
+       "PT": [
+        17.01,
+        "EUR"
+       ],
+       "NO": [
+        17.28,
+        "EUR"
+       ],
+       "TW": [
+        16.8,
+        "USD"
+       ],
+       "TR": [
+        766.15,
+        "TRY"
+       ],
+       "NZ": [
+        31.23,
+        "NZD"
+       ],
+       "LV": [
+        16.73,
+        "EUR"
+       ],
+       "LT": [
+        16.31,
+        "EUR"
+       ],
+       "LU": [
+        16.18,
+        "EUR"
+       ],
+       "TH": [
+        17.12,
+        "USD"
+       ],
+       "PH": [
+        982.21,
+        "PHP"
+       ],
+       "RO": [
+        16.04,
+        "EUR"
+       ],
+       "IS": [
+        19.84,
+        "USD"
+       ],
+       "PL": [
+        17.01,
+        "EUR"
+       ],
+       "CH": [
+        14.95,
+        "EUR"
+       ],
+       "MT": [
+        16.31,
+        "EUR"
+       ],
+       "CN": [
+        107.86,
+        "CNY"
+       ],
+       "CL": [
+        19.04,
+        "USD"
+       ],
+       "EE": [
+        16.87,
+        "EUR"
+       ],
+       "EG": [
+        18.24,
+        "USD"
+       ],
+       "IT": [
+        16.87,
+        "EUR"
+       ],
+       "ZA": [
+        18.4,
+        "USD"
+       ],
+       "CZ": [
+        16.73,
+        "EUR"
+       ],
+       "CY": [
+        16.45,
+        "EUR"
+       ],
+       "AU": [
+        24.84,
+        "AUD"
+       ],
+       "GB": [
+        14.17,
+        "GBP"
+       ],
+       "IN": [
+        18.88,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.81,
+        "GBP"
+       ],
+       "IE": [
+        17.01,
+        "EUR"
+       ],
+       "ES": [
+        16.73,
+        "EUR"
+       ],
+       "MD": [
+        19.2,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        13.83,
+        "EUR"
+       ],
+       "UA": [
+        19.2,
+        "USD"
+       ],
+       "CA": [
+        22.19,
+        "CAD"
+       ],
+       "SK": [
+        17.01,
+        "EUR"
+       ],
+       "KR": [
+        17.6,
+        "USD"
+       ],
+       "SI": [
+        16.87,
+        "EUR"
+       ],
+       "SG": [
+        17.44,
+        "USD"
+       ],
+       "MX": [
+        18.56,
+        "USD"
+       ],
+       "SE": [
+        17.28,
+        "EUR"
+       ],
+       "AT": [
+        16.59,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt16_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$208 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$208."
+     },
+     {
+      "heading": "Pay AU$10.86 or more",
+      "tooltip": "Name your price of AU$10.86 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$10.86 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T04:00:00",
+    "author": "Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Take your chef skills to the next level with this bundle of tasty cooking games! Whether you\u2019re an amateur at best IRL or a seasoned professional in the kitchen, you\u2019re sure to find the perfect cooking challenge. Keep the ale flowing and the mood high in the charmingly old-timey <em>Tavern Manager Simulator</em>! Let your fingers fly across the keyboard in the high-octane typing game <em>The Chef\u2019s Shift</em>! (Say that three times fast.) Become the sneaky, ravenous beast you were always meant to be in arcade game <em>Pizza Possum</em>! Whatever your speed, whatever your tastes, this bundle of cooking games will satisfy any appetite! Grab these tasty treats while you can at the price of your choice, and support the FarmLink Project with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027. </span>",
+    "tile_logo": "https://hb.imgix.net/1816638967eeb74efee1af1d5edb39dbf288d2d9.png?auto=compress,format&h=340&w=1200&s=1aa4086e9cbdbfae27bff97e7cc2f377",
+    "tile_short_name": "Yes Chef! - Cooking Bundle",
+    "start_date|datetime": "2026-08-19T18:00:00",
+    "hover_highlights": [
+     "16 games",
+     "US$208 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Yes Chef! - Cooking Bundle",
+    "short_marketing_blurb": "Order up!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "16 games",
+     "US$208 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/shantaefranchisebundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       192.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$192"
+    },
+    "machine_name": "shantaeheroicheroines_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=edd5f1bb3f076ded31ee89f974896c35",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>River City Girls</em> and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/shantae-heroic-heroines",
+    "tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d9ca18756b816bf711cc7dcfcedaec8e",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        5.23,
+        "EUR"
+       ],
+       "FR": [
+        5.19,
+        "EUR"
+       ],
+       "BG": [
+        5.19,
+        "EUR"
+       ],
+       "DK": [
+        5.41,
+        "EUR"
+       ],
+       "HR": [
+        5.41,
+        "EUR"
+       ],
+       "DE": [
+        5.15,
+        "EUR"
+       ],
+       "JP": [
+        5.5,
+        "USD"
+       ],
+       "HU": [
+        5.49,
+        "EUR"
+       ],
+       "US": [
+        5.0,
+        "USD"
+       ],
+       "FI": [
+        5.43,
+        "EUR"
+       ],
+       "BY": [
+        5.9,
+        "USD"
+       ],
+       "GR": [
+        5.36,
+        "EUR"
+       ],
+       "RU": [
+        683.66,
+        "RUB"
+       ],
+       "NL": [
+        5.23,
+        "EUR"
+       ],
+       "PT": [
+        5.32,
+        "EUR"
+       ],
+       "NO": [
+        5.41,
+        "EUR"
+       ],
+       "TW": [
+        5.25,
+        "USD"
+       ],
+       "TR": [
+        238.78,
+        "TRY"
+       ],
+       "NZ": [
+        9.79,
+        "NZD"
+       ],
+       "LV": [
+        5.23,
+        "EUR"
+       ],
+       "LT": [
+        5.1,
+        "EUR"
+       ],
+       "LU": [
+        5.06,
+        "EUR"
+       ],
+       "TH": [
+        5.35,
+        "USD"
+       ],
+       "PH": [
+        306.11,
+        "PHP"
+       ],
+       "RO": [
+        5.02,
+        "EUR"
+       ],
+       "IS": [
+        6.2,
+        "USD"
+       ],
+       "PL": [
+        5.32,
+        "EUR"
+       ],
+       "CH": [
+        4.68,
+        "EUR"
+       ],
+       "MT": [
+        5.1,
+        "EUR"
+       ],
+       "CN": [
+        33.71,
+        "CNY"
+       ],
+       "CL": [
+        5.95,
+        "USD"
+       ],
+       "EE": [
+        5.28,
+        "EUR"
+       ],
+       "EG": [
+        5.7,
+        "USD"
+       ],
+       "IT": [
+        5.28,
+        "EUR"
+       ],
+       "ZA": [
+        5.75,
+        "USD"
+       ],
+       "CZ": [
+        5.23,
+        "EUR"
+       ],
+       "CY": [
+        5.15,
+        "EUR"
+       ],
+       "AU": [
+        7.77,
+        "AUD"
+       ],
+       "GB": [
+        4.42,
+        "GBP"
+       ],
+       "IN": [
+        5.9,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        3.69,
+        "GBP"
+       ],
+       "IE": [
+        5.32,
+        "EUR"
+       ],
+       "ES": [
+        5.23,
+        "EUR"
+       ],
+       "MD": [
+        6.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        4.33,
+        "EUR"
+       ],
+       "UA": [
+        6.0,
+        "USD"
+       ],
+       "CA": [
+        6.96,
+        "CAD"
+       ],
+       "SK": [
+        5.32,
+        "EUR"
+       ],
+       "KR": [
+        5.5,
+        "USD"
+       ],
+       "SI": [
+        5.28,
+        "EUR"
+       ],
+       "SG": [
+        5.45,
+        "USD"
+       ],
+       "MX": [
+        5.8,
+        "USD"
+       ],
+       "SE": [
+        5.41,
+        "EUR"
+       ],
+       "AT": [
+        5.19,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        10.47,
+        "EUR"
+       ],
+       "FR": [
+        10.39,
+        "EUR"
+       ],
+       "BG": [
+        10.39,
+        "EUR"
+       ],
+       "DK": [
+        10.82,
+        "EUR"
+       ],
+       "HR": [
+        10.82,
+        "EUR"
+       ],
+       "DE": [
+        10.3,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        10.99,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        10.86,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        10.73,
+        "EUR"
+       ],
+       "RU": [
+        1367.34,
+        "RUB"
+       ],
+       "NL": [
+        10.47,
+        "EUR"
+       ],
+       "PT": [
+        10.65,
+        "EUR"
+       ],
+       "NO": [
+        10.82,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        477.57,
+        "TRY"
+       ],
+       "NZ": [
+        19.59,
+        "NZD"
+       ],
+       "LV": [
+        10.47,
+        "EUR"
+       ],
+       "LT": [
+        10.21,
+        "EUR"
+       ],
+       "LU": [
+        10.13,
+        "EUR"
+       ],
+       "TH": [
+        10.7,
+        "USD"
+       ],
+       "PH": [
+        612.22,
+        "PHP"
+       ],
+       "RO": [
+        10.04,
+        "EUR"
+       ],
+       "IS": [
+        12.4,
+        "USD"
+       ],
+       "PL": [
+        10.65,
+        "EUR"
+       ],
+       "CH": [
+        9.36,
+        "EUR"
+       ],
+       "MT": [
+        10.21,
+        "EUR"
+       ],
+       "CN": [
+        67.43,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        10.56,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        10.56,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        10.47,
+        "EUR"
+       ],
+       "CY": [
+        10.3,
+        "EUR"
+       ],
+       "AU": [
+        15.55,
+        "AUD"
+       ],
+       "GB": [
+        8.86,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.39,
+        "GBP"
+       ],
+       "IE": [
+        10.65,
+        "EUR"
+       ],
+       "ES": [
+        10.47,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.66,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        13.92,
+        "CAD"
+       ],
+       "SK": [
+        10.65,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        10.56,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        10.82,
+        "EUR"
+       ],
+       "AT": [
+        10.39,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt15",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        15.71,
+        "EUR"
+       ],
+       "FR": [
+        15.58,
+        "EUR"
+       ],
+       "BG": [
+        15.58,
+        "EUR"
+       ],
+       "DK": [
+        16.23,
+        "EUR"
+       ],
+       "HR": [
+        16.23,
+        "EUR"
+       ],
+       "DE": [
+        15.45,
+        "EUR"
+       ],
+       "JP": [
+        16.5,
+        "USD"
+       ],
+       "HU": [
+        16.49,
+        "EUR"
+       ],
+       "US": [
+        15.0,
+        "USD"
+       ],
+       "FI": [
+        16.3,
+        "EUR"
+       ],
+       "BY": [
+        17.7,
+        "USD"
+       ],
+       "GR": [
+        16.1,
+        "EUR"
+       ],
+       "RU": [
+        2051.01,
+        "RUB"
+       ],
+       "NL": [
+        15.71,
+        "EUR"
+       ],
+       "PT": [
+        15.97,
+        "EUR"
+       ],
+       "NO": [
+        16.23,
+        "EUR"
+       ],
+       "TW": [
+        15.75,
+        "USD"
+       ],
+       "TR": [
+        716.36,
+        "TRY"
+       ],
+       "NZ": [
+        29.39,
+        "NZD"
+       ],
+       "LV": [
+        15.71,
+        "EUR"
+       ],
+       "LT": [
+        15.32,
+        "EUR"
+       ],
+       "LU": [
+        15.19,
+        "EUR"
+       ],
+       "TH": [
+        16.05,
+        "USD"
+       ],
+       "PH": [
+        918.33,
+        "PHP"
+       ],
+       "RO": [
+        15.06,
+        "EUR"
+       ],
+       "IS": [
+        18.6,
+        "USD"
+       ],
+       "PL": [
+        15.97,
+        "EUR"
+       ],
+       "CH": [
+        14.04,
+        "EUR"
+       ],
+       "MT": [
+        15.32,
+        "EUR"
+       ],
+       "CN": [
+        101.14,
+        "CNY"
+       ],
+       "CL": [
+        17.85,
+        "USD"
+       ],
+       "EE": [
+        15.84,
+        "EUR"
+       ],
+       "EG": [
+        17.1,
+        "USD"
+       ],
+       "IT": [
+        15.84,
+        "EUR"
+       ],
+       "ZA": [
+        17.25,
+        "USD"
+       ],
+       "CZ": [
+        15.71,
+        "EUR"
+       ],
+       "CY": [
+        15.45,
+        "EUR"
+       ],
+       "AU": [
+        23.33,
+        "AUD"
+       ],
+       "GB": [
+        13.3,
+        "GBP"
+       ],
+       "IN": [
+        17.7,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.09,
+        "GBP"
+       ],
+       "IE": [
+        15.97,
+        "EUR"
+       ],
+       "ES": [
+        15.71,
+        "EUR"
+       ],
+       "MD": [
+        18.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        12.99,
+        "EUR"
+       ],
+       "UA": [
+        18.0,
+        "USD"
+       ],
+       "CA": [
+        20.88,
+        "CAD"
+       ],
+       "SK": [
+        15.97,
+        "EUR"
+       ],
+       "KR": [
+        16.5,
+        "USD"
+       ],
+       "SI": [
+        15.84,
+        "EUR"
+       ],
+       "SG": [
+        16.35,
+        "USD"
+       ],
+       "MX": [
+        17.4,
+        "USD"
+       ],
+       "SE": [
+        16.23,
+        "EUR"
+       ],
+       "AT": [
+        15.58,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt15_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$192 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$192."
+     },
+     {
+      "heading": "Pay AU$7.77 or more",
+      "tooltip": "Name your price of AU$7.77 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$7.77 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-08T04:00:00",
+    "author": "WayForward",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in <em>Shantae and the Seven Sirens</em>! Save Sequin Land from a rampant crime wave with <em>Shantae: Half-Genie Hero Ultimate Edition</em>, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in <em>Shantae and the Pirate\u2019s Curse</em>! Plus, have even more fun with the schoolgirl warriors of <em>River City Girls</em> and the law-abiding citizens of <em>Mighty Switch Force</em>! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 7th, 2027. </span> ",
+    "tile_logo": "https://hb.imgix.net/ec50877f873a62bd36758d7371533216f233893c.png?auto=compress,format&h=340&w=1200&s=ec16d5913c7a890143df88d60d6fb5e1",
+    "tile_short_name": "Shantae & Heroic Heroines",
+    "start_date|datetime": "2026-08-17T18:00:00",
+    "hover_highlights": [
+     "10 games",
+     "US$192 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Shantae & Heroic Heroines",
+    "short_marketing_blurb": "Half-genie, big adventures!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "10 games",
+     "US$192 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       688.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$688"
+    },
+    "machine_name": "ultimatevegancookbookbundlepagestreetpublishing_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=14b3f02ee5e8d25f832e91d31c618ae4",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Vegan YUM</em>, <em>Blk + Vegan</em>, <em>Frugal Vegan</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books",
+    "tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0b3ac49bb877ce81a0ab161192d5990c",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.63,
+        "EUR"
+       ],
+       "FR": [
+        16.55,
+        "EUR"
+       ],
+       "BG": [
+        18.82,
+        "EUR"
+       ],
+       "DK": [
+        19.61,
+        "EUR"
+       ],
+       "HR": [
+        16.47,
+        "EUR"
+       ],
+       "DE": [
+        16.78,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        19.92,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.25,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.63,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.1,
+        "EUR"
+       ],
+       "PT": [
+        16.63,
+        "EUR"
+       ],
+       "NO": [
+        15.69,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.98,
+        "TRY"
+       ],
+       "NZ": [
+        35.33,
+        "NZD"
+       ],
+       "LV": [
+        16.47,
+        "EUR"
+       ],
+       "LT": [
+        17.1,
+        "EUR"
+       ],
+       "LU": [
+        16.16,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1109.27,
+        "PHP"
+       ],
+       "RO": [
+        16.47,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.47,
+        "EUR"
+       ],
+       "CH": [
+        16.09,
+        "EUR"
+       ],
+       "MT": [
+        16.47,
+        "EUR"
+       ],
+       "CN": [
+        121.8,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.1,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.31,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.69,
+        "EUR"
+       ],
+       "CY": [
+        18.67,
+        "EUR"
+       ],
+       "AU": [
+        28.24,
+        "AUD"
+       ],
+       "GB": [
+        13.32,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.32,
+        "GBP"
+       ],
+       "IE": [
+        15.69,
+        "EUR"
+       ],
+       "ES": [
+        16.31,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.69,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.24,
+        "CAD"
+       ],
+       "SK": [
+        19.29,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.47,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.63,
+        "EUR"
+       ],
+       "AT": [
+        17.25,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$688 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$688."
+     },
+     {
+      "heading": "Pay AU$28.24 or more",
+      "tooltip": "Name your price of AU$28.24 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-08-27T18:00:00",
+    "author": "Macmillan Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Whether you\u2019re committed to the plant-based lifestyle or thinking about giving it a try, there\u2019s never been a better time to go vegan\u2014especially with this bundle of over 60 vegan cookbooks! We\u2019ve teamed up with Page Street Publishing for a treasure trove of recipes that bring the joys of veganism right to your home kitchen. If you\u2019re looking for Southern soul food with a vegetarian twist, scrumptious Mexican food that keeps things verde, delicious Asian-inspired meals for herbivores, or just tips on how to save while keeping your meals cruelty-free, you\u2019ll find all of that and so much more in this bundle! Grab these cooking ebooks at the price of your choice, and help support World Central Kitchen with your purchase!",
+    "tile_logo": "https://hb.imgix.net/aea8eefba51947fd4c44590e19559aa148a43891.png?auto=compress,format&h=340&w=1200&s=07aca8396c86f115a29216a98a3c6258",
+    "tile_short_name": "The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "start_date|datetime": "2026-07-30T18:00:00",
+    "hover_highlights": [
+     "61 books",
+     "US$688 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "short_marketing_blurb": "Powered by plants",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [
+     "CA"
+    ],
+    "highlights": [
+     "Pay What You Want",
+     "61 books",
+     "US$688 Value",
+     "Support Charity"
+    ]
+   }
+  ],
+  "tier_item_data": {
+   "urbo": {
+    "machine_name": "urbo",
+    "youtube_link": "xJyMYnUx07Q",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/urbo_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "91% Positive on Steam<br><br>URBO is a relaxing cozy city-building puzzle game where you create beautiful towns on floating islands. Begin with an empty grid of landscape, choose an architectural style and build. Watch the population grow and the city flourish. (Steam Deck Verified)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 7.79
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.75
+    },
+    "subtitle_html": null,
+    "description_text": "<i>URBO</i> offers you the opportunity to build towns on floating islands. You'll watch small houses grow into bigger ones, then bigger ones into even more, slowly filling the space for your town. When you run out of space on one island, a new one will appear, followed by another, and so on until you complete the level. <strong class=\"hmb\"> <br><br>IMMERSION AWAITS </strong> <br><br>Dive into the inimitable ambience of <i>URBO</i>, where landscapes delight the eye and puzzles evoke memories of mathematically precise riddles from ancient legends. You shall create cities that can only be seen in dreams. Dreams to be remembered and to which you'd wish to return. <i>URBO</i> is a unique mixture of visual minimalism, relaxing music, meditative game tempo, and puzzles that impress with their elegant solutions.<strong class=\"hmb\"><br><br>VARIETY AWAITS </strong> <br><br><i>URBO</i> invites you to visit myriad worlds. Futuristic cities floating in the abyss of open space. The capital, hidden in an impregnable canyon in the heart of the desert. The peaceful quarters of a small fishing village nestled on the shores of the Mediterranean Sea. <i>URBO</i> is where dreams of distant places come true. You shall see many worlds, existing ones, lost ones, and these that are yet to be found. The choice is yours.<strong class=\"hmb\"><br><br>ENIGMAS AWAIT </strong> <br><br><i>URBO</i> gives you hours of pleasant moments of contemplation. Under the disguise of simplicity lies a riddle that requires concentration. The riddle that generously rewards an attentive player. <i>URBO</i> is designed so that its nature is clear at first glance. But it will take time and experience to learn how to pick the keys to all the puzzles.<strong class=\"hmb\"><br><br>AN ENDLESS PATH AWAITS </strong> <br><br>There's no ultimate goal in <i>URBO</i>. The rules are very simple: build houses on playing fields of different geometric shapes. From small houses come bigger ones, then even bigger ones, and so on. Thus grows your city and the number of people who call it home. Maybe one day you can build a city that can't expand anymore. But even then there is always a new playing field of a different form, requiring a fresh approach.<strong class=\"hmb\"><br><br><i>URBO</i> AWAITS YOU ANYTIME </strong> <br><br>Take your mind off work for a quarter of an hour or spend an entire evening playing the game. Run it while waiting for guests or during a break from your favorite activities. Take a moment to pause if you're feeling stressed. Shift your attention when you realize you can't solve an important problem. Who knows, maybe it's <i>URBO</i> that holds the key to it.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/urbo.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "URBO",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Door 407",
+      "developer-url": "https://www.door407.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/2bd07132ff2fa8ab4994cf12352996cf4e73cfce.png?auto=compress,format&fit=clip&h=80&w=170&s=791abee33eb4c7d0e15669c11a69b810",
+     "featured_image": "https://hb.imgix.net/2bd07132ff2fa8ab4994cf12352996cf4e73cfce.png?auto=compress,format&w=300&s=1973d7463dd0edb09f77cc453ed8be2d",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/84be64ab5baa076d9cead8876280991823617830.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=ba2bf3d8f8f33a7eaee1929d50e0915f",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2bd07132ff2fa8ab4994cf12352996cf4e73cfce.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=afb494463b366ff4111499e4b9292942",
+     "front_page_art_imgix": "https://hb.imgix.net/2bd07132ff2fa8ab4994cf12352996cf4e73cfce.png?auto=compress,format&w=300&s=1973d7463dd0edb09f77cc453ed8be2d",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "URBO",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "diplomacyisnotanoption": {
+    "machine_name": "diplomacyisnotanoption",
+    "youtube_link": "T_eSY8Qg6mU",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/diplomacyisnotanoption_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>84% Positive on Steam<br><br>Diplomacy is Not an Option is a strategy game set in a medieval fantasy world. Build your town and defenses, raise huge armies and fight against massive hordes of enemies. How long can you survive? (Steam Deck Playable)<br></span>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 28.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 19.51
+    },
+    "subtitle_html": null,
+    "description_text": "<i>Diplomacy is Not an Option</i> is a base-building survival RTS with an active pause, taking place in a medieval fantasy setting, where your choices can decide the destiny of the world.<br><br>You step into the well-worn shoes of the minor Lord. Circumstances force you to fight. Like all the time. Always outnumbered. Build your walls, raise your armies, and experience warfare on an entirely new scale. Over 25 THOUSAND enemies assault your castle walls. You're going to master engineering, economy and even magic If you hope to survive. <strong class=\"hmb\"> <br><br>The Law Of War</strong><br>Your King is a mighty and powerful leader. Also, he is an egocentric pig. Adores to drink and in general he's enjoying his life. But after the treasury had emptied and even raising taxes had not helped, it became clear that he could not continue his leisurely lifestyle. Which is a problem. Mostly yours. Because peasants, who are not fond of raised taxes and hunger, are rioting in your feud. King demands you put down the rebellion and go to the distant land to get some gold. (Rumors are there is one where there are tons of it) Will you do as your sovereign bids and set sail to replenish the palace coffers? Will you join the violent leader of rebels to bring the tyrant to justice? Will you help poor natives of Uncharted Continent? Or will you cast aside human nature and ambition and lead armies of Undead? Questions, questions, questions. The one thing you can be sure of is that no matter what faction you support there will be blood anyway. And legions of archers, swordsmen, siege weapons, knights, and more will be staying by your side for you to achieve your goal. <strong class=\"hmb\"> <br><br>The Physical Laws</strong><br>While admittedly tongue-in-cheek, the laws of physics are still deadly serious in <i>Diplomacy Is Not An Option</i>. Every arrow, catapult stone and enemy launched skywards is physically modeled, making for a tactile and coherent battlefield. Just make sure your troops have towers to shoot from and clear lines of sight, or you might find your best-laid plans embarrassingly blunted by your own fortifications. Consider your gates, your lines of advancement and retreat. Create kill-zones and fall-back positions. You will need to take an active role in combat to get the best from your men. <strong class=\"hmb\"> <br><br>The Laws of a Functional Society</strong><br>Even under siege, never forget your castle was built on the backs of the peasantry. Defend your people, and they\u2019ll serve you well. Engage in agriculture and farming, or food can become scarce, and your soldiers can starve on the battlefield. Build houses, bury fallen soldiers and peasants to prevent plague, and treat the infected when death comes knocking. If you do not care for your people you may soon find yourself overrun with the most unpleasant troubles. Like empty stockpiles, unrepaired walls and running dry barracks\u2026 or be overrun literally with swarms of zombies. And no lord wishes to see zombie apocalypse in the backyard of his castle, right? <strong class=\"hmb\"> <br><br>Economic Laws</strong><br>A functional army requires a functional economy to support and feed it. Food, Wood, Stone, Iron, and Gold are the foundations of your city\u2019s economy, and you will need to watch your supplies carefully if you are to meet the advancing foe in a timely manner. Gather resources, choose your storage locations, plan your expansions and upgrades with care. The enemy will not cede their lands willingly, and unprotected civilian expansions will have consequences of falling prey to the hostile incursion. Trade, via the impressive merchant dirigible, bringing emergency supplies of food to feed the men, or stone to rebuild the walls. Can you strike the balance between greedy expansion and security? <strong class=\"hmb\"> <br><br>Magic rules!</strong><br>If life gives you lemons, make lemonade. If you\u2019ve inherited a cursed kingdom, why not master the dark arts? Sturdy castle walls will protect you from most ordinary threats, but in <i>Diplomacy Is Not An Option</i> you're also be battling undeads. So why give them a monopoly on magic? There is a dark history of tainted power that stirs zombies and traps wayward souls. On the lighter side: it can also be used to call down really very big fireballs onto your enemies. So enjoy that too. Build magical monuments, harvest soul crystals and give a try to a maniacal laugh as searing magical beams tear through your foes and summoned ghosts to chase down the stragglers. <strong class=\"hmb\"> <br><br>Beyond the rules</strong><br>The game has been designed with freedom as a core concept. Go beyond the campaign and crush your foes as you see fit in Endless Mode, Sandbox Mode or Challenge Mode. Develop your own personal strategies on procedurally generated maps. Go heavy on walls early, build large armies of cannon-fodder, or pursue the macro game of greedy growth and costly investments. Play battles in real-time or use pause constantly to keep everything in your hands. Will you be able to stand on a par with the most acclaimed generals in the world, like Joan of Arc and Genghis Khan? Finding which style grants you the most success is up to you. <strong class=\"hmb\"> <br><br>The fundamental Laws of life </strong> <br>As in real life, stupidity and greed lie behind most problems, but here it is far too late to talk it through. You have no recourse to resolve this peacefully. At this stage: <i>Diplomacy Is Not an Option</i>!",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/diplomacyisnotanoption.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Diplomacy is Not an Option",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Door 407",
+      "developer-url": "https://www.door407.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "mobile": {},
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/5ac74e8a1157784f5e3212ec31b96abfb1c316b8.png?auto=compress,format&fit=clip&h=80&w=170&s=cefecc6d2658051e3000a79392a14669",
+     "featured_image": "https://hb.imgix.net/5ac74e8a1157784f5e3212ec31b96abfb1c316b8.png?auto=compress,format&w=300&s=0c414e8510088ceee85e42cda0fba6cc",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/edc8958c445ae54fddb1218499f518b84a72f074.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=709c9c5cf3537eb7f4c4cd53e93a27e6",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/5ac74e8a1157784f5e3212ec31b96abfb1c316b8.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=0dd5ce1f140b302aaf7a94ac2e62877c",
+     "front_page_art_imgix": "https://hb.imgix.net/5ac74e8a1157784f5e3212ec31b96abfb1c316b8.png?auto=compress,format&w=300&s=0c414e8510088ceee85e42cda0fba6cc",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Diplomacy is Not an Option",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "terratechprospectoredition": {
+    "machine_name": "terratechprospectoredition",
+    "youtube_link": "H9pgygIU760",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx",
+        "hb-linux"
+       ],
+       "unavailable": []
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/terratech_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "92% Positive on Steam<br><br>Prospector Edition! Design, craft, and pilot custom modular vehicles and bases across open-world alien landscapes, packed with bonus DLC content packs. (Steam Deck Playable)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Mythwright",
+      "publisher-url": "https://mythwright.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 83.47
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 19.51
+    },
+    "subtitle_html": null,
+    "description_text": "<p>Experience everything TerraTech has to offer as you explore, build, craft and battle to become the ultimate planetary prospector!<br><br>Design cars, tanks and planes from a huge library of blocks. Scavenge, craft and buy new parts in order to survive. Experiment with your creations in R&amp;D Labs and customise your Techs with unique blocks and themed skins.<br><br>The Prospector Edition includes:</p>\n<ul class=\"bb_ul\">\n<li>TerraTech</li>\n<li>R&amp;D Labs</li>\n<li>Weapons of War Pack</li>\n<li>To the Stars Pack</li>\n<li>Fantabulous Contraptions Pack</li>\n<li>Warriors of Future Past Pack</li>\n<li>Falcon Genesis Pack</li>\n<li>Kickstarter Skin Pack</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/terratechprospectoredition.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "TerraTech Prospector Edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Payload Studios",
+      "developer-url": "https://payloadstudios.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/1b65ec4d98e1985bf62cd260b5bdf184394fb9ae.png?auto=compress,format&fit=clip&h=80&w=170&s=7be2afafe526c0a9aaf29d7cc6f7cd1b",
+     "featured_image": "https://hb.imgix.net/1b65ec4d98e1985bf62cd260b5bdf184394fb9ae.png?auto=compress,format&w=300&s=8a8bd2c1d7591115fe6a713e77f251fa",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/c8ad7a312a6c14fad45ddf209d2f5cab0056575b.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=4c6a7cdb7e55fd2f8a034d9b2d75e526",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/1b65ec4d98e1985bf62cd260b5bdf184394fb9ae.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=f8222fd33ce659dce9563992ce00e5d2",
+     "front_page_art_imgix": "https://hb.imgix.net/1b65ec4d98e1985bf62cd260b5bdf184394fb9ae.png?auto=compress,format&w=300&s=8a8bd2c1d7591115fe6a713e77f251fa",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "TerraTech Prospector Edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "iamfuture_cozyapocalypsesurvival": {
+    "machine_name": "iamfuture_cozyapocalypsesurvival",
+    "youtube_link": "rIS808elfmg",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/iamfuture_cozyapocalypsesurvival_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "83% Positive on Steam<br><br>The ultimate cozy rooftop survival builder\u2014relax, farm, tinker with gadgets, and automate camp chores with cute robot companions in a flooded paradise. (Steam Deck Verified)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "tinyBuild",
+      "publisher-url": "https://www.tinybuild.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 25.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.75
+    },
+    "subtitle_html": null,
+    "description_text": "<a href=\"https://discord.com/invite/JE7E6ZYhS2\"></a>You wake up on an overgrown skyscraper roof - not a living soul in sight. <strong> Cosmopolis </strong> , once a mighty array of metal and glass, lies shattered in ruins and flooded. The decades-long struggle between UNICORP and the rival corporations pursuing transhumanism ideas seems to have been over for good when society collapsed. Now it is up to you to try and solve the mystery of the last days of civilization... and your sudden awaking. Or you can just build your own future and enjoy the view of what remains of humankind. <strong> <br><br>TURN THE ABANDONED ROOF INTO YOUR OWN COZY HOME </strong> <br>Starting from scratch on an empty roof, explore your surroundings, find the necessary resources, tools and gadgets. <br><strong><br>CRAFT GADGETS OUT OF ANCIENT HOME APPLIANCES </strong> <br>Old microwaves, rusty cars and antique computers - all will be handy! Carefully disassemble the devices to get the necessary details and put them to use for creating futuristic gadgets according to the blueprints you\u2019ll get you hands on. By the way, have we mentioned that you will get to have a cyborg hand? Upgrade it too! <br><strong><br>AUTOMATE YOUR CHORES </strong> <br>Make some friends so you won\u2019t get too lonely! Upload AI into buildings. Create bots that do your chores. <br><strong><br>FISHING, FARMING, AND COOKING </strong> <br>The benefits of the collapse of human civilization? There\u2019s now enough time to pick up new hobbies! The roof is very well suited for building a garden, and the surrounding sea is full of tasty fish for the tastiest Mediterranean dishes to cook! <br><br><strong>PROTECT YOUR BASE </strong> <br>Nature seems to have changed significantly after all, and there are new dangers not known to humans before. Build your defense structures and be cautious! <br><strong><br>EXPLORE THE SUNKEN CITY AND ITS MYSTERIES </strong> <br>What exactly happened with the civilization and how did you end up on the roof? The answers lay somewhere in the city ruins - would you try to get to the bottom of it?",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/iamfuture_cozyapocalypsesurvival.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "I Am Future: Cozy Apocalypse Survival",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Mandragora"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "mobile": {},
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/0656dbdc7739e82e212e1ef71465985ee130bf48.png?auto=compress,format&fit=clip&h=80&w=170&s=7a3ed24f639dd08544b444b9aec87794",
+     "featured_image": "https://hb.imgix.net/0656dbdc7739e82e212e1ef71465985ee130bf48.png?auto=compress,format&w=300&s=e30b785d423b97f33065dd313deb81ff",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/573248001113310a9e30095227d6f7e8fa5008d7.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=f21bcecec25aee4d443fbbf155add369",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/0656dbdc7739e82e212e1ef71465985ee130bf48.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=03bfb76f564673f5f85dd6bd0f92df71",
+     "front_page_art_imgix": "https://hb.imgix.net/0656dbdc7739e82e212e1ef71465985ee130bf48.png?auto=compress,format&w=300&s=e30b785d423b97f33065dd313deb81ff",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "I Am Future: Cozy Apocalypse Survival",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "gourdlets": {
+    "machine_name": "gourdlets",
+    "youtube_link": "PKBM5lVu32g",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx",
+        "hb-linux"
+       ],
+       "unavailable": []
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/gourdlets_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "92% Positive on Steam<br><br>Pure stress-free sandbox building\u2014design adorable towns for cute vegetable folks with zero fail states, zero currency, and 100% good vibes. (Steam Deck Playable)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Future Friends Games",
+      "publisher-url": "https://futurefriends.lol/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 6.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.75
+    },
+    "subtitle_html": null,
+    "description_text": "Choo choo! The train is pulling into the station, bringing the very first batch of gourdlet citizens to their new island home. Your job is to build them a perfect town. <br><br>But don\u2019t worry \u2013 <i>Gourdlets</i> are super laid back, and they\u2019ll be happy no matter what you build. The only real challenge is pleasing yourself! <br><br>From cafes to lighthouses, planters to fountains, there\u2019s a huge catalogue of decorations to play with. You can even go inside buildings and arrange the furniture how you like. <br><br>The <i>gourdlets</i> will make themselves at home in your town, fishing, reading, camping, snoozing, and generally having a grand old time. Craft the perfect veggie town in Gourdlets! <br><br>You can choose to play in full screen, or in \u201cidle window mode\u201d to let your <i>gourdlets</i> hang out at the bottom of your screen while you get on with other things on your PC. <br><strong><br>Features: </strong> <br>\n<ul>\n<li>Build a perfect town and watch the adorable <i>gourdlets</i> inhabit your world!</li>\n<li>A super chill game with no objectives or fail states!</li>\n<li><i>Gourdlets</i> hang out at the bottom of your screen in idle window mode!</li>\n<li>Customize your Gourdlet citizens with cute accessories!</li>\n<li>Day-night cycles and customizable weather!</li>\n<li>A huge catalogue of buildings and decorations!</li>\n<li>Choose from a variety of starter maps for an extra creative challenge!</li>\n<li>Zero currency! (Capitalism makes the <i>gourdlets</i> tired)</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/gourdlets.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Gourdlets",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "AuntyGames",
+      "developer-url": "https://gourdlets.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/97402c7be95d2ebd2f68d70ba427d74b5625493e.png?auto=compress,format&fit=clip&h=80&w=170&s=0e9922b37c0a804d1149171807ffc27d",
+     "featured_image": "https://hb.imgix.net/97402c7be95d2ebd2f68d70ba427d74b5625493e.png?auto=compress,format&w=300&s=655f44535d8b6ef7b07f84cb7cb418f1",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/c9c2d8c88a046d7fc000f2a820ab9ab3503840a0.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=6f5dd24b8bbd524181d980e3d93ba14e",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/97402c7be95d2ebd2f68d70ba427d74b5625493e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=22dd16d5ca4fa3f525a181a295c3c4cd",
+     "front_page_art_imgix": "https://hb.imgix.net/97402c7be95d2ebd2f68d70ba427d74b5625493e.png?auto=compress,format&w=300&s=655f44535d8b6ef7b07f84cb7cb418f1",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Gourdlets",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "peraspera_deluxe": {
+    "machine_name": "peraspera_deluxe",
+    "youtube_link": "h0naJKWGp4c",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/peraspera_deluxe_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "84% Positive on Steam<br><br>Deluxe Edition! Planet-scale sci-fi terraforming sim where you harness advanced AI to transform Mars into a lush, habitable world with the complete expansion content. (Steam Deck Playable)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Raw Fury",
+      "publisher-url": "https://rawfury.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 56.40284222241247
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 13.93
+    },
+    "subtitle_html": null,
+    "description_text": "Enjoy your time off-world with the Deluxe Edition of Per Aspera that contains the Planet-builder game from Tl\u00f6n Industries and Raw Fury, an Audiobook featuring an all-star cast, a Digital Artbook, and Per Aspera\u2019s Original Soundtrack with music from IGF-winner Tomas Batista.<br><br><strong>Per Aspera</strong><br>Experience planet-building as never before \u2014 Overcome near-impossible odds to Terraform Mars, cultivate the red-planet\u2019s hidden resources, and unravel the past mysteries of those who\u2019ve attempted the unbelievable feat. Humanity's future rests on your shoulders. <br><br><strong>OST</strong><br>Be transported to the red planet of Mars with the original accompaniment from Tl\u00f6n Industries\u2019 planet-builder, Per Aspera. IGF-winner, Tomas Batista, has scored the perfect Martian soundtrack to take you away to the unforgiving surface of the Red Planet.<br><br><strong>Audiobook</strong> <br>Take your Per Aspera experience offline! Listen to the commanding performance of an all-star cast recreate the climactic story of humanity's attempt to Terraform Mars. All the narrative action you want, none of the work to get it!<br><br><strong>Artbook</strong><br>Through the use of NASA technologies, Tl\u00f6n Industries has allowed players to step onto the surface of Mars from the comfort of home. Now you can get even closer to the planet\u2019s surface with a stunning, digital artbook that features gorgeous art from Per Aspera.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/peraspera_deluxe.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Per Aspera Deluxe Edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Tl\u00f6n Industries",
+      "developer-url": "https://tlon.vg/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "mobile": {},
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/d9a20e5ae81c28c41f6a84d7ff747c665f22eb19.png?auto=compress,format&fit=clip&h=80&w=170&s=9cc48e36007d506d76b73b9f7244a3c7",
+     "featured_image": "https://hb.imgix.net/d9a20e5ae81c28c41f6a84d7ff747c665f22eb19.png?auto=compress,format&w=300&s=6b44ab455bc7958261a113013f422bd5",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/c9b2e09b55ca1fdabbfd579b7652591ef19803c9.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=7f3af77ccd90cadb4dc0afa70f78de34",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/d9a20e5ae81c28c41f6a84d7ff747c665f22eb19.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=e89c4041dd0d64d8d6fe58010bf7a0bf",
+     "front_page_art_imgix": "https://hb.imgix.net/d9a20e5ae81c28c41f6a84d7ff747c665f22eb19.png?auto=compress,format&w=300&s=6b44ab455bc7958261a113013f422bd5",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Per Aspera Deluxe Edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "endzone2deluxe": {
+    "machine_name": "endzone2deluxe",
+    "youtube_link": "ztpog872bMA",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/endzone2_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "66% Positive on Steam<br><br>Post-apocalyptic survival colony sim\u2014explore toxic ruins, establish thriving settlements, and lead humanity's survival in a harsh, reshaped world. (Steam Deck Playable)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Assemble Entertainment"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 61.92470250834689
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 13.93
+    },
+    "subtitle_html": null,
+    "description_text": "The Endzone 2 Deluxe Edition bundle contains the main game, the atmospheric soundtrack that's going to be expanded during Early Access as well as the artbook containing beautiful artworks from the World of Endzone.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/endzone2deluxe.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Endzone 2 Deluxe Edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Gentlymad Studios"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "mobile": {},
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/c0a35e03abd7e38b0b4ee8befd7fb30e067f0cef.png?auto=compress,format&fit=clip&h=80&w=170&s=188ce0e3bbc42e18bdd231cec8503c66",
+     "featured_image": "https://hb.imgix.net/c0a35e03abd7e38b0b4ee8befd7fb30e067f0cef.png?auto=compress,format&w=300&s=ec2584f7021a608efa28cdc7a5242c95",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/916941e643742014b55f5fb6537a47cd9394fa03.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=38b4d125619ffcd28db7d8f6c28823bf",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/c0a35e03abd7e38b0b4ee8befd7fb30e067f0cef.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=c75ed44fed2619cf9a201e967ef32436",
+     "front_page_art_imgix": "https://hb.imgix.net/c0a35e03abd7e38b0b4ee8befd7fb30e067f0cef.png?auto=compress,format&w=300&s=ec2584f7021a608efa28cdc7a5242c95",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Endzone 2 Deluxe Edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "steamworldbuild": {
+    "machine_name": "steamworldbuild",
+    "youtube_link": "RCfu_yvx2gI",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/steamworldbuild_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "83% Positive on Steam<br><br>Charming hybrid of western town-builder and subterranean dungeon crawler\u2014build above ground while digging for ancient steam-powered technology below. (Steam Deck Playable)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Thunderful Publishing",
+      "publisher-url": "https://thunderfulgames.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 32.5
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 13.93
+    },
+    "subtitle_html": null,
+    "description_text": "<p><strong> Break ground on a new frontier as the planet dies around you\u2026 </strong> <br><br>The world is ending and you need to escape! Thankfully Astrid knows there is untapped technology deep in the mines that can help you. But in order to get to it, you\u2019ll need to grow your Steambot town, manage your resources, open your mines and explore the shadowy depths below. Have you got what it takes to escape this crumbling rock?<br><br><i>SteamWorld Build</i> is a casual city-building and dungeon-management cross-over set in the SteamWorld universe. It offers a unique and accessible entry to both genres, alongside charming hand-drawn art and a delightful soundtrack.<span> </span></p>\n<ul>\n<li>\n<p><strong> Intuitive City Building: </strong> Easily construct and manage your city with simple controls and a user-friendly interface.</p>\n</li>\n<li>\n<p><strong> Dungeon Exploration: </strong> Navigate hand-crafted mines, overcome puzzles, and claim valuable treasures. But beware! Dangers lurk in the darkness.</p>\n</li>\n<li>\n<p><strong> Strategic Resource Management: </strong> Balance your resources to ensure your city thrives and your residents stay productive.</p>\n</li>\n<li>\n<p><strong> Charming SteamWorld Aesthetic: </strong> Immerse yourself in the beloved SteamWorld universe with its distinctive art style and whimsical characters.</p>\n</li>\n<li>\n<p><strong> Relaxing Gameplay: </strong> Enjoy a laid-back yet fulfilling experience with four difficulty levels, five base maps, and six additional themed maps to explore, including:</p>\n<p>- Jingle Bolts</p>\n<p>- Dorado Quest</p>\n<p>- Mechanical Meadows</p>\n<p>- Crash Site</p>\n<p>- Steam Wave</p>\n<p>- Skull Valley</p>\n<p>- Steam Fright</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/steamworldbuild.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "SteamWorld Build",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "The Station"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/9f8a611822a7f8bc74de32cce00e19d6a49eddca.png?auto=compress,format&fit=clip&h=80&w=170&s=11496a391d51a253132ed065d5eacde8",
+     "featured_image": "https://hb.imgix.net/9f8a611822a7f8bc74de32cce00e19d6a49eddca.png?auto=compress,format&w=300&s=4d5af088781f8bd870b6f27388c9245f",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/edb03f8bd61e8593642e4f08994727a76f55d865.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=dabe9a66e3faec1e78d986aa181fe81a",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/9f8a611822a7f8bc74de32cce00e19d6a49eddca.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=c53b9171bef0851ce7afaa2a61969f31",
+     "front_page_art_imgix": "https://hb.imgix.net/9f8a611822a7f8bc74de32cce00e19d6a49eddca.png?auto=compress,format&w=300&s=4d5af088781f8bd870b6f27388c9245f",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "SteamWorld Build",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "frostpunk_gameoftheyear": {
+    "machine_name": "frostpunk_gameoftheyear",
+    "youtube_link": "1VEKpJBX8V4",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/frost_punk_gotye_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "92% Positive on Steam<br><br>GAME OF THE YEAR EDITION! Survival city-building at its finest\u2014lead the last city on Earth through a freezing apocalypse with tough moral choices and all DLC expansions included. (Steam Deck Playable)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 89.45138258710726
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 19.51
+    },
+    "subtitle_html": null,
+    "description_text": "<div id=\"game_area_description\" class=\"game_area_description bundle_description\">\n<p><strong>Frostpunk: Game of the Year Edition</strong><span>&nbsp;</span>consists of:<br><br><strong>Frostpunk</strong><span>&nbsp;</span>\u2013 the full version of the highly acclaimed society survival game, which sold over 1 500 000 copies worldwide and won a number of critics awards.<br><br><strong>Frostpunk Season Pass</strong><span>&nbsp;</span>- a set of three expansions of the Frostpunk universe:</p>\n<ul class=\"bb_ul\">\n<li><strong>The Last Autumn</strong><span>&nbsp;</span>is a turning point in the Frostpunk universe. Revealing the restless events of Site 113 and its struggle to construct the generator before the freezing veil shrouds the Earth, this prequel expansion broadens the Frostpunk universe by introducing a new environment, new Books of Laws and unique technologies, and presents a range of new buildings \u2014 all of which let you shape society and the city in unconventional ways.<br><br></li>\n<li><strong>On The Edge</strong><span>&nbsp;</span>expansion tells a story of citizens of New London sent for a special assignment after the Great Storm. It not only opens a brand new chapter set in the Frostpunk universe but also pits you against new challenges and offers unique mechanics, both in the city and on the Frostland map - further enriching the core experience.<br><br></li>\n<li><strong>The Rifts</strong><span>&nbsp;</span>allows you to experience a new level of challenge on a brand new Endless Mode map, where the land itself threatens your survival. Using a new gameplay mechanic, bridge the rifts to access new areas. Expand the city to save your people from the inevitable doom!</li>\n</ul>\nAlso, you\u2019ll get additional digital content:<br><br>\n<ul class=\"bb_ul\">\n<li><strong>Frostpunk Original Soundtrack</strong><span>&nbsp;</span>- it's the original soundtrack from the game, composed by Piotr Musia\u0142 and performed by Atom String Quartet &amp; Sofia Session Orchestra. All tracks mastered and mixed for the digital version of the album, delivered in all popular formats.<br><br></li>\n<li><strong>Frostpunk Digital Artbook</strong><span>&nbsp;</span>- presents all the unique art from the game as well as the history of people working on the visual design, concept art and inspirations.</li>\n</ul>\n<h2 class=\"bb_tag\"><strong>ABOUT THE GAME</strong></h2>\nFrostpunk is a blend of city-builder, society survival and a strategy game where heat means life and every decision comes at a price. In an entirely frozen world, people develop steam-powered technology to oppose the overwhelming cold. You face the task of building the last city on Earth and securing the means necessary for your community to survive.<br><br>Optimization and resource management often clash with empathy and thoughtful decision-making. While city and society management will consume most of the ruler\u2019s time, at some point exploration of the outside world is necessary to understand its history and the present state.<br><br>What decisions will you make to ensure the survival of your society? What will you do when pushed to the limit? And who will you become in the process?\n<p></p>\n</div>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Frostpunk: Game of the Year edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "11 bit studios",
+      "developer-url": "http://www.11bitstudios.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/79def2d445498a74662604d02826bf9cb18932db.png?auto=compress,format&w=300&s=8364e8cefb442cfa047e226b3dd2c11d",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Frostpunk: Game of the Year edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "herfuturecoalition": {
+    "machine_name": "herfuturecoalition",
+    "youtube_link": null,
+    "item_content_type": null,
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": null,
+    "featured_image": null,
+    "ppgf_info": {
+     "category": "Human Services,International",
+     "city": "Saint Augustine",
+     "description": "SINCE 2005, HER FUTURE COALITION - A PROJECT OF TEN CHARITIES- HAS PROVIDED SHELTER, EDUCATION, AND HIGH-WAGE EMPLOYMENT TO SURVIVORS OF HUMAN TRAFFICKING AND EXTREME ABUSE SO THAT THEY MAY REMAIN FOREVER FREE.   SINCE 2005, WE HAVE HELPED THOUSANDS OF WOMEN AND CHILDREN TO BUILD A BRIGHT AND INDEPENDENT FUTURE.",
+     "url": "http://www.madebysurvivors.com",
+     "country": "US",
+     "charity_id": "1755591",
+     "state": "FL",
+     "keywords": "human trafficking, girls education, slavery, women's empowerment, women and girls",
+     "human_name": "Her Future Coalition",
+     "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FMmIwNDhmMmMtYjhmMS00OTJmLWI3OGUtNmNmOWNhZDJhNDcw%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=6dee2bca980dad128ddcb64bc75f05eb"
+    },
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "subtitle_html": null,
+    "description_text": "<p><em>Donations to support Her Future Coalition are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.</em><br><br>Her Future Coalition breaks intergenerational cycles of poverty and exploitation. Working with trusted local partners in India, Nepal, and Kenya, we provide shelter, education, and job training so survivors of gender-based violence - and girls at the highest risk - can become, and remain, free.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Her Future Coalition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Her Future Coalition",
+      "developer-url": "https://herfuturecoalition.org/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {},
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": null,
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Her Future Coalition",
+    "is_mystery_box": null,
+    "payee_secondary_id": "1755591",
+    "wallet_credit": {}
+   },
+   "drillcore": {
+    "machine_name": "drillcore",
+    "youtube_link": "moFPrgKjzV8",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/drillcore_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "84% Positive on Steam<br><br>High-octane sci-fi mining strategy meets tower defense\u2014manage workers, dig deep for rare minerals, and defend your drill platform against deadly alien swarms. (Steam Deck Playable)",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "tinyBuild",
+      "publisher-url": "https://www.tinybuild.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 25.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 19.51
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">Join Our Elite Platform Manager Team at DrillCore! </strong> <br><br>Are you ready to lead a team of exceptional talent in one of the most challenging environments known to humankind? <strong> At DrillCore, we're not just mining minerals; we're safeguarding the future. </strong> We're looking for strategic minds and resourceful leaders to manage our cutting-edge operations. Do you have what it takes to make every decision count in the race <span> to profits &amp; earnings </span> against climate collapse? <br><br><strong> Your 'Exciting' Mission: Lead, Manage, Innovate </strong> <br><strong class=\"hmb\"><br>Strategic Leadership </strong> <br><br>As a Platform Manager at DrillCore, you'll oversee a dedicated team of miners, carriers, and guards. Your mission? Navigate them through perilous missions to extract vital minerals and power our drill platform. <strong> Every strategic decision will test your planning and resource management skills. </strong> You\u2019ll report directly to your Sector Manager, he will make sure you keep the operation running smoothly, whatever the pressure you\u2019re under. <br><strong class=\"hmb\"><br>Operational &amp; Safety Excellence </strong> <br><br><strong> Nighttime is when the real excitement begins. </strong> This is when the planet's fauna usually clash directly with our company\u2019s safety commitments. Your job? To maintain profits while safeguarding both the lives of your crew and the biodiversity of the planet you\u2019re drilling. Sometimes tough choices need to be made, and that\u2019s why <strong> DrillCore equips you with state-of-the-art defensive turrets </strong> . Remember, <strong> it's NOT a crime against biodiversity if it\u2019s self-defense. </strong> <br><strong class=\"hmb\"><br>Innovation and Adaptability </strong> <br><br><strong> At DrillCore, no two challenges are the same. </strong> Unpredictable wildlife, evolving requirements, and ever-changing technologies will keep you on your toes. Adapt swiftly, allocate resources efficiently, and develop innovative strategies to overcome the unexpected. Your success unlocks new career opportunities and advancements, pushing the boundaries of what's possible. <br><br>Join us at DrillCore and become a part of a mission that matters. Apply your strategic mind, lead with confidence, and make a real impact. <strong> Are you ready to drill to the core? </strong>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/drillcore.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Drill Core",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Hungry Couch Games",
+      "developer-url": "https://hungrycouchgames.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/ddf6ee38b9fd2b4f8198459965b3bfd105f6429e.png?auto=compress,format&fit=clip&h=80&w=170&s=7360d66a9c1e38a06d250f88810363e5",
+     "featured_image": "https://hb.imgix.net/ddf6ee38b9fd2b4f8198459965b3bfd105f6429e.png?auto=compress,format&w=300&s=7d8488f2b4618d0211dcb4590c6dfc84",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/e06567a8d0094d04bd1a88031aefda7c07adef18.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=b137556f65156b2ca7bf0839d6bc4f14",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/ddf6ee38b9fd2b4f8198459965b3bfd105f6429e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=339a6d897d973736145dd1a910d83da8",
+     "front_page_art_imgix": "https://hb.imgix.net/ddf6ee38b9fd2b4f8198459965b3bfd105f6429e.png?auto=compress,format&w=300&s=7d8488f2b4618d0211dcb4590c6dfc84",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Drill Core",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   }
+  },
+  "splits": [
+   {
+    "partner_split|decimal": 0.6,
+    "name": "Publishers",
+    "extra_charity_partner_split|decimal": 0.525,
+    "extra_charity_split|decimal": 0.575,
+    "sibling_split|decimal": 0.65,
+    "class": "publisher"
+   },
+   {
+    "partner_split|decimal": 0.05,
+    "name": "Her Future Coalition",
+    "extra_charity_partner_split|decimal": 0.15,
+    "extra_charity_split|decimal": 0.15,
+    "secondary_id": "1755591",
+    "sibling_split|decimal": 0.05,
+    "class": "paypalgivingfund"
+   },
+   {
+    "partner_split|decimal": 0.2,
+    "name": "Humble Tip",
+    "extra_charity_partner_split|decimal": 0.175,
+    "extra_charity_split|decimal": 0.275,
+    "minimum_split|decimal": 0.15,
+    "sibling_split|decimal": 0.3,
+    "class": "humblebundle"
+   }
+  ],
+  "upsell_data": {
+   "monthly_v2_premium": {
+    "category": "subscriptionplan",
+    "image_url": "https://hb.imgix.net/dbff2288ba058d5ab35f145358617bcf487a6c6e.png?auto=compress,format&fit=crop&h=353&w=616&s=b73537cf9c1f7b9d7afcd3188cdfb1ff",
+    "machine_name": "monthly_v2_premium",
+    "description": "",
+    "discount_percentage|decimal": 5.0,
+    "full_price|money": {
+     "currency": "CAD",
+     "amount": 17.99
+    },
+    "renewal_date|datetime": "2026-09-29T17:00:00",
+    "subscription_content_product": "august_2026_choice",
+    "active_content_end_time|datetime": "2026-09-01T17:00:00",
+    "disallow_subscription_discount": null,
+    "subscription_credits": 1,
+    "human_name": "Month-to-Month Plan",
+    "current_price|money": {
+     "currency": "CAD",
+     "amount": 17.09
+    },
+    "active_content_start_time|datetime": "2026-08-04T17:00:00"
+   }
+  },
+  "statistics_data": {
+   "total_charity_raised|money": {
+    "currency": "CAD",
+    "amount": 12775.0
+   },
+   "num_purchases|decimal": 5842.0
+  },
+  "charity_data": {
+   "charity_items": {
+    "herfuturecoalition": {
+     "machine_name": "herfuturecoalition",
+     "youtube_link": null,
+     "item_content_type": null,
+     "soundtrack_listing": {
+      "hide_listing": null,
+      "tracks": []
+     },
+     "user_ratings": {},
+     "limited_content": null,
+     "availability_icons": null,
+     "featured_image": null,
+     "ppgf_info": {
+      "category": "Human Services,International",
+      "city": "Saint Augustine",
+      "description": "SINCE 2005, HER FUTURE COALITION - A PROJECT OF TEN CHARITIES- HAS PROVIDED SHELTER, EDUCATION, AND HIGH-WAGE EMPLOYMENT TO SURVIVORS OF HUMAN TRAFFICKING AND EXTREME ABUSE SO THAT THEY MAY REMAIN FOREVER FREE.   SINCE 2005, WE HAVE HELPED THOUSANDS OF WOMEN AND CHILDREN TO BUILD A BRIGHT AND INDEPENDENT FUTURE.",
+      "url": "http://www.madebysurvivors.com",
+      "country": "US",
+      "charity_id": "1755591",
+      "state": "FL",
+      "keywords": "human trafficking, girls education, slavery, women's empowerment, women and girls",
+      "human_name": "Her Future Coalition",
+      "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FMmIwNDhmMmMtYjhmMS00OTJmLWI3OGUtNmNmOWNhZDJhNDcw%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=6dee2bca980dad128ddcb64bc75f05eb"
+     },
+     "is_region_locked": false,
+     "exclusive_countries": [],
+     "display_user_ratings": null,
+     "rating_details": "",
+     "front_page_art_enabled": true,
+     "rating_info": null,
+     "callout": null,
+     "subscribe_text": null,
+     "all_ratings": {
+      "rar-rating": null,
+      "esrb-rating": null,
+      "pegi-rating": null,
+      "oflc-nz-rating": null,
+      "oflc-au-rating": null,
+      "usk-rating": null
+     },
+     "cta_badge": null,
+     "book_preview": null,
+     "publishers": [],
+     "show_rating": null,
+     "side_box_art_text": null,
+     "third_party_subscribe_text": null,
+     "msrp_price": null,
+     "subtitle_html": null,
+     "description_text": "<p><em>Donations to support Her Future Coalition are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.</em><br><br>Her Future Coalition breaks intergenerational cycles of poverty and exploitation. Working with trusted local partners in India, Nepal, and Kenya, we provide shelter, education, and job training so survivors of gender-based violence - and girls at the highest risk - can become, and remain, free.</p>",
+     "user_ratings_css_class": "none",
+     "wide_hero_art": false,
+     "front_page_art": {
+      "image_path": null,
+      "title": null,
+      "resolved_paths": {},
+      "image_text": "Her Future Coalition",
+      "link": null,
+      "badge_info": {
+       "badge_tooltip": null,
+       "badge_number": null,
+       "badge_type": null
+      }
+     },
+     "preview_image": null,
+     "developers": [
+      {
+       "developer-name": "Her Future Coalition",
+       "developer-url": "https://herfuturecoalition.org/"
+      }
+     ],
+     "is_clickable": true,
+     "platforms_and_oses": {},
+     "resolved_paths": {
+      "front_page_art_charity_imgix": null,
+      "featured_image": null,
+      "front_page_art_imgix_retina": null,
+      "front_page_art_charity_imgix_retina": null,
+      "front_page_art_imgix": null,
+      "preview_image": null
+     },
+     "disallowed_countries": [],
+     "front_page_url": null,
+     "tall_hero_art": false,
+     "human_name": "Her Future Coalition",
+     "is_mystery_box": null,
+     "payee_secondary_id": "1755591",
+     "wallet_credit": {}
+    }
+   },
+   "header": "",
+   "charity_item_machine_names": [
+    "herfuturecoalition"
+   ]
+  },
+  "page_url": "games/built-differently-builder-games"
+ }
+}

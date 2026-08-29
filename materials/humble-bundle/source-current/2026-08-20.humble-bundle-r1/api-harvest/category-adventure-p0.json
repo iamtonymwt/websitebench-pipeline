@@ -1,0 +1,1052 @@
+{
+ "num_results": 5684,
+ "page_index": 0,
+ "request": 1,
+ "num_pages": 285,
+ "results": [
+  {
+   "standard_carousel_image": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=206&w=360&s=036362934b3193e35c705a60ca172efb",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "bonelab_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=84&w=135&s=b87520a8275dccd88ef4cb6ca9c1ad01",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "bonelab",
+   "platforms": [
+    "oculus-rift",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "oculus-rift"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=154&w=270&s=8b51361966a55f6cd36c40c73337b865",
+   "large_capsule": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=41c08fd51c679e8a5d6e3a3227020f12",
+   "human_name": "BONELAB",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/59e315853fd09645cbf9902c02b52ba67109996b.jpg?auto=compress,format&fit=crop&h=64&w=103&s=949077ab354cf2acb23ce641603c9f1f",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 45.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 36.79
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/303b92a6bb65cd336cb174b073f316dd78f3a945.png?auto=compress,format&fit=crop&h=206&w=360&s=b9416b174389cd36973ccaf263cd405c",
+   "delivery_methods": [
+    "download",
+    "steam"
+   ],
+   "machine_name": "hollowknight_silksong_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/303b92a6bb65cd336cb174b073f316dd78f3a945.png?auto=compress,format&fit=crop&h=84&w=135&s=46c23e25e72fa747b3f0e933c2ddf2f7",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "hollow-knight-silksong",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "download": {
+     "available": [
+      "windows",
+      "mac"
+     ],
+     "unavailable": [
+      "linux"
+     ]
+    },
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/303b92a6bb65cd336cb174b073f316dd78f3a945.png?auto=compress,format&fit=crop&h=154&w=270&s=1e05fc218fed446c9235247e26fcb04e",
+   "large_capsule": "https://hb.imgix.net/303b92a6bb65cd336cb174b073f316dd78f3a945.png?auto=compress,format&fit=crop&h=353&w=616&s=b3c9ebd33e731c5873d7775de69fdc9a",
+   "human_name": "Hollow Knight: Silksong",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/303b92a6bb65cd336cb174b073f316dd78f3a945.png?auto=compress,format&fit=crop&h=64&w=103&s=289585d9a2f22f88ddcf138b9ed55136",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 25.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 19.49
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/816c6b1c0f9c8e4f1af4f3ab8a0efcf74e74d1f5.jpg?auto=compress,format&fit=crop&h=206&w=360&s=b5d5cebe08c172ffc0ea6718ebda9376",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "warhammer40000_spacemarine2_2year_anniversary_edition_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/816c6b1c0f9c8e4f1af4f3ab8a0efcf74e74d1f5.jpg?auto=compress,format&fit=crop&h=84&w=135&s=41ebcb65b8a2a2d90093605ea30517aa",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "warhammer-40000-space-marine-2-2year-anniversary-edition",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/816c6b1c0f9c8e4f1af4f3ab8a0efcf74e74d1f5.jpg?auto=compress,format&fit=crop&h=154&w=270&s=8eb770a5deb16f8d0388efd3365320f1",
+   "large_capsule": "https://hb.imgix.net/816c6b1c0f9c8e4f1af4f3ab8a0efcf74e74d1f5.jpg?auto=compress,format&fit=crop&h=353&w=616&s=c64ebdd91de0edaf98172b4901259aa1",
+   "human_name": "Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/816c6b1c0f9c8e4f1af4f3ab8a0efcf74e74d1f5.jpg?auto=compress,format&fit=crop&h=64&w=103&s=bfe48c017e3776dd7c83e6129c57eecc",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 100.0
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 30.0
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/4b95f6e57e61a488be988ffb2e3d2217734b98f2.jpg?auto=compress,format&fit=crop&h=206&w=360&s=a47ea9292cec5e6f2f49b03cd6a462c9",
+   "delivery_methods": [
+    "epic",
+    "steam"
+   ],
+   "machine_name": "satisfactory_storefront",
+   "icon": "https://hb.imgix.net/4b95f6e57e61a488be988ffb2e3d2217734b98f2.jpg?auto=compress,format&fit=crop&h=64&w=103&s=7555b94b4cc06c7ec2db9180f501ec88",
+   "xray_traits_thumbnail": "https://hb.imgix.net/4b95f6e57e61a488be988ffb2e3d2217734b98f2.jpg?auto=compress,format&fit=crop&h=84&w=135&s=aabf6e8577808fa2e174087b97631d8c",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "satisfactory",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    },
+    "epic": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/4b95f6e57e61a488be988ffb2e3d2217734b98f2.jpg?auto=compress,format&fit=crop&h=154&w=270&s=1f0680ba5c2ef81e6465c19962cd6aed",
+   "large_capsule": "https://hb.imgix.net/4b95f6e57e61a488be988ffb2e3d2217734b98f2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7b44dd42d82eaeeffdeba4e2a212a83a",
+   "human_name": "Satisfactory",
+   "required_account_links": [
+    "steam",
+    "epic_keyless"
+   ],
+   "type": "product",
+   "mini_carousel_image": "https://hb.imgix.net/26ea19b3b3db4ec84a93a1c669a5fe35dd9e5096.jpg?auto=compress,format&fit=crop&h=401&w=340&s=ff83a8bfb03d5faa7c91a4bbdc6ad1a5",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 51.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 36.39
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/fd516bbc3a8c55c5f08d0f1495b72d98aa31aeb0.jpg?auto=compress,format&fit=crop&h=206&w=360&s=17a5aa28fe888ae8c69dbfdd738bbdf6",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "ultimate_chicken_horse_4pack_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/fd516bbc3a8c55c5f08d0f1495b72d98aa31aeb0.jpg?auto=compress,format&fit=crop&h=84&w=135&s=06cfca48b8ad0fae803c0afe6134bda7",
+   "content_types": [
+    "mobile",
+    "game",
+    "music"
+   ],
+   "human_url": "ultimate-chicken-horse-4-pack",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/fd516bbc3a8c55c5f08d0f1495b72d98aa31aeb0.jpg?auto=compress,format&fit=crop&h=154&w=270&s=f5159ee53e25509be7d18716d064d755",
+   "large_capsule": "https://hb.imgix.net/fd516bbc3a8c55c5f08d0f1495b72d98aa31aeb0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=1999b5416c7144562a1dd02145ab7b29",
+   "human_name": "Ultimate Chicken Horse 4 Pack",
+   "type": "product",
+   "icon": "https://hb.imgix.net/fd516bbc3a8c55c5f08d0f1495b72d98aa31aeb0.jpg?auto=compress,format&fit=crop&h=64&w=103&s=1faeee6eee357d99a40824e03d53cc3b",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 50.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 22.94
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/f020e9799aa16d05239b39bdcf15ff052cf77340.jpg?auto=compress,format&fit=crop&h=206&w=360&s=f3791c15dead097825678bbd516637ab",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "metaphor_refantazio_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/f020e9799aa16d05239b39bdcf15ff052cf77340.jpg?auto=compress,format&fit=crop&h=84&w=135&s=7fa4373ba6280a879c97b991488def5b",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "metaphor-refantazio",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/f020e9799aa16d05239b39bdcf15ff052cf77340.jpg?auto=compress,format&fit=crop&h=154&w=270&s=d40cc6bb2231cc2f8fc7b3db864ba329",
+   "large_capsule": "https://hb.imgix.net/f020e9799aa16d05239b39bdcf15ff052cf77340.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7a8ba4caeb68b3868214476671abf8ea",
+   "human_name": "Metaphor: ReFantazio",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/f020e9799aa16d05239b39bdcf15ff052cf77340.jpg?auto=compress,format&fit=crop&h=64&w=103&s=096b61c495c9ad36d3fe48f5d7cf4f23",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 93.49
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 37.39
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/48ee05e641dcc78c6d21f21e2a7e65c5090b9db7.jpg?auto=compress,format&fit=crop&h=206&w=360&s=efc97f8458585ff7d4fb819965adc166",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "warhammer40000_spacemarine2_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/48ee05e641dcc78c6d21f21e2a7e65c5090b9db7.jpg?auto=compress,format&fit=crop&h=84&w=135&s=799acf9ab5522d58253294de012c49d4",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "warhammer-40000-space-marine-2",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/48ee05e641dcc78c6d21f21e2a7e65c5090b9db7.jpg?auto=compress,format&fit=crop&h=154&w=270&s=e3a71bb87dd39896f20d060489d278c7",
+   "large_capsule": "https://hb.imgix.net/48ee05e641dcc78c6d21f21e2a7e65c5090b9db7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=bb59e743f98c921946023286ced74bd7",
+   "human_name": "Warhammer 40,000: Space Marine 2",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/48ee05e641dcc78c6d21f21e2a7e65c5090b9db7.jpg?auto=compress,format&fit=crop&h=64&w=103&s=28531ab266eea316733c00edd1a23a94",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 79.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 23.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/83e76269ce92bf2f3834fec09d88413dd8be34a7.png?auto=compress,format&fit=crop&h=206&w=360&s=5ec9101989bc8817368aa2c1eab52184",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "stalker2_heartofchornobyl_ultimate_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/83e76269ce92bf2f3834fec09d88413dd8be34a7.png?auto=compress,format&fit=crop&h=84&w=135&s=e1d19ef32550ee5986e44356342d8f7c",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "stalker-2-heart-of-chornobyl-ultimate-edition",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/83e76269ce92bf2f3834fec09d88413dd8be34a7.png?auto=compress,format&fit=crop&h=154&w=270&s=27cdef54227409bd26168cc5a552fa4b",
+   "large_capsule": "https://hb.imgix.net/83e76269ce92bf2f3834fec09d88413dd8be34a7.png?auto=compress,format&fit=crop&h=353&w=616&s=0f5d380667243e4b2cf1127db16f0c50",
+   "human_name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl Ultimate Edition",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/83e76269ce92bf2f3834fec09d88413dd8be34a7.png?auto=compress,format&fit=crop&h=64&w=103&s=924a7ca3d1ec8b56e94d5a4aa1edaa7d",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 149.99
+   },
+   "sale_end": 1788195600.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 104.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/b279c0dbe69ac0cfdc0843891a499539bc446ecb.jpg?auto=compress,format&fit=crop&h=206&w=360&s=65b0b3589fb285fc13fa07fc88a29c42",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "residentevilrequiem_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/b279c0dbe69ac0cfdc0843891a499539bc446ecb.jpg?auto=compress,format&fit=crop&h=84&w=135&s=6d4729dfb124b15d177f90ed19824c2f",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "resident-evil-requiem",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/b279c0dbe69ac0cfdc0843891a499539bc446ecb.jpg?auto=compress,format&fit=crop&h=154&w=270&s=cba63833f681de9878f2ee0510e96383",
+   "large_capsule": "https://hb.imgix.net/b279c0dbe69ac0cfdc0843891a499539bc446ecb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d51be1955c14354ffcca78c7bf8fdc07",
+   "human_name": "Resident Evil Requiem",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/b279c0dbe69ac0cfdc0843891a499539bc446ecb.jpg?auto=compress,format&fit=crop&h=64&w=103&s=a1e00b5ceaf898a412f46ff4a745862a",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.0,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 94.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 75.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=467335d2c8ffeb8aaac2663c560819b6",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "hollowknight_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=efe534fb9c225b1f75b435bec5b9bd8d",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "hollow-knight",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=39928e015f9ea177bf6cdbc54a2e0461",
+   "large_capsule": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=24ed82654ecaa67252feccb8e64f3ee5",
+   "human_name": "Hollow Knight",
+   "icon": "https://hb.imgix.net/d73d29a560b20cb200d6f6d7daf935043b6edd8a.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=0e5e1517a691c10e485da12065a33275",
+   "type": "product",
+   "mini_carousel_image": "https://hb.imgix.net/ade6e4b3f1acabc45a4fc6001c687b7f2860a6f3.jpg?auto=compress,format&fit=crop&h=401&w=340&s=f73e4886c4ca6d0cd6493e137279a8f7",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 20.79
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 10.39
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/421de405af14a9052a1e3b48b65354f56aec889b.jpg?auto=compress,format&fit=crop&h=206&w=360&s=d9751ec07b8056d87255ed4481355c61",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "dyinglight2stayhuman_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/421de405af14a9052a1e3b48b65354f56aec889b.jpg?auto=compress,format&fit=crop&h=84&w=135&s=1d48c5df9cb1fbfa2f5291b03f8ad44d",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "dying-light-2-stay-human-reloaded-edition",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/421de405af14a9052a1e3b48b65354f56aec889b.jpg?auto=compress,format&fit=crop&h=154&w=270&s=e4d02f27eed1f8e2a1af7ec69fbbf93e",
+   "large_capsule": "https://hb.imgix.net/421de405af14a9052a1e3b48b65354f56aec889b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e30f6da679969f28f776c2b48fe120ac",
+   "human_name": "Dying Light 2 Stay Human: Reloaded Edition",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/421de405af14a9052a1e3b48b65354f56aec889b.jpg?auto=compress,format&fit=crop&h=64&w=103&s=56a96bcd8ee426d73471af266e9d16f8",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 79.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 15.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/b75367777c0bc8a1180f70c0b780fdd02e7405e9.jpeg?auto=compress,format&fit=crop&h=206&w=360&s=d2ec08844c8b928ccc493aeab7c77eda",
+   "delivery_methods": [
+    "download",
+    "steam"
+   ],
+   "machine_name": "noita_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/b75367777c0bc8a1180f70c0b780fdd02e7405e9.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=ca9bd8811ed8d1d7e459baab38d3895d",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "noita",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "download": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    },
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/b75367777c0bc8a1180f70c0b780fdd02e7405e9.jpeg?auto=compress,format&fit=crop&h=154&w=270&s=7641dc8974fadc1ad26f027ad45f36ff",
+   "large_capsule": "https://hb.imgix.net/b75367777c0bc8a1180f70c0b780fdd02e7405e9.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=3572449069ccd0851cb55b99e17cb77f",
+   "human_name": "Noita",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/b75367777c0bc8a1180f70c0b780fdd02e7405e9.jpeg?auto=compress,format&fit=crop&h=64&w=103&s=b3f8fb9683185bb7904fc228c0468bbe",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 22.79
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 9.11
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/4b040bf97faf37d347e72946a1627e6c4c2551d4.jpg?auto=compress,format&fit=crop&h=206&w=360&s=650e5fa8c26047b7bd7fd94f277da268",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "stalker2_costofhope_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/4b040bf97faf37d347e72946a1627e6c4c2551d4.jpg?auto=compress,format&fit=crop&h=84&w=135&s=3d65cdd8613db29db5a082928532735c",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "stalker-2-cost-of-hope",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/4b040bf97faf37d347e72946a1627e6c4c2551d4.jpg?auto=compress,format&fit=crop&h=154&w=270&s=0b0522d81b9cac15b59cd9532c8136eb",
+   "large_capsule": "https://hb.imgix.net/4b040bf97faf37d347e72946a1627e6c4c2551d4.jpg?auto=compress,format&fit=crop&h=353&w=616&s=3eb1cbbcb61c2be45c76c75d2d190fc2",
+   "human_name": "S.T.A.L.K.E.R. 2: Cost of Hope",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/4b040bf97faf37d347e72946a1627e6c4c2551d4.jpg?auto=compress,format&fit=crop&h=64&w=103&s=ed824d8cdfcf084a25aec460bc7b0962",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 39.99
+   },
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 39.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/d8e9fd4f19bc311690d90d8985e7656c7bde4726.jpg?auto=compress,format&fit=crop&h=206&w=360&s=56aac8b129e222832e76a9bbf11fa56e",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "snowrunner_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/d8e9fd4f19bc311690d90d8985e7656c7bde4726.jpg?auto=compress,format&fit=crop&h=84&w=135&s=ec26a55edefc5693e3c9e2f4f8933504",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "snowrunner",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/d8e9fd4f19bc311690d90d8985e7656c7bde4726.jpg?auto=compress,format&fit=crop&h=154&w=270&s=a79737728bf179b61bc48b564a789a89",
+   "large_capsule": "https://hb.imgix.net/d8e9fd4f19bc311690d90d8985e7656c7bde4726.jpg?auto=compress,format&fit=crop&h=353&w=616&s=c5e68257625425040f403168652672a0",
+   "human_name": "SnowRunner",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/d8e9fd4f19bc311690d90d8985e7656c7bde4726.jpg?auto=compress,format&fit=crop&h=64&w=103&s=25699330e382b5b1d5899365c3dfae82",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 39.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 15.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "require_linked_third_party_account_when": "never",
+   "standard_carousel_image": "https://hb.imgix.net/17afa89a4a402604580157437157bbdc858ab023.jpg?auto=compress,format&fit=crop&h=206&w=360&s=f21814cb6d5148415a671bf5ec6cc292",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "scrapmechanic_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/17afa89a4a402604580157437157bbdc858ab023.jpg?auto=compress,format&fit=crop&h=84&w=135&s=80c8b6cd52edbae35ec35476fad788c7",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "scrap-mechanic",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/17afa89a4a402604580157437157bbdc858ab023.jpg?auto=compress,format&fit=crop&h=154&w=270&s=465fff9e46ec9b5744c264129d33e825",
+   "large_capsule": "https://hb.imgix.net/17afa89a4a402604580157437157bbdc858ab023.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d35270515b21730d3d8084bee93fe99e",
+   "human_name": "Scrap Mechanic",
+   "icon": "https://hb.imgix.net/de88c7ded2e29dbe6ce119d11b021300c1d5c3dc.jpg?auto=compress,format&fit=crop&h=64&w=103&s=57e0812e9775ac7d3065312382701aa9",
+   "type": "product",
+   "mini_carousel_image": "https://hb.imgix.net/2c461391c2107a7af11326cfbdc23c87ab1d9b34.png?auto=compress,format&fit=crop&h=401&w=340&s=699aaf46bf1ef7bb42de67584949f0e3",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 27.72
+   },
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 27.72
+   },
+   "cta_badge": "earlyaccess",
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "require_linked_third_party_account_when": "always",
+   "standard_carousel_image": "https://hb.imgix.net/17300703f079e536f670f292339023bead68c6ed.jpg?auto=compress,format&fit=crop&h=206&w=360&s=47c9d1b08c0e11dc386c631db5f8f587",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "no_mans_sky_storefront",
+   "giftable_when": "always",
+   "xray_traits_thumbnail": "https://hb.imgix.net/17300703f079e536f670f292339023bead68c6ed.jpg?auto=compress,format&fit=crop&h=84&w=135&s=6a3a9565a5e8933273ce511d05dc8b9d",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "no-mans-sky",
+   "platforms": [
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac"
+     ],
+     "unavailable": [
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/17300703f079e536f670f292339023bead68c6ed.jpg?auto=compress,format&fit=crop&h=154&w=270&s=4d47cfb2fdd9bad52f479fc60fd3bdbe",
+   "large_capsule": "https://hb.imgix.net/17300703f079e536f670f292339023bead68c6ed.jpg?auto=compress,format&fit=crop&h=353&w=616&s=424e6d2e57281487c7c3ecafd9ba13e8",
+   "human_name": "No Man's Sky",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/17300703f079e536f670f292339023bead68c6ed.jpg?auto=compress,format&fit=crop&h=64&w=103&s=f0cc0950b83e23a354a47fb304e73aae",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 77.99
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 31.19
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/c5f430bcc27fd13891968c5ceaea29584bb3720a.jpg?auto=compress,format&fit=crop&h=206&w=360&s=beaab4cff9dbc68f16853ea5e204b6a2",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "slaytheprincess_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/c5f430bcc27fd13891968c5ceaea29584bb3720a.jpg?auto=compress,format&fit=crop&h=84&w=135&s=8a6ecf978be2706ffb8665d1a7bbce10",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "slay-the-princess",
+   "platforms": [
+    "linux",
+    "mac",
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows",
+      "mac",
+      "linux"
+     ],
+     "unavailable": []
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/c5f430bcc27fd13891968c5ceaea29584bb3720a.jpg?auto=compress,format&fit=crop&h=154&w=270&s=7fb10c8d097d244df0ee11d0aaa22c8e",
+   "large_capsule": "https://hb.imgix.net/c5f430bcc27fd13891968c5ceaea29584bb3720a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d77f902c80e136b08973b7947aae3eb7",
+   "human_name": "Slay the Princess",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/c5f430bcc27fd13891968c5ceaea29584bb3720a.jpg?auto=compress,format&fit=crop&h=64&w=103&s=40729c2137bff28704ff83411d61d356",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 23.49
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 11.74
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/2b19b47dee8b0a818b85bea0bcbd976c35477a56.jpg?auto=compress,format&fit=crop&h=206&w=360&s=d869de85754b9d59b070f955c1e95856",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "voidcrew_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/2b19b47dee8b0a818b85bea0bcbd976c35477a56.jpg?auto=compress,format&fit=crop&h=84&w=135&s=7c6ca6a4e49e4b8d3f11e00243c91e20",
+   "content_types": [
+    "game"
+   ],
+   "human_url": "void-crew",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/2b19b47dee8b0a818b85bea0bcbd976c35477a56.jpg?auto=compress,format&fit=crop&h=154&w=270&s=a2aa91287d2f3e8751a76c484572a7e8",
+   "large_capsule": "https://hb.imgix.net/2b19b47dee8b0a818b85bea0bcbd976c35477a56.jpg?auto=compress,format&fit=crop&h=353&w=616&s=13c2d0e0cf2139cf610afe25adfbdf67",
+   "human_name": "Void Crew",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/2b19b47dee8b0a818b85bea0bcbd976c35477a56.jpg?auto=compress,format&fit=crop&h=64&w=103&s=9691b7a4a75790f9356dd9ad872793f0",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 34.66
+   },
+   "sale_end": 1788454800.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 17.33
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/543bf08aea2b15d12f85be9108f2a3eb229afe59.jpg?auto=compress,format&fit=crop&h=206&w=360&s=728fe277ff277e0687d3c4fbef981968",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "shantaeadvance_riskyrevolution_deluxe_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/543bf08aea2b15d12f85be9108f2a3eb229afe59.jpg?auto=compress,format&fit=crop&h=84&w=135&s=9df9d6d6cb4c3913b55335453611198e",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "shantae-advance-risky-revolution-deluxe",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/543bf08aea2b15d12f85be9108f2a3eb229afe59.jpg?auto=compress,format&fit=crop&h=154&w=270&s=cbeb9f75f36eb3feb9abb74d14476710",
+   "large_capsule": "https://hb.imgix.net/543bf08aea2b15d12f85be9108f2a3eb229afe59.jpg?auto=compress,format&fit=crop&h=353&w=616&s=cc7d552d086cbe1b95a93a2734d64478",
+   "human_name": "Shantae Advance: Risky Revolution Deluxe Edition",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/543bf08aea2b15d12f85be9108f2a3eb229afe59.jpg?auto=compress,format&fit=crop&h=64&w=103&s=403c26346f397d66b2e34d837584bd4f",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 45.49
+   },
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 45.49
+   },
+   "cta_badge": "new",
+   "rating_for_current_region": "esrb"
+  },
+  {
+   "standard_carousel_image": "https://hb.imgix.net/a9bcaff6944e631c6815d22b9b4f9c4b806a4f22.jpg?auto=compress,format&fit=crop&h=206&w=360&s=77b9a0cc107f2f5c421a860ba3908534",
+   "delivery_methods": [
+    "steam"
+   ],
+   "machine_name": "stalker2_heartofchornobyl_storefront",
+   "xray_traits_thumbnail": "https://hb.imgix.net/a9bcaff6944e631c6815d22b9b4f9c4b806a4f22.jpg?auto=compress,format&fit=crop&h=84&w=135&s=71d43d38baabc9c8360a0c0f838e3b9c",
+   "content_types": [
+    "mobile",
+    "game"
+   ],
+   "human_url": "stalker-2-heart-of-chornobyl",
+   "platforms": [
+    "windows"
+   ],
+   "icon_dict": {
+    "steam": {
+     "available": [
+      "windows"
+     ],
+     "unavailable": [
+      "mac",
+      "linux"
+     ]
+    }
+   },
+   "featured_image_recommendation": "https://hb.imgix.net/a9bcaff6944e631c6815d22b9b4f9c4b806a4f22.jpg?auto=compress,format&fit=crop&h=154&w=270&s=8fcb9e6f5a8e07415203efd1b2c45c0f",
+   "large_capsule": "https://hb.imgix.net/a9bcaff6944e631c6815d22b9b4f9c4b806a4f22.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7453bbff7d7effe6b34fdc3b0f8e2e96",
+   "human_name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+   "required_account_links": [
+    "steam"
+   ],
+   "type": "product",
+   "icon": "https://hb.imgix.net/a9bcaff6944e631c6815d22b9b4f9c4b806a4f22.jpg?auto=compress,format&fit=crop&h=64&w=103&s=03bbf93a255567fc9be6eb462113ddec",
+   "non_rewards_charity_split": 0.0,
+   "rewards_split": 0.1,
+   "empty_tpkds": {},
+   "full_price": {
+    "currency": "CAD",
+    "amount": 79.99
+   },
+   "sale_end": 1788195600.0,
+   "nonrefundable": false,
+   "current_price": {
+    "currency": "CAD",
+    "amount": 55.99
+   },
+   "cta_badge": null,
+   "rating_for_current_region": "esrb",
+   "sale_type": "normal"
+  }
+ ]
+}

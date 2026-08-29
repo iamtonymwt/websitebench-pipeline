@@ -1,0 +1,65 @@
+{
+  "purpose": "Sidecar for materials/humble-bundle/scope/visual-calibration-spec.json and materials/humble-bundle/source-current/calibration/visual-calibration-report.json. Diagnostic-only: records mask rationale, per-cell stability verdicts, and evidence-grade flags. Never an acceptance, rights, or deployment decision.",
+  "spec": "materials/humble-bundle/scope/visual-calibration-spec.json",
+  "report": "materials/humble-bundle/source-current/calibration/visual-calibration-report.json",
+  "frames": {
+    "root": "materials/humble-bundle/source-current/calibration/frames",
+    "samples_used": "frame-{1,2,3}/screenshot.png (viewport captures: desktop 1440x900, mobile 390x844)",
+    "full_page_availability": "All 24 checkpoint x viewport cells additionally carry frame-{1,2,3}/screenshot-full.png full-page captures; retained as reference evidence and not used for calibration rows (calibration compares fixed-size viewport frames)."
+  },
+  "region_classification": "Every row compares the full viewport frame, classified as region 'main' (floor 0.98) because each sample is a whole-viewport capture dominated by main content; zone-level (header/action/overlay/footer) rows can be derived later from the same frozen frames at contract time.",
+  "masks": [
+    {
+      "rows": ["games.desktop.main", "bundles.desktop.main"],
+      "rect": {"x": 375, "y": 838, "width": 102, "height": 36},
+      "coverage_of_viewport": "0.28%",
+      "rationale": "Live countdown badge digits (DD:HH:MM:SS 'ends-in' timer) on the 2K MEGAHITS 2026 bundle tile. Diffing the two settled frames of each cell isolates a single changing rect at (383,846,86x19) on both pages; padded ~8px to absorb the 3-4px entrance-settle offset of the odd frame. With this mask the settled pair reaches normalized_mae 0.0."
+    },
+    {
+      "rows": ["store-product-satisfactory.desktop.main"],
+      "rect": {"x": 1114, "y": 203, "width": 90, "height": 32},
+      "coverage_of_viewport": "0.22%",
+      "rationale": "Live sale countdown 'mins' and 'secs' numeric cells (observed at (1118,207,34x24) and (1167,207,33x24)), the only pixels changing in every frame pair. Padded ~4px. With the mask all three pairs are pixel-identical (similarity 1.0)."
+    },
+    {
+      "rows": ["store-product-satisfactory.mobile.main"],
+      "rect": {"x": 204, "y": 270, "width": 90, "height": 32},
+      "coverage_of_viewport": "0.87%",
+      "rationale": "Same live countdown widget at the mobile layout (numeric cells at (208,274,34x24) and (257,274,33x24)). With the mask all three pairs are pixel-identical (similarity 1.0)."
+    }
+  ],
+  "no_mask_rationale": {
+    "store.desktop.main": "Frame-1 is offset by exactly 1px vertically versus frames 2-3 (content pixel-identical when realigned; residual MAE 0.00 on realignment probes). A whole-page layout shift has no minimal responsible region, and the cell clears the 0.98 floor, so no mask is defined. Settled pair also shows a tiny promo countdown (x 1006-1097, y 814-834) and a floating bottom-right widget (1408,870,32x30); both are below threshold impact.",
+    "home.desktop.main": "Humble Choice section runs a continuously floating game-card mosaic with an animated backdrop (cards at x 726-1349, y 246-728 drift a few px between frames). Cell clears the floor unmasked at 0.9911; masking would require blanking ~40% of the viewport including primary content, so it stays unmasked and the variance is priced into the 0.9861 threshold.",
+    "bundle-anchor.desktop.main": "Frame-1 caught the bundle hero artwork mid slow-zoom (Ken Burns) plus item-tile entrance settling; frames 2-3 are pixel-identical (pair similarity 1.0), proving no persistent dynamic element. Cell clears the floor at 0.9932 unmasked."
+  },
+  "verdicts": {
+    "home.desktop": {"verdict": "stable", "source_self_similarity": 0.9911, "recommended_threshold": 0.9861},
+    "home.mobile": {"verdict": "stable", "source_self_similarity": 0.9997, "recommended_threshold": 0.9947},
+    "bundles.desktop": {"verdict": "below-floor:reference-evidence-only", "source_self_similarity": 0.979, "recommended_threshold": 0.98, "cause": "Frame-3 captured mid staggered slide-up entrance animation of the bundle tile grid (per-element vertical offsets 1-4px, settling; settled pair similarity 1.0 after countdown mask). No minimal mask exists because the artifact spans the primary tile grid; masking it would hollow out the checkpoint."},
+    "bundles.mobile": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "games.desktop": {"verdict": "below-floor:reference-evidence-only", "source_self_similarity": 0.9787, "recommended_threshold": 0.98, "cause": "Frame-1 captured mid staggered entrance animation (identical mechanism and grid as bundles.desktop; settled pair similarity 1.0 after countdown mask)."},
+    "games.mobile": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "bundle-anchor.desktop": {"verdict": "stable", "source_self_similarity": 0.9932, "recommended_threshold": 0.9882},
+    "bundle-anchor.mobile": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "store.desktop": {"verdict": "stable", "source_self_similarity": 0.9818, "recommended_threshold": 0.98},
+    "store.mobile": {"verdict": "stable", "source_self_similarity": 0.9997, "recommended_threshold": 0.9947},
+    "store-search.desktop": {"verdict": "below-floor:reference-evidence-only", "source_self_similarity": 0.9441, "recommended_threshold": 0.98, "cause": "Frame-1 captured mid staggered entrance (per-tile translate/scale settle) of the result grid; result set, ordering, prices, and discounts are identical across all three frames (settled pair 0.9995). Changes span all eight result tiles, so no minimal mask exists."},
+    "store-search.mobile": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "store-search-noresults.desktop": {"verdict": "stable", "source_self_similarity": 0.9995, "recommended_threshold": 0.9945},
+    "store-search-noresults.mobile": {"verdict": "stable", "source_self_similarity": 0.9993, "recommended_threshold": 0.9943},
+    "store-product-satisfactory.desktop": {"verdict": "stable-with-mask", "source_self_similarity": 1.0, "recommended_threshold": 0.995, "mask": "live countdown mins/secs digits"},
+    "store-product-satisfactory.mobile": {"verdict": "stable-with-mask", "source_self_similarity": 1.0, "recommended_threshold": 0.995, "mask": "live countdown mins/secs digits"},
+    "login.desktop": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "login.mobile": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "signup.desktop": {"verdict": "stable", "source_self_similarity": 0.9999, "recommended_threshold": 0.9949},
+    "signup.mobile": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "membership.desktop": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "membership.mobile": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "notfound-404.desktop": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995},
+    "notfound-404.mobile": {"verdict": "stable", "source_self_similarity": 1.0, "recommended_threshold": 0.995}
+  },
+  "reference_evidence_only": ["bundles.desktop", "games.desktop", "store-search.desktop"],
+  "stopping_rule": "The three flagged desktop cells stay below the 0.98 main-region floor even with the minimal justified mask, because one of their three frames was captured mid entrance animation (a capture-timing artifact, not persistent page dynamism; each cell's settled pair is >=0.9995). Per the pipeline stopping rule they are frozen as reference evidence only: do not bind clone visual thresholds to these cells and do not enlarge masks to force passes. Their mobile counterparts are all fully stable (1.0) and remain threshold-bearing.",
+  "advisory_for_contract_phase": "Countdown day/hour cells, 'N DAYS LEFT' chips, 'N,NNN Sold' counters, and charity-raised totals were static during the ~40s capture window but drift over longer horizons; when the clone comparison runs at a later date the visual contract may need to extend the frozen masks to the full countdown widgets and counters."
+}

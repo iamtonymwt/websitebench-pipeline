@@ -1,0 +1,1000 @@
+{
+  "schema_version": "prompt.websitebench-clone-task-brief.v1",
+  "observed_at": "2026-08-20T22:00:35Z",
+  "source": {
+    "input_url": "https://www.humblebundle.com/",
+    "canonical_url": "https://www.humblebundle.com/",
+    "canonical_origin": "https://www.humblebundle.com",
+    "approved_discovery_origins": [
+      "https://www.humblebundle.com",
+      "https://cdn.humblebundle.com",
+      "https://support.humblebundle.com",
+      "https://blog.humblebundle.com",
+      "https://dsar.humblebundle.com"
+    ],
+    "proposed_additional_origins": [
+      {
+        "origin": "https://hb.imgix.net",
+        "role": "asset-observation",
+        "reason": "primary bundle/product image CDN actually requested by pages (82 refs on home); required for asset localization"
+      },
+      {
+        "origin": "https://cdn.ziffstatic.com",
+        "role": "asset-observation",
+        "reason": "Ziff Davis consent script requested by pages; stripped in clone"
+      },
+      {
+        "origin": "https://<appid>-dsn.algolia.net",
+        "role": "runtime-observation",
+        "reason": "client-side Algolia search XHR; observed to model search semantics; clone reimplements locally"
+      },
+      {
+        "origin": "https://www.recaptcha.net + gstatic.com",
+        "role": "strip",
+        "reason": "reCAPTCHA on auth pages; clone uses local validation, no third-party captcha"
+      },
+      {
+        "origin": "https://cdn.sift.com",
+        "role": "strip",
+        "reason": "fraud script on login; stripped"
+      },
+      {
+        "origin": "optimizely/googletagmanager/clarity/doubleclick/facebook/bing/reddit/impactcdn/upsellit/rlcdn/zdbb/onetrust",
+        "role": "strip",
+        "reason": "analytics/consent/marketing vendors; stripped in clone"
+      }
+    ]
+  },
+  "site": {
+    "site_id": "humble-bundle",
+    "display_name": "Humble Bundle",
+    "existing_site": false,
+    "site_dir": "materials/humble-bundle",
+    "target_origin": "https://humble-bundle.website-bench.com",
+    "worker_name": "websitebench-humble-bundle-demo",
+    "purpose": "Help gamers and digital-content buyers discover pay-what-you-want bundles and store deals, choose a price tier, and buy digital games whose keys and downloads land in their Humble library, with part of the payment going to charity."
+  },
+  "baseline": {
+    "locale": "en-US",
+    "timezone": "Etc/UTC",
+    "timezone_policy": "temporary deterministic default; re-freeze from capture evidence",
+    "viewports": [
+      "1440x900",
+      "390x844",
+      "tablet-TBD-from-observed-breakpoints"
+    ]
+  },
+  "scope": {
+    "roles": [
+      {
+        "id": "anonymous",
+        "display_name": "Anonymous visitor",
+        "authentication_required": false,
+        "evidence_grade": "directly-observed",
+        "evidence_urls": [
+          "https://www.humblebundle.com/",
+          "https://www.humblebundle.com/bundles",
+          "https://www.humblebundle.com/login",
+          "https://www.humblebundle.com/signup"
+        ],
+        "changes": "public browse/search/detail, auth entries, help, legal, 404; account area gated by 302 login redirect",
+        "live_view_required": false,
+        "entitlement_required": false
+      },
+      {
+        "id": "account-holder",
+        "display_name": "Signed-in Humble account",
+        "authentication_required": true,
+        "evidence_grade": "structural-only",
+        "evidence_urls": [
+          "https://www.humblebundle.com/login",
+          "https://www.humblebundle.com/home/library (302 gate observed)"
+        ],
+        "changes": "unlocks /home/* (library, purchases, keys), wishlist, checkout with account state, account settings",
+        "live_view_required": true,
+        "entitlement_required": false
+      }
+    ],
+    "core_journeys": [
+      {
+        "id": "J-core-671",
+        "priority": "P0",
+        "role": "account-holder",
+        "purpose": "Register, add a currently active game bundle to cart at custom price $15, proceed to checkout; review reflects choices and totals (inventory task 671)",
+        "preconditions": "no account; anchor active game bundle = yes-chef-cooking-bundle (3 PWYW tiers; $15 valid)",
+        "starting_url": "https://www.humblebundle.com/",
+        "steps": [
+          "open bundles",
+          "open active game bundle detail",
+          "select custom price $15 (tier engine updates unlocked items)",
+          "add to cart",
+          "register account (human-performed on source)",
+          "proceed to checkout",
+          "review order"
+        ],
+        "expected_result": "review/confirmation view shows the bundle, $15 custom price, unlocked tier contents and totals",
+        "failure_variant": "below-minimum price rejected; declined payment scenario",
+        "recovery_variant": "adjust price/retry payment",
+        "source_mutation_required": true,
+        "evidence": {
+          "kind": "directly-observed (bundle tier data server-side); checkout pending handoff",
+          "urls": [
+            "https://www.humblebundle.com/games/yes-chef-cooking-bundle"
+          ]
+        },
+        "confidence": "high"
+      },
+      {
+        "id": "J-entry",
+        "priority": "P1",
+        "role": "anonymous",
+        "purpose": "Public entry and primary navigation to gaming sections (T01)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/",
+        "steps": [
+          "load home",
+          "use primary nav to Bundles/Store"
+        ],
+        "expected_result": "destination heading + canonical path visible",
+        "failure_variant": "n/a",
+        "recovery_variant": "n/a",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed",
+          "urls": [
+            "https://www.humblebundle.com/"
+          ]
+        },
+        "confidence": "high"
+      },
+      {
+        "id": "J-browse",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Browse bundles listing and store categories (T03)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/bundles",
+        "steps": [
+          "open /bundles",
+          "filter Games/Books/Software chips",
+          "open store category /store/c/<cat>"
+        ],
+        "expected_result": "category listing renders products",
+        "failure_variant": "empty category",
+        "recovery_variant": "back to all",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed (listing) / directly-observed shell; hydrated content capture pending (store)",
+          "urls": [
+            "https://www.humblebundle.com/bundles"
+          ]
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-search",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Keyword search with filters (T04)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/store",
+        "steps": [
+          "enter keyword",
+          "apply available filters"
+        ],
+        "expected_result": "refined results",
+        "failure_variant": "no results",
+        "recovery_variant": "clear filters",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "structural-only (Algolia config observed); runtime capture required",
+          "urls": [
+            "https://www.humblebundle.com/"
+          ]
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-sort-compare",
+        "priority": "P1",
+        "role": "anonymous",
+        "purpose": "Sort results and compare >=2 items by price/rating/specs (T05)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/store",
+        "steps": [
+          "sort results",
+          "open two product details",
+          "compare price/platform/rating"
+        ],
+        "expected_result": "orderings and attributes comparable",
+        "failure_variant": "n/a",
+        "recovery_variant": "n/a",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed shell; hydrated content capture pending",
+          "urls": []
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-detail",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Product/bundle detail: images, description, price, availability, reviews (T06)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/store/<slug>",
+        "steps": [
+          "open detail",
+          "inspect gallery/specs/price/reviews"
+        ],
+        "expected_result": "all detail blocks render",
+        "failure_variant": "n/a",
+        "recovery_variant": "n/a",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed shell; hydrated content capture pending",
+          "urls": []
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-tiers",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Bundle tier/custom price selection updates unlocked contents (T07; Humble-core)",
+        "preconditions": "active bundle",
+        "starting_url": "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+        "steps": [
+          "view tiers",
+          "enter custom amount",
+          "observe unlocked item set + charity split"
+        ],
+        "expected_result": "unlock set matches amount vs tier thresholds",
+        "failure_variant": "below minimum",
+        "recovery_variant": "raise amount",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed (tier JSON server-side); interactive states pending capture",
+          "urls": [
+            "https://www.humblebundle.com/games/yes-chef-cooking-bundle"
+          ]
+        },
+        "confidence": "high"
+      },
+      {
+        "id": "J-wishlist",
+        "priority": "P1",
+        "role": "account-holder",
+        "purpose": "Save item to wishlist/saved area (T08)",
+        "preconditions": "signed in",
+        "starting_url": "https://www.humblebundle.com/store/<slug>",
+        "steps": [
+          "click save/wishlist",
+          "open wishlist"
+        ],
+        "expected_result": "item persisted in list",
+        "failure_variant": "signed-out prompt",
+        "recovery_variant": "login then retry",
+        "source_mutation_required": true,
+        "evidence": {
+          "kind": "pending handoff (anon /wishlist is soft-404)",
+          "urls": []
+        },
+        "confidence": "low"
+      },
+      {
+        "id": "J-register",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Create account + basic profile/contact setup (T09)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/signup",
+        "steps": [
+          "open signup",
+          "email+password",
+          "submit",
+          "verification step",
+          "profile/contact basics"
+        ],
+        "expected_result": "account exists, signed in",
+        "failure_variant": "invalid email/short password inline errors",
+        "recovery_variant": "correct and resubmit",
+        "source_mutation_required": true,
+        "evidence": {
+          "kind": "directly-observed (form structure); submit semantics pending handoff",
+          "urls": [
+            "https://www.humblebundle.com/signup"
+          ]
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-login",
+        "priority": "P0",
+        "role": "account-holder",
+        "purpose": "Sign in, verify account state, sign out (T10)",
+        "preconditions": "account exists",
+        "starting_url": "https://www.humblebundle.com/login",
+        "steps": [
+          "login",
+          "verify avatar/menu state",
+          "logout"
+        ],
+        "expected_result": "session established then cleared",
+        "failure_variant": "wrong password error",
+        "recovery_variant": "forgot-password in-page flow",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed (form); post-login pending handoff",
+          "urls": [
+            "https://www.humblebundle.com/login"
+          ]
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-cart",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Add to cart, change qty/options, remove/restore (T11)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/store/<slug>",
+        "steps": [
+          "add bundle/product to cart (client drawer)",
+          "open cart drawer",
+          "adjust",
+          "remove",
+          "restore"
+        ],
+        "expected_result": "cart math updates",
+        "failure_variant": "n/a",
+        "recovery_variant": "undo/restore",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed (client cart constants); interactive capture pending",
+          "urls": []
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-delivery",
+        "priority": "P1",
+        "role": "account-holder",
+        "purpose": "Digital delivery option: own library vs gift (T12)",
+        "preconditions": "cart populated",
+        "starting_url": "checkout",
+        "steps": [
+          "choose delivery/gift option"
+        ],
+        "expected_result": "digital delivery choice reflected",
+        "failure_variant": "missing gift email validation",
+        "recovery_variant": "correct email",
+        "source_mutation_required": true,
+        "evidence": {
+          "kind": "pending handoff",
+          "urls": []
+        },
+        "confidence": "low"
+      },
+      {
+        "id": "J-checkout",
+        "priority": "P0",
+        "role": "account-holder",
+        "purpose": "Promo/gift option, payment details, reach review/confirmation (T13)",
+        "preconditions": "cart populated, signed in",
+        "starting_url": "checkout",
+        "steps": [
+          "apply promo/gift option if available",
+          "choose payment method",
+          "reach final review"
+        ],
+        "expected_result": "review shows items/totals/choices",
+        "failure_variant": "declined payment (sandbox in clone)",
+        "recovery_variant": "retry",
+        "source_mutation_required": true,
+        "evidence": {
+          "kind": "pending handoff (hard stop before payment submission on source)",
+          "urls": []
+        },
+        "confidence": "low"
+      },
+      {
+        "id": "J-library",
+        "priority": "P0",
+        "role": "account-holder",
+        "purpose": "Library/keys/downloads/receipt history (T14)",
+        "preconditions": "signed in; seeded purchases in clone",
+        "starting_url": "https://www.humblebundle.com/home/library",
+        "steps": [
+          "open library",
+          "inspect keys/downloads",
+          "open purchases/receipts"
+        ],
+        "expected_result": "entitlements listed with reveal/redeem/download affordances",
+        "failure_variant": "empty library state",
+        "recovery_variant": "n/a",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "unavailable-until-handoff (302 gate observed)",
+          "urls": [
+            "https://www.humblebundle.com/home/library"
+          ]
+        },
+        "confidence": "low"
+      },
+      {
+        "id": "J-no-results",
+        "priority": "P1",
+        "role": "anonymous",
+        "purpose": "zzzz-no-match-websitebench search shows no-results + route back (T15)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/store",
+        "steps": [
+          "search zzzz-no-match-websitebench"
+        ],
+        "expected_result": "no-results message + recovery path",
+        "failure_variant": "n/a",
+        "recovery_variant": "clear search",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed shell; hydrated content capture pending",
+          "urls": []
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-auth-entries",
+        "priority": "P1",
+        "role": "anonymous",
+        "purpose": "Inspect sign-in / registration / password-recovery entries without submitting (T16/T17/T18)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/login",
+        "steps": [
+          "open /login",
+          "open /signup",
+          "open forgot-password in-page flow",
+          "return"
+        ],
+        "expected_result": "fields, SSO choices, terms links, validation guidance visible",
+        "failure_variant": "n/a",
+        "recovery_variant": "n/a",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed (login/signup); forgot-password reveal pending",
+          "urls": [
+            "https://www.humblebundle.com/login",
+            "https://www.humblebundle.com/signup"
+          ]
+        },
+        "confidence": "high"
+      },
+      {
+        "id": "J-history",
+        "priority": "P0",
+        "role": "account-holder",
+        "purpose": "Seeded account history: newest item status/detail/manage + route back (T19)",
+        "preconditions": "seeded purchases",
+        "starting_url": "https://www.humblebundle.com/home/purchases",
+        "steps": [
+          "open purchases",
+          "open newest",
+          "inspect status/detail/manage options",
+          "route back"
+        ],
+        "expected_result": "newest item exposes status/detail/options",
+        "failure_variant": "n/a",
+        "recovery_variant": "n/a",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "unavailable-until-handoff",
+          "urls": [
+            "https://www.humblebundle.com/home/purchases"
+          ]
+        },
+        "confidence": "low"
+      },
+      {
+        "id": "J-validation",
+        "priority": "P1",
+        "role": "anonymous",
+        "purpose": "Required-field and signed-out permission validation (T20)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/signup",
+        "steps": [
+          "submit empty/invalid forms",
+          "hit gated route signed out"
+        ],
+        "expected_result": "inline validation / secureArea login redirect",
+        "failure_variant": "n/a",
+        "recovery_variant": "n/a",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "directly-observed (302 gate); inline validation pending capture",
+          "urls": []
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-help",
+        "priority": "P1",
+        "role": "anonymous",
+        "purpose": "Reach help/support guidance (T21)",
+        "preconditions": "none",
+        "starting_url": "https://support.humblebundle.com/",
+        "steps": [
+          "open support",
+          "find account/purchase guidance"
+        ],
+        "expected_result": "guidance reachable without private data",
+        "failure_variant": "n/a",
+        "recovery_variant": "n/a",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "structural-only (Zendesk proven via headers; content behind CF challenge for curl; browser capture pending)",
+          "urls": [
+            "https://support.humblebundle.com/"
+          ]
+        },
+        "confidence": "medium"
+      },
+      {
+        "id": "J-404",
+        "priority": "P1",
+        "role": "anonymous",
+        "purpose": "Branded not-found preserves nav + safe route back (T22)",
+        "preconditions": "none",
+        "starting_url": "https://www.humblebundle.com/this-page-does-not-exist-websitebench",
+        "steps": [
+          "open bad deep link"
+        ],
+        "expected_result": "branded 404 with nav",
+        "failure_variant": "n/a",
+        "recovery_variant": "nav home",
+        "source_mutation_required": false,
+        "evidence": {
+          "kind": "structural-only (SPA soft-404 observed on /account, /wishlist); visual capture pending",
+          "urls": []
+        },
+        "confidence": "medium"
+      }
+    ],
+    "page_families": [
+      {
+        "family": "public/marketing",
+        "routes": [
+          "/",
+          "/about",
+          "/charities",
+          "/membership (entry view)",
+          "/terms",
+          "/privacy",
+          "/legal",
+          "/cookie-policy",
+          "/accessibility"
+        ],
+        "evidence": "directly-observed (static sitemap + footer)"
+      },
+      {
+        "family": "discovery/list/search",
+        "routes": [
+          "/bundles",
+          "/games",
+          "/books",
+          "/software",
+          "/store",
+          "/store/c/<category>",
+          "/store/promo/<slug>",
+          "store search + no-results"
+        ],
+        "evidence": "directly-observed (SSR blobs; hydrated grids captured later via browser)"
+      },
+      {
+        "family": "entity detail",
+        "routes": [
+          "/games|books|software/<bundle-slug> (tier detail)",
+          "/store/<product-slug>"
+        ],
+        "evidence": "directly-observed (bundle tier JSON server-side; store detail JSON-LD)"
+      },
+      {
+        "family": "cart/checkout",
+        "routes": [
+          "cart drawer (client-side modal; no /cart route)",
+          "/checkout (pending handoff)"
+        ],
+        "evidence": "directly-observed shell/constants; interiors pending"
+      },
+      {
+        "family": "account/auth",
+        "routes": [
+          "/login (incl. in-page forgot-password)",
+          "/signup",
+          "post-login account menu"
+        ],
+        "evidence": "directly-observed structure"
+      },
+      {
+        "family": "library/keys (authenticated)",
+        "routes": [
+          "/home/library",
+          "/home/purchases",
+          "/home/keys",
+          "wishlist surface"
+        ],
+        "evidence": "302-gate observed; interiors unavailable-until-handoff"
+      },
+      {
+        "family": "error/recovery",
+        "routes": [
+          "SPA soft-404",
+          "search no-results"
+        ],
+        "evidence": "structural-only"
+      },
+      {
+        "family": "help",
+        "routes": [
+          "support.humblebundle.com/hc/en-us"
+        ],
+        "evidence": "structural-only (Zendesk headers)"
+      }
+    ],
+    "deterministic_seed_plan": {
+      "roles": [
+        "demo account-holder (synthetic, e.g. demo.gamer@example.test)",
+        "isolation actor (second synthetic account)"
+      ],
+      "entities": [
+        "frozen anchor active GAME bundle with full tier thresholds + per-tier item lists + charity info",
+        "sibling active bundles (listing-level)",
+        "store catalog subset: one category + one keyword search, first 2 pages each, full detail",
+        "wishlist entries",
+        "seeded purchases/receipts with synthetic SANDBOX- keys",
+        "gift record"
+      ],
+      "states": [
+        "empty + populated library/wishlist",
+        "declined/retryable sandbox payment",
+        "duplicate-submission probe",
+        "deterministic admin reset restoring full seed"
+      ]
+    },
+    "external_services": [
+      {
+        "name": "Algolia site search",
+        "evidence": "directly-observed config in navbar JSON",
+        "local_adapter": true,
+        "external_side_effect": false,
+        "user_auth_required": false,
+        "zero_remote_runtime": true
+      },
+      {
+        "name": "reCAPTCHA (recaptcha.net) on auth",
+        "evidence": "directly-observed script",
+        "local_adapter": false,
+        "external_side_effect": false,
+        "user_auth_required": false,
+        "zero_remote_runtime": true,
+        "note": "stripped; clone uses local validation"
+      },
+      {
+        "name": "Sift fraud js (login)",
+        "evidence": "directly-observed",
+        "local_adapter": false,
+        "zero_remote_runtime": true,
+        "note": "stripped"
+      },
+      {
+        "name": "Google/Facebook SSO",
+        "evidence": "directly-observed buttons",
+        "local_adapter": false,
+        "zero_remote_runtime": true,
+        "note": "buttons preserved visually; external IdP flow not reproducible offline -> truthful local handling, known difference"
+      },
+      {
+        "name": "Payment providers at checkout",
+        "evidence": "pending handoff",
+        "local_adapter": true,
+        "external_side_effect": false,
+        "zero_remote_runtime": true,
+        "note": "clone uses local-sandbox scenarios only"
+      },
+      {
+        "name": "Zendesk help center",
+        "evidence": "structural-only",
+        "local_adapter": true,
+        "zero_remote_runtime": true
+      },
+      {
+        "name": "imgix image CDN",
+        "evidence": "directly-observed",
+        "local_adapter": false,
+        "zero_remote_runtime": true,
+        "note": "assets localized at capture"
+      },
+      {
+        "name": "analytics/consent stack (GTM, Optimizely, Clarity, OneTrust/Ziff, pixels)",
+        "evidence": "directly-observed",
+        "local_adapter": false,
+        "zero_remote_runtime": true,
+        "note": "stripped"
+      },
+      {
+        "name": "transactional email (verification/receipts)",
+        "evidence": "inferred from signup flow",
+        "local_adapter": true,
+        "zero_remote_runtime": true,
+        "note": "clone local outbox; no real mail"
+      }
+    ]
+  },
+  "authority": {
+    "authentication_access": "request-human-live-view",
+    "credentials_persisted": false,
+    "authorized_source_mutations": [
+      "registered-bundle-cart-checkout-walk: user personally registers at handoff (handles captcha/verification); then within that session per task 671 add one active game bundle to cart at custom price $15 and proceed into checkout with a HARD STOP before any payment submission; wishlist add/remove and account-surface exploration included; no real payment, no real order, no messages to third parties"
+    ],
+    "requested_source_mutations": [],
+    "real_email_authorized": false,
+    "stripe_test_authorized": false,
+    "live_payment_authorized": false,
+    "push_authorized": false,
+    "pr_authorized": false,
+    "public_deployment_authorized": false,
+    "rights_or_redistribution_status": "unknown; robots.txt carries Ziff Davis notice prohibiting automated scraping/AI-training without written permission (licensing@ziffdavis.com) - recorded for human rights review; no publication without explicit human authorization"
+  },
+  "trace_acquisition": {
+    "mode": "adaptive",
+    "agent_must_initiate": true,
+    "text_ownership": "human-only",
+    "human_trace_texts": [
+      {
+        "human_trace_text_id": "ht-001",
+        "text": "Register an account on Humble Bundle, add a currently active game bundle to cart, set custom price to $15, and proceed to checkout Confirm the final review or confirmation view visibly reflects the requested choices and totals.",
+        "provided_at": "2026-08-20T21:00:00Z",
+        "source": "live-user-message",
+        "source_ref": "WB063-T02 / WB063-T23 (inventory task 671)",
+        "status": "confirmed"
+      }
+    ],
+    "trace_candidates": [
+      {
+        "candidate_id": "tc-001",
+        "agent_suggested_scope": "One authenticated handoff session: user registers personally (credential/captcha segment excluded from recording), then naturally walks ht-001 to the pre-payment stop; agent then autonomously explores /home/library, /home/purchases, /home/keys, wishlist, account settings, logout within the authorized session",
+        "role": "account-holder",
+        "why_needed": "registration semantics, tier/custom-price interaction, cart+checkout structure, and all /home/* interiors are unobservable anonymously (302 secureArea gate)",
+        "uncertainty_resolved": [
+          "registration submit + verification semantics",
+          "custom-price/tier unlock interaction",
+          "cart mechanics",
+          "checkout structure incl. promo/gift + payment method surface",
+          "library/keys/purchases structure",
+          "wishlist behavior",
+          "logout"
+        ],
+        "expected_coverage": [
+          "T02/T23",
+          "T07",
+          "T09",
+          "T10",
+          "T11",
+          "T12",
+          "T13 (to pre-payment)",
+          "T14",
+          "T08",
+          "T19 structure"
+        ],
+        "requires_authentication": true,
+        "requires_source_mutation": true,
+        "evidence_priority": "high",
+        "human_trace_text_id": "ht-001",
+        "text_status": "bound"
+      }
+    ],
+    "requested_traces": [],
+    "completed_traces": [],
+    "remaining_material_uncertainties": [
+      "tier unlock thresholds + charity split UI detail",
+      "checkout payment provider surface",
+      "library/keys/purchases interior structure",
+      "wishlist surface location",
+      "cart mechanism",
+      "currency freeze (geo CA$ observed vs task text $15)",
+      "forgot-password in-page reveal structure",
+      "support center content (CF challenge for curl)"
+    ]
+  },
+  "trajectory_recording": {
+    "channel": "human-local-chrome",
+    "recordings": [
+      {
+        "trace_id": "tr-001",
+        "side": "source",
+        "human_trace_text_id": "ht-001",
+        "environment": "human-local",
+        "runtime_identity": {
+          "browser": "Chrome 151 (the human's own, isolated debug profile)",
+          "viewport": "1440x900",
+          "locale": "en-US",
+          "timezone": "America/New_York"
+        },
+        "allowed_origins": [
+          "https://www.humblebundle.com"
+        ],
+        "output_dir": "materials/humble-bundle/artifacts/trajectory/tr-001",
+        "session_status": "recording",
+        "counts": {
+          "actions": 47,
+          "screenshots": 0,
+          "dropped_events": 4
+        },
+        "credential_segment": "not-recorded",
+        "screenshots_enabled": false,
+        "establishes": [
+          "routes",
+          "redirects",
+          "selectors",
+          "step-order",
+          "form-actions"
+        ],
+        "does_not_establish": [
+          "pixels",
+          "copy",
+          "network-closure",
+          "cross-origin-iframes"
+        ],
+        "uncertainty_resolved": [
+          "the human reaches the bundle through the header search rather than the bundles listing",
+          "the human types the amount into the custom-amount field rather than activating a preset control, which is the only route available because the walked $15 is not one of the bundle's preset prices",
+          "the bundle page submits a form that lands on /checkout"
+        ]
+      }
+    ],
+    "clone_side_recordings": [
+      {
+        "trace_id": "tr-001.clone",
+        "side": "clone",
+        "environment": "capture",
+        "output_dir": "materials/humble-bundle/artifacts/trajectory/tr-001.clone",
+        "counts": {
+          "actions": 33
+        },
+        "allowed_origins": [
+          "http://127.0.0.1:8098"
+        ]
+      }
+    ],
+    "two_sided_findings": [
+      {
+        "report": "materials/humble-bundle/artifacts/trajectory/tr-001.diff.json",
+        "authority": "diagnostic",
+        "similarity": 0.8182,
+        "finding_count": 4,
+        "disposition": "All four findings are demonstration differences, not clone omissions. Every element the source ledger names (#site-search, input[name=amount], the submitting form) exists in the clone and was exercised in the candidate run; the two unaligned entries are bare SPAN and DIV clicks the recorder cannot identify because it omits element text by design, and the extra candidate change event comes from typing a custom amount where the human activated a preset control. No candidate repair item was raised."
+      }
+    ]
+  },
+  "field_evidence": [
+    {
+      "field": "canonical_url",
+      "value": "https://www.humblebundle.com/",
+      "evidence": "301 chains from apex/http observed",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": false
+    },
+    {
+      "field": "site_id",
+      "value": "humble-bundle",
+      "evidence": "brand slug; matches historical ClawBench platform_key; repo collision check clean",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": false
+    },
+    {
+      "field": "display_name",
+      "value": "Humble Bundle",
+      "evidence": "title/logo/footer copy",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": false
+    },
+    {
+      "field": "purpose",
+      "value": "pay-what-you-want digital game bundles + store with charity share",
+      "evidence": "home/bundles page copy",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": false
+    },
+    {
+      "field": "locale",
+      "value": "en-US",
+      "evidence": "en content; locale subdomains for others; Language: English footer control",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": false
+    },
+    {
+      "field": "currency",
+      "value": "geo-derived (CA$ observed from this capture location; countryCode CA in state blob)",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": true,
+      "unresolved": "freeze-as-captured decision at capture time"
+    },
+    {
+      "field": "primary_nav",
+      "value": "Bundles/Games/Books/Software/Store/Choice/Blog/About; modal Sign Up/Log In on content pages + standalone /login /signup",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": true
+    },
+    {
+      "field": "search",
+      "value": "client-side Algolia (replica_product_query_site_search)",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": true
+    },
+    {
+      "field": "account_area",
+      "value": "/home/* behind 302 login?goto=&qs=reason=secureArea",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": false
+    },
+    {
+      "field": "auth_forms",
+      "value": "login: email/password/forgot-button/Google+Facebook SSO; signup: email/password>=8/newsletter/click-to-agree terms/Google SSO",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": true
+    },
+    {
+      "field": "help_center",
+      "value": "support.humblebundle.com Zendesk /hc/en-us",
+      "grade": "structural-only",
+      "confidence": "medium",
+      "refreeze": true
+    },
+    {
+      "field": "bundle_tiers_detail",
+      "value": "bundle pages embed full tier data server-side (webpack-bundle-page-data): tier_order, per-tier price/item lists, preset_prices, charity, MSRP. Anchor yes-chef-cooking-bundle = 3 PWYW tiers CA$9.71(7 items)/18.03(13)/22.19(16), charity FarmLink, ends 2026-09-10; secondary 2k-megahits-2026-bundle = single fixed tier CA$21.16, 15 items, MSRP CA$645.03, charity Covenant House",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": true
+    },
+    {
+      "field": "store_structure",
+      "value": "/store SSR shell + client-fetched products; first-party GET /store/api/search (filter,genre,platform,drm,search,sort[discount|alphabetical|newest|bestselling],page,developer,publisher) is CF-protected for tokenless clients (403); Algolia is the client search path; product detail /store/<slug> = SSR shell + JSON-LD (name/brand/price CAD/availability/aggregateRating) with remainder client-rendered; search results AND no-results fully client-rendered",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": true
+    },
+    {
+      "field": "cart_mechanism",
+      "value": "no /cart route (404): cart is client-side modal/drawer state (MAX_CART_SIZE 20, MAX_WISHLIST_SIZE 100); checkout at /checkout",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": true
+    },
+    {
+      "field": "anchor_bundle",
+      "value": "primary = /games/yes-chef-cooking-bundle ($15 custom price valid in captured CAD, true multi-tier PWYW, longest runway to 2026-09-10); secondary evidence = 2k-megahits-2026-bundle (its ~US$14.97 fixed price explains task text '$15'; CAD floor 21.16 would reject $15)",
+      "grade": "directly-observed",
+      "confidence": "high",
+      "refreeze": true
+    }
+  ],
+  "unresolved": [
+    "currency freeze: geo gives CAD here; anchor decision makes $15 valid on yes-chef-cooking-bundle in CAD; freeze-as-captured (CAD) and record known difference incl. 2K/US$ correlation",
+    "tablet viewport selection deferred to observed breakpoints",
+    "support center capture path (real browser vs local help fallback + known difference)",
+    "store search runtime endpoint discovery (Algolia XHR) during capture",
+    "one unexplained /bundles -> /login self-navigation in MCP tab during preflight (not reproduced; monitor)",
+    "SSO buttons offline handling = truthful local message (known difference)",
+    "robots-disallowed store legacy paths (/store/product/*, /widget/v2/*) excluded from anonymous capture",
+    "store product hydrated content (badges/sysreqs/reviews) requires browser capture (first-party API CF-protected for tokenless clients)"
+  ]
+}

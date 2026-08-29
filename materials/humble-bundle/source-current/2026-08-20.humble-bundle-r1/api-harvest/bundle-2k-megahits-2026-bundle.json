@@ -1,0 +1,5552 @@
+{
+ "userOptions": {
+  "is_logged_in": false,
+  "logout_url": "/logout?goto=/games/2k-megahits-2026-bundle&qs="
+ },
+ "showSingleSignOn": true,
+ "debug": false,
+ "ipInChina": false,
+ "isEuCountry": false,
+ "baseSubscriptionPrice|money": {
+  "currency": "CAD",
+  "amount": 17.99
+ },
+ "bannerOptions": null,
+ "exchangeRates": {
+  "USD|decimal": 1.0,
+  "AUD|decimal": 1.4132701421800948,
+  "CHF|decimal": 0.8101680310211116,
+  "IDR|decimal": 17832.098233520035,
+  "KRW|decimal": 1391.4778112882377,
+  "CNY|decimal": 6.738216286083585,
+  "ISK|decimal": 122.53339077983628,
+  "ILS|decimal": 2.987160706591986,
+  "GBP|decimal": 0.7376820336062042,
+  "NZD|decimal": 1.700818612666954,
+  "DKK|decimal": 6.441964670400689,
+  "CAD|decimal": 1.3871607065919862,
+  "TRY|decimal": 47.934597156398105,
+  "HUF|decimal": 314.1576906505816,
+  "PHP|decimal": 61.82076691081431,
+  "RON|decimal": 4.520809995691512,
+  "NOK|decimal": 9.40155105557949,
+  "RUB|decimal": 117.201,
+  "ZAR|decimal": 16.244291253769926,
+  "MYR|decimal": 4.0574752261956055,
+  "MXN|decimal": 17.036535975872468,
+  "INR|decimal": 95.7574321413184,
+  "THB|decimal": 33.06505816458423,
+  "JPY|decimal": 159.0866006031883,
+  "CZK|decimal": 20.821197759586386,
+  "BRL|decimal": 5.204136148211978,
+  "PLN|decimal": 3.726411029728565,
+  "EUR|decimal": 0.8616975441619992,
+  "SEK|decimal": 9.511848341232227,
+  "SGD|decimal": 1.2761740629039207,
+  "HKD|decimal": 7.841619991383024
+ },
+ "csrfTokenInput": "REDACTED-CSRF-TOKEN",
+ "csrfToken": "REDACTED-CSRF-TOKEN",
+ "user_max_reward_amount": 0,
+ "csrfFormKey": "REDACTED-CSRF-TOKEN",
+ "bundleData": {
+  "machine_name": "2kmegahits2026bundle_bundle",
+  "jplayer_swf_path": "https://cdn.humblebundle.com/static/hashed/682bac84e8df7e444ab9127ce8e22f626caf0e41.swf",
+  "at_risk_tpkds": {},
+  "tier_display_data": {
+   "initial": {
+    "header": "Pay CA$21.16 to unlock!",
+    "identifier": "initial",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "riskofrain2",
+     "borderlands3",
+     "mafia2_definitive",
+     "bioshockinfinite",
+     "tinytinaswonderlands",
+     "thequarry",
+     "tribesofmidgard_deluxe",
+     "homeworld_remasteredcollection",
+     "talesfromtheborderlands",
+     "bulletstorm_fullclip",
+     "dukenukem3d_20thanniversaryworldtour",
+     "hiddenanddangerous_bundle",
+     "thedarkness2",
+     "xcom_ufodefense",
+     "xcom_enemyunknown"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   }
+  },
+  "tier_order": [
+   "initial"
+  ],
+  "is_all_charity_bundle": false,
+  "author": "Take 2 Interactive",
+  "tax_type": null,
+  "preset_prices": [
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 30.0
+    },
+    "suggested": true,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 35.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 40.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 45.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 50.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   }
+  ],
+  "cyoc_data": {},
+  "average_data": {
+   "average_usd_amount|decimal": 15.69285356463012,
+   "average_usd_string": "15.69285356463012042961628663",
+   "avguuid": "tyUN34knWOrz2dbB",
+   "cleanavg": "15.69",
+   "average_usd|money": {
+    "currency": "USD",
+    "amount": 15.69285356463012
+   },
+   "average|money": {
+    "currency": "CAD",
+    "amount": 21.76
+   },
+   "avghash": "VM9d8gVp3BdSY39dEVQrN5otF/zB95ahKxh6SFHW+V0="
+  },
+  "leaderboard_data": [
+   {
+    "name": "x24Rocks",
+    "order_price|money": {
+     "currency": "CAD",
+     "amount": 100.0
+    }
+   },
+   {
+    "name": "Anonymous",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 45.0
+    }
+   },
+   {
+    "name": "Knowlie",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 30.0
+    }
+   },
+   {
+    "name": "Litsuwu",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "FOR CHARITY!!!",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "Viniloco",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "Gurem",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "Le G",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "Freakzoid",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 24.0
+    }
+   }
+  ],
+  "empty_tpkds": {},
+  "at_time|datetime": "2026-08-20T22:44:46.258112",
+  "basic_data": {
+   "eula": null,
+   "split_disclaimer": null,
+   "currency": "CAD",
+   "giving_fund": "ppgf",
+   "logo": "https://hb.imgix.net/44ec72bf505ae2a91de270982014714d40aecc47.png?auto=compress,format&h=340&w=1200&s=478ea47e6280a088902b1468d60c9594",
+   "disallowed_payment_processors": [],
+   "newsletter_mailing_list_machine_name": "bundle_emails",
+   "supports_partners": true,
+   "detailed_marketing_blurb": "If your gaming library needs a summer refresh, look no further than this bundle of publisher 2K\u2019s greatest hits!! Here you\u2019ll find monster battling games, steampunk adventures, mobster action, and everything in between. Survive a hostile alien planet full of vicious beasts and plenty of loot in <em>Risk of Rain 2</em>! Work your way up the crime family ladder and become mobster royalty without getting whacked in <em>Mafia II: Definitive Edition</em>! Save a woman from a flying city and discover the secrets of <em>BioShock Infinite</em>! There are even more hidden gems and fan favorites to explore in this bundle, so grab it now at the price of your choosing and support Covenant House with your purchase! <br/><br/><span style=\"color: #ef9741;\">Keys expire. Please redeem and activate on Steam before February 7th, 2027. </span>",
+   "order_form_disclaimer": null,
+   "media_type": "game",
+   "description": "<p><strong>Playing the hits.</strong> If your gaming library needs a summer refresh, look no further than this bundle of publisher 2K\u2019s greatest hits!! Here you\u2019ll find monster battling games, steampunk adventures, mobster action, and everything in between. Survive a hostile alien planet full of vicious beasts and plenty of loot in <em>Risk of Rain 2</em>! Work your way up the crime family ladder and become mobster royalty without getting whacked in <em>Mafia II: Definitive Edition</em>! Save a woman from a flying city and discover the secrets of <em>BioShock Infinite</em>! There are even more hidden gems and fan favorites to explore in this bundle, so grab it now at the price of your choosing and support Covenant House with your purchase! <br><br><strong><span style=\"color: #ef9741;\">Keys expire. Please redeem and activate on Steam before February 7th, 2027.</span></strong></p>\n<p><strong>Pay CA$21.16 or more.</strong> Normally, the total cost for the games in this bundle is as much as US$465. Here at Humble Bundle, you choose the price and increase your contribution to upgrade your bundle! This bundle has a minimum CA$21.16 purchase. Pay CA$21.16 or more to access Steam keys. Please review the system requirements <a href=\"https://support.humblebundle.com/hc/en-us/articles/53096078333595\">here</a> prior to purchasing.</p>\n<p><strong>Redeem on Steam.</strong> All of the games in this bundle are available on Steam for Windows \u2014 and some for Mac and Linux too.</p>\n<p><strong>Support charity.</strong> Choose where the money goes - between the developer and to support Covenant House. If you like what we do, you can leave us a Humble Tip too!</p>",
+   "legal_disclaimer": null,
+   "page_title_tag": "",
+   "short_marketing_blurb": "Playing the hits",
+   "required_account_links": [
+    "steam"
+   ],
+   "require_linked_third_party_account_when": "only-when-free",
+   "region_lock_warnings": {},
+   "youtube_video_key": null,
+   "twitch_data": {},
+   "allowed_payment_processors": [
+    "free",
+    "paypal",
+    "alipay",
+    "alipay_payment_intent",
+    "stripe_checkout",
+    "stripe_payment_intent"
+   ],
+   "end_time|datetime": "2026-08-22T04:00:00",
+   "msrp|money": {
+    "currency": "CAD",
+    "amount": 645.0297285652736
+   },
+   "human_name": "2K Megahits 2026 Bundle",
+   "tpkd_cutoff_price|money": {
+    "currency": "CAD",
+    "amount": 21.16
+   }
+  },
+  "tier_pricing_data": {
+   "initial": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 21.77
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": true,
+    "identifier": "initial",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   }
+  },
+  "partner_data": null,
+  "other_bundles_data": [
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/yeschefcookingbundle_bundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       208.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$208"
+    },
+    "machine_name": "yeschefcookingbundle_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=cd648c330733cbf4e8ae61aeaccacfe2",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Chef Knight</em>, <em>Pizza Possum</em>, <em>The Chef's Shift</em>, <em>Tailside: Cozy Cafe Sim</em>, <em>Tavern Manager Simulator</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/yes-chef-cooking-bundle",
+    "tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e6118af1c71a67d3aa9db97b9ade14d3",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        7.32,
+        "EUR"
+       ],
+       "FR": [
+        7.26,
+        "EUR"
+       ],
+       "BG": [
+        7.26,
+        "EUR"
+       ],
+       "DK": [
+        7.56,
+        "EUR"
+       ],
+       "HR": [
+        7.56,
+        "EUR"
+       ],
+       "DE": [
+        7.19,
+        "EUR"
+       ],
+       "JP": [
+        7.7,
+        "USD"
+       ],
+       "HU": [
+        7.68,
+        "EUR"
+       ],
+       "US": [
+        7.0,
+        "USD"
+       ],
+       "FI": [
+        7.59,
+        "EUR"
+       ],
+       "BY": [
+        8.26,
+        "USD"
+       ],
+       "GR": [
+        7.5,
+        "EUR"
+       ],
+       "RU": [
+        957.13,
+        "RUB"
+       ],
+       "NL": [
+        7.32,
+        "EUR"
+       ],
+       "PT": [
+        7.44,
+        "EUR"
+       ],
+       "NO": [
+        7.56,
+        "EUR"
+       ],
+       "TW": [
+        7.35,
+        "USD"
+       ],
+       "TR": [
+        335.19,
+        "TRY"
+       ],
+       "NZ": [
+        13.66,
+        "NZD"
+       ],
+       "LV": [
+        7.32,
+        "EUR"
+       ],
+       "LT": [
+        7.13,
+        "EUR"
+       ],
+       "LU": [
+        7.07,
+        "EUR"
+       ],
+       "TH": [
+        7.49,
+        "USD"
+       ],
+       "PH": [
+        429.71,
+        "PHP"
+       ],
+       "RO": [
+        7.01,
+        "EUR"
+       ],
+       "IS": [
+        8.68,
+        "USD"
+       ],
+       "PL": [
+        7.44,
+        "EUR"
+       ],
+       "CH": [
+        6.54,
+        "EUR"
+       ],
+       "MT": [
+        7.13,
+        "EUR"
+       ],
+       "CN": [
+        47.18,
+        "CNY"
+       ],
+       "CL": [
+        8.33,
+        "USD"
+       ],
+       "EE": [
+        7.38,
+        "EUR"
+       ],
+       "EG": [
+        7.98,
+        "USD"
+       ],
+       "IT": [
+        7.38,
+        "EUR"
+       ],
+       "ZA": [
+        8.05,
+        "USD"
+       ],
+       "CZ": [
+        7.32,
+        "EUR"
+       ],
+       "CY": [
+        7.19,
+        "EUR"
+       ],
+       "AU": [
+        10.86,
+        "AUD"
+       ],
+       "GB": [
+        6.2,
+        "GBP"
+       ],
+       "IN": [
+        8.26,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        5.17,
+        "GBP"
+       ],
+       "IE": [
+        7.44,
+        "EUR"
+       ],
+       "ES": [
+        7.32,
+        "EUR"
+       ],
+       "MD": [
+        8.4,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        6.05,
+        "EUR"
+       ],
+       "UA": [
+        8.4,
+        "USD"
+       ],
+       "CA": [
+        9.71,
+        "CAD"
+       ],
+       "SK": [
+        7.44,
+        "EUR"
+       ],
+       "KR": [
+        7.7,
+        "USD"
+       ],
+       "SI": [
+        7.38,
+        "EUR"
+       ],
+       "SG": [
+        7.63,
+        "USD"
+       ],
+       "MX": [
+        8.12,
+        "USD"
+       ],
+       "SE": [
+        7.56,
+        "EUR"
+       ],
+       "AT": [
+        7.26,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt13",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        13.58,
+        "EUR"
+       ],
+       "FR": [
+        13.47,
+        "EUR"
+       ],
+       "BG": [
+        13.47,
+        "EUR"
+       ],
+       "DK": [
+        14.03,
+        "EUR"
+       ],
+       "HR": [
+        14.03,
+        "EUR"
+       ],
+       "DE": [
+        13.36,
+        "EUR"
+       ],
+       "JP": [
+        14.3,
+        "USD"
+       ],
+       "HU": [
+        14.26,
+        "EUR"
+       ],
+       "US": [
+        13.0,
+        "USD"
+       ],
+       "FI": [
+        14.09,
+        "EUR"
+       ],
+       "BY": [
+        15.34,
+        "USD"
+       ],
+       "GR": [
+        13.92,
+        "EUR"
+       ],
+       "RU": [
+        1777.54,
+        "RUB"
+       ],
+       "NL": [
+        13.58,
+        "EUR"
+       ],
+       "PT": [
+        13.81,
+        "EUR"
+       ],
+       "NO": [
+        14.03,
+        "EUR"
+       ],
+       "TW": [
+        13.65,
+        "USD"
+       ],
+       "TR": [
+        622.49,
+        "TRY"
+       ],
+       "NZ": [
+        25.38,
+        "NZD"
+       ],
+       "LV": [
+        13.58,
+        "EUR"
+       ],
+       "LT": [
+        13.25,
+        "EUR"
+       ],
+       "LU": [
+        13.13,
+        "EUR"
+       ],
+       "TH": [
+        13.91,
+        "USD"
+       ],
+       "PH": [
+        798.04,
+        "PHP"
+       ],
+       "RO": [
+        13.02,
+        "EUR"
+       ],
+       "IS": [
+        16.12,
+        "USD"
+       ],
+       "PL": [
+        13.81,
+        "EUR"
+       ],
+       "CH": [
+        12.13,
+        "EUR"
+       ],
+       "MT": [
+        13.25,
+        "EUR"
+       ],
+       "CN": [
+        87.63,
+        "CNY"
+       ],
+       "CL": [
+        15.47,
+        "USD"
+       ],
+       "EE": [
+        13.7,
+        "EUR"
+       ],
+       "EG": [
+        14.82,
+        "USD"
+       ],
+       "IT": [
+        13.7,
+        "EUR"
+       ],
+       "ZA": [
+        14.95,
+        "USD"
+       ],
+       "CZ": [
+        13.58,
+        "EUR"
+       ],
+       "CY": [
+        13.36,
+        "EUR"
+       ],
+       "AU": [
+        20.18,
+        "AUD"
+       ],
+       "GB": [
+        11.52,
+        "GBP"
+       ],
+       "IN": [
+        15.34,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        9.6,
+        "GBP"
+       ],
+       "IE": [
+        13.81,
+        "EUR"
+       ],
+       "ES": [
+        13.58,
+        "EUR"
+       ],
+       "MD": [
+        15.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        11.23,
+        "EUR"
+       ],
+       "UA": [
+        15.6,
+        "USD"
+       ],
+       "CA": [
+        18.03,
+        "CAD"
+       ],
+       "SK": [
+        13.81,
+        "EUR"
+       ],
+       "KR": [
+        14.3,
+        "USD"
+       ],
+       "SI": [
+        13.7,
+        "EUR"
+       ],
+       "SG": [
+        14.17,
+        "USD"
+       ],
+       "MX": [
+        15.08,
+        "USD"
+       ],
+       "SE": [
+        14.03,
+        "EUR"
+       ],
+       "AT": [
+        13.47,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt13_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt16",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.73,
+        "EUR"
+       ],
+       "FR": [
+        16.59,
+        "EUR"
+       ],
+       "BG": [
+        16.59,
+        "EUR"
+       ],
+       "DK": [
+        17.28,
+        "EUR"
+       ],
+       "HR": [
+        17.28,
+        "EUR"
+       ],
+       "DE": [
+        16.45,
+        "EUR"
+       ],
+       "JP": [
+        17.6,
+        "USD"
+       ],
+       "HU": [
+        17.56,
+        "EUR"
+       ],
+       "US": [
+        16.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        18.88,
+        "USD"
+       ],
+       "GR": [
+        17.14,
+        "EUR"
+       ],
+       "RU": [
+        2187.74,
+        "RUB"
+       ],
+       "NL": [
+        16.73,
+        "EUR"
+       ],
+       "PT": [
+        17.01,
+        "EUR"
+       ],
+       "NO": [
+        17.28,
+        "EUR"
+       ],
+       "TW": [
+        16.8,
+        "USD"
+       ],
+       "TR": [
+        766.15,
+        "TRY"
+       ],
+       "NZ": [
+        31.23,
+        "NZD"
+       ],
+       "LV": [
+        16.73,
+        "EUR"
+       ],
+       "LT": [
+        16.31,
+        "EUR"
+       ],
+       "LU": [
+        16.18,
+        "EUR"
+       ],
+       "TH": [
+        17.12,
+        "USD"
+       ],
+       "PH": [
+        982.21,
+        "PHP"
+       ],
+       "RO": [
+        16.04,
+        "EUR"
+       ],
+       "IS": [
+        19.84,
+        "USD"
+       ],
+       "PL": [
+        17.01,
+        "EUR"
+       ],
+       "CH": [
+        14.95,
+        "EUR"
+       ],
+       "MT": [
+        16.31,
+        "EUR"
+       ],
+       "CN": [
+        107.86,
+        "CNY"
+       ],
+       "CL": [
+        19.04,
+        "USD"
+       ],
+       "EE": [
+        16.87,
+        "EUR"
+       ],
+       "EG": [
+        18.24,
+        "USD"
+       ],
+       "IT": [
+        16.87,
+        "EUR"
+       ],
+       "ZA": [
+        18.4,
+        "USD"
+       ],
+       "CZ": [
+        16.73,
+        "EUR"
+       ],
+       "CY": [
+        16.45,
+        "EUR"
+       ],
+       "AU": [
+        24.84,
+        "AUD"
+       ],
+       "GB": [
+        14.17,
+        "GBP"
+       ],
+       "IN": [
+        18.88,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.81,
+        "GBP"
+       ],
+       "IE": [
+        17.01,
+        "EUR"
+       ],
+       "ES": [
+        16.73,
+        "EUR"
+       ],
+       "MD": [
+        19.2,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        13.83,
+        "EUR"
+       ],
+       "UA": [
+        19.2,
+        "USD"
+       ],
+       "CA": [
+        22.19,
+        "CAD"
+       ],
+       "SK": [
+        17.01,
+        "EUR"
+       ],
+       "KR": [
+        17.6,
+        "USD"
+       ],
+       "SI": [
+        16.87,
+        "EUR"
+       ],
+       "SG": [
+        17.44,
+        "USD"
+       ],
+       "MX": [
+        18.56,
+        "USD"
+       ],
+       "SE": [
+        17.28,
+        "EUR"
+       ],
+       "AT": [
+        16.59,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt16_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$208 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$208."
+     },
+     {
+      "heading": "Pay AU$10.86 or more",
+      "tooltip": "Name your price of AU$10.86 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$10.86 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T04:00:00",
+    "author": "Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Take your chef skills to the next level with this bundle of tasty cooking games! Whether you\u2019re an amateur at best IRL or a seasoned professional in the kitchen, you\u2019re sure to find the perfect cooking challenge. Keep the ale flowing and the mood high in the charmingly old-timey <em>Tavern Manager Simulator</em>! Let your fingers fly across the keyboard in the high-octane typing game <em>The Chef\u2019s Shift</em>! (Say that three times fast.) Become the sneaky, ravenous beast you were always meant to be in arcade game <em>Pizza Possum</em>! Whatever your speed, whatever your tastes, this bundle of cooking games will satisfy any appetite! Grab these tasty treats while you can at the price of your choice, and support the FarmLink Project with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027. </span>",
+    "tile_logo": "https://hb.imgix.net/1816638967eeb74efee1af1d5edb39dbf288d2d9.png?auto=compress,format&h=340&w=1200&s=1aa4086e9cbdbfae27bff97e7cc2f377",
+    "tile_short_name": "Yes Chef! - Cooking Bundle",
+    "start_date|datetime": "2026-08-19T18:00:00",
+    "hover_highlights": [
+     "16 games",
+     "US$208 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Yes Chef! - Cooking Bundle",
+    "short_marketing_blurb": "Order up!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "16 games",
+     "US$208 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/gregbearbirthdaybundleopenroadmedia_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       324.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$324"
+    },
+    "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=576eb764f980a4edc4ff65123ee0224e",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em></em>, <em></em>, <em>Anvil of Stars</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/greg-bear-birthday-bundle-open-road-media-books",
+    "tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=353&w=616&s=73a07b9e661f143511f78cc6f714eba4",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        2.78,
+        "EUR"
+       ],
+       "FR": [
+        2.77,
+        "EUR"
+       ],
+       "BG": [
+        3.15,
+        "EUR"
+       ],
+       "DK": [
+        3.28,
+        "EUR"
+       ],
+       "HR": [
+        2.76,
+        "EUR"
+       ],
+       "DE": [
+        2.81,
+        "EUR"
+       ],
+       "JP": [
+        3.3,
+        "USD"
+       ],
+       "HU": [
+        3.34,
+        "EUR"
+       ],
+       "US": [
+        3.0,
+        "USD"
+       ],
+       "FI": [
+        2.89,
+        "EUR"
+       ],
+       "BY": [
+        3.54,
+        "USD"
+       ],
+       "GR": [
+        2.78,
+        "EUR"
+       ],
+       "RU": [
+        383.56,
+        "RUB"
+       ],
+       "NL": [
+        2.86,
+        "EUR"
+       ],
+       "PT": [
+        2.78,
+        "EUR"
+       ],
+       "NO": [
+        2.63,
+        "EUR"
+       ],
+       "TW": [
+        3.15,
+        "USD"
+       ],
+       "TR": [
+        141.09,
+        "TRY"
+       ],
+       "NZ": [
+        5.92,
+        "NZD"
+       ],
+       "LV": [
+        2.76,
+        "EUR"
+       ],
+       "LT": [
+        2.86,
+        "EUR"
+       ],
+       "LU": [
+        2.7,
+        "EUR"
+       ],
+       "TH": [
+        3.0,
+        "USD"
+       ],
+       "PH": [
+        185.06,
+        "PHP"
+       ],
+       "RO": [
+        2.76,
+        "EUR"
+       ],
+       "IS": [
+        3.33,
+        "USD"
+       ],
+       "PL": [
+        2.76,
+        "EUR"
+       ],
+       "CH": [
+        2.69,
+        "EUR"
+       ],
+       "MT": [
+        2.76,
+        "EUR"
+       ],
+       "CN": [
+        20.32,
+        "CNY"
+       ],
+       "CL": [
+        3.57,
+        "USD"
+       ],
+       "EE": [
+        2.86,
+        "EUR"
+       ],
+       "EG": [
+        3.42,
+        "USD"
+       ],
+       "IT": [
+        2.73,
+        "EUR"
+       ],
+       "ZA": [
+        3.45,
+        "USD"
+       ],
+       "CZ": [
+        2.63,
+        "EUR"
+       ],
+       "CY": [
+        3.12,
+        "EUR"
+       ],
+       "AU": [
+        4.71,
+        "AUD"
+       ],
+       "GB": [
+        2.23,
+        "GBP"
+       ],
+       "IN": [
+        3.54,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        2.23,
+        "GBP"
+       ],
+       "IE": [
+        2.63,
+        "EUR"
+       ],
+       "ES": [
+        2.73,
+        "EUR"
+       ],
+       "MD": [
+        3.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        2.63,
+        "EUR"
+       ],
+       "UA": [
+        3.6,
+        "USD"
+       ],
+       "CA": [
+        4.22,
+        "CAD"
+       ],
+       "SK": [
+        3.23,
+        "EUR"
+       ],
+       "KR": [
+        3.3,
+        "USD"
+       ],
+       "SI": [
+        2.76,
+        "EUR"
+       ],
+       "SG": [
+        3.27,
+        "USD"
+       ],
+       "MX": [
+        3.48,
+        "USD"
+       ],
+       "SE": [
+        2.78,
+        "EUR"
+       ],
+       "AT": [
+        2.89,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        9.28,
+        "EUR"
+       ],
+       "FR": [
+        9.24,
+        "EUR"
+       ],
+       "BG": [
+        10.51,
+        "EUR"
+       ],
+       "DK": [
+        10.95,
+        "EUR"
+       ],
+       "HR": [
+        9.19,
+        "EUR"
+       ],
+       "DE": [
+        9.37,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        11.12,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        9.63,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        9.28,
+        "EUR"
+       ],
+       "RU": [
+        1278.55,
+        "RUB"
+       ],
+       "NL": [
+        9.54,
+        "EUR"
+       ],
+       "PT": [
+        9.28,
+        "EUR"
+       ],
+       "NO": [
+        8.76,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        470.31,
+        "TRY"
+       ],
+       "NZ": [
+        19.76,
+        "NZD"
+       ],
+       "LV": [
+        9.19,
+        "EUR"
+       ],
+       "LT": [
+        9.54,
+        "EUR"
+       ],
+       "LU": [
+        9.02,
+        "EUR"
+       ],
+       "TH": [
+        10.0,
+        "USD"
+       ],
+       "PH": [
+        616.87,
+        "PHP"
+       ],
+       "RO": [
+        9.19,
+        "EUR"
+       ],
+       "IS": [
+        11.1,
+        "USD"
+       ],
+       "PL": [
+        9.19,
+        "EUR"
+       ],
+       "CH": [
+        8.98,
+        "EUR"
+       ],
+       "MT": [
+        9.19,
+        "EUR"
+       ],
+       "CN": [
+        67.74,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        9.54,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        9.11,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        8.76,
+        "EUR"
+       ],
+       "CY": [
+        10.42,
+        "EUR"
+       ],
+       "AU": [
+        15.75,
+        "AUD"
+       ],
+       "GB": [
+        7.46,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.46,
+        "GBP"
+       ],
+       "IE": [
+        8.76,
+        "EUR"
+       ],
+       "ES": [
+        9.11,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.76,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        14.07,
+        "CAD"
+       ],
+       "SK": [
+        10.77,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        9.19,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        9.28,
+        "EUR"
+       ],
+       "AT": [
+        9.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt18",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.72,
+        "EUR"
+       ],
+       "FR": [
+        16.64,
+        "EUR"
+       ],
+       "BG": [
+        18.93,
+        "EUR"
+       ],
+       "DK": [
+        19.72,
+        "EUR"
+       ],
+       "HR": [
+        16.56,
+        "EUR"
+       ],
+       "DE": [
+        16.88,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        20.04,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.72,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.2,
+        "EUR"
+       ],
+       "PT": [
+        16.72,
+        "EUR"
+       ],
+       "NO": [
+        15.78,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.56,
+        "TRY"
+       ],
+       "NZ": [
+        35.58,
+        "NZD"
+       ],
+       "LV": [
+        16.56,
+        "EUR"
+       ],
+       "LT": [
+        17.2,
+        "EUR"
+       ],
+       "LU": [
+        16.25,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1110.37,
+        "PHP"
+       ],
+       "RO": [
+        16.56,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.56,
+        "EUR"
+       ],
+       "CH": [
+        16.19,
+        "EUR"
+       ],
+       "MT": [
+        16.56,
+        "EUR"
+       ],
+       "CN": [
+        121.93,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.2,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.41,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.78,
+        "EUR"
+       ],
+       "CY": [
+        18.77,
+        "EUR"
+       ],
+       "AU": [
+        28.34,
+        "AUD"
+       ],
+       "GB": [
+        13.42,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.42,
+        "GBP"
+       ],
+       "IE": [
+        15.78,
+        "EUR"
+       ],
+       "ES": [
+        16.41,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.78,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.33,
+        "CAD"
+       ],
+       "SK": [
+        19.4,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.56,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.72,
+        "EUR"
+       ],
+       "AT": [
+        17.35,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt18_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$324 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$324."
+     },
+     {
+      "heading": "Pay AU$4.71 or more",
+      "tooltip": "Name your price of AU$4.71 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub and PRC file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T18:00:00",
+    "author": "Open Road Media",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "The world of science fiction lost a titan when novelist Greg Bear passed away in 2022, but his books remain a perfect example of exactly what sci-fi was always meant to be. Author of over 50 books and co-founder of San Diego Comic Con, Bear made loving sci-fi into a career that spanned five decades. His work, which tested the limits of human (and non-human) consciousness and looked toward the far future and beyond, inspires and excites readers to this day. To celebrate what would have been Greg Bear\u2019s 75th Birthday, in partnership with Open Road Media, we\u2019ve collected a bundle of his best novels including award-winning classics like first contact thriller <em>Eon</em>, alien invasion drama <em>The Forge of God</em>, and post-apocalyptic space odyssey <em>Anvil of Stars</em>! Get a motherlode of some of the best sci-fi ever written for the price of your choosing, and support the Science Fiction & Fantasy Writers Association with your purchase!",
+    "tile_logo": "https://hb.imgix.net/ec343992eae9f55f52c94db55a21017493a1db5e.png?auto=compress,format&h=340&w=1200&s=de401b9bb65fa73cf486e75484327755",
+    "tile_short_name": "The Greg Bear Birthday Bundle by Open Road Media",
+    "start_date|datetime": "2026-08-20T18:00:00",
+    "hover_highlights": [
+     "27 books",
+     "US$324 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Greg Bear Birthday Bundle by Open Road Media",
+    "short_marketing_blurb": "Celebrate the birthday of one of sci-fi\u2019s masters",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "27 books",
+     "US$324 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       688.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$688"
+    },
+    "machine_name": "ultimatevegancookbookbundlepagestreetpublishing_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=14b3f02ee5e8d25f832e91d31c618ae4",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Vegan YUM</em>, <em>Blk + Vegan</em>, <em>Frugal Vegan</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books",
+    "tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0b3ac49bb877ce81a0ab161192d5990c",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.63,
+        "EUR"
+       ],
+       "FR": [
+        16.55,
+        "EUR"
+       ],
+       "BG": [
+        18.82,
+        "EUR"
+       ],
+       "DK": [
+        19.61,
+        "EUR"
+       ],
+       "HR": [
+        16.47,
+        "EUR"
+       ],
+       "DE": [
+        16.78,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        19.92,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.25,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.63,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.1,
+        "EUR"
+       ],
+       "PT": [
+        16.63,
+        "EUR"
+       ],
+       "NO": [
+        15.69,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.98,
+        "TRY"
+       ],
+       "NZ": [
+        35.33,
+        "NZD"
+       ],
+       "LV": [
+        16.47,
+        "EUR"
+       ],
+       "LT": [
+        17.1,
+        "EUR"
+       ],
+       "LU": [
+        16.16,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1109.27,
+        "PHP"
+       ],
+       "RO": [
+        16.47,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.47,
+        "EUR"
+       ],
+       "CH": [
+        16.09,
+        "EUR"
+       ],
+       "MT": [
+        16.47,
+        "EUR"
+       ],
+       "CN": [
+        121.8,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.1,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.31,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.69,
+        "EUR"
+       ],
+       "CY": [
+        18.67,
+        "EUR"
+       ],
+       "AU": [
+        28.24,
+        "AUD"
+       ],
+       "GB": [
+        13.32,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.32,
+        "GBP"
+       ],
+       "IE": [
+        15.69,
+        "EUR"
+       ],
+       "ES": [
+        16.31,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.69,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.24,
+        "CAD"
+       ],
+       "SK": [
+        19.29,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.47,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.63,
+        "EUR"
+       ],
+       "AT": [
+        17.25,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$688 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$688."
+     },
+     {
+      "heading": "Pay AU$28.24 or more",
+      "tooltip": "Name your price of AU$28.24 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-08-27T18:00:00",
+    "author": "Macmillan Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Whether you\u2019re committed to the plant-based lifestyle or thinking about giving it a try, there\u2019s never been a better time to go vegan\u2014especially with this bundle of over 60 vegan cookbooks! We\u2019ve teamed up with Page Street Publishing for a treasure trove of recipes that bring the joys of veganism right to your home kitchen. If you\u2019re looking for Southern soul food with a vegetarian twist, scrumptious Mexican food that keeps things verde, delicious Asian-inspired meals for herbivores, or just tips on how to save while keeping your meals cruelty-free, you\u2019ll find all of that and so much more in this bundle! Grab these cooking ebooks at the price of your choice, and help support World Central Kitchen with your purchase!",
+    "tile_logo": "https://hb.imgix.net/aea8eefba51947fd4c44590e19559aa148a43891.png?auto=compress,format&h=340&w=1200&s=07aca8396c86f115a29216a98a3c6258",
+    "tile_short_name": "The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "start_date|datetime": "2026-07-30T18:00:00",
+    "hover_highlights": [
+     "61 books",
+     "US$688 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "short_marketing_blurb": "Powered by plants",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [
+     "CA"
+    ],
+    "highlights": [
+     "Pay What You Want",
+     "61 books",
+     "US$688 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/softwareengineeringmanning_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       1644.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$1,644"
+    },
+    "machine_name": "softwareengineeringmanning_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/1fe500e35e1b971fc7d2a5f4597bf7ae01c580d4.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=5bdcfc50742ce4d8f94db934a9f53b13",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Modern Fortran</em>, <em>Looks Good to Me</em>, <em>Think Distributed Systems</em>, <em>Architecture Modernization</em>, <em>Grokking Algorithms, Second Edition</em>, <em>Advanced Algorithms and Data Structures</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/software-engineering-manning-books",
+    "tile_image": "https://hb.imgix.net/1fe500e35e1b971fc7d2a5f4597bf7ae01c580d4.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ab73878b818ab2df171afc9c88dfc74b",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        8.25,
+        "EUR"
+       ],
+       "FR": [
+        8.21,
+        "EUR"
+       ],
+       "BG": [
+        9.34,
+        "EUR"
+       ],
+       "DK": [
+        9.73,
+        "EUR"
+       ],
+       "HR": [
+        8.17,
+        "EUR"
+       ],
+       "DE": [
+        8.33,
+        "EUR"
+       ],
+       "JP": [
+        9.9,
+        "USD"
+       ],
+       "HU": [
+        9.89,
+        "EUR"
+       ],
+       "US": [
+        9.0,
+        "USD"
+       ],
+       "FI": [
+        8.56,
+        "EUR"
+       ],
+       "BY": [
+        10.62,
+        "USD"
+       ],
+       "GR": [
+        8.25,
+        "EUR"
+       ],
+       "RU": [
+        1150.69,
+        "RUB"
+       ],
+       "NL": [
+        8.49,
+        "EUR"
+       ],
+       "PT": [
+        8.25,
+        "EUR"
+       ],
+       "NO": [
+        7.79,
+        "EUR"
+       ],
+       "TW": [
+        9.45,
+        "USD"
+       ],
+       "TR": [
+        428.35,
+        "TRY"
+       ],
+       "NZ": [
+        17.58,
+        "NZD"
+       ],
+       "LV": [
+        8.17,
+        "EUR"
+       ],
+       "LT": [
+        8.49,
+        "EUR"
+       ],
+       "LU": [
+        8.02,
+        "EUR"
+       ],
+       "TH": [
+        9.0,
+        "USD"
+       ],
+       "PH": [
+        547.11,
+        "PHP"
+       ],
+       "RO": [
+        8.17,
+        "EUR"
+       ],
+       "IS": [
+        9.99,
+        "USD"
+       ],
+       "PL": [
+        8.17,
+        "EUR"
+       ],
+       "CH": [
+        7.99,
+        "EUR"
+       ],
+       "MT": [
+        8.17,
+        "EUR"
+       ],
+       "CN": [
+        60.74,
+        "CNY"
+       ],
+       "CL": [
+        10.71,
+        "USD"
+       ],
+       "EE": [
+        8.49,
+        "EUR"
+       ],
+       "EG": [
+        10.26,
+        "USD"
+       ],
+       "IT": [
+        8.1,
+        "EUR"
+       ],
+       "ZA": [
+        10.35,
+        "USD"
+       ],
+       "CZ": [
+        7.79,
+        "EUR"
+       ],
+       "CY": [
+        9.27,
+        "EUR"
+       ],
+       "AU": [
+        14.05,
+        "AUD"
+       ],
+       "GB": [
+        6.68,
+        "GBP"
+       ],
+       "IN": [
+        10.62,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        6.68,
+        "GBP"
+       ],
+       "IE": [
+        7.79,
+        "EUR"
+       ],
+       "ES": [
+        8.1,
+        "EUR"
+       ],
+       "MD": [
+        10.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        7.79,
+        "EUR"
+       ],
+       "UA": [
+        10.8,
+        "USD"
+       ],
+       "CA": [
+        12.59,
+        "CAD"
+       ],
+       "SK": [
+        9.58,
+        "EUR"
+       ],
+       "KR": [
+        9.9,
+        "USD"
+       ],
+       "SI": [
+        8.17,
+        "EUR"
+       ],
+       "SG": [
+        9.81,
+        "USD"
+       ],
+       "MX": [
+        10.44,
+        "USD"
+       ],
+       "SE": [
+        8.25,
+        "EUR"
+       ],
+       "AT": [
+        8.56,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt29",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        26.62,
+        "EUR"
+       ],
+       "FR": [
+        26.5,
+        "EUR"
+       ],
+       "BG": [
+        30.14,
+        "EUR"
+       ],
+       "DK": [
+        31.4,
+        "EUR"
+       ],
+       "HR": [
+        26.37,
+        "EUR"
+       ],
+       "DE": [
+        26.87,
+        "EUR"
+       ],
+       "JP": [
+        31.9,
+        "USD"
+       ],
+       "HU": [
+        31.9,
+        "EUR"
+       ],
+       "US": [
+        29.0,
+        "USD"
+       ],
+       "FI": [
+        27.63,
+        "EUR"
+       ],
+       "BY": [
+        34.22,
+        "USD"
+       ],
+       "GR": [
+        26.62,
+        "EUR"
+       ],
+       "RU": [
+        3707.8,
+        "RUB"
+       ],
+       "NL": [
+        27.38,
+        "EUR"
+       ],
+       "PT": [
+        26.62,
+        "EUR"
+       ],
+       "NO": [
+        25.12,
+        "EUR"
+       ],
+       "TW": [
+        30.45,
+        "USD"
+       ],
+       "TR": [
+        1380.25,
+        "TRY"
+       ],
+       "NZ": [
+        56.68,
+        "NZD"
+       ],
+       "LV": [
+        26.37,
+        "EUR"
+       ],
+       "LT": [
+        27.38,
+        "EUR"
+       ],
+       "LU": [
+        25.87,
+        "EUR"
+       ],
+       "TH": [
+        29.0,
+        "USD"
+       ],
+       "PH": [
+        1762.93,
+        "PHP"
+       ],
+       "RO": [
+        26.37,
+        "EUR"
+       ],
+       "IS": [
+        32.19,
+        "USD"
+       ],
+       "PL": [
+        26.37,
+        "EUR"
+       ],
+       "CH": [
+        25.77,
+        "EUR"
+       ],
+       "MT": [
+        26.37,
+        "EUR"
+       ],
+       "CN": [
+        195.72,
+        "CNY"
+       ],
+       "CL": [
+        34.51,
+        "USD"
+       ],
+       "EE": [
+        27.38,
+        "EUR"
+       ],
+       "EG": [
+        33.06,
+        "USD"
+       ],
+       "IT": [
+        26.12,
+        "EUR"
+       ],
+       "ZA": [
+        33.35,
+        "USD"
+       ],
+       "CZ": [
+        25.12,
+        "EUR"
+       ],
+       "CY": [
+        29.89,
+        "EUR"
+       ],
+       "AU": [
+        45.29,
+        "AUD"
+       ],
+       "GB": [
+        21.53,
+        "GBP"
+       ],
+       "IN": [
+        34.22,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        21.53,
+        "GBP"
+       ],
+       "IE": [
+        25.12,
+        "EUR"
+       ],
+       "ES": [
+        26.12,
+        "EUR"
+       ],
+       "MD": [
+        34.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        25.12,
+        "EUR"
+       ],
+       "UA": [
+        34.8,
+        "USD"
+       ],
+       "CA": [
+        40.59,
+        "CAD"
+       ],
+       "SK": [
+        30.89,
+        "EUR"
+       ],
+       "KR": [
+        31.9,
+        "USD"
+       ],
+       "SI": [
+        26.37,
+        "EUR"
+       ],
+       "SG": [
+        31.61,
+        "USD"
+       ],
+       "MX": [
+        33.64,
+        "USD"
+       ],
+       "SE": [
+        26.62,
+        "EUR"
+       ],
+       "AT": [
+        27.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt29_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt59",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        54.17,
+        "EUR"
+       ],
+       "FR": [
+        53.92,
+        "EUR"
+       ],
+       "BG": [
+        61.33,
+        "EUR"
+       ],
+       "DK": [
+        63.88,
+        "EUR"
+       ],
+       "HR": [
+        53.66,
+        "EUR"
+       ],
+       "DE": [
+        54.68,
+        "EUR"
+       ],
+       "JP": [
+        64.9,
+        "USD"
+       ],
+       "HU": [
+        64.9,
+        "EUR"
+       ],
+       "US": [
+        59.0,
+        "USD"
+       ],
+       "FI": [
+        56.22,
+        "EUR"
+       ],
+       "BY": [
+        69.62,
+        "USD"
+       ],
+       "GR": [
+        54.17,
+        "EUR"
+       ],
+       "RU": [
+        7543.47,
+        "RUB"
+       ],
+       "NL": [
+        55.7,
+        "EUR"
+       ],
+       "PT": [
+        54.17,
+        "EUR"
+       ],
+       "NO": [
+        51.11,
+        "EUR"
+       ],
+       "TW": [
+        61.95,
+        "USD"
+       ],
+       "TR": [
+        2808.1,
+        "TRY"
+       ],
+       "NZ": [
+        115.32,
+        "NZD"
+       ],
+       "LV": [
+        53.66,
+        "EUR"
+       ],
+       "LT": [
+        55.7,
+        "EUR"
+       ],
+       "LU": [
+        52.64,
+        "EUR"
+       ],
+       "TH": [
+        59.0,
+        "USD"
+       ],
+       "PH": [
+        3586.67,
+        "PHP"
+       ],
+       "RO": [
+        53.66,
+        "EUR"
+       ],
+       "IS": [
+        65.49,
+        "USD"
+       ],
+       "PL": [
+        53.66,
+        "EUR"
+       ],
+       "CH": [
+        52.43,
+        "EUR"
+       ],
+       "MT": [
+        53.66,
+        "EUR"
+       ],
+       "CN": [
+        398.19,
+        "CNY"
+       ],
+       "CL": [
+        70.21,
+        "USD"
+       ],
+       "EE": [
+        55.7,
+        "EUR"
+       ],
+       "EG": [
+        67.26,
+        "USD"
+       ],
+       "IT": [
+        53.15,
+        "EUR"
+       ],
+       "ZA": [
+        67.85,
+        "USD"
+       ],
+       "CZ": [
+        51.11,
+        "EUR"
+       ],
+       "CY": [
+        60.82,
+        "EUR"
+       ],
+       "AU": [
+        92.15,
+        "AUD"
+       ],
+       "GB": [
+        43.81,
+        "GBP"
+       ],
+       "IN": [
+        69.62,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        43.81,
+        "GBP"
+       ],
+       "IE": [
+        51.11,
+        "EUR"
+       ],
+       "ES": [
+        53.15,
+        "EUR"
+       ],
+       "MD": [
+        70.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        51.11,
+        "EUR"
+       ],
+       "UA": [
+        70.8,
+        "USD"
+       ],
+       "CA": [
+        82.58,
+        "CAD"
+       ],
+       "SK": [
+        62.86,
+        "EUR"
+       ],
+       "KR": [
+        64.9,
+        "USD"
+       ],
+       "SI": [
+        53.66,
+        "EUR"
+       ],
+       "SG": [
+        64.31,
+        "USD"
+       ],
+       "MX": [
+        68.44,
+        "USD"
+       ],
+       "SE": [
+        54.17,
+        "EUR"
+       ],
+       "AT": [
+        56.22,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt59_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$1,644 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$1,644."
+     },
+     {
+      "heading": "Pay AU$14.05 or more",
+      "tooltip": "Name your price of AU$14.05 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in <<<>>> file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-01T18:00:00",
+    "author": "Manning Publications",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/softwareengineeringmanning_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "We see a bright future for you as a software engineer\u2014let us and Manning Publications help you see the vision. Master the art of writing efficient programs with elite eBooks that start from square one or build your existing skill set. Pay what you want for expert-led titles like <em>Architecture Modernization</em>, <em>Think Distributed Systems</em>, <em>Advanced Algorithms and Data Structures</em>, <em>100 SQL Server Mistakes and How to Avoid Them</em>, and more. Help support charity, develop your skills, and save some dough\u2014you can\u2019t beat that!",
+    "tile_logo": "https://hb.imgix.net/791176c0c2daaf6874246c824391e21a9ff1cc55.png?auto=compress,format&h=340&w=1200&s=668e8c87d0119962b216c67d150fa4ca",
+    "tile_short_name": "Software Engineering by Manning",
+    "start_date|datetime": "2026-08-11T18:00:00",
+    "hover_highlights": [
+     "26 books",
+     "US$1,644 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Tech Book Bundle: Software Engineering by Manning",
+    "short_marketing_blurb": "Surefire software engineering ebooks by Manning",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/softwareengineeringmanning_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "26 books",
+     "US$1,644 Value",
+     "Support Charity"
+    ]
+   }
+  ],
+  "tier_item_data": {
+   "xcom_ufodefense": {
+    "machine_name": "xcom_ufodefense",
+    "youtube_link": null,
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/xcom_ufodefense_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Mild Animated Violence",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "You are in control of X-COM: an organization formed by the world's governments to fight the ever-increasing alien menace.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "e",
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 5.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "You are in control of X-COM: an organization formed by the world's governments to fight the ever-increasing alien menace.\n<br>\n<strong>\n Features:\n</strong>\n<br>\n<ul>\n <li>\n  <strong>\n   Command deadly close-combat battles\n  </strong>\n  <br>\n  Shooting down UFOs is just the beginning: you must then lead a squad of heavily-armed soldiers across different terrains as they investigate the UFO crash site. Tackle the aliens with automatic rifles, rocket launchers, and even tanks in the struggle to retrieve useful technology, weapons or life forms.\n  <br>\n </li>\n <li>\n  <strong>\n   Research and manufacture alien technologies\n  </strong>\n  <br>\n  Successful ground assault missions will allow X-COM scientists to analyze alien items. Each new breakthrough brings you a little closer to understanding the technology and culture of the alien races. Once you have sufficient research data on the UFO's superior weapons and crafts, you'll be able to manufacture weapons of equal capability.\n  <br>\n </li>\n <li>\n  <strong>\n   Develop a strategy to save the Earth\n  </strong>\n  <br>\n  You must make every crucial decision as you combat the powerful alien forces. But you'll also need to watch the world political situation: governments may be forced into secret pacts with the aliens and then begin to reduce X-COM funding.\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "X-COM: UFO Defense",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/xcom_ufodefense_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "MicroProse Software, Inc"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": "https://hb.imgix.net/515c878b28c0ecaf1f07910fe6296defdbe801fa.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=a9e455d943cc9bb69cb4969828c6c928",
+     "featured_image": "https://hb.imgix.net/e6c380973c7fec4c15f3fc9d2e5fb23a61b209bc.png?auto=compress,format&w=300&s=b1fffc3bb18906c550bd21cf188cecb1",
+     "preview_image_bonus": "https://hb.imgix.net/515c878b28c0ecaf1f07910fe6296defdbe801fa.jpg?auto=compress,format&fit=clip&h=200&w=200&s=f94c836cef4c825492ef1f3925cf57f1",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "preview_image": "https://hb.imgix.net/515c878b28c0ecaf1f07910fe6296defdbe801fa.jpg?auto=compress,format&fit=clip&h=350&w=600&s=380162e08fd528f89467f5da6f6d9041",
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null
+    },
+    "disallowed_countries": [
+     "CN",
+     "KR",
+     "VE"
+    ],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "X-COM: UFO Defense",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "bioshockinfinite": {
+    "machine_name": "bioshockinfinite",
+    "youtube_link": "uB9yYfKq4ZA",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx",
+        "hb-linux"
+       ],
+       "unavailable": []
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/bioshockinfinite_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Blood and Gore, Intense Violence, Language, Mild Sexual Themes, Use of Alcohol and Tobacco",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "m",
+     "pegi-rating": "18",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K, Aspyr (Mac)",
+      "publisher-url": "https://www.2k.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 32.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<html>\n <head>\n </head>\n <body>\n  Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia. Forced to trust one another, Booker and Elizabeth form a powerful bond during their daring escape. Together, they learn to harness an expanding arsenal of weapons and abilities, as they fight on zeppelins in the clouds, along high-speed Sky-Lines, and down in the streets of Columbia, all while surviving the threats of the air-city and uncovering its dark secret.\n  <strong class=\"hmb\">\n   <br>\n   <br>\n   Key Features\n  </strong>\n  <br>\n  <ul>\n   <li>\n    <strong>\n     The City in the Sky\n    </strong>\n    \u2013 Leave the depths of Rapture to soar among the clouds of Columbia. A technological marvel, the flying city is a beautiful and vibrant world that holds a very dark secret.\n    <br>\n   </li>\n   <li>\n    <strong>\n     Unlikely Mission\n    </strong>\n    \u2013 Set in 1912, hired gun Booker DeWitt must rescue a mysterious girl from the sky-city of Columbia or never leave it alive.\n    <br>\n   </li>\n   <li>\n    <strong>\n     Whip, Zip, and Kill\n    </strong>\n    \u2013 Turn the city\u2019s Sky-Lines into weaponized roller coasters as you zip through the flying city and dish out fatal hands-on punishment.\n    <br>\n   </li>\n   <li>\n    <strong>\n     Tear Through Time\n    </strong>\n    \u2013 Open Tears in time and space to shape the battlefield and turn the tide in combat by pulling weapons, turrets, and other resources out of thin air.\n    <br>\n   </li>\n   <li>\n    <strong>\n     Vigorous Powers\n    </strong>\n    \u2013 Throw explosive fireballs, shoot lightning, and release murders of crows as devastatingly powerful Vigors surge through your body to be unleashed against all that oppose you.\n    <br>\n   </li>\n   <li>\n    <strong>\n     Custom Combat Experience\n    </strong>\n    \u2013 With deadly weapons in one hand, powerful Vigors in the other, and the ability to open Tears in time and space, fight your own way through the floating city of Columbia to rescue Elizabeth and reach freedom.\n    <br>\n   </li>\n   <li>\n    <strong>\n     1999 Mode\n    </strong>\n    \u2013 Upon finishing <i>BioShock Infinite</i>, the player can unlock a game mode called \u201c1999 Mode\u201d that gives experienced players a taste of the kind of design and balance that hardcore gamers enjoyed back in the 20th century.\n   </li>\n  </ul>\n </body>\n</html>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/bioshockinfinite.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "BioShock Infinite",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Irrational Games. Aspyr (Mac)",
+      "developer-url": "http://irrationalgames.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/05aa197bbfbeaea04bb71cac1d2705e5184b14a4.png?auto=compress,format&fit=clip&h=80&w=170&s=7072bcbe54d3847acfad06e0cdc2c2d7",
+     "featured_image": "https://hb.imgix.net/05aa197bbfbeaea04bb71cac1d2705e5184b14a4.png?auto=compress,format&w=300&s=b22ce68bb37f1a8acc930046374554b9",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/908a2b15ceb5f3a3a1cfed06b8068b18d51456c2.jpeg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=dca33818fda59fb24d11cbc769a070b9",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/05aa197bbfbeaea04bb71cac1d2705e5184b14a4.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=77519c900276f6aa65f7aecf7c40c5da",
+     "front_page_art_imgix": "https://hb.imgix.net/05aa197bbfbeaea04bb71cac1d2705e5184b14a4.png?auto=compress,format&w=300&s=b22ce68bb37f1a8acc930046374554b9",
+     "preview_image": null
+    },
+    "disallowed_countries": [
+     "BU",
+     "CU",
+     "KP",
+     "VE",
+     "IR",
+     "SY",
+     "MM"
+    ],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "BioShock Infinite",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "riskofrain2": {
+    "machine_name": "riskofrain2",
+    "youtube_link": "7Z3dGKwAgJw",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/riskofrain2_update.png",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Blood, Drug Reference, Fantasy Violence, \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500, Users Interact,",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters \u2013 with your friends, or on your own.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "t",
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Gearbox Publishing",
+      "publisher-url": "http://www.gearboxpublishing.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 24.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<img src=\"https://cdn.humblebundle.com/misc/files/hashed/c5b1efca6ae498c7a8d58302c37f5c0a34652187.png\" alt=\"\"><br><br>--<br><br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 643px; height: 362px;\">\n   <source src=\"https://hb.imgix.net/b0205ea0c2605413aa3bf1de4aba531f89542ab8.gif?auto=format&amp;fm=mp4&amp;s=2cc9150672117d0a19e3477087a79658\" type=\"video/mp4\">\n   \n  </video> <br><br><strong> <u> Co-op roguelike action </u> </strong> <br>The classic multiplayer roguelike, Risk of Rain, returns with an extra dimension and more challenging action. No run will ever be the same with randomized stages, enemies, bosses, and items. Play solo, or team up with up to four friends to fight your way through hordes of monsters, unlock new loot, and find a way to escape the planet. <br><br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 643px; height: 362px;\">\n   <source src=\"https://hb.imgix.net/02bf01786d6be1e70cb62d4d36427b1085017ec1.gif?auto=format&amp;fm=mp4&amp;s=c0deb35bf5aa7ce422ae32c6571993cb\" type=\"video/mp4\">\n   \n  </video> <br><br><strong> <u> Constant battles and incredible bosses </u> </strong> <br>With each run, you'll learn the patterns of your foes, and even the longest odds can be overcome with enough skill. A unique scaling system means both you and your foes limitlessly increase in power over the course of a game--what once was a bossfight will in time become a common enemy. <br><br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 643px; height: 362px;\">\n   <source src=\"https://hb.imgix.net/32284fc88d6be33c9197d04c5e9de12dec61f5ed.gif?auto=format&amp;fm=mp4&amp;s=fb4878d890640bc0fced213f75bb4e7c\" type=\"video/mp4\">\n   \n  </video> <br><br><strong> <u> Old favorites return and undiscovered challenges await </u> </strong> <br>Myriad survivors, items, enemies, and bosses return to Risk 2, and many new ones are joining the fight. Brand new survivors like the Artificer and MUL-T debut alongside classic survivors such as the Engineer, Huntress, and--of course--the Commando. With over 75 items to unlock and exploit, each run will keep you cleverly strategizing your way out of sticky situations. <br><br><img height=\"200\" src=\"https://hb.imgix.net/687318344d3d4defe51f4083ccc99f9d635724f1.png?auto=compress,format&amp;s=69f9e36a6f47e52d915d77d5ec5452c2\" width=\"643\"> <strong class=\"hmb\"> <br><br>Key Features </strong> <br>\n<ul>\n<li>Play four player co-op seamlessly through Steam \u2014 no more port forwarding </li>\n<li>Unlock over 75 items over time, keeping each run fresh and full of new challenges </li>\n<li>Play and unlock new and returning survivors, each with their own abilities to master </li>\n<li>Theorycraft and exploit endless item and character combos </li>\n<li>Encounter challenging monsters and enormous bosses </li>\n<li>Explore massive, handcrafted 3D levels </li>\n<li>Discover lore through the collection of Monster, Item, and Environment Logs </li>\n<li>Challenge your friends\u2014and the world\u2014in all-new Prismatic Trials, a unique seeded run where everyone can race up a global leaderboard <br><br><img height=\"200\" src=\"https://hb.imgix.net/50c2bafd7f8621d35c753e0e28584668997f83bc.png?auto=compress,format&amp;s=e813b685d5e9b4224f2c40df1ab1b652\" width=\"643\"></li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Risk of Rain 2",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Hopoo Games",
+      "developer-url": "http://hopooo.tumblr.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/6dd1b447863c915829a99508eb239b5fca338668.png?auto=compress,format&w=300&s=4a19682be9a0f2666644cfd6e23b42ee",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Risk of Rain 2",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "xcom_enemyunknown": {
+    "machine_name": "xcom_enemyunknown",
+    "youtube_link": "jtUVbDY7FjM",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-linux"
+       ],
+       "unavailable": [
+        "hb-osx"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/xcom_enemyunknown_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Blood and Gore, Strong Language, Violence",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "As the XCOM commander, you will defend against a terrifying global alien invasion by managing resources, advancing technologies, and overseeing combat strategies and individual unit tactics.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "m",
+     "pegi-rating": "18",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K",
+      "publisher-url": "https://www.2k.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 32.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<p>Threatened by an unknown enemy, the Earth&rsquo;s governments unite to form a secret paramilitary organization, known as XCOM, to combat this extraterrestrial attack. As the commander of XCOM, you control the global defense team and its resources in a battle against the terrifying alien invasion.&nbsp;</p>\n<p><b><i>XCOM: Enemy Unknown</i></b>&nbsp;is a reimagining of&nbsp;<i>X-COM</i>, the classic strategy game from 1993, and developed by the award-winning creators of&nbsp;<i>Civilization</i>. You will control the fate of the human race by creating and managing a fully operational base, researching alien technologies, planning combat missions, and controlling soldier movement in battle. &nbsp;</p>\n<p><b>Features:</b></p>\n<ul>\n<li><b>Worldwide Threat<br /></b>Combat spans the globe as the XCOM team engages in over 70 unique missions, interacting and negotiating with governments around the world.&nbsp;<br /><b></b></li>\n<li><b>Strategic Base</b></li>\n<li>Recruit, customize and grow unique soldiers and manage your personnel. Detect and intercept the alien threat as you build and expand your XCOM headquarters.<br /><br /></li>\n<li><b>Strategy Evolved<br /></b>XCOM: Enemy Unknown couples tactical turn-based gameplay with incredible action sequences and on-the-ground combat.<br /><br /></li>\n<li><b>Tactical Combat<br /></b>Direct soldier squads in turn-based ground battles and deploy air units such as the Interceptor and Skyranger.</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/xcom_enemyunknown.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "XCOM: Enemy Unknown",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Firaxis Games",
+      "developer-url": "http://www.firaxis.com/"
+     },
+     {
+      "developer-name": "Feral Interactive (Linux)",
+      "developer-url": "https://www.feralinteractive.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "linux",
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/49deb21c5a6db97531bb237620db5141983df482.png?auto=compress,format&fit=clip&h=80&w=170&s=728cc7084cc8a48992c267ba0ce78bbd",
+     "featured_image": "https://hb.imgix.net/49deb21c5a6db97531bb237620db5141983df482.png?auto=compress,format&w=300&s=64f61b267e0865731c8939847bd38f1b",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/0ae5beab7bab769a8c9a3bb2a0d46453a6a2c852.jpeg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=a9dce5622fa2b361851b3fe7c32d05d4",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/49deb21c5a6db97531bb237620db5141983df482.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=36b7aa53b959a80d39c303f0d9abf13c",
+     "front_page_art_imgix": "https://hb.imgix.net/49deb21c5a6db97531bb237620db5141983df482.png?auto=compress,format&w=300&s=64f61b267e0865731c8939847bd38f1b",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "XCOM Enemy Unknown",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "covenanthouse": {
+    "machine_name": "covenanthouse",
+    "youtube_link": "36z_NMeRmAc",
+    "item_content_type": null,
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": null,
+    "featured_image": null,
+    "ppgf_info": {
+     "category": "Human Services",
+     "city": "New York",
+     "description": "Covenant House is the largest privately funded agency in the Americas providing food,shelter, immediate crisis care, and essential services to homeless young people in 31 cities across the United States, Canada and Latin America",
+     "url": "http://www.covenanthouse.org",
+     "country": "US",
+     "charity_id": "175813",
+     "state": "NY",
+     "keywords": "Homeless kids, children, crisis, transitional housing,food, shelter",
+     "human_name": "Covenanthouse",
+     "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FY2ZkY2Y3NmQtNDg1YS00YjBlLThmMTUtYjQyOTBjMjM4ZGVj%2Ffile.JPG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=b67570d240d6e50cee7c93e065a3a57b"
+    },
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "subtitle_html": null,
+    "description_text": "<span><span><em>Donations to support Covenant House&nbsp;are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\">PayPal Giving Fund</a>, subject to its policies.</em><br><br></span></span>\n<p>Covenant House is the nation's largest movement providing&nbsp;food, shelter, immediate crisis care, and ongoing services to homeless and trafficked young people.&nbsp;Founded in 1972 in New York, Covenant House has grown to serve over 46,000 youth annually in 30 cities&nbsp;across the United States, Canada, and Latin America.&nbsp;At Covenant House, we offer basic necessities to any homeless young person who knocks on our door\u2014with unconditional love\u2014no questions asked and no strings attached.&nbsp;Once a young person is staying with us, our programs provide the structure they need to get off the street, plan for the future, and achieve independence. Our full continuum of services include:&nbsp;</p>\n<ul>\n<li>Food</li>\n<li>Shelter</li>\n<li>Healthcare</li>\n<li>Legal Services</li>\n<li>Educational Services</li>\n<li>Employment TrainingMental Health Counseling</li>\n<li>Mother and Children Services</li>\n<li>Long-term and Permanent Housing</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/logos/covenanthouse.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Covenant House",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "covenanthouse.org",
+      "developer-url": "https://www.covenanthouse.org"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {},
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/58e43d6501078437e2dcc3612110caf707d86e0e.png?auto=compress,format&fit=clip&h=80&w=170&s=2dacbaf6ada5fc36cc4624696e269108",
+     "featured_image": null,
+     "front_page_art_imgix_retina": "https://hb.imgix.net/58e43d6501078437e2dcc3612110caf707d86e0e.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=a3d2137fc98605dcd5eb969183cb5530",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/58e43d6501078437e2dcc3612110caf707d86e0e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2e7e36c453e6c71573498155b0d40ebe",
+     "front_page_art_imgix": "https://hb.imgix.net/58e43d6501078437e2dcc3612110caf707d86e0e.png?auto=compress,format&fit=clip&h=240&w=180&s=22218278c4e3b47d3548dd067e112e65",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Covenant House",
+    "is_mystery_box": null,
+    "payee_secondary_id": "175813",
+    "wallet_credit": {}
+   },
+   "talesfromtheborderlands": {
+    "machine_name": "talesfromtheborderlands",
+    "youtube_link": "CaBLlBamJtU",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/talesfromtheborderlands_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Violence, Blood and Gore, Drug Reference, Sexual Themes, Strong Language",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Tales from the Borderlands is a five-part episodic game set on the unforgiving world of Pandora between the events of Borderlands 2 and Borderlands 3.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "m",
+     "pegi-rating": "18",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K Games",
+      "publisher-url": "https://2k.com/en-US/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 26.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "The beloved, choice-driven narrative adventure through the Borderlands universe is back! Set between the events of Borderlands 2 and Borderlands 3, <i>Tales from the Borderlands</i> follows two unreliable narrators on a quest borne of greed but destined for greatness. Your choices shape this tale to be uniquely yours, with plenty of unforeseen consequences ranging from hilarious to heart-wrenching.\n<br>\n<br>\nExplore the deadly planet of Pandora as Rhys, a company man who aspires to replace the infamous Handsome Jack as the head of the Hyperion corporation, and Fiona, a clever con artist who can talk her way out of almost anything. When a shady deal goes awry, Rhys and Fiona must begrudgingly team up to get their due, running into vicious gangsters, cannibalistic bandits, and terrifying wildlife along the way. How will you choose to guide their actions on this wild ride to Pandoran glory?\n<br>\n<br>\n<ul>\n <li>\n  Includes all five episodes of <i>Tales from the Borderlands</i>\n  <br>\n </li>\n <li>\n  Experience an adventure from the perspectives of two very different protagonists: Hyperion lackey Rhys and quick-witted con artist Fiona\n  <br>\n </li>\n <li>\n  Every choice you make drives the story forward, letting you tailor your journey and shape your relationships as you see fit\n  <br>\n </li>\n <li>\n  See Pandora and Helios through the eyes of its everyday denizens, with humor and drama around every corner\n  <br>\n </li>\n <li>\n  Cross paths with familiar faces from the Borderlands series, and get to know new friends like Rhys' best bro Vaughn and Fiona's savvy sister Sasha\n  <br>\n </li>\n <li>\n  Witness the final fates of heroes and villains alike in this crucial chapter of Borderlands canon\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/talesfromtheborderlands.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Tales from the Borderlands",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Telltale Games",
+      "developer-url": "https://telltale.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/5e473cfde2456b0c1fa6d5a92293de5e50f5fda2.png?auto=compress,format&fit=clip&h=80&w=170&s=5ef27a5d851927824605cf4bba7053c4",
+     "featured_image": "https://hb.imgix.net/5e473cfde2456b0c1fa6d5a92293de5e50f5fda2.png?auto=compress,format&w=300&s=8e8d0a5e7e42d2608c0872315fbc9db3",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/d9d2cf42e6a116bba158d794b922eb0384b853a6.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=b0fafd0cd1384d92ac82d5832173898d",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/5e473cfde2456b0c1fa6d5a92293de5e50f5fda2.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=53fb8fd18621fe00b331aab69008813e",
+     "front_page_art_imgix": "https://hb.imgix.net/5e473cfde2456b0c1fa6d5a92293de5e50f5fda2.png?auto=compress,format&w=300&s=8e8d0a5e7e42d2608c0872315fbc9db3",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Tales from the Borderlands",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "bulletstorm_fullclip": {
+    "machine_name": "bulletstorm_fullclip",
+    "youtube_link": "L_SGzzTJ03o",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/bulletstorm_fullclip_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Blood and Gore, Intense Violence, Partial Nudity, Sexual Themes, Strong Language, Use of Alcohol, Online Interactions Not Rated by the ESRB",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Step into the boots of Grayson Hunt after a crash landing on an old resort planet forces him to make a hard choice: survival or revenge.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "m",
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Gearbox Publishing",
+      "publisher-url": "http://www.gearboxpublishing.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 45.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<html>\n <head>\n </head>\n <body>\n  Step into the boots of Grayson Hunt after a crash landing on an abandoned resort planet forces him to make a hard choice: survival or revenge. An exiled member of the elite assassin group Dead Echo, Grayson\u2019s blind desire for vengeance finds his crew stranded on Stygia where he can finally confront the commander behind his betrayal\u2014or get his team off the planet alive.\n  <br>\n  <br>\n  Battle your way through throngs of Stygia\u2019s mutated inhabitants, performing masterful kills throughout the single-player campaign\u2014or one of 30 competitive score-challenge or 12 co-operative multiplayer maps\u2014using <i>Bulletstorm: Full Clip Edition</i>\u2019s unique \u201cSkillshot\u201d system that rewards you for executing the most creative and deadly kills imaginable.\n  <br>\n  <br>\n  <i>Bulletstorm: Full Clip edition</i> is the definitive Bulletstorm experience that includes all existing Bulletstorm add-ons, plus brand-new content exclusive to Full Clip!\n </body>\n</html>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Bulletstorm Full Clip Edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "People Can Fly",
+      "developer-url": "https://peoplecanfly.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/3d4e237d963ff181f8fce99cc76d0f17e530ca01.png?auto=compress,format&w=300&s=f65751d7c281d01250124dca0c21720f",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Bulletstorm Full Clip Edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "thequarry": {
+    "machine_name": "thequarry",
+    "youtube_link": "2h2LvMBUoj0",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/thequarry_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Blood and Gore, Intense Violence, Mild Sexual Themes, Strong Language",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "When the sun goes down on the last night of summer camp, nine teenage counselors are plunged into an unpredictable night of horror.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "m",
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K Games"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 79.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "As the sun sets on the last day of summer camp, the teenage counselors of Hackett\u2019s Quarry throw a party to celebrate. No kids. No adults. No rules. <br><br>Things quickly take a turn for the worse. <br><br>Hunted by blood-drenched locals and something far more sinister, the teens' party plans unravel into an unpredictable night of horror. Friendly banter and flirtations give way to life-or-death decisions, as relationships build or break under the strain of unimaginable choices. <br><br>Play as each of the nine camp counselors in a thrilling cinematic tale, where every decision shapes your unique story from a tangled web of possibilities. Any character can be the star of the show\u2014or die before daylight comes. <br><br>How will your story unfold?<strong class=\"hmb\"><br><br>YOUR STORY, THEIR FATE </strong> <br>Will you dare to check what's behind that trap door? Will you investigate the screams echoing from within the forest? Will you save your friends or desperately run for your life? Every choice, big or small, shapes your story and determines who lives to tell the tale.<strong class=\"hmb\"><br><br>A STUNNING CINEMATIC EXPERIENCE </strong> <br>Cutting edge facial capture and filmic lighting techniques, combined with incredible performances from an iconic ensemble cast of Hollywood talent, bring the horrors of Hackett\u2019s Quarry to life in a pulse-pounding, cinematic thrill ride.<strong class=\"hmb\"><br><br>ENJOY THE FRIGHT WITH FRIENDS </strong> <br>Place your faith in up to 7 friends in online play*, where invited players watch along and vote on key decisions, creating a story shaped by the whole group! Or, play together in a party horror couch co-op experience where each player picks a counselor and controls their actions.<strong class=\"hmb\"><br><br>CUSTOMIZE YOUR EXPERIENCE </strong> <br>Adjustable difficulty for all gameplay elements let players of any skill level enjoy the horror. And if you prefer to watch rather than play, Movie Mode lets you enjoy <i>The Quarry</i> as a binge-worthy cinematic thriller. Select how you want the story to unfold, kick back, and munch on some popcorn in between all the screams! <strong class=\"hmb\"> <br><br>STARRING: </strong> <br><br>David Arquette as Chris <br>Ariel Winter as Abigail <br>Brenda Song as Kaitlyn <br>Evan Evagora as Nick <br>Halston Sage as Emma <br>Justice Smith as Ryan <br>Miles Robbins as Dylan <br>Siobhan Williams as Laura <br>Skyler Gisondo as Max <br>Zach Tinker as Jacob <br>Ethan Suplee as Bobby <br>Grace Zabriskie as Eliza <br>Lance Henriksen as Jedediah <br>Lin Shaye as Constance <br>Ted Raimi as Travis<br><br>*Online multiplayer functionality will be available post-launch on or by July 8, 2022.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/thequarry.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "The Quarry",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Supermassive Games"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/2201c0aa9d78e6eaf3315c27a692957c8ce8d825.png?auto=compress,format&fit=clip&h=80&w=170&s=90fee7c0c2935e03ed30c59068470f7d",
+     "featured_image": "https://hb.imgix.net/2201c0aa9d78e6eaf3315c27a692957c8ce8d825.png?auto=compress,format&w=300&s=77601027a6305fe78123b62ac7b28320",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/e4eda214187f2d0429c8df7f15afddd5d0657ae0.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=d7f6a2216ae78529887425d0c766e319",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2201c0aa9d78e6eaf3315c27a692957c8ce8d825.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=321f190bbee30e2942012bebfa41884b",
+     "front_page_art_imgix": "https://hb.imgix.net/2201c0aa9d78e6eaf3315c27a692957c8ce8d825.png?auto=compress,format&w=300&s=77601027a6305fe78123b62ac7b28320",
+     "preview_image": null
+    },
+    "disallowed_countries": [
+     "SA"
+    ],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "The Quarry",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "mafia2_definitive": {
+    "machine_name": "mafia2_definitive",
+    "youtube_link": "vDdLd9FuuI0",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/mafia2_definitive_main.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Blood, Intense Violence, Nudity, Sexual Content, Strong Language, Use of Drugs and Alcohol  \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500, In-Game Purchases",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "War hero Vito Scaletta becomes entangled with the mob in hopes of paying his father\u2019s debts.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "m",
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K",
+      "publisher-url": "https://www.2k.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 41.600949590693666
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<p style=\"color: #ef9841; font-weight: bold;\">Use of this product requires agreement to the following third party end user license agreement: <a href=\"http://www.take2games.com/eula/\" style=\"color: black; font-weight: normal;\">http://www.take2games.com/eula/</a></p>\nIncludes main game and all DLC releases.<br><br>Part two of the Mafia crime saga \u2013 1940\u2019s - 50\u2019s Empire Bay, NY. Remastered in HD, live the life of a gangster during the Golden-era of organized crime. War hero Vito Scaletta becomes entangled with the mob in hopes of paying his father\u2019s debts. Alongside his buddy Joe, Vito works to prove himself, climbing the family ladder with crimes of larger reward, status and consequence.\u00a0<br><br><strong>Golden-era Drama:</strong><br>Inspired by iconic mafia dramas, be immersed in the allure and impossible escape of life as a wise guy in the Mafia.<br><br><br><strong>Empire Bay, NY:</strong><br>Post-World War 2 Empire Bay, NY, a city sprawling with opportunity and where organized crime thrives on the booming industries of post-war America.<br><br><br><strong>The Complete &amp; Remastered Favorite:</strong><br>For the first-time ever experience the Mafia II crime drama all in one package and presented in stunning HD detail.\u00a0<br><br>Own Mafia II: Definitive Edition to unlock Vito\u2019s Leather Jacket and Car in both Mafia and Mafia III Definitive Editions.\"",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/storefront/master_images/mafia2_definitive.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Mafia II: Definitive Edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Hangar 13,  D3T",
+      "developer-url": "https://hangar13games.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/a23e94d2059a212ecf67313c343ed7e9b9034ac3.png?auto=compress,format&fit=clip&h=80&w=170&s=b5c03507f8adfdeb8df9b2c899902ff8",
+     "featured_image": "https://hb.imgix.net/1c29292572e8164d0239c702ccc7a382e29b2846.png?auto=compress,format&w=300&s=b8825e076f5758148edfdeec8a0aea09",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/727a44ea03886ef8f845b6582b80ddbf2ed8af27.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=0cc0478e67b1b493ee464b7a5aa9f09d",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/a23e94d2059a212ecf67313c343ed7e9b9034ac3.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=e0c2673a4fe5cb311558d3074f280bb6",
+     "front_page_art_imgix": "https://hb.imgix.net/1c29292572e8164d0239c702ccc7a382e29b2846.png?auto=compress,format&w=300&s=b8825e076f5758148edfdeec8a0aea09",
+     "preview_image": null
+    },
+    "disallowed_countries": [
+     "BH",
+     "BU",
+     "CU",
+     "IR",
+     "KP",
+     "KW",
+     "LB",
+     "MM",
+     "OM",
+     "SA",
+     "SY",
+     "AE",
+     "VE"
+    ],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Mafia II: Definitive Edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "tinytinaswonderlands": {
+    "machine_name": "tinytinaswonderlands",
+    "youtube_link": "oGsv6Pvw4zs",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/tinytinaswonderlands_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Blood, Crude Humor, Language, Partial Nudity, Suggestive Themes, Violence,  \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500, In-Game Purchases, Users Interact",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Embark on an epic adventure full of whimsy, wonder, and high-powered weaponry! Roll your own multiclass hero then shoot, loot, slash, and cast on a quest to stop the Dragon Lord.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "t",
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K",
+      "publisher-url": "https://www.2k.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 79.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "Party up with friends in cross-platform multiplayer!\n<br>\n<br>\nEmbark on an epic adventure full of whimsy, wonder, and high-powered weaponry! Bullets, magic, and broadswords collide across this chaotic fantasy world brought to life by the unpredictable Tiny Tina.\n<br>\nRoll your own multiclass hero and loot, shoot, slash, and cast your way through outlandish monsters and loot-filled dungeons on a quest to stop the tyrannical Dragon Lord. Everyone's welcome, so join the party, throw on your adventuring boots, and be Chaotic Great!\n<strong class=\"hmb\">\n <br>\n <br>\n AN UNPREDICTABLE FANTASY WORLD\n</strong>\n<br>\nTiny Tina is your disorderly guide through an extraordinary tabletop realm where rules rarely apply. Explore a vast overworld spanning majestic cities, dank mushroom forests, foreboding fortresses, and more!\n<strong class=\"hmb\">\n <br>\n <br>\n GUNS, SPELLS, AND MORE\n</strong>\n<br>\nBlast baddies with powerful guns and devastating spells in frenetic first-person battles. Use your firepower to vanquish legions of enemies, including smack-talking skeletons, land-roaming sharks, and colossal bosses. Then delve deeper into dangerous dungeons for a shot at epic loot!\n<strong class=\"hmb\">\n <br>\n <br>\n PARTY UP TO DEFEAT EVIL\n</strong>\n<br>\nJoining you at the table are headstrong captain Valentine and rule-obsessed robot Frette. During your quest to defeat the Dragon Lord, you'll meet a cast of lovable misfits like a lute-wielding Bardbarian and your very own Fairy Punchfather.\n<strong class=\"hmb\">\n <br>\n <br>\n PERSONALIZE YOUR HERO\n</strong>\n<br>\nCreate the perfect hero with deep customization, including a multiclass system that lets you mix and match six unique character skill trees, all with their own awesome abilities. Level up, refine your build, expand your arsenal, and become the ultimate adventurer.\n<strong class=\"hmb\">\n <br>\n <br>\n BAND TOGETHER IN CHAOTIC CO-OP\n</strong>\n<br>\nEnjoy the story solo or start a party with up to three friends in seamless online multiplayer. Share the spoils or rush to get the shiniest loot\u2014how you play is up to you!\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Tiny Tina's Wonderlands",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Gearbox Software",
+      "developer-url": "http://www.gearboxpublishing.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/3ee4ce6d5ad36b0fce1512dca55620db8d5d53b0.png?auto=compress,format&w=300&s=9c9a4173a33e281f2bad4b0fb05b2977",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Tiny Tina's Wonderlands",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "homeworld_remasteredcollection": {
+    "machine_name": "homeworld_remasteredcollection",
+    "youtube_link": "MMWn4btduJE",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx"
+       ],
+       "unavailable": [
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/homeworld_remasteredcollection_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Fantasy Violence, Suggestive Themes, Online Interactions Not Rated by the ESRB",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Control your fleet and build an armada across more than 30 single-player missions. Choose unit types, fleet formations and flight tactics for each strategic situation.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "e10",
+     "pegi-rating": "7",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Gearbox Software",
+      "publisher-url": "http://www.gearboxsoftware.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 38.69
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<strong> The <i>Homeworld Remastered Collection</i> includes </strong> : <br>\n<ul>\n<li>Homeworld Remastered Edition </li>\n<li>Homeworld 2 Remastered Edition </li>\n<li>Homeworld Remastered Steam Multiplayer</li>\n</ul>\n<br><strong> As a bonus, you will also receive free access to: </strong> <br>\n<ul>\n<li>Homeworld Classic </li>\n<li>Homeworld 2 Classic</li>\n</ul>\n<br>Experience the epic space strategy games that redefined the RTS genre. Control your fleet and build an armada across more than 30 single-player missions. Choose unit types, fleet formations and flight tactics for each strategic situation. Utilize advanced research to construct ships ranging from light fighters to huge carriers and everything in between. <br><br>The Homeworld games have been painstakingly re-mastered with key members of the original development team and taking critical influence and assistance from the passionate fan community. The <i>Homeworld Remastered Collection</i> introduces Relic's acclaimed space strategy games Homeworld and Homeworld 2 to modern players and operating systems using the newest sophisticated graphics rendering technology, plus a fully remastered score and new, high fidelity voice recordings by the original actors. <br><br>As a free bonus, this collection also includes original, non-remastered versions of Homeworld Classic and Homeworld 2 Classic, preserving the purest form of the original releases with compatibility for modern operating systems. <br><br><i>Homeworld Remastered Collection</i> also provides access to the Homeworld Remastered Steam Multiplayer. The competitive multiplayer modes for both Homeworld and Homeworld 2 have been combined into one centralized mode that will allow you access to content (races, maps and game modes) and improvements, features and technology from both games, allowing you to play unlimited competitive multiplayer space battles on an epic scale. <strong class=\"hmb\"> <br><br>Key Features: </strong> <br>\n<ul>\n<li>Build and battle with more than 100 space ships </li>\n<li>Updated high-res textures and models </li>\n<li>New graphical effects </li>\n<li>Support for HD, UHD, and 4K resolutions </li>\n<li>New audio mix using original source effects and music </li>\n<li>Cinematic scenes recreated in beautiful high fidelity by original artists </li>\n<li>Mod support and mod tools </li>\n<li>Bonus archival versions of Homeworld Classic and Homeworld 2 classic, preserving the purest form of the original releases with compatibility for modern operating systems </li>\n<li>Access to Homeworld Remastered Steam Multiplayer: play Homeworld races against Homeworld 2 races with up to eight players on 23 maps, plus brand new game modes</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/homeworldremasteredcollection_V2.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Homeworld Remastered Collection",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Gearbox Software, (Mac) Aspyr",
+      "developer-url": "http://www.gearboxsoftware.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/0b43f64f08d2b17a34d756e8b477e0fbeff488c8.png?auto=compress,format&fit=clip&h=80&w=170&s=9d02623e27b6bfa6f6af01583a462aef",
+     "featured_image": "https://hb.imgix.net/6dd8a8cc5f73f96c49eb04da69db02f4932de682.png?auto=compress,format&w=300&s=0fe70909431151ee9b9ebaf0384d0671",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/0d85963632772be138d0041440591b2487fa89a2.jpeg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=93bf4ef1db61ad6f3b132b028beef6f8",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/0b43f64f08d2b17a34d756e8b477e0fbeff488c8.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=1e56c6bcd9332690b98f2be3945dedbe",
+     "front_page_art_imgix": "https://hb.imgix.net/6dd8a8cc5f73f96c49eb04da69db02f4932de682.png?auto=compress,format&w=300&s=0fe70909431151ee9b9ebaf0384d0671",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Homeworld Remastered Collection",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "dukenukem3d_20thanniversaryworldtour": {
+    "machine_name": "dukenukem3d_20thanniversaryworldtour",
+    "youtube_link": "s1TuO1xsipY",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/dukenukem3d_20thanniversaryworldtour_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Violence, Partial Nudity, Sexual Themes, Strong Language, Use of Drugs",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Join the world\u2019s greatest action hero as he saves Earth once again, kicking alien ass and saving babes across the globe along the way.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "m",
+     "pegi-rating": "16",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Gearbox Publishing",
+      "publisher-url": "http://www.gearboxsoftware.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 21.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<html>\n <head>\n </head>\n <body>\n  Frag like it\u2019s 1996 \u2013 this time with even more asses to kick! Join the world\u2019s greatest action hero in <i>Duke Nukem 3D: 20th Anniversary World Tour</i> as he saves Earth once again, kicking alien ass and saving babes across the globe along the way. Blast your way through hordes of ugly aliens in four classic Duke Nukem 3D episodes plus an additional ALL NEW FIFTH EPISODE from the game\u2019s ORIGINAL EPISODE DESIGNERS with NEW MUSIC from the game\u2019s ORIGINAL COMPOSER and NEW Duke Talk from the ORIGINAL VOICE of Duke Nukem.\n  <br>\n  <br>\n  \u2022      ALL-NEW Episode FIVE, created by the original episode designers, Allen Blum III and Richard \u201cLevelord\u00ae\u201d  Gray!\n  <br>\n  \u2022      New, bonus content in Episode 5: Duke Nukem finally gets a INCINERATOR to roast new \u201cFirefly\u201d enemies!\n  <br>\n  \u2022      New \u201cDuke Talk\u201d plus high-fidelity re-recordings from Duke Nukem\u2019s original voice actor, Jon St. John!\n  <br>\n  \u2022      New musical score for Episode 5 created by Duke\u2019s theme song author and original game composer, Lee Jackson!\n  <br>\n  \u2022      Original 1996 source code and \u201c2.5D\u201d engine re-mastered in True 3D for PC!\n </body>\n</html>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Duke Nukem 3D: 20th Anniversary World Tour",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Nerve Software",
+      "developer-url": "http://www.nervesoftware.com/"
+     },
+     {
+      "developer-name": "Gearbox Software, LLC",
+      "developer-url": "http://www.gearboxsoftware.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/14d6ef787864db3e8b0dec0007aa7d06a99cf988.png?auto=compress,format&s=a50b13612080ca9b293f28b4809ebf28",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [
+     "JP"
+    ],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Duke Nukem 3D: 20th Anniversary World Tour",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "tribesofmidgard_deluxe": {
+    "machine_name": "tribesofmidgard_deluxe",
+    "youtube_link": "06d9_9PcVS0",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/08_EditionKeyArt_4k.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Violence, In-Game Purchases",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Craft legendary items, grow your home base and embark on an epic journey through procedural realms to face towering creatures hel-bent on unleashing Ragnar\u00f6k.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "t",
+     "pegi-rating": "12",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Gearbox Publishing",
+      "publisher-url": "http://www.gearboxpublishing.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 41.58707798362774
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<p>Tribes of Midgard Deluxe Edition includes the base game, two in-game pets, and a set of Exclusive Lunar Valkyrie Cosmetic items.<br><br>WHAT'S INCLUDED:<br>- Base game<br>- (2) In-game pets<br>- (1) Set of Exclusive Lunar Valkyrie Cosmetic items<br><br>Heads up, the Giants are coming! Midgard is under siege from unwelcome visitors. Mythical creatures, deadly spirits, and gigantic brutes threaten to bring on Ragnar\u00f6k\u2014the end of the world! <br><br>It\u2019s up to you, a mighty Einherjar, to cut short your glorious feast in Valhalla and return to Midgard. There, you\u2019ll need to become the ultimate Viking&nbsp;and survive\u2014even thrive\u2014to save your village, and the world, from total destruction. Luckily, you don\u2019t have to brave it alone: your (mostly) fearless tribe of co-op companions will help you build up village defenses and find treasures through a vast, beautiful realm\u2014all while doomsday ticks closer and closer. <br><br>But don\u2019t let that stop your tribe from having the best apocalypse of your lives. \u201cSurthrive\u201d the Viking way in&nbsp;<i>Tribes of Midgard</i>, a multiplayer, action-survival RPG of gigantic proportions.<br><strong class=\"hmb\"><br>Explore a Bright Norse Realm </strong> <br>Discover dungeons, slay legendary beasts, and build anywhere as you explore formidable, procedurally-generated lands on your quest to take on Ragnar\u00f6k.<strong class=\"hmb\"><br><br>Face Colossal Game-Changers </strong> <br>Protect the Seed of Yggdrasil from a nightly invasion of Helthings, and work together with your tribe to withstand the ever-looming threat of the J\u00f6tnar, epic Giants hellbent on smashing the Seed\u2014and your village surrounding it\u2014to bits. <br><strong class=\"hmb\"><br>Forge Your Viking Legend </strong> <br>Choose your class and take the battle into the wilds as you seek resources to craft epic armor and mighty weaponry. Then, unleash powerful abilities and prepare clever village defenses to give your enemies some nasty surprises. <br><strong class=\"hmb\"><br>Rally the Tribe </strong> <br>When the Giants arrive, it takes a village to bring them down! Adventure through Midgard solo, or form a tribe of up to 10 players in online PvE co-op. Test your Viking skills across various game modes as you discover your favorite play-style. More Vikings = More Fun! We recommend taking on Ragnar\u00f6k with a tribe of four or more.<strong class=\"hmb\"><br><br>Keep Up the Fight </strong> <br>Throughout the year, limited time seasonal events bring bigger challenges and even mightier treasures to the endgame of Midgard, including new ways to progress and unlockable rewards for use across every game.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Tribes of Midgard Deluxe Edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Norsfell",
+      "developer-url": "https://norsfell.com/en/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/f3bf8cd1129f4c4d1c4bb0dae40982505bbde99b.png?auto=compress,format&w=300&s=6e2e3c000b3a37d4a864b369d2a58d22",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Tribes of Midgard Deluxe Edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "thedarkness2": {
+    "machine_name": "thedarkness2",
+    "youtube_link": "vd0GSwCAWWA",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx"
+       ],
+       "unavailable": [
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/thedarkness2_storefront.jpeg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "An intense first person shooter that delivers a twisted and gripping narrative of tragedy, modern crime drama, and supernatural horror.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K Games",
+      "publisher-url": "https://www.2k.com/"
+     }
+    ],
+    "show_rating": true,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 32.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<p style=\"color: #ef9841; font-weight: bold;\">Use of this product requires agreement to the following third party end user license agreement: <a href=\"http://www.take2games.com/eula/\" style=\"font-weight: normal;\">http://www.take2games.com/eula/</a></p>\nInspired by the popular comic book series produced by Top Cow Productions, Inc., <strong> <i>The Darkness II</i> </strong> is an intense first person shooter that delivers a twisted and gripping narrative of tragedy, modern crime drama, and supernatural horror. <br>Players will be taken down the brutal and personal path of Jackie Estacado, head of a New York crime family and wielder of an ancient and ruthless force of chaos and destruction known as The Darkness. <br>It\u2019s been two years since Jackie Estacado used The Darkness to kill the men responsible for his girlfriend\u2019s murder. He\u2019s been unable to shake the memory of Jenny\u2019s death since bottling up his supernatural power and now The Darkness wants out. A sudden, unprovoked attack by a mysterious organization known as the Brotherhood heralds the start of a full-scale war and opens the door for The Darkness to reemerge, setting Jackie on a journey to hell and worse. <br><strong class=\"hmb\"> <br><br>Key Features </strong> <br>\n<ul>\n<li><strong> 4-Player Co-op Campaign </strong> - Play as one of four unique characters each capable of wielding weapons infused with Darkness powers.</li>\n<li><strong> Quad-Wielding Chaos </strong> - Slash, grab, and throw objects and enemies with the Demon Arms while simultaneously firing two weapons, adding a new dimension to the FPS category.</li>\n<li><strong> Harness an Unstoppable Power </strong> - Master the Demon Arms and summon the powers of The Darkness for even more explosive gameplay.</li>\n<li><strong> Kill the Lights </strong> - The vicious powers of The Darkness manifest only in the shadows so use the environment to your advantage and watch out for enemies who will use light as a weapon.</li>\n<li><strong> Intense and Personal Journey </strong> - Experience a dark, twisted and gripping story written exclusively for the game by acclaimed comic book author Paul Jenkins whose credits also include The Incredible Hulk, Wolverine, and the original The Darkness game.</li>\n<li><strong> Distinctive Graphic-Noir Style </strong> - Graphic novel shading and color combined with the dramatic lighting of film noir pays tribute to the source material and brings the pages of the comic series to life. Inspired by the popular comic book series created by Top Cow. <strong class=\"hmb\"> <br><br></strong></li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/thedarkness2.jpg",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "The Darkness II",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Digital Extremes",
+      "developer-url": "http://www.digitalextremes.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/2bb448fe330b8d1d4a1365266c59885e61f980ca.jpg?auto=compress,format&fit=clip&h=80&w=170&s=b2e53aaa71d87bc79401cd490ae11078",
+     "featured_image": "https://hb.imgix.net/5f8cd23f7e2e034030aee36da0a14f998327f640.png?auto=compress,format&w=300&s=586decd14c1a26b512f5df798c996ca3",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/9dd87efe2a379aa0a6d6c8857f8b7261abca152f.jpeg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=1c2268b06159efcae2479d69a122dd0d",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2bb448fe330b8d1d4a1365266c59885e61f980ca.jpg?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=f656cb6bcbecedfe0513b56fa91cdfad",
+     "front_page_art_imgix": "https://hb.imgix.net/5f8cd23f7e2e034030aee36da0a14f998327f640.png?auto=compress,format&w=300&s=586decd14c1a26b512f5df798c996ca3",
+     "preview_image": null
+    },
+    "disallowed_countries": [
+     "CU",
+     "IR",
+     "KP",
+     "SY",
+     "VE"
+    ],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "The Darkness II",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "borderlands3": {
+    "machine_name": "borderlands3",
+    "youtube_link": "gjLQ2Uj4OPw",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/borderlands3_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "Blood and Gore, Intense Violence, Sexual Themes, Strong Language",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "Stop the fanatical Calypso Twins from uniting the bandit clans and claiming the galaxy\u2019s ultimate power. Only you, a thrill-seeking Vault Hunter, have the arsenal and allies to take them down.",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": "m",
+     "pegi-rating": "18",
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K",
+      "publisher-url": "https://www.2k.com/en-US/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 79.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">YOUR VAULT HUNTER, YOUR PLAYSTYLE </strong> <br>Become one of four extraordinary Vault Hunters, each with unique abilities, playstyles, deep skill trees, and tons of personalization options. All Vault Hunters are capable of awesome mayhem alone, but together they are unstoppable. <strong class=\"hmb\"> <br><br>LOCK, LOAD, AND LOOT </strong> <br>With bazillions of guns and gadgets, every fight is an opportunity to score new gear. Firearms with self-propelling bullet shields? Check. Rifles that spawn fire-spewing volcanoes? Obviously. Guns that grow legs and chase down enemies while hurling verbal insults? Yeah, got that too.<strong class=\"hmb\"><br><br>NEW BORDERLANDS </strong> <br>Discover new worlds beyond Pandora, each featuring unique environments to explore and enemies to destroy. Tear through hostile deserts, battle your way across war-torn cityscapes, navigate deadly bayous, and more!<strong class=\"hmb\"><br><br>QUICK &amp; SEAMLESS CO-OP ACTION </strong> <br>Play with anyone at any time with online co-op, regardless of your level or mission progress.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Borderlands 3 Standard Edition",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Gearbox Software",
+      "developer-url": "http://www.gearboxpublishing.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/a08cf5efa1cfbad9495d196ad01161af7b4e41a5.png?auto=compress,format&w=300&s=9d850679d9d642b831956f36e6ff14ae",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [
+     "CU",
+     "IR",
+     "KP",
+     "SA",
+     "SY",
+     "VE"
+    ],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Borderlands 3 Standard Edition",
+    "is_mystery_box": null,
+    "payee_secondary_id": null,
+    "wallet_credit": {}
+   },
+   "hiddenanddangerous_bundle": {
+    "machine_name": "hiddenanddangerous_bundle",
+    "youtube_link": "C-8w5kjbDdU",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/hiddenanddangerous_bundle_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "This title contains these games: Hidden and Dangerous \u2013 Action Pack, Hidden and Dangerous II \u2013Courage Under Fire",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "2K",
+      "publisher-url": "http://www.2k.com"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 22.16682809133994
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 21.16
+    },
+    "subtitle_html": null,
+    "description_text": "<p style=\"color: #ef9841; font-weight: bold\">Use of this product requires agreement to the following third party end user license agreement: <a href=\"http://www.take2games.com/eula/\" style=\"color:black; font-weight: normal\">http://www.take2games.com/eula/</a></p><strong>This bundle includes the following:</strong>\n<ul>\n<li><em><a href=\"../../../../store/hidden-dangerous-action-pack\" target=\"_blank\">Hidden &amp; Dangerous: Action Pack</a></em></li>\n<li><em><a href=\"../../../../store/hidden-dangerous-2-courage-under-fire\" target=\"_blank\">Hidden and Dangerous II \u00e2  Courage Under Fire</a></em></li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Hidden & Dangerous Bundle",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Illusion Softworks",
+      "developer-url": "http://www.illusionsoftworks.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/566ac095b4a76c8a56bbb24d9fb75e9d975ae439.png?auto=compress,format&w=300&s=626aae609bba0c58882d61f142d75cf3",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Hidden & Dangerous Bundle",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   }
+  },
+  "splits": [
+   {
+    "partner_split|decimal": 0.6,
+    "name": "Take 2 Interactive",
+    "extra_charity_partner_split|decimal": 0.525,
+    "extra_charity_split|decimal": 0.575,
+    "sibling_split|decimal": 0.65,
+    "class": "take2interactive"
+   },
+   {
+    "partner_split|decimal": 0.05,
+    "name": "Covenant House ",
+    "extra_charity_partner_split|decimal": 0.15,
+    "extra_charity_split|decimal": 0.15,
+    "secondary_id": "175813",
+    "sibling_split|decimal": 0.05,
+    "class": "paypalgivingfund"
+   },
+   {
+    "partner_split|decimal": 0.2,
+    "name": "Humble Tip",
+    "extra_charity_partner_split|decimal": 0.175,
+    "extra_charity_split|decimal": 0.275,
+    "minimum_split|decimal": 0.15,
+    "sibling_split|decimal": 0.3,
+    "class": "humblebundle"
+   }
+  ],
+  "upsell_data": {
+   "monthly_v2_premium": {
+    "category": "subscriptionplan",
+    "image_url": "https://hb.imgix.net/dbff2288ba058d5ab35f145358617bcf487a6c6e.png?auto=compress,format&fit=crop&h=353&w=616&s=b73537cf9c1f7b9d7afcd3188cdfb1ff",
+    "machine_name": "monthly_v2_premium",
+    "description": "",
+    "discount_percentage|decimal": 5.0,
+    "full_price|money": {
+     "currency": "CAD",
+     "amount": 17.99
+    },
+    "renewal_date|datetime": "2026-09-29T17:00:00",
+    "subscription_content_product": "august_2026_choice",
+    "active_content_end_time|datetime": "2026-09-01T17:00:00",
+    "disallow_subscription_discount": null,
+    "subscription_credits": 1,
+    "human_name": "Month-to-Month Plan",
+    "current_price|money": {
+     "currency": "CAD",
+     "amount": 17.09
+    },
+    "active_content_start_time|datetime": "2026-08-04T17:00:00"
+   }
+  },
+  "statistics_data": {
+   "total_charity_raised|money": {
+    "currency": "CAD",
+    "amount": 84926.0
+   },
+   "num_purchases|decimal": 51585.0
+  },
+  "charity_data": {
+   "charity_items": {
+    "covenanthouse": {
+     "machine_name": "covenanthouse",
+     "youtube_link": "36z_NMeRmAc",
+     "item_content_type": null,
+     "soundtrack_listing": {
+      "hide_listing": null,
+      "tracks": []
+     },
+     "user_ratings": {},
+     "limited_content": null,
+     "availability_icons": null,
+     "featured_image": null,
+     "ppgf_info": {
+      "category": "Human Services",
+      "city": "New York",
+      "description": "Covenant House is the largest privately funded agency in the Americas providing food,shelter, immediate crisis care, and essential services to homeless young people in 31 cities across the United States, Canada and Latin America",
+      "url": "http://www.covenanthouse.org",
+      "country": "US",
+      "charity_id": "175813",
+      "state": "NY",
+      "keywords": "Homeless kids, children, crisis, transitional housing,food, shelter",
+      "human_name": "Covenanthouse",
+      "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FY2ZkY2Y3NmQtNDg1YS00YjBlLThmMTUtYjQyOTBjMjM4ZGVj%2Ffile.JPG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=b67570d240d6e50cee7c93e065a3a57b"
+     },
+     "is_region_locked": false,
+     "exclusive_countries": [],
+     "display_user_ratings": null,
+     "rating_details": "",
+     "front_page_art_enabled": true,
+     "rating_info": null,
+     "callout": null,
+     "subscribe_text": null,
+     "all_ratings": {
+      "rar-rating": null,
+      "esrb-rating": null,
+      "pegi-rating": null,
+      "oflc-nz-rating": null,
+      "oflc-au-rating": null,
+      "usk-rating": null
+     },
+     "cta_badge": null,
+     "book_preview": null,
+     "publishers": [],
+     "show_rating": null,
+     "side_box_art_text": null,
+     "third_party_subscribe_text": null,
+     "msrp_price": null,
+     "subtitle_html": null,
+     "description_text": "<span><span><em>Donations to support Covenant House&nbsp;are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\">PayPal Giving Fund</a>, subject to its policies.</em><br><br></span></span>\n<p>Covenant House is the nation's largest movement providing&nbsp;food, shelter, immediate crisis care, and ongoing services to homeless and trafficked young people.&nbsp;Founded in 1972 in New York, Covenant House has grown to serve over 46,000 youth annually in 30 cities&nbsp;across the United States, Canada, and Latin America.&nbsp;At Covenant House, we offer basic necessities to any homeless young person who knocks on our door\u2014with unconditional love\u2014no questions asked and no strings attached.&nbsp;Once a young person is staying with us, our programs provide the structure they need to get off the street, plan for the future, and achieve independence. Our full continuum of services include:&nbsp;</p>\n<ul>\n<li>Food</li>\n<li>Shelter</li>\n<li>Healthcare</li>\n<li>Legal Services</li>\n<li>Educational Services</li>\n<li>Employment TrainingMental Health Counseling</li>\n<li>Mother and Children Services</li>\n<li>Long-term and Permanent Housing</li>\n</ul>",
+     "user_ratings_css_class": "none",
+     "wide_hero_art": false,
+     "front_page_art": {
+      "image_path": "images/logos/covenanthouse.png",
+      "title": null,
+      "resolved_paths": {},
+      "image_text": "Covenant House",
+      "link": null,
+      "badge_info": {
+       "badge_tooltip": null,
+       "badge_number": null,
+       "badge_type": null
+      }
+     },
+     "preview_image": null,
+     "developers": [
+      {
+       "developer-name": "covenanthouse.org",
+       "developer-url": "https://www.covenanthouse.org"
+      }
+     ],
+     "is_clickable": true,
+     "platforms_and_oses": {},
+     "resolved_paths": {
+      "front_page_art_charity_imgix": "https://hb.imgix.net/58e43d6501078437e2dcc3612110caf707d86e0e.png?auto=compress,format&fit=clip&h=80&w=170&s=2dacbaf6ada5fc36cc4624696e269108",
+      "featured_image": null,
+      "front_page_art_imgix_retina": "https://hb.imgix.net/58e43d6501078437e2dcc3612110caf707d86e0e.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=a3d2137fc98605dcd5eb969183cb5530",
+      "front_page_art_charity_imgix_retina": "https://hb.imgix.net/58e43d6501078437e2dcc3612110caf707d86e0e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2e7e36c453e6c71573498155b0d40ebe",
+      "front_page_art_imgix": "https://hb.imgix.net/58e43d6501078437e2dcc3612110caf707d86e0e.png?auto=compress,format&fit=clip&h=240&w=180&s=22218278c4e3b47d3548dd067e112e65",
+      "preview_image": null
+     },
+     "disallowed_countries": [],
+     "front_page_url": null,
+     "tall_hero_art": false,
+     "human_name": "Covenant House",
+     "is_mystery_box": null,
+     "payee_secondary_id": "175813",
+     "wallet_credit": {}
+    }
+   },
+   "header": "",
+   "charity_item_machine_names": [
+    "covenanthouse"
+   ]
+  },
+  "page_url": "games/2k-megahits-2026-bundle"
+ }
+}

@@ -1,0 +1,418 @@
+{
+  "schema_version": "offline-clone.visual-stability-calibration-spec.v1",
+  "site_id": "humble-bundle",
+  "rows": [
+    {
+      "id": "home.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/home/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/home/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/home/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "home.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/home/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/home/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/home/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "bundles.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundles/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundles/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundles/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": [
+        {
+          "x": 375,
+          "y": 838,
+          "width": 102,
+          "height": 36
+        }
+      ]
+    },
+    {
+      "id": "bundles.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundles/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundles/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundles/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "games.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/games/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/games/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/games/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": [
+        {
+          "x": 375,
+          "y": 838,
+          "width": 102,
+          "height": 36
+        }
+      ]
+    },
+    {
+      "id": "games.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/games/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/games/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/games/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "bundle-anchor.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundle-anchor/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundle-anchor/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundle-anchor/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "bundle-anchor.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundle-anchor/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundle-anchor/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/bundle-anchor/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "store.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "store.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "store-search.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "store-search.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "store-search-noresults.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search-noresults/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search-noresults/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search-noresults/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "store-search-noresults.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search-noresults/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search-noresults/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-search-noresults/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "store-product-satisfactory.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-product-satisfactory/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-product-satisfactory/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-product-satisfactory/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": [
+        {
+          "x": 1114,
+          "y": 203,
+          "width": 90,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "id": "store-product-satisfactory.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-product-satisfactory/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-product-satisfactory/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/store-product-satisfactory/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": [
+        {
+          "x": 204,
+          "y": 270,
+          "width": 90,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "id": "login.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/login/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/login/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/login/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "login.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/login/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/login/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/login/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "signup.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/signup/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/signup/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/signup/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "signup.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/signup/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/signup/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/signup/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "membership.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/membership/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/membership/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/membership/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "membership.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/membership/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/membership/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/membership/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "notfound-404.desktop.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/notfound-404/desktop/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/notfound-404/desktop/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/notfound-404/desktop/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    },
+    {
+      "id": "notfound-404.mobile.main",
+      "region": "main",
+      "source_samples": [
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/notfound-404/mobile/frame-1/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/notfound-404/mobile/frame-2/screenshot.png"
+        },
+        {
+          "path": "materials/humble-bundle/source-current/calibration/frames/notfound-404/mobile/frame-3/screenshot.png"
+        }
+      ],
+      "ignore_regions": []
+    }
+  ]
+}

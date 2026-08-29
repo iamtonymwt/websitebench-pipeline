@@ -1,0 +1,191 @@
+{
+  "generated_from": "materials/humble-bundle/clone.yaml",
+  "opencli_version": "1.8.6",
+  "profiles": {
+    "auth": {
+      "failure_paths": [
+        "register-invalid",
+        "login-wrong-password",
+        "validation-permissions"
+      ],
+      "label": "humble-bundle auth (derived draft)",
+      "local_semantics": [
+        "Every served page and asset resolves locally; no runtime request leaves 127.0.0.1.",
+        "All frozen routes serve their captured page at the real path.",
+        "Anchor bundle tier engine reproduces frozen thresholds CA$9.71/18.03/22.19: $15 yields 7 items with the captured missing-out message and Checkout affordance…"
+      ],
+      "network": {
+        "allowlist": [
+          "127.0.0.1",
+          "localhost"
+        ],
+        "notes": "Only local verifier/candidate hostnames are expected."
+      },
+      "recovery_paths": [
+        "not-found",
+        "login-recovery"
+      ],
+      "steps": [
+        {
+          "command": "state",
+          "id": "auth-login",
+          "intent": "Exercise clone check auth.login (GET /login).",
+          "observation_id": "humble-bundle_auth_login",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "Forgot your password?"
+          },
+          "route": "login"
+        },
+        {
+          "command": "state",
+          "id": "auth-signup",
+          "intent": "Exercise clone check auth.signup (GET /signup).",
+          "observation_id": "humble-bundle_auth_signup",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "Create an account"
+          },
+          "route": "signup"
+        },
+        {
+          "command": "state",
+          "id": "auth-secure-area",
+          "intent": "Exercise clone check auth.secure-area (GET /home/library).",
+          "observation_id": "humble-bundle_auth_secure-area",
+          "required_state": {
+            "text_absent": "NotImplementedError"
+          },
+          "route": "home/library"
+        },
+        {
+          "command": "state",
+          "id": "auth-support",
+          "intent": "Exercise clone check auth.support (GET /support).",
+          "observation_id": "humble-bundle_auth_support",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "Humble Bundle"
+          },
+          "route": "support"
+        },
+        {
+          "command": "state",
+          "id": "auth-support-category",
+          "intent": "Exercise clone check auth.support-category (GET /support/categories/200166394).",
+          "observation_id": "humble-bundle_auth_support-category",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "Key Redemption"
+          },
+          "route": "support/categories/200166394"
+        },
+        {
+          "command": "state",
+          "id": "auth-external",
+          "intent": "Exercise clone check auth.external (GET /external/blog-humblebundle-com).",
+          "observation_id": "humble-bundle_auth_external",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "outside the offline demo"
+          },
+          "route": "external/blog-humblebundle-com"
+        }
+      ],
+      "tier": "p1"
+    },
+    "core": {
+      "failure_paths": [
+        "tiers-below-floor",
+        "checkout-promo-declined"
+      ],
+      "label": "humble-bundle core (derived draft)",
+      "local_semantics": [
+        "Every served page and asset resolves locally; no runtime request leaves 127.0.0.1.",
+        "All frozen routes serve their captured page at the real path.",
+        "Anchor bundle tier engine reproduces frozen thresholds CA$9.71/18.03/22.19: $15 yields 7 items with the captured missing-out message and Checkout affordance…"
+      ],
+      "network": {
+        "allowlist": [
+          "127.0.0.1",
+          "localhost"
+        ],
+        "notes": "Only local verifier/candidate hostnames are expected."
+      },
+      "recovery_paths": [
+        "checkout-retry-recovery"
+      ],
+      "steps": [
+        {
+          "command": "state",
+          "id": "core-bundles",
+          "intent": "Exercise clone check core.bundles (GET /bundles).",
+          "observation_id": "humble-bundle_core_bundles",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "Humble Bundles"
+          },
+          "route": "bundles"
+        },
+        {
+          "command": "state",
+          "id": "core-bundle-anchor",
+          "intent": "Exercise clone check core.bundle-anchor (GET /games/yes-chef-cooking-bundle).",
+          "observation_id": "humble-bundle_core_bundle-anchor",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "Yes Chef!"
+          },
+          "route": "games/yes-chef-cooking-bundle"
+        },
+        {
+          "command": "state",
+          "id": "core-store-product",
+          "intent": "Exercise clone check core.store-product (GET /store/satisfactory).",
+          "observation_id": "humble-bundle_core_store-product",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "Add to Cart"
+          },
+          "route": "store/satisfactory"
+        },
+        {
+          "command": "state",
+          "id": "core-store-no-results",
+          "intent": "Exercise clone check core.store-no-results (GET /store/search?search=zzzz-no-match-websitebench).",
+          "observation_id": "humble-bundle_core_store-no-results",
+          "required_state": {
+            "list_contains": "0 Results",
+            "text_absent": "NotImplementedError"
+          },
+          "route": "store/search?search=zzzz-no-match-websitebench"
+        },
+        {
+          "command": "state",
+          "id": "core-not-found",
+          "intent": "Exercise clone check core.not-found (GET /this-page-does-not-exist-websitebench).",
+          "observation_id": "humble-bundle_core_not-found",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "page you requested cannot be found"
+          },
+          "route": "this-page-does-not-exist-websitebench"
+        },
+        {
+          "command": "state",
+          "id": "core-games",
+          "intent": "Exercise clone check core.games (GET /games).",
+          "observation_id": "humble-bundle_core_games",
+          "required_state": {
+            "text_absent": "NotImplementedError",
+            "visible": "Games"
+          },
+          "route": "games"
+        }
+      ],
+      "tier": "p1"
+    }
+  },
+  "schema_version": "websitebench.harbor.opencli-interaction-contract.v1",
+  "site_id": "humble-bundle"
+}

@@ -1,0 +1,123 @@
+{
+  "authority": "diagnostic-only",
+  "backend": "adapter",
+  "contract": {
+    "path": "harbor/sites/humble-bundle/interactions/opencli-interaction-contract.json"
+  },
+  "degradation": [
+    "opencli-unavailable: binary not found on PATH",
+    "backend degraded to 'adapter'"
+  ],
+  "duration_seconds": 0.009821,
+  "instance_id": null,
+  "opencli": {
+    "binary_present": false,
+    "connectivity_ok": false,
+    "contract_version": "1.8.6",
+    "doctor_green": false,
+    "extension_connected": false,
+    "notes": [
+      "opencli-unavailable: binary not found on PATH"
+    ],
+    "version": null,
+    "version_matches": false
+  },
+  "profile_id": "core",
+  "profile_label": "humble-bundle core (derived draft)",
+  "profile_tier": "p1",
+  "schema_version": "websitebench.harbor.opencli.replay-result.v1",
+  "site_id": "humble-bundle",
+  "status": "failed",
+  "steps": [
+    {
+      "command": "state",
+      "declared_route": "bundles",
+      "duration_seconds": 0.001479,
+      "error": "[Errno 2] No such file or directory: 'opencli'",
+      "http_status": null,
+      "observation_id": "humble-bundle_core_bundles",
+      "observations": [],
+      "outcome": "error",
+      "step_id": "core-bundles",
+      "tier": "p1"
+    },
+    {
+      "command": "state",
+      "declared_route": "games/yes-chef-cooking-bundle",
+      "duration_seconds": 0.001237,
+      "error": "[Errno 2] No such file or directory: 'opencli'",
+      "http_status": null,
+      "observation_id": "humble-bundle_core_bundle-anchor",
+      "observations": [],
+      "outcome": "error",
+      "step_id": "core-bundle-anchor",
+      "tier": "p1"
+    },
+    {
+      "command": "state",
+      "declared_route": "store/satisfactory",
+      "duration_seconds": 0.001239,
+      "error": "[Errno 2] No such file or directory: 'opencli'",
+      "http_status": null,
+      "observation_id": "humble-bundle_core_store-product",
+      "observations": [],
+      "outcome": "error",
+      "step_id": "core-store-product",
+      "tier": "p1"
+    },
+    {
+      "command": "state",
+      "declared_route": "store/search?search=zzzz-no-match-websitebench",
+      "duration_seconds": 0.001241,
+      "error": "[Errno 2] No such file or directory: 'opencli'",
+      "http_status": null,
+      "observation_id": "humble-bundle_core_store-no-results",
+      "observations": [],
+      "outcome": "error",
+      "step_id": "core-store-no-results",
+      "tier": "p1"
+    },
+    {
+      "command": "state",
+      "declared_route": "this-page-does-not-exist-websitebench",
+      "duration_seconds": 0.001187,
+      "error": "[Errno 2] No such file or directory: 'opencli'",
+      "http_status": null,
+      "observation_id": "humble-bundle_core_not-found",
+      "observations": [],
+      "outcome": "error",
+      "step_id": "core-not-found",
+      "tier": "p1"
+    },
+    {
+      "command": "state",
+      "declared_route": "games",
+      "duration_seconds": 0.001222,
+      "error": "[Errno 2] No such file or directory: 'opencli'",
+      "http_status": null,
+      "observation_id": "humble-bundle_core_games",
+      "observations": [],
+      "outcome": "error",
+      "step_id": "core-games",
+      "tier": "p1"
+    }
+  ],
+  "summary": {
+    "assertion_failures": 0,
+    "steps_passed": 0,
+    "steps_total": 6,
+    "unasserted_observations": 0,
+    "unsupported_commands": 0
+  },
+  "target": "candidate",
+  "target_binding": {
+    "allowlist": [
+      "127.0.0.1",
+      "localhost"
+    ],
+    "base_origin": "http://127.0.0.1:8098",
+    "reset_status": null,
+    "session_fields": [],
+    "session_status": null
+  }
+}

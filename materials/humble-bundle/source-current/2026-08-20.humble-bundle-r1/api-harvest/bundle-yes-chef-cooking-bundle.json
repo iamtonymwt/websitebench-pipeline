@@ -1,0 +1,5729 @@
+{
+ "userOptions": {
+  "is_logged_in": false,
+  "logout_url": "/logout?goto=/games/yes-chef-cooking-bundle&qs="
+ },
+ "showSingleSignOn": true,
+ "debug": false,
+ "ipInChina": false,
+ "isEuCountry": false,
+ "baseSubscriptionPrice|money": {
+  "currency": "CAD",
+  "amount": 17.99
+ },
+ "bannerOptions": null,
+ "exchangeRates": {
+  "USD|decimal": 1.0,
+  "AUD|decimal": 1.4132701421800948,
+  "CHF|decimal": 0.8101680310211116,
+  "IDR|decimal": 17832.098233520035,
+  "KRW|decimal": 1391.4778112882377,
+  "CNY|decimal": 6.738216286083585,
+  "ISK|decimal": 122.53339077983628,
+  "ILS|decimal": 2.987160706591986,
+  "GBP|decimal": 0.7376820336062042,
+  "NZD|decimal": 1.700818612666954,
+  "DKK|decimal": 6.441964670400689,
+  "CAD|decimal": 1.3871607065919862,
+  "TRY|decimal": 47.934597156398105,
+  "HUF|decimal": 314.1576906505816,
+  "PHP|decimal": 61.82076691081431,
+  "RON|decimal": 4.520809995691512,
+  "NOK|decimal": 9.40155105557949,
+  "RUB|decimal": 117.201,
+  "ZAR|decimal": 16.244291253769926,
+  "MYR|decimal": 4.0574752261956055,
+  "MXN|decimal": 17.036535975872468,
+  "INR|decimal": 95.7574321413184,
+  "THB|decimal": 33.06505816458423,
+  "JPY|decimal": 159.0866006031883,
+  "CZK|decimal": 20.821197759586386,
+  "BRL|decimal": 5.204136148211978,
+  "PLN|decimal": 3.726411029728565,
+  "EUR|decimal": 0.8616975441619992,
+  "SEK|decimal": 9.511848341232227,
+  "SGD|decimal": 1.2761740629039207,
+  "HKD|decimal": 7.841619991383024
+ },
+ "csrfTokenInput": "REDACTED-CSRF-TOKEN",
+ "csrfToken": "REDACTED-CSRF-TOKEN",
+ "user_max_reward_amount": 0,
+ "csrfFormKey": "REDACTED-CSRF-TOKEN",
+ "bundleData": {
+  "machine_name": "yeschefcookingbundle_bundle",
+  "jplayer_swf_path": "https://cdn.humblebundle.com/static/hashed/682bac84e8df7e444ab9127ce8e22f626caf0e41.swf",
+  "at_risk_tpkds": {},
+  "tier_display_data": {
+   "bt13": {
+    "header": "Pay CA$18.03 or more to also unlock!",
+    "identifier": "bt13",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "pizzapossum",
+     "foodtrucksimulator",
+     "bentoblocks",
+     "magicaldelicacy",
+     "dontletitstarve",
+     "umami",
+     "brewmaster_beerbrewingsimulator",
+     "tailside_cozycafesim",
+     "whichsausagemate",
+     "burgerbotsinc",
+     "cannibalcuisine",
+     "bakerysimulator",
+     "recipefordisaster"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "initial": {
+    "header": "Pay CA$9.71 to unlock!",
+    "identifier": "initial",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "brewmaster_beerbrewingsimulator",
+     "tailside_cozycafesim",
+     "whichsausagemate",
+     "burgerbotsinc",
+     "cannibalcuisine",
+     "bakerysimulator",
+     "recipefordisaster"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "bt16": {
+    "header": "Pay CA$22.19 or more to also unlock!",
+    "identifier": "bt16",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "tavernmanagersimulator",
+     "chefsshift",
+     "chefknight",
+     "pizzapossum",
+     "foodtrucksimulator",
+     "bentoblocks",
+     "magicaldelicacy",
+     "dontletitstarve",
+     "umami",
+     "brewmaster_beerbrewingsimulator",
+     "tailside_cozycafesim",
+     "whichsausagemate",
+     "burgerbotsinc",
+     "cannibalcuisine",
+     "bakerysimulator",
+     "recipefordisaster"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   }
+  },
+  "tier_order": [
+   "bt16",
+   "bt13",
+   "initial"
+  ],
+  "is_all_charity_bundle": false,
+  "author": "Publishers",
+  "tax_type": null,
+  "preset_prices": [
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 18.03
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt13"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 22.19
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt16"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 30.0
+    },
+    "suggested": true,
+    "qualifying_tier_id": "bt16"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 35.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt16"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 40.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt16"
+   }
+  ],
+  "cyoc_data": {},
+  "average_data": {
+   "average_usd_amount|decimal": 17.24502525907098,
+   "average_usd_string": "17.24502525907098196015159770",
+   "avguuid": "l5yrOWeR6e5YOExh",
+   "cleanavg": "17.24",
+   "average_usd|money": {
+    "currency": "USD",
+    "amount": 17.24502525907098
+   },
+   "average|money": {
+    "currency": "CAD",
+    "amount": 23.92
+   },
+   "avghash": "789vgTZplnIQOzQlGm9+Q0qpkAci01YMaJtvXWX6sMA="
+  },
+  "leaderboard_data": [
+   {
+    "name": "Elwhinda",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   },
+   {
+    "name": "A. Besten",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 18.0
+    }
+   },
+   {
+    "name": "Rednote",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 17.01
+    }
+   },
+   {
+    "name": "AC",
+    "order_price|money": {
+     "currency": "AUD",
+     "amount": 24.84
+    }
+   },
+   {
+    "name": "AERTH",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 17.44
+    }
+   },
+   {
+    "name": "GrimmiBear",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 17.0
+    }
+   },
+   {
+    "name": "ML",
+    "order_price|money": {
+     "currency": "CNY",
+     "amount": 107.86
+    }
+   },
+   {
+    "name": "OsuCelsius",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 16.0
+    }
+   },
+   {
+    "name": "Niema Moshiri",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 16.0
+    }
+   }
+  ],
+  "empty_tpkds": {},
+  "at_time|datetime": "2026-08-20T22:44:41.742928",
+  "basic_data": {
+   "eula": null,
+   "split_disclaimer": null,
+   "currency": "CAD",
+   "giving_fund": "ppgf",
+   "logo": "https://hb.imgix.net/1816638967eeb74efee1af1d5edb39dbf288d2d9.png?auto=compress,format&h=340&w=1200&s=1aa4086e9cbdbfae27bff97e7cc2f377",
+   "disallowed_payment_processors": [],
+   "newsletter_mailing_list_machine_name": "bundle_emails",
+   "supports_partners": true,
+   "detailed_marketing_blurb": "Take your chef skills to the next level with this bundle of tasty cooking games! Whether you\u2019re an amateur at best IRL or a seasoned professional in the kitchen, you\u2019re sure to find the perfect cooking challenge. Keep the ale flowing and the mood high in the charmingly old-timey <em>Tavern Manager Simulator</em>! Let your fingers fly across the keyboard in the high-octane typing game <em>The Chef\u2019s Shift</em>! (Say that three times fast.) Become the sneaky, ravenous beast you were always meant to be in arcade game <em>Pizza Possum</em>! Whatever your speed, whatever your tastes, this bundle of cooking games will satisfy any appetite! Grab these tasty treats while you can at the price of your choice, and support the FarmLink Project with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027. </span>",
+   "order_form_disclaimer": null,
+   "media_type": "game",
+   "description": "<p><strong>Order up!</strong> Take your chef skills to the next level with this bundle of tasty cooking games! Whether you\u2019re an amateur at best IRL or a seasoned professional in the kitchen, you\u2019re sure to find the perfect cooking challenge. Keep the ale flowing and the mood high in the charmingly old-timey <em>Tavern Manager Simulator</em>! Let your fingers fly across the keyboard in the high-octane typing game <em>The Chef\u2019s Shift</em>! (Say that three times fast.) Become the sneaky, ravenous beast you were always meant to be in arcade game <em>Pizza Possum</em>! Whatever your speed, whatever your tastes, this bundle of cooking games will satisfy any appetite! Grab these tasty treats while you can at the price of your choice, and support the FarmLink Project with your purchase!<br><br><strong style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027.</strong></p>\n<p><strong>Pay CA$9.71 or more.</strong> Normally, the total cost for the games in this bundle is as much as US$208. Here at Humble Bundle, you choose the price and increase your contribution to upgrade your bundle! This bundle has a minimum CA$9.71 purchase. Pay CA$9.71 or more to access Steam keys.</p>\n<p><strong>Redeem on Steam.</strong> All of the games in this bundle are available on Steam for Windows \u2014 and some for Mac and Linux too. Please review the system requirements <a href=\"https://support.humblebundle.com/hc/en-us/articles/54561547503259\">here</a> prior to purchasing.</p>\n<p><strong>Support charity.</strong> Choose where the money goes - between the publishers and to support Farmlink. If you like what we do, you can leave us a Humble Tip too!</p>",
+   "legal_disclaimer": null,
+   "page_title_tag": "",
+   "short_marketing_blurb": "Order up!",
+   "required_account_links": [
+    "steam"
+   ],
+   "require_linked_third_party_account_when": "only-when-free",
+   "region_lock_warnings": {},
+   "youtube_video_key": null,
+   "twitch_data": {},
+   "allowed_payment_processors": [
+    "free",
+    "paypal",
+    "alipay",
+    "alipay_payment_intent",
+    "stripe_checkout",
+    "stripe_payment_intent"
+   ],
+   "end_time|datetime": "2026-09-10T04:00:00",
+   "msrp|money": {
+    "currency": "CAD",
+    "amount": 288.52942697113315
+   },
+   "human_name": "Yes Chef! - Cooking Bundle",
+   "tpkd_cutoff_price|money": {
+    "currency": "CAD",
+    "amount": 9.71
+   }
+  },
+  "tier_pricing_data": {
+   "bt13": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 18.03
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 23.92
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt13",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "initial": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 23.92
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": true,
+    "identifier": "initial",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "bt16": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 22.19
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 23.92
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt16",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   }
+  },
+  "partner_data": null,
+  "other_bundles_data": [
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/gregbearbirthdaybundleopenroadmedia_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       324.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$324"
+    },
+    "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=576eb764f980a4edc4ff65123ee0224e",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em></em>, <em></em>, <em>Anvil of Stars</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/greg-bear-birthday-bundle-open-road-media-books",
+    "tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=353&w=616&s=73a07b9e661f143511f78cc6f714eba4",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        2.78,
+        "EUR"
+       ],
+       "FR": [
+        2.77,
+        "EUR"
+       ],
+       "BG": [
+        3.15,
+        "EUR"
+       ],
+       "DK": [
+        3.28,
+        "EUR"
+       ],
+       "HR": [
+        2.76,
+        "EUR"
+       ],
+       "DE": [
+        2.81,
+        "EUR"
+       ],
+       "JP": [
+        3.3,
+        "USD"
+       ],
+       "HU": [
+        3.34,
+        "EUR"
+       ],
+       "US": [
+        3.0,
+        "USD"
+       ],
+       "FI": [
+        2.89,
+        "EUR"
+       ],
+       "BY": [
+        3.54,
+        "USD"
+       ],
+       "GR": [
+        2.78,
+        "EUR"
+       ],
+       "RU": [
+        383.56,
+        "RUB"
+       ],
+       "NL": [
+        2.86,
+        "EUR"
+       ],
+       "PT": [
+        2.78,
+        "EUR"
+       ],
+       "NO": [
+        2.63,
+        "EUR"
+       ],
+       "TW": [
+        3.15,
+        "USD"
+       ],
+       "TR": [
+        141.09,
+        "TRY"
+       ],
+       "NZ": [
+        5.92,
+        "NZD"
+       ],
+       "LV": [
+        2.76,
+        "EUR"
+       ],
+       "LT": [
+        2.86,
+        "EUR"
+       ],
+       "LU": [
+        2.7,
+        "EUR"
+       ],
+       "TH": [
+        3.0,
+        "USD"
+       ],
+       "PH": [
+        185.06,
+        "PHP"
+       ],
+       "RO": [
+        2.76,
+        "EUR"
+       ],
+       "IS": [
+        3.33,
+        "USD"
+       ],
+       "PL": [
+        2.76,
+        "EUR"
+       ],
+       "CH": [
+        2.69,
+        "EUR"
+       ],
+       "MT": [
+        2.76,
+        "EUR"
+       ],
+       "CN": [
+        20.32,
+        "CNY"
+       ],
+       "CL": [
+        3.57,
+        "USD"
+       ],
+       "EE": [
+        2.86,
+        "EUR"
+       ],
+       "EG": [
+        3.42,
+        "USD"
+       ],
+       "IT": [
+        2.73,
+        "EUR"
+       ],
+       "ZA": [
+        3.45,
+        "USD"
+       ],
+       "CZ": [
+        2.63,
+        "EUR"
+       ],
+       "CY": [
+        3.12,
+        "EUR"
+       ],
+       "AU": [
+        4.71,
+        "AUD"
+       ],
+       "GB": [
+        2.23,
+        "GBP"
+       ],
+       "IN": [
+        3.54,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        2.23,
+        "GBP"
+       ],
+       "IE": [
+        2.63,
+        "EUR"
+       ],
+       "ES": [
+        2.73,
+        "EUR"
+       ],
+       "MD": [
+        3.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        2.63,
+        "EUR"
+       ],
+       "UA": [
+        3.6,
+        "USD"
+       ],
+       "CA": [
+        4.22,
+        "CAD"
+       ],
+       "SK": [
+        3.23,
+        "EUR"
+       ],
+       "KR": [
+        3.3,
+        "USD"
+       ],
+       "SI": [
+        2.76,
+        "EUR"
+       ],
+       "SG": [
+        3.27,
+        "USD"
+       ],
+       "MX": [
+        3.48,
+        "USD"
+       ],
+       "SE": [
+        2.78,
+        "EUR"
+       ],
+       "AT": [
+        2.89,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        9.28,
+        "EUR"
+       ],
+       "FR": [
+        9.24,
+        "EUR"
+       ],
+       "BG": [
+        10.51,
+        "EUR"
+       ],
+       "DK": [
+        10.95,
+        "EUR"
+       ],
+       "HR": [
+        9.19,
+        "EUR"
+       ],
+       "DE": [
+        9.37,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        11.12,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        9.63,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        9.28,
+        "EUR"
+       ],
+       "RU": [
+        1278.55,
+        "RUB"
+       ],
+       "NL": [
+        9.54,
+        "EUR"
+       ],
+       "PT": [
+        9.28,
+        "EUR"
+       ],
+       "NO": [
+        8.76,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        470.31,
+        "TRY"
+       ],
+       "NZ": [
+        19.76,
+        "NZD"
+       ],
+       "LV": [
+        9.19,
+        "EUR"
+       ],
+       "LT": [
+        9.54,
+        "EUR"
+       ],
+       "LU": [
+        9.02,
+        "EUR"
+       ],
+       "TH": [
+        10.0,
+        "USD"
+       ],
+       "PH": [
+        616.87,
+        "PHP"
+       ],
+       "RO": [
+        9.19,
+        "EUR"
+       ],
+       "IS": [
+        11.1,
+        "USD"
+       ],
+       "PL": [
+        9.19,
+        "EUR"
+       ],
+       "CH": [
+        8.98,
+        "EUR"
+       ],
+       "MT": [
+        9.19,
+        "EUR"
+       ],
+       "CN": [
+        67.74,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        9.54,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        9.11,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        8.76,
+        "EUR"
+       ],
+       "CY": [
+        10.42,
+        "EUR"
+       ],
+       "AU": [
+        15.75,
+        "AUD"
+       ],
+       "GB": [
+        7.46,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.46,
+        "GBP"
+       ],
+       "IE": [
+        8.76,
+        "EUR"
+       ],
+       "ES": [
+        9.11,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.76,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        14.07,
+        "CAD"
+       ],
+       "SK": [
+        10.77,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        9.19,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        9.28,
+        "EUR"
+       ],
+       "AT": [
+        9.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt18",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.72,
+        "EUR"
+       ],
+       "FR": [
+        16.64,
+        "EUR"
+       ],
+       "BG": [
+        18.93,
+        "EUR"
+       ],
+       "DK": [
+        19.72,
+        "EUR"
+       ],
+       "HR": [
+        16.56,
+        "EUR"
+       ],
+       "DE": [
+        16.88,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        20.04,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.72,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.2,
+        "EUR"
+       ],
+       "PT": [
+        16.72,
+        "EUR"
+       ],
+       "NO": [
+        15.78,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.56,
+        "TRY"
+       ],
+       "NZ": [
+        35.58,
+        "NZD"
+       ],
+       "LV": [
+        16.56,
+        "EUR"
+       ],
+       "LT": [
+        17.2,
+        "EUR"
+       ],
+       "LU": [
+        16.25,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1110.37,
+        "PHP"
+       ],
+       "RO": [
+        16.56,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.56,
+        "EUR"
+       ],
+       "CH": [
+        16.19,
+        "EUR"
+       ],
+       "MT": [
+        16.56,
+        "EUR"
+       ],
+       "CN": [
+        121.93,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.2,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.41,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.78,
+        "EUR"
+       ],
+       "CY": [
+        18.77,
+        "EUR"
+       ],
+       "AU": [
+        28.34,
+        "AUD"
+       ],
+       "GB": [
+        13.42,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.42,
+        "GBP"
+       ],
+       "IE": [
+        15.78,
+        "EUR"
+       ],
+       "ES": [
+        16.41,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.78,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.33,
+        "CAD"
+       ],
+       "SK": [
+        19.4,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.56,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.72,
+        "EUR"
+       ],
+       "AT": [
+        17.35,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt18_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$324 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$324."
+     },
+     {
+      "heading": "Pay AU$4.71 or more",
+      "tooltip": "Name your price of AU$4.71 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub and PRC file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T18:00:00",
+    "author": "Open Road Media",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "The world of science fiction lost a titan when novelist Greg Bear passed away in 2022, but his books remain a perfect example of exactly what sci-fi was always meant to be. Author of over 50 books and co-founder of San Diego Comic Con, Bear made loving sci-fi into a career that spanned five decades. His work, which tested the limits of human (and non-human) consciousness and looked toward the far future and beyond, inspires and excites readers to this day. To celebrate what would have been Greg Bear\u2019s 75th Birthday, in partnership with Open Road Media, we\u2019ve collected a bundle of his best novels including award-winning classics like first contact thriller <em>Eon</em>, alien invasion drama <em>The Forge of God</em>, and post-apocalyptic space odyssey <em>Anvil of Stars</em>! Get a motherlode of some of the best sci-fi ever written for the price of your choosing, and support the Science Fiction & Fantasy Writers Association with your purchase!",
+    "tile_logo": "https://hb.imgix.net/ec343992eae9f55f52c94db55a21017493a1db5e.png?auto=compress,format&h=340&w=1200&s=de401b9bb65fa73cf486e75484327755",
+    "tile_short_name": "The Greg Bear Birthday Bundle by Open Road Media",
+    "start_date|datetime": "2026-08-20T18:00:00",
+    "hover_highlights": [
+     "27 books",
+     "US$324 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Greg Bear Birthday Bundle by Open Road Media",
+    "short_marketing_blurb": "Celebrate the birthday of one of sci-fi\u2019s masters",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "27 books",
+     "US$324 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       688.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$688"
+    },
+    "machine_name": "ultimatevegancookbookbundlepagestreetpublishing_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=14b3f02ee5e8d25f832e91d31c618ae4",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Vegan YUM</em>, <em>Blk + Vegan</em>, <em>Frugal Vegan</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books",
+    "tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0b3ac49bb877ce81a0ab161192d5990c",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.63,
+        "EUR"
+       ],
+       "FR": [
+        16.55,
+        "EUR"
+       ],
+       "BG": [
+        18.82,
+        "EUR"
+       ],
+       "DK": [
+        19.61,
+        "EUR"
+       ],
+       "HR": [
+        16.47,
+        "EUR"
+       ],
+       "DE": [
+        16.78,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        19.92,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.25,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.63,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.1,
+        "EUR"
+       ],
+       "PT": [
+        16.63,
+        "EUR"
+       ],
+       "NO": [
+        15.69,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.98,
+        "TRY"
+       ],
+       "NZ": [
+        35.33,
+        "NZD"
+       ],
+       "LV": [
+        16.47,
+        "EUR"
+       ],
+       "LT": [
+        17.1,
+        "EUR"
+       ],
+       "LU": [
+        16.16,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1109.27,
+        "PHP"
+       ],
+       "RO": [
+        16.47,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.47,
+        "EUR"
+       ],
+       "CH": [
+        16.09,
+        "EUR"
+       ],
+       "MT": [
+        16.47,
+        "EUR"
+       ],
+       "CN": [
+        121.8,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.1,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.31,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.69,
+        "EUR"
+       ],
+       "CY": [
+        18.67,
+        "EUR"
+       ],
+       "AU": [
+        28.24,
+        "AUD"
+       ],
+       "GB": [
+        13.32,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.32,
+        "GBP"
+       ],
+       "IE": [
+        15.69,
+        "EUR"
+       ],
+       "ES": [
+        16.31,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.69,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.24,
+        "CAD"
+       ],
+       "SK": [
+        19.29,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.47,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.63,
+        "EUR"
+       ],
+       "AT": [
+        17.25,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$688 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$688."
+     },
+     {
+      "heading": "Pay AU$28.24 or more",
+      "tooltip": "Name your price of AU$28.24 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-08-27T18:00:00",
+    "author": "Macmillan Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Whether you\u2019re committed to the plant-based lifestyle or thinking about giving it a try, there\u2019s never been a better time to go vegan\u2014especially with this bundle of over 60 vegan cookbooks! We\u2019ve teamed up with Page Street Publishing for a treasure trove of recipes that bring the joys of veganism right to your home kitchen. If you\u2019re looking for Southern soul food with a vegetarian twist, scrumptious Mexican food that keeps things verde, delicious Asian-inspired meals for herbivores, or just tips on how to save while keeping your meals cruelty-free, you\u2019ll find all of that and so much more in this bundle! Grab these cooking ebooks at the price of your choice, and help support World Central Kitchen with your purchase!",
+    "tile_logo": "https://hb.imgix.net/aea8eefba51947fd4c44590e19559aa148a43891.png?auto=compress,format&h=340&w=1200&s=07aca8396c86f115a29216a98a3c6258",
+    "tile_short_name": "The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "start_date|datetime": "2026-07-30T18:00:00",
+    "hover_highlights": [
+     "61 books",
+     "US$688 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "short_marketing_blurb": "Powered by plants",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [
+     "CA"
+    ],
+    "highlights": [
+     "Pay What You Want",
+     "61 books",
+     "US$688 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/softwareengineeringmanning_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       1644.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$1,644"
+    },
+    "machine_name": "softwareengineeringmanning_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/1fe500e35e1b971fc7d2a5f4597bf7ae01c580d4.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=5bdcfc50742ce4d8f94db934a9f53b13",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Modern Fortran</em>, <em>Looks Good to Me</em>, <em>Think Distributed Systems</em>, <em>Architecture Modernization</em>, <em>Grokking Algorithms, Second Edition</em>, <em>Advanced Algorithms and Data Structures</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/software-engineering-manning-books",
+    "tile_image": "https://hb.imgix.net/1fe500e35e1b971fc7d2a5f4597bf7ae01c580d4.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ab73878b818ab2df171afc9c88dfc74b",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        8.25,
+        "EUR"
+       ],
+       "FR": [
+        8.21,
+        "EUR"
+       ],
+       "BG": [
+        9.34,
+        "EUR"
+       ],
+       "DK": [
+        9.73,
+        "EUR"
+       ],
+       "HR": [
+        8.17,
+        "EUR"
+       ],
+       "DE": [
+        8.33,
+        "EUR"
+       ],
+       "JP": [
+        9.9,
+        "USD"
+       ],
+       "HU": [
+        9.89,
+        "EUR"
+       ],
+       "US": [
+        9.0,
+        "USD"
+       ],
+       "FI": [
+        8.56,
+        "EUR"
+       ],
+       "BY": [
+        10.62,
+        "USD"
+       ],
+       "GR": [
+        8.25,
+        "EUR"
+       ],
+       "RU": [
+        1150.69,
+        "RUB"
+       ],
+       "NL": [
+        8.49,
+        "EUR"
+       ],
+       "PT": [
+        8.25,
+        "EUR"
+       ],
+       "NO": [
+        7.79,
+        "EUR"
+       ],
+       "TW": [
+        9.45,
+        "USD"
+       ],
+       "TR": [
+        428.35,
+        "TRY"
+       ],
+       "NZ": [
+        17.58,
+        "NZD"
+       ],
+       "LV": [
+        8.17,
+        "EUR"
+       ],
+       "LT": [
+        8.49,
+        "EUR"
+       ],
+       "LU": [
+        8.02,
+        "EUR"
+       ],
+       "TH": [
+        9.0,
+        "USD"
+       ],
+       "PH": [
+        547.11,
+        "PHP"
+       ],
+       "RO": [
+        8.17,
+        "EUR"
+       ],
+       "IS": [
+        9.99,
+        "USD"
+       ],
+       "PL": [
+        8.17,
+        "EUR"
+       ],
+       "CH": [
+        7.99,
+        "EUR"
+       ],
+       "MT": [
+        8.17,
+        "EUR"
+       ],
+       "CN": [
+        60.74,
+        "CNY"
+       ],
+       "CL": [
+        10.71,
+        "USD"
+       ],
+       "EE": [
+        8.49,
+        "EUR"
+       ],
+       "EG": [
+        10.26,
+        "USD"
+       ],
+       "IT": [
+        8.1,
+        "EUR"
+       ],
+       "ZA": [
+        10.35,
+        "USD"
+       ],
+       "CZ": [
+        7.79,
+        "EUR"
+       ],
+       "CY": [
+        9.27,
+        "EUR"
+       ],
+       "AU": [
+        14.05,
+        "AUD"
+       ],
+       "GB": [
+        6.68,
+        "GBP"
+       ],
+       "IN": [
+        10.62,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        6.68,
+        "GBP"
+       ],
+       "IE": [
+        7.79,
+        "EUR"
+       ],
+       "ES": [
+        8.1,
+        "EUR"
+       ],
+       "MD": [
+        10.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        7.79,
+        "EUR"
+       ],
+       "UA": [
+        10.8,
+        "USD"
+       ],
+       "CA": [
+        12.59,
+        "CAD"
+       ],
+       "SK": [
+        9.58,
+        "EUR"
+       ],
+       "KR": [
+        9.9,
+        "USD"
+       ],
+       "SI": [
+        8.17,
+        "EUR"
+       ],
+       "SG": [
+        9.81,
+        "USD"
+       ],
+       "MX": [
+        10.44,
+        "USD"
+       ],
+       "SE": [
+        8.25,
+        "EUR"
+       ],
+       "AT": [
+        8.56,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt29",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        26.62,
+        "EUR"
+       ],
+       "FR": [
+        26.5,
+        "EUR"
+       ],
+       "BG": [
+        30.14,
+        "EUR"
+       ],
+       "DK": [
+        31.4,
+        "EUR"
+       ],
+       "HR": [
+        26.37,
+        "EUR"
+       ],
+       "DE": [
+        26.87,
+        "EUR"
+       ],
+       "JP": [
+        31.9,
+        "USD"
+       ],
+       "HU": [
+        31.9,
+        "EUR"
+       ],
+       "US": [
+        29.0,
+        "USD"
+       ],
+       "FI": [
+        27.63,
+        "EUR"
+       ],
+       "BY": [
+        34.22,
+        "USD"
+       ],
+       "GR": [
+        26.62,
+        "EUR"
+       ],
+       "RU": [
+        3707.8,
+        "RUB"
+       ],
+       "NL": [
+        27.38,
+        "EUR"
+       ],
+       "PT": [
+        26.62,
+        "EUR"
+       ],
+       "NO": [
+        25.12,
+        "EUR"
+       ],
+       "TW": [
+        30.45,
+        "USD"
+       ],
+       "TR": [
+        1380.25,
+        "TRY"
+       ],
+       "NZ": [
+        56.68,
+        "NZD"
+       ],
+       "LV": [
+        26.37,
+        "EUR"
+       ],
+       "LT": [
+        27.38,
+        "EUR"
+       ],
+       "LU": [
+        25.87,
+        "EUR"
+       ],
+       "TH": [
+        29.0,
+        "USD"
+       ],
+       "PH": [
+        1762.93,
+        "PHP"
+       ],
+       "RO": [
+        26.37,
+        "EUR"
+       ],
+       "IS": [
+        32.19,
+        "USD"
+       ],
+       "PL": [
+        26.37,
+        "EUR"
+       ],
+       "CH": [
+        25.77,
+        "EUR"
+       ],
+       "MT": [
+        26.37,
+        "EUR"
+       ],
+       "CN": [
+        195.72,
+        "CNY"
+       ],
+       "CL": [
+        34.51,
+        "USD"
+       ],
+       "EE": [
+        27.38,
+        "EUR"
+       ],
+       "EG": [
+        33.06,
+        "USD"
+       ],
+       "IT": [
+        26.12,
+        "EUR"
+       ],
+       "ZA": [
+        33.35,
+        "USD"
+       ],
+       "CZ": [
+        25.12,
+        "EUR"
+       ],
+       "CY": [
+        29.89,
+        "EUR"
+       ],
+       "AU": [
+        45.29,
+        "AUD"
+       ],
+       "GB": [
+        21.53,
+        "GBP"
+       ],
+       "IN": [
+        34.22,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        21.53,
+        "GBP"
+       ],
+       "IE": [
+        25.12,
+        "EUR"
+       ],
+       "ES": [
+        26.12,
+        "EUR"
+       ],
+       "MD": [
+        34.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        25.12,
+        "EUR"
+       ],
+       "UA": [
+        34.8,
+        "USD"
+       ],
+       "CA": [
+        40.59,
+        "CAD"
+       ],
+       "SK": [
+        30.89,
+        "EUR"
+       ],
+       "KR": [
+        31.9,
+        "USD"
+       ],
+       "SI": [
+        26.37,
+        "EUR"
+       ],
+       "SG": [
+        31.61,
+        "USD"
+       ],
+       "MX": [
+        33.64,
+        "USD"
+       ],
+       "SE": [
+        26.62,
+        "EUR"
+       ],
+       "AT": [
+        27.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt29_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt59",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        54.17,
+        "EUR"
+       ],
+       "FR": [
+        53.92,
+        "EUR"
+       ],
+       "BG": [
+        61.33,
+        "EUR"
+       ],
+       "DK": [
+        63.88,
+        "EUR"
+       ],
+       "HR": [
+        53.66,
+        "EUR"
+       ],
+       "DE": [
+        54.68,
+        "EUR"
+       ],
+       "JP": [
+        64.9,
+        "USD"
+       ],
+       "HU": [
+        64.9,
+        "EUR"
+       ],
+       "US": [
+        59.0,
+        "USD"
+       ],
+       "FI": [
+        56.22,
+        "EUR"
+       ],
+       "BY": [
+        69.62,
+        "USD"
+       ],
+       "GR": [
+        54.17,
+        "EUR"
+       ],
+       "RU": [
+        7543.47,
+        "RUB"
+       ],
+       "NL": [
+        55.7,
+        "EUR"
+       ],
+       "PT": [
+        54.17,
+        "EUR"
+       ],
+       "NO": [
+        51.11,
+        "EUR"
+       ],
+       "TW": [
+        61.95,
+        "USD"
+       ],
+       "TR": [
+        2808.1,
+        "TRY"
+       ],
+       "NZ": [
+        115.32,
+        "NZD"
+       ],
+       "LV": [
+        53.66,
+        "EUR"
+       ],
+       "LT": [
+        55.7,
+        "EUR"
+       ],
+       "LU": [
+        52.64,
+        "EUR"
+       ],
+       "TH": [
+        59.0,
+        "USD"
+       ],
+       "PH": [
+        3586.67,
+        "PHP"
+       ],
+       "RO": [
+        53.66,
+        "EUR"
+       ],
+       "IS": [
+        65.49,
+        "USD"
+       ],
+       "PL": [
+        53.66,
+        "EUR"
+       ],
+       "CH": [
+        52.43,
+        "EUR"
+       ],
+       "MT": [
+        53.66,
+        "EUR"
+       ],
+       "CN": [
+        398.19,
+        "CNY"
+       ],
+       "CL": [
+        70.21,
+        "USD"
+       ],
+       "EE": [
+        55.7,
+        "EUR"
+       ],
+       "EG": [
+        67.26,
+        "USD"
+       ],
+       "IT": [
+        53.15,
+        "EUR"
+       ],
+       "ZA": [
+        67.85,
+        "USD"
+       ],
+       "CZ": [
+        51.11,
+        "EUR"
+       ],
+       "CY": [
+        60.82,
+        "EUR"
+       ],
+       "AU": [
+        92.15,
+        "AUD"
+       ],
+       "GB": [
+        43.81,
+        "GBP"
+       ],
+       "IN": [
+        69.62,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        43.81,
+        "GBP"
+       ],
+       "IE": [
+        51.11,
+        "EUR"
+       ],
+       "ES": [
+        53.15,
+        "EUR"
+       ],
+       "MD": [
+        70.8,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        51.11,
+        "EUR"
+       ],
+       "UA": [
+        70.8,
+        "USD"
+       ],
+       "CA": [
+        82.58,
+        "CAD"
+       ],
+       "SK": [
+        62.86,
+        "EUR"
+       ],
+       "KR": [
+        64.9,
+        "USD"
+       ],
+       "SI": [
+        53.66,
+        "EUR"
+       ],
+       "SG": [
+        64.31,
+        "USD"
+       ],
+       "MX": [
+        68.44,
+        "USD"
+       ],
+       "SE": [
+        54.17,
+        "EUR"
+       ],
+       "AT": [
+        56.22,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt59_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$1,644 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$1,644."
+     },
+     {
+      "heading": "Pay AU$14.05 or more",
+      "tooltip": "Name your price of AU$14.05 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in <<<>>> file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-01T18:00:00",
+    "author": "Manning Publications",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/softwareengineeringmanning_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "We see a bright future for you as a software engineer\u2014let us and Manning Publications help you see the vision. Master the art of writing efficient programs with elite eBooks that start from square one or build your existing skill set. Pay what you want for expert-led titles like <em>Architecture Modernization</em>, <em>Think Distributed Systems</em>, <em>Advanced Algorithms and Data Structures</em>, <em>100 SQL Server Mistakes and How to Avoid Them</em>, and more. Help support charity, develop your skills, and save some dough\u2014you can\u2019t beat that!",
+    "tile_logo": "https://hb.imgix.net/791176c0c2daaf6874246c824391e21a9ff1cc55.png?auto=compress,format&h=340&w=1200&s=668e8c87d0119962b216c67d150fa4ca",
+    "tile_short_name": "Software Engineering by Manning",
+    "start_date|datetime": "2026-08-11T18:00:00",
+    "hover_highlights": [
+     "26 books",
+     "US$1,644 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Tech Book Bundle: Software Engineering by Manning",
+    "short_marketing_blurb": "Surefire software engineering ebooks by Manning",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/softwareengineeringmanning_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "26 books",
+     "US$1,644 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/shantaefranchisebundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       192.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$192"
+    },
+    "machine_name": "shantaeheroicheroines_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=edd5f1bb3f076ded31ee89f974896c35",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>River City Girls</em> and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/shantae-heroic-heroines",
+    "tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d9ca18756b816bf711cc7dcfcedaec8e",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        5.23,
+        "EUR"
+       ],
+       "FR": [
+        5.19,
+        "EUR"
+       ],
+       "BG": [
+        5.19,
+        "EUR"
+       ],
+       "DK": [
+        5.41,
+        "EUR"
+       ],
+       "HR": [
+        5.41,
+        "EUR"
+       ],
+       "DE": [
+        5.15,
+        "EUR"
+       ],
+       "JP": [
+        5.5,
+        "USD"
+       ],
+       "HU": [
+        5.49,
+        "EUR"
+       ],
+       "US": [
+        5.0,
+        "USD"
+       ],
+       "FI": [
+        5.43,
+        "EUR"
+       ],
+       "BY": [
+        5.9,
+        "USD"
+       ],
+       "GR": [
+        5.36,
+        "EUR"
+       ],
+       "RU": [
+        683.66,
+        "RUB"
+       ],
+       "NL": [
+        5.23,
+        "EUR"
+       ],
+       "PT": [
+        5.32,
+        "EUR"
+       ],
+       "NO": [
+        5.41,
+        "EUR"
+       ],
+       "TW": [
+        5.25,
+        "USD"
+       ],
+       "TR": [
+        238.78,
+        "TRY"
+       ],
+       "NZ": [
+        9.79,
+        "NZD"
+       ],
+       "LV": [
+        5.23,
+        "EUR"
+       ],
+       "LT": [
+        5.1,
+        "EUR"
+       ],
+       "LU": [
+        5.06,
+        "EUR"
+       ],
+       "TH": [
+        5.35,
+        "USD"
+       ],
+       "PH": [
+        306.11,
+        "PHP"
+       ],
+       "RO": [
+        5.02,
+        "EUR"
+       ],
+       "IS": [
+        6.2,
+        "USD"
+       ],
+       "PL": [
+        5.32,
+        "EUR"
+       ],
+       "CH": [
+        4.68,
+        "EUR"
+       ],
+       "MT": [
+        5.1,
+        "EUR"
+       ],
+       "CN": [
+        33.71,
+        "CNY"
+       ],
+       "CL": [
+        5.95,
+        "USD"
+       ],
+       "EE": [
+        5.28,
+        "EUR"
+       ],
+       "EG": [
+        5.7,
+        "USD"
+       ],
+       "IT": [
+        5.28,
+        "EUR"
+       ],
+       "ZA": [
+        5.75,
+        "USD"
+       ],
+       "CZ": [
+        5.23,
+        "EUR"
+       ],
+       "CY": [
+        5.15,
+        "EUR"
+       ],
+       "AU": [
+        7.77,
+        "AUD"
+       ],
+       "GB": [
+        4.42,
+        "GBP"
+       ],
+       "IN": [
+        5.9,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        3.69,
+        "GBP"
+       ],
+       "IE": [
+        5.32,
+        "EUR"
+       ],
+       "ES": [
+        5.23,
+        "EUR"
+       ],
+       "MD": [
+        6.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        4.33,
+        "EUR"
+       ],
+       "UA": [
+        6.0,
+        "USD"
+       ],
+       "CA": [
+        6.96,
+        "CAD"
+       ],
+       "SK": [
+        5.32,
+        "EUR"
+       ],
+       "KR": [
+        5.5,
+        "USD"
+       ],
+       "SI": [
+        5.28,
+        "EUR"
+       ],
+       "SG": [
+        5.45,
+        "USD"
+       ],
+       "MX": [
+        5.8,
+        "USD"
+       ],
+       "SE": [
+        5.41,
+        "EUR"
+       ],
+       "AT": [
+        5.19,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        10.47,
+        "EUR"
+       ],
+       "FR": [
+        10.39,
+        "EUR"
+       ],
+       "BG": [
+        10.39,
+        "EUR"
+       ],
+       "DK": [
+        10.82,
+        "EUR"
+       ],
+       "HR": [
+        10.82,
+        "EUR"
+       ],
+       "DE": [
+        10.3,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        10.99,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        10.86,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        10.73,
+        "EUR"
+       ],
+       "RU": [
+        1367.34,
+        "RUB"
+       ],
+       "NL": [
+        10.47,
+        "EUR"
+       ],
+       "PT": [
+        10.65,
+        "EUR"
+       ],
+       "NO": [
+        10.82,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        477.57,
+        "TRY"
+       ],
+       "NZ": [
+        19.59,
+        "NZD"
+       ],
+       "LV": [
+        10.47,
+        "EUR"
+       ],
+       "LT": [
+        10.21,
+        "EUR"
+       ],
+       "LU": [
+        10.13,
+        "EUR"
+       ],
+       "TH": [
+        10.7,
+        "USD"
+       ],
+       "PH": [
+        612.22,
+        "PHP"
+       ],
+       "RO": [
+        10.04,
+        "EUR"
+       ],
+       "IS": [
+        12.4,
+        "USD"
+       ],
+       "PL": [
+        10.65,
+        "EUR"
+       ],
+       "CH": [
+        9.36,
+        "EUR"
+       ],
+       "MT": [
+        10.21,
+        "EUR"
+       ],
+       "CN": [
+        67.43,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        10.56,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        10.56,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        10.47,
+        "EUR"
+       ],
+       "CY": [
+        10.3,
+        "EUR"
+       ],
+       "AU": [
+        15.55,
+        "AUD"
+       ],
+       "GB": [
+        8.86,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.39,
+        "GBP"
+       ],
+       "IE": [
+        10.65,
+        "EUR"
+       ],
+       "ES": [
+        10.47,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.66,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        13.92,
+        "CAD"
+       ],
+       "SK": [
+        10.65,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        10.56,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        10.82,
+        "EUR"
+       ],
+       "AT": [
+        10.39,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt15",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        15.71,
+        "EUR"
+       ],
+       "FR": [
+        15.58,
+        "EUR"
+       ],
+       "BG": [
+        15.58,
+        "EUR"
+       ],
+       "DK": [
+        16.23,
+        "EUR"
+       ],
+       "HR": [
+        16.23,
+        "EUR"
+       ],
+       "DE": [
+        15.45,
+        "EUR"
+       ],
+       "JP": [
+        16.5,
+        "USD"
+       ],
+       "HU": [
+        16.49,
+        "EUR"
+       ],
+       "US": [
+        15.0,
+        "USD"
+       ],
+       "FI": [
+        16.3,
+        "EUR"
+       ],
+       "BY": [
+        17.7,
+        "USD"
+       ],
+       "GR": [
+        16.1,
+        "EUR"
+       ],
+       "RU": [
+        2051.01,
+        "RUB"
+       ],
+       "NL": [
+        15.71,
+        "EUR"
+       ],
+       "PT": [
+        15.97,
+        "EUR"
+       ],
+       "NO": [
+        16.23,
+        "EUR"
+       ],
+       "TW": [
+        15.75,
+        "USD"
+       ],
+       "TR": [
+        716.36,
+        "TRY"
+       ],
+       "NZ": [
+        29.39,
+        "NZD"
+       ],
+       "LV": [
+        15.71,
+        "EUR"
+       ],
+       "LT": [
+        15.32,
+        "EUR"
+       ],
+       "LU": [
+        15.19,
+        "EUR"
+       ],
+       "TH": [
+        16.05,
+        "USD"
+       ],
+       "PH": [
+        918.33,
+        "PHP"
+       ],
+       "RO": [
+        15.06,
+        "EUR"
+       ],
+       "IS": [
+        18.6,
+        "USD"
+       ],
+       "PL": [
+        15.97,
+        "EUR"
+       ],
+       "CH": [
+        14.04,
+        "EUR"
+       ],
+       "MT": [
+        15.32,
+        "EUR"
+       ],
+       "CN": [
+        101.14,
+        "CNY"
+       ],
+       "CL": [
+        17.85,
+        "USD"
+       ],
+       "EE": [
+        15.84,
+        "EUR"
+       ],
+       "EG": [
+        17.1,
+        "USD"
+       ],
+       "IT": [
+        15.84,
+        "EUR"
+       ],
+       "ZA": [
+        17.25,
+        "USD"
+       ],
+       "CZ": [
+        15.71,
+        "EUR"
+       ],
+       "CY": [
+        15.45,
+        "EUR"
+       ],
+       "AU": [
+        23.33,
+        "AUD"
+       ],
+       "GB": [
+        13.3,
+        "GBP"
+       ],
+       "IN": [
+        17.7,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.09,
+        "GBP"
+       ],
+       "IE": [
+        15.97,
+        "EUR"
+       ],
+       "ES": [
+        15.71,
+        "EUR"
+       ],
+       "MD": [
+        18.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        12.99,
+        "EUR"
+       ],
+       "UA": [
+        18.0,
+        "USD"
+       ],
+       "CA": [
+        20.88,
+        "CAD"
+       ],
+       "SK": [
+        15.97,
+        "EUR"
+       ],
+       "KR": [
+        16.5,
+        "USD"
+       ],
+       "SI": [
+        15.84,
+        "EUR"
+       ],
+       "SG": [
+        16.35,
+        "USD"
+       ],
+       "MX": [
+        17.4,
+        "USD"
+       ],
+       "SE": [
+        16.23,
+        "EUR"
+       ],
+       "AT": [
+        15.58,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt15_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$192 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$192."
+     },
+     {
+      "heading": "Pay AU$7.77 or more",
+      "tooltip": "Name your price of AU$7.77 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$7.77 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-08T04:00:00",
+    "author": "WayForward",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in <em>Shantae and the Seven Sirens</em>! Save Sequin Land from a rampant crime wave with <em>Shantae: Half-Genie Hero Ultimate Edition</em>, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in <em>Shantae and the Pirate\u2019s Curse</em>! Plus, have even more fun with the schoolgirl warriors of <em>River City Girls</em> and the law-abiding citizens of <em>Mighty Switch Force</em>! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 7th, 2027. </span> ",
+    "tile_logo": "https://hb.imgix.net/ec50877f873a62bd36758d7371533216f233893c.png?auto=compress,format&h=340&w=1200&s=ec16d5913c7a890143df88d60d6fb5e1",
+    "tile_short_name": "Shantae & Heroic Heroines",
+    "start_date|datetime": "2026-08-17T18:00:00",
+    "hover_highlights": [
+     "10 games",
+     "US$192 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Shantae & Heroic Heroines",
+    "short_marketing_blurb": "Half-genie, big adventures!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "10 games",
+     "US$192 Value",
+     "Support Charity"
+    ]
+   }
+  ],
+  "tier_item_data": {
+   "chefknight": {
+    "machine_name": "chefknight",
+    "youtube_link": "xB_jKiCPxag",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/chefknight_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>94% Positive on Steam</span><br><br>Dungeon crawling meets culinary arts: defeat your ingredients in combat; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 7.19
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 22.19
+    },
+    "subtitle_html": null,
+    "description_text": "<p><strong><i>Chef Knight</i> </strong> is a cozy fantasy incremental game where monsters aren\u2019t just enemies \u2013 they\u2019re ingredients.</p>\n<p>Dive into dangerous dungeons, defeat monsters to collect fresh ingredients, return to your kitchen to cook delicious meals, then sell your dishes to upgrade before your next run!</p>\n<p>Explore top-down dungeons filled with monsters both deadly &amp; delicious. Aim your attacks, dodge dangerous traps, and unlock powerful culinary weapons to handle the darkest depths of the dungeon!</p>\n<p>Turn your spoils into scrumptious dishes back in the kitchen. Discover new ingredients, unlock recipes, and watch your monster cuisine grow from simple meals into highly sought-after delicacies!<br><br>Sell your dishes to passing adventurers and reinvest the profits into powerful upgrades from a vast skill tree. Improve how fast you fight, how efficiently you cook, and how far you can push each run!</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Chef Knight",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Clover Bite",
+      "developer-url": "https://cloverbite.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "mobile": {},
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/c84554a872ca5a11605405f2ffdd2cdd7d3c8a35.png?auto=compress,format&w=300&s=abdbfa26b95b41be4de2a1cd4d6dff07",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Chef Knight",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "cannibalcuisine": {
+    "machine_name": "cannibalcuisine",
+    "youtube_link": "MlAGtcKrIs0",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/cannibalcuisine_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>85% Positive on Steam</span><br><br>Arcade cooking chaos featuring voodoo magic, trap-filled maps, and cannibal chef squads; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 14.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "subtitle_html": null,
+    "description_text": "The recipes for success are varied; find delicious fruits and vegetables, and combine them with freshly chopped and cooked tourists for a truly divine delicacy fit for the God Hoochooboo. Of course the tourists might not offer themselves up freely, the heathens, so you\u2019ll need to master your arcade reflexes and special powers (like fire breathing for baking) to persuade them without getting KO\u2019d! <br><strong><br>Tour the island </strong> <br>Ready, steady, cook your way through many levels in a full campaign across the island. Overcome spikes in mysterious temples, bushwhack your way through tourist infested jungles and stay away from lava in the underground. <br><br><strong> Other-foodly activities </strong> <br>All kinds of extra-culinary skills are needed too to appease Hoochooboo. Skills such as outrunning the Spikey Log of Doom\u2122, defeating waves of tourists and the tour boss in the jungle arena, as well as other challenge levels to prove yourself as the one true cook. <br><strong><br>Choose your cooking style </strong> <br>Special powers are the perfect ingredients for success, allowing you to dash, place healing totems or even breathe fire. In multiplayer each chef can choose a different ability to fit their cooking style. <br><br><strong> Foodfest or Foodfight </strong> <br>Cook your way through hell\u2019s kitchen solo or with up to 4 chefs. Or challenge each other to foodfights in PvP. With so many chefs in the kitchen, chaos is sure to follow. <br><strong class=\"hmb\"><i><br>Cannibal Cuisine</i> features: </strong> <br>\n<ul>\n<li>Arcade combat with unfortunate tourists - don't forget your special powers! </li>\n<li>Navigate varied tropical levels to collect extra ingredients and prepare Hoochooboo\u2019s meals. </li>\n<li>Many levels of cannibal chaos in the jungle, temple, on the beach, and inside a volcano! </li>\n<li>Choose your cannibal couture with many options for weapons and accessories. </li>\n<li>Play solo, cooperatively, or in versus mode with 1-4 players.</li>\n</ul>\n<strong class=\"hmb\"><br>A new threat: The Scarab King </strong> <br>The Scarab King has cursed the land and spawned Hoochooboo all over the desert. Defeat The Scarab King to lift the curse! 'The Curse of the Scarab King' is a free content update that adds 5 regular cooking levels and a challenge level within a new environment. It also introduces new mechanics, extra deadly traps and cosmetics in the new desert theme.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Cannibal Cuisine",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Rocket Vulture",
+      "developer-url": "https://www.rocketvulture.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/a415562aec1cbdedee9d35f642219724d521d90d.png?auto=compress,format&w=300&s=4dba022e46699bdaae23f06548ff410e",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Cannibal Cuisine",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "bentoblocks": {
+    "machine_name": "bentoblocks",
+    "youtube_link": "TfibHG7y4fg",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/bentoblocks_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>97% Positive on Steam</span><br><br>A relaxing, mouth-watering puzzle game about arranging perfect Japanese lunchboxes; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 18.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 18.03
+    },
+    "subtitle_html": null,
+    "description_text": "<p><strong> <i>Bento Blocks</i> </strong> is a cozy puzzle game about <strong> slicing </strong> and <strong> packing </strong> ingredients neatly into lunch boxes using the fewest cuts.<br><br><strong>Test your culinary creativity </strong> by exploring over <strong> 180 hand-crafted levels </strong> , each with its own quirky twist and satisfying solution.<br><br><strong>Play how you like! </strong> Unwind with gentle music, bite-sized challenges and calming visuals. No pressure, no timer, play the game at your own pace.</p>\n<p>Fewer cuts mean more stars for your <strong> recipe book </strong> ... but it might not be so <i> shrimple </i> after all.</p>\n<strong class=\"hmb\"><br>FEATURES </strong> <br>\n<ul>\n<li>\n<p>Pack delicious <i> ingredients </i> into a variety of quirky bento boxes.</p>\n</li>\n<li>\n<p>The fewer slices you make, the more stars you'll earn.</p>\n</li>\n<li>\n<p>Play through 180+ hand-crafted puzzles and unlock new scenery as you progress.</p>\n</li>\n<li>\n<p>Unwind with live-recorded music and soothing hand-painted art.</p>\n</li>\n<li>\n<p>No pressure and no timers -- play entirely at your own pace.</p>\n</li>\n</ul>\n<p><i><br>Thank you for reading! Support us by <strong> wish-listing </strong> the game and join our cozy community on <strong> Discord!</strong></i></p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Bento Blocks",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "SOMETIMES LIMITED",
+      "developer-url": "https://sometimes.ltd/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/dfca5fcab19dd1b786d90979a190b535c67ffb86.png?auto=compress,format&w=300&s=5f886466248bca0405f4d1ab576bdf54",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Bento Blocks",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "foodtrucksimulator": {
+    "machine_name": "foodtrucksimulator",
+    "youtube_link": "5pkLJbyfsxY",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/foodtrucksimulator_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>68% Positive on Steam</span><br><br>Renovate an old food truck, prep your ingredients, and feed a bustling city; Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Movie Games S.A.",
+      "publisher-url": "https://mov.gs/"
+     },
+     {
+      "publisher-name": "HeartBeat Games"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 27.729342524773806
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 18.03
+    },
+    "subtitle_html": null,
+    "description_text": "Your father owned a food truck. Though the vehicle has grown old, it has become a cornerstone of your family's legacy. Now, in the blink of an eye, your father's gone. Now, the food truck belongs to you. Will you walk in your father's footsteps and live up to his name? Only one way to find out. <strong class=\"hmb\"> <br><br>DRIVING<br></strong>You can't take the 'truck' out of 'food truck'. Before you can set your stalls up, you have to actually get from your garage to wherever you decide to vend for the day. Be mindful of traffic, and congestions too! When you feel you're short on time do as your father did and veer off the beaten path. First come, first served! <strong class=\"hmb\"> <br><br>COOKING<br></strong>You might've thought that all there is to this business is fast food, but now that you're on the other side of the counter it's time to think again. Even so much as a slice of cheese can turn a classic burger into a cheeseburger special. So, what will it be, sir? Ketchup or mustard? <strong class=\"hmb\"> <br><br>SERVING<br></strong>Customers can be impatient and needy a lot. You'll find that you don't have all that much time to get them what they want and fit their palate as well. It'll be a challenge, but it's one your father has overcome, and surely so can you. Practice makes perfect, so go and knock them off their feet with your quality food! <strong class=\"hmb\"> <br><br>UPGRADING<br></strong>As your prestige grows, so does your repertoire of tricks and tools. Stay up to date with your fame as you follow your in father's footsteps. Make sure to outfit yourself with the newest, top-of-the-line equipment you (and your wallet) can muster. Ride the wave of fame. <strong class=\"hmb\"> <br><br>CUSTOMIZING<br></strong>The truck belongs to you and as the hands that own it change, so too should its d\u00e9cor. Adjust anything from the exterior's color to the interior layout, the bumpers, lights, and wheels. Show the city you're no less than your father was and hit the streets like you own them. <strong class=\"hmb\"> <br><br>ORDERING<br></strong>Each day is a new adventure, and each adventure requires sufficient provisions. Ingredients aren't permanent and will rot and spoil as the hours tick on by. Remember to stock up on not only the freshest but most desirable produce your clientele might demand of you. <strong class=\"hmb\"> <br><br>CLEANING<br></strong>The truck is dirty and has fallen to disrepair. Honour dad's memory by polishing it one last time. It's been a while since the truck has seen any use. Grab a bucket and a sponge, find a broom and get to cleaning. You'll need to be thorough, and it might take a while to make the truck spick and span, but now you have a duty to fulfill. Get to it! <strong class=\"hmb\"> <br><br>Key Features </strong> <br>\n<ul>\n<li>Renovating and expanding food truck.</li>\n<li>Wide range of customization options.</li>\n<li>Large catalogue of equipment options to choose from.</li>\n<li>Create your own recipes.</li>\n<li>Driving with traffic system.</li>\n<li>Detailed cooking system.</li>\n<li>Different locations across an entire city with different types of customers.</li>\n<li>Various events.</li>\n<li>Managing</li>\n<li>Living city with dynamic day and night cycle.</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/foodtrucksimulator.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Food Truck Simulator",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "DRAGO entertainment",
+      "developer-url": "https://drago-entertainment.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/2c8d695d6cc20d9604c9e35e39c0c17c15a166fb.png?auto=compress,format&fit=clip&h=80&w=170&s=789cb9ee7eb37e10ae61e64f48de56be",
+     "featured_image": "https://hb.imgix.net/2c8d695d6cc20d9604c9e35e39c0c17c15a166fb.png?auto=compress,format&w=300&s=c896c21b6d2520b9bd8d0216f1e5e227",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/d5988ed7c384a1dba0fd717d1463992bd32706a3.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=28d854d08ef9e0df47701c5c2aade172",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2c8d695d6cc20d9604c9e35e39c0c17c15a166fb.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=bed57537c765937ead96299e96a12b2b",
+     "front_page_art_imgix": "https://hb.imgix.net/2c8d695d6cc20d9604c9e35e39c0c17c15a166fb.png?auto=compress,format&w=300&s=c896c21b6d2520b9bd8d0216f1e5e227",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Food Truck Simulator",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "tailside_cozycafesim": {
+    "machine_name": "tailside_cozycafesim",
+    "youtube_link": "Dqy-LQzeOtU",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/tailside_cozycafesim_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>95% Positive on Steam</span><br><br>Brew coffee, bake pastries, and decorate a peaceful cafe for cute animal guests; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 11.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">\ud83e\udde1 A GAME CREATED BY THE COZY COMMUNITY, FOR THE COZY COMMUNITY!&nbsp;\ud83e\udde1 </strong> <br>\n<p><strong> Run your own cozy caf\u00e9 </strong> in <strong> Tailside </strong> ! <strong> Brew coffee </strong> , <strong> decorate </strong> your caf\u00e9, and follow small stories in the daily newspaper. <strong> Progress </strong> through <strong> days </strong> and <strong> levels </strong> to unlock new <strong> items, skills, villagers, </strong> and <strong> creature visitors. </strong> <br><br></p>\n<p><strong> \ud83c\udf31 Play at your own pace: </strong> <strong> no time pressure, no stress&nbsp;\ud83c\udf31 <br>\ud83c\udf31 Simple daily management gameplay loop and mechanics </strong> <strong> \ud83c\udf31 </strong> <br><strong> \ud83c\udf31 Perfect for a coffee break and short gaming sessions \ud83c\udf31 </strong> <br><strong> \ud83c\udf31 Sandbox mode for decor fans </strong> <strong> \ud83c\udf31 <br><br></strong></p>\n<strong class=\"hmb\">\u2615\ufe0f PREPARE COFFEE </strong> <br>\n<p><strong> Master </strong> the <strong> art of coffee-making </strong> as you fulfill various coffee orders:</p>\n<p>\ud83c\udf31 Prepare <strong> different </strong> types of coffee</p>\n<p>\ud83c\udf31 Unlock new options through progression &amp; <strong> skills </strong></p>\n<strong class=\"hmb\"><br>\ud83c\udfa8 DECORATE THE CAFE </strong> <br>\n<p><strong> Personalize </strong> every corner of your cafe to <strong> your own unique taste </strong> :</p>\n<p>\ud83c\udf31 Fully customizable <strong> cafe, bedroom &amp; terrace </strong> areas</p>\n<p>\ud83c\udf31 Different decoration <strong> categories </strong> with hundreds items to choose</p>\n<strong class=\"hmb\"><br>\ud83d\udcdc STORIES &amp; VISITORS </strong> <br>\n<p>Little stories find their way through your caf\u00e9.</p>\n<p>\ud83c\udf31 Follow mini storylines in the <strong> daily newspaper </strong> as the days pass</p>\n<p>\ud83c\udf31 Unlock <strong> new villagers </strong> and <strong> creature visitors </strong> as you progress<br><br></p>\n<strong class=\"hmb\">\ud83e\udd8a FOLLOW FOR MORE NEWS AND MONTHLY UPDATES ON NEW FEATURES </strong> <br>\n<p>This game is being developed based on community feedback. Join us and watch the game expand, playtest various versions, and suggest your own ideas to be added!</p>\n<strong class=\"hmb\"><br>\u26a0\ufe0f MODDING SUPPORT &amp; COMMUNITY CONTENT </strong> <br>\n<p>This game lets players import custom characters. These creations are not reviewed or endorsed by the developers. Please only use content you have rights to. All original characters remain the property of their respective owners.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Tailside: Cozy Cafe Sim",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Coffee Beans Dev"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/28311cd356646bb016c85df69fd203011e50530c.png?auto=compress,format&w=300&s=ab014a90d92692aaa130d29deea6c5bd",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Tailside: Cozy Cafe Sim",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "bakerysimulator": {
+    "machine_name": "bakerysimulator",
+    "youtube_link": "Cdx8qi7nqqI",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/bakerysimulator_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>66% Positive on Steam</span><br><br>A detailed, hands-on simulation of running a commercial bakery business; Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Ultimate Games S.A.",
+      "publisher-url": "https://ultimate-games.com/"
+     },
+     {
+      "publisher-name": "Gaming Factory"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 20.79
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "subtitle_html": null,
+    "description_text": "In Bakery Simulator every recipe is inspired by the real ones!<br>Check the cookbook, use a database of original recipes, and learn to bake several dozen types of bread, buns, and more. Be precise - otherwise, your goods will not be properly baked.<br><br>Choose your target.<br>Stores need different kinds of baked goods. Bread and buns are just not enough \u2013 some expect croissants, bagels, or muffins. Browse daily lists of orders, choose them and commit to regular deliveries. Raise your reputation and trust with the stores by making the deliveries on time.<br><br>Find the best ingredients.<br>Manage and control the ingredient storage space. Order different kinds of flour, yeast, and additives from the warehouse. Check which ingredients are missing or which you\u2019re getting short or - otherwise, you may find yourself in a difficult position and unable to work on the orders!<br><br>Earn and invest.<br>Invest your hard-earned cash in newer equipment that will let you bake even more products. Buy a larger delivery vehicle or machines for making other types of bread. Expand your bakery.<br><br>Bakery customization.<br>Choose your own bakery equipment from the list of dozens of available machines and devices. Follow the manuals closely\u2026 or find your own use for them. Upgrade and customize your working space to your liking. Install more and more bakery machines as you progress through the game. Buy countertops, shelves, and tools. Create the perfect conditions for baking!<br><br>Logistics is key.<br>Plan your route to save as much time as possible when unloading. Hurry up and deliver warm bread to stores before opening. Remember that delays will cost you money!<br><br>An open world with a changing customer base.<br>From time to time new bakeries will appear. Respond to the needs of the market and invest in new equipment to avoid going bankrupt.",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Bakery Simulator",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Live Motion Games",
+      "developer-url": "https://livemotiongames.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/289ee4ce7524ca3ae9dff64b1869d634a40817a6.png?auto=compress,format&w=300&s=929c56966667f17dfddf1922b1bd9658",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Bakery Simulator",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "magicaldelicacy": {
+    "machine_name": "magicaldelicacy",
+    "youtube_link": "wuTxvFzMM58",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/magicaldelicacy_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>77% Positive on Steam</span><br><br>A cozy, pixel-art platformer where cooking potions and pastries solves local problems; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Whitethorn Games",
+      "publisher-url": "https://whitethorngames.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 32.5
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 18.03
+    },
+    "subtitle_html": null,
+    "description_text": "<p><i>Magical Delicacy</i> is a combat-free Metroidvania-lite with a complex cooking system. Set foot in Grat and <strong> get lost while platforming through this twisted town </strong> - find and explore open pathways or <strong> fulfill the complex orders of the townsfolk </strong> to progress and unlock new kitchen tools.</p>\n<p><br>Platforming and exploration lie at the heart of <i>Magical Delicacy</i> and are required to collect ingredients and progress within the game. Toggle the Easy Platforming mode in the settings if you want a more comfortable platforming experience or have trouble with challenging passages.</p>\n<p><br>Play the young witch Flora and discover a bustling town in this Metroidvania-inspired wholesome cooking game. Cook meals and potions in your customized kitchen by carefully selecting the right ingredients. Navigate the town in casual platforming to meet the townsfolk, take up their orders, and learn about this world of magic.</p>\n<p><br>Flora travels to a distant town to fulfill her dream of becoming a proper witch. She opens up shop in Grat, a harbor town built upon cliffs, where adventurers settled to chart an unexplored island full of mystery. As she engages in the town\u2019s thriving economy, she stumbles upon two members of opposing covens. The witch Cassia and the magus Tauno have a lot to teach Flora, but they also know how to use her in their dispute about magical beings.</p>\n<strong class=\"hmb\"><br>EXPLORATION </strong> <br>\n<p>Visit a beautiful harbor town, a densely packed space with people to meet, history to discover, and many opportunities to improve your business. <strong> Shop at merchants </strong> to buy various keepsakes and upgrades. <strong> Accept dozens of orders </strong> from the townsfolk asking for your magical food. Meet mysterious travelers, shop owners, forgotten legends, and masters of their crafts, some of which might only appear during day or night. Unravel long-forgotten secrets of the island and its mystical creatures.&nbsp;<br><br><br><strong class=\"hmb\">RESOURCE MANAGEMENT</strong></p>\n<p>Cooking delicious meals for your customers requires the correct ingredients. <strong> Gather ingredients </strong> directly within the nooks and crannies of the town, while some other ingredients can only be <strong> bought from merchants </strong> . Run out of an ingredient while cooking? Don\u2019t worry - merchants will restock their shops, and forgeable ingredients eventually grow back with a little patience. Upgrade your kitchen to stash a collection of ingredients ready for cooking and experimentation or sell them to merchants for Beads, your precious currency for trading.&nbsp;<br><br></p>\n<strong class=\"hmb\">COOKING </strong> <br>\n<p>Use <strong> your acquired ingredients </strong> to create magical dishes. Different attributes require you to think about your ingredient selection. <strong> Figure out and learn </strong> how flavors mix and how to meet customers\u2018 odd and complex requests for food. Closely <strong> follow recipes or experiment with your own creations </strong> , then <strong> sell or deliver </strong> your potions, meals, teas, and pastries to friends and customers. Be it local cuisine or Flora\u2019s hometown recipes, everything to satisfy the tastebuds of different folks, from the croaking Gaball to the feline Tilin.&nbsp;</p>\n<strong class=\"hmb\"><br>KITCHEN </strong> <br>\n<p>Start with basic equipment and <strong> acquire new kitchen tools </strong> . Unlock more rooms to arrange and customize your tools to your liking and maximize efficiency when cooking. Put your unused creations up for sale, sort your ingredients into storage, and <strong> grow some plants in the backyard. </strong> It would be the perfect place to call your own if it wasn\u2019t for this unwanted roommate and a lingering capitalist dread.</p>\n<strong class=\"hmb\"><br>PLATFORMING </strong> <br>\n<p>Navigate the town during your deliveries, climb bell towers and old ramparts, or delve through challenging old catacombs. Grow as a witch and acquire <strong> upgrades to your movement abilities </strong> to discover new routes and hard-to-reach places or open shortcuts that lead back to your store. Uncover and learn the twisted pathways on the map and remember the whereabouts of the townsfolk. Inspired by the Metroidvania genre and condensed into a cozy cooking game.</p>\n<strong class=\"hmb\"><br>Features </strong> <br>\n<ul>\n<li>\n<p>Enchanting <strong> pixel art </strong> style depicting a fantastical world of witches and magic.</p>\n</li>\n<li>\n<p>Befriend <strong> a cast of diverse characters </strong> that love to order food from you.</p>\n</li>\n<li>\n<p>Traverse a <strong> 2D platformer </strong> inspired by Metroidvanias. Gain new abilities, reach new areas, and unlock shortcuts.</p>\n</li>\n<li>\n<p>Learn an <strong> extensive cooking system </strong> , allowing for creative choices to fulfill even oddly specific orders.</p>\n</li>\n<li>\n<p><strong> Collect ingredients </strong> and new recipes through trade, questing, and exploration.</p>\n</li>\n<li>\n<p>Intertwined <strong> progression </strong> requiring map exploration and delivering orders.</p>\n</li>\n<li>\n<p><strong> Linear story </strong> with optional encounters and opportunities for open-ended play.</p>\n</li>\n<li>\n<p>Plenty of <strong> accessibility features </strong> to help you experience the game on your own terms, including an Easy Platforming mode that disables various challenges.</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Magical Delicacy",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Skaule",
+      "developer-url": "https://stevenkaule.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/2d817aa35ad952aac77f445bea2ed34c021f2003.png?auto=compress,format&w=300&s=19fc5f6bd1e2a7c249bb6f650e57e078",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Magical Delicacy",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "burgerbotsinc": {
+    "machine_name": "burgerbotsinc",
+    "youtube_link": "xhG9vfQkQLk",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/burgerbotsinc_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>91% Positive on Steam</span><br><br>Cook, serve, and survive with your friends in this chaotic burger flipping game; Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 10.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "subtitle_html": null,
+    "description_text": "<p>Welcome to the best burger joint in the galaxy! Here you will have to cook and serve world famous burgers for your hungry patrons. Keep the restaurant in order, customers happy, and try to survive the workday. Remember, the rent is due!<br><br>Work together with up to 8 players in online co-op. Coordination is everything - assign roles, juggle tasks, and keep the restaurant from falling apart. Communicate with proximity voice chat to ensure best odds for survival!<br><br>This ain't your average burger joint. Strange things can happen and even stranger things might want a burger. Keep the place clean, customers happy and maybe you will live to cook another burger.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Burger Bots Inc.",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Normogames",
+      "developer-url": "https://normogames.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/e04d9c3a159cd1ed3570cbcf9c045ccb78ed8c88.png?auto=compress,format&w=300&s=1c446fb1eb8edd1bc9de9b6422a66b1c",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Burger Bots Inc.",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "recipefordisaster": {
+    "machine_name": "recipefordisaster",
+    "youtube_link": "v_N6JmhTJhM",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/recipefordisaster_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>69% Positive on Steam</span><br><br>Build, staff, and manage a restaurant empire while handling chaotic social drama; Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Kasedo Games",
+      "publisher-url": "https://www.kasedogames.com/"
+     }
+    ],
+    "show_rating": false,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 20.79353899181387
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "subtitle_html": null,
+    "description_text": "<strong>\n <i>Recipe for Disaster</i>\n</strong>\nis a management game that challenges you to create and run a highly successful restaurant. Whether turning around the fortunes of failing establishments in pre-set scenarios, or bringing your own vision to life in freeplay mode, you\u2019ll be carefully designing restaurants, hiring and managing the right staff, customizing food menus, and experimenting with ingredients to invent tasty new dishes that will impress your customers. Sounds idyllic, right? Wrong.\n<br>\n<br>\nBlazing a trail through the hectic and stress-inducing world of the food-service industry will be anything but straightforward. After all, this is an industry built around people, and keeping everyone happy, motivated and fulfilled will require nothing short of a miracle! Serious personality flaws and major skill gaps within your team could really disrupt the flow of service, while the volatile attitudes and peculiar tastes of your customers may prove to be the barrier that separates you from those all-important positive review scores.\n<br>\n<br>\nWith perseverance, savvy management and a great deal of compromise, your restaurant will grow, opening up new opportunities and challenges as you attract ever more customers, health inspectors and food critics through your doors. Expand your premises, improve your staff, and walk the precarious line between gastronomic glory and restaurant ruin.\n<br>\n<br>\n<span>\n <video>\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/4ae40d10ec3a57af7383093592ff3b81.webm?t=1726567322\">\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/4ae40d10ec3a57af7383093592ff3b81.mp4?t=1726567322\">\n </video>\n</span>\n<br>\n<br>\nPick from a pool of procedurally generated hopefuls. Consider each individual\u2019s unique combination of traits and skill levels, and how these might affect their work efficiencies, behaviour and customer interactions. Will they excel? Or will they prove to be more trouble than they\u2019re worth? Manage your team\u2019s mood and stamina levels to minimize the risk of breakdowns and mid-service walkouts. Some staff will love the tasks that you give them, while others will loathe them!\n<br>\n<br>\n<span>\n <video>\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/0c70d0a8c24486c00ad8b88e048e264c.webm?t=1726567322\">\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/0c70d0a8c24486c00ad8b88e048e264c.mp4?t=1726567322\">\n </video>\n</span>\n<br>\n<br>\nCustomize the design and layout of your restaurants using intuitive building tools. Equip your kitchen with state-of-the-art appliances, decorate your dining area, landscape your surroundings, and build storage to hold those precious ingredients.\n<br>\n<br>\n<span>\n <video>\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/ba2288bfc8de419b0efd011cb336bb13.webm?t=1726567322\">\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/ba2288bfc8de419b0efd011cb336bb13.mp4?t=1726567322\">\n </video>\n</span>\n<br>\n<br>\nManually assign tasks to your team or keep everyone busy using a highly customisable priority system. Keep a close eye on incoming customer orders and adjust your strategy in real-time to ensure the highest standard of food and customer service.\n<br>\n<br>\n<span>\n <video>\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/cd91596e6bb3a7cfa307f7d2b4c0323d.webm?t=1726567322\">\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/cd91596e6bb3a7cfa307f7d2b4c0323d.mp4?t=1726567322\">\n </video>\n</span>\n<br>\n<br>\nPay close attention to the demands of your customers and adjust your menu to match their tastes. Be wary of dietary requirements, food allergies and unusual preferences. Decide how best to deal with the requests and complaints of your staff and customers. Will you be sympathetic or combative? Pushovers and tyrants will soon find themselves out of business, so you\u2019ll have to read each situation carefully.\n<br>\n<br>\n<span>\n <video>\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/c12bee7d20a26b31b122eaeff4be274b.webm?t=1726567322\">\n  <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492360/extras/c12bee7d20a26b31b122eaeff4be274b.mp4?t=1726567322\">\n </video>\n</span>\n<br>\n<br>\nUse the powerful recipe editor to freely create original recipes and add them to your menus. Ensure you have the necessary ingredients by keeping on top of your storage levels and placing regular orders with your suppliers.\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Recipe for Disaster",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Dapper Penguin Studios"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/0dce7b24c5074af0390b9b4309ec7936313b5c80.png?auto=compress,format&w=300&s=35a2aeb38d8335f4243ec4e847f9ad0e",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Recipe for Disaster",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "umami": {
+    "machine_name": "umami",
+    "youtube_link": "5vdvTzs6eQ4",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-linux"
+       ],
+       "unavailable": [
+        "hb-osx"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/umami_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>98% Positive on Steam</span><br><br>An aesthetic culinary experience that celebrates the heart of Japanese cuisine; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Nexting"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 16.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 18.03
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">Solve cozy, food-themed 3D puzzles in a hand-painted world. </strong> <br>\n<p>Tinker, rotate and organize woodeen blocks to discover satisfying little scenes full of cute animals, gentle logic, and soothing sounds.</p>\n<strong class=\"hmb\">Features: </strong> <br>\n<ul>\n<li>\n<p>15 unique hand-painted puzzles</p>\n</li>\n<li>\n<p>Collectible cards</p>\n</li>\n<li>\n<p>Cute animals to pet in every level</p>\n</li>\n<li>\n<p>Soothing and satisfying sound design</p>\n</li>\n<li>\n<p>Relaxing, stress-free gameplay</p>\n</li>\n</ul>\n<p><i><br>UMAMI</i> is designed to soothe, not stress. Every puzzle is a peaceful invitation to explore a world built around gentle logic, satisfying sounds, and soft visuals. No timers, no wrong moves, just a cozy space to unwind and enjoy playful problem-solving at your own pace.</p>\n<p><br>Each puzzle diorama is hand-painted with care, featuring mouthwatering dishes and adorable animal companions. Whether you\u2019re stacking pancakes, arranging onigiris, or petting a cute panda, every scene is full of life, charm, and little moments of joy.</p>\n<p><br>Beyond the main puzzles, <i>UMAMI</i> rewards curiosity. Subtle animations, collectible cards, and playful surprises are tucked away for those who look closely. Combined with tactile clicks, warm soundscapes, and visual details, every interaction is designed to feel delightful and immersive.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "UMAMI",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Mimmox",
+      "developer-url": "https://mimmox.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/72f7dfa881c62c8e67fcc3de476d75321d0eeeee.png?auto=compress,format&w=300&s=7a21d7ef7f8ed81ae7b5ccf3ac22c1de",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "UMAMI",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "tavernmanagersimulator": {
+    "machine_name": "tavernmanagersimulator",
+    "youtube_link": "WQRUrsTaNxI",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/tavernmanagersimulator_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>95% Positive on Steam</span><br><br>Clean, cook, and tap barrels to build a thriving fantasy tavern business; Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 19.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 22.19
+    },
+    "subtitle_html": null,
+    "description_text": "<strong>Tavern Manager Simulator </strong> is an exciting process of rebuilding, expanding and improving a tavern. Take different approaches to running an establishment and meet the challenges of the outside world to create your own unique story. <strong class=\"hmb\"> <br><br>Restore the Tavern </strong> <br>Renovate your workspace, buy resources and start serving your customers to earn money for further upgrades and improvements to your place.<strong class=\"hmb\"><br><br>Cook Delicious Dishes </strong> <br>Pour beer into large mugs. Throw vegetables into a cauldron, chop and tenderize meat. The more time you spend cooking, the more skillful your dishes will become. Better skills - more tips!<strong class=\"hmb\"><br><br>Serve your customers </strong> <br>Fast and quality customer service is the key to your Tavern's prosperity. All customers expect their table to be filled with mugs of beer and appetizers at once, as if by magic.<strong class=\"hmb\"><br><br>Become a famous Tavern Master </strong> <br>Order beer and cooking resources in time. Maintain a fire in the work stations. Control the quality of food and drink. Purchase tavern improvements that will make the work more efficient. And the fame of your tavern will spread throughout the kingdom!",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/tavernmanagersimulator.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Tavern Manager Simulator",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "One More Time",
+      "developer-url": "https://1moretimegames.com/en_us/home/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/b191217b7e6760c5bd937dbda701dcc5629f1ded.png?auto=compress,format&fit=clip&h=80&w=170&s=f1ccb80a876228caf8a8dda6a8640202",
+     "featured_image": "https://hb.imgix.net/b191217b7e6760c5bd937dbda701dcc5629f1ded.png?auto=compress,format&w=300&s=4a5caa710174a7ac78afb49fa261c53a",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/be3b780839d8953d678e1e4c589de18b824ff277.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=3377aec25549895237cd325c75374440",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/b191217b7e6760c5bd937dbda701dcc5629f1ded.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=1aa25368cf0ddbf7efdc3f6f85902772",
+     "front_page_art_imgix": "https://hb.imgix.net/b191217b7e6760c5bd937dbda701dcc5629f1ded.png?auto=compress,format&w=300&s=4a5caa710174a7ac78afb49fa261c53a",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Tavern Manager Simulator",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "pizzapossum": {
+    "machine_name": "pizzapossum",
+    "youtube_link": "9lw1uSHAvVg",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/pizzapossum_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>93% Positive on Steam</span><br><br>Eat your way to the top of the island in this adorable co-op snack-heist game; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Raw Fury",
+      "publisher-url": "https://rawfury.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 8.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 18.03
+    },
+    "subtitle_html": null,
+    "description_text": "<i>Pizza Possum</i> is a short and sweet arcade experience where your goal is to eat as much food as you can without getting caught. An adorable mix of wholesome and mischievous, you hide and seek your way through the village alone or with a friend, using items and bushes to maneuver your way around the patrolling guard dogs. Get to the top of the village, eat the massive pizza, and steal the crown from the dog leader\u2019s head. So what are you waiting for? Time to eat!<strong class=\"hmb\"><br><br>Appetizing Details: </strong> <br>\n<ul>\n<li>Engage in snackable arcade-style hide-and-seek action</li>\n<li>Wreak havoc as a bloatable possum</li>\n<li>Join forces in 2 player local co-op and add the raccoon into the chaos</li>\n<li>Escape or distract dog patrols using a wide range of items, from smoke bombs to punching gloves</li>\n<li>Reach the dog leader\u2019s throne, eat their personal king-sized pizza, and steal their crown just because you can</li>\n<li>Experience the Tasty Ending by completing the crown run three times without getting caught, wearing the crowns to scare away the guards</li>\n<li>Climb your own personal snack high score</li>\n<li>Embrace the possum symphony that includes screams, giggles, and taunting as you move through the village</li>\n<li>Chase the frightened pig and goose neighbors long enough for them to drop more food for you</li>\n<li>Risk it all for one final crumb of food</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Pizza Possum",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/pizzapossum_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Friedemann",
+      "developer-url": "https://www.pizzapossum.com/"
+     },
+     {
+      "developer-name": "Noio Games"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/98a162347fe3b0f20cb32c825d2292bca89fa25d.png?auto=compress,format&w=300&s=0258454e9b5b8d09a3a5111847c82351",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Pizza Possum",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "whichsausagemate": {
+    "machine_name": "whichsausagemate",
+    "youtube_link": "EqLDLci1oxg",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx",
+        "hb-linux"
+       ],
+       "unavailable": []
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/whichsausagemate_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>97% Positive on Steam</span><br><br><span data-sheets-root=\"1\">Scan items, grill hot dogs, and keep demanding customers happy in a chaotic corner shop</span>; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 7.79
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "subtitle_html": null,
+    "description_text": "<p>You're <strong> Kazio </strong> , an ex-coal miner, husband, father, and the newest cashier at <strong> \u017bopka </strong> , the iconic neighbourhood convenience store chain. Your job is simple: serve the customers, follow the rules, don't get fired. The real challenge is harder: keep a family fed on a cashier's wage.</p>\n<strong class=\"hmb\"><br>WORK THE REGISTER. </strong> <br>\n<p>Scan stock from a catalogue of <strong> 800+ products </strong> across 24 categories, check documents, grill hot dogs, count out change down to the last grosz. Easy enough, until corporate starts piling on regulations. Suddenly you're enforcing the age limit on energy drinks, validating coupons and loyalty cards, charging for the plastic bag and catching expired student IDs. The queue grows, the clock runs down...<br><br>And the customers don't make it any easier. Over 100 unique characters: from smooth-talking businessmen and dealers offering a bribe, through impatient Karens, tracksuit philosophers paying in loose change and shoplifters, to a mohair-bereted grandma, a suspiciously large proboscis monkey and the winos camped outside the door. Every one of them there to test your patience.</p>\n<strong class=\"hmb\"><br>WORK THE SYSTEM. </strong> <br>\n<p>Your mother needs surgery, your son needs money for a school trip, winter is coming and the heating bill doubles. After each shift you take home whatever you earned and split it five ways: rent, food, medicine, school, heating.<br><br>...Or invest the profit back into the store, as befits a \"co-owner\". You start in the <strong> Shanty </strong> : a flickering fluorescent tube, wire shelving, cracked linoleum and 60 slots for stock. The shelves empty out mid-shift and the delivery rolls in right in the middle of the queue. The catalogue holds 40 upgrades, but only 24 fit in one store, and every level is a choice between two variants that change the way you play. At the end of the road stands the gleaming, neon-lit <strong> Cyber-\u017bopka </strong> with 140 shelf slots, the one corporate would be proud of.</p>\n<strong class=\"hmb\"><br>CHECK THE DATE. </strong> <br>\n<p>Six holidays, 85 days a year: on Fat Thursday the doughnuts are laid out on the counter, at Easter a butter lamb stands there instead, on the first of November grave candles burn in the window and customers you haven't seen here in a very long time drop in, and on New Year's Eve the sky above the estate lights up. Every holiday means 24 seasonal products on the shelves, its own interior decorations and a dressed-up main menu.</p>\n<strong class=\"hmb\"><br>AND MAKE IT WORK WELL. </strong> <br>\n<p>Accept the bribe or report it. Join the union or stay loyal. Save up for your mother's surgery or for a new counter. Over 30 days your decisions add up to one of <strong> 9 endings </strong> : some hopeful, some devastating, and one that crowns you emperor of \u017bopka. Each unlocks its own <strong> New Game Plus </strong> bonus, and the full set of nine earns you a tenth.</p>\n<p>The ending isn't the end. <strong> \u017bopka Forever </strong> starts on day 31, no story and no finish line, with Steam leaderboards. <strong> I'm Hardcore </strong> switches on every regulation from day one and never lets you buy your way out of a citation. And two completely different stores are waiting in the menu: <strong> 1670 </strong> and <strong> 2077 </strong> , each with its own stock, its own cast and its own rules. In <strong> 1670 </strong> you sell oscypek cheese, starka and Capuchin friars' tobacco, and the freshest press on the counter is Merkuriusz Polski. Nobody orders a hot dog, because there is nothing yet to make one out of. In <strong> 2077 </strong> \u017bopka glows with neon, bread comes out of a printer, the kabanos is synthetic, and you never give change, because nobody here pays cash any more.</p>\n<strong class=\"hmb\"><br>WHAT'S IN THE BOX </strong> <br>\n<ul>\n<li>\n<p>A 30-day story campaign, from tutorial calm to full bureaucratic panic</p>\n</li>\n<li>\n<p>15 policies piled on along the way, each one another chance to screw something up</p>\n</li>\n<li>\n<p>800+ products across 24 categories, from oscypek cheese to bootleg DVDs, including over 100 regional specialities</p>\n</li>\n<li>\n<p>Document checks: six types, swapped photos, fake PESEL numbers and the legendary Bolsat Passport</p>\n</li>\n<li>\n<p>A budget system where every z\u0142oty makes a difference</p>\n</li>\n<li>\n<p>Three mini-games woven into the shift: counting out change, the grill and sorting parcels at the Paczkobox</p>\n</li>\n<li>\n<p>40 store upgrades, 24 of them per playthrough, because every level is a choice between two</p>\n</li>\n<li>\n<p>Over 100 unique characters, from Karens and tracksuit philosophers to a proboscis monkey</p>\n</li>\n<li>\n<p>Six holidays from the real calendar, almost half a thousand seasonal products</p>\n</li>\n<li>\n<p>Two extra game modes, 1670 and 2077: different rules, different products, different customers</p>\n</li>\n<li>\n<p>9 endings, each with a New Game Plus bonus, plus \u017bopka Forever and I'm Hardcore</p>\n</li>\n<li>\n<p>125 items to find, 130 clickable nooks and crannies and 18 random events</p>\n</li>\n<li>\n<p>Steam leaderboards and 69 achievements</p>\n</li>\n<li>\n<p>Full gamepad support</p>\n</li>\n<li>\n<p>Translations into regional languages: Silesian, Kashubian, Pozna\u0144 dialect</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Which Sausage, Mate?",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Koksny.com",
+      "developer-url": "https://koksny.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/a8865538e66ad1eae5794c074352a14e8fc702fd.png?auto=compress,format&w=300&s=f62bec6882d23457c9d1d2ecce79f84c",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Which Sausage, Mate?",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "dontletitstarve": {
+    "machine_name": "dontletitstarve",
+    "youtube_link": "cWtLIX-vk1k",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-linux"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-linux"
+       ],
+       "unavailable": [
+        "hb-osx"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/dontletitstarve_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>95% Positive on Steam</span><br><br>Scavenge fast, manage your supply chain, and keep the monster happy; Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Black Lantern Collective",
+      "publisher-url": "https://blacklanterncollective.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 10.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 18.03
+    },
+    "subtitle_html": null,
+    "description_text": "<p><strong> <i>Don't Let It Starve</i> is a strategy gambling rogue-lite bento-builder where you must prepare the most satisfying meals for a half-chef monster lurking in the walls. Reach ever more ludicrious scores to (hopefully) earn your freedom...<br><br></strong></p>\n<strong class=\"hmb\">Grid-Based Bento Goodness </strong> <br>\n<p>Assemble your ingredients on a variety of bento shapes and sizes to maximize space and flavor. Master unique combos and modifiers to raise your score to ever increasing heights. Choose ingredients wisely and optimize your layout to fit as much as possible. Don't despair, there's a light at the end of that tunnel...<br><br></p>\n<strong class=\"hmb\">C-c-c-combos! </strong> <br>\n<p>With 10 unique hats and over 100 tools, there's limitless build possibilities to experiment wtih. Push your luck to the limit and weigh your risks and rewards. Go all in on Bread and fail miserably when you fail to roll your combo. Get gud and try again. There's countless ways to win (or fail horribly).<br><br></p>\n<strong class=\"hmb\">Unlockable Stuff </strong> <br>\n<p>Unlockable hats, challenge modes, tools, and secret puzzles fill the game with dozens of hours of content. Try out weird shit and see what it unlocks. See if you can master the increasingly punishing challenges for rewards and bragging rights. Go infinite even harder than your friends in the challenge mode. Uncover the secret ending. We stuffed the game with content.</p>\n<strong class=\"hmb\"><br>Features: </strong> <br>\n<ul>\n<li>\n<p><strong> Master the Combos </strong> - It'll take more than just fitting food on a grid to win. Learn the synergies, ramp up your combos, and crank your score into the stratosphere.</p>\n</li>\n<li>\n<p><strong> Meta-Progression </strong> \u2013 Unlock new tools, upgrades, and run modifiers that change future attempts.</p>\n</li>\n<li>\n<p><strong> 120+ Unique Items &amp; Synergies </strong> \u2013 Experiment with a huge variety of tools and effects to create deadly-efficient strategies.</p>\n</li>\n<li>\n<p><strong> Bento Building Action! </strong> - We all love the Resident Evil 4 inventory system. Now do it with food.</p>\n</li>\n<li>\n<p><strong> Uncover the Secrets </strong> - We got tons of secret stuff to uncover. There's like a whole escape room thing. Find the clues and get that juicy L O R E !</p>\n</li>\n<li>\n<p><strong> Meaningful </strong> <strong> Challenge Modes </strong> - New challenges don't just ramp up the needed score, but they also add new features that work with new tools to create a unique experience that doesn't feel like an afterthought.</p>\n</li>\n<li>\n<p><strong> Endless Mode </strong> \u2013 Push your skills (and your luck) to the limit in an infinite survival challenge.</p>\n</li>\n<li>\n<p><strong> Tense Atmosphere </strong> \u2013 You're not alone in the kitchen.</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Don't Let it Starve",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Eduardo Scarpato"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "linux"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/249b3a39d446062a7e3480d4118ffc32a9b89139.png?auto=compress,format&w=300&s=811eab25d32af18af966a3f852d56638",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Don't Let it Starve",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "farmlink": {
+    "machine_name": "farmlink",
+    "youtube_link": null,
+    "item_content_type": null,
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": null,
+    "featured_image": null,
+    "ppgf_info": {
+     "category": "Environment,Housing, Homelessness and Hunger,Philanthropy, Grants, Other",
+     "city": "Pacific Palisades",
+     "description": "The Farmlink Project acts as the link connecting the broken supply chains in the agricultural and food access industries. We deliver surplus food from farms to food banks when the food would otherwise go to waste.",
+     "url": "http://farmlinkproject.org",
+     "country": "US",
+     "charity_id": "4265746",
+     "state": "CA",
+     "keywords": "food waste, agriculture, food banks, environment, farms, farmers  ",
+     "human_name": "Farmlink Project",
+     "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fp%2FZTY1YWM3MjktZDFkNi00NzEzLTljY2ItYjQ1YWYyMDQzNTc4%2Fimage_12.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=826e1954100871e258c0c153305abb88"
+    },
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "subtitle_html": null,
+    "description_text": "<p><em>Donations to support&nbsp;The Farmlink Project are made to&nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.<br></em></p>\n<p><span>The Farmlink Project connects farmers to communities facing food insecurity, delivering millions of pounds of farm fresh produce that would otherwise be wasted to feed families in need.<br></span></p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/The_Farmlink_Project_logo.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "The Farmlink Project",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/displayitems/master_images/The_Farmlink_Project_logo.png",
+    "developers": [
+     {
+      "developer-name": "The Farmlink Project",
+      "developer-url": "https://www.farmlinkproject.org/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {},
+    "resolved_paths": {
+     "preview_image_bonus_retina": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=5f009d5ddaf58893636feff949ffc0e1",
+     "featured_image": null,
+     "front_page_art_imgix_retina": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=45c1ea8c375f4ae1f15ff398c5e2227e",
+     "preview_image_bonus": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&fit=clip&h=200&w=200&s=df308dc9b565d3310f29df9ac0c7c3ec",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=8cdc30e148c5d34950d52b74148126f2",
+     "front_page_art_imgix": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&fit=clip&h=240&w=180&s=f220051a67040be43e7422d5e996cb1c",
+     "front_page_art_charity_imgix": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&fit=clip&h=80&w=170&s=9491eef65c79376be3f0470489ba3ab6",
+     "preview_image": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&fit=clip&h=350&w=600&s=046b2624d0a18ef6c5c8e350021ed9d5"
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "The Farmlink Project",
+    "is_mystery_box": null,
+    "payee_secondary_id": "4265746",
+    "wallet_credit": {}
+   },
+   "chefsshift": {
+    "machine_name": "chefsshift",
+    "youtube_link": "JWnaQfPfL2A",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows",
+      "hb-osx"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows",
+        "hb-osx"
+       ],
+       "unavailable": [
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/chefsshift_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>97% Positive on Steam</span><br><br>High-octane cooking action where typing fast is the secret ingredient; Steam Deck Playable",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Catoptric Games",
+      "publisher-url": "https://catoptricgames.com/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 16.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 22.19
+    },
+    "subtitle_html": null,
+    "description_text": "<p>Get ready to cook up a storm in \"<i>The Chef's Shift</i>\" - a fast-paced typing game set in a bustling restaurant! With your keyboard as your weapon, you'll need to cook and serve delicious dishes to hungry customers before they lose their patience. But that's not all - you'll also need to juggle all kinds of crazy distractions, from rat invasions to unruly customers.</p>\n<p><strong>What to Expect</strong></p>\n<ul>\n<li>\n<p>1 teaspoon of <strong> chaotic, fast-paced </strong> gameplay</p>\n</li>\n<li>\n<p>1 package of easy-to-pickup hard-to-master <strong> TYPING </strong> mechanic</p>\n</li>\n<li>\n<p>1 cup of fun <strong> time management </strong> bits</p>\n</li>\n</ul>\n<p></p>\n<p><strong>Everything is done by typing<br><br></strong>And we mean it!</p>\n<ul>\n<li>\n<p>Navigate through the menu by typing</p>\n</li>\n<li>\n<p>Prepare &amp; serve your customers by typing</p>\n</li>\n<li>\n<p>Select your dialogue choices by typing</p>\n</li>\n</ul>\n<p><br>Embark on a culinary journey through 6 vibrant chapters, savoring the diverse flavors of cuisine all around the world, where each restaurant will represent different food culture, posing different quirks &amp; challenges.<span>&nbsp;</span></p>\n<p><br>Throughout the game you will meet various characters, from customers with their own personality, to characters who propel the story forward.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "The Chef's Shift",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/chefsshift_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Panitia GameDev",
+      "developer-url": "https://panitiagamedev.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows",
+       "mac"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/b59762d2a4109b685b9950878ddd8472976cafe1.png?auto=compress,format&w=300&s=8d30535207a633132b9e336ff022ecf3",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "The Chef's Shift",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "brewmaster_beerbrewingsimulator": {
+    "machine_name": "brewmaster_beerbrewingsimulator",
+    "youtube_link": "c23_ic_id0s",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/brewmaster_beerbrewingsimulator_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span>77% Positive on Steam</span><br><br>The definitive home-brewing sim: chemistry, equipment, and custom craft beers; Steam Deck Verified",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "Fireshine Games",
+      "publisher-url": "https://fireshinegames.co.uk/"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 24.955021111589833
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 9.71
+    },
+    "subtitle_html": null,
+    "description_text": "<strong class=\"hmb\">Features:</strong><br>\n<ul>\n<li>Use a huge range of ingredients and equipment to brew different beer styles, learn the process start to finish.</li>\n<li>Come up with your own recipe and create the beer of your dreams with a thorough, true to life simulation of brewing chemistry.</li>\n<li>Turn passion, precision, and preparation into progress - enter competitions, fulfill job requests, unlock better equipment, and grow your reputation as a Brewmaster!</li>\n<li>Customise your beers by designing labels and creating your own brands!</li>\n<li>Make your brew space your own with a wide range of unlockable cosmetics.</li>\n<li>Chill out in a relaxing sandbox mode.</li>\n<li>Share your recipes with other players via Steam Workshop.</li>\n</ul>\n<strong class=\"hmb\">Discover, learn and master the art of homebrewing in the ultimate celebration of craft beer. </strong> <br><br>From perfecting authentic, chemistry-driven brewing techniques to naming, bottling and labelling - refine your craft to become the ultimate Brewmaster in the first ever realistic beer brewing experience. With all the tricks of the trade and the best equipment at your disposal, follow a recipe, or experiment with a huge variety of real-world ingredients to hone your skills. Enter friendly competitions, earn beer tokens, and upgrade your equipment to become an even better brewer. <br><br>Choose to experience the story-led Brewmaster mode or throw yourself into Creative Mode, a sandbox with everything unlocked.<strong class=\"hmb\"><br><br>Set up your home brewery </strong> <br>Create the ideal space to spend relaxing hours making your perfect beer. Unlock your favourite equipment and decorate your brewing space. Use beer tokens to buy better equipment to truly make it your own space.<strong class=\"hmb\"><br><br>Create your recipe </strong> <br>Concoct a variety of different types of beer, including wheats, blondes, stouts, IPAs and more while improving your brewing skills. Perfect recipes, improve the taste, design your own labels, and then submit your beers to local competitions and breweries to gain reputation and beer tokens. Built for complete beginners to beer aficionados alike; learn the basics of the beer brewing process with a range of recipes to choose from, or get creative with total freedom to brew your own unique flavours.<strong class=\"hmb\"><br><br>Brew your dream beer </strong> <br>Mash malts, boil hops, and pitch yeast to kick-start fermentation. Build your repertoire of homebrewing skills with a variety of brewing techniques to master a range of craft beer styles. This relaxing and deeply satisfying sim will let you experience the rewarding and unhurried pleasure of homebrewing, without worrying about money or space.<strong class=\"hmb\"><br><br>Realistic and authentic </strong> <br>Brewmaster is a detailed, authentic game driven by a simulation of real brewing chemistry, and a deep understanding of the real-life fermentation processes. <br>That doesn\u2019t mean you have to have a degree in chemistry. The hard formulas happen behind the scenes, allowing you to focus on the best bits of beer brewing fun.<strong class=\"hmb\"><br><br>Refine your craft </strong> <br>Once you\u2019ve produced your ideal brew, do your beer justice with an eye-catching label and a memorable name. Tweak and personalise every element of your beer and boost your renown at beer festivals. As your work becomes respected, you\u2019ll submit to local breweries for batch production, expand your network, and unlock bigger jobs and more challenging recipes. A true Brewmaster is always learning!<strong class=\"hmb\"><br><br>Celebrate the art of brewing </strong> <br>You\u2019ll be using cutting-edge technology, but brewing is a craft with a long lineage dating back to 10,000BCE. We were harnessing the real-life alchemy of fermentation before we\u2019d even unlocked \u201cwriting\u201d on our species\u2019 skill tree.<br><br>So join this honourable and ancient craft, hone your skills and flex your creativity as you explore the depth and breadth of craft beer in the 21st Century and add your chapter to the ongoing history of brewing!",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/brewmaster_beerbrewingsimulator.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Brewmaster: Beer Brewing Simulator",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Auroch Digital",
+      "developer-url": "https://www.aurochdigital.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/3f27faaef31683a409867712bd5ee7a84826214a.png?auto=compress,format&fit=clip&h=80&w=170&s=8088e64020f54386333e094e3dca9be4",
+     "featured_image": "https://hb.imgix.net/3f27faaef31683a409867712bd5ee7a84826214a.png?auto=compress,format&w=300&s=feccdebd2950a68fe05eaa9f7e1210b5",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/1d6a60ea31fdb8f9e226d0c111d46dc4c1546992.jpg?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=e3377da37c6ad7788d5265fcaea0088b",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/3f27faaef31683a409867712bd5ee7a84826214a.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=1b69e054f2910ba94223108b8d620d34",
+     "front_page_art_imgix": "https://hb.imgix.net/3f27faaef31683a409867712bd5ee7a84826214a.png?auto=compress,format&w=300&s=feccdebd2950a68fe05eaa9f7e1210b5",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Brewmaster: Beer Brewing Simulator",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   }
+  },
+  "splits": [
+   {
+    "partner_split|decimal": 0.6,
+    "name": "Publishers",
+    "extra_charity_partner_split|decimal": 0.525,
+    "extra_charity_split|decimal": 0.575,
+    "sibling_split|decimal": 0.65,
+    "class": "publisher",
+    "subsplit": [
+     {
+      "class": "s2gamessa_gYPmT",
+      "secondary_id": "tavernmanagersimulator",
+      "sibling_split|decimal": 0.88,
+      "name": "Tavern Manager Simulator"
+     },
+     {
+      "sibling_split|decimal": 0.045,
+      "class": "rawfury",
+      "name": "Pizza Possum"
+     },
+     {
+      "sibling_split|decimal": 0.025,
+      "class": "soldout_mulgR",
+      "name": "Brewmaster: Beer Brewing Simulator"
+     },
+     {
+      "sibling_split|decimal": 0.02,
+      "class": "coffeebeansdev_YZ0kA",
+      "name": "Tailside: Cozy Cafe Sim"
+     },
+     {
+      "sibling_split|decimal": 0.03,
+      "class": "kasedogames",
+      "name": "Recipe for Disaster"
+     }
+    ]
+   },
+   {
+    "partner_split|decimal": 0.05,
+    "name": "Farmlink",
+    "extra_charity_partner_split|decimal": 0.15,
+    "extra_charity_split|decimal": 0.15,
+    "secondary_id": "4265746",
+    "sibling_split|decimal": 0.05,
+    "class": "paypalgivingfund"
+   },
+   {
+    "partner_split|decimal": 0.2,
+    "name": "Humble Tip",
+    "extra_charity_partner_split|decimal": 0.175,
+    "extra_charity_split|decimal": 0.275,
+    "minimum_split|decimal": 0.15,
+    "sibling_split|decimal": 0.3,
+    "class": "humblebundle"
+   }
+  ],
+  "upsell_data": {
+   "monthly_v2_premium": {
+    "category": "subscriptionplan",
+    "image_url": "https://hb.imgix.net/dbff2288ba058d5ab35f145358617bcf487a6c6e.png?auto=compress,format&fit=crop&h=353&w=616&s=b73537cf9c1f7b9d7afcd3188cdfb1ff",
+    "machine_name": "monthly_v2_premium",
+    "description": "",
+    "discount_percentage|decimal": 5.0,
+    "full_price|money": {
+     "currency": "CAD",
+     "amount": 17.99
+    },
+    "renewal_date|datetime": "2026-09-29T17:00:00",
+    "subscription_content_product": "august_2026_choice",
+    "active_content_end_time|datetime": "2026-09-01T17:00:00",
+    "disallow_subscription_discount": null,
+    "subscription_credits": 1,
+    "human_name": "Month-to-Month Plan",
+    "current_price|money": {
+     "currency": "CAD",
+     "amount": 17.09
+    },
+    "active_content_start_time|datetime": "2026-08-04T17:00:00"
+   }
+  },
+  "statistics_data": {
+   "total_charity_raised|money": {
+    "currency": "CAD",
+    "amount": 7470.0
+   },
+   "num_purchases|decimal": 2110.0
+  },
+  "charity_data": {
+   "charity_items": {
+    "farmlink": {
+     "machine_name": "farmlink",
+     "youtube_link": null,
+     "item_content_type": null,
+     "soundtrack_listing": {
+      "hide_listing": null,
+      "tracks": []
+     },
+     "user_ratings": {},
+     "limited_content": null,
+     "availability_icons": null,
+     "featured_image": null,
+     "ppgf_info": {
+      "category": "Environment,Housing, Homelessness and Hunger,Philanthropy, Grants, Other",
+      "city": "Pacific Palisades",
+      "description": "The Farmlink Project acts as the link connecting the broken supply chains in the agricultural and food access industries. We deliver surplus food from farms to food banks when the food would otherwise go to waste.",
+      "url": "http://farmlinkproject.org",
+      "country": "US",
+      "charity_id": "4265746",
+      "state": "CA",
+      "keywords": "food waste, agriculture, food banks, environment, farms, farmers  ",
+      "human_name": "Farmlink Project",
+      "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fp%2FZTY1YWM3MjktZDFkNi00NzEzLTljY2ItYjQ1YWYyMDQzNTc4%2Fimage_12.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=826e1954100871e258c0c153305abb88"
+     },
+     "is_region_locked": false,
+     "exclusive_countries": [],
+     "display_user_ratings": null,
+     "rating_details": "",
+     "front_page_art_enabled": true,
+     "rating_info": null,
+     "callout": null,
+     "subscribe_text": null,
+     "all_ratings": {
+      "rar-rating": null,
+      "esrb-rating": null,
+      "pegi-rating": null,
+      "oflc-nz-rating": null,
+      "oflc-au-rating": null,
+      "usk-rating": null
+     },
+     "cta_badge": null,
+     "book_preview": null,
+     "publishers": [],
+     "show_rating": null,
+     "side_box_art_text": null,
+     "third_party_subscribe_text": null,
+     "msrp_price": null,
+     "subtitle_html": null,
+     "description_text": "<p><em>Donations to support&nbsp;The Farmlink Project are made to&nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.<br></em></p>\n<p><span>The Farmlink Project connects farmers to communities facing food insecurity, delivering millions of pounds of farm fresh produce that would otherwise be wasted to feed families in need.<br></span></p>",
+     "user_ratings_css_class": "none",
+     "wide_hero_art": false,
+     "front_page_art": {
+      "image_path": "images/displayitems/master_images/The_Farmlink_Project_logo.png",
+      "title": null,
+      "resolved_paths": {},
+      "image_text": "The Farmlink Project",
+      "link": null,
+      "badge_info": {
+       "badge_tooltip": null,
+       "badge_number": null,
+       "badge_type": null
+      }
+     },
+     "preview_image": "images/displayitems/master_images/The_Farmlink_Project_logo.png",
+     "developers": [
+      {
+       "developer-name": "The Farmlink Project",
+       "developer-url": "https://www.farmlinkproject.org/"
+      }
+     ],
+     "is_clickable": true,
+     "platforms_and_oses": {},
+     "resolved_paths": {
+      "preview_image_bonus_retina": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=5f009d5ddaf58893636feff949ffc0e1",
+      "featured_image": null,
+      "front_page_art_imgix_retina": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=45c1ea8c375f4ae1f15ff398c5e2227e",
+      "preview_image_bonus": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&fit=clip&h=200&w=200&s=df308dc9b565d3310f29df9ac0c7c3ec",
+      "front_page_art_charity_imgix_retina": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=8cdc30e148c5d34950d52b74148126f2",
+      "front_page_art_imgix": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&fit=clip&h=240&w=180&s=f220051a67040be43e7422d5e996cb1c",
+      "front_page_art_charity_imgix": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&fit=clip&h=80&w=170&s=9491eef65c79376be3f0470489ba3ab6",
+      "preview_image": "https://hb.imgix.net/8e948dbd63b2fbd56caf83263b9668ac00b5f1ee.png?auto=compress,format&fit=clip&h=350&w=600&s=046b2624d0a18ef6c5c8e350021ed9d5"
+     },
+     "disallowed_countries": [],
+     "front_page_url": null,
+     "tall_hero_art": false,
+     "human_name": "The Farmlink Project",
+     "is_mystery_box": null,
+     "payee_secondary_id": "4265746",
+     "wallet_credit": {}
+    }
+   },
+   "header": "",
+   "charity_item_machine_names": [
+    "farmlink"
+   ]
+  },
+  "page_url": "games/yes-chef-cooking-bundle"
+ }
+}

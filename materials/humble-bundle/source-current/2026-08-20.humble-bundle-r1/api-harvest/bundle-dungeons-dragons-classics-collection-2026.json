@@ -1,0 +1,5868 @@
+{
+ "userOptions": {
+  "is_logged_in": false,
+  "logout_url": "/logout?goto=/games/dungeons-dragons-classics-collection-2026&qs="
+ },
+ "showSingleSignOn": true,
+ "debug": false,
+ "ipInChina": false,
+ "isEuCountry": false,
+ "baseSubscriptionPrice|money": {
+  "currency": "CAD",
+  "amount": 17.99
+ },
+ "bannerOptions": null,
+ "exchangeRates": {
+  "USD|decimal": 1.0,
+  "AUD|decimal": 1.4072425306052565,
+  "CHF|decimal": 0.7989898125160517,
+  "IDR|decimal": 17796.952315726394,
+  "KRW|decimal": 1396.353051964729,
+  "CNY|decimal": 6.723568187655166,
+  "ISK|decimal": 121.56493450903176,
+  "ILS|decimal": 2.9920383528807464,
+  "GBP|decimal": 0.7338840852666724,
+  "NZD|decimal": 1.682818251861998,
+  "DKK|decimal": 6.399965756356476,
+  "CAD|decimal": 1.3770225151956168,
+  "TRY|decimal": 47.953514253916616,
+  "HUF|decimal": 312.55885626230634,
+  "PHP|decimal": 61.727591815769195,
+  "RON|decimal": 4.495762349113946,
+  "NOK|decimal": 9.333533087920555,
+  "RUB|decimal": 117.201,
+  "ZAR|decimal": 16.17404331820906,
+  "MYR|decimal": 4.044003081927917,
+  "MXN|decimal": 16.99058299803099,
+  "INR|decimal": 95.70969951202808,
+  "THB|decimal": 32.914990154952484,
+  "JPY|decimal": 158.7620922866193,
+  "CZK|decimal": 20.677168050680592,
+  "BRL|decimal": 5.19356219501755,
+  "PLN|decimal": 3.697286191250749,
+  "EUR|decimal": 0.8560910880917729,
+  "SEK|decimal": 9.491909939217532,
+  "SGD|decimal": 1.2721513569043745,
+  "HKD|decimal": 7.843848985532061
+ },
+ "csrfTokenInput": "REDACTED-CSRF-TOKEN",
+ "csrfToken": "REDACTED-CSRF-TOKEN",
+ "user_max_reward_amount": 0,
+ "csrfFormKey": "REDACTED-CSRF-TOKEN",
+ "bundleData": {
+  "machine_name": "dungeonsdragonsclassicscollection2026_bundle",
+  "jplayer_swf_path": "https://cdn.humblebundle.com/static/hashed/682bac84e8df7e444ab9127ce8e22f626caf0e41.swf",
+  "at_risk_tpkds": {},
+  "tier_display_data": {
+   "bt12": {
+    "header": "Pay CA$16.90 or more to also unlock!",
+    "identifier": "bt12",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "forgottenrealms_demonstone",
+     "dungeonsdragons_dragonshard",
+     "forgottenrealms_thearchives-collectionone",
+     "forgottenrealms_thearchives-collectiontwo",
+     "dungeonsdragons_krynnseries",
+     "dungeonsdragons_darksunseries",
+     "dungeonsdragons_ravenloftseries",
+     "fantasyempires",
+     "spelljammer_piratesofrealmspace",
+     "silverboxclassics",
+     "forgottenrealms_thearchives-collectionthree",
+     "al-qadim_thegeniescurse",
+     "dungeonsdragons-stronghold_kingdomsimulator",
+     "dragonstrike",
+     "deathkeep",
+     "coupon33off_templeofelementalevil",
+     "coupon5_poolofradiance_ruinsofmythdrannor"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "initial": {
+    "header": "Pay CA$7.04 to unlock!",
+    "identifier": "initial",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "forgottenrealms_thearchives-collectionthree",
+     "al-qadim_thegeniescurse",
+     "dungeonsdragons-stronghold_kingdomsimulator",
+     "dragonstrike",
+     "deathkeep",
+     "coupon33off_templeofelementalevil",
+     "coupon5_poolofradiance_ruinsofmythdrannor"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   },
+   "bt8": {
+    "header": "Pay CA$11.26 or more to also unlock!",
+    "identifier": "bt8",
+    "time_till_mpa": null,
+    "tier_item_machine_names": [
+     "dungeonsdragons_krynnseries",
+     "dungeonsdragons_darksunseries",
+     "dungeonsdragons_ravenloftseries",
+     "fantasyempires",
+     "spelljammer_piratesofrealmspace",
+     "silverboxclassics",
+     "forgottenrealms_thearchives-collectionthree",
+     "al-qadim_thegeniescurse",
+     "dungeonsdragons-stronghold_kingdomsimulator",
+     "dragonstrike",
+     "deathkeep",
+     "coupon33off_templeofelementalevil",
+     "coupon5_poolofradiance_ruinsofmythdrannor"
+    ],
+    "hidden_machine_names": [],
+    "sold_out": false,
+    "bonus_item_machine_names": []
+   }
+  },
+  "tier_order": [
+   "bt12",
+   "bt8",
+   "initial"
+  ],
+  "is_all_charity_bundle": false,
+  "author": "SNEG",
+  "tax_type": null,
+  "preset_prices": [
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "suggested": false,
+    "qualifying_tier_id": "initial"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 11.26
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt8"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 16.9
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 30.0
+    },
+    "suggested": true,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 35.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   },
+   {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 40.0
+    },
+    "suggested": false,
+    "qualifying_tier_id": "bt12"
+   }
+  ],
+  "cyoc_data": {},
+  "average_data": {
+   "average_usd_amount|decimal": 14.140001737053263,
+   "average_usd_string": "14.14000173705326325234910272",
+   "avguuid": "F3UeHZ3VKDk2NsCx",
+   "cleanavg": "14.14",
+   "average_usd|money": {
+    "currency": "USD",
+    "amount": 14.140001737053263
+   },
+   "average|money": {
+    "currency": "CAD",
+    "amount": 19.47
+   },
+   "avghash": "3OgHlBUcNRsL5DAfp10+BWqqfqnR7y7GPAemviL9pCA="
+  },
+  "leaderboard_data": [
+   {
+    "name": "Shackattack",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 55.0
+    }
+   },
+   {
+    "name": "Kungfujon",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 50.0
+    }
+   },
+   {
+    "name": "NukeDSP1974",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 50.0
+    }
+   },
+   {
+    "name": "Tommaso",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 35.0
+    }
+   },
+   {
+    "name": "Didohaaa",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 35.0
+    }
+   },
+   {
+    "name": "XenomorphKing06",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 35.0
+    }
+   },
+   {
+    "name": "Sean Et Cetera",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 30.0
+    }
+   },
+   {
+    "name": "Tyranthraxuz",
+    "order_price|money": {
+     "currency": "USD",
+     "amount": 30.0
+    }
+   },
+   {
+    "name": "Sithandi",
+    "order_price|money": {
+     "currency": "EUR",
+     "amount": 25.0
+    }
+   }
+  ],
+  "empty_tpkds": {},
+  "at_time|datetime": "2026-08-21T00:02:41.566008",
+  "basic_data": {
+   "eula": null,
+   "split_disclaimer": null,
+   "currency": "CAD",
+   "giving_fund": "ppgf",
+   "logo": "https://hb.imgix.net/5b1537da900e080a04c5a4c751d57d310a5bc0eb.png?auto=compress,format&h=340&w=1200&s=d32bac425f4b044aed2e3c1d192cbb92",
+   "disallowed_payment_processors": [],
+   "newsletter_mailing_list_machine_name": "bundle_emails",
+   "supports_partners": true,
+   "detailed_marketing_blurb": "Beloved tabletop adventure game Dungeons & Dragons goes digital in this bundle of classic D&D video games! This massive collection includes classic favorites and deep cuts with that vintage video game vibe for hours of pixelated dungeon fun. See where it all started in all three collections of <em>Forgotten Realms: The Archives</em>, including standards like the <em>Eye of the Beholder</em> trilogy and <em>Curse of the Azure Bonds</em>! Gather allies and defeat the Dark Queen in the <em>Krynn</em> series, survive the savage world of the <em>Dark Sun</em>, outsmart Count Strahd of <em>Ravenloft</em>, and more! There are countless adventures to be had in this collection of D&D classics, so grab them now at the price of your choosing and support the American Humane Society with your purchase! <br><br><strong><span style=\"color: #ef9741;\">Keys expire. Please redeem before February 21st, 2027.</span></strong>",
+   "order_form_disclaimer": null,
+   "media_type": "game",
+   "description": "<p><strong>All the classics you know and love.</strong> Beloved tabletop adventure game Dungeons &amp; Dragons goes digital in this bundle of classic D&amp;D video games! This massive collection includes classic favorites and deep cuts with that vintage video game vibe for hours of pixelated dungeon fun. See where it all started in all three collections of <em>Forgotten Realms: The Archives</em>, including standards like the <em>Eye of the Beholder</em> trilogy and <em>Curse of the Azure Bonds</em>! Gather allies and defeat the Dark Queen in the <em>Krynn</em> series, survive the savage world of the <em>Dark Sun</em>, outsmart Count Strahd of <em>Ravenloft</em>, and more! There are countless adventures to be had in this collection of D&amp;D classics, so grab them now at the price of your choosing and support the American Humane Society with your purchase! <br><br><strong><span style=\"color: #ef9741;\">Keys expire. Please redeem before February 21st, 2027.</span></strong></p>\n<p><strong>Pay CA$7.04 or more.</strong> Normally, the total cost for the games in this bundle is as much as US$129. Here at Humble Bundle, you choose the price and increase your contribution to upgrade your bundle! This bundle has a minimum CA$7.04 purchase. Pay CA$7.04 or more to access Steam keys.</p>\n<p><strong>Redeem on Steam.</strong> All of the games in this bundle are available on Steam for Windows. Please check out the full system requirements <a href=\"https://support.humblebundle.com/hc/en-us/articles/53460246840987\" rel=\"noopener\" target=\"_blank\">here</a> prior to purchasing.</p>\n<p><strong>Support charity.</strong> Choose where the money goes - between the developer and to support American Humane Society. If you like what we do, you can leave us a Humble Tip too!</p>",
+   "legal_disclaimer": null,
+   "page_title_tag": "",
+   "short_marketing_blurb": "All the classics you know and love",
+   "required_account_links": [
+    "steam"
+   ],
+   "require_linked_third_party_account_when": "only-when-free",
+   "region_lock_warnings": {},
+   "youtube_video_key": null,
+   "twitch_data": {},
+   "allowed_payment_processors": [
+    "free",
+    "paypal",
+    "alipay",
+    "alipay_payment_intent",
+    "stripe_checkout",
+    "stripe_payment_intent"
+   ],
+   "end_time|datetime": "2026-08-22T04:00:00",
+   "msrp|money": {
+    "currency": "CAD",
+    "amount": 177.63590446023457
+   },
+   "human_name": "Dungeons & Dragons: Classics Collection 2026",
+   "tpkd_cutoff_price|money": {
+    "currency": "CAD",
+    "amount": 7.04
+   }
+  },
+  "tier_pricing_data": {
+   "initial": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 19.47
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": true,
+    "identifier": "initial",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "bt12": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 16.9
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 19.47
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt12",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   },
+   "bt8": {
+    "price|money": {
+     "currency": "CAD",
+     "amount": 11.26
+    },
+    "average_purchase_price|money": {
+     "currency": "CAD",
+     "amount": 19.47
+    },
+    "is_bta": false,
+    "is_free": false,
+    "is_initial_tier": false,
+    "identifier": "bt8",
+    "is_fixed": true,
+    "should_be_included_in_tier_list": true
+   }
+  },
+  "partner_data": null,
+  "other_bundles_data": [
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/gregbearbirthdaybundleopenroadmedia_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       324.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$324"
+    },
+    "machine_name": "gregbearbirthdaybundleopenroadmedia_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=576eb764f980a4edc4ff65123ee0224e",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em></em>, <em></em>, <em>Anvil of Stars</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/greg-bear-birthday-bundle-open-road-media-books",
+    "tile_image": "https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&fit=crop&h=353&w=616&s=73a07b9e661f143511f78cc6f714eba4",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        2.78,
+        "EUR"
+       ],
+       "FR": [
+        2.77,
+        "EUR"
+       ],
+       "BG": [
+        3.15,
+        "EUR"
+       ],
+       "DK": [
+        3.28,
+        "EUR"
+       ],
+       "HR": [
+        2.76,
+        "EUR"
+       ],
+       "DE": [
+        2.81,
+        "EUR"
+       ],
+       "JP": [
+        3.3,
+        "USD"
+       ],
+       "HU": [
+        3.34,
+        "EUR"
+       ],
+       "US": [
+        3.0,
+        "USD"
+       ],
+       "FI": [
+        2.89,
+        "EUR"
+       ],
+       "BY": [
+        3.54,
+        "USD"
+       ],
+       "GR": [
+        2.78,
+        "EUR"
+       ],
+       "RU": [
+        383.56,
+        "RUB"
+       ],
+       "NL": [
+        2.86,
+        "EUR"
+       ],
+       "PT": [
+        2.78,
+        "EUR"
+       ],
+       "NO": [
+        2.63,
+        "EUR"
+       ],
+       "TW": [
+        3.15,
+        "USD"
+       ],
+       "TR": [
+        141.09,
+        "TRY"
+       ],
+       "NZ": [
+        5.92,
+        "NZD"
+       ],
+       "LV": [
+        2.76,
+        "EUR"
+       ],
+       "LT": [
+        2.86,
+        "EUR"
+       ],
+       "LU": [
+        2.7,
+        "EUR"
+       ],
+       "TH": [
+        3.0,
+        "USD"
+       ],
+       "PH": [
+        185.06,
+        "PHP"
+       ],
+       "RO": [
+        2.76,
+        "EUR"
+       ],
+       "IS": [
+        3.33,
+        "USD"
+       ],
+       "PL": [
+        2.76,
+        "EUR"
+       ],
+       "CH": [
+        2.69,
+        "EUR"
+       ],
+       "MT": [
+        2.76,
+        "EUR"
+       ],
+       "CN": [
+        20.32,
+        "CNY"
+       ],
+       "CL": [
+        3.57,
+        "USD"
+       ],
+       "EE": [
+        2.86,
+        "EUR"
+       ],
+       "EG": [
+        3.42,
+        "USD"
+       ],
+       "IT": [
+        2.73,
+        "EUR"
+       ],
+       "ZA": [
+        3.45,
+        "USD"
+       ],
+       "CZ": [
+        2.63,
+        "EUR"
+       ],
+       "CY": [
+        3.12,
+        "EUR"
+       ],
+       "AU": [
+        4.71,
+        "AUD"
+       ],
+       "GB": [
+        2.23,
+        "GBP"
+       ],
+       "IN": [
+        3.54,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        2.23,
+        "GBP"
+       ],
+       "IE": [
+        2.63,
+        "EUR"
+       ],
+       "ES": [
+        2.73,
+        "EUR"
+       ],
+       "MD": [
+        3.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        2.63,
+        "EUR"
+       ],
+       "UA": [
+        3.6,
+        "USD"
+       ],
+       "CA": [
+        4.22,
+        "CAD"
+       ],
+       "SK": [
+        3.23,
+        "EUR"
+       ],
+       "KR": [
+        3.3,
+        "USD"
+       ],
+       "SI": [
+        2.76,
+        "EUR"
+       ],
+       "SG": [
+        3.27,
+        "USD"
+       ],
+       "MX": [
+        3.48,
+        "USD"
+       ],
+       "SE": [
+        2.78,
+        "EUR"
+       ],
+       "AT": [
+        2.89,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        9.28,
+        "EUR"
+       ],
+       "FR": [
+        9.24,
+        "EUR"
+       ],
+       "BG": [
+        10.51,
+        "EUR"
+       ],
+       "DK": [
+        10.95,
+        "EUR"
+       ],
+       "HR": [
+        9.19,
+        "EUR"
+       ],
+       "DE": [
+        9.37,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        11.12,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        9.63,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        9.28,
+        "EUR"
+       ],
+       "RU": [
+        1278.55,
+        "RUB"
+       ],
+       "NL": [
+        9.54,
+        "EUR"
+       ],
+       "PT": [
+        9.28,
+        "EUR"
+       ],
+       "NO": [
+        8.76,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        470.31,
+        "TRY"
+       ],
+       "NZ": [
+        19.76,
+        "NZD"
+       ],
+       "LV": [
+        9.19,
+        "EUR"
+       ],
+       "LT": [
+        9.54,
+        "EUR"
+       ],
+       "LU": [
+        9.02,
+        "EUR"
+       ],
+       "TH": [
+        10.0,
+        "USD"
+       ],
+       "PH": [
+        616.87,
+        "PHP"
+       ],
+       "RO": [
+        9.19,
+        "EUR"
+       ],
+       "IS": [
+        11.1,
+        "USD"
+       ],
+       "PL": [
+        9.19,
+        "EUR"
+       ],
+       "CH": [
+        8.98,
+        "EUR"
+       ],
+       "MT": [
+        9.19,
+        "EUR"
+       ],
+       "CN": [
+        67.74,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        9.54,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        9.11,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        8.76,
+        "EUR"
+       ],
+       "CY": [
+        10.42,
+        "EUR"
+       ],
+       "AU": [
+        15.75,
+        "AUD"
+       ],
+       "GB": [
+        7.46,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.46,
+        "GBP"
+       ],
+       "IE": [
+        8.76,
+        "EUR"
+       ],
+       "ES": [
+        9.11,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.76,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        14.07,
+        "CAD"
+       ],
+       "SK": [
+        10.77,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        9.19,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        9.28,
+        "EUR"
+       ],
+       "AT": [
+        9.63,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt18",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.72,
+        "EUR"
+       ],
+       "FR": [
+        16.64,
+        "EUR"
+       ],
+       "BG": [
+        18.93,
+        "EUR"
+       ],
+       "DK": [
+        19.72,
+        "EUR"
+       ],
+       "HR": [
+        16.56,
+        "EUR"
+       ],
+       "DE": [
+        16.88,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        20.04,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.72,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.2,
+        "EUR"
+       ],
+       "PT": [
+        16.72,
+        "EUR"
+       ],
+       "NO": [
+        15.78,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.56,
+        "TRY"
+       ],
+       "NZ": [
+        35.58,
+        "NZD"
+       ],
+       "LV": [
+        16.56,
+        "EUR"
+       ],
+       "LT": [
+        17.2,
+        "EUR"
+       ],
+       "LU": [
+        16.25,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1110.37,
+        "PHP"
+       ],
+       "RO": [
+        16.56,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.56,
+        "EUR"
+       ],
+       "CH": [
+        16.19,
+        "EUR"
+       ],
+       "MT": [
+        16.56,
+        "EUR"
+       ],
+       "CN": [
+        121.93,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.2,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.41,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.78,
+        "EUR"
+       ],
+       "CY": [
+        18.77,
+        "EUR"
+       ],
+       "AU": [
+        28.34,
+        "AUD"
+       ],
+       "GB": [
+        13.42,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.42,
+        "GBP"
+       ],
+       "IE": [
+        15.78,
+        "EUR"
+       ],
+       "ES": [
+        16.41,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.78,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.33,
+        "CAD"
+       ],
+       "SK": [
+        19.4,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.56,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.72,
+        "EUR"
+       ],
+       "AT": [
+        17.35,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt18_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$324 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$324."
+     },
+     {
+      "heading": "Pay AU$4.71 or more",
+      "tooltip": "Name your price of AU$4.71 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub and PRC file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T18:00:00",
+    "author": "Open Road Media",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "The world of science fiction lost a titan when novelist Greg Bear passed away in 2022, but his books remain a perfect example of exactly what sci-fi was always meant to be. Author of over 50 books and co-founder of San Diego Comic Con, Bear made loving sci-fi into a career that spanned five decades. His work, which tested the limits of human (and non-human) consciousness and looked toward the far future and beyond, inspires and excites readers to this day. To celebrate what would have been Greg Bear\u2019s 75th Birthday, in partnership with Open Road Media, we\u2019ve collected a bundle of his best novels including award-winning classics like first contact thriller <em>Eon</em>, alien invasion drama <em>The Forge of God</em>, and post-apocalyptic space odyssey <em>Anvil of Stars</em>! Get a motherlode of some of the best sci-fi ever written for the price of your choosing, and support the Science Fiction & Fantasy Writers Association with your purchase!",
+    "tile_logo": "https://hb.imgix.net/ec343992eae9f55f52c94db55a21017493a1db5e.png?auto=compress,format&h=340&w=1200&s=de401b9bb65fa73cf486e75484327755",
+    "tile_short_name": "The Greg Bear Birthday Bundle by Open Road Media",
+    "start_date|datetime": "2026-08-20T18:00:00",
+    "hover_highlights": [
+     "27 books",
+     "US$324 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Greg Bear Birthday Bundle by Open Road Media",
+    "short_marketing_blurb": "Celebrate the birthday of one of sci-fi\u2019s masters",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/gregbearbirthdaybundleopenroadmedia_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "27 books",
+     "US$324 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/yeschefcookingbundle_bundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       208.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$208"
+    },
+    "machine_name": "yeschefcookingbundle_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=cd648c330733cbf4e8ae61aeaccacfe2",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Chef Knight</em>, <em>Pizza Possum</em>, <em>The Chef's Shift</em>, <em>Tailside: Cozy Cafe Sim</em>, <em>Tavern Manager Simulator</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/yes-chef-cooking-bundle",
+    "tile_image": "https://hb.imgix.net/5904e4ff2ea084e968b2b24f8e62ac8a12456acc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e6118af1c71a67d3aa9db97b9ade14d3",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        7.32,
+        "EUR"
+       ],
+       "FR": [
+        7.26,
+        "EUR"
+       ],
+       "BG": [
+        7.26,
+        "EUR"
+       ],
+       "DK": [
+        7.56,
+        "EUR"
+       ],
+       "HR": [
+        7.56,
+        "EUR"
+       ],
+       "DE": [
+        7.19,
+        "EUR"
+       ],
+       "JP": [
+        7.7,
+        "USD"
+       ],
+       "HU": [
+        7.68,
+        "EUR"
+       ],
+       "US": [
+        7.0,
+        "USD"
+       ],
+       "FI": [
+        7.59,
+        "EUR"
+       ],
+       "BY": [
+        8.26,
+        "USD"
+       ],
+       "GR": [
+        7.5,
+        "EUR"
+       ],
+       "RU": [
+        957.13,
+        "RUB"
+       ],
+       "NL": [
+        7.32,
+        "EUR"
+       ],
+       "PT": [
+        7.44,
+        "EUR"
+       ],
+       "NO": [
+        7.56,
+        "EUR"
+       ],
+       "TW": [
+        7.35,
+        "USD"
+       ],
+       "TR": [
+        335.19,
+        "TRY"
+       ],
+       "NZ": [
+        13.66,
+        "NZD"
+       ],
+       "LV": [
+        7.32,
+        "EUR"
+       ],
+       "LT": [
+        7.13,
+        "EUR"
+       ],
+       "LU": [
+        7.07,
+        "EUR"
+       ],
+       "TH": [
+        7.49,
+        "USD"
+       ],
+       "PH": [
+        429.71,
+        "PHP"
+       ],
+       "RO": [
+        7.01,
+        "EUR"
+       ],
+       "IS": [
+        8.68,
+        "USD"
+       ],
+       "PL": [
+        7.44,
+        "EUR"
+       ],
+       "CH": [
+        6.54,
+        "EUR"
+       ],
+       "MT": [
+        7.13,
+        "EUR"
+       ],
+       "CN": [
+        47.18,
+        "CNY"
+       ],
+       "CL": [
+        8.33,
+        "USD"
+       ],
+       "EE": [
+        7.38,
+        "EUR"
+       ],
+       "EG": [
+        7.98,
+        "USD"
+       ],
+       "IT": [
+        7.38,
+        "EUR"
+       ],
+       "ZA": [
+        8.05,
+        "USD"
+       ],
+       "CZ": [
+        7.32,
+        "EUR"
+       ],
+       "CY": [
+        7.19,
+        "EUR"
+       ],
+       "AU": [
+        10.86,
+        "AUD"
+       ],
+       "GB": [
+        6.2,
+        "GBP"
+       ],
+       "IN": [
+        8.26,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        5.17,
+        "GBP"
+       ],
+       "IE": [
+        7.44,
+        "EUR"
+       ],
+       "ES": [
+        7.32,
+        "EUR"
+       ],
+       "MD": [
+        8.4,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        6.05,
+        "EUR"
+       ],
+       "UA": [
+        8.4,
+        "USD"
+       ],
+       "CA": [
+        9.71,
+        "CAD"
+       ],
+       "SK": [
+        7.44,
+        "EUR"
+       ],
+       "KR": [
+        7.7,
+        "USD"
+       ],
+       "SI": [
+        7.38,
+        "EUR"
+       ],
+       "SG": [
+        7.63,
+        "USD"
+       ],
+       "MX": [
+        8.12,
+        "USD"
+       ],
+       "SE": [
+        7.56,
+        "EUR"
+       ],
+       "AT": [
+        7.26,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt13",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        13.58,
+        "EUR"
+       ],
+       "FR": [
+        13.47,
+        "EUR"
+       ],
+       "BG": [
+        13.47,
+        "EUR"
+       ],
+       "DK": [
+        14.03,
+        "EUR"
+       ],
+       "HR": [
+        14.03,
+        "EUR"
+       ],
+       "DE": [
+        13.36,
+        "EUR"
+       ],
+       "JP": [
+        14.3,
+        "USD"
+       ],
+       "HU": [
+        14.26,
+        "EUR"
+       ],
+       "US": [
+        13.0,
+        "USD"
+       ],
+       "FI": [
+        14.09,
+        "EUR"
+       ],
+       "BY": [
+        15.34,
+        "USD"
+       ],
+       "GR": [
+        13.92,
+        "EUR"
+       ],
+       "RU": [
+        1777.54,
+        "RUB"
+       ],
+       "NL": [
+        13.58,
+        "EUR"
+       ],
+       "PT": [
+        13.81,
+        "EUR"
+       ],
+       "NO": [
+        14.03,
+        "EUR"
+       ],
+       "TW": [
+        13.65,
+        "USD"
+       ],
+       "TR": [
+        622.49,
+        "TRY"
+       ],
+       "NZ": [
+        25.38,
+        "NZD"
+       ],
+       "LV": [
+        13.58,
+        "EUR"
+       ],
+       "LT": [
+        13.25,
+        "EUR"
+       ],
+       "LU": [
+        13.13,
+        "EUR"
+       ],
+       "TH": [
+        13.91,
+        "USD"
+       ],
+       "PH": [
+        798.04,
+        "PHP"
+       ],
+       "RO": [
+        13.02,
+        "EUR"
+       ],
+       "IS": [
+        16.12,
+        "USD"
+       ],
+       "PL": [
+        13.81,
+        "EUR"
+       ],
+       "CH": [
+        12.13,
+        "EUR"
+       ],
+       "MT": [
+        13.25,
+        "EUR"
+       ],
+       "CN": [
+        87.63,
+        "CNY"
+       ],
+       "CL": [
+        15.47,
+        "USD"
+       ],
+       "EE": [
+        13.7,
+        "EUR"
+       ],
+       "EG": [
+        14.82,
+        "USD"
+       ],
+       "IT": [
+        13.7,
+        "EUR"
+       ],
+       "ZA": [
+        14.95,
+        "USD"
+       ],
+       "CZ": [
+        13.58,
+        "EUR"
+       ],
+       "CY": [
+        13.36,
+        "EUR"
+       ],
+       "AU": [
+        20.18,
+        "AUD"
+       ],
+       "GB": [
+        11.52,
+        "GBP"
+       ],
+       "IN": [
+        15.34,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        9.6,
+        "GBP"
+       ],
+       "IE": [
+        13.81,
+        "EUR"
+       ],
+       "ES": [
+        13.58,
+        "EUR"
+       ],
+       "MD": [
+        15.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        11.23,
+        "EUR"
+       ],
+       "UA": [
+        15.6,
+        "USD"
+       ],
+       "CA": [
+        18.03,
+        "CAD"
+       ],
+       "SK": [
+        13.81,
+        "EUR"
+       ],
+       "KR": [
+        14.3,
+        "USD"
+       ],
+       "SI": [
+        13.7,
+        "EUR"
+       ],
+       "SG": [
+        14.17,
+        "USD"
+       ],
+       "MX": [
+        15.08,
+        "USD"
+       ],
+       "SE": [
+        14.03,
+        "EUR"
+       ],
+       "AT": [
+        13.47,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt13_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt16",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.73,
+        "EUR"
+       ],
+       "FR": [
+        16.59,
+        "EUR"
+       ],
+       "BG": [
+        16.59,
+        "EUR"
+       ],
+       "DK": [
+        17.28,
+        "EUR"
+       ],
+       "HR": [
+        17.28,
+        "EUR"
+       ],
+       "DE": [
+        16.45,
+        "EUR"
+       ],
+       "JP": [
+        17.6,
+        "USD"
+       ],
+       "HU": [
+        17.56,
+        "EUR"
+       ],
+       "US": [
+        16.0,
+        "USD"
+       ],
+       "FI": [
+        17.35,
+        "EUR"
+       ],
+       "BY": [
+        18.88,
+        "USD"
+       ],
+       "GR": [
+        17.14,
+        "EUR"
+       ],
+       "RU": [
+        2187.74,
+        "RUB"
+       ],
+       "NL": [
+        16.73,
+        "EUR"
+       ],
+       "PT": [
+        17.01,
+        "EUR"
+       ],
+       "NO": [
+        17.28,
+        "EUR"
+       ],
+       "TW": [
+        16.8,
+        "USD"
+       ],
+       "TR": [
+        766.15,
+        "TRY"
+       ],
+       "NZ": [
+        31.23,
+        "NZD"
+       ],
+       "LV": [
+        16.73,
+        "EUR"
+       ],
+       "LT": [
+        16.31,
+        "EUR"
+       ],
+       "LU": [
+        16.18,
+        "EUR"
+       ],
+       "TH": [
+        17.12,
+        "USD"
+       ],
+       "PH": [
+        982.21,
+        "PHP"
+       ],
+       "RO": [
+        16.04,
+        "EUR"
+       ],
+       "IS": [
+        19.84,
+        "USD"
+       ],
+       "PL": [
+        17.01,
+        "EUR"
+       ],
+       "CH": [
+        14.95,
+        "EUR"
+       ],
+       "MT": [
+        16.31,
+        "EUR"
+       ],
+       "CN": [
+        107.86,
+        "CNY"
+       ],
+       "CL": [
+        19.04,
+        "USD"
+       ],
+       "EE": [
+        16.87,
+        "EUR"
+       ],
+       "EG": [
+        18.24,
+        "USD"
+       ],
+       "IT": [
+        16.87,
+        "EUR"
+       ],
+       "ZA": [
+        18.4,
+        "USD"
+       ],
+       "CZ": [
+        16.73,
+        "EUR"
+       ],
+       "CY": [
+        16.45,
+        "EUR"
+       ],
+       "AU": [
+        24.84,
+        "AUD"
+       ],
+       "GB": [
+        14.17,
+        "GBP"
+       ],
+       "IN": [
+        18.88,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.81,
+        "GBP"
+       ],
+       "IE": [
+        17.01,
+        "EUR"
+       ],
+       "ES": [
+        16.73,
+        "EUR"
+       ],
+       "MD": [
+        19.2,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        13.83,
+        "EUR"
+       ],
+       "UA": [
+        19.2,
+        "USD"
+       ],
+       "CA": [
+        22.19,
+        "CAD"
+       ],
+       "SK": [
+        17.01,
+        "EUR"
+       ],
+       "KR": [
+        17.6,
+        "USD"
+       ],
+       "SI": [
+        16.87,
+        "EUR"
+       ],
+       "SG": [
+        17.44,
+        "USD"
+       ],
+       "MX": [
+        18.56,
+        "USD"
+       ],
+       "SE": [
+        17.28,
+        "EUR"
+       ],
+       "AT": [
+        16.59,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt16_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$208 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$208."
+     },
+     {
+      "heading": "Pay AU$10.86 or more",
+      "tooltip": "Name your price of AU$10.86 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$10.86 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-10T04:00:00",
+    "author": "Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Take your chef skills to the next level with this bundle of tasty cooking games! Whether you\u2019re an amateur at best IRL or a seasoned professional in the kitchen, you\u2019re sure to find the perfect cooking challenge. Keep the ale flowing and the mood high in the charmingly old-timey <em>Tavern Manager Simulator</em>! Let your fingers fly across the keyboard in the high-octane typing game <em>The Chef\u2019s Shift</em>! (Say that three times fast.) Become the sneaky, ravenous beast you were always meant to be in arcade game <em>Pizza Possum</em>! Whatever your speed, whatever your tastes, this bundle of cooking games will satisfy any appetite! Grab these tasty treats while you can at the price of your choice, and support the FarmLink Project with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 9th, 2027. </span>",
+    "tile_logo": "https://hb.imgix.net/1816638967eeb74efee1af1d5edb39dbf288d2d9.png?auto=compress,format&h=340&w=1200&s=1aa4086e9cbdbfae27bff97e7cc2f377",
+    "tile_short_name": "Yes Chef! - Cooking Bundle",
+    "start_date|datetime": "2026-08-19T18:00:00",
+    "hover_highlights": [
+     "16 games",
+     "US$208 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Yes Chef! - Cooking Bundle",
+    "short_marketing_blurb": "Order up!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/yeschefcookingbundle_bundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "16 games",
+     "US$208 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/shantaefranchisebundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       192.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$192"
+    },
+    "machine_name": "shantaeheroicheroines_bundle",
+    "high_res_tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=edd5f1bb3f076ded31ee89f974896c35",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>River City Girls</em> and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/games/shantae-heroic-heroines",
+    "tile_image": "https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d9ca18756b816bf711cc7dcfcedaec8e",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        5.23,
+        "EUR"
+       ],
+       "FR": [
+        5.19,
+        "EUR"
+       ],
+       "BG": [
+        5.19,
+        "EUR"
+       ],
+       "DK": [
+        5.41,
+        "EUR"
+       ],
+       "HR": [
+        5.41,
+        "EUR"
+       ],
+       "DE": [
+        5.15,
+        "EUR"
+       ],
+       "JP": [
+        5.5,
+        "USD"
+       ],
+       "HU": [
+        5.49,
+        "EUR"
+       ],
+       "US": [
+        5.0,
+        "USD"
+       ],
+       "FI": [
+        5.43,
+        "EUR"
+       ],
+       "BY": [
+        5.9,
+        "USD"
+       ],
+       "GR": [
+        5.36,
+        "EUR"
+       ],
+       "RU": [
+        683.66,
+        "RUB"
+       ],
+       "NL": [
+        5.23,
+        "EUR"
+       ],
+       "PT": [
+        5.32,
+        "EUR"
+       ],
+       "NO": [
+        5.41,
+        "EUR"
+       ],
+       "TW": [
+        5.25,
+        "USD"
+       ],
+       "TR": [
+        238.78,
+        "TRY"
+       ],
+       "NZ": [
+        9.79,
+        "NZD"
+       ],
+       "LV": [
+        5.23,
+        "EUR"
+       ],
+       "LT": [
+        5.1,
+        "EUR"
+       ],
+       "LU": [
+        5.06,
+        "EUR"
+       ],
+       "TH": [
+        5.35,
+        "USD"
+       ],
+       "PH": [
+        306.11,
+        "PHP"
+       ],
+       "RO": [
+        5.02,
+        "EUR"
+       ],
+       "IS": [
+        6.2,
+        "USD"
+       ],
+       "PL": [
+        5.32,
+        "EUR"
+       ],
+       "CH": [
+        4.68,
+        "EUR"
+       ],
+       "MT": [
+        5.1,
+        "EUR"
+       ],
+       "CN": [
+        33.71,
+        "CNY"
+       ],
+       "CL": [
+        5.95,
+        "USD"
+       ],
+       "EE": [
+        5.28,
+        "EUR"
+       ],
+       "EG": [
+        5.7,
+        "USD"
+       ],
+       "IT": [
+        5.28,
+        "EUR"
+       ],
+       "ZA": [
+        5.75,
+        "USD"
+       ],
+       "CZ": [
+        5.23,
+        "EUR"
+       ],
+       "CY": [
+        5.15,
+        "EUR"
+       ],
+       "AU": [
+        7.77,
+        "AUD"
+       ],
+       "GB": [
+        4.42,
+        "GBP"
+       ],
+       "IN": [
+        5.9,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        3.69,
+        "GBP"
+       ],
+       "IE": [
+        5.32,
+        "EUR"
+       ],
+       "ES": [
+        5.23,
+        "EUR"
+       ],
+       "MD": [
+        6.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        4.33,
+        "EUR"
+       ],
+       "UA": [
+        6.0,
+        "USD"
+       ],
+       "CA": [
+        6.96,
+        "CAD"
+       ],
+       "SK": [
+        5.32,
+        "EUR"
+       ],
+       "KR": [
+        5.5,
+        "USD"
+       ],
+       "SI": [
+        5.28,
+        "EUR"
+       ],
+       "SG": [
+        5.45,
+        "USD"
+       ],
+       "MX": [
+        5.8,
+        "USD"
+       ],
+       "SE": [
+        5.41,
+        "EUR"
+       ],
+       "AT": [
+        5.19,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt10",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        10.47,
+        "EUR"
+       ],
+       "FR": [
+        10.39,
+        "EUR"
+       ],
+       "BG": [
+        10.39,
+        "EUR"
+       ],
+       "DK": [
+        10.82,
+        "EUR"
+       ],
+       "HR": [
+        10.82,
+        "EUR"
+       ],
+       "DE": [
+        10.3,
+        "EUR"
+       ],
+       "JP": [
+        11.0,
+        "USD"
+       ],
+       "HU": [
+        10.99,
+        "EUR"
+       ],
+       "US": [
+        10.0,
+        "USD"
+       ],
+       "FI": [
+        10.86,
+        "EUR"
+       ],
+       "BY": [
+        11.8,
+        "USD"
+       ],
+       "GR": [
+        10.73,
+        "EUR"
+       ],
+       "RU": [
+        1367.34,
+        "RUB"
+       ],
+       "NL": [
+        10.47,
+        "EUR"
+       ],
+       "PT": [
+        10.65,
+        "EUR"
+       ],
+       "NO": [
+        10.82,
+        "EUR"
+       ],
+       "TW": [
+        10.5,
+        "USD"
+       ],
+       "TR": [
+        477.57,
+        "TRY"
+       ],
+       "NZ": [
+        19.59,
+        "NZD"
+       ],
+       "LV": [
+        10.47,
+        "EUR"
+       ],
+       "LT": [
+        10.21,
+        "EUR"
+       ],
+       "LU": [
+        10.13,
+        "EUR"
+       ],
+       "TH": [
+        10.7,
+        "USD"
+       ],
+       "PH": [
+        612.22,
+        "PHP"
+       ],
+       "RO": [
+        10.04,
+        "EUR"
+       ],
+       "IS": [
+        12.4,
+        "USD"
+       ],
+       "PL": [
+        10.65,
+        "EUR"
+       ],
+       "CH": [
+        9.36,
+        "EUR"
+       ],
+       "MT": [
+        10.21,
+        "EUR"
+       ],
+       "CN": [
+        67.43,
+        "CNY"
+       ],
+       "CL": [
+        11.9,
+        "USD"
+       ],
+       "EE": [
+        10.56,
+        "EUR"
+       ],
+       "EG": [
+        11.4,
+        "USD"
+       ],
+       "IT": [
+        10.56,
+        "EUR"
+       ],
+       "ZA": [
+        11.5,
+        "USD"
+       ],
+       "CZ": [
+        10.47,
+        "EUR"
+       ],
+       "CY": [
+        10.3,
+        "EUR"
+       ],
+       "AU": [
+        15.55,
+        "AUD"
+       ],
+       "GB": [
+        8.86,
+        "GBP"
+       ],
+       "IN": [
+        11.8,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        7.39,
+        "GBP"
+       ],
+       "IE": [
+        10.65,
+        "EUR"
+       ],
+       "ES": [
+        10.47,
+        "EUR"
+       ],
+       "MD": [
+        12.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        8.66,
+        "EUR"
+       ],
+       "UA": [
+        12.0,
+        "USD"
+       ],
+       "CA": [
+        13.92,
+        "CAD"
+       ],
+       "SK": [
+        10.65,
+        "EUR"
+       ],
+       "KR": [
+        11.0,
+        "USD"
+       ],
+       "SI": [
+        10.56,
+        "EUR"
+       ],
+       "SG": [
+        10.9,
+        "USD"
+       ],
+       "MX": [
+        11.6,
+        "USD"
+       ],
+       "SE": [
+        10.82,
+        "EUR"
+       ],
+       "AT": [
+        10.39,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt10_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "bt15",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        15.71,
+        "EUR"
+       ],
+       "FR": [
+        15.58,
+        "EUR"
+       ],
+       "BG": [
+        15.58,
+        "EUR"
+       ],
+       "DK": [
+        16.23,
+        "EUR"
+       ],
+       "HR": [
+        16.23,
+        "EUR"
+       ],
+       "DE": [
+        15.45,
+        "EUR"
+       ],
+       "JP": [
+        16.5,
+        "USD"
+       ],
+       "HU": [
+        16.49,
+        "EUR"
+       ],
+       "US": [
+        15.0,
+        "USD"
+       ],
+       "FI": [
+        16.3,
+        "EUR"
+       ],
+       "BY": [
+        17.7,
+        "USD"
+       ],
+       "GR": [
+        16.1,
+        "EUR"
+       ],
+       "RU": [
+        2051.01,
+        "RUB"
+       ],
+       "NL": [
+        15.71,
+        "EUR"
+       ],
+       "PT": [
+        15.97,
+        "EUR"
+       ],
+       "NO": [
+        16.23,
+        "EUR"
+       ],
+       "TW": [
+        15.75,
+        "USD"
+       ],
+       "TR": [
+        716.36,
+        "TRY"
+       ],
+       "NZ": [
+        29.39,
+        "NZD"
+       ],
+       "LV": [
+        15.71,
+        "EUR"
+       ],
+       "LT": [
+        15.32,
+        "EUR"
+       ],
+       "LU": [
+        15.19,
+        "EUR"
+       ],
+       "TH": [
+        16.05,
+        "USD"
+       ],
+       "PH": [
+        918.33,
+        "PHP"
+       ],
+       "RO": [
+        15.06,
+        "EUR"
+       ],
+       "IS": [
+        18.6,
+        "USD"
+       ],
+       "PL": [
+        15.97,
+        "EUR"
+       ],
+       "CH": [
+        14.04,
+        "EUR"
+       ],
+       "MT": [
+        15.32,
+        "EUR"
+       ],
+       "CN": [
+        101.14,
+        "CNY"
+       ],
+       "CL": [
+        17.85,
+        "USD"
+       ],
+       "EE": [
+        15.84,
+        "EUR"
+       ],
+       "EG": [
+        17.1,
+        "USD"
+       ],
+       "IT": [
+        15.84,
+        "EUR"
+       ],
+       "ZA": [
+        17.25,
+        "USD"
+       ],
+       "CZ": [
+        15.71,
+        "EUR"
+       ],
+       "CY": [
+        15.45,
+        "EUR"
+       ],
+       "AU": [
+        23.33,
+        "AUD"
+       ],
+       "GB": [
+        13.3,
+        "GBP"
+       ],
+       "IN": [
+        17.7,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        11.09,
+        "GBP"
+       ],
+       "IE": [
+        15.97,
+        "EUR"
+       ],
+       "ES": [
+        15.71,
+        "EUR"
+       ],
+       "MD": [
+        18.0,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        12.99,
+        "EUR"
+       ],
+       "UA": [
+        18.0,
+        "USD"
+       ],
+       "CA": [
+        20.88,
+        "CAD"
+       ],
+       "SK": [
+        15.97,
+        "EUR"
+       ],
+       "KR": [
+        16.5,
+        "USD"
+       ],
+       "SI": [
+        15.84,
+        "EUR"
+       ],
+       "SG": [
+        16.35,
+        "USD"
+       ],
+       "MX": [
+        17.4,
+        "USD"
+       ],
+       "SE": [
+        16.23,
+        "EUR"
+       ],
+       "AT": [
+        15.58,
+        "EUR"
+       ]
+      },
+      "has_subproducts": false,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "bt15_tier"
+      ],
+      "has_tpkds": true,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$192 worth of awesome stuff",
+      "tooltip": "Get games collectively valued at up to US$192."
+     },
+     {
+      "heading": "Pay AU$7.77 or more",
+      "tooltip": "Name your price of AU$7.77 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "Redeem on Steam",
+      "tooltip": "Pay AU$7.77 or more for access to content on Steam."
+     }
+    ],
+    "end_date|datetime": "2026-09-08T04:00:00",
+    "author": "WayForward",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Embark on a world of adventure with our favorite half-genie heroine Shantae! This bundle of games features our favorite Shantae adventures plus even more girl-power games that keep the fun coming! Explore a mysterious sunken city and battle undersea foes in <em>Shantae and the Seven Sirens</em>! Save Sequin Land from a rampant crime wave with <em>Shantae: Half-Genie Hero Ultimate Edition</em>, featuring all DLC, modes, and costumes! Sail the high seas and ally with your swashbuckling nemesis in <em>Shantae and the Pirate\u2019s Curse</em>! Plus, have even more fun with the schoolgirl warriors of <em>River City Girls</em> and the law-abiding citizens of <em>Mighty Switch Force</em>! Collect all these heroic heroines in one bundle, pay what you want, and support CARE with your purchase!<br><br><span style=\"color: #ef9741;\">Keys expire. Please redeem before March 7th, 2027. </span> ",
+    "tile_logo": "https://hb.imgix.net/ec50877f873a62bd36758d7371533216f233893c.png?auto=compress,format&h=340&w=1200&s=ec16d5913c7a890143df88d60d6fb5e1",
+    "tile_short_name": "Shantae & Heroic Heroines",
+    "start_date|datetime": "2026-08-17T18:00:00",
+    "hover_highlights": [
+     "10 games",
+     "US$192 Value"
+    ],
+    "tile_stamp": "games",
+    "tile_name": "Shantae & Heroic Heroines",
+    "short_marketing_blurb": "Half-genie, big adventures!",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/shantaefranchisebundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [],
+    "highlights": [
+     "Pay What You Want",
+     "10 games",
+     "US$192 Value",
+     "Support Charity"
+    ]
+   },
+   {
+    "tile_logo_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/logos/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-logo-product.png",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "product_variables": {
+     "msrp|pricing": {
+      "US": [
+       688.0,
+       "USD"
+      ]
+     },
+     "msrp": "US$688"
+    },
+    "machine_name": "ultimatevegancookbookbundlepagestreetpublishing_bookbundle",
+    "high_res_tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=14b3f02ee5e8d25f832e91d31c618ae4",
+    "disable_hero_tile": false,
+    "marketing_blurb": "Get <em>Vegan YUM</em>, <em>Blk + Vegan</em>, <em>Frugal Vegan</em>, and more!",
+    "hover_title": "Pay What You Want",
+    "product_url": "/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books",
+    "tile_image": "https://hb.imgix.net/8610640f3a8f68537f82d60fac2295031937c874.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0b3ac49bb877ce81a0ab161192d5990c",
+    "cached_content_events": [
+     {
+      "identifier": "less_than_initial",
+      "display_counter": false,
+      "type": "base",
+      "price": null,
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     },
+     {
+      "identifier": "initial",
+      "display_counter": false,
+      "type": "price",
+      "price": {
+       "BE": [
+        16.63,
+        "EUR"
+       ],
+       "FR": [
+        16.55,
+        "EUR"
+       ],
+       "BG": [
+        18.82,
+        "EUR"
+       ],
+       "DK": [
+        19.61,
+        "EUR"
+       ],
+       "HR": [
+        16.47,
+        "EUR"
+       ],
+       "DE": [
+        16.78,
+        "EUR"
+       ],
+       "JP": [
+        19.8,
+        "USD"
+       ],
+       "HU": [
+        19.92,
+        "EUR"
+       ],
+       "US": [
+        18.0,
+        "USD"
+       ],
+       "FI": [
+        17.25,
+        "EUR"
+       ],
+       "BY": [
+        21.24,
+        "USD"
+       ],
+       "GR": [
+        16.63,
+        "EUR"
+       ],
+       "RU": [
+        2301.39,
+        "RUB"
+       ],
+       "NL": [
+        17.1,
+        "EUR"
+       ],
+       "PT": [
+        16.63,
+        "EUR"
+       ],
+       "NO": [
+        15.69,
+        "EUR"
+       ],
+       "TW": [
+        18.9,
+        "USD"
+       ],
+       "TR": [
+        846.98,
+        "TRY"
+       ],
+       "NZ": [
+        35.33,
+        "NZD"
+       ],
+       "LV": [
+        16.47,
+        "EUR"
+       ],
+       "LT": [
+        17.1,
+        "EUR"
+       ],
+       "LU": [
+        16.16,
+        "EUR"
+       ],
+       "TH": [
+        18.0,
+        "USD"
+       ],
+       "PH": [
+        1109.27,
+        "PHP"
+       ],
+       "RO": [
+        16.47,
+        "EUR"
+       ],
+       "IS": [
+        19.98,
+        "USD"
+       ],
+       "PL": [
+        16.47,
+        "EUR"
+       ],
+       "CH": [
+        16.09,
+        "EUR"
+       ],
+       "MT": [
+        16.47,
+        "EUR"
+       ],
+       "CN": [
+        121.8,
+        "CNY"
+       ],
+       "CL": [
+        21.42,
+        "USD"
+       ],
+       "EE": [
+        17.1,
+        "EUR"
+       ],
+       "EG": [
+        20.52,
+        "USD"
+       ],
+       "IT": [
+        16.31,
+        "EUR"
+       ],
+       "ZA": [
+        20.7,
+        "USD"
+       ],
+       "CZ": [
+        15.69,
+        "EUR"
+       ],
+       "CY": [
+        18.67,
+        "EUR"
+       ],
+       "AU": [
+        28.24,
+        "AUD"
+       ],
+       "GB": [
+        13.32,
+        "GBP"
+       ],
+       "IN": [
+        21.24,
+        "USD"
+       ],
+       "EUROPE_GBP": [
+        13.32,
+        "GBP"
+       ],
+       "IE": [
+        15.69,
+        "EUR"
+       ],
+       "ES": [
+        16.31,
+        "EUR"
+       ],
+       "MD": [
+        21.6,
+        "USD"
+       ],
+       "EUROPE_EURO": [
+        15.69,
+        "EUR"
+       ],
+       "UA": [
+        21.6,
+        "USD"
+       ],
+       "CA": [
+        25.24,
+        "CAD"
+       ],
+       "SK": [
+        19.29,
+        "EUR"
+       ],
+       "KR": [
+        19.8,
+        "USD"
+       ],
+       "SI": [
+        16.47,
+        "EUR"
+       ],
+       "SG": [
+        19.62,
+        "USD"
+       ],
+       "MX": [
+        20.88,
+        "USD"
+       ],
+       "SE": [
+        16.63,
+        "EUR"
+       ],
+       "AT": [
+        17.25,
+        "EUR"
+       ]
+      },
+      "has_subproducts": true,
+      "start": null,
+      "mpa_time": null,
+      "section_identifiers": [
+       "core_tier"
+      ],
+      "has_tpkds": false,
+      "max_price": null,
+      "is_base": false
+     }
+    ],
+    "exclusive_countries": [],
+    "category": "bundle",
+    "hero_highlights": [
+     {
+      "heading": "US$688 worth of awesome stuff",
+      "tooltip": "Get ebooks collectively valued at up to US$688."
+     },
+     {
+      "heading": "Pay AU$28.24 or more",
+      "tooltip": "Name your price of AU$28.24 or more and increase your contribution to upgrade your bundle."
+     },
+     {
+      "heading": "DRM-free",
+      "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+     },
+     {
+      "heading": "Multi-format",
+      "tooltip": "These ebooks come in ePub file types to support many devices."
+     }
+    ],
+    "end_date|datetime": "2026-08-27T18:00:00",
+    "author": "Macmillan Publishers",
+    "fallback_store_sale_logo": "",
+    "high_res_tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "supports_partners": true,
+    "detailed_marketing_blurb": "Whether you\u2019re committed to the plant-based lifestyle or thinking about giving it a try, there\u2019s never been a better time to go vegan\u2014especially with this bundle of over 60 vegan cookbooks! We\u2019ve teamed up with Page Street Publishing for a treasure trove of recipes that bring the joys of veganism right to your home kitchen. If you\u2019re looking for Southern soul food with a vegetarian twist, scrumptious Mexican food that keeps things verde, delicious Asian-inspired meals for herbivores, or just tips on how to save while keeping your meals cruelty-free, you\u2019ll find all of that and so much more in this bundle! Grab these cooking ebooks at the price of your choice, and help support World Central Kitchen with your purchase!",
+    "tile_logo": "https://hb.imgix.net/aea8eefba51947fd4c44590e19559aa148a43891.png?auto=compress,format&h=340&w=1200&s=07aca8396c86f115a29216a98a3c6258",
+    "tile_short_name": "The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "start_date|datetime": "2026-07-30T18:00:00",
+    "hover_highlights": [
+     "61 books",
+     "US$688 Value"
+    ],
+    "tile_stamp": "books",
+    "tile_name": "Humble Book Bundle: The Ultimate Vegan Cookbook Bundle by Page Street Publishing",
+    "short_marketing_blurb": "Powered by plants",
+    "tile_image_information": {
+     "config": {
+      "image_type": "gcs",
+      "gcs": "images/humble_home/ultimatevegancookbookbundlepagestreetpublishing_bookbundle-product.jpg",
+      "imgix": {
+       "args": {},
+       "master_image": {
+        "image_type": "gcs",
+        "gcs": "",
+        "static": "",
+        "imgix": {}
+       }
+      }
+     }
+    },
+    "type": "bundle",
+    "disallowed_countries": [
+     "CA"
+    ],
+    "highlights": [
+     "Pay What You Want",
+     "61 books",
+     "US$688 Value",
+     "Support Charity"
+    ]
+   }
+  ],
+  "tier_item_data": {
+   "forgottenrealms_demonstone": {
+    "machine_name": "forgottenrealms_demonstone",
+    "youtube_link": "4yaHVxCxHvE",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/forgottenrealms_demonstone_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 12.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.9
+    },
+    "subtitle_html": null,
+    "description_text": "<p><i> First released in 2004, Forgotten Realms: Demon Stone returns in a polished re\u2011release: smoother startup and gameplay, proper widescreen scaling, borderless/windowed modes, optimised shadows, full XInput controller support with rumble and hot\u2011plugging, adjustable audio, and a new in\u2011game settings menu for modern PCs. </i></p>\n<p><strong> THE GREATEST BATTLES ARE NEVER FOUGHT ALONE! </strong></p>\n<p>Three renegade warriors, each with unique fighting abilities, all drawn together by an inexplicable force...</p>\n<p>Enter the mythical land of Faer\u00fbn, where magic, prophecy and mystery envelop great heroes and perilous evil.</p>\n<p>Within this awe-inspiring, DUNGEONS &amp; DRAGONS\u00ae world, a fighting saga begins. Control a party of three \u2014 a fighter, a sorcerer and a rogue \u2014 in a quest to right a wrong and shape the future. Switch characters on the fly to exploit each warrior\u2019s specialized fighting styles (projectile/ranged, melee and sneak combat) and maximize each character\u2019s attributes. The right moves will build the party into a well-balanced fighting trio.</p>\n<ul>\n<li>\n<p>Pick-up-and-play combat: hand-to-hand battles and melee brawls (the fighter), ranged and projectile power (the sorcerer), sexy stealth attacks (the rogue)</p>\n</li>\n<li>\n<p>Sprawling story by N.Y. Times - bestselling author R.A. Salvatore</p>\n</li>\n<li>\n<p>Voice performances by Patrick Stewart and Michael Clarke Duncan</p>\n</li>\n<li>\n<p>Beautiful ominous Forgotten Realms environments, from the Gemspark Mines to the Jungles of Chult, to the Underdark and beyond</p>\n</li>\n<li>\n<p>Devastating Dungeons &amp; Dragons\u00ae creatures including Bugbears, Slaadi and Yuan-tis</p>\n</li>\n<li>\n<p>Expansive range of combo moves, skill upgrades, weapons, armor and more</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Forgotten Realms: Demon Stone",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Stormfront Studios"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/323a0ba7dd65388bfc19030c07bda4f3fdf967cf.jpg?auto=compress,format&dpr=1&fit=clip&h=177&w=308&s=75eb1f781b7ead830b5c1d49d7cc4208",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Forgotten Realms: Demon Stone",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "americanhumanesociety": {
+    "machine_name": "americanhumanesociety",
+    "youtube_link": null,
+    "item_content_type": null,
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": null,
+    "featured_image": null,
+    "ppgf_info": {
+     "category": "Animals",
+     "city": "Washington",
+     "description": "Founded in 1877, American Humane is committed to ensuring the safety, welfare and well-being of animals. Our leadership programs are first to serve in promoting and nurturing the bonds between animals and humans.",
+     "url": "http://www.americanhumane.org",
+     "country": "US",
+     "charity_id": "55174",
+     "state": "DC",
+     "keywords": "animals, animal welfare, animal protection, rescue, military, veterans",
+     "human_name": "American Humane",
+     "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FYWY5MmJkOWUtMDU2Yy00ZTZkLWJiNTAtNDM0YzYzNDE4YTg5%2Ffile.JPG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=b4a8f547f1b53a4d451546d0d05394fe"
+    },
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "subtitle_html": null,
+    "description_text": "<p><em>Donations to support American Humane Society are made to&nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.</em><br><br><strong>American Humane Society</strong> is the nation\u2019s first national humane organization and the world\u2019s largest certifier of animal welfare, helping ensure the humane treatment of more than one billion animals worldwide each year. Founded in 1877, American Humane Society has led nearly every major advancement in the humane movement, working to rescue, care for, and protect animals across the globe.</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/charities/CharityLogos/americanhumanesociety.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "American Humane Society",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/charities/CharityLogos/americanhumanesociety.png",
+    "developers": [
+     {
+      "developer-name": "American Humane Society",
+      "developer-url": "https://www.americanhumane.org/what-we-do/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {},
+    "resolved_paths": {
+     "preview_image_bonus_retina": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=439efb844e216ac03e605ad678513e32",
+     "featured_image": null,
+     "front_page_art_imgix_retina": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=7d4783c48e61c84da425aeec6d094d1c",
+     "preview_image_bonus": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&fit=clip&h=200&w=200&s=28b88bf5aba709ea6bb1c3cdaef2f513",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=136f32a225da1f5666e3a60506411e6f",
+     "front_page_art_imgix": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&fit=clip&h=240&w=180&s=a9095a27c4b11dbdf029fb1c25c3f877",
+     "front_page_art_charity_imgix": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&fit=clip&h=80&w=170&s=c53f7e5cb4c24b0b6d41a7872dc417ad",
+     "preview_image": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&fit=clip&h=350&w=600&s=5dec5e64a5064c371563bdea768f9ae8"
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "American Humane Society",
+    "is_mystery_box": null,
+    "payee_secondary_id": "55174",
+    "wallet_credit": {}
+   },
+   "dungeonsdragons_krynnseries": {
+    "machine_name": "dungeonsdragons_krynnseries",
+    "youtube_link": "nDGD-OzknfA",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/dungeonsdragons_krynnseries_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 11.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 11.26
+    },
+    "subtitle_html": null,
+    "description_text": "<strong>\n Champions of Krynn\n</strong>\n<br>\nThe War of the Lance is over, but Evil is a BAD loser... With the Dragonarmies defeated and the lands to the east reconquered, the forces of good have withdrawn and settled down to a well-earned rest. Evil forces, however, never rest and have been quietly plotting a cataclysmic return to power! Their goal: nothing short of establishing the Dark Queen, Takhisis, as undisputed ruler of Krynn! Guide your party of characters through a dark web of intrigue and combat, where dragons, draconians and other unspeakable monstrosities dwell. Go with a brave heart - for you and your heroic adventurers are all that stand in the way of evil tyranny.\n<br>\n<br>\n<strong>\n Death Knights of Krynn\n</strong>\n<br>\nLord Soth has thrown down the gauntlet of challenge - a challenge that you are oath-bound to accept. It has been one short year since the Champions of Krynn claimed victory over the massed forces of evil. Now, the Lord of the Death Knights, Soth himself, is preparing to wreak havoc in an eruption of evil such as Krynn has never witnessed! As members of the Special Solamnic Order of the Champions of Krynn, you and your party stand as the only force capable of answering soth's deadly challenge... and living to tell of it.\n<br>\n<br>\n<strong>\n The Dark Queen of Krynn\n</strong>\n<br>\nThe Epic began with Champions of Krynn. Then, the adventure continues in Death Knights of Krynn. Now, the amazing conclusion to SSI's award-winning Dragonlance fantasy role-playing epic is here! The Dark Queen of Krynn propels you across the sea to Taladas for the final battle against Krynn's worst nightmare. You must once more take up arms and traverse from the depths of the ocean to the very pinnacle of the Tower of Flame to confront this evil, once and for all...\n<br>\n<br>\n<ul>\n <li>\n  Assemble a party of fearsome warriors, wise clerics and nimble thieves, and take them with you throughout your three adventures\n  <br>\n </li>\n <li>\n  Guide your party through a dark web of intrigue and combat, where dragons, draconians and other unspeakable terrors dwell\n  <br>\n </li>\n <li>\n  Only great wit and valor will defeat the Dark Queen's minions\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Dungeons & Dragons: Krynn Series",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/dungeonsdragons_krynnseries_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Strategic Simulations",
+      "developer-url": "https://strategicsimulationsinc.com/"
+     },
+     {
+      "developer-name": "MicroMagic"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/9199e7882aa82476d8382941933d457a34a1b212.jpg?auto=compress,format&w=300&s=7029b02f6d0c337d57bf4e5d6b95b976",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Dungeons & Dragons: Krynn Series",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "dungeonsdragons-stronghold_kingdomsimulator": {
+    "machine_name": "dungeonsdragons-stronghold_kingdomsimulator",
+    "youtube_link": "qQ0GQHj2U0Y",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/dungeonsdragons-stronghold_kingdomsimulator_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 6.69
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "subtitle_html": null,
+    "description_text": "Build and command your own kingdom in the Dungeons & Dragons game world\n<br>\n<br>\nIn this remarkable kingdom simulator, your goal is to become Emperor by building and expanding your stronghold in competition against opposing computer-controlled kingdoms. Choose three courses of action to achieve Emperor status: Lawful (Maximizing the prosperity and morale of your poulace; Chaotic (total military victory over all your enemies); or Neutral (striving to achieve both objectives, the toughest challenge of all).\n<br>\n<br>\nAll the details of running a kingdom must be dealt with: construction, farm land, managing population, housing, troops, morale and changing seasons - and, of course, a multitude of D&D game monsters. Micro-manage all these factors personally if you want absolute control, or let the computer do much of it for you. Choose from pre-created worlds or computer-generated random scenarios for a new challenge every time. With the intuitive mouse-driven command interface, running your own kingdom has never been more fun, fast or easy!\n<br>\n<br>\n<ul>\n <li>\n  Build your own Dungeons & Dragons game kingdom with over 100 structures including castles, forges, mines, marketplaces, towers, temples, cottages, schools of magic and granaries\n  <br>\n </li>\n <li>\n  Micro-manage every detail of running a kingdom or let the computer handle most of the chores\n  <br>\n </li>\n <li>\n  Fully-animated combat\n  <br>\n </li>\n <li>\n  For one player against computer-controlled opponents\n  <br>\n </li>\n <li>\n  Computer-generated random scenarios offer unlimited hours of fun and excitement\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Dungeons & Dragons - Stronghold: Kingdom Simulator",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/dungeonsdragons-stronghold_kingdomsimulator_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Stormfront Studios"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/152ab759efb722baadea5c28aaa0167e6cbbfd5b.jpg?auto=compress,format&w=300&s=100d5491c799cc76fc63bcb0401cdfc0",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Dungeons & Dragons - Stronghold: Kingdom Simulator",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "forgottenrealms_thearchives-collectionone": {
+    "machine_name": "forgottenrealms_thearchives-collectionone",
+    "youtube_link": "UVwKpZWMq-E",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/forgottenrealms_thearchives-collectionone_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 11.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.9
+    },
+    "subtitle_html": null,
+    "description_text": "The Forgotten Realms world of Dungeons & Dragons has been home to many a hero and imagination since its publication, producing adventures and stories to be retold and enjoyed for years to come. The Forgotten Realms Archive - Collection One allows you to journey through one such set of adventures: the Eye of the Beholder trilogy, a set of first-person, real-time role-playing games.\n<br>\n<br>\n<strong>\n EYE OF THE BEHOLDER\n</strong>\n<br>\nA new evil is plaguing the city of Waterdeep, stalking the streets and preying on its citizens. Though initially thought to come from afar, this great evil, known only as Xanathar, instead resides within Waterdeep and, if not stopped, threatens to overwhelm the city. The Lords of Waterdeep believe that the evil lurks in the sewers below and have commissioned a party of adventurers to investigate and foil this nefarious plot. Granted full rights of marque and ownership of any treasure, artifacts or valuables you find on your quest, you must venture into the chasms, discover the nature of this evil and destroy it by any means necessary.\n<br>\n<br>\n<strong>\n EYE OF THE BEHOLDER II: THE LEGEND OF DARKMOON\n</strong>\n<br>\nFollowing your quest in the sewers beneath, you and your party are recovering with Waterdeep\u2019s finest healers, when a letter arrives from Khelben Blackstaff, mystic advisor to the Lords of Waterdeep. Trouble is brewing in the Northern and Western regions, and he has tasked you with exploring the land and investigating these incidents. Although nothing has been confirmed, renowned but troublesome archaeologist, Wently Kelso believes the disturbances are related to an evil uprising and the presence of a powerful ancient artefact. These troubles could, of course, simply be the work of unruly bandits, but since Kelso\u2019s previous findings in the sewers of Waterdeep proved true, one would be wise not to easily dismiss his opinion on the matter. Therefore, you should exercise greater care and vigilance as you begin your next adventure.\n<br>\n<br>\n<strong>\n EYE OF THE BEHOLDER III: ASSAULT ON MYTH DRANNOR\n</strong>\n<br>\nHaving rid the sewers of Waterdeep and the dreaded Temple Darkmoon of the evil forces within, you and your companions are surely deserving of a strong drink, good food and a warm fire. And so, your first port of call is to the nearest tavern, where you slop ale all over yourself and engage in jovial antics as you regale your adventures to your captivated listeners and admirers. However, in the midst of your retelling, the tavern door is thrust open by a hooded figure, whose eyes scan the crowd before locking on you and your party. Approaching you, he quickly introduces himself and explains his reasons for disturbing the festivities; his master wishes you to free the ruined city of Myth Drannor from the clutches of a Lich and restore it to its former glory. Looks like your adventures aren\u2019t over just yet\u2026\n<br>\n<br>\n<br>\nWith an original story set in the Forgotten Realms universe, the Eye of the Beholder trilogy is based on the Advanced Dungeon & Dragons 2nd Edition\u2019s game rules. Bringing the immersion, wonder and epicness of a D&D campaign to the PC, the Eye of the Beholder is a genre-defining and beloved series for RPG and Dungeons & Dragons fans alike.\n<br>\n<br>\n<ul>\n <li>\n  Assemble your party across various races and classes - from human to dwarf, cleric to thief\n  <br>\n </li>\n <li>\n  Use weapons, magic and resolve to ensure your survival as you complete your quests\n  <br>\n </li>\n <li>\n  Transfer your party across all three titles to keep your band of adventurers together to the very end\n  <br>\n </li>\n <li>\n  Explore the various dungeons, ruins and secrets that Waterdeep Sewers, Temple Darkmoon and Myth Drannor have to offer\n  <br>\n </li>\n <li>\n  Fight a wide array of monsters and restore peace to the Forgotten Realms\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Forgotten Realms: The Archives - Collection One",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/forgottenrealms_thearchives-collectionone_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Westwood Associates",
+      "developer-url": "https://strategicsimulationsinc.com/"
+     },
+     {
+      "developer-name": "Strategic Simulations"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/9ea2ccce2eb24728f4789ce1d28efbb3a38af316.jpg?auto=compress,format&w=300&s=c521a7a8d831fccf67405d424fa41421",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Forgotten Realms: The Archives - Collection One",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "coupon33off_templeofelementalevil": {
+    "machine_name": "coupon33off_templeofelementalevil",
+    "youtube_link": "RheqpBNB7Ss",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": null,
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": {
+     "badge": "coupon"
+    },
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "subtitle_html": null,
+    "description_text": "<p>Get 33% off The Temple of Elemental Evil in the Humble Store!</p>\n<p>NOTE: Expires August 31th, 2026, 6pm PT. Does not stack with Humble Store sales.</p>\n<p>The Temple of Elemental Evil, first released in 2003, has inspired a passionate community for over two decades. This updated edition is a true labor of love, shaped by years of fan dedication and the incredible efforts of the Circle of Eight and Temple+ modding communities. It brings the classic D&amp;D adventure to life for modern players with over a thousand fixes and improvements - from enhanced stability and AI to smoother performance, refined UI, and countless quality-of-life updates. We\u2019re deeply thankful to everyone who\u2019s helped preserve and evolve this classic.</p>\n<p><strong>THE STORY SO FAR: </strong><br>An evil demoness founded a cult dedicated to exploring evil in its most elemental forms. This cult was based in a temple just outside the village of Hommlet in a vile shire known as Nulb. Soon, this cult ruled the region with tyranny; times of chaos and violence ensued. Hard-fought battles were waged and the war was eventually won by the good armies of nearby lands. The temple was razed, the villains were imprisoned, and order was restored. The temple itself faded into distant memory...until now.<br><br><strong>THE ADVENTURE BEGINS:</strong><br>Recently, bandits have begun patrolling the roads outside Hommlet and wicked forces are rumored to be afoot, converging on the ruined temple at Nulb. Their purposes for such meetings are as yet unknown. The identity of these people are equally a mystery. Some claim they are bent on slaying monsters and maintaining order within the region, but no one can be sure.<br><br>So begins your adventure within the Realm of Greyhawk. It is an adventure that will lead to the source of a deep and abiding mystery, to the very core of evil itself.<br><br><strong>FEATURES:</strong><br>Multiple story paths and multiple endings<br><br>Five controllable characters and three followers in each party<br><br>Richly varied environments populated with reactive NPCs<br><br>Characters that can be customized with skills, feats and spells<br><br>Party-based adventuring and tactical turn-based combat<br><br>Gameplay that supports all alignments<br><br>Formidable obstacles including a wide array of monsters<br><br>First PC game based on the classic Greyhawk module</p>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/coupon33off_templeofelementalevil.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "The Temple of Elemental Evil - 33% Off Coupon",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": " Troika Games"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": "https://hb.imgix.net/0fc24fd99c7bc68c47d1ff3c2df22d1a08ea3a93.png?auto=compress,format&fit=clip&h=80&w=170&s=d59fc9431c4c1375a8b903ea81a32da2",
+     "featured_image": null,
+     "front_page_art_imgix_retina": "https://hb.imgix.net/0fc24fd99c7bc68c47d1ff3c2df22d1a08ea3a93.png?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=a0047d5a7db0d692d0b9b7c34cc2d06e",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/0fc24fd99c7bc68c47d1ff3c2df22d1a08ea3a93.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=336c9c0cd2e6f474be62accc9f90b931",
+     "front_page_art_imgix": "https://hb.imgix.net/0fc24fd99c7bc68c47d1ff3c2df22d1a08ea3a93.png?auto=compress,format&w=300&s=26c319004e0834a8abcd6db7fc531c63",
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "The Temple of Elemental Evil - 33% Off Coupon",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "silverboxclassics": {
+    "machine_name": "silverboxclassics",
+    "youtube_link": "KG7BJI_NYXM",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/silverboxclassics_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 12.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 11.26
+    },
+    "subtitle_html": null,
+    "description_text": "This collection brings back a gathering of adaptations of the events in the first four Dragonlance role-playing modules, at the beginning of the War of the Lance. These were the first games that brought the world of D&D to PC.\n<strong>\n <i>Silver Box Classics</i>\n</strong>\ncontains of the following titles: Heroes of the Lance, Dragons of Flame, War of the Lance and Shadow Sorcerer.\n<br>\n<br>\n<strong>\n HEROES OF THE LANCE\n</strong>\n<br>\nDiscover the world of Krynn in this D&D epic. Control the Companions of the Lance (they aren\u2019t Heroes until they succeed!) in their quest to recover the Disks of Mishakal. Only this can defeat the Queen of Darkness and restore the balance between Good and Evil.\n<br>\n<br>\n<strong>\n DRAGONS OF FLAME\n</strong>\n<br>\nTakhisis, Queen of Darkness, and her Draconian hordes have overrun much of the homeland Krynn, even the elven armies of Qualinost, valiant in their resistance to this evil power, struggle on the edge of defeat. It is only the returning Companions of the Lance that can halt this wave of tyranny before Krynn is consumed by evil. Freed from captivity by an elven assault column, the Companions under the guiding direction of the cleric Goldmoon and bolstered by their success at recovering the mystical Disks of Mishakal, can once again restore a belief in the gods and unify the inhabitants of Krynn against the power of Takhisis. Rescue slaves held by the ravaging Dragonarmies in the foul fortress of Pax Tharkas.\n<br>\n<br>\n<strong>\n WAR OF THE LANCE\n</strong>\n<br>\nThat's the first D&D computer wargame. Prepare for fierce battles and all-out war when the forces of Whitestone clash against the evil Highlord Dragonarmies. The prize: absolute rule over all Ansalon on the Dragonlance game world of Krynn. Send forth your diplomats to forge treaties and gain the allies that will swell the numbers of your troops. When words fail, armies of human, draconians, ogres, dwarves, elves, dragons, and other creatures may prove more persuasive.\n<br>\n<br>\n<strong>\n SHADOW SORCERER\n</strong>\n<br>\nShadow Sorcerer is a tie-in with the Dragonlance series of novels. The player controls a party of four adventurers that have just rescued 800 slaves and must shepherd them through the wilderness before the evil Dragon army catches up with them. There are three levels to the game: - Strategic, where the player must move the refugees safely through the wilderness. - Tactical, where the party explores dungeons and other areas of interest, searching for information and treasure to assist the escape. - Political, where the players must deal with the refugee leaders and convince them to continue following the party. All three take place in real-time with the evil dragons constantly on the adventurers' heels slowly picking off the escapees.\n<br>\n<br>\nEach of these gaming gems brings its own unique flare and adventure for you to enjoy, ranging from platform to real-time combat experience.\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Silver Box Classics",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/silverboxclassics_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Strategic Simulations",
+      "developer-url": "https://strategicsimulationsinc.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/ab81eb9182ed160f9b31852dc62a32ed0bceb2fa.jpg?auto=compress,format&w=300&s=2a1c081b9dde4355d4504accf46977f8",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Silver Box Classics",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "al-qadim_thegeniescurse": {
+    "machine_name": "al-qadim_thegeniescurse",
+    "youtube_link": "AleCCyMZLUM",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/al-qadim_thegeniescurse_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 6.69
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "subtitle_html": null,
+    "description_text": "As an outcast, betrothed to the caliph's daughter and the son of a sultan whose once mighty clan has been dishonoured, you must face the all-powerful Genie Lords in a quest to restore your family honour - once and for all!\n<br>\n<br>\nExperience the mysterious Al-Qadim game world and prepare for fast real-time action, arcade-style combat and heart-pounding role-playing - all in the style of Arabian Nights! Diverging from the Gold Box formula, Al-Qadim allows you to experience the immersion and thrill of an AD&D adventure with a condensed role-playing system. The Genie's Curse is quick to set up and a breeze to play. Your character, a brave corsair, slashes his way through this incredible AD&D game world, where high magic and dark deeds reign!\n<br>\n<br>\n<ul>\n <li>\n  A simple interface guides you through encounters with genies, sinister sorcerers, wise hermits, and many more mysterious beings - each with their own secrets and challengers\n  <br>\n </li>\n <li>\n  Use magical items to face the challenge of real-time combat and puzzle solving\n  <br>\n </li>\n <li>\n  Savour a tightly woven storyline that's enhanced by grand cinematic musical themes\n  <br>\n </li>\n <li>\n  Variable difficulty settings allow players of all skill levels to be challenged!\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Al-Qadim: The Genie's Curse",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/al-qadim_thegeniescurse_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Cyberlore Studios"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/16d9dba244b16e29054ac886fb43d5a26687e5e6.jpg?auto=compress,format&w=300&s=0003ef288ea06183d6f2ef9680a4ad68",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Al-Qadim: The Genie's Curse",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "fantasyempires": {
+    "machine_name": "fantasyempires",
+    "youtube_link": "Umvr3uipkrE",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/fantasyempires_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 12.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 11.26
+    },
+    "subtitle_html": null,
+    "description_text": "Forge your own empire in this D&D game - the first to feature a computer DUNGEON MASTER who mediates all elements of the game play.\n<br>\n<br>\nThis exciting game lets you face one to four adversaries chosen from among 20 computer-controlled opponents. Interact with fantastic races, including humans, elves, orcs, dwarves, humanoids, and the undead. Command dozens of troop types. Deploy special forces. Send your heroes on quests and construct a variety of buildings and fortifications. Extensive character interaction, utilizing AI and Neural Network technology throughout the game (already back in 1993!), provides for diplomatic tactics. When combat occurs, the screen switches from a strategic map to a tactical display that shows real-time action in one of the most spectacular overhead perspectives yet!\n<br>\n<br>\n<strong>\n Features:\n</strong>\n<br>\n<br>\n<ul>\n <li>\n  Begin as leader of a kingdom - then build an empire by creating alliances and defeating enemy kingdoms.\n  <br>\n </li>\n <li>\n  D&D gaming first: a computer DUNGEON MASTER mediates all elements of gameplay!\n  <br>\n </li>\n <li>\n  Face up to four opponents chosen from among twenty computer-controlled adversaries.\n  <br>\n </li>\n <li>\n  Command dozens of troop types. Interact with all the major D&D races. Deploy special forces. Send heroes on quests and build different types of structures and fortifications.\n  <br>\n </li>\n <li>\n  Real-time combat occurs on a tactical screen with an overhead view.\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Fantasy Empires",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/fantasyempires_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Silicon Knights"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/d9d5cfe68031fdfc418a5a613852d9f5d0fd7cfe.jpg?auto=compress,format&w=300&s=57575363f0d96e280205064ab85360ed",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Fantasy Empires",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "deathkeep": {
+    "machine_name": "deathkeep",
+    "youtube_link": "GXcJfHiYQiU",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/deathkeep_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 7.79
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "subtitle_html": null,
+    "description_text": "An evil Necromancer has escaped from his icy prison and is wreaking havoc upon the surrounding lands. Journey to a bleak, frozen wasteland and put an end to the terror!\n<br>\n<br>\n<ul>\n <li>\n  Be prepared to fight your way through over 25 dungeons - each with 8 floors within! Explore icy caverns, three ominous towers and a fantastic final dungeon!\n  <br>\n </li>\n <li>\n  Along the way, you will battle over 30 different monsters - including a variety of Tanar'ri, Mephits and Golems.\n  <br>\n </li>\n <li>\n  Avoid treacherous traps; solve mind boggling puzzles. The ability to jump and fly adds a new dimension to your quest - but be careful not to fall!\n  <br>\n </li>\n <li>\n  The 3D environment means you can look up, down and all around. Everything you view is in natural perspective - including the beasties that want you dead.\n </li>\n</ul>\n<br>\nYou have 3 characters to choose from: a male fighter dwarf, a male half-elf fighter mage, or a female elf mage, each of which give a unique flair to the game. Watch the mood of the game intensify as the cinematics change according to the active character. This is the nostalgia dungeon delving at its best - fast, furious, and fun.\n<br>\n<br>\n<i>DeathKeep</i> will keep you in suspense and terrified for hours!\n",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "DeathKeep",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/deathkeep_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Lion Entertainment"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/43a9e4d23ade10339282c4c7facc6b6bbd0d01c6.jpg?auto=compress,format&w=300&s=771f3ecae479d3b90268eba3a479989a",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "DeathKeep",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "dungeonsdragons_ravenloftseries": {
+    "machine_name": "dungeonsdragons_ravenloftseries",
+    "youtube_link": "Pr-hCMMZ-P8",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/dungeonsdragons_ravenloftseries_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 11.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 11.26
+    },
+    "subtitle_html": null,
+    "description_text": "Step into a world of gothic and Egyptian horror and adventure, set in the campaign setting of Ravenloft. This series of entrancing horrors includes Ravenloft: Strahd's Possession and its sequel, Ravenloft: Stone Prophet.\n<br>\n<br>\n<strong>\n Ravenloft: Strahd's Possession\n</strong>\n<br>\n<i>\n Cordial Greetings from Count Strahd Von Zarovich, Lord of Barovia\n</i>\n<br>\n<br>\nFor many travellers, I have naught but contempt and slight regard, entering Barovia as they do in timid apprehension of her wonders. They are neither prepared for life high in the Balinoks, nor ready to accept its dangers. Here, the peaks of Baratak and Ghakis stand in cloaks of granite, their cowls of snow pulled securely about them as if they alone might endure the ancient night.\n<br>\n<br>\nHowever, your party intrigues me. Perhaps the harsh cut of the wind or a storm in the forest does not alarm you. If that is so, I am certain our woods, streams and caverns will attract your interest, offering many a delightful diversion. Even the otherwise abysmal village of Barovia boasts a charming cemetery. You must visit it. Perhaps, if your party survives... that is, stays long enough in this harsh and unyielding home of mine, I may require its presence. I shall ask you to join me in Ravenloft, my castle upon the precipice overlooking Barovia. It is not an invitation to be refused.\n<br>\n<br>\nI give my leave for your party to enjoy our misty, twilight dangers. Let you challenge your wits and fighting skills; may the perilous magics of my land enchant them. But heed this warning and do not play at cross-purposes with me. To stand against Strahd is to be at odds with life itself, for he who sends these greetings is the Lord and the Law of this brutal paradise.\n<br>\n<br>\n<i>\n With Gentle Regards,\n <br>\n Count Strahd Von Zarovich\n <br>\n Lord of Barovia\n</i>\n<br>\n<br>\n<ul>\n <li>\n  Experience gothic horror role-playing by building and controlling a team of up to four characters\n  <br>\n </li>\n <li>\n  Engage in real-time first-person combat utilizing weapons and magic\n  <br>\n </li>\n <li>\n  Explore the world of Ravenloft and complete varied quests\n </li>\n</ul>\n<br>\n<br>\n<strong>\n Ravenloft: Stone Prophet\n</strong>\n<br>\nThe desert of Har'Akir is ancient beyond belief. Not all of its past is marked by noble deeds and great kings. In ancient days, the evil pharaoh Anhktepot ruled a great and powerful nation. His downfall stemmed from his desire for immortality. Cursed by Ra, the sun god, Anhktepot's soul still remains in his mummified form and brings death to those it touches at night.\n<br>\n<br>\nStone Prophet, begins when your characters become trapped in a wasteland haunted by unnatural creatures, fierce sand storms, and cursed villagers afflicted by a horrible rotting disease. Your party's only hope of escape is to follow the advice of a blind seer and seek out the Stone Prophet, a huge, hieroglyphic wall hidden deep within a mysterious obelisk. Some say the writings on the wall, when deciphered, may lead the party to freedom... or to death. One thing is certain, a great conflict has been foreseen, and the mummy lord is gathering his forces.\n<br>\n<br>\n<ul>\n <li>\n  Enjoy the lore and depth of a Dungeons & Dragons adventure in a gothic and Egyptian setting\n  <br>\n </li>\n <li>\n  Assemble your party and make your way across terrain and through dungeons, using weaponry, magic, brains and brawn\n  <br>\n </li>\n <li>\n  Fight a wide array of horrific creatures and rid Barovia and Har'Akir of the evil manifestations\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Dungeons & Dragons: Ravenloft Series",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/dungeonsdragons_ravenloftseries_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "DreamForge Intertainment"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/58be56ba50b7283d6122d8acdcc42c67625d47d1.jpg?auto=compress,format&w=300&s=1160933cd4e37ed7d39c052418e7fcc8",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Dungeons & Dragons: Ravenloft Series",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "coupon5_poolofradiance_ruinsofmythdrannor": {
+    "machine_name": "coupon5_poolofradiance_ruinsofmythdrannor",
+    "youtube_link": null,
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/displayitems/master_images/poolofradiance_ruinsofmythdrannor_coupon.png",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": "<span data-sheets-root=\"1\">Coming Soon to Humble Bundle and Steam - <a href=\"../../../../store/pool-of-radiance-ruins-of-myth-drannor\" target=\"_blank\" rel=\"noopener\" title=\"Pool of Radiance: Ruins of Myth Drannor\">Wishlist Now</a>!</span>",
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": {
+     "badge": "coupon"
+    },
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price": null,
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "subtitle_html": null,
+    "description_text": "Get 5% off Pool of Radiance: Ruins of Myth Drannor in the Humble Store!<br><br>NOTE: Expires 2 weeks after the game launch date. Does not stack with Humble Store sales.<br><strong class=\"hmb\"><br><br>An unspeakable, ANCIENT EVIL has REAWAKENED, rendering EVERYTHING it touches UNDEAD </strong> <br>\n<p>Malevolence is afoot in the Forgotten Realms world. Something horrific has re-appeared. A new Pool of Radiance has been discovered beneath the city of New Phlan. A wave of pure evil now emanates from the Pool of Radiance, cursing all it touches.</p>\n<p>Swept up by the mystery and enlisted by the good wizard Elminster, your party is charged with a quest: find out what is behind this vile resurgence - and put a stop to it. But be warned, brave hero, for the source of this evil lies in the ruined Elven city of Myth Drannor, one of the most mysterious and dangerous places in the Forgotten Realms.</p>\n<strong class=\"hmb\">THE LEGACY OF AUTHENTIC D&amp;D GAMING CONTINUES </strong> <br>\n<p>Featuring the 3rd Edition of Dungeons &amp; Dragons game rules with different races, classes, spells and over 100 hours of gameplay. Players may choose between the genuine turn-based style of role-playing or focus on action with a timed-turn style of play.</p>\n<strong class=\"hmb\">FEATURES </strong> <br>\n<ul>\n<li>\n<p>Adventure in the ancient city of Myth Drannor and face foes never seen before</p>\n</li>\n<li>\n<p>Features the 3rd Edition Dungeons &amp; Dragons Rules</p>\n</li>\n<li>\n<p>Includes over 90 spells</p>\n</li>\n<li>\n<p>Characters can rise to 16th level of experience and cast 8th level spells</p>\n</li>\n<li>\n<p>Timed-Action Combat system and non-linear quest</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": "images/displayitems/master_images/poolofradiance_ruinsofmythdrannor_coupon.png",
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/displayitems/master_images/poolofradiance_ruinsofmythdrannor_coupon.png",
+    "developers": [
+     {
+      "developer-name": "Stormfront Studios"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": "https://hb.imgix.net/e2f019106de0fe339d2355475e4f8934997b010e.png?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=f4e26ed8995340a9336bcd5bff67b507",
+     "featured_image": "https://hb.imgix.net/e2f019106de0fe339d2355475e4f8934997b010e.png?auto=compress,format&dpr=1&fit=clip&h=177&w=308&s=e248949268ee9d218f83a5eff69f1188",
+     "front_page_art_imgix_retina": "https://hb.imgix.net/e2f019106de0fe339d2355475e4f8934997b010e.png?auto=compress,format&dpr=2&fit=clip&h=177&w=308&s=4f08491a6d8efee6000383fae6627bd5",
+     "preview_image_bonus": "https://hb.imgix.net/e2f019106de0fe339d2355475e4f8934997b010e.png?auto=compress,format&fit=clip&h=200&w=200&s=0f786c72374dbed0488acc4d19217868",
+     "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e2f019106de0fe339d2355475e4f8934997b010e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=b9f31a8ad49c2161e5420cf72981956e",
+     "front_page_art_imgix": "https://hb.imgix.net/e2f019106de0fe339d2355475e4f8934997b010e.png?auto=compress,format&dpr=1&fit=clip&h=177&w=308&s=e248949268ee9d218f83a5eff69f1188",
+     "front_page_art_charity_imgix": "https://hb.imgix.net/e2f019106de0fe339d2355475e4f8934997b010e.png?auto=compress,format&fit=clip&h=80&w=170&s=241eb1e59016d7abf2c586fde4ebd67d",
+     "preview_image": "https://hb.imgix.net/e2f019106de0fe339d2355475e4f8934997b010e.png?auto=compress,format&fit=clip&h=350&w=600&s=d430f11bd955355ae7328475b0afe050"
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "dragonstrike": {
+    "machine_name": "dragonstrike",
+    "youtube_link": "9DktWTeUCjU",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/dragonstrike_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 7.79
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "subtitle_html": null,
+    "description_text": "This FIRST-EVER dragon combat simulator lets you fly the mighty dragons of Krynn into fierce combat!\n<br>\n<br>\nThe War of the Lance has begun! The vile Dragon armies are on the rampage and evil dragons cast long, dark shadows across the lands of Ansalon. All hope for victory lies with the Solamnic Knights, those brave fighters who ride into aerial combat on the backs of their trusty powerful steeds \u2014 the good dragons of Krynn.\n<br>\n<br>\nBut time is short and Evil is spreading. To the skies brave knight \u2014 and victory!\n<br>\n<br>\n<strong>\n BATTLE ENEMY DRAGONS, SHIPS, CASTLES, FLYING CITADELS AND OTHER FLYING CREATURES\n</strong>\n<br>\n<br>\n<ul>\n <li>\n  Witness the enemy dragons as you battle above the lands of Ansalon \u2014 from a first-person viewpoint!\n  <br>\n </li>\n <li>\n  Dragons attack with talons, fangs and deadly breath weapons. Riders may engage the enemy with dragonlances and magical items earned during successful missions.\n  <br>\n </li>\n <li>\n  Progress through three different orders of Solamnic Knighthood, gaining bigger, more powerful dragon mounts.\n  <br>\n </li>\n <li>\n  Master over 20 different missions.\n  <br>\n </li>\n <li>\n  Features a detailed, fractally-generated 3D world with mountains, plains, castles and much more!\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "DragonStrike",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/dragonstrike_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Westwood Associates",
+      "developer-url": "https://strategicsimulationsinc.com/"
+     },
+     {
+      "developer-name": "Strategic Simulations"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/572a3b63ed1ac4503e73d4ba5b496d529c4d64df.jpg?auto=compress,format&w=300&s=c0b298b8089809cd3fba60834bbc2d75",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "DragonStrike",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "dungeonsdragons_darksunseries": {
+    "machine_name": "dungeonsdragons_darksunseries",
+    "youtube_link": "sHw_MuzkwzU",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/dungeonsdragons_darksunseries_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 11.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 11.26
+    },
+    "subtitle_html": null,
+    "description_text": "Unleash your imagination into a vast, savage world, sun-scorched and wind-scraped. This series contains the radiant classics, Dark Sun: Shattered Lands, and Dark Sun: Wake of the Ravager.\n<br>\n<br>\n<strong>\n DARK SUN: SHATTERED LANDS\n</strong>\n<br>\nThe Dark Sun world of Athas is arid and bleak, a wasteland with a handful of cities ruled by thousand-year-old sorcerer-kings. Your party begins as slaves in the city of Draj, destined to die as gladiators in the Arena. You must find a way to escape into the hostile wilderness, join with other escaped slaves and create a rebel force powerful enough to destroy the evil sorcerer-king's army.\n<br>\n<br>\n<ul>\n <li>\n  Build and control a party of four characters\n  <br>\n </li>\n <li>\n  Engage into turn-based tactical battles\n  <br>\n </li>\n <li>\n  Freely explore the Dark Sun world\n  <br>\n </li>\n <li>\n  Solve quests and interact with NPCs\n </li>\n</ul>\n<br>\n<strong>\n DARK SUN: WAKE OF THE RAVAGER\n</strong>\n<br>\nWake of the Ravager, sequel to the mega-hit Shattered Lands, hurls you back to the scorching AD&D Dark Sun game world of Athas. A sun-blasted, wind-scraped wasteland, Athas is home to multitudes of the most horrifically mutated creatures you'll ever encounter! No wonder then that the mighty Dragon of Ur Draxa and his powerful minion, the Lord Warrior, gaze longingly upon this savage paradise: it's the perfect setting for their vile plans! If you think things on Athas couldn't possibly get hotter, think again...\n<br>\n<br>\n<ul>\n <li>\n  Recruit champions of Athas to your cause from various races and classes, including Gladiators, Psionicists and Rangers\n  <br>\n </li>\n <li>\n  Level and customise your party as you traverse the sands of Athas and engage with its denizens\n  <br>\n </li>\n <li>\n  Delve into ancient mysteries and engaging plots on completing your two quests\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Dungeons & Dragons: Dark Sun Series",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/dungeonsdragons_darksunseries_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Strategic Simulations",
+      "developer-url": "https://strategicsimulationsinc.com/"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/8f6926cc853047c02ddbd41b9204d6f01cb3c448.jpg?auto=compress,format&w=300&s=b02a9ca6d7e8d17b150d7ab528ae7186",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Dungeons & Dragons: Dark Sun Series",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "forgottenrealms_thearchives-collectionthree": {
+    "machine_name": "forgottenrealms_thearchives-collectionthree",
+    "youtube_link": "KxWRwhiCAi4",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/forgottenrealms_thearchives-collectionthree_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 6.69
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 7.04
+    },
+    "subtitle_html": null,
+    "description_text": "The Forgotten Realms Archives - Collection Three marks the conclusion of the Archives compilation and a change in development from Strategic Simulations Inc. to Dreamforge Intertainment. As SSI\u2019s swan song to the Forgotten Realms universe, these titles celebrate the elements of the AD&D video games that you know and love - vast dungeons and beautiful locations to explore, a wide variety of monsters to slay, quests to complete, adventurers to assemble and worlds to be saved. These titles were a worthy conclusion to one of role-play gaming\u2019s most defining series and will be a fine addition your games collection. This final collection contains Dungeon Hack and Menzoberranzan.\n<br>\n<br>\n<strong>\n DUNGEON HACK\n</strong>\n<br>\nBuilt using the Eye of the Beholder engine, Dungeon Hack offers a randomly generated, RPG, Dungeon Crawler experience like no other. Explore countless new dungeons in a game that never has to be the same twice. Send your character on quest after quest, down through the many pits, traps, and puzzles that Dungeon Hack has to offer. This game delivers many combinations of play, a variety of magical and non-magical items to be found in each game and a bestiary stocked with over fifty formidable foes! For the more daring among you, Dungeon Hack also offers a Roguelike option, making death a far more definitive conclusion to your adventure.\n<br>\n<br>\n<strong>\n MENZOBERRANZAN\n</strong>\n<br>\nWhile resting in Icewind Dale, members of your party have been captured by the evil Drow. To make matters worse, they have been taken underground, deep to where the Drow reign supreme. Descend and rescue your comrades, but be warned: Your fate and that of the famed Drizzt Do'Urden will become entangled - and your rescue mission will take on a whole new meaning!\n<br>\n<br>\nWelcome to the realm called Underdark and the malevolent city of Menzoberranzan. Prepare yourself for a role-playing epic unlike any you've ever experienced in the Forgotten Realms game world. New monsters abound. New tactics make combat more intense. The ability to levitate and fly add even more excitement to battles! The spectacular sights and sounds of the Menzoberranzan game are exhilarating. This fresh and unique AD&D game promises to be the most challenging role-playing journey through the Forgotten Realms game world yet!\n<br>\n<br>\n<ul>\n <li>\n  A wide variety of monsters to slay, quests to complete and regions to save\n  <br>\n </li>\n <li>\n  Assemble a party of the world\u2019s finest clerics, warriors, thieves and more\n  <br>\n </li>\n <li>\n  Immerse yourself in the depth and richness of Dungeons & Dragons campaigns and the Forgotten Realms Universe\n  <br>\n </li>\n <li>\n  Hours of replayability with Dungeon Hack\u2019s randomly generated dungeons\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Forgotten Realms: The Archives - Collection Three",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/forgottenrealms_thearchives-collectionthree_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "DreamForge Intertainment"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/1ef1f20191348d670fa0b867ae48638e75ca401c.jpg?auto=compress,format&w=300&s=5c9c36e2dc72b4d8360b28b0bd6810fb",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Forgotten Realms: The Archives - Collection Three",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "spelljammer_piratesofrealmspace": {
+    "machine_name": "spelljammer_piratesofrealmspace",
+    "youtube_link": "tXiBf4vGizg",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/spelljammer_piratesofrealmspace_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 12.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 11.26
+    },
+    "subtitle_html": null,
+    "description_text": "SOLAR WINDS CARESS your face as mystic powers propel the majestic galleon through the atmosphere and into the ether of Realmspace. Gazing beyond the deck, you are overwhelmed by the beauty of the receding planet Toril, home of the Forgotten Realms. \"Ship insight!\" a lookout calls. The dreaded snail silhouette of a neogi warship eclipses the planet and rapidly closes to attack. You turn the massive ship toward the intruder and call out to your officers and crew, \"Man your station! Enemy off the port bow!\"\n<br>\n<br>\nCaptain your own Spelljammer ship in PIRATES OF REALMSPACE.\n<br>\nRecruit officers and crew to man your magical ship. Soar into the ether and explore the planets of Realmspace.\n<br>\n<br>\nEmbark on adventurous missions - deliver precious cargo, pursue pirates - to build your reputation as a Spelljammer captain. Ultimately, discover the terrible conspiracy that threatens to conquer Realmspace itself!\n<br>\n<br>\n<ul>\n <li>\n  <strong>\n   SPACE COMBAT\n  </strong>\n  . Sail through space in a spectacular, first-person flight simulator. Engage enemy ships in real-time combat. Fire huge bolts from your ship's ballista and bring the enemy to heel!\n  <br>\n </li>\n <li>\n  <strong>\n   BOARDING COMBAT\n  </strong>\n  . Move to close range, engage your grapples and board the enemy ship! Phased tactical combat gives you direct control over all your officers and crew as they use weapons and cast spells.\n  <br>\n </li>\n <li>\n  <strong>\n   GREAT GAMEPLAY.\n  </strong>\n  Point-and-click to control all of the action and adventure. Superb graphics and sound effects heighten the drama. With new planets to visit and innumerable missions to fulfil, every adventure will be different than the last! Three levels of play make this game ideal for both the novice and experienced space mariner.\n  <br>\n </li>\n <li>\n  <strong>\n   NOSTALGY 3D GRAPHICS\n  </strong>\n  . See fabulous mystical ships crewed by exotic creatures. Spelljam through wildspace filled with ship-crushing asteroids. Find the jewelled planets that await you.\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Spelljammer: Pirates of Realmspace",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/spelljammer_piratesofrealmspace_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Cybertech"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/61ae06ea32d0ac067d88e180586b6a9f138565be.jpg?auto=compress,format&w=300&s=b3404933d3d5520047cba90824a89930",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Spelljammer: Pirates of Realmspace",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "dungeonsdragons_dragonshard": {
+    "machine_name": "dungeonsdragons_dragonshard",
+    "youtube_link": "SQE6IWuUM-w",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/dungeonsdragons_dragonshard_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": null,
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 12.99
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.9
+    },
+    "subtitle_html": null,
+    "description_text": "<p><i> Originally released in 2005, Dragonshard </i> \u2122 <i> returns in a respectful re\u2011release that quietly modernises the classic: modern\u2011resolution support, localisation\u2011friendly saves and profiles, smoother timers and physics, ASLR compatibility, and other under\u2011the\u2011hood fixes for a cleaner experience on today\u2019s PCs. </i></p>\n<p>Dragonshard\u2122 is a real-time strategy experience based in the mystical world of Eberron, the acclaimed DUNGEONS &amp; DRAGONS\u00ae realm. Within this wholly imaginative setting lives an inventive gameplay fusion: dramatic RTS play is affected by the risks and rewards of a thrilling RPG-styled underworld. As players direct troops over the land, they also plunge smaller, hero-led parties below ground to an RPG-modeled world of beasts, battles and bounty. Experience and items gained in this underworld result in great powers and abilities above ground. Using magic, weaponry and skilled maneuvers, players command armies from varying races to control, protect - or destroy - the powerful Heart of Siberys. Obtaining this omnipotent artifact will unleash its full forces, good or evil, upon the entire world.</p>\n<ul>\n<li>\n<p>The first DUNGEONS &amp; DRAGONS\u00ae Real-Time Strategy Experience</p>\n</li>\n<li>\n<p>DUNGEONS &amp; DRAGONS\u00ae game from the Eberron campaign setting</p>\n</li>\n<li>\n<p>Game design with two levels of interconnected action: RTS war above ground and critical RPG-styled battles in dungeons below</p>\n</li>\n<li>\n<p>Four ranges of controllable units: powerful champions, heroic captains, trainable henchmen, and nearly unstoppable battlefield juggernauts</p>\n</li>\n<li>\n<p>Unit development based on 'Experience Points', allowing players to \"level up\" units - an added RPG twist to the classic RTS gameplay structure</p>\n</li>\n<li>\n<p>An innovative village grid system - the \"Nexus System\" - where choice and placement of buildings can specifically affect units' powers</p>\n</li>\n<li>\n<p>Three warring factions, each with its own history, campaigns, unique strengths... and weaknesses.</p>\n</li>\n<li>\n<p>Game story by Eberron creator Keith Baker</p>\n</li>\n<li>\n<p>A variety of threatening environments, all with the \"Hyper Terrain\" feature, creating real-time terrain deformation in the wake of unit movements</p>\n</li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Dungeons & Dragons: Dragonshard",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": null,
+    "developers": [
+     {
+      "developer-name": "Liquid Entertainment"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "front_page_art_charity_imgix": null,
+     "featured_image": "https://hb.imgix.net/5bad8fa79d903e060093988bb591cf93b8a33b76.jpg?auto=compress,format&dpr=1&fit=clip&h=177&w=308&s=f26cdc603c54f052d1011046883ad172",
+     "front_page_art_imgix_retina": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Dungeons & Dragons: Dragonshard",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   },
+   "forgottenrealms_thearchives-collectiontwo": {
+    "machine_name": "forgottenrealms_thearchives-collectiontwo",
+    "youtube_link": "QVz5eGeoQWQ",
+    "item_content_type": "game",
+    "soundtrack_listing": {
+     "hide_listing": null,
+     "tracks": []
+    },
+    "user_ratings": {},
+    "limited_content": null,
+    "availability_icons": {
+     "platform_icons": [
+      "hb-windows"
+     ],
+     "human_names": {
+      "hb-windows": "Windows",
+      "hb-linux": "Linux",
+      "hb-steam": "Steam",
+      "hb-osx": "Mac"
+     },
+     "delivery_to_platform": {
+      "hb-steam": {
+       "available": [
+        "hb-windows"
+       ],
+       "unavailable": [
+        "hb-osx",
+        "hb-linux"
+       ]
+      }
+     },
+     "preamble": {
+      "available": "Redeem for",
+      "unavailable": "not available",
+      "hb-steam": "Redeem for"
+     },
+     "delivery_icons": [
+      "hb-steam"
+     ],
+     "platform_to_delivery": {
+      "hb-windows": {
+       "available": [
+        "hb-steam"
+       ],
+       "unavailable": []
+      },
+      "hb-linux": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      },
+      "hb-osx": {
+       "available": [],
+       "unavailable": [
+        "hb-steam"
+       ]
+      }
+     }
+    },
+    "featured_image": "images/storefront/master_images/forgottenrealms_thearchives-collectiontwo_storefront.jpg",
+    "ppgf_info": {},
+    "is_region_locked": false,
+    "exclusive_countries": [],
+    "display_user_ratings": "hide_ratings",
+    "rating_details": "",
+    "front_page_art_enabled": true,
+    "rating_info": null,
+    "callout": null,
+    "subscribe_text": null,
+    "all_ratings": {
+     "rar-rating": null,
+     "esrb-rating": null,
+     "pegi-rating": null,
+     "oflc-nz-rating": null,
+     "oflc-au-rating": null,
+     "usk-rating": null
+    },
+    "cta_badge": null,
+    "book_preview": null,
+    "publishers": [
+     {
+      "publisher-name": "SNEG"
+     }
+    ],
+    "show_rating": null,
+    "side_box_art_text": null,
+    "third_party_subscribe_text": null,
+    "msrp_price|money": {
+     "currency": "CAD",
+     "amount": 11.49
+    },
+    "min_price|money": {
+     "currency": "CAD",
+     "amount": 16.9
+    },
+    "subtitle_html": null,
+    "description_text": "The Forgotten Realm Archives - Collection Two brings a healthy mix of \u201cGold Box\u201d and nostalgia goodness to your PC, along with a combination of adventure builders, turn-based and real-time role-playing gameplay. Composed of RPG classics that premiered the Forgotten Realms to video gamers, The Forgotten Realm Archives - Collection Two contains the following titles: Pool of Radiance, Curse of the Azure Bonds, Hillsfar, Secret of the Silver Blades, Pools of Darkness, Gateway to the Savage Frontier, Treasures of the Savage Frontier, Forgotten Realms Unlimited Adventures.\n<br>\n<br>\n<strong>\n POOL OF RADIANCE\n</strong>\n<br>\nLocated on the northern shore of the Moonsea, the fabled city of Phlan has been overrun by monsters led by a mysterious leader. Your quest: uncover the identity of this evil force and rid Phlan of its scourge, restoring the city to its former glory. Along the way, you hope to find the legendary Pool of Radiance, said to glow with its own mystical power. Does it really give tremendous strength to the warrior who bathes in its magic waters? Or is that just an elfin myth? Before you meet the challenges ahead, you must create your characters and choose their races and battle skills. Then, set off on your glorious quest to drive out the monsters and let civilization reign once more!\n<br>\n<br>\n<strong>\n CURSE OF THE AZURE BONDS\n</strong>\n<br>\nAfter you saved the entire city of Phlan and located the Pool of Radiance, a simple trip to Tilverton should have been as easy as a noon-day stroll. But it wasn\u2019t\u2026 Ambushed, captured and knocked unconscious, you awake with no idea who attacked you or how you arrived in Tilverton. You only know that five azure-blue symbols are imprinted under the skin of your right arm. The mystical power of the azure symbols ensnares your will like metal bonds! And when the bonds glow, you must do as they command, No magic can dispel them, no prayers can remove them. Your only hope: search the world for members of the alliance who created the bonds and regain control of your own destiny. Only then can you be free of the Curse of the Azure Bonds.\n<br>\n<br>\n<strong>\n HILLSFAR\n</strong>\n<br>\nEvery visit to Hillsfar is a different, exhilarating experience. Explore the city, meet its colorful denizens on the streets or in pubs and discover a quest. Your quest will keep you constantly on the move. Fight in the arena against raging minotaurs, ill-tempered orcs or insulted swordsmen. Enter different buildings and utilize your maze-running and lock-picking skills. Archery and equestrian events may also be part of your overall quest. Think and move fast - these mini-games happen in real-time. For adventure, there is no place like Hillsfar.\n<br>\n<br>\n<strong>\n SECRET OF THE SILVER BLADES\n</strong>\n<br>\nThe frigid valleys of the Dragonspine Mountains echo with the desperate plea of terrified miners: \"Heroes of the Forgotten Realms, save us from evil!\" Unwittingly digging in unhallowed ground, they have disturbed an ancient vault and released its terrible content. Scores of horrific creatures now infest the mine shaft -- and threaten to escape into the world above! You and your heroes must find the way to contain this scourge. All hope depends upon your ability to unravel the age-old mysteries surrounding this vile infestation.\n<br>\n<br>\n<strong>\n POOLS OF DARKNESS\n</strong>\n<br>\nThe Final Challenge. The Ultimate Enemy. First there was Pool of Radiance. Next came Curse of the Azure Bonds. Then followed Secret of the Silver Blades. Now, the epic has come full circle - Pools of Darkness takes you back to the Moonsea region for the final battle against the ultimate enemy. Prepare yourself for the biggest adventure yet as you are propelled into alternate dimensions on an enormous quest. And, it boasts a fully evolved version of the award-winning game system used throughout the series. Transfer your characters from Secret of the Silver Blades with levels, money and items intact, or create new characters! Either way, you\u2019re in for some high-level action! Battle monsters never before encountered. Cast powerful new spells. Achieve character levels above the 25th level!\n<br>\n<br>\n<strong>\n GATEWAY TO THE SAVAGE FRONTIER\n</strong>\n<br>\nEnter the foreboding lands of an area never before explored in a computer fantasy RPG: the Savage Frontier! Sail the Trackless Sea; conquer the heights of the Lost Peaks; brave the ruins of Ascore, guardian of the Great Desert; visit magical Silvermoon - and much, much more! Your quest: halt the murderous conspiracy of dark invaders from afar. Your only hope is to uncover the ancient mystical items of power to destroy the malignant invasion! Gateway to the Savage Frontier is based on an enhanced version of the award-winning game system used in Pool of Radiance, Curse of the Azure Bonds and Secret of the Silver Blades. Now you get the freedom to make the story happen the way you want! Plus, an all-new wilderness style adds new exploration and excitement to outdoor adventure! How can you resist? The Savage Frontier awaits!\n<br>\n<br>\n<strong>\n TREASURES OF THE SAVAGE FRONTIER\n</strong>\n<br>\nThe explosive sequel to Gateway to the Savage Frontier is here to put your will and discipline to the test. You mission is truly daunting: save the Savage Frontier from a cataclysmic war, free Llorkh from its evil captors, and regain a powerful magical item lost since ancient times! This big, bold adventure will leave you reeling! The award-winning game system used throughout SSI\u2019s famous gold-box series continues to evolve - new features abound! Movement and combat are now subject to the unpredictable effects of weather. Players can now interact with NPCs - the can even have romances! Plus, in some situations, combat reinforcement can give you extra help just when you need it most. And with the Savage Frontier teetering on the brink of all-out war, you can be sure that this feature will be put to good use! Transfer your characters from Gateway to the Savage Frontier or create new 5th level ones. You\u2019ll find much more to explore - and the freedom to explore it the way you want - as the Heroes of Ascore attempt the impossible yet again!\n<br>\n<br>\n<strong>\n FORGOTTEN REALMS UNLIMITED ADVENTURES\n</strong>\n<br>\nHave you ever wanted to break the chains and design your own AD&D adventure scenarios? Well, this is your chance to do it in the incredible Forgotten Realms universe. Build maps with the easy-to-use grid screen and link them with teleporters, doorways and stairwells. Choose your characters from the massive bank of 112 monsters and multiple non-player characters. Design the dungeons of your dreams and test them as you go with a point-and-click interface that makes errors gone forever. Test your mettle by playing a pre-created scenario, \u201cThe Heirs to Skull Crag\u201d with four separate quests to solve. Should you choose, you can even modify this ready-to-go adventure. With all these tools at your fingertips, the possibilities are endless.\n<br>\n<br>\nEach Forgotten Realms classic brings its own unique flare and adventure for you to enjoy, ranging from turn-based to real-time combat, a wide variety of locations to explore, various classes and races to recruit to your party, treasure to loot, and quests and secrets to complete and uncover.\n<br>\n<br>\n<ul>\n <li>\n  An assorted collection of the \u201cPool of Radiance\u201d and \u201cSavage Frontier\u201d Forgotten Realms titles\n </li>\n</ul>\n<ul>\n <li>\n  A wide variety of monsters to slay, quests to complete and regions to save\n </li>\n</ul>\n<ul>\n <li>\n  Assemble a party of the world\u2019s finest Clerics, Warriors, Thieves and more, and bring them with you through their respective storylines\n </li>\n</ul>\n<ul>\n <li>\n  Immerse yourself in the depth and richness of Dungeons & Dragons campaigns and the Forgotten Realms Universe\n </li>\n</ul>",
+    "user_ratings_css_class": "none",
+    "wide_hero_art": false,
+    "front_page_art": {
+     "image_path": null,
+     "title": null,
+     "resolved_paths": {},
+     "image_text": "Forgotten Realms: The Archives - Collection Two",
+     "link": null,
+     "badge_info": {
+      "badge_tooltip": null,
+      "badge_number": null,
+      "badge_type": null
+     }
+    },
+    "preview_image": "images/popups/forgottenrealms_thearchives-collectiontwo_slideout.jpg",
+    "developers": [
+     {
+      "developer-name": "Stormfront Studios",
+      "developer-url": "https://strategicsimulationsinc.com/"
+     },
+     {
+      "developer-name": "Strategic Simulations"
+     }
+    ],
+    "is_clickable": true,
+    "platforms_and_oses": {
+     "game": {
+      "steam": [
+       "windows"
+      ]
+     }
+    },
+    "resolved_paths": {
+     "preview_image_bonus_retina": null,
+     "featured_image": "https://hb.imgix.net/004574e273f1933ef2eae3f028eb85fe024c6b36.jpg?auto=compress,format&w=300&s=c9c9f88a57be55adb1434d70be3eb2ae",
+     "front_page_art_imgix_retina": null,
+     "preview_image_bonus": null,
+     "front_page_art_charity_imgix_retina": null,
+     "front_page_art_imgix": null,
+     "front_page_art_charity_imgix": null,
+     "preview_image": null
+    },
+    "disallowed_countries": [],
+    "front_page_url": null,
+    "tall_hero_art": false,
+    "human_name": "Forgotten Realms: The Archives - Collection Two",
+    "is_mystery_box": null,
+    "payee_secondary_id": "",
+    "wallet_credit": {}
+   }
+  },
+  "splits": [
+   {
+    "partner_split|decimal": 0.6,
+    "name": "SNEG",
+    "extra_charity_partner_split|decimal": 0.525,
+    "extra_charity_split|decimal": 0.575,
+    "sibling_split|decimal": 0.65,
+    "class": "sneg_d7qUB"
+   },
+   {
+    "partner_split|decimal": 0.05,
+    "name": "American Humane Society",
+    "extra_charity_partner_split|decimal": 0.15,
+    "extra_charity_split|decimal": 0.15,
+    "secondary_id": "55174",
+    "sibling_split|decimal": 0.05,
+    "class": "paypalgivingfund"
+   },
+   {
+    "partner_split|decimal": 0.2,
+    "name": "Humble Tip",
+    "extra_charity_partner_split|decimal": 0.175,
+    "extra_charity_split|decimal": 0.275,
+    "minimum_split|decimal": 0.15,
+    "sibling_split|decimal": 0.3,
+    "class": "humblebundle"
+   }
+  ],
+  "upsell_data": {
+   "monthly_v2_premium": {
+    "category": "subscriptionplan",
+    "image_url": "https://hb.imgix.net/dbff2288ba058d5ab35f145358617bcf487a6c6e.png?auto=compress,format&fit=crop&h=353&w=616&s=b73537cf9c1f7b9d7afcd3188cdfb1ff",
+    "machine_name": "monthly_v2_premium",
+    "description": "",
+    "discount_percentage|decimal": 5.0,
+    "full_price|money": {
+     "currency": "CAD",
+     "amount": 17.99
+    },
+    "renewal_date|datetime": "2026-09-29T17:00:00",
+    "subscription_content_product": "august_2026_choice",
+    "active_content_end_time|datetime": "2026-09-01T17:00:00",
+    "disallow_subscription_discount": null,
+    "subscription_credits": 1,
+    "human_name": "Month-to-Month Plan",
+    "current_price|money": {
+     "currency": "CAD",
+     "amount": 17.09
+    },
+    "active_content_start_time|datetime": "2026-08-04T17:00:00"
+   }
+  },
+  "statistics_data": {
+   "total_charity_raised|money": {
+    "currency": "CAD",
+    "amount": 17818.0
+   },
+   "num_purchases|decimal": 8947.0
+  },
+  "charity_data": {
+   "charity_items": {
+    "americanhumanesociety": {
+     "machine_name": "americanhumanesociety",
+     "youtube_link": null,
+     "item_content_type": null,
+     "soundtrack_listing": {
+      "hide_listing": null,
+      "tracks": []
+     },
+     "user_ratings": {},
+     "limited_content": null,
+     "availability_icons": null,
+     "featured_image": null,
+     "ppgf_info": {
+      "category": "Animals",
+      "city": "Washington",
+      "description": "Founded in 1877, American Humane is committed to ensuring the safety, welfare and well-being of animals. Our leadership programs are first to serve in promoting and nurturing the bonds between animals and humans.",
+      "url": "http://www.americanhumane.org",
+      "country": "US",
+      "charity_id": "55174",
+      "state": "DC",
+      "keywords": "animals, animal welfare, animal protection, rescue, military, veterans",
+      "human_name": "American Humane",
+      "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FYWY5MmJkOWUtMDU2Yy00ZTZkLWJiNTAtNDM0YzYzNDE4YTg5%2Ffile.JPG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=b4a8f547f1b53a4d451546d0d05394fe"
+     },
+     "is_region_locked": false,
+     "exclusive_countries": [],
+     "display_user_ratings": null,
+     "rating_details": "",
+     "front_page_art_enabled": true,
+     "rating_info": null,
+     "callout": null,
+     "subscribe_text": null,
+     "all_ratings": {
+      "rar-rating": null,
+      "esrb-rating": null,
+      "pegi-rating": null,
+      "oflc-nz-rating": null,
+      "oflc-au-rating": null,
+      "usk-rating": null
+     },
+     "cta_badge": null,
+     "book_preview": null,
+     "publishers": [],
+     "show_rating": null,
+     "side_box_art_text": null,
+     "third_party_subscribe_text": null,
+     "msrp_price": null,
+     "subtitle_html": null,
+     "description_text": "<p><em>Donations to support American Humane Society are made to&nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.</em><br><br><strong>American Humane Society</strong> is the nation\u2019s first national humane organization and the world\u2019s largest certifier of animal welfare, helping ensure the humane treatment of more than one billion animals worldwide each year. Founded in 1877, American Humane Society has led nearly every major advancement in the humane movement, working to rescue, care for, and protect animals across the globe.</p>",
+     "user_ratings_css_class": "none",
+     "wide_hero_art": false,
+     "front_page_art": {
+      "image_path": "images/charities/CharityLogos/americanhumanesociety.png",
+      "title": null,
+      "resolved_paths": {},
+      "image_text": "American Humane Society",
+      "link": null,
+      "badge_info": {
+       "badge_tooltip": null,
+       "badge_number": null,
+       "badge_type": null
+      }
+     },
+     "preview_image": "images/charities/CharityLogos/americanhumanesociety.png",
+     "developers": [
+      {
+       "developer-name": "American Humane Society",
+       "developer-url": "https://www.americanhumane.org/what-we-do/"
+      }
+     ],
+     "is_clickable": true,
+     "platforms_and_oses": {},
+     "resolved_paths": {
+      "preview_image_bonus_retina": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=439efb844e216ac03e605ad678513e32",
+      "featured_image": null,
+      "front_page_art_imgix_retina": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=7d4783c48e61c84da425aeec6d094d1c",
+      "preview_image_bonus": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&fit=clip&h=200&w=200&s=28b88bf5aba709ea6bb1c3cdaef2f513",
+      "front_page_art_charity_imgix_retina": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=136f32a225da1f5666e3a60506411e6f",
+      "front_page_art_imgix": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&fit=clip&h=240&w=180&s=a9095a27c4b11dbdf029fb1c25c3f877",
+      "front_page_art_charity_imgix": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&fit=clip&h=80&w=170&s=c53f7e5cb4c24b0b6d41a7872dc417ad",
+      "preview_image": "https://hb.imgix.net/d53f1c5fcfb65b32580e595ba1a109d263c4f01d.png?auto=compress,format&fit=clip&h=350&w=600&s=5dec5e64a5064c371563bdea768f9ae8"
+     },
+     "disallowed_countries": [],
+     "front_page_url": null,
+     "tall_hero_art": false,
+     "human_name": "American Humane Society",
+     "is_mystery_box": null,
+     "payee_secondary_id": "55174",
+     "wallet_credit": {}
+    }
+   },
+   "header": "",
+   "charity_item_machine_names": [
+    "americanhumanesociety"
+   ]
+  },
+  "page_url": "games/dungeons-dragons-classics-collection-2026"
+ }
+}

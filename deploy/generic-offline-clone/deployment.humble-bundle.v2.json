@@ -1,0 +1,33 @@
+{
+  "schema_version": "websitebench.generic-public-clone-deployment.v2",
+  "source_dir": "materials/humble-bundle/clone",
+  "backend_runtime": "materials/humble-bundle/backend/runtime.json",
+  "deployment_profile": "cloudflare-review",
+  "runtime": {
+    "command": [
+      "python",
+      "-m",
+      "uvicorn",
+      "app:app",
+      "--host",
+      "0.0.0.0",
+      "--port",
+      "10000",
+      "--log-level",
+      "warning"
+    ],
+    "port": 10000,
+    "health_path": "/healthz",
+    "python_requirements": [
+      "fastapi==0.139.2",
+      "uvicorn==0.51.0"
+    ],
+    "support_paths": []
+  },
+  "cloudflare": {
+    "worker_name": "websitebench-humble-bundle-demo",
+    "compatibility_date": "2026-08-14",
+    "instance_type": "basic",
+    "max_instances": 1
+  }
+}

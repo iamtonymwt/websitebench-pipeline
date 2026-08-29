@@ -1,0 +1,856 @@
+{
+ "run": {
+  "target": "https://www.humblebundle.com",
+  "out_root": "/Users/wentaoma/Desktop/websitebench-pipeline/materials/humble-bundle/source-current/2026-08-20.humble-bundle-r1",
+  "started_utc": "2026-08-20T22:44:37+00:00",
+  "browser_version": "149.0.7827.55",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+  "preflight": {
+   "status": 200,
+   "challenged": false
+  },
+  "headless": false,
+  "mode": "embedded-only",
+  "locale": "en-US",
+  "workers": 3,
+  "viewports": [
+   "desktop",
+   "mobile"
+  ],
+  "base_settle_ms": 3500,
+  "notes": [
+   "contexts are ephemeral; cookies/session state never persisted",
+   "request/response headers never saved",
+   "analytics/consent/captcha hosts route-blocked on www cells (not on support-home)"
+  ],
+  "finished_utc": "2026-08-20T22:44:55+00:00",
+  "cells_ok": 46,
+  "cells_failed": 0
+ },
+ "cells": {
+  "home/desktop": {
+   "id": "home",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=6"
+   ],
+   "duration_ms": 8624
+  },
+  "bundles/desktop": {
+   "id": "bundles",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/bundles",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/bundles",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=10"
+   ],
+   "duration_ms": 9597
+  },
+  "games/desktop": {
+   "id": "games",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/games",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/games",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=4"
+   ],
+   "duration_ms": 8098
+  },
+  "books/desktop": {
+   "id": "books",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/books",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/books",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=5"
+   ],
+   "duration_ms": 7516
+  },
+  "bundle-anchor/desktop": {
+   "id": "bundle-anchor",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=5"
+   ],
+   "duration_ms": 8245
+  },
+  "software/desktop": {
+   "id": "software",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/software",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/software",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=5"
+   ],
+   "duration_ms": 8253
+  },
+  "bundle-2k/desktop": {
+   "id": "bundle-2k",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/games/2k-megahits-2026-bundle",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/games/2k-megahits-2026-bundle",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=4"
+   ],
+   "duration_ms": 6920
+  },
+  "store-search/desktop": {
+   "id": "store-search",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/store/search?search=portal",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/store/search?search=portal",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=2"
+   ],
+   "duration_ms": 6404
+  },
+  "store/desktop": {
+   "id": "store",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/store",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/store",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=9"
+   ],
+   "duration_ms": 9007
+  },
+  "store-search-noresults/desktop": {
+   "id": "store-search-noresults",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/store/search?search=zzzz-no-match-websitebench",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/store/search?search=zzzz-no-match-websitebench",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=1",
+    "no-results-copy: 0 Results"
+   ],
+   "duration_ms": 5715
+  },
+  "store-product-satisfactory/desktop": {
+   "id": "store-product-satisfactory",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/store/satisfactory",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/store/satisfactory",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=3"
+   ],
+   "duration_ms": 6494
+  },
+  "login/desktop": {
+   "id": "login",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/login",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/login",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=1"
+   ],
+   "duration_ms": 5556
+  },
+  "membership/desktop": {
+   "id": "membership",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/membership",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/membership",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=6"
+   ],
+   "duration_ms": 7412
+  },
+  "signup/desktop": {
+   "id": "signup",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/signup",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/signup",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=1"
+   ],
+   "duration_ms": 5572
+  },
+  "about/desktop": {
+   "id": "about",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/about",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/about",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=6"
+   ],
+   "duration_ms": 7135
+  },
+  "charities/desktop": {
+   "id": "charities",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/charities",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/charities",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=4"
+   ],
+   "duration_ms": 6603
+  },
+  "terms/desktop": {
+   "id": "terms",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/terms",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/terms",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=18"
+   ],
+   "duration_ms": 10447
+  },
+  "legal/desktop": {
+   "id": "legal",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/legal",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/legal",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=1"
+   ],
+   "duration_ms": 6120
+  },
+  "privacy/desktop": {
+   "id": "privacy",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/privacy",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/privacy",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=26"
+   ],
+   "duration_ms": 12436
+  },
+  "accessibility/desktop": {
+   "id": "accessibility",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/accessibility",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/accessibility",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=2"
+   ],
+   "duration_ms": 5826
+  },
+  "cookie-policy/desktop": {
+   "id": "cookie-policy",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/cookie-policy",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/cookie-policy",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=3"
+   ],
+   "duration_ms": 6324
+  },
+  "support-home/desktop": {
+   "id": "support-home",
+   "viewport": "desktop",
+   "url": "https://support.humblebundle.com/hc/en-us",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://support.humblebundle.com/hc/en-us",
+   "notes": [
+    "sweep_steps=1"
+   ],
+   "duration_ms": 6983
+  },
+  "notfound-404/desktop": {
+   "id": "notfound-404",
+   "viewport": "desktop",
+   "url": "https://www.humblebundle.com/this-page-does-not-exist-websitebench",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 404,
+   "final_url": "https://www.humblebundle.com/this-page-does-not-exist-websitebench",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=2",
+    "notfound-status=404 copy='THE PAGE YOU REQUESTED CANNOT BE FOUND\\n\\nThis could be because the page has moved, no longer exists, or you typed in the wrong URL. If you believe this page is missing, please file a support ticket so we can investigate the problem. \\nHumble Support Link'"
+   ],
+   "duration_ms": 7639
+  },
+  "home/mobile": {
+   "id": "home",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=12"
+   ],
+   "duration_ms": 9742
+  },
+  "games/mobile": {
+   "id": "games",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/games",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/games",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=8"
+   ],
+   "duration_ms": 10202
+  },
+  "books/mobile": {
+   "id": "books",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/books",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/books",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=10"
+   ],
+   "duration_ms": 9485
+  },
+  "bundles/mobile": {
+   "id": "bundles",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/bundles",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/bundles",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=24"
+   ],
+   "duration_ms": 15796
+  },
+  "software/mobile": {
+   "id": "software",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/software",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/software",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=12"
+   ],
+   "duration_ms": 11220
+  },
+  "bundle-anchor/mobile": {
+   "id": "bundle-anchor",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=5"
+   ],
+   "duration_ms": 9612
+  },
+  "bundle-2k/mobile": {
+   "id": "bundle-2k",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/games/2k-megahits-2026-bundle",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/games/2k-megahits-2026-bundle",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=5"
+   ],
+   "duration_ms": 7312
+  },
+  "store-search-noresults/mobile": {
+   "id": "store-search-noresults",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/store/search?search=zzzz-no-match-websitebench",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/store/search?search=zzzz-no-match-websitebench",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=1",
+    "no-results-copy: 0 Results"
+   ],
+   "duration_ms": 5661
+  },
+  "store-search/mobile": {
+   "id": "store-search",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/store/search?search=portal",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/store/search?search=portal",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=9"
+   ],
+   "duration_ms": 9101
+  },
+  "store/mobile": {
+   "id": "store",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/store",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/store",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=30"
+   ],
+   "duration_ms": 16770
+  },
+  "store-product-satisfactory/mobile": {
+   "id": "store-product-satisfactory",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/store/satisfactory",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/store/satisfactory",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=5"
+   ],
+   "duration_ms": 10243
+  },
+  "membership/mobile": {
+   "id": "membership",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/membership",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/membership",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=8"
+   ],
+   "duration_ms": 10802
+  },
+  "login/mobile": {
+   "id": "login",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/login",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/login",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=2"
+   ],
+   "duration_ms": 6159
+  },
+  "signup/mobile": {
+   "id": "signup",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/signup",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/signup",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=2"
+   ],
+   "duration_ms": 5921
+  },
+  "about/mobile": {
+   "id": "about",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/about",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/about",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=7"
+   ],
+   "duration_ms": 7410
+  },
+  "charities/mobile": {
+   "id": "charities",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/charities",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/charities",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=4"
+   ],
+   "duration_ms": 6558
+  },
+  "legal/mobile": {
+   "id": "legal",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/legal",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/legal",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=2"
+   ],
+   "duration_ms": 6095
+  },
+  "terms/mobile": {
+   "id": "terms",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/terms",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/terms",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=45"
+   ],
+   "duration_ms": 18659
+  },
+  "cookie-policy/mobile": {
+   "id": "cookie-policy",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/cookie-policy",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/cookie-policy",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=7"
+   ],
+   "duration_ms": 7460
+  },
+  "privacy/mobile": {
+   "id": "privacy",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/privacy",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/privacy",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=40"
+   ],
+   "duration_ms": 16604
+  },
+  "accessibility/mobile": {
+   "id": "accessibility",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/accessibility",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://www.humblebundle.com/accessibility",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=3"
+   ],
+   "duration_ms": 6339
+  },
+  "support-home/mobile": {
+   "id": "support-home",
+   "viewport": "mobile",
+   "url": "https://support.humblebundle.com/hc/en-us",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 200,
+   "final_url": "https://support.humblebundle.com/hc/en-us",
+   "notes": [
+    "sweep_steps=2"
+   ],
+   "duration_ms": 6922
+  },
+  "notfound-404/mobile": {
+   "id": "notfound-404",
+   "viewport": "mobile",
+   "url": "https://www.humblebundle.com/this-page-does-not-exist-websitebench",
+   "status": "ok",
+   "attempts": 1,
+   "reason": null,
+   "http_status": 404,
+   "final_url": "https://www.humblebundle.com/this-page-does-not-exist-websitebench",
+   "notes": [
+    "analytics/consent/captcha hosts route-blocked",
+    "sweep_steps=4",
+    "notfound-status=404 copy='THE PAGE YOU REQUESTED CANNOT BE FOUND\\n\\nThis could be because the page has moved, no longer exists, or you typed in the wrong URL. If you believe this page is missing, please file a support ticket so we can investigate the problem. \\nHumble Support Link'"
+   ],
+   "duration_ms": 8599
+  }
+ },
+ "assets": {
+  "url_count": 416,
+  "unique_blobs_added_this_run": 0,
+  "unique_blob_bytes_added_this_run": 0,
+  "blob_count_on_disk": 420,
+  "blob_bytes_on_disk": 14025389,
+  "read_errors": 0,
+  "skipped_over_15mb": 0
+ },
+ "harvest": {
+  "files": {
+   "bundle-yes-chef-cooking-bundle.json": {
+    "source": "raw pre-hydration HTML of https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+    "script_id": "webpack-bundle-page-data",
+    "bytes": 173968,
+    "items": null,
+    "status": "extracted"
+   },
+   "bundle-2k-megahits-2026-bundle.json": {
+    "source": "raw pre-hydration HTML of https://www.humblebundle.com/games/2k-megahits-2026-bundle",
+    "script_id": "webpack-bundle-page-data",
+    "bytes": 161257,
+    "items": null,
+    "status": "extracted"
+   },
+   "bundles-landing.json": {
+    "source": "raw pre-hydration HTML of https://www.humblebundle.com/bundles",
+    "script_id": "landingPage-json-data",
+    "bytes": 243117,
+    "items": null,
+    "status": "extracted"
+   },
+   "search-portal-p0.json": {
+    "status": "http-200",
+    "bytes": 35033,
+    "items": 20
+   },
+   "search-portal-p1.json": {
+    "status": "http-200",
+    "bytes": 15443,
+    "items": 9
+   },
+   "category-adventure-p0.json": {
+    "status": "http-200",
+    "bytes": 35478,
+    "items": 20
+   },
+   "category-adventure-p1.json": {
+    "status": "http-200",
+    "bytes": 35036,
+    "items": 20
+   },
+   "product-detail-1.json": {
+    "status": "http-200",
+    "bytes": 192731,
+    "items": 20
+   },
+   "product-detail-2.json": {
+    "status": "http-200",
+    "bytes": 198340,
+    "items": 20
+   },
+   "product-detail-3.json": {
+    "status": "http-200",
+    "bytes": 211331,
+    "items": 20
+   },
+   "product-detail-4.json": {
+    "status": "http-200",
+    "bytes": 109492,
+    "items": 9
+   },
+   "observed-endpoints.json": {
+    "status": "written"
+   }
+  },
+  "observed_store_api_requests": [
+   "https://www.humblebundle.com/store/api/search?sort=bestselling&filter=all&search=portal&request=1&page=0"
+  ],
+  "search_params_used": {
+   "sort": "bestselling",
+   "filter": "all",
+   "search": "portal",
+   "request": "1",
+   "page": "0"
+  },
+  "page_size": "20",
+  "chosen_genre": "adventure",
+  "genre_enum": [
+   "rpg",
+   "indie",
+   "vr",
+   "simulation",
+   "strategy",
+   "adventure",
+   "action",
+   "racing"
+  ],
+  "genre_enum_source": "raw pre-hydration HTML of /store (storefront-constants-json-data) at /FEATURED_GENRES",
+  "lookup_works": true,
+  "product_slug_count": 69,
+  "notes": [
+   "search params taken from a request the page itself issued",
+   "storefront-constants-json-data not found (live page or static DOMs)",
+   "genre enum unavailable; falling back to literal 'adventure'",
+   "hydration removes embedded json-data scripts from the live DOM; extracted them from raw pre-hydration HTML instead (JS-disabled, read-only public GET page loads)"
+  ]
+ },
+ "findings": {
+  "no_results_copy": "0 Results",
+  "notfound_404": {
+   "http_status": 404,
+   "visible_copy": "THE PAGE YOU REQUESTED CANNOT BE FOUND\n\nThis could be because the page has moved, no longer exists, or you typed in the wrong URL. If you believe this page is missing, please file a support ticket so we can investigate the problem. \nHumble Support Link"
+  },
+  "support_home": {
+   "support-home/desktop": {
+    "status": "ok",
+    "http_status": 200,
+    "reason": null
+   },
+   "support-home/mobile": {
+    "status": "ok",
+    "http_status": 200,
+    "reason": null
+   }
+  }
+ },
+ "sanitization": {
+  "csrf_redactions_in_html": 6,
+  "csrf_redactions_in_json": 9,
+  "policy": "values of any key matching /csrf/i replaced with REDACTED-CSRF-TOKEN; no cookies, tokens or request/response headers saved"
+ }
+}

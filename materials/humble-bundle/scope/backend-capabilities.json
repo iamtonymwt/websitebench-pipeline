@@ -1,0 +1,48 @@
+{
+ "backend_profile": "full",
+ "capabilities": [
+  {
+   "applicability": "in-scope",
+   "id": "accounts",
+   "rationale": "register/login/logout observed (/signup, /login, secureArea gate on /home/*); T09/T10/T16/T17"
+  },
+  {
+   "applicability": "in-scope",
+   "id": "password-recovery",
+   "rationale": "in-page Password Reset flow on /login observed (T18); local OTP/link via outbox"
+  },
+  {
+   "applicability": "in-scope",
+   "id": "transactional-mail",
+   "rationale": "signup verification + purchase receipts implied; clone uses LOCAL_ONLY outbox, no real mail"
+  },
+  {
+   "applicability": "in-scope",
+   "id": "orders",
+   "rationale": "purchases/receipts/library-keys surfaces (T14/T19) seeded + created by clone checkout"
+  },
+  {
+   "applicability": "in-scope",
+   "id": "checkout",
+   "rationale": "task-671 core flow: bundle at custom price -> cart -> checkout review/confirmation (T13/T23)"
+  },
+  {
+   "applicability": "in-scope",
+   "id": "payments",
+   "rationale": "local-sandbox scenarios only (approved/declined/retryable); no stripe-test; guard rejects payment-shaped keys"
+  },
+  {
+   "applicability": "in-scope",
+   "id": "database",
+   "rationale": "catalog subset (69 products, 2 full bundles, 57 listing), users, carts, orders, wishlist, keys"
+  },
+  {
+   "id": "uploads",
+   "applicability": "not-applicable",
+   "rationale": "no upload surface observed anywhere in scope"
+  }
+ ],
+ "runtime_required": true,
+ "schema_version": "offline-clone.contribution-backend-scope.v1",
+ "site_id": "humble-bundle"
+}

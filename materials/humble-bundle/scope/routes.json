@@ -1,0 +1,324 @@
+{
+  "schema_version": "offline-clone.routes.v1",
+  "routes": [
+    {
+      "id": "home",
+      "route_pattern": "/",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "loaded",
+        "search-suggest"
+      ]
+    },
+    {
+      "id": "bundles",
+      "route_pattern": "/bundles",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "games",
+      "route_pattern": "/games",
+      "priority": "p1",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "books",
+      "route_pattern": "/books",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "software",
+      "route_pattern": "/software",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "bundle-anchor",
+      "route_pattern": "/games/yes-chef-cooking-bundle",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "loaded",
+        "custom15",
+        "tier2",
+        "split-open",
+        "split-custom"
+      ]
+    },
+    {
+      "id": "bundle-2k",
+      "route_pattern": "/games/2k-megahits-2026-bundle",
+      "priority": "p1",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "store",
+      "route_pattern": "/store",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "store-search",
+      "route_pattern": "/store/search",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "results",
+        "no-results",
+        "filtered",
+        "sorted"
+      ]
+    },
+    {
+      "id": "store-product",
+      "route_pattern": "/store/{product_slug}",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "membership",
+      "route_pattern": "/membership",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "login",
+      "route_pattern": "/login",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "loaded",
+        "forgot-password",
+        "error",
+        "secure-area-redirect"
+      ]
+    },
+    {
+      "id": "signup",
+      "route_pattern": "/signup",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "loaded",
+        "validation-error"
+      ]
+    },
+    {
+      "id": "about",
+      "route_pattern": "/about",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "charities",
+      "route_pattern": "/charities",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "terms",
+      "route_pattern": "/terms",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "privacy",
+      "route_pattern": "/privacy",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "legal",
+      "route_pattern": "/legal",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "cookie-policy",
+      "route_pattern": "/cookie-policy",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "accessibility",
+      "route_pattern": "/accessibility",
+      "priority": "p2",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "notfound-404",
+      "route_pattern": "/{unknown_path}",
+      "priority": "p1",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "not-found"
+      ]
+    },
+    {
+      "id": "support-home",
+      "route_pattern": "/support",
+      "priority": "p1",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "support-category",
+      "route_pattern": "/support/categories/{category_id}",
+      "priority": "p1",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "support-article",
+      "route_pattern": "/support/articles/{article_id}",
+      "priority": "p1",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "loaded"
+      ]
+    },
+    {
+      "id": "cart-drawer",
+      "route_pattern": "/(client cart drawer overlay)",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "empty",
+        "populated",
+        "item-removed"
+      ]
+    },
+    {
+      "id": "checkout",
+      "route_pattern": "/checkout",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "entry",
+        "review",
+        "payment-declined",
+        "confirmation"
+      ]
+    },
+    {
+      "id": "account-library",
+      "route_pattern": "/home/library",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "populated",
+        "empty"
+      ]
+    },
+    {
+      "id": "account-purchases",
+      "route_pattern": "/home/purchases",
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "local_destination": true,
+      "states": [
+        "populated"
+      ]
+    },
+    {
+      "id": "account-keys",
+      "route_pattern": "/home/keys",
+      "priority": "p1",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "populated"
+      ]
+    },
+    {
+      "id": "wishlist",
+      "route_pattern": "/(wishlist surface; exact route pending handoff)",
+      "priority": "p1",
+      "purpose_edge": "secondary",
+      "local_destination": true,
+      "states": [
+        "populated",
+        "empty"
+      ]
+    }
+  ]
+}

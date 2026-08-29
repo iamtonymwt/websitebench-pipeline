@@ -1,0 +1,1266 @@
+{
+ "schema_version": "offline-clone.checkpoints.v1",
+ "status": "draft",
+ "site_id": "humble-bundle",
+ "capture_id": "2026-08-20.humble-bundle-r1",
+ "viewports": {
+  "desktop": {
+   "width": 1440,
+   "height": 900
+  },
+  "mobile": {
+   "width": 390,
+   "height": 844
+  }
+ },
+ "metric": "pixel-mae-similarity-v1",
+ "calibration_spec": "scope/visual-calibration-spec.json",
+ "freeze_decision": "calibrated 2026-08-20: 18 stable + 2 masked; bundles.desktop/games.desktop/store-search.desktop source-limited (entrance animation) -> reference-evidence-only; auth/cart/checkout interiors pending handoff",
+ "topology_note": "static cells from headed chromium matrix run (46/46); interactive states desktop headed MCP Chrome; auth/cart/checkout interiors pending handoff",
+ "checkpoints": [
+  {
+   "id": "home.loaded.desktop",
+   "route_id": "home",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/home/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/home/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9861
+   }
+  },
+  {
+   "id": "home.loaded.mobile",
+   "route_id": "home",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/home/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/home/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9947
+   }
+  },
+  {
+   "id": "bundles.loaded.desktop",
+   "route_id": "bundles",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/bundles/desktop",
+   "reference_only": true,
+   "reference_note": "source entrance-animation instability (calibration source-limited); frames retained as reference evidence"
+  },
+  {
+   "id": "bundles.loaded.mobile",
+   "route_id": "bundles",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/bundles/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/bundles/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "games.loaded.desktop",
+   "route_id": "games",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/games/desktop",
+   "reference_only": true,
+   "reference_note": "source entrance-animation instability (calibration source-limited); frames retained as reference evidence"
+  },
+  {
+   "id": "games.loaded.mobile",
+   "route_id": "games",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/games/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/games/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "books.loaded.desktop",
+   "route_id": "books",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/books/desktop"
+  },
+  {
+   "id": "books.loaded.mobile",
+   "route_id": "books",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/books/mobile"
+  },
+  {
+   "id": "software.loaded.desktop",
+   "route_id": "software",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/software/desktop"
+  },
+  {
+   "id": "software.loaded.mobile",
+   "route_id": "software",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/software/mobile"
+  },
+  {
+   "id": "bundle-anchor.loaded.desktop",
+   "route_id": "bundle-anchor",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/bundle-anchor/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/bundle-anchor/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9882
+   }
+  },
+  {
+   "id": "bundle-anchor.loaded.mobile",
+   "route_id": "bundle-anchor",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/bundle-anchor/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/bundle-anchor/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "bundle-2k.loaded.desktop",
+   "route_id": "bundle-2k",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/bundle-2k/desktop"
+  },
+  {
+   "id": "bundle-2k.loaded.mobile",
+   "route_id": "bundle-2k",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/bundle-2k/mobile"
+  },
+  {
+   "id": "store.loaded.desktop",
+   "route_id": "store",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/store/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/store/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.98
+   }
+  },
+  {
+   "id": "store.loaded.mobile",
+   "route_id": "store",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/store/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/store/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9947
+   }
+  },
+  {
+   "id": "store-search.results.desktop",
+   "route_id": "store-search",
+   "state": "results",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/store-search/desktop",
+   "reference_only": true,
+   "reference_note": "source entrance-animation instability (calibration source-limited); frames retained as reference evidence"
+  },
+  {
+   "id": "store-search.results.mobile",
+   "route_id": "store-search",
+   "state": "results",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/store-search/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/store-search/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "store-search-noresults.no-results.desktop",
+   "route_id": "store-search",
+   "state": "no-results",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/store-search-noresults/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/store-search-noresults/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9945
+   }
+  },
+  {
+   "id": "store-search-noresults.no-results.mobile",
+   "route_id": "store-search",
+   "state": "no-results",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/store-search-noresults/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/store-search-noresults/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9943
+   }
+  },
+  {
+   "id": "store-product-satisfactory.loaded.desktop",
+   "route_id": "store-product",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/store-product-satisfactory/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/store-product-satisfactory/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9927
+   },
+   "mask_note": "threshold lowered by worst-case live-countdown digit impact (see scope/visual-calibration-notes.json)",
+   "clone_path": "/store/satisfactory"
+  },
+  {
+   "id": "store-product-satisfactory.loaded.mobile",
+   "route_id": "store-product",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/store-product-satisfactory/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/store-product-satisfactory/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9927
+   },
+   "mask_note": "threshold lowered by worst-case live-countdown digit impact (see scope/visual-calibration-notes.json)",
+   "clone_path": "/store/satisfactory"
+  },
+  {
+   "id": "membership.loaded.desktop",
+   "route_id": "membership",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/membership/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/membership/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "membership.loaded.mobile",
+   "route_id": "membership",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/membership/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/membership/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "login.loaded.desktop",
+   "route_id": "login",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/login/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/login/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "login.loaded.mobile",
+   "route_id": "login",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/login/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/login/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "signup.loaded.desktop",
+   "route_id": "signup",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/signup/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/signup/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.9949
+   }
+  },
+  {
+   "id": "signup.loaded.mobile",
+   "route_id": "signup",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/signup/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/signup/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   }
+  },
+  {
+   "id": "about.loaded.desktop",
+   "route_id": "about",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/about/desktop"
+  },
+  {
+   "id": "about.loaded.mobile",
+   "route_id": "about",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/about/mobile"
+  },
+  {
+   "id": "charities.loaded.desktop",
+   "route_id": "charities",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/charities/desktop"
+  },
+  {
+   "id": "charities.loaded.mobile",
+   "route_id": "charities",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/charities/mobile"
+  },
+  {
+   "id": "terms.loaded.desktop",
+   "route_id": "terms",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/terms/desktop"
+  },
+  {
+   "id": "terms.loaded.mobile",
+   "route_id": "terms",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/terms/mobile"
+  },
+  {
+   "id": "privacy.loaded.desktop",
+   "route_id": "privacy",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/privacy/desktop"
+  },
+  {
+   "id": "privacy.loaded.mobile",
+   "route_id": "privacy",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/privacy/mobile"
+  },
+  {
+   "id": "legal.loaded.desktop",
+   "route_id": "legal",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/legal/desktop"
+  },
+  {
+   "id": "legal.loaded.mobile",
+   "route_id": "legal",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/legal/mobile"
+  },
+  {
+   "id": "cookie-policy.loaded.desktop",
+   "route_id": "cookie-policy",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/cookie-policy/desktop"
+  },
+  {
+   "id": "cookie-policy.loaded.mobile",
+   "route_id": "cookie-policy",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/cookie-policy/mobile"
+  },
+  {
+   "id": "accessibility.loaded.desktop",
+   "route_id": "accessibility",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/accessibility/desktop"
+  },
+  {
+   "id": "accessibility.loaded.mobile",
+   "route_id": "accessibility",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p2",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/accessibility/mobile"
+  },
+  {
+   "id": "notfound-404.not-found.desktop",
+   "route_id": "notfound-404",
+   "state": "not-found",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/notfound-404/desktop",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/notfound-404/desktop/frame-1/screenshot.png",
+    "viewport": {
+     "width": 1440,
+     "height": 900
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 1440,
+     "height": 900
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   },
+   "clone_path": "/this-page-does-not-exist-websitebench"
+  },
+  {
+   "id": "notfound-404.not-found.mobile",
+   "route_id": "notfound-404",
+   "state": "not-found",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": true,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/notfound-404/mobile",
+   "visual_contract": {
+    "source_artifact_path": "source-current/calibration/frames/notfound-404/mobile/frame-1/screenshot.png",
+    "viewport": {
+     "width": 390,
+     "height": 844
+    },
+    "comparison_region": {
+     "x": 0,
+     "y": 0,
+     "width": 390,
+     "height": 844
+    },
+    "metric": "pixel-mae-similarity-v1",
+    "threshold": 0.995
+   },
+   "clone_path": "/this-page-does-not-exist-websitebench"
+  },
+  {
+   "id": "support-home.loaded.desktop",
+   "route_id": "support-home",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/support-home/desktop"
+  },
+  {
+   "id": "support-home.loaded.mobile",
+   "route_id": "support-home",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "mobile",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/static/support-home/mobile"
+  },
+  {
+   "id": "bundle-anchor.custom15.desktop",
+   "route_id": "bundle-anchor",
+   "state": "custom15",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/interactive/bundle-anchor-custom15"
+  },
+  {
+   "id": "bundle-anchor.tier2.desktop",
+   "route_id": "bundle-anchor",
+   "state": "tier2",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/interactive/bundle-anchor-tier2"
+  },
+  {
+   "id": "bundle-anchor.split-open.desktop",
+   "route_id": "bundle-anchor",
+   "state": "split-open",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/interactive/bundle-anchor-split-open"
+  },
+  {
+   "id": "bundle-anchor.split-custom.desktop",
+   "route_id": "bundle-anchor",
+   "state": "split-custom",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/interactive/bundle-anchor-split-custom"
+  },
+  {
+   "id": "login.forgot-password.desktop",
+   "route_id": "login",
+   "state": "forgot-password",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/interactive/login-forgot-password"
+  },
+  {
+   "id": "home.search-suggest.desktop",
+   "route_id": "home",
+   "state": "search-suggest",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/interactive/home-search-suggest"
+  },
+  {
+   "id": "support-category.loaded.desktop",
+   "route_id": "support-category",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/interactive/support-category",
+   "clone_path": "/support/categories/200166394"
+  },
+  {
+   "id": "support-article.loaded.desktop",
+   "route_id": "support-article",
+   "state": "loaded",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "direct",
+   "pixel_oracle_candidate": true,
+   "acceptance_eligible": false,
+   "capture_id": "2026-08-20.humble-bundle-r1",
+   "source_cell": "source-current/2026-08-20.humble-bundle-r1/interactive/support-article",
+   "clone_path": "/support/articles/52764568066971"
+  },
+  {
+   "id": "cart-drawer.empty.desktop",
+   "route_id": "cart-drawer",
+   "state": "empty",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)",
+   "clone_path": "/"
+  },
+  {
+   "id": "cart-drawer.populated.desktop",
+   "route_id": "cart-drawer",
+   "state": "populated",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)",
+   "clone_path": "/"
+  },
+  {
+   "id": "cart-drawer.item-removed.desktop",
+   "route_id": "cart-drawer",
+   "state": "item-removed",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)",
+   "clone_path": "/"
+  },
+  {
+   "id": "checkout.entry.desktop",
+   "route_id": "checkout",
+   "state": "entry",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "checkout.review.desktop",
+   "route_id": "checkout",
+   "state": "review",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "checkout.payment-declined.desktop",
+   "route_id": "checkout",
+   "state": "payment-declined",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "checkout.confirmation.desktop",
+   "route_id": "checkout",
+   "state": "confirmation",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "account-library.populated.desktop",
+   "route_id": "account-library",
+   "state": "populated",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "account-library.empty.desktop",
+   "route_id": "account-library",
+   "state": "empty",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "account-purchases.populated.desktop",
+   "route_id": "account-purchases",
+   "state": "populated",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "account-keys.populated.desktop",
+   "route_id": "account-keys",
+   "state": "populated",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "wishlist.populated.desktop",
+   "route_id": "wishlist",
+   "state": "populated",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)",
+   "clone_path": "/home/wishlist"
+  },
+  {
+   "id": "wishlist.empty.desktop",
+   "route_id": "wishlist",
+   "state": "empty",
+   "role": "account-holder",
+   "viewport": "desktop",
+   "priority": "p2",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)",
+   "clone_path": "/home/wishlist"
+  },
+  {
+   "id": "signup.validation-error.desktop",
+   "route_id": "signup",
+   "state": "validation-error",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "login.error.desktop",
+   "route_id": "login",
+   "state": "error",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p1",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  },
+  {
+   "id": "login.secure-area-redirect.desktop",
+   "route_id": "login",
+   "state": "secure-area-redirect",
+   "role": "visitor",
+   "viewport": "desktop",
+   "priority": "p0",
+   "evidence_kind": "unavailable",
+   "pixel_oracle_candidate": false,
+   "acceptance_eligible": false,
+   "capture_id": null,
+   "note": "pending authenticated handoff walk (tc-001/ht-001)"
+  }
+ ]
+}

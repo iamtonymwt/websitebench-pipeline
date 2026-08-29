@@ -1,0 +1,357 @@
+{
+ "schema_note": "site-local summary of websitebench.offline-clone.visual-diff.v1 runs",
+ "authority": "diagnostic-only",
+ "tool": "websitebench-offline-clone tools visual-diff",
+ "scope": "every checkpoint x viewport cell whose clone-vs-source similarity is below 0.99",
+ "source_frames": "source-current/2026-08-20.humble-bundle-r1/static/<cell>/<viewport>/screenshot.png",
+ "candidate_frames": "captured by tools/audit_visual_diff.py (offscreen headed, capture-identical rendering)",
+ "findings": {
+  "external-embed": "store-product-satisfactory desktop: the largest region is content 740x430 at (150,264) — exactly the featured-media slot where the source embeds an external video trailer the clone fills with its poster. Known difference.",
+  "source-motion": "store-search, games, bundles, books and software desktop cells are dominated by texture regions across their tile grids: the source plays a staggered entrance animation, which three-frame calibration already marked source-limited.",
+  "text-rendering": "the remaining cells (login, signup, accessibility, about, legal, bundle-2k, store-search-noresults mobile) carry distributed texture regions with no single dominant contributor. The largest contiguous region on mobile login and signup is a 13px strip at the right edge (a scrollbar); excluding that strip moves similarity by only 0.0016, confirming the residual is distributed sub-pixel text rendering rather than a layout or content difference."
+ },
+ "cells": [
+  {
+   "checkpoint": "about",
+   "viewport": "mobile",
+   "ssim": 0.9445,
+   "normalized_mae": 0.0118,
+   "changed_pixel_ratio": 0.026,
+   "region_count": 17,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 148,
+     "y": 702,
+     "width": 72,
+     "height": 147
+    },
+    "area_pixels": 1486
+   }
+  },
+  {
+   "checkpoint": "accessibility",
+   "viewport": "mobile",
+   "ssim": 0.9212,
+   "normalized_mae": 0.0217,
+   "changed_pixel_ratio": 0.0401,
+   "region_count": 33,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 81,
+     "y": 1172,
+     "width": 159,
+     "height": 18
+    },
+    "area_pixels": 600
+   }
+  },
+  {
+   "checkpoint": "books",
+   "viewport": "desktop",
+   "ssim": 0.8019,
+   "normalized_mae": 0.0306,
+   "changed_pixel_ratio": 0.0766,
+   "region_count": 43,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 967,
+     "y": 658,
+     "width": 362,
+     "height": 104
+    },
+    "area_pixels": 12436
+   }
+  },
+  {
+   "checkpoint": "bundle-2k",
+   "viewport": "mobile",
+   "ssim": 0.9511,
+   "normalized_mae": 0.0125,
+   "changed_pixel_ratio": 0.0292,
+   "region_count": 4,
+   "largest_region": {
+    "kind": "content",
+    "bbox": {
+     "x": 356,
+     "y": 797,
+     "width": 19,
+     "height": 25
+    },
+    "area_pixels": 231
+   }
+  },
+  {
+   "checkpoint": "bundles",
+   "viewport": "desktop",
+   "ssim": 0.854,
+   "normalized_mae": 0.0214,
+   "changed_pixel_ratio": 0.0519,
+   "region_count": 52,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 635,
+     "y": 619,
+     "width": 204,
+     "height": 72
+    },
+    "area_pixels": 6416
+   }
+  },
+  {
+   "checkpoint": "games",
+   "viewport": "desktop",
+   "ssim": 0.8515,
+   "normalized_mae": 0.022,
+   "changed_pixel_ratio": 0.0533,
+   "region_count": 52,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 635,
+     "y": 619,
+     "width": 204,
+     "height": 72
+    },
+    "area_pixels": 6415
+   }
+  },
+  {
+   "checkpoint": "legal",
+   "viewport": "mobile",
+   "ssim": 0.9539,
+   "normalized_mae": 0.0119,
+   "changed_pixel_ratio": 0.0225,
+   "region_count": 19,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 164,
+     "y": 1367,
+     "width": 239,
+     "height": 21
+    },
+    "area_pixels": 2093
+   }
+  },
+  {
+   "checkpoint": "login",
+   "viewport": "desktop",
+   "ssim": 0.9019,
+   "normalized_mae": 0.0182,
+   "changed_pixel_ratio": 0.0363,
+   "region_count": 27,
+   "largest_region": {
+    "kind": "color",
+    "bbox": {
+     "x": 0,
+     "y": 735,
+     "width": 1439,
+     "height": 3
+    },
+    "area_pixels": 5760
+   }
+  },
+  {
+   "checkpoint": "login",
+   "viewport": "mobile",
+   "ssim": 0.8791,
+   "normalized_mae": 0.0234,
+   "changed_pixel_ratio": 0.0517,
+   "region_count": 36,
+   "largest_region": {
+    "kind": "content",
+    "bbox": {
+     "x": 762,
+     "y": 140,
+     "width": 13,
+     "height": 665
+    },
+    "area_pixels": 9304
+   }
+  },
+  {
+   "checkpoint": "signup",
+   "viewport": "desktop",
+   "ssim": 0.9308,
+   "normalized_mae": 0.0108,
+   "changed_pixel_ratio": 0.0272,
+   "region_count": 21,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 0,
+     "y": 70,
+     "width": 1439,
+     "height": 603
+    },
+    "area_pixels": 5661
+   }
+  },
+  {
+   "checkpoint": "signup",
+   "viewport": "mobile",
+   "ssim": 0.885,
+   "normalized_mae": 0.0212,
+   "changed_pixel_ratio": 0.0503,
+   "region_count": 29,
+   "largest_region": {
+    "kind": "content",
+    "bbox": {
+     "x": 762,
+     "y": 140,
+     "width": 13,
+     "height": 687
+    },
+    "area_pixels": 9608
+   }
+  },
+  {
+   "checkpoint": "software",
+   "viewport": "desktop",
+   "ssim": 0.8095,
+   "normalized_mae": 0.0306,
+   "changed_pixel_ratio": 0.0751,
+   "region_count": 60,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 526,
+     "y": 654,
+     "width": 387,
+     "height": 100
+    },
+    "area_pixels": 14625
+   }
+  },
+  {
+   "checkpoint": "store-product-satisfactory",
+   "viewport": "desktop",
+   "ssim": 0.7149,
+   "normalized_mae": 0.0867,
+   "changed_pixel_ratio": 0.2786,
+   "region_count": 47,
+   "largest_region": {
+    "kind": "content",
+    "bbox": {
+     "x": 150,
+     "y": 264,
+     "width": 740,
+     "height": 430
+    },
+    "area_pixels": 310239
+   }
+  },
+  {
+   "checkpoint": "store-product-satisfactory",
+   "viewport": "mobile",
+   "ssim": 0.9261,
+   "normalized_mae": 0.0223,
+   "changed_pixel_ratio": 0.0601,
+   "region_count": 13,
+   "largest_region": {
+    "kind": "content",
+    "bbox": {
+     "x": 30,
+     "y": 1604,
+     "width": 719,
+     "height": 83
+    },
+    "area_pixels": 59847
+   }
+  },
+  {
+   "checkpoint": "store-search-noresults",
+   "viewport": "desktop",
+   "ssim": 0.8592,
+   "normalized_mae": 0.0222,
+   "changed_pixel_ratio": 0.0501,
+   "region_count": 12,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 150,
+     "y": 229,
+     "width": 1139,
+     "height": 37
+    },
+    "area_pixels": 9234
+   }
+  },
+  {
+   "checkpoint": "store-search-noresults",
+   "viewport": "mobile",
+   "ssim": 0.9169,
+   "normalized_mae": 0.0217,
+   "changed_pixel_ratio": 0.0429,
+   "region_count": 56,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 0,
+     "y": 284,
+     "width": 779,
+     "height": 618
+    },
+    "area_pixels": 15560
+   }
+  },
+  {
+   "checkpoint": "store-search",
+   "viewport": "desktop",
+   "ssim": 0.6968,
+   "normalized_mae": 0.0576,
+   "changed_pixel_ratio": 0.1463,
+   "region_count": 99,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 438,
+     "y": 370,
+     "width": 274,
+     "height": 160
+    },
+    "area_pixels": 21035
+   }
+  },
+  {
+   "checkpoint": "store-search",
+   "viewport": "mobile",
+   "ssim": 0.7368,
+   "normalized_mae": 0.0615,
+   "changed_pixel_ratio": 0.1535,
+   "region_count": 107,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 30,
+     "y": 1531,
+     "width": 719,
+     "height": 156
+    },
+    "area_pixels": 37663
+   }
+  },
+  {
+   "checkpoint": "store",
+   "viewport": "desktop",
+   "ssim": 0.8937,
+   "normalized_mae": 0.0181,
+   "changed_pixel_ratio": 0.0506,
+   "region_count": 41,
+   "largest_region": {
+    "kind": "texture",
+    "bbox": {
+     "x": 222,
+     "y": 643,
+     "width": 615,
+     "height": 163
+    },
+    "area_pixels": 9457
+   }
+  }
+ ]
+}

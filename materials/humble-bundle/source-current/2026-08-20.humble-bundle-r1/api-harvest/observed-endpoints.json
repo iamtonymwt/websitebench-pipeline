@@ -1,0 +1,41 @@
+{
+ "observed_store_api_requests": [
+  "https://www.humblebundle.com/store/api/search?sort=bestselling&filter=all&search=portal&request=1&page=0"
+ ],
+ "search_endpoint": {
+  "path": "/store/api/search",
+  "params_template": {
+   "sort": "bestselling",
+   "filter": "all",
+   "search": "portal",
+   "request": "1",
+   "page": "0"
+  },
+  "page_param": "page",
+  "page_size": "20"
+ },
+ "chosen_genre": "adventure",
+ "genre_enum": [
+  "rpg",
+  "indie",
+  "vr",
+  "simulation",
+  "strategy",
+  "adventure",
+  "action",
+  "racing"
+ ],
+ "genre_enum_source": "raw pre-hydration HTML of /store (storefront-constants-json-data) at /FEATURED_GENRES",
+ "lookup_endpoint": {
+  "path": "/store/api/lookup",
+  "pattern": "/store/api/lookup?products[]=<slug>&products[]=<slug>...&request=1",
+  "works": true
+ },
+ "notes": [
+  "search params taken from a request the page itself issued",
+  "storefront-constants-json-data not found (live page or static DOMs)",
+  "genre enum unavailable; falling back to literal 'adventure'",
+  "hydration removes embedded json-data scripts from the live DOM; extracted them from raw pre-hydration HTML instead (JS-disabled, read-only public GET page loads)"
+ ],
+ "ts_utc": "2026-08-20T22:39:17+00:00"
+}

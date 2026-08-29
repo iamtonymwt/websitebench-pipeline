@@ -1,0 +1,323 @@
+{
+  "schema_version": "offline-clone.journeys.v1",
+  "journeys": [
+    {
+      "id": "core-671",
+      "actor": "account-holder",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open an active game bundle from /bundles",
+        "Enter custom price $15 (tier engine shows unlocked items)",
+        "Add to cart / proceed",
+        "Register account (email+password)",
+        "Reach checkout review reflecting bundle, $15 and totals",
+        "Complete sandbox payment to confirmation (clone-side)"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "entry-nav",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Load home",
+        "Use primary nav to reach Bundles/Store",
+        "Verify destination heading and canonical path"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "browse",
+      "actor": "visitor",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open /bundles",
+        "Filter Games/Books/Software",
+        "Open a store category"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "search",
+      "actor": "visitor",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Search 'portal' from header",
+        "Open store search results",
+        "Apply genre/platform/DRM filters"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "sort-compare",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Sort results (bestselling/discount/alphabetical/newest)",
+        "Open two product details",
+        "Compare price/platform/rating"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "detail",
+      "actor": "visitor",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open /store/satisfactory",
+        "Inspect gallery, description, specs, price, availability, rating"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "tiers",
+      "actor": "visitor",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open anchor bundle",
+        "Select preset tiers and enter custom amounts",
+        "Observe unlocked item set, per-item locks, charity split rows"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "tiers-below-floor",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "failure",
+      "status": "draft",
+      "steps": [
+        "Enter amount below CA$9.71 floor",
+        "Observe floor messaging/rejection"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "wishlist",
+      "actor": "account-holder",
+      "priority": "p1",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Save a product to wishlist",
+        "Open wishlist and verify persistence"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "register",
+      "actor": "visitor",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open /signup",
+        "Submit email+password",
+        "Complete verification step",
+        "Land signed in"
+      ],
+      "family": "auth"
+    },
+    {
+      "id": "register-invalid",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "failure",
+      "status": "draft",
+      "steps": [
+        "Submit invalid email / short password",
+        "Observe inline validation"
+      ],
+      "family": "auth"
+    },
+    {
+      "id": "login-logout",
+      "actor": "account-holder",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Sign in from /login",
+        "Verify signed-in state",
+        "Sign out"
+      ],
+      "family": "auth"
+    },
+    {
+      "id": "login-wrong-password",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "failure",
+      "status": "draft",
+      "steps": [
+        "Submit wrong password",
+        "Observe error state"
+      ],
+      "family": "auth"
+    },
+    {
+      "id": "password-recovery",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open forgot-password in-page flow on /login",
+        "Verify email field + guidance + return path"
+      ],
+      "family": "auth"
+    },
+    {
+      "id": "cart",
+      "actor": "visitor",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Add bundle to cart",
+        "Open cart drawer",
+        "Remove item",
+        "Restore/undo"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "delivery-gift",
+      "actor": "account-holder",
+      "priority": "p1",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "At checkout choose digital delivery vs gift option"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "checkout-promo-declined",
+      "actor": "account-holder",
+      "priority": "p1",
+      "kind": "failure",
+      "status": "draft",
+      "steps": [
+        "Apply promo/gift option",
+        "Use declined sandbox scenario",
+        "Observe failure + retry path"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "library-keys",
+      "actor": "account-holder",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open /home/library with seeded purchases",
+        "Inspect keys/downloads",
+        "Open /home/purchases receipts"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "history-manage",
+      "actor": "account-holder",
+      "priority": "p0",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open newest seeded purchase",
+        "Inspect status/detail/options",
+        "Route back to collection"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "no-results",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Search zzzz-no-match-websitebench",
+        "Verify '0 Results' + route back"
+      ],
+      "family": "core"
+    },
+    {
+      "id": "validation-permissions",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "failure",
+      "status": "draft",
+      "steps": [
+        "Open /home/library signed out",
+        "Verify redirect to /login?goto=...reason=secureArea"
+      ],
+      "family": "auth"
+    },
+    {
+      "id": "help",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "success",
+      "status": "draft",
+      "steps": [
+        "Open support home",
+        "Open a category and an article"
+      ],
+      "family": "auth"
+    },
+    {
+      "id": "not-found",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "recovery",
+      "status": "draft",
+      "steps": [
+        "Open unknown deep link",
+        "Verify branded 404 + nav back"
+      ],
+      "family": "auth"
+    },
+    {
+      "id": "checkout-retry-recovery",
+      "actor": "account-holder",
+      "priority": "p1",
+      "kind": "recovery",
+      "status": "draft",
+      "family": "core",
+      "steps": [
+        "Place an order with the retryable sandbox scenario and observe the retry message",
+        "Confirm the cart survived and no purchase was created",
+        "Retry with the approved scenario and reach the confirmation"
+      ]
+    },
+    {
+      "id": "login-recovery",
+      "actor": "visitor",
+      "priority": "p1",
+      "kind": "recovery",
+      "status": "draft",
+      "family": "auth",
+      "steps": [
+        "Fail sign-in with a wrong password and read the inline error",
+        "Open the in-page password reset flow from the same view",
+        "Complete the reset and land signed in"
+      ]
+    }
+  ]
+}
