@@ -69,7 +69,7 @@
     top: 22px;
 }
 #promoModal .promo-header:before {
-    content: url(//images.monoprice.com/cms_images/MP_Email_Popup_Image.jpg);
+    content: url(/static/assets/images.monoprice.com/cms_images/MP_Email_Popup_Image.jpg);
 }
 .promo-modal-title {
     padding-left: 36px;

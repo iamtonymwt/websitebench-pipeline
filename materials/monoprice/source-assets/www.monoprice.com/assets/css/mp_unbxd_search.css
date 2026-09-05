@@ -2046,7 +2046,7 @@ min-height: 222px;
 }
 
 .hawk-rating {
-    background-image: url("//images.monoprice.com/starsnew.jpg");
+    background-image: url("/static/assets/images.monoprice.com/starsnew.jpg");
     background-repeat: no-repeat;
     cursor: pointer;
     display: block;

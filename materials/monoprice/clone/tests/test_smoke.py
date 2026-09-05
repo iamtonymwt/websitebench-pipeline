@@ -1,22 +1,24 @@
-from fastapi.testclient import TestClient
-
-from app import app
+"""Smoke tests: the app starts, answers, and reports itself ready."""
 
 
-client = TestClient(app)
+def test_health_returns_exactly_status_ok(client):
+    """The deployment ABI specifies this body exactly.
 
-
-def test_healthz() -> None:
-    response = client.get("/healthz")
+    It used to also report site_id, frozen route count and catalogue counts.
+    Those are a trace of this particular build: a candidate reconstructing the
+    site would not emit them, and this is the one response the harness compares
+    literally.
+    """
+    response = client.get("/__websitebench/health")
     assert response.status_code == 200
-    assert response.json()["ok"] is True
+    assert response.json() == {"status": "ok"}
 
 
-def test_home() -> None:
+def test_home_answers(client):
     response = client.get("/")
     assert response.status_code == 200
-    assert "WebsiteBench offline contribution scaffold" in response.text
+    assert "<html" in response.text.lower()
 
 
-def test_unknown_route() -> None:
-    assert client.get("/not-in-scope").status_code == 404
+def test_unknown_route_is_a_404(client):
+    assert client.get("/no-such-page-here").status_code == 404

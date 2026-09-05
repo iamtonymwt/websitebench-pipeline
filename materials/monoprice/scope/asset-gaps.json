@@ -1,0 +1,259 @@
+{
+  "schema_version": "monoprice.asset-gaps.v1",
+  "missing_total": 92,
+  "source_answers": {
+    "403": 15,
+    "404": 66,
+    "200": 3,
+    "406": 8
+  },
+  "source_serves_it_so_this_is_our_gap": 3,
+  "our_gap_examples": [
+    "https://images.monoprice.com/cms_images/Educator_Setup_4.jpg",
+    "https://images.monoprice.com/cms_images/ethernet_technologists.jpg",
+    "https://images.monoprice.com/cms_images/Office_Setup_2.jpg"
+  ],
+  "source_does_not_serve_it": [
+    {
+      "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/680935acc40a1f5374b33f6f_Placeholder%20Image%20-%20Landscape.svg",
+      "source_status": 403
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+      "source_status": 403
+    },
+    {
+      "url": "https://www.monoprice.com/assets/images/starsnew-b.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/fonts/slick.eot",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/fonts/slick.woff",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/fonts/slick.ttf",
+      "source_status": 403
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/fonts/slick.svg#slick",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/fonts/hawksearch.eot?-u4uzec",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/%22images%2Fui-icons_444444_256x240.png%22",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/images/ui-icons_444444_256x240.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/backgrounds/img_subsecurebg.gif",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/Content/Themes/alert-overlay.png",
+      "source_status": 403
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/fonts/hawksearch.woff?-u4uzec",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/fonts/hawksearch.ttf?-u4uzec",
+      "source_status": 403
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/fonts/hawksearch.svg?-u4uzec#hawksearch",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/css/owl.video.play.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/%22images%2Fui-icons_555555_256x240.png%22",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/%22images%2Fui-icons_777620_256x240.png%22",
+      "source_status": 403
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/%22images%2Fui-icons_cc0000_256x240.png%22",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/%22images%2Fui-icons_777777_256x240.png%22",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/%22images%2Fui-icons_ffffff_256x240.png%22",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/images/ui-icons_555555_256x240.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/images/ui-icons_ffffff_256x240.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/images/ui-icons_777620_256x240.png",
+      "source_status": 403
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/images/ui-icons_cc0000_256x240.png",
+      "source_status": 403
+    },
+    {
+      "url": "https://www.monoprice.com/assets/javascripts/images/ui-icons_777777_256x240.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://www.monoprice.com/assets/stylesheets/libs/next-vertical.gif",
+      "source_status": 403
+    },
+    {
+      "url": "https://www.monoprice.com/assets/stylesheets/libs/prev-vertical.gif",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/buttons/grey_x_small.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/buttons/grey_small.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/buttons/grey_medium.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/buttons/grey_large.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/buttons/grey_x_large.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/backgrounds/white_40.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/assets/images/email-modal-6-bg.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/assets/images/email-modal-6-close-btn.png",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445281.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445271.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445361.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445351.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445301.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445291.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445341.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445331.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445321.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445451.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445461.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445491.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445501.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445441.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445421.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/445431.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productmediumimages/382081.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productlargeimages/21151.jpg",
+      "source_status": 406
+    },
+    {
+      "url": "https://images.monoprice.com/productlargeimages/274685.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productlargeimages/274686.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productlargeimages/294426.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productlargeimages/313375.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productlargeimages/313376.jpg",
+      "source_status": 404
+    },
+    {
+      "url": "https://images.monoprice.com/productlargeimages/338151.jpg",
+      "source_status": 406
+    }
+  ],
+  "note": "A missing asset the source answers 200 for is this project's gap. One the source itself 404s, 403s or 406s is a source fact and the clone reproduces the absence honestly."
+}

@@ -67,7 +67,7 @@ table {
 
 #banner
 {
-    background: url('//images.monoprice.com/cms_images/3DP_1570x450.jpg') no-repeat center;
+    background: url('/static/assets/images.monoprice.com/cms_images/3DP_1570x450.jpg') no-repeat center;
     background-size: cover;
     min-height: 100%;
 }

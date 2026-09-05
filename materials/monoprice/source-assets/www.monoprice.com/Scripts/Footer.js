@@ -548,7 +548,7 @@ class MonopriceFooter extends LitElement {
   render() {
     return html`
       <footer>
-        <img id="logo" src="//images.monoprice.com/mp/mp-logo.svg" alt="Logo">
+        <img id="logo" src="/static/assets/images.monoprice.com/mp/mp-logo.svg" alt="Logo">
 
         <div class="footer-container">
           <div id="links">
@@ -604,7 +604,7 @@ class MonopriceFooter extends LitElement {
               aria-label="privacy-choices"
             >
               Your Privacy Choices 
-              <img src="https://images.monoprice.com/cms_images/privacyoptions29x14.png" />
+              <img src="/static/assets/images.monoprice.com/cms_images/privacyoptions29x14.png" />
             </a>
             <a href="${this.WWWDomain}/terms-of-use" title="Terms of Use" aria-label="terms-of-use">Terms of Use</a>
             <a href="${this.WWWDomain}/help/index?pn=compliance" title="Supplier Integrity" aria-label="supplier-integrity">Supplier Integrity</a>

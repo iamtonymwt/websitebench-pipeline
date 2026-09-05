@@ -57,7 +57,7 @@
     width: 19px;
     height: 68px;
     cursor: pointer;
-    background: transparent url(//images.monoprice.com/buttons/img_scroll_right.png) no-repeat 0 0;
+    background: transparent url(/static/assets/images.monoprice.com/buttons/img_scroll_right.png) no-repeat 0 0;
 }
 
 /*.jcarousel-skin-ie7 .jcarousel-next-horizontal:hover {
@@ -82,7 +82,7 @@
     width: 19px;
     height: 68px;
     cursor: pointer;
-    background: transparent url(//images.monoprice.com/buttons/img_scroll_left.png) no-repeat 0 0;
+    background: transparent url(/static/assets/images.monoprice.com/buttons/img_scroll_left.png) no-repeat 0 0;
 }
 
 /*.jcarousel-skin-ie7 .jcarousel-prev-horizontal:hover {

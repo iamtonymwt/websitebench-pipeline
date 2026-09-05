@@ -64,7 +64,11 @@ CHALLENGED_HOSTS = {"www.monoprice.com", "monoprice.com"}
 
 # Media only. Stylesheets, scripts and fonts are never capped -- see the module
 # docstring.
-MEDIA_BYTE_LIMIT = 8 * 1024 * 1024
+# Raised from 8MB after the gap audit: the only three assets the source served
+# that we did not hold were marketing photographs of 13, 26 and 38 MB. The cap
+# exists to stop a runaway, not to introduce holes, and leaving three visible
+# banners missing to save 90MB out of 2.6GB is the wrong trade.
+MEDIA_BYTE_LIMIT = 48 * 1024 * 1024
 MEDIA_SUFFIXES = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".mp4",
                   ".webm", ".mov", ".avif", ".ico", ".bmp"}
 NEVER_CAPPED = {".css", ".js", ".woff", ".woff2", ".ttf", ".otf", ".eot", ".json"}

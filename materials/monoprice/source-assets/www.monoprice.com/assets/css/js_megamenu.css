@@ -58,7 +58,7 @@ header {
             text-indent: -9999px;
             display: inline-block;
             margin-top: 15px;
-            background: url(//images.monoprice.com/mp/mp-logo.svg) no-repeat
+            background: url(/static/assets/images.monoprice.com/mp/mp-logo.svg) no-repeat
         }
 
         header .header-container .mobile-search-icon, header .header-container .fa-shopping-cart {
@@ -629,7 +629,7 @@ header {
         .mp-nav .mp-business-nav .business-hero {
             width: 100%;
             min-height: 350px;
-            background: url(//images.monoprice.com/mp/company/b2b/b2b_header_1800x580.jpg) top center no-repeat;
+            background: url(/static/assets/images.monoprice.com/mp/company/b2b/b2b_header_1800x580.jpg) top center no-repeat;
             background-size: cover;
             color: #fff
         }
@@ -3229,7 +3229,7 @@ footer a,
         display: block;
         text-indent: -9999px;
         overflow: hidden;
-        background: url(//images.monoprice.com/mp/mp-logo.svg) no-repeat left center;
+        background: url(/static/assets/images.monoprice.com/mp/mp-logo.svg) no-repeat left center;
         background-size: contain;
     }
 

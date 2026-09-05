@@ -82,7 +82,7 @@ margin-bottom: 40px;
 
 .category-menu.clickable > a {
     display: block;
-    background: url(https://images.monoprice.com/assets/images/w_arrow_down.png) top right no-repeat;
+    background: url(/static/assets/images.monoprice.com/assets/images/w_arrow_down.png) top right no-repeat;
 }
 
 

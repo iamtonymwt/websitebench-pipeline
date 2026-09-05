@@ -23,7 +23,7 @@
     }
 
     function renderLoading() {
-        jQuery('.monoMiniContent').html('<div class="loading-box"><img src="https://images.monoprice.com/assets/images/loading-img.gif" alt="" class="icn-loading" /></div>');
+        jQuery('.monoMiniContent').html('<div class="loading-box"><img src="/static/assets/images.monoprice.com/assets/images/loading-img.gif" alt="" class="icn-loading" /></div>');
         jQuery('.monoMiniContent').focus();
    
         resizeMonoMini();

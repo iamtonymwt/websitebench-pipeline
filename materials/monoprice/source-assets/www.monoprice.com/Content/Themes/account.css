@@ -370,7 +370,7 @@
     padding: 10px;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
-    background: #f2f2f2 url(//images.monoprice.com/icons/ico_cart_15x15.png) 12px center no-repeat;
+    background: #f2f2f2 url(/static/assets/images.monoprice.com/icons/ico_cart_15x15.png) 12px center no-repeat;
     padding-left: 50px;
 }
 
@@ -383,7 +383,7 @@
     padding: 10px;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
-    background: #f2f2f2 url(//images.monoprice.com/icons/ico_cart_15x15.png) 48px 12px no-repeat;
+    background: #f2f2f2 url(/static/assets/images.monoprice.com/icons/ico_cart_15x15.png) 48px 12px no-repeat;
     padding-left: 50px;
 }
 
@@ -642,8 +642,8 @@ outline: 0;
 -webkit-box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
 box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
 font: normal 12px/24px Arial, Helvetica, sans-serif;
-background: url('https://images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -moz-linear-gradient(top, #FBFBFB 0%, #E9E9E9 100%);
-background: url('https://images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FBFBFB), color-stop(100%, #E9E9E9));
+background: url('/static/assets/images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -moz-linear-gradient(top, #FBFBFB 0%, #E9E9E9 100%);
+background: url('/static/assets/images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FBFBFB), color-stop(100%, #E9E9E9));
     //-webkit-appearance: none;
 -moz-appearance: none;
 text-indent: 0.01px;
@@ -658,8 +658,8 @@ text-overflow: '';
     -webkit-box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
     box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
     font: normal 12px/24px Arial, Helvetica, sans-serif;
-    background: url('https://images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -moz-linear-gradient(top, #FBFBFB 0%, #E9E9E9 100%);
-    background: url('https://images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FBFBFB), color-stop(100%, #E9E9E9));
+    background: url('/static/assets/images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -moz-linear-gradient(top, #FBFBFB 0%, #E9E9E9 100%);
+    background: url('/static/assets/images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FBFBFB), color-stop(100%, #E9E9E9));
     //-webkit-appearance: none;
     -moz-appearance: none;
     text-indent: 0.01px;
@@ -673,7 +673,7 @@ text-overflow: '';
     *display: inline;
     zoom: 1;
     width:38%;
-    background: url(//images.monoprice.com/b2bimages/arrow-down.jpg) 1px 1px no-repeat;
+    background: url(/static/assets/images.monoprice.com/b2bimages/arrow-down.jpg) 1px 1px no-repeat;
     color: #d32f2f;
     cursor:pointer;
     padding-left: 20px;
@@ -708,7 +708,7 @@ text-overflow: '';
     *display: inline;
     zoom: 1;
     width:38%;
-    background: url(//images.monoprice.com/b2bimages/arrow-down.jpg) 1px 1px no-repeat;
+    background: url(/static/assets/images.monoprice.com/b2bimages/arrow-down.jpg) 1px 1px no-repeat;
     color: #d32f2f;
     cursor:pointer;
     padding-left: 20px;

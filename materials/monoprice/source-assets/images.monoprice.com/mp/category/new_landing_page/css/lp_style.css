@@ -67,7 +67,7 @@ table {
 
 #banner
 {
-    background: url('//images.monoprice.com/mp/category/cables/usbc/usbc_background.jpg') no-repeat center;
+    background: url('/static/assets/images.monoprice.com/mp/category/cables/usbc/usbc_background.jpg') no-repeat center;
     background-size: cover;
     min-height: 450px;
 }

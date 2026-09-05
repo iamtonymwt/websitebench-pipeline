@@ -64,6 +64,20 @@ CSS_URL = re.compile(r"""url\(\s*(?P<q>['"]?)(?P<v>[^)'"]+)(?P=q)\s*\)""", re.I)
 
 ABSOLUTE = re.compile(r"^(?:https?:)?//", re.I)
 
+# An absolute URL to a host we hold, written anywhere in the document -- in a
+# script, in embedded JSON, with slashes escaped as `\/` or not. Deliberately
+# narrow: only the hosts whose bytes are local, so this cannot rewrite text it
+# does not understand.
+BARE_ABSOLUTE = re.compile(
+    r"https?:(?:\\?/){2}(?:images\.monoprice\.com|www\.monoprice\.com|"
+    r"cdn\.prod\.website-files\.com)"
+    # The path: an escaped slash, or any character that is not a delimiter.
+    # Writing this as `(?:\\?/[^...])+` consumed a slash plus exactly one
+    # character per repetition, so every match stopped one character into the
+    # path -- and a pattern that matches a prefix rewrites the wrong thing.
+    r"(?:\\/|[^\s\"'<>()\\])+",
+    re.I)
+
 # Hosts whose bytes we hold locally. The Webflow set is here because 3,328 pages
 # of this site are a Webflow build whose entire visual layer lives there; see
 # fetch_assets.WEBFLOW_HOSTS.
@@ -102,6 +116,33 @@ SCRIPT_TAG = re.compile(r"<script\b[^>]*>.*?</script>|<script\b[^>]*/?>",
 LINK_TAG = re.compile(r"<link\b[^>]*>", re.I)
 IFRAME_TAG = re.compile(r"<iframe\b[^>]*>.*?</iframe>|<iframe\b[^>]*/?>", re.I | re.S)
 NOSCRIPT_TAG = re.compile(r"<noscript\b[^>]*>.*?</noscript>", re.I | re.S)
+IMG_TAG = re.compile(r"<img\b[^>]*>", re.I)
+
+# Rule 2 says decide by the value, not the attribute name. That is right about
+# which *references* to rewrite and wrong as a licence to rewrite every
+# attribute: `type="text/css"` looks exactly like a relative path, and it was
+# resolved against the page URL into `type="/category/cables/hdmi-cables/text/css"`.
+# A <link> whose type is not text/css is ignored by the browser, and a <script>
+# whose type is not a JavaScript type does not execute -- so this one heuristic
+# silently disabled a stylesheet and a script layer across every frozen page,
+# while the rewrite counters happily counted each one as "localised".
+#
+# Two guards, because either alone is insufficient: attributes that never hold a
+# fetchable URL, and values that are bare MIME types.
+NON_URL_ATTRS = {
+    "type", "rel", "media", "charset", "hreflang", "lang", "sizes", "as",
+    "crossorigin", "integrity", "referrerpolicy", "method", "enctype", "accept",
+    "accept-charset", "target", "role", "class", "id", "name", "style", "align",
+    "valign", "itemtype", "itemprop", "property", "content", "value", "alt",
+    "title", "placeholder", "pattern", "autocomplete", "for", "headers",
+    "aria-label", "aria-labelledby", "aria-describedby", "data-command",
+}
+MIME_VALUE = re.compile(
+    r"^(?:text|image|audio|video|application|font|model|multipart|message)/"
+    r"[A-Za-z0-9.+-]+$", re.I)
+# A 1x1 fully transparent GIF. Renders nothing, requests nothing.
+TRANSPARENT_PIXEL = ("data:image/gif;base64,"
+                     "R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")
 
 
 def is_third_party(value: str) -> bool:
@@ -209,6 +250,57 @@ def strip_third_party_tags(html: str, tally: collections.Counter) -> str:
     return html
 
 
+def family_of(url: str) -> str:
+    """Which page family a URL belongs to, matching discover_runtime_assets."""
+    split = urllib.parse.urlsplit(url)
+    path = split.path.lower()
+    query = dict(urllib.parse.parse_qsl(split.query))
+    if path in ("/", ""):
+        return "home"
+    if path.startswith("/p/shop"):
+        return "shop-collection"
+    if path.startswith("/p/resources"):
+        return "resource-article"
+    if path.startswith("/product"):
+        return "product" if query.get("p_id") else "product"
+    if path.startswith("/category/pages"):
+        return "category-hub"
+    if path.startswith(("/category/", "/p/cat")):
+        return "category-l3"
+    if path.startswith("/search"):
+        return "search"
+    if path.startswith("/home/newsroom"):
+        return "newsroom"
+    if path.startswith("/about"):
+        return "about"
+    return "static-page"
+
+
+def load_runtime_stylesheets(path: pathlib.Path | None) -> dict[str, list[str]]:
+    """Per family, the stylesheets the browser was observed loading.
+
+    17 of the 40 stylesheets the source loads on a category page are injected at
+    run time and appear in no page's markup. Without them the clone renders with
+    2,501 CSS rules against the source's 5,865 -- and the visible consequence was
+    the entire megamenu, 9,516 pixels of it, laid out in the page instead of
+    collapsed.
+    """
+    if path is None or not path.exists():
+        return {}
+    report = json.loads(path.read_text(encoding="utf-8"))
+    out: dict[str, list[str]] = {}
+    for family, urls in (report.get("by_family") or {}).items():
+        sheets = []
+        for url in urls:
+            if not isinstance(url, str):
+                continue
+            split = urllib.parse.urlsplit(url)
+            if split.path.lower().endswith(".css"):
+                sheets.append(url)
+        out[family] = sheets
+    return out
+
+
 def route_for(url: str) -> str:
     """Frozen-file path for a URL, keeping the source's directory structure.
 
@@ -244,8 +336,36 @@ def route_for(url: str) -> str:
     return "/".join(safe)
 
 
+def inject_runtime_stylesheets(html: str, base_url: str, loc: Localiser,
+                               sheets_by_family: dict[str, list[str]],
+                               tally: collections.Counter) -> str:
+    """Add the stylesheets the browser loaded but the markup never declared."""
+    sheets = sheets_by_family.get(family_of(base_url)) or []
+    if not sheets:
+        return html
+    additions = []
+    for url in sheets:
+        local = loc.local_asset(url)
+        if local is None:
+            continue
+        if local in html:
+            continue
+        additions.append(f'<link rel="stylesheet" href="{local}" '
+                         f'data-wb-runtime-injected="1">')
+    if not additions:
+        return html
+    tally["runtime_stylesheets_injected"] += len(additions)
+    block = "".join(additions)
+    lowered = html.lower()
+    head_close = lowered.find("</head>")
+    if head_close == -1:
+        return block + html
+    return html[:head_close] + block + html[head_close:]
+
+
 def freeze_page(html: str, base_url: str, loc: Localiser,
-                tally: collections.Counter) -> str:
+                tally: collections.Counter,
+                sheets_by_family: dict[str, list[str]] | None = None) -> str:
     html = strip_third_party_tags(html, tally)
 
     def attr_repl(m: re.Match) -> str:
@@ -253,6 +373,12 @@ def freeze_page(html: str, base_url: str, loc: Localiser,
         # Rule 2: decide by the value. An attribute whose value is not a
         # reference is left exactly as it was.
         if not value.strip():
+            return m.group(0)
+        if attr.lower() in NON_URL_ATTRS:
+            tally["attribute_skipped_not_a_url_attribute"] += 1
+            return m.group(0)
+        if MIME_VALUE.match(value.strip()):
+            tally["value_skipped_looks_like_a_mime_type"] += 1
             return m.group(0)
         looks_like_ref = (ABSOLUTE.match(value) or value.startswith("/")
                           or re.match(r"^\.{1,2}/", value)
@@ -296,7 +422,59 @@ def freeze_page(html: str, base_url: str, loc: Localiser,
             return "url(about:blank)"
         return f'url("{new}")'
 
-    return CSS_URL.sub(css_repl, html)
+    html = CSS_URL.sub(css_repl, html)
+
+    # Third pass: absolute URLs that are neither an attribute value nor a CSS
+    # url(). This site embeds product data as JSON inside the page, and the image
+    # URLs in it are written `https:\/\/images.monoprice.com\/...` -- escaped
+    # slashes, inside a string, invisible to both passes above.
+    #
+    # The runtime audit is what found them: a *frozen* product page was still
+    # asking images.monoprice.com for its gallery, with initiator type "parser",
+    # meaning the URL was in the markup all along. Every closure number was green
+    # because a reference the rewriter does not match is not counted as
+    # unresolved -- it is not counted at all.
+    def bare_repl(m: re.Match) -> str:
+        raw = m.group(0)
+        escaped = "\\/" in raw
+        candidate = raw.replace("\\/", "/")
+        if is_third_party(candidate):
+            tally["third_party_reference_removed_in_text"] += 1
+            return raw
+        local = loc.local_asset(candidate)
+        if local is None:
+            return raw
+        tally["asset_localised_in_text"] += 1
+        return local.replace("/", "\\/") if escaped else local
+
+    html = BARE_ABSOLUTE.sub(bare_repl, html)
+
+    # Rule 4, second half. Removing a src attribute stops the empty-string
+    # re-request, but an <img> with no src still paints a broken-image box. Side
+    # by side with the source, the clone showed 14 visible broken images on a
+    # category page where the source showed none.
+    #
+    # A transparent 1x1 GIF as a data: URI makes no request, renders nothing, and
+    # leaves the element in place for any script that expects it. `data:` is
+    # allowed by the img-src directive precisely for this.
+    def blank_img(m: re.Match) -> str:
+        tag = m.group(0)
+        # `\bsrc\s*=` is wrong here and the test caught it: `-` is a non-word
+        # character, so `\b` matches inside `data-src`, and an <img> carrying
+        # only a data-src would have been left with no src at all -- the exact
+        # broken-image box this pass exists to remove. The lookbehind is the
+        # same fix an earlier site needed when `\b(href)` matched `data-href`.
+        if re.search(r"(?<![-\w])src\s*=", tag, re.I):
+            return tag
+        tally["img_without_src_given_transparent_pixel"] += 1
+        return tag[:4] + f' src="{TRANSPARENT_PIXEL}"' + tag[4:]
+
+    html = IMG_TAG.sub(blank_img, html)
+
+    if sheets_by_family:
+        html = inject_runtime_stylesheets(html, base_url, loc, sheets_by_family,
+                                          tally)
+    return html
 
 
 def main() -> int:
@@ -307,12 +485,17 @@ def main() -> int:
     ap.add_argument("--out-root", required=True)
     ap.add_argument("--report", required=True)
     ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--runtime-assets", default=None,
+                    help="scope/runtime-assets.json: the stylesheets the "
+                         "browser was observed loading per page family")
     args = ap.parse_args()
 
     catalogue = json.loads(pathlib.Path(args.catalogue).read_text(encoding="utf-8"))
     served_products = {p["p_id"] for p in catalogue["products"]}
     served_routes = {c["path"] for c in catalogue["categories"]}
     assets_dir = pathlib.Path(args.assets_dir)
+    sheets_by_family = load_runtime_stylesheets(
+        pathlib.Path(args.runtime_assets) if args.runtime_assets else None)
     out_root = pathlib.Path(args.out_root)
     out_root.mkdir(parents=True, exist_ok=True)
 
@@ -377,7 +560,8 @@ def main() -> int:
                     by_kind["skipped:not-found-server-page"] += 1
                     continue
             loc = Localiser(assets_dir, meta["url"], served_routes, served_products)
-            frozen_error = freeze_page(html_body, meta["url"], loc, tally)
+            frozen_error = freeze_page(html_body, meta["url"], loc, tally,
+                                       sheets_by_family)
             dest = out_root / f"{slot}.html"
             dest.parent.mkdir(parents=True, exist_ok=True)
             with gzip.open(f"{dest}.gz", "wb", compresslevel=6) as fh:
@@ -393,7 +577,7 @@ def main() -> int:
             by_kind["skipped:body-not-retained"] += 1
             continue
         loc = Localiser(assets_dir, meta["url"], served_routes, served_products)
-        frozen = freeze_page(html, meta["url"], loc, tally)
+        frozen = freeze_page(html, meta["url"], loc, tally, sheets_by_family)
         tally.update(loc.tally)
         unresolved.extend(loc.unresolved[:5])
         route = route_for(meta["url"])
@@ -436,6 +620,8 @@ def main() -> int:
         "error_pages": dict(sorted(reserved.items())),
         "route_collisions": len(collisions),
         "route_collision_examples": collisions[:10],
+        "runtime_stylesheet_families": {k: len(v) for k, v in
+                                        sorted(sheets_by_family.items())},
         "by_kind": dict(sorted(by_kind.items())),
         "rewrites": dict(sorted(tally.items())),
         "unresolved_examples": sorted(set(unresolved))[:40],

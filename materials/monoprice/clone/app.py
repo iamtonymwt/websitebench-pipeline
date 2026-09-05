@@ -258,6 +258,10 @@ def startup() -> None:
         summary = seed_catalogue(connection)
     _state.update({"backend": backend, "auth": auth,
                    "routes": load_route_map(), "seed": summary, "ready": True})
+    # Startup log, not the health response: useful to a person, invisible to the
+    # contract.
+    print(f"monoprice clone ready: {len(_state['routes'])} frozen routes, "
+          f"{summary.get('products')} products", flush=True)
 
 
 @app.middleware("http")
@@ -277,11 +281,17 @@ async def security_headers(request: Request, call_next):
 
 @app.get("/__websitebench/health")
 def health() -> JSONResponse:
+    """Exactly `{"status": "ok"}` -- the deployment ABI says so.
+
+    This carried site_id, frozen_routes and catalogue counts, which was useful
+    for me and wrong for the contract: a candidate rebuilding this site from the
+    benchmark would not emit them, and extra keys here are a trace of the copy in
+    the one response the harness compares. The counts are printed at startup
+    instead, where they help without being part of the interface.
+    """
     if not _state.get("ready"):
         return JSONResponse({"status": "starting"}, status_code=503)
-    return JSONResponse({"status": "ok", "site_id": SITE_ID,
-                         "frozen_routes": len(_state["routes"]),
-                         "catalogue": _state["seed"]})
+    return JSONResponse({"status": "ok"})
 
 
 def connection():
@@ -334,6 +344,72 @@ def serve_asset(full_path: str) -> Response:
 def serve_first_party_asset(full_path: str, request: Request) -> Response:
     prefix = request.url.path.split("/")[1]
     return serve_asset(f"www.monoprice.com/{prefix}/{full_path}")
+
+
+# The image host's own paths, answered from the image tree.
+#
+# Some image URLs are assembled at run time from a base that no rewrite reaches,
+# and the browser then asks this origin for `/cms_images/...` root-relative. The
+# runtime audit found them as same-origin 404s -- a class of failure that belongs
+# to no other gate, since they neither leave the machine nor appear as links.
+# Answering the source's own paths costs nothing and removes the whole class.
+@app.get("/cms_images/{full_path:path}")
+@app.get("/mp/{full_path:path}")
+@app.get("/productlargeimages/{full_path:path}")
+@app.get("/productmediumimages/{full_path:path}")
+@app.get("/productsmallimages/{full_path:path}")
+@app.get("/buttons/{full_path:path}")
+@app.get("/backgrounds/{full_path:path}")
+@app.get("/medialibrary/{full_path:path}")
+def serve_image_host_path(full_path: str, request: Request) -> Response:
+    prefix = request.url.path.split("/")[1]
+    return serve_asset(f"images.monoprice.com/{prefix}/{full_path}")
+
+
+# --------------------------------------------------------------------------- #
+# The mini-cart the header asks for on every page
+# --------------------------------------------------------------------------- #
+
+@app.get("/cart/minicart")
+def minicart(request: Request) -> Response:
+    """The header's cart flyout.
+
+    The source fetches this on every page load -- it was answering 404 on 27 of
+    60 audited routes. The markup is this project's own, for the same reason the
+    cart page is: /cart is under a robots Disallow rule.
+    """
+    cart_id = cart_id_from(request)
+    lines = cart_lines(cart_id) if cart_id else []
+    count = sum(line["quantity"] for line in lines)
+    total = round(sum(line["line_total"] for line in lines), 2)
+    if not lines:
+        body = ('<div class="wb-minicart" data-cart-count="0">'
+                '<p class="wb-muted">Your cart is empty.</p></div>')
+    else:
+        rows = "".join(
+            f'<li data-p-id="{commerce.esc(line["p_id"])}">'
+            f'<a href="/product?p_id={commerce.esc(line["p_id"])}">'
+            f'{commerce.esc(line["name"])}</a> &times; {line["quantity"]} '
+            f'<span>{commerce.money(line["line_total"], line["currency"])}</span>'
+            "</li>" for line in lines)
+        body = (f'<div class="wb-minicart" data-cart-count="{count}">'
+                f"<ul>{rows}</ul>"
+                f'<p data-minicart-total>Subtotal '
+                f'{commerce.money(total, lines[0]["currency"])}</p>'
+                f'<p><a class="wb-btn" href="/cart">View cart</a></p></div>')
+    return Response(content=body, media_type="text/html; charset=utf-8")
+
+
+@app.post("/minicart/removeitem")
+async def minicart_remove(request: Request) -> Response:
+    form = await request.form()
+    pid = (form.get("p_id") or form.get("productId") or "").strip()
+    cart_id = cart_id_from(request)
+    if cart_id and pid:
+        with _state["backend"].lifecycle.connection(transaction=True) as conn:
+            conn.execute("DELETE FROM cart_lines WHERE cart_id=? AND p_id=?",
+                         (cart_id, pid))
+    return minicart(request)
 
 
 # --------------------------------------------------------------------------- #
@@ -762,6 +838,8 @@ DECLARED_ABSENT = (
 
 @app.api_route("/{full_path:path}", methods=["GET", "HEAD", "POST"])
 def catch_all(full_path: str, request: Request) -> Response:
+    if not _state.get("ready"):
+        return JSONResponse({"error": "starting"}, status_code=503)
     path = "/" + full_path
     low = path.lower()
 
@@ -770,9 +848,25 @@ def catch_all(full_path: str, request: Request) -> Response:
             {"error": "service not reproduced in this offline clone",
              "path": path}, status_code=404)
 
+    # PerimeterX serves its sensor from a first-party path -- two long random
+    # segments under /p/ -- so it looks like an ordinary page request and showed
+    # up as an unexplained same-origin 404 on 38 of 197 audited routes. It is a
+    # bot-detection sensor, not a page. Naming it makes the absence declared
+    # rather than mysterious. The site's real /p/ pages are /p/shop, /p/cat and
+    # /p/resources, so the exclusion cannot swallow one.
+    segments = [s for s in low.split("/") if s]
+    if (len(segments) == 3 and segments[0] == "p"
+            and segments[1] not in ("shop", "cat", "resources")
+            and len(segments[1]) > 20):
+        return JSONResponse(
+            {"error": "bot-detection sensor; not reproduced in this offline clone",
+             "path": path}, status_code=404)
+
     accept = request.headers.get("accept-encoding", "")
     key = canonical_request_key(path, request.url.query)
-    route = _state["routes"].get(key)
+    # `.get` rather than `_state["routes"]`: a request that arrives before
+    # startup finished should get a 503, not a KeyError traceback.
+    route = _state.get("routes", {}).get(key)
     if route is not None:
         response = frozen_response(route, accept_encoding=accept)
         if response is not None:

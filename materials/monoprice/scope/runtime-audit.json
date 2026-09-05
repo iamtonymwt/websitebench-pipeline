@@ -1,0 +1,161 @@
+{
+  "schema_version": "monoprice.runtime-audit.v2",
+  "base_url": "http://127.0.0.1:8412",
+  "routes_driven": 247,
+  "routes_by_family": {
+    "home": 1,
+    "cart-empty": 1,
+    "checkout-empty": 1,
+    "search": 1,
+    "search-empty": 1,
+    "not-found": 1,
+    "absent-product": 1,
+    "category": 72,
+    "shop-collection": 48,
+    "product-frozen": 48,
+    "product-template": 72
+  },
+  "failed_navigations": [],
+  "remote_requests": {
+    "distinct_urls": 1,
+    "entries": [
+      {
+        "url": "https://images.monoprice.com/assets/images/play-icon.png",
+        "routes": [
+          "/product?p_id=15724",
+          "/product?p_id=16150"
+        ]
+      }
+    ]
+  },
+  "same_origin_failures": {
+    "distinct": 5,
+    "routes_affected": 50,
+    "entries": [
+      {
+        "path": "/p/xa5e8du3i6ydnjgwnzmzntuzzdkzzdc0zwm0ymnhmzrj/uqemxyc3uvchwn2caygbjwiuvli",
+        "reason": 404,
+        "routes": [
+          "/p/shop/coaxial-cable-crimpers-42b13",
+          "/p/shop/usb-3-type-a",
+          "/p/shop/wireless-speakers-for-desktop-09cde",
+          "/p/shop/rg6-cable-coaxial-d795d",
+          "/p/shop/bookshelf-speakers-on-sale-9143d",
+          "/p/shop/rg6u-quad-shield-coaxial-cable-95ea5",
+          "/p/shop/rca-female-to-3-5mm-male",
+          "/p/shop/crimp-tool-coaxial-cable-9d684",
+          "/p/shop/rca-cable-12-feet-75bf4",
+          "/p/shop/best-outdoor-weatherproof-speakers-7df70",
+          "/p/shop/power-plug-splitter-19157",
+          "/p/shop/network-cable-checker-9d37a",
+          "/p/shop/subwoofer-amplifier-1000-watt-390d0",
+          "/p/shop/powered-subwoofer-box-b4063",
+          "/p/shop/home-theater-subwoofer-0b488",
+          "/p/shop/headphone-amplifier-guitar-6a583",
+          "/p/shop/15amp-extension-cord",
+          "/p/shop/6-ft-coaxial-cable-7cd18",
+          "/p/shop/15-in-subwoofer-speaker-80a56",
+          "/p/shop/sony-speaker-brackets-wall-mount-20208",
+          "/p/shop/stage-monitor-speakers-a4da9",
+          "/p/shop/headphone-jack-audio-cable-71149",
+          "/p/shop/headphone-amp-dac-combo-be214",
+          "/p/shop/affordable-surround-sound-system-0f967",
+          "/p/shop/sony-speaker-wall-brackets-52233",
+          "/p/shop/usb-type-c-to-usb-type-b-adapter-00102",
+          "/p/shop/home-theater-system-with-bluetooth-speakers-5cb14",
+          "/p/shop/pc-monitor-extension-cable-096c6",
+          "/p/shop/speaker-subwoofer-15-cf5ce",
+          "/p/shop/db9-to-db25-cable-552aa",
+          "/p/shop/usb-male-cable-a0642",
+          "/p/shop/speakers-black-friday-ac756",
+          "/p/shop/lc-connector-fiber-optic-4176a",
+          "/p/shop/bluetooth-audio-amp-15476",
+          "/p/shop/dual-speakers-eed02",
+          "/p/shop/usb-2-o-cable-4fe4a",
+          "/p/shop/mini-stereo-speakers-492cf",
+          "/p/shop/25-pin-serial-connector-3d6e2",
+          "/p/shop/shielded-cat5-cable-8a878",
+          "/p/shop/best-desktop-speaker-stands-8a522",
+          "/p/shop/cat-5-cable-standard-6b1b2",
+          "/p/shop/bookshelf-speakers-sale-14867",
+          "/p/shop/40ft-ethernet-cable-07e0d",
+          "/p/shop/b-w-wall-mount-speakers",
+          "/p/shop/3-5-mm-rca-female",
+          "/p/shop/amplifier-headphone-19cac",
+          "/p/shop/12-3-audio-cord",
+          "/p/shop/dac-and-headphone-amplifier-c3c53"
+        ]
+      },
+      {
+        "path": "/definitely-not-a-real-route-websitebench",
+        "reason": 404,
+        "routes": [
+          "/definitely-not-a-real-route-websitebench"
+        ]
+      },
+      {
+        "path": "/images/smrating_9.gif",
+        "reason": 404,
+        "routes": [
+          "/category/audio-video/headphones"
+        ]
+      },
+      {
+        "path": "/images/smrating_10.gif",
+        "reason": 404,
+        "routes": [
+          "/category/audio-video/headphones"
+        ]
+      },
+      {
+        "path": "/680733553d93d74ec4bca34c/680935acc40a1f5374b33f6f_placeholder%20image%20-%20landscape.svg",
+        "reason": 404,
+        "routes": [
+          "/p/shop/amplifier-headphone-19cac"
+        ]
+      }
+    ]
+  },
+  "console_errors": {
+    "routes_with_errors": 52,
+    "by_message_route_count": [
+      [
+        "Failed to load resource: the server responded with a status of 404 (Not Found)",
+        50
+      ],
+      [
+        "Loading the image 'https://images.monoprice.com/assets/images/play-icon.png' violates the following Content Security Pol",
+        2
+      ]
+    ]
+  },
+  "undefined_custom_elements": {
+    "zoovu-zoe": 120,
+    "monoprice-footer": 1
+  },
+  "content_floor": {
+    "thin_pages": 1,
+    "examples": [
+      {
+        "family": "absent-product",
+        "path": "/product?p_id=99999999",
+        "status": 200,
+        "title": "Products no longer Available",
+        "nodes": 2976,
+        "images": 18,
+        "imagesBroken": 14,
+        "stylesheets": 18,
+        "styleRules": 3906,
+        "height": 1073,
+        "textChars": 467,
+        "links": 1106
+      }
+    ],
+    "rule": "under 500 characters of body text, or under 400px tall, or fewer than 50 CSS rules in force"
+  },
+  "totals": {
+    "min_text_chars": 467,
+    "min_style_rules": 777,
+    "broken_images": 2866
+  }
+}

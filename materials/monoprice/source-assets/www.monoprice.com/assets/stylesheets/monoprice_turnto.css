@@ -17,7 +17,7 @@
     font-size: 13px;
 }
 .TTdialog {
-    list-style: url("//images.monoprice.com/images/ttmatchdetail-bullet.png");
+    list-style: url("/static/assets/images.monoprice.com/images/ttmatchdetail-bullet.png");
     margin-left: 20px;
     font-size: 16px;
 }
@@ -27,10 +27,10 @@
     text-align: right;
     height: 40px;
     padding: .5em 10px .3em 1em;
-    background: url("//images.monoprice.com/images/mainbot1.png") no-repeat
+    background: url("/static/assets/images.monoprice.com/images/mainbot1.png") no-repeat
 }
 #TTmainContent {
-    background: url("//images.monoprice.com/images/mainstretch1.png") repeat-y left top;
+    background: url("/static/assets/images.monoprice.com/images/mainstretch1.png") repeat-y left top;
     border: 0;
     padding: 13px 20px 0 20px;
     margin: 0;
@@ -39,12 +39,12 @@
     margin-left: 0
 }
 .TTui-widget-overlay {
-    background: #fff url("//images.monoprice.com/images/overlay.png") 50% 50% repeat-x;
+    background: #fff url("/static/assets/images.monoprice.com/images/overlay.png") 50% 50% repeat-x;
     opacity: .00;
     filter: Alpha(Opacity 00)
 }
 .TTsub-ui-widget-overlay {
-    background: #aaa url("//images.monoprice.com/images/overlay.png") 50% 50% repeat-x;
+    background: #aaa url("/static/assets/images.monoprice.com/images/overlay.png") 50% 50% repeat-x;
     opacity: .40;
     filter: Alpha(Opacity 40)
 }
@@ -53,41 +53,41 @@
     position: relative;
     color: #000;
     height: 21px;
-    background: url("//images.monoprice.com/images/maintop1.png") no-repeat top;
+    background: url("/static/assets/images.monoprice.com/images/maintop1.png") no-repeat top;
     box-sizing: content-box
 }
 #TTtraDialogTitleBar2 {
     position: relative;
     color: #000;
     height: 47px;
-    background: url("//images.monoprice.com/images/maintop1.png") no-repeat
+    background: url("/static/assets/images.monoprice.com/images/maintop1.png") no-repeat
 }
 #TTtrasubtop {
-    background: transparent url("//images.monoprice.com/images/subbaktop.png") no-repeat;
+    background: transparent url("/static/assets/images.monoprice.com/images/subbaktop.png") no-repeat;
     width: 100%;
     height: 38px;
     float: left
 }
 #TTtrasubmid {
-    background: transparent url("//images.monoprice.com/images/subbakmid.png");
+    background: transparent url("/static/assets/images.monoprice.com/images/subbakmid.png");
     margin: 0;
     float: left;
     width: 575px
 }
 #TTtrasubbot {
-    background: transparent url("//images.monoprice.com/images/subbakbot.png");
+    background: transparent url("/static/assets/images.monoprice.com/images/subbakbot.png");
     margin: 0;
     width: 100%;
     height: 27px;
     float: left
 }
 #TT-spinner {
-    background: #fff center url("//images.monoprice.com/images/traspin.gif") no-repeat scroll;
+    background: #fff center url("/static/assets/images.monoprice.com/images/traspin.gif") no-repeat scroll;
     width: 620px;
     height: 32px
 }
 .TTspinner {
-    background: url("//images.monoprice.com/images/traspin.gif") no-repeat scroll;
+    background: url("/static/assets/images.monoprice.com/images/traspin.gif") no-repeat scroll;
     width: 32px;
     height: 32px
 }
@@ -95,7 +95,7 @@
     margin-left: 10px
 }
 .TTtransSpinner {
-    background: url("//images.monoprice.com/images/trans_spinner.gif") no-repeat scroll;
+    background: url("/static/assets/images.monoprice.com/images/trans_spinner.gif") no-repeat scroll;
     width: 25px;
     height: 25px
 }
@@ -133,7 +133,7 @@
     border-right: 1px solid rgba(0, 0, 0, 0.12)
 }
 input.TT2doneSub {
-    background: url("//images.monoprice.com/images/donebttn.png") no-repeat scroll left center #fff;
+    background: url("/static/assets/images.monoprice.com/images/donebttn.png") no-repeat scroll left center #fff;
     cursor: pointer;
     width: 77px;
     height: 25px
@@ -166,7 +166,7 @@ input.TT2doneSub {
     color: #58595b
 }
 .TT3tabClose {
-    background-image: url("//images.monoprice.com/images/tabClose.gif");
+    background-image: url("/static/assets/images.monoprice.com/images/tabClose.gif");
     background-size: 12px 12px;
     background-repeat: no-repeat;
     display: block;
@@ -370,7 +370,7 @@ div.TT4QProductImg.TTrespDesktopLandscapeDisp {
 
 
  #TT-spinner {
-        background: #fff center url("//images.monoprice.com/images/traspin.gif") no-repeat scroll;
+        background: #fff center url("/static/assets/images.monoprice.com/images/traspin.gif") no-repeat scroll;
         width: 100%;
         height: 32px
 }
@@ -516,7 +516,7 @@ input[type=checkbox].TTcheckbox+label.TTlabel,
 .TTvc-x-media-sm,
 .TTvc-icon-md-video,
 .TTvc-continue {
-    background-image: url("//images.monoprice.com/images/monoprice_sprites.png");
+    background-image: url("/static/assets/images.monoprice.com/images/monoprice_sprites.png");
     background-repeat: no-repeat;
     /* margin:5px auto; */
 }
@@ -713,7 +713,7 @@ only screen and (min-device-pixel-ratio: 2) {
     .TTvc-x-media-sm,
     .TTvc-icon-md-video,
     .TTvc-continue {
-        background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+        background-image: url("/static/assets/images.monoprice.com/images/monoprice_sprites_retina.png");
         background-repeat: no-repeat;
         background-size: 298px 4152px;
         margin-top: 5px;
@@ -724,12 +724,12 @@ only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
     .TTsqvBack {
-        background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+        background-image: url("/static/assets/images.monoprice.com/images/monoprice_sprites_retina.png");
         background-position: 0 -673px;
         background-size: 298px 4152px
     }
     .TTsqvBack:hover {
-        background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+        background-image: url("/static/assets/images.monoprice.com/images/monoprice_sprites_retina.png");
         background-position: 0 -705px;
         background-size: 298px 4152px
     }
@@ -761,7 +761,7 @@ only screen and (min-device-pixel-ratio: 2) {
 .TT-vc-carousel__next,
 .TT-vc-carousel__back--small,
 .TT-vc-carousel__next--small {
-    background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+    background-image: url("/static/assets/images.monoprice.com/images/monoprice_sprites_retina.png");
     background-repeat: no-repeat
 }*/
 
@@ -1040,7 +1040,7 @@ textarea#TT2questionText {
     .TT-vc-carousel__next,
     .TT-vc-carousel__back--small,
     .TT-vc-carousel__next--small {
-        background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+        background-image: url("/static/assets/images.monoprice.com/images/monoprice_sprites_retina.png");
         background-size: 298px 4152px;
     }
 }

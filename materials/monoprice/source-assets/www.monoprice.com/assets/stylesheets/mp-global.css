@@ -338,7 +338,7 @@ h1, h2, h3 {
     }
 
 .info-box-warning {
-    background: #ffd8d8 url(//images.monoprice.com/icons/warning.png) 10px 5px no-repeat;
+    background: #ffd8d8 url(/static/assets/images.monoprice.com/icons/warning.png) 10px 5px no-repeat;
     border: 1px solid #d32f2f;
 }
 
@@ -366,7 +366,7 @@ h1, h2, h3 {
     }
 
 .info-dhl {
-    background: url(//images.monoprice.com/logo/dhl.png) top left no-repeat;
+    background: url(/static/assets/images.monoprice.com/logo/dhl.png) top left no-repeat;
 }
 
     .info-dhl .message {
@@ -374,7 +374,7 @@ h1, h2, h3 {
     }
 
 .info-norco-overnight {
-    background: url(//images.monoprice.com/logo/norco_overnight.png) top left no-repeat;
+    background: url(/static/assets/images.monoprice.com/logo/norco_overnight.png) top left no-repeat;
 }
 
     .info-norco-overnight .message {
@@ -382,7 +382,7 @@ h1, h2, h3 {
     }
 
 .breadcrumb {
-    background: url(//images.monoprice.com/icons/A_arr_red.gif) 0 0 no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/A_arr_red.gif) 0 0 no-repeat;
     font-weight: bold;
     padding: 1px 0 0 15px;
 }
@@ -489,23 +489,23 @@ a .button-yellow-x-large, a .button-grey-x-large, a .button-red-x-large, a .butt
 }
 
 .button-yellow-x-small {
-    background: url(//images.monoprice.com/buttons/yellow_x_small.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/yellow_x_small.png) top center no-repeat;
 }
 
 .button-yellow-small {
-    background: url(//images.monoprice.com/buttons/yellow_small.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/yellow_small.png) top center no-repeat;
 }
 
 .button-yellow-medium {
-    background: url(//images.monoprice.com/buttons/yellow_medium.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/yellow_medium.png) top center no-repeat;
 }
 
 .button-yellow-large {
-    background: url(//images.monoprice.com/buttons/yellow_large.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/yellow_large.png) top center no-repeat;
 }
 
 .button-yellow-x-large {
-    background: url(//images.monoprice.com/buttons/yellow_x_large.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/yellow_x_large.png) top center no-repeat;
 }
 
 .button-grey-x-small {
@@ -529,63 +529,63 @@ a .button-yellow-x-large, a .button-grey-x-large, a .button-red-x-large, a .butt
 }
 
 .button-red-x-small {
-    background: url(//images.monoprice.com/buttons/red_x_small.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/red_x_small.png) top center no-repeat;
 }
 
 .button-red-small {
-    background: url(//images.monoprice.com/buttons/red_small.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/red_small.png) top center no-repeat;
 }
 
 .button-red-medium {
-    background: url(//images.monoprice.com/buttons/red_medium.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/red_medium.png) top center no-repeat;
 }
 
 .button-red-large {
-    background: url(//images.monoprice.com/buttons/red_large.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/red_large.png) top center no-repeat;
 }
 
 .button-red-x-large {
-    background: url(//images.monoprice.com/buttons/red_x_large.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/red_x_large.png) top center no-repeat;
 }
 
 .button-green-x-small {
-    background: url(//images.monoprice.com/buttons/green_x_small.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/green_x_small.png) top center no-repeat;
 }
 
 .button-green-small {
-    background: url(//images.monoprice.com/buttons/green_small.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/green_small.png) top center no-repeat;
 }
 
 .button-green-medium {
-    background: url(//images.monoprice.com/buttons/green_medium.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/green_medium.png) top center no-repeat;
 }
 
 .button-green-large {
-    background: url(//images.monoprice.com/buttons/green_large.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/green_large.png) top center no-repeat;
 }
 
 .button-green-x-large {
-    background: url(//images.monoprice.com/buttons/green_x_large.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/green_x_large.png) top center no-repeat;
 }
 
 .button-blue-x-small {
-    background: url(//images.monoprice.com/buttons/blue_x_small.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/blue_x_small.png) top center no-repeat;
 }
 
 .button-blue-small {
-    background: url(//images.monoprice.com/buttons/blue_small.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/blue_small.png) top center no-repeat;
 }
 
 .button-blue-medium {
-    background: url(//images.monoprice.com/buttons/blue_medium.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/blue_medium.png) top center no-repeat;
 }
 
 .button-blue-large {
-    background: url(//images.monoprice.com/buttons/blue_large.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/blue_large.png) top center no-repeat;
 }
 
 .button-blue-x-large {
-    background: url(//images.monoprice.com/buttons/blue_x_large.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/buttons/blue_x_large.png) top center no-repeat;
 }
 
 .layout form .row {
@@ -1785,23 +1785,23 @@ table.creditcardInfo tr td {
 }
 
 .icon-amex-card-large {
-    background: url(//images.monoprice.com/icons/amex_45x45.png) center center no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/amex_45x45.png) center center no-repeat;
 }
 
 .icon-discover-card-large {
-    background: url(//images.monoprice.com/icons/discover_45x45.png) center center no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/discover_45x45.png) center center no-repeat;
 }
 
 .icon-master-card-large {
-    background: url(//images.monoprice.com/icons/mastercard_45x45.png) center center no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/mastercard_45x45.png) center center no-repeat;
 }
 
 .icon-visa-card-large {
-    background: url(//images.monoprice.com/icons/visa_45x45.png) center center no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/visa_45x45.png) center center no-repeat;
 }
 
 .icon-red-info {
-    background: url(//images.monoprice.com/icons/question_mark_red.png) center center no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/question_mark_red.png) center center no-repeat;
     display: inline-block;
     height: 15px;
     position: relative;
@@ -1809,7 +1809,7 @@ table.creditcardInfo tr td {
 }
 
 .icon-small-red-lock {
-    background: url(//images.monoprice.com/icons/sm_red_lock.png) center left no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/sm_red_lock.png) center left no-repeat;
     color: #848484;
     display: inline-block;
     font-weight: normal;
@@ -1819,18 +1819,18 @@ table.creditcardInfo tr td {
 }
 
 .icon-cart {
-    background: url(//images.monoprice.com/icons/ico_cart.png) top left no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/ico_cart.png) top left no-repeat;
     display: inline-block;
     height: 25px;
     width: 25px;
 }
 
 .icon-search {
-    background: url(//images.monoprice.com/icons/ico_search.png) center center no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/ico_search.png) center center no-repeat;
 }
 
 .icon-rss {
-    background: url(//images.monoprice.com/icons/rss.gif) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/icons/rss.gif) top center no-repeat;
 }
 
 .layout {
@@ -2300,7 +2300,7 @@ footer .container {
 }
 
 .main-logo {
-    background: url(//images.monoprice.com/logo/img_logo_HP2.gif) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/logo/img_logo_HP2.gif) top center no-repeat;
     height: 40px;
     margin: 5px 0 0;
     overflow: hidden;
@@ -2309,11 +2309,11 @@ footer .container {
 }
 
 .footer-white-logo {
-    background: url(//images.monoprice.com/logo/monoprice_footer.gif);
+    background: url(/static/assets/images.monoprice.com/logo/monoprice_footer.gif);
 }
 
 .white-logo, .footer .content .white-logo {
-    background: url(//images.monoprice.com/logo/monoprice_footer.gif) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/logo/monoprice_footer.gif) top center no-repeat;
     display: inline-block;
     float: left;
     height: 16px;
@@ -2424,7 +2424,7 @@ footer .container {
 }
 
 .site-name {
-    background: url(//images.monoprice.com/logo/MP_logo.png) no-repeat center;
+    background: url(/static/assets/images.monoprice.com/logo/MP_logo.png) no-repeat center;
     height: 43px;
     margin: 5px 0 0;
     overflow: hidden;
@@ -2484,7 +2484,7 @@ footer .container {
             }
 
     #user-menu #cart-tab {
-        background: #f2f2f2 url(https://images.monoprice.com/assets/images/ico_cart_25x25.png) 12px center no-repeat;
+        background: #f2f2f2 url(/static/assets/images.monoprice.com/assets/images/ico_cart_25x25.png) 12px center no-repeat;
         color: #000;
         height: 46px;
         padding-right: 0;
@@ -2609,7 +2609,7 @@ footer .container {
 }
 
 .headerbg {
-    background: url(//images.monoprice.com/cms_images/winter-header-2014.jpg) no-repeat;
+    background: url(/static/assets/images.monoprice.com/cms_images/winter-header-2014.jpg) no-repeat;
 }
 
 #submenu-wall-mounts {
@@ -2617,7 +2617,7 @@ footer .container {
 }
 
 .headerbg {
-    background: url(//images.monoprice.com/cms_images/winter-header-2014.jpg) no-repeat;
+    background: url(/static/assets/images.monoprice.com/cms_images/winter-header-2014.jpg) no-repeat;
 }
 
 .search {
@@ -2663,7 +2663,7 @@ footer .container {
 }
 
 .search .search-btn {
-    background: #fff url(https://images.monoprice.com/assets/images/ico_search_20x20.png) center center no-repeat;
+    background: #fff url(/static/assets/images.monoprice.com/assets/images/ico_search_20x20.png) center center no-repeat;
     border: none;
     color: #c8c8c8;
     cursor: pointer;
@@ -3529,7 +3529,7 @@ a:hover.tooltips span {
 }
 
 .payment-methods-img {
-    background: url(//images.monoprice.com/footer/img_creditcards.png) top center no-repeat;
+    background: url(/static/assets/images.monoprice.com/footer/img_creditcards.png) top center no-repeat;
     height: 51px;
     position: relative;
     top: 5px;
@@ -3959,7 +3959,7 @@ a:hover.tooltips span {
     }
 
         .shop-confidence-home ul li {
-            background: url(https://images.monoprice.com/assets/images/ico_check.jpg) 5px center no-repeat;
+            background: url(/static/assets/images.monoprice.com/assets/images/ico_check.jpg) 5px center no-repeat;
             border-bottom: 1px dotted #ccc;
             font-size: 11px;
             padding: 10px 5px 10px 30px;

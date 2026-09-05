@@ -1,0 +1,30 @@
+{
+  "schema_version": "monoprice.asset-subresources.v1",
+  "files_scanned": 117,
+  "added_to_plan": 0,
+  "added_by_extension": {},
+  "examples": [],
+  "offsite_references_not_planned": {
+    "github.com": 11,
+    "www.google.com": 6,
+    "www.w3.org": 5,
+    "www.youtube.com": 4,
+    "plugins.adchsm.me": 4,
+    "meyerweb.com": 3,
+    "www.opensource.org": 3,
+    "player.vimeo.com": 3,
+    "fontawesome.io": 2,
+    "www.zeilenwechsel.de": 2,
+    "erik.eae.net": 2,
+    "twitter.com": 2,
+    "www.facebook.com": 2,
+    "fonts.googleapis.com": 2,
+    "img.youtube.com": 2,
+    "stackoverflow.com": 2,
+    "9": 1,
+    "fontawesome.com": 1,
+    "linkedin.com": 1,
+    "workforcenow.adp.com": 1
+  },
+  "note": "Run again after fetching: a stylesheet that was just fetched can reference subresources of its own, so one pass does not close it."
+}

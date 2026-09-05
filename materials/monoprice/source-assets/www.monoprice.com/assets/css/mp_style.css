@@ -2582,7 +2582,7 @@ div#ApplePayButton:focus img {
 }
 .info-box-warning:before {
     content: '';
-    background: #ffd8d8 url(//images.monoprice.com/icons/warning.png) 10px 5px no-repeat;
+    background: #ffd8d8 url(/static/assets/images.monoprice.com/icons/warning.png) 10px 5px no-repeat;
 }
 }
 

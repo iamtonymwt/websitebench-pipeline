@@ -1,0 +1,24 @@
+{
+  "schema_version": "monoprice.served-asset-patches.v1",
+  "assets_dir": "source-assets",
+  "dry_run": false,
+  "references_rewritten": {},
+  "references_rewritten_total": 0,
+  "files_changed": 0,
+  "files": [],
+  "unresolved_targets": {
+    "images.monoprice.com/backgrounds/img_subsecurebg.gif": 2,
+    "/productmediumimages/": 1,
+    "/productlargeimages/": 1,
+    "images.monoprice.com/buttons/grey_x_small.png": 1,
+    "images.monoprice.com/buttons/grey_small.png": 1,
+    "images.monoprice.com/buttons/grey_medium.png": 1,
+    "images.monoprice.com/buttons/grey_large.png": 1,
+    "images.monoprice.com/buttons/grey_x_large.png": 1,
+    "images.monoprice.com/backgrounds/white_40.png": 1,
+    "images.monoprice.com/assets/images/email-modal-6-bg.png": 1,
+    "images.monoprice.com/assets/images/email-modal-6-close-btn.png": 1
+  },
+  "unresolved_total": 12,
+  "note": "An unresolved reference is left pointing at the source. That is deliberate: rewriting it to a local path we do not hold would turn a visible remote request into a silent local 404 and let the closure numbers call it resolved."
+}
