@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8-Port 10/100/1000Mbps Gigabit Ethernet Unmanaged Switch",
+    "@id": "https://www.monoprice.com/product?p_id=41713",
+    "url": "https://www.monoprice.com/product?p_id=41713",
+    "description": "Monoprice\u21228\u2011Port Gigabit Ethernet Unmanaged Desktop Switch10/100/1000Mbps, IEEE 802.3ab, Cat5e, Plug and Play, for Gaming and StreamingThe Monoprice\u2122 8\u2011Port Gigabit Ethernet Unmanaged Desktop Switch is a simple and reliable way to add additional connections to your network. Easily connect network\u2011ready devices, such as gaming consoles and streaming devices, for a robust and fast wired network connection. Give users the fastest speeds possible over Cat5e (or better) cabling to distances up to 328 feet (100 meters). This Gigabit Ethernet Switch provides you with a plug and play (no configuration or setup required), high performance, and standards based solution to upgrade your old network to a Gigabit Ethernet network. Its compact size allows you to place it in confined spaces, such as inside a media panel, or even attach it to a wall. For network installers, this switch is an ideal solution to add data drops, especially since its fanless design ensures silent operation.Eight 10/100/1000Mbps RJ45 Gigabit Ethernet portsCompact sizePlug and play, no drivers or configuration requiredSupports Auto Negotiation and Auto MDI/MDIXIEEE 802.3x flow control16Gbps backplane bandwidth2K MAC address table9,216 byte jumbo frame support\u00a0REDUCE LAG AND REMOVE BOTTLENECKS FROM YOUR NETWORKRemove bottlenecks from your home network by upgrading it to a 10/100/1000Mbps Gigabit network with this Gigabit Ethernet switch. Enjoy the fastest possible file transfer speeds and reduced lag with wired connections using Cat5e (or better) cables to distances up to 328 feet (100 meters).PLUG AND PLAYThis switch is a true plug and play device, requiring no drivers or special configuration. Simply plug in your network\u2011enabled devices, such as computers, laptops, gaming consoles, and video streaming boxes, to get the most out of your home network.COMPACT SIZEMeasuring 5.3\" wide, this 8\u2011port Gigabit Switch is compact enough to place in confined spaces, such as media panels or entertainment centers, or mounted to a wall, without taking up too much space.LED INDICATORSThe LED indicators allow you to see your network status at a glance, with simple diagnostics, such as power status and LAN activity/link status for each port individually.SUPPORTS AUTO NEGOTIATION AND AUTO MDI/MDIXThis switch supports Auto Negotiation, allowing it to set the optimal duplex mode and speed to communicate each connected device. The Auto MDI/MDIX feature means you don't need to worry about using special crossover cables..gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Dec 9, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Dec 9, 2021 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/417131.jpg\",\"https://images.monoprice.com/productlargeimages/417132.jpg\",\"https://images.monoprice.com/productlargeimages/417133.jpg\",\"https://images.monoprice.com/productlargeimages/417134.jpg\",\"https://images.monoprice.com/productlargeimages/417135.jpg\",\"https://images.monoprice.com/productlargeimages/417136.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "41713",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41713",
+      "gtin14": "889028159248"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8-Port 10/100/1000Mbps Gigabit Ethernet Unmanaged Switch",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Wired Networking",
+      "url": "https://www.monoprice.com/category/networking/wired-networking"
+    },
+    {
+      "name": "Network Switches",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/network-switches"
+    },
+    {
+      "name": "41713",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/network-switches/41713"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

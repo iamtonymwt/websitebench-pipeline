@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Adjustable Height Speaker Stands 5 lb Capacity (Pair) Silver",
+    "@id": "https://www.monoprice.com/product?p_id=3021",
+    "url": "https://www.monoprice.com/product?p_id=3021",
+    "description": "Many small satellite speakers have ports on the back, which are designed to improve the bass response. For best sound response, it is usually recommended to mount these speakers about 1\u20112 feet away from the wall, to allow the ports to work properly.This speaker floor stand set is designed to let you mount your satellite speakers in an ideal location, away from a wall. The stands are height adjustable from about 26.8\" to 43.3\", allowing you to mount the speakers at your ear height when sitting. They can hold speakers weighing up to 5 lbs. each.The brackets mount onto speakers with a standard 1/4\" x 20 mounting screw or via a keyhole mount. The stand tubes are hollow so that the speaker wires can be hidden within.Support Files: User's Manual (Sep 18, 2017)Dimensions Diagram (Sep 18, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 18, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/30211.jpg\",\"https://images.monoprice.com/productlargeimages/30212.jpg\",\"https://images.monoprice.com/productlargeimages/30213.jpg\",\"https://images.monoprice.com/productlargeimages/30214.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 43.99,
+      "sku": "3021",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3021",
+      "gtin14": "844660030218"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Adjustable Height Speaker Stands 5 lb Capacity (Pair) Silver",
+      "ratingCount": "793",
+      "reviewCount": "69",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Speaker Mounts & Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands"
+    },
+    {
+      "name": "Speaker Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-stands"
+    },
+    {
+      "name": "3021",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-stands/3021"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

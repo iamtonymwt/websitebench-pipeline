@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Wire Burial Rated 2-Conductor 16AWG 250ft Gray",
+    "@id": "https://www.monoprice.com/product?p_id=21548",
+    "url": "https://www.monoprice.com/product?p_id=21548",
+    "description": "Monoprice Origin Direct Burial Series Speaker wire feature a robust moisture resistant polyethylene jacket paired with a water blocking tape, providing many years of reliable conductivity.Available in a variety of lengths and gauges, you can choose two-conductor versions, for connecting a single speaker, or four-conductor versions for connecting speaker pairs. The pure bare copper conductors are sheathed in color-coded jackets contained within the main moisture resistant jacket. Backed by Monoprice's Lifetime Warranty, Monoprice Origin Direct Burial Series Speaker wire is the ultimate speaker wire for outdoor commercial and residential installations.Features: Water resistant jacket provides years of outdoor worry free conductivityBurial Rated Speaker Wire2 or 4 color-coded conductorsPure bare\u00a0copper conductorsAvailable in various lengths and gauges\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/215481.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 114.59,
+      "sku": "21548",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21548",
+      "gtin14": "889028048702"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Wire Burial Rated 2-Conductor 16AWG 250ft Gray",
+      "ratingCount": "30",
+      "reviewCount": "2",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "21548",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/21548"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

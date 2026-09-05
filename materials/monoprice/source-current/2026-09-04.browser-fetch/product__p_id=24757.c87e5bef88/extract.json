@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Entegrade Series Cat6A/Cat7 RJ45 Tooless Shielded Modular Plugs for round 22-26 Solid/22-27AWG Stranded Cable PoE++ 50u 10-Pk",
+    "@id": "https://www.monoprice.com/product?p_id=24757",
+    "url": "https://www.monoprice.com/product?p_id=24757",
+    "description": "Cat7 or Cat6a Class Ea RJ45 Field Assembly PlugUTP and FTPEasy Assembly \u2011 terminate in field in minutes without special toolsWire Connection: Stranded wire AWG 27/7 to 22/7, wire diameter from 0.46 to 0.76 mmWire Connection: Solid wire AWG 26/1 to 22/1, wire diameter from 0.4 to 0.76 mmTransmission Characteristics: Cat7 or Cat6a per IS0/IEC 11801 Ed.2.2:2011\u201106Complies with class Ea to ISO/EIC 11801 Ed.2.2.2011\u201106, DIN EN 50173\u20111:2011\u201109 10 GbitIEEE 802.3anSupports Power over Ethernet (PoE, PoE plus, and UPoE)Compatible with Cable Jacket Diameters from 6 to 9.5 mmAdjustable Strain Relief (6mm to 9.5mm Cable outside diameter)Load Bar for Faster and Easier Wire Pattern TerminationOperating temperature: \u201140 ~ +60\u00b0CRelative humidity: 85% (+30\u00b0C), Air pressure: 70\u2011106KpaGold Plated Bronze Blade: bronze and gold plating (3\u201150 \u00b5inch}, mating durability not less than 750 cyclesMade from Kirsite \\ PC or PCB (UL94VO)Intermediate resistance: no more than 20 megohm in normal atmospheric pressure (not including bulk resistor)Insulated resistance: no less than 1,000 megohm in normal atmospheric pressure1,000 VDC (700 VAC)Retention strength: 7.7kg between jack and plugSupport Files: Quick Install Guide (Feb 23, 2023)Dimensions Diagram (Jul 31, 2020)Monoprice\u2122, Entegrade\u2122, and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 23, 2023Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/247571.jpg\",\"https://images.monoprice.com/productlargeimages/247572.jpg\",\"https://images.monoprice.com/productlargeimages/247573.jpg\",\"https://images.monoprice.com/productlargeimages/247574.jpg\",\"https://images.monoprice.com/productlargeimages/247575.jpg\",\"https://images.monoprice.com/productlargeimages/247576.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 64.99,
+      "sku": "24757",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24757",
+      "gtin14": "889028059036"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Entegrade Series Cat6A/Cat7 RJ45 Tooless Shielded Modular Plugs for round 22-26 Solid/22-27AWG Stranded Cable PoE++ 50u 10-Pk",
+      "ratingCount": "12",
+      "reviewCount": "7",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Modular Plugs",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs"
+    },
+    {
+      "name": "24757",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs/24757"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

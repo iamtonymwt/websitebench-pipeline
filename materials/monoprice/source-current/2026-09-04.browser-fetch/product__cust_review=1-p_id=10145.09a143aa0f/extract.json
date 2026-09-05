@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Designed for Mobile 6inch 3.5mm Stereo Splitter",
+    "@id": "https://www.monoprice.com/product?p_id=10145",
+    "url": "https://www.monoprice.com/product?p_id=10145",
+    "description": "Share the music on your portable music player with a friend using this Designed for Mobile 6-inch 3.5mm Stereo Splitter from Monoprice!This 6-inch long splitter cable features a male 3.5mm plug on one end and two female 3.5mm jacks on the other. The Designed for Mobile cables feature ultra-thin connector heads, which are designed to fit through a phone case. Each connector is gold plated for smooth, corrosion free connections.Warning: This cable is intended to split an audio signal only. Using it to combine audio signals can result in excessive line voltage levels, which could in turn damage your valuable equipment. The only proper way to combine audio signals is with the use of a mixer. ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/101451.jpg\",\"https://images.monoprice.com/productlargeimages/101452.jpg\",\"https://images.monoprice.com/productlargeimages/101453.jpg\",\"https://images.monoprice.com/productlargeimages/101454.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.79,
+      "sku": "10145",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=10145",
+      "gtin14": "670541338179"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Designed for Mobile 6inch 3.5mm Stereo Splitter",
+      "ratingCount": "80",
+      "reviewCount": "68",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "10145",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/10145"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

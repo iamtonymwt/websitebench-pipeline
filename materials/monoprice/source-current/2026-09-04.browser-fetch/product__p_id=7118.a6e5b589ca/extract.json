@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Wire Flexible Tubing 1in x 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=7118",
+    "url": "https://www.monoprice.com/product?p_id=7118",
+    "description": "This plastic tubing is perfect for organizing and protecting your wiring. It also eliminates accidents that can be caused by loose cords and prevents dust build up on cables and wires. It is ideal for home or office electrical equipment. It features a numbering system that makes it easy to plug each cord into the right jack. It helps provide a neat appearance for any entertainment system or office setting. It includes handy cord fasteners to help keep the cords from getting entangled. Any excess tubing can be easily cut away.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 26, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/71181.jpg\",\"https://images.monoprice.com/productlargeimages/71182.jpg\",\"https://images.monoprice.com/productlargeimages/71183.jpg\",\"https://images.monoprice.com/productlargeimages/71184.jpg\",\"https://images.monoprice.com/productlargeimages/71185.jpg\",\"https://images.monoprice.com/productlargeimages/71186.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "7118",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7118",
+      "gtin14": "844660071181"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Wire Flexible Tubing 1in x 10ft",
+      "ratingCount": "45",
+      "reviewCount": "36",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Cable Management",
+      "url": "https://www.monoprice.com/category/networking/cable-management"
+    },
+    {
+      "name": "Cable Tubes & Sleeves",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-tubes-&-sleeves"
+    },
+    {
+      "name": "7118",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-tubes-&-sleeves/7118"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3ft Premier Series 1/4in TRS Male to Male Cable 16AWG (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=4792",
+    "url": "https://www.monoprice.com/product?p_id=4792",
+    "description": "                    Connect sound components and other audio equipment with this Premium 1/4\" TRS Patch Cable from Monoprice\u2122!                    This cable features TRS/Stereo plugs on each end. It uses 16 AWG stranded, pure copper conductors and employs copper braid shielding with 97.5% coverage to ensure that stray radio frequency and electromagnetic signals do not degrade the audio quality of your performance. The plugs are gold plated to provide smooth, corrosion\u2011free connections as well as maximum electrical conductivity.                    With two separate conductors and the common shield ground, this cable can be used as an unbalanced stereo patch cable or as a balanced mono patch cable.                    Note that this cable is intended for general audio use. For high\u2011end, low\u2011noise performance and recording use we recommend our Cloth Series cables, PIDs 601410,      601415, and      601420.                                                                                                                                                          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice.          Updated Jun 16, 2021                            ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/47921.jpg\",\"https://images.monoprice.com/productlargeimages/47922.jpg\",\"https://images.monoprice.com/productlargeimages/47923.jpg\",\"https://images.monoprice.com/productlargeimages/47924.jpg\",\"https://images.monoprice.com/productlargeimages/47925.jpg\",\"https://images.monoprice.com/productlargeimages/47926.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.99,
+      "sku": "4792",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4792",
+      "gtin14": "844660047926"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3ft Premier Series 1/4in TRS Male to Male Cable 16AWG (Gold Plated)",
+      "ratingCount": "428",
+      "reviewCount": "62",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "4792",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/4792"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

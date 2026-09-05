@@ -1,0 +1,13 @@
+{
+  "url": "https://www.monoprice.com/product?p_id=2270",
+  "final_url": "https://www.monoprice.com/product?p_id=2270",
+  "upstream_status": 200,
+  "classification": "content",
+  "bytes": 443956,
+  "sha256": "2cfb7842fea555d48d22bf93976333d9ea1d776aa57a72fb6a2af8c3b8912641",
+  "fetched_at": "2026-09-05T00:53:35+00:00",
+  "fetch_ms": 388,
+  "mode": "raw-served-html",
+  "body_retained": false,
+  "extract": "schema.org Product + BreadcrumbList"
+}

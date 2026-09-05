@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 24-port Cat6 Unshielded UL Listed Patch Panel 1U 110/Dual IDC with Wire Support Bar SPCC Metal front PoE++ (TAA)",
+    "@id": "https://www.monoprice.com/product?p_id=43540",
+    "url": "https://www.monoprice.com/product?p_id=43540",
+    "description": "This Monoprice\u2122 network patch panel is designed for Category 6 unshielded cable connections. Equipped with 24 ports with Dual IDC headers, it is compatible with the T568A and T568B wiring standards. You can terminate it using a 110\u2011type punchdown tool. This panel is compatible with 22\u201124 AWG solid network cables.This 19\" wide is compatible with all standard rackmount frames. The package includes rack mount screws, plastic washers, cable clamps, and cable ties to make your installation faster and easier.Features: 19\" wide high\u2011density panel, packs 24 RJ45 ports into 1U high panelCompatible with the IEEE 802.3bt Power over Ethernet Plus Plus(4PPoE) standardSuitable for use with 22\u201124 AWG solid wire110\u2011type punchdown termination with a built\u2011in strain relief barGold plated RJ45 contactsPorts clearly labeled on the frontIncludes a color\u2011coded wiring diagram for both T568A and T568B terminationsUL\u00ae listed, black painted steel panelMeets and exceeds T568A and T568B standardsTAA compliantSupport Files: Dimensions Diagram (Oct 27, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Oct 27, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/435401.jpg\",\"https://images.monoprice.com/productlargeimages/435402.jpg\",\"https://images.monoprice.com/productlargeimages/435403.jpg\",\"https://images.monoprice.com/productlargeimages/435404.jpg\",\"https://images.monoprice.com/productlargeimages/435405.jpg\",\"https://images.monoprice.com/productlargeimages/435406.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "43540",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43540",
+      "gtin14": "889028179055"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 24-port Cat6 Unshielded UL Listed Patch Panel 1U 110/Dual IDC with Wire Support Bar SPCC Metal front PoE++ (TAA)",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels"
+    },
+    {
+      "name": "Networking Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/networking-patch-panels"
+    },
+    {
+      "name": "43540",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/networking-patch-panels/43540"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

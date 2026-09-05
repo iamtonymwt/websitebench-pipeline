@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 3 Tiers Industrial Style Storage Rack with Cable Management Equipment Shelf AV Media Shelf Audio Stand for Amplifiers Receivers DVD Player TV Box Game Consoles TV Accessories",
+    "@id": "https://www.monoprice.com/product?p_id=44619",
+    "url": "https://www.monoprice.com/product?p_id=44619",
+    "description": "MPM Industrial Style Storage Rack provides more storage space and organization for your AV equipment for home and office. The anti-skid design prevents scratches or scuffs. Power strip storage design and cable management keeps everything organized. Each shelf supports up to 66 lbs. Perfect use for amplifiers, receivers, DVD Player, TV Box, Game Consoles, TV Accessories, PS4 and many more. Can be placed in your bedroom, living room, or office.Modern Design: Providing modern and stylish design and also can be a side shelf for your bedroom, living room, or office.Open Air Design: Easy to access and optimal airflow for your AV equipment.Cable Management: Built-in cable management keeping the cables organized and clutter-free.Weight Capacity: Each shelf supports up to 66 lbs.Multifunctional Storage: Perfect use for amplifiers, receivers, DVD Player, TV Box, Game Consoles, TV Accessories, PS4 and many more.Anti-Skid Design: Anti-skid design prevent scratches or scuffs and aims to provide stability and prevent rack from moving or sliding.SpecificationsMaterial: Steel, Plastic, Particle Board & MelamineSurface Finish: Powder CoatingColor: Fine Texture Black & WalnutDimensions: 17.3 x 17 x 21 inchesWeight Capacity (per shelf): 66 lbsTotal Weight Capacity: 198 lbsProduct weight: 11 lbs\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/446191.jpg\",\"https://images.monoprice.com/productlargeimages/446192.jpg\",\"https://images.monoprice.com/productlargeimages/446193.jpg\",\"https://images.monoprice.com/productlargeimages/446194.jpg\",\"https://images.monoprice.com/productlargeimages/446195.jpg\",\"https://images.monoprice.com/productlargeimages/446196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 27.99,
+      "sku": "44619",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44619",
+      "gtin14": "889028190906"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 3 Tiers Industrial Style Storage Rack with Cable Management Equipment Shelf AV Media Shelf Audio Stand for Amplifiers Receivers DVD Player TV Box Game Consoles TV Accessories",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "44619",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/44619"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

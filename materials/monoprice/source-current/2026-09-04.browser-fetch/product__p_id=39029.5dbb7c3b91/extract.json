@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series DisplayPort to HDTV Cable 3m (9.9ft) 4K@60Hz",
+    "@id": "https://www.monoprice.com/product?p_id=39029",
+    "url": "https://www.monoprice.com/product?p_id=39029",
+    "description": "This Monoprice Select Series DisplayPort\u2122 to HDTV Cable connects your computer to HDMI\u00ae-equipped TV, video projector, computer display, or HDMI distribution device. It supports video resolutions up to 4K@60Hz and multichannel, lossless audio, such as Dolby TrueHD\u2122 and DTS-HD Master Audio\u2122.Important: This is not a bidirectional cable. It will NOT connect an HDMI-equipped computer or video source to a DisplayPort display.Features: Connect a DisplayPort\u2122-equipped computer to an HDMI\u00ae-equipped TV, video projection, computer display, etc.Supports video resolutions up to 4K@60HzSupports multichannel, lossless audio, such as Dolby\u00ae TrueHD\u2122 and DTS-HD Master Audio\u2122The DisplayPort connector includes the locking latches for a secure cable connectionGold played connectors for smooth, corrosion-free connectionsFoil and braid shielding for protection and EMI and RFI noiseDisplayPort\u00ae is a registered trademark of the Video Electronics Standards Association. DisplayPort\u2122 logo is a trademark of the Video Electronics Standards Association. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Dolby\u00ae, Dolby\u00ae TrueHD\u2122, Dolby Audio\u2122, and the double-D symbol are trademarks or registered trademarks of Dolby Laboratories. DTS\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc. DTS-HD\u2122, and DTS-HD Master Audio\u2122 are trademarks of DTS, Inc. Updated Aug 1, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/390291.jpg\",\"https://images.monoprice.com/productlargeimages/390292.jpg\",\"https://images.monoprice.com/productlargeimages/390293.jpg\",\"https://images.monoprice.com/productlargeimages/390294.jpg\",\"https://images.monoprice.com/productlargeimages/390295.jpg\",\"https://images.monoprice.com/productlargeimages/390296.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 33.09,
+      "sku": "39029",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39029",
+      "gtin14": "889028131916"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series DisplayPort to HDTV Cable 3m (9.9ft) 4K@60Hz",
+      "ratingCount": "5",
+      "reviewCount": "0",
+      "ratingValue": "3.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "39029",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/39029"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

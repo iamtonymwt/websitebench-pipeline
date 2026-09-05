@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DisplayPort 1.2a to 4K HDMI Active Adapter Black",
+    "@id": "https://www.monoprice.com/product?p_id=12781",
+    "url": "https://www.monoprice.com/product?p_id=12781",
+    "description": "Connect your DisplayPort\u00ae equipped PC to a 4K HDMI\u00ae video display using this DisplayPort 1.2a to 4K HDMI Active Adapter from Monoprice\u2122!This adapter is designed to allow you to connect an HDMI display to a DisplayPort video output. It conforms to the DisplayPort 1.2a standard and supports HDMI resolutions up to 4K (3840x2160p) @30Hz. Being an active adapter, it is fully compatible with the AMD\u00ae Eyefinity and nVidia\u00ae Surround\u2122 multidisplay modes.It features a true 5\" cable length with polycarbonate connector heads. The DP connector head measures 14.5 x 25.5 x 31.0 mm. The HDMI connector head measures 17.5 x 27.5 x 47.0 mm long.Features: Conforms to DisplayPort 1.2a standardSupports HDMI resolutions up to 4K (3840x2160p @30Hz)ACTIVE adapter is compatible with nVidia Surround and AMD Eyefinity multidisplay modesMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. AMD\u00ae is a registered trademark of Advanced Micro Devices. NVIDIA\u00ae and NVIDIA Surround\u2122 are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Updated Oct 5, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/127811.jpg\",\"https://images.monoprice.com/productlargeimages/127812.jpg\",\"https://images.monoprice.com/productlargeimages/127813.jpg\",\"https://images.monoprice.com/productlargeimages/127814.jpg\",\"https://images.monoprice.com/productlargeimages/127815.jpg\",\"https://images.monoprice.com/productlargeimages/127816.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.99,
+      "sku": "12781",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12781",
+      "gtin14": "889028007990"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DisplayPort 1.2a to 4K HDMI Active Adapter Black",
+      "ratingCount": "91",
+      "reviewCount": "66",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters"
+    },
+    {
+      "name": "12781",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters/12781"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SS-6 Premium 6-Channel Speaker Selector",
+    "@id": "https://www.monoprice.com/product?p_id=38158",
+    "url": "https://www.monoprice.com/product?p_id=38158",
+    "description": "The SS\u20116 Speaker Selector is a resistor\u2011based, impedance matching speaker selector used for connecting up to six pairs of 4\u2011ohm or 8\u2011ohm speakers, while maintaining a safe impedance load for your amplifier or receiver. Each pair of speakers can be independently turned on or off using push buttons on the front panel, with no need for worrying about amplifier loading.Features: Connect and safely control multiple speaker pairs with a single amplifierAutomatic impedance protection circuitry100 watts RMS per channel power capacity4.6\u2011ohm minimum amplifier impedance with six 4\u2011ohm speakers selected, 5.3\u2011ohm minimum with 8\u2011ohm speakersSupports 12\u201116 AWG speaker wireIndividual zone on/off buttonsHeavy\u2011duty screw\u2011type connectorsIsolated left/right circuit grounds provide safe connection for amplifiers with floating grounds or bridged configurationsAccurate, noise\u2011free switchingSupport Files: Quick Install Guide (Jul 3, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 8, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381581.jpg\",\"https://images.monoprice.com/productlargeimages/381582.jpg\",\"https://images.monoprice.com/productlargeimages/381583.jpg\",\"https://images.monoprice.com/productlargeimages/381584.jpg\",\"https://images.monoprice.com/productlargeimages/381585.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 99.99,
+      "sku": "38158",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38158",
+      "gtin14": "889028123089"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SS-6 Premium 6-Channel Speaker Selector",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38158",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38158"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

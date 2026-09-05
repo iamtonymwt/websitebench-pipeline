@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10ft 28AWG DisplayPort to DVI Cable White",
+    "@id": "https://www.monoprice.com/product?p_id=6016",
+    "url": "https://www.monoprice.com/product?p_id=6016",
+    "description": "Use this cable for connecting your DVI-equipped HDTV or monitor to the DisplayPort\u00c2\u00ae connector on your computer without the hassle of using a separate adapter. This reliable, high performance cable has flexible 28AWG, tin plated conduits with pure copper cores and gold plated connectors for long life.Note: While DisplayPort connectors are capable of passing a DVI\u00e2\u201e\u00a2 signal, DisplayPort and DVI signals are basically different and not compatible with each other. In order for this cable to function properly, you must have a DisplayPort source device capable of producing and passing a DVI signal through the DisplayPort jack.Note: This is a passive cable and therefore is not recommended for Eyefinity setups.Monoprice\u00e2\u201e\u00a2 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. DVI\u00e2\u201e\u00a2 is a trademark of the Digital Display Working Group. Updated Apr 29, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.govEnable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[\"https://images.monoprice.com/productlargeimages/60161.jpg\",\"https://images.monoprice.com/productlargeimages/60162.jpg\",\"https://images.monoprice.com/productlargeimages/60163.jpg\",\"https://images.monoprice.com/productlargeimages/60164.jpg\",\"https://images.monoprice.com/productlargeimages/60165.jpg\",\"https://images.monoprice.com/productlargeimages/60166.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 16.99,
+      "sku": "6016",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6016",
+      "gtin14": "844660060161"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10ft 28AWG DisplayPort to DVI Cable White",
+      "ratingCount": "265",
+      "reviewCount": "36",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "6016",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/6016"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

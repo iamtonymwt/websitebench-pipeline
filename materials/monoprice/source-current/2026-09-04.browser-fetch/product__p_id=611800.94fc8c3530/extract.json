@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 40-Watt 1x10 Guitar Combo Amplifier with Spring Reverb",
+    "@id": "https://www.monoprice.com/product?p_id=611800",
+    "url": "https://www.monoprice.com/product?p_id=611800",
+    "description": "                    Crank it up to 11 using this 40\u2011watt 1x10 Guitar Combo Amp with Spring Reverb from Monoprice\u2122!                    This guitar amp employs a 40\u2011watt amplifier driving a 10\u2011inch, 4\u2011ohm speaker. It features a genuine spring\u2011reverb, which allows you to capture the classic surf sound made famous by such artists as Dick Dale, the Beach Boys, the Ventures, and Man or Astro\u2011man? The spring reverb is also useful for production of electronic music, lounge, or anything where you want to produce dark, dripping overtones to your sound.                    This amp features three adjustable EQ controls at 100Hz, 1kHz, and 3kHz. The reverb is adjustable along with the gain level for the overdrive circuit. It has two guitar level inputs, one of which has a \u20116dB pad for use with instruments with active electronics. A line level output allows you to send the output to a recorder or mixing board and FX Send and Return jacks allow you to use external effects processors. The amp features headphone and external speaker outputs, both of which automatically mute the internal speaker when in use.                    Unlike most amps, which top out at 10, this amp has been engineered with volume controls that go to 11! This allows you to crank along at 10 for most of a show then, when you want that extra push over the cliff, you can crank it up to 11 and really send the audience into a frenzy!                                                                                                                                                                Support Files:            User's Manual (Sep 1, 2017)    Manual de Usuario (Espa\u00f1ol) (Oct 27, 2014)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 18, 2022                                                                Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6118001.jpg\",\"https://images.monoprice.com/productlargeimages/6118002.jpg\",\"https://images.monoprice.com/productlargeimages/6118003.jpg\",\"https://images.monoprice.com/productlargeimages/6118004.jpg\",\"https://images.monoprice.com/productlargeimages/6118005.jpg\",\"https://images.monoprice.com/productlargeimages/6118006.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 124.99,
+      "sku": "611800",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=611800",
+      "gtin14": "757901806674"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 40-Watt 1x10 Guitar Combo Amplifier with Spring Reverb",
+      "ratingCount": "122",
+      "reviewCount": "122",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Amplifiers",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers"
+    },
+    {
+      "name": "611800",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers/611800"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

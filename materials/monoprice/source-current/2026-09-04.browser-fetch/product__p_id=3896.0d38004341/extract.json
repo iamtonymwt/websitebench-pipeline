@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to Mini-B Cable - 5-Pin 28/28AWG Black 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=3896",
+    "url": "https://www.monoprice.com/product?p_id=3896",
+    "description": "Connect your devices seamlessly with the Monoprice USB\u2011A to Mini\u2011B 2.0 Cable \u2011 5\u2011Pin, 28/28AWG. Designed to provide reliable and efficient data transfer, this cable allows you to effortlessly link your USB mini B connector devices with ease.Featuring a standard USB A male connector on one end and a 5\u2011pin mini B connector on the other, this cable ensures compatibility with a wide range of devices. Whether you need to connect your digital camera, external hard drive, or other devices with a USB mini B port, this cable has got you covered.With its 28AWG conductors, this cable ensures optimal signal transmission, allowing you to transfer data swiftly and efficiently. The use of high\u2011quality materials and precise construction ensures durability and long-lasting performance.To enhance the cable's overall performance and minimize interference, it is shielded using both braid and foil shields. This shielding technology provides protection against electromagnetic interference, reducing signal degradation and ensuring a stable and reliable connection.The cable's length provides flexibility and convenience, allowing you to comfortably connect your devices even if they are situated at a distance. Whether you need to transfer files, sync data, or charge your devices, this cable offers the length you need for hassle\u2011free connectivity.The Monoprice USB\u2011A to Mini\u2011B 2.0 Cable is designed to meet the highest industry standards, ensuring compatibility and reliability. Rest assured that your data will be transferred securely and efficiently each time you connect your devices.In summary, the Monoprice USB\u2011A to Mini\u2011B 2.0 Cable \u2011 5\u2011Pin, 28/28AWG is the perfect solution for connecting your USB mini B devices. With its durable construction, efficient signal transmission, and reliable performance, this cable is a must-have accessory for seamless connectivity.Support Files: Tech Drawing (Oct 9, 2025)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/38961.jpg\",\"https://images.monoprice.com/productlargeimages/38962.jpg\",\"https://images.monoprice.com/productlargeimages/38963.jpg\",\"https://images.monoprice.com/productlargeimages/38964.jpg\",\"https://images.monoprice.com/productlargeimages/38965.jpg\",\"https://images.monoprice.com/productlargeimages/38966.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "3896",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3896",
+      "gtin14": "844660038962"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to Mini-B Cable - 5-Pin 28/28AWG Black 3ft",
+      "ratingCount": "444",
+      "reviewCount": "159",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "Mini B Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/mini-b-cables"
+    },
+    {
+      "name": "3896",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/mini-b-cables/3896"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

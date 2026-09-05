@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 8in x 8in Lite Duty Box Aluminum 1.5in Lighting Truss Section 1.5m (4.92ft) with Hardware and 500 lbs Capacity",
+    "@id": "https://www.monoprice.com/product?p_id=625858",
+    "url": "https://www.monoprice.com/product?p_id=625858",
+    "description": " \u00a0Take your production, product messaging, or display to a whole new level with a professional truss. Each piece of our aluminum box truss weighs less than 20 lbs., making it ideal for DJs, trade shows, and mobile shows. Spans up to 2 meters across will support up to 500 lbs. center loaded and even more when evenly loaded. The 8\" x 8\" frames are easy to transport and dolly load for truck packs. The 1.5\" outer tubes are convenient for mounting lights, TV monitors, and signage. It is not recommended for speakers or human harnesses.Losing a bag of truss spigots can mean the death of a show. Do not worry about losing or damaging connecting hardware, since our bolt truss uses standard over\u2011the\u2011counter M10 hex bolts available at any hardware store.This Stage Right\u2122 8\" x 8\" Aluminum Bolt Truss system is available in several sizes. Simply plan your floor space and take advantage of the versatility of the universal 6\u2011way corner to build arcs, projector screen frames, or complete multilayer booths complete with warmers and signage.Features: Each piece weighs less than 20 poundsUp to 500 pounds load capacityCompact 8\" square with 1.5\" tubesUses easy to find M10 boltsModular and versatileSupport Files: User's Manual (Jan 13, 2020)3D OBJ File (Aug 7, 2017)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 18, 2021 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6258581.jpg\",\"https://images.monoprice.com/productlargeimages/6258582.jpg\",\"https://images.monoprice.com/productlargeimages/6258583.jpg\",\"https://images.monoprice.com/productlargeimages/6258584.jpg\",\"https://images.monoprice.com/productlargeimages/6258585.jpg\",\"https://images.monoprice.com/productlargeimages/6258586.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 161.99,
+      "sku": "625858",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625858",
+      "gtin14": "889028149591"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 8in x 8in Lite Duty Box Aluminum 1.5in Lighting Truss Section 1.5m (4.92ft) with Hardware and 500 lbs Capacity",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Lighting Stands & Trusses",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses"
+    },
+    {
+      "name": "625858",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses/625858"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

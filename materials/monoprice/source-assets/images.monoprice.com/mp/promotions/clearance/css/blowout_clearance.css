@@ -1,0 +1,45 @@
+#main-header 
+{
+    padding: 15px 0px;
+    background-color:#383838;
+    
+}
+
+.main_banner img {
+    width: 100%;
+}
+
+
+
+.usb_nav li {
+    color: #404850;
+    font-size: 14px;
+    text-align: center;
+    padding: 20px 10px;
+    border: 1px solid #ffffff;
+    background: #efefef;
+    font-weight: 600;
+    /* margin: 0px 5px; */
+    /* margin: 0 auto; */
+    /* margin: 10px 0px; */
+}
+
+.usb_nav li:hover {
+    color: #00a7bb;
+    background-color: #fff;
+    -webkit-box-shadow: 7px 7px 8px 0px rgba(50, 50, 50, 0.2);
+    -moz-box-shadow: 7px 7px 8px 0px rgba(50, 50, 50, 0.2);
+    /* box-shadow: 7px 7px 8px 0px rgba(50, 50, 50, 0.2); */
+    -webkit-box-shadow: 0px 10px 8px 0px rgba(50, 50, 50, 0.2);
+    -moz-box-shadow: 0px 10px 8px 0px rgba(50, 50, 50, 0.2);
+    box-shadow: 0px 10px 8px 0px rgba(50, 50, 50, 0.2);
+    /* margin-top: -10px; */
+    /* margin-bottom: 20px; */
+}
+
+li.col-lg-2.col-md-6.col-sm-12.gg_active {
+    color: #ffffff;
+    font-weight: bold;
+    background: #00a7bb;
+    /* border: 2px solid #e8e8e8; */
+}

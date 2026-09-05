@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft 28AWG DisplayPort to VGA Cable White",
+    "@id": "https://www.monoprice.com/product?p_id=6019",
+    "url": "https://www.monoprice.com/product?p_id=6019",
+    "description": "Connect the VGA port on your HDTV or monitor directly to your DisplayPort\u00ae source without any extra adapters. This cable features a unique active digital-to-analog signal converter built right in. This high performance cable features fully shielded tin plated copper conduits and gold plated connectors.IMPORTANT! This cable will only function in one direction, from a DisplayPort source to a VGA display.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. Updated Apr 29, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/60191.jpg\",\"https://images.monoprice.com/productlargeimages/60192.jpg\",\"https://images.monoprice.com/productlargeimages/60193.jpg\",\"https://images.monoprice.com/productlargeimages/60194.jpg\",\"https://images.monoprice.com/productlargeimages/60195.jpg\",\"https://images.monoprice.com/productlargeimages/60196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 16.99,
+      "sku": "6019",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6019",
+      "gtin14": "844660060192"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft 28AWG DisplayPort to VGA Cable White",
+      "ratingCount": "49",
+      "reviewCount": "26",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "6019",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/6019"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

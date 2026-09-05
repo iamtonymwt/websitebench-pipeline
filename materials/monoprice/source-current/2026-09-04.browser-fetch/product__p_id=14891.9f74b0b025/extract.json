@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Audio Desktop Conferencing and Paging Microphone with On/Off Button (NO LOGO)",
+    "@id": "https://www.monoprice.com/product?p_id=14891",
+    "url": "https://www.monoprice.com/product?p_id=14891",
+    "description": "This condenser microphone is an ideal solution for meetings, conferences, and public address needs. It features a gooseneck design, which allows you to angle it to the ideal speaking position. The microphone is powered using two AAA batteries (sold separately) in the base or by connecting to an XLR jack with +48V Phantom Power. In addition to the base, it includes a removable foam pop filter, an XLR cable, and an XLR to 1/4\" TS plug adapter.Features: Condenser microphone with flexible gooseneck design and base with power switchCardioid polar patternPowered using two AAA batteries (sold separately) or by plugging into an XLR jack with +48V Phantom PowerMicrophone can be plugged into the included base or directly into a mixer or PA ampIncludes a 25\u2011foot XLR cable and female XLR to male 1/4\" TS plug adapterRemovable foam pop filterBatteries sold separatelySupport Files: User's Manual (Dec 8, 2015)Multiroom Sales Sheet (Apr 24, 2017)Restaurant/Bar Sales Sheet 1 (Apr 24, 2017)Restaurant/Bar Sales Sheet 2 (Apr 24, 2017)Restaurant/Bar Sales Sheet 3 (Apr 24, 2017)Small Restaurant Sales Sheet (Apr 24, 2017)Tech Drawing (May 7, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 27, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/148911.jpg\",\"https://images.monoprice.com/productlargeimages/148912.jpg\",\"https://images.monoprice.com/productlargeimages/148913.jpg\",\"https://images.monoprice.com/productlargeimages/148914.jpg\",\"https://images.monoprice.com/productlargeimages/148915.jpg\",\"https://images.monoprice.com/productlargeimages/148916.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 64.99,
+      "sku": "14891",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=14891",
+      "gtin14": "889028029718"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Audio Desktop Conferencing and Paging Microphone with On/Off Button (NO LOGO)",
+      "ratingCount": "36",
+      "reviewCount": "36",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Microphones",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/microphones"
+    },
+    {
+      "name": "Condenser Microphones",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/microphones/condenser-microphones"
+    },
+    {
+      "name": "14891",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/microphones/condenser-microphones/14891"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

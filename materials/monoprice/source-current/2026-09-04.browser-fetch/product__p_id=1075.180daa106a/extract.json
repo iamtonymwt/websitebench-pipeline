@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat5E RJ45 Toolless Keystone Jack for 22-24AWG Solid Wire Beige",
+    "@id": "https://www.monoprice.com/product?p_id=1075",
+    "url": "https://www.monoprice.com/product?p_id=1075",
+    "description": "Easy to use, toolless (no soldering or screwdriver req.) modular CAT 5e Keystone jack. RJ45 female connector. To be used with keystone wall plate or panel. Wiring diagram on clip.\u00a0This product is intended for use with\u00a023~24 AWG Solid Ethernet cable. It will not work well with stranded Ethernet cable. If you're using stranded Ethernet cable, please use a punch-down style keystone jack.\u00a0Note that the width of the RJ45 keystones is such that two cannot be used side-by-side in the same wall-plate.Comes with lever for ease of installation and retaining clip for secure connection.\u00a0Click the following link for an installation guide:https://www.monoprice.com/manual/How%20to%20-%20tooless%20keystone.pdf\u00a0*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, improvements and physical design changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.\u00a0\u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/10751.jpg\",\"https://images.monoprice.com/productlargeimages/10752.jpg\",\"https://images.monoprice.com/productlargeimages/10753.jpg\",\"https://images.monoprice.com/productlargeimages/10754.jpg\",\"https://images.monoprice.com/productlargeimages/10755.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.39,
+      "sku": "1075",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1075",
+      "gtin14": "844660010753"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat5E RJ45 Toolless Keystone Jack for 22-24AWG Solid Wire Beige",
+      "ratingCount": "451",
+      "reviewCount": "13",
+      "ratingValue": "3.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "1075",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/1075"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

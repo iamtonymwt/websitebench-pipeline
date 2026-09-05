@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3-piece Desktop for Motorized and Manual-Crank Height Adjustable Desks White",
+    "@id": "https://www.monoprice.com/product?p_id=33086",
+    "url": "https://www.monoprice.com/product?p_id=33086",
+    "description": "These desktops can be used to complete Monoprice\u2122 electric motorized and manual crank sit\u2011stand desk frames. Get a full work surface that effortlessly moves up or down with your height adjustable desk. There is enough room for a computer, monitors, a keyboard, a mouse, and other desk essentials. Two color options are available to match your desk frame. Pre\u2011drilled holes make it easy to position and mount the desktop.These desktops ship in three main pieces in a manageable box that is practical to ship and carry indoors. It is easy to assemble, with two steel bars providing structural support and rigidity. The desktops are designed for computer use and made from engineered wood. There are no soft or hollow spots on these desktops, so they can support mounts and computer components. Grommet holes provide wire management options for maintaining a neat and tidy work area. The ergonomic shape allows you to move in closer towards the middle, while staying within easy reach of the sides.Features: This desktop can be mounted on Monoprice\u2122 Sit\u2011Stand Desk FramesEasy to ship and handleErgonomic designDesigned for computer useThe desktop comes in three main pieces and is delivered in a manageable box that is more practical to ship and easier to bring indoors, upstairs, or inside rooms than a full sized desktopThe desk shape allows you to move in closer towards the middle, while staying within easy reach of the sidesMade of engineered wood, with no soft or hollow spots, which allows you to use mounting screws on any part of the desktopShipping Box Dimensions: 37.5\" x 27.0\" x 3.0\"Shipping Box Weight: 42 lbs.Assembled Dimensions: 31.5\" x 63.0\" x 1.6\"SIT-STAND DESK FRAME OPTIONSThis desktop is designed to be mounted onto Sit-Stand desk frames, allowing you to choose from a range of Worksteam\u2122 Sit-Stand desk frames. Simply drill mounting holes into the desktop and secure it in place with screws. P/N 31290 | Black P/N 31291 | White P/N 31292 | Gray  P/N 43562 | Black P/N 43563 | White  P/N 35377 | Black  P/N 36077 | White  P/N 36078 | Black  P/N 34827 | Black P/N 34828 | White P/N 34829 | Gray Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Apr 13, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/330861.jpg\",\"https://images.monoprice.com/productlargeimages/330862.jpg\",\"https://images.monoprice.com/productlargeimages/330863.jpg\",\"https://images.monoprice.com/productlargeimages/330864.jpg\",\"https://images.monoprice.com/productlargeimages/330865.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 99.99,
+      "sku": "33086",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33086",
+      "gtin14": "889028082423"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3-piece Desktop for Motorized and Manual-Crank Height Adjustable Desks White",
+      "ratingCount": "32",
+      "reviewCount": "9",
+      "ratingValue": "3.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Sit Stand Desks",
+      "url": "https://www.monoprice.com/category/home-&-office/sit-stand-desks"
+    },
+    {
+      "name": "Manual Crank & Gas Lift Sit Stand Desks",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/sit-stand-desks/manual-crank-&-gas-lift-sit-stand-desks"
+    },
+    {
+      "name": "33086",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/sit-stand-desks/manual-crank-&-gas-lift-sit-stand-desks/33086"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

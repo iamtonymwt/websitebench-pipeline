@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DB-9 F/F Mini Gender Changer",
+    "@id": "https://www.monoprice.com/product?p_id=1186",
+    "url": "https://www.monoprice.com/product?p_id=1186",
+    "description": "DB9 F/F, Mini Gender ChangerSupport Files: Dimensions Diagram (Oct 15, 2012)\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/11861.jpg\",\"https://images.monoprice.com/productlargeimages/11862.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "1186",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1186",
+      "gtin14": "844660011866"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DB-9 F/F Mini Gender Changer",
+      "ratingCount": "8",
+      "reviewCount": "8",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Gender Changers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers"
+    },
+    {
+      "name": "1186",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers/1186"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Adjustable Heavy-Duty Tripod Orchestra Sheet Music Stand",
+    "@id": "https://www.monoprice.com/product?p_id=602410",
+    "url": "https://www.monoprice.com/product?p_id=602410",
+    "description": "\u00a0This heavy-duty music stand features a perforated desk that measures 18.8\" wide, 13.6\" tall, and 1.9\" deep. The base of the desk can be positioned between 26\" ~ 46\" above the floor. The three-legged base measures about 23.5\" between feet.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6024101.jpg\",\"https://images.monoprice.com/productlargeimages/6024102.jpg\",\"https://images.monoprice.com/productlargeimages/6024103.jpg\",\"https://images.monoprice.com/productlargeimages/6024104.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 38.99,
+      "sku": "602410",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=602410",
+      "gtin14": "757901804014"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Adjustable Heavy-Duty Tripod Orchestra Sheet Music Stand",
+      "ratingCount": "125",
+      "reviewCount": "125",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Instrument Stands & Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories"
+    },
+    {
+      "name": "Sheet Music Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/sheet-music-stands"
+    },
+    {
+      "name": "602410",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/sheet-music-stands/602410"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

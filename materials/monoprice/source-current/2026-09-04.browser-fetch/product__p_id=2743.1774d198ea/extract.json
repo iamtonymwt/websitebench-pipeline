@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3ft Coaxial Audio/Video RCA Cable M/M RG59U 75ohm (for S/PDIF Digital Coax Subwoofer & Composite Video)",
+    "@id": "https://www.monoprice.com/product?p_id=2743",
+    "url": "https://www.monoprice.com/product?p_id=2743",
+    "description": "This Digital Coax Cable is made from premium quality RG59U coaxial cable with double shielding to prevent signal degradation caused by EMI and RFI interference. The conductor is made of 99.999% pure bare oxygen-free copper, while the shield consists of an inner layer of Aluminum-Mylar foil with 100% coverage and an outer layer of copper braid. This cable is ideal for conducting S/PDIF digital audio signals and other high-bandwidth content, but it is also ideal for composite video, audio interconnects, and other line level RCA signals.The VW-1 rating on this cable indicates that the jacket has been treated so that it complies with fire safety regulations, making it safe for use through or within the walls of residential class buildings.Features: Gold plated RCA male connectorsMolded connector housings99.999% pure oxygen-free copper conductorDouble shielded with aluminum-mylar foil and copper braiding75 ohm impedance",
+    "image": "[\"https://images.monoprice.com/productlargeimages/27431.jpg\",\"https://images.monoprice.com/productlargeimages/27432.jpg\",\"https://images.monoprice.com/productlargeimages/27433.jpg\",\"https://images.monoprice.com/productlargeimages/27434.jpg\",\"https://images.monoprice.com/productlargeimages/27435.jpg\",\"https://images.monoprice.com/productlargeimages/27436.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "2743",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2743",
+      "gtin14": "844660027430"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3ft Coaxial Audio/Video RCA Cable M/M RG59U 75ohm (for S/PDIF Digital Coax Subwoofer & Composite Video)",
+      "ratingCount": "541",
+      "reviewCount": "133",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Digital Coaxial Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/digital-coaxial-cables"
+    },
+    {
+      "name": "2743",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/digital-coaxial-cables/2743"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

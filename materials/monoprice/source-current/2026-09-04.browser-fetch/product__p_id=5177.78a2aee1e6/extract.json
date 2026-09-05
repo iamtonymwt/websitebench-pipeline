@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Universal Screen Cleaner for LCD and Plasma TVs all Android and iOS Smartphones and Tablets Large Bottle",
+    "@id": "https://www.monoprice.com/product?p_id=5177",
+    "url": "https://www.monoprice.com/product?p_id=5177",
+    "description": "You may not have noticed, but after a while, your bright and beautiful screen may have lost some of it's original luster. Much of that is probably due to airborne dust and dirt that have accumulated on the screen's surface. This thin layer of dirt reduces your screen's clarity, brightness and color accuracy. The solution is simple. Give it a good cleaning.But many household cleaners contain active ingredients that can damage your screens sensitive surface. Many screens have special coating that can be broken down if you use the wrong cleaning cleaners and clothes. These cleaners are great for all kinds of LCD displays, including portable devices such as Android\u2122 devices, iOS\u00ae devices (iPad\u00ae/iPhone\u00ae/iPod\u00ae), and other smartphones and tablets. Monoprice cleaning kits come with specially formulated solutions designed specifically for modern electronics and microfiber cleaning clothes that will not scratch delicate surfaces. The cleaning liquid is alcohol free and leaves a streak free finish. Easily remove the fingerprints and grime from your screen.Features: 200ml cleaning liquidAlcohol\u2011free solutionElastic and anti\u2011static brush17x17 cm microfiber clothOne set in color box packing\u00a0Support Files: Diagram (Sep 18, 2017)Packaging Card (Sep 18, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Google LLC. Android\u2122 is a trademark of Google LLC. Apple\u00ae, iPod\u00ae, iPhone\u00ae, and iPad\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Cisco\u00ae and IOS\u00ae are registered trademarks or trademarks of Cisco Systems, Inc. and/or its affiliates in the United States and certain other countries. Updated Dec 20, 2021 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/51771.jpg\",\"https://images.monoprice.com/productlargeimages/51772.jpg\",\"https://images.monoprice.com/productlargeimages/51773.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.99,
+      "sku": "5177",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=5177",
+      "gtin14": "844660051770"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Universal Screen Cleaner for LCD and Plasma TVs all Android and iOS Smartphones and Tablets Large Bottle",
+      "ratingCount": "162",
+      "reviewCount": "162",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Audio & Video Accessories",
+      "url": "https://www.monoprice.com/category/audio-video/audio-&-video-accessories"
+    },
+    {
+      "name": "Tools & Cleaning Kits",
+      "url": "https://www.monoprice.com/category/audio-video/audio-&-video-accessories/tools-&-cleaning-kits"
+    },
+    {
+      "name": "5177",
+      "url": "https://www.monoprice.com/category/audio-video/audio-&-video-accessories/tools-&-cleaning-kits/5177"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

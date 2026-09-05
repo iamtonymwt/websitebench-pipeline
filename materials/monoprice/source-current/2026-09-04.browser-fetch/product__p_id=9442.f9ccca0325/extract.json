@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10ft Premier Series 1/4-inch (TRS) Right Angle Male to Right Angle Male 16AWG Cable (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=9442",
+    "url": "https://www.monoprice.com/product?p_id=9442",
+    "description": "Connect speakers and other audio equipment with this Premium 1/4\" TRS Patch Cable with 90-degree connectors from Monoprice!This cable features 90-degree TRS/Stereo plugs on each end. It uses 16 AWG stranded, pure copper conductors and employs copper braid shielding with 97.5% coverage to ensure that stray radio frequency and electromagnetic signals do not degrade the audio quality of your performance. The plugs are gold plated to provide smooth, corrosion-free connections as well as maximum electrical conductivity.With two separate conductors and the common shield ground, this cable can be used as an unbalanced stereo patch cable or as a balanced mono patch cable.Note that this cable is intended for general audio use. For high-end, low-noise performance and recording use we recommend our Cloth Series cables, PIDs 601410, 601415, and 601420.                        Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/94421.jpg\",\"https://images.monoprice.com/productlargeimages/94422.jpg\",\"https://images.monoprice.com/productlargeimages/94423.jpg\",\"https://images.monoprice.com/productlargeimages/94424.jpg\",\"https://images.monoprice.com/productlargeimages/94425.jpg\",\"https://images.monoprice.com/productlargeimages/94426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "9442",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9442",
+      "gtin14": "844660094425"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10ft Premier Series 1/4-inch (TRS) Right Angle Male to Right Angle Male 16AWG Cable (Gold Plated)",
+      "ratingCount": "145",
+      "reviewCount": "20",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "9442",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/9442"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

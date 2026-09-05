@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HDMI to DVI-D Dual Link M1-D (P&D) Cable  28AWG  6ft  Black",
+    "@id": "https://www.monoprice.com/product?p_id=2696",
+    "url": "https://www.monoprice.com/product?p_id=2696",
+    "description": "HDMI\u00ae to M1 adapter cable for InFocus Projectors.Easily connect new HDMI\u00ae source devices to your InFocus projector (projector must be HDCP compliant). High quality, triple shielded cabling. Gold, corrosion resistant connectors. Pure copper connductors. Ferrite cores to filter out signal noise. ROHS compliant. High quality, heavy duty, molded connector housings.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.*NOTE: These cable use a P&D style M1 connector. If your projector uses an EVC style M1 connector, this cable will not fit. P&D and EVC have the same number of pins and pin arrangement but different shaped outer shells.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.Enable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[\"https://images.monoprice.com/productlargeimages/26961.jpg\",\"https://images.monoprice.com/productlargeimages/26962.jpg\",\"https://images.monoprice.com/productlargeimages/26963.jpg\",\"https://images.monoprice.com/productlargeimages/26964.jpg\",\"https://images.monoprice.com/productlargeimages/26965.jpg\",\"https://images.monoprice.com/productlargeimages/26966.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.29,
+      "sku": "2696",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2696",
+      "gtin14": "844660026969"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HDMI to DVI-D Dual Link M1-D (P&D) Cable  28AWG  6ft  Black",
+      "ratingCount": "21",
+      "reviewCount": "12",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DVI Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables"
+    },
+    {
+      "name": "2696",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables/2696"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 15ft DB25 Male-to-Female Serial Extension Cable",
+    "@id": "https://www.monoprice.com/product?p_id=1594",
+    "url": "https://www.monoprice.com/product?p_id=1594",
+    "description": "This is a 15-foot long, 28AWG, 25-pin (DB25) male-to-female serial extension cable with molded strain relied.Support Files: Dimensions Diagram 1 (Mar 1, 2012)Dimensions Diagram 2 (Mar 1, 2012)Technical Specs (Jun 24, 2025)\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/15941.jpg\",\"https://images.monoprice.com/productlargeimages/15942.jpg\",\"https://images.monoprice.com/productlargeimages/15943.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.79,
+      "sku": "1594",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1594",
+      "gtin14": "844660015949"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 15ft DB25 Male-to-Female Serial Extension Cable",
+      "ratingCount": "12",
+      "reviewCount": "1",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Computer & Printer Cables",
+      "url": "https://www.monoprice.com/category/cables/computer-&-printer-cables"
+    },
+    {
+      "name": "Printer Cables",
+      "url": "https://www.monoprice.com/category/cables/computer-&-printer-cables/printer-cables"
+    },
+    {
+      "name": "1594",
+      "url": "https://www.monoprice.com/category/cables/computer-&-printer-cables/printer-cables/1594"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

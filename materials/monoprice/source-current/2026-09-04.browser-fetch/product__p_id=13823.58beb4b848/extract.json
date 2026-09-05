@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft 16AWG 3-Outlet Polarized NEMA 1-15 Indoor Extension Cord 13A/1625W White",
+    "@id": "https://www.monoprice.com/product?p_id=13823",
+    "url": "https://www.monoprice.com/product?p_id=13823",
+    "description": "This 6\u2011foot 3\u2011outlet indoor extension cord allows you to plug up to 3 devices into a single power outlet. It features a polarized NEMA\u00ae 1\u201115 plug one one end and three polarized NEMA 1\u201115 receptacles at the other end. The polarized NEMA 1\u201115 design features a larger blade on one side, ensuring that proper polarity is maintained at all times.The receptacle end features a cover for unused receptacles, ensuring that little hands cannot insert items into the live outlets. This UL\u00ae listed extension cord features two 16 AWG stranded copper conductors and is rated for up to 13 amps/1625 watts of power at 125 VAC.Important: This extension cord is intended for indoor use only. Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jul 15, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/138231.jpg\",\"https://images.monoprice.com/productlargeimages/138232.jpg\",\"https://images.monoprice.com/productlargeimages/138233.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.49,
+      "sku": "13823",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13823",
+      "gtin14": "889028018828"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft 16AWG 3-Outlet Polarized NEMA 1-15 Indoor Extension Cord 13A/1625W White",
+      "ratingCount": "8",
+      "reviewCount": "2",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "13823",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/13823"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

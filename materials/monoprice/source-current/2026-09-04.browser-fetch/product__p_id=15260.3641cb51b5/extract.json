@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 Pro 1x8 Video Splitter with HDMI HDR 18Gbps HDCP 2.2 YCbCr 444 and EDID Support",
+    "@id": "https://www.monoprice.com/product?p_id=15260",
+    "url": "https://www.monoprice.com/product?p_id=15260",
+    "description": "The Monoprice\u2122 Blackbird\u2122 4K Pro 1x8 HDMI\u00ae Splitter with HDCP\u2122 2.2 support distributes a single HDMI source to eight HDMI displays. It can handle video resolutions up to a 4K@60Hz and delivers up to 18 Gbps bandwidth, assuring the best 4K picture possible.Its support for the latest High\u2011bandwidth Digital Content Protection (HDCP) and HDMI specifications guarantees system compatibility and stability. Backed by Monoprice's one year warranty and support, the Monoprice Blackbird 4K Pro 1x8 HDMI Splitter is the go\u2011to solution for your current and future 4K switching needs.Features: Compliant with the latest HDMI\u00ae and HDCP\u2122 specificationsSupports video resolutions up to 4K@30Hz with 24\u2011bit RGB/YCbCr 4:4:4/YCbCr 4:2:2, and up to 4K@60Hz with 12\u2011bit YCbCr 4:4:4Supports 3D frame sequential video formats up to 1080p@60HzSupports high resolution VESA\u00ae mode video formats up to QSXGA@60HzSupports 7.1\u2011channel LPCM, Dolby TrueHD\u2122, and DTS\u2011HD Master Audio\u2122Supports High Dynamic Range (HDR). TVs with HDR show a better, more realistic image with more contrast, brightness, and colors than ever before. HDR significantly expands contrast ratio and color accuracy. Contrast ratio is related to how bright or dark a screen is and color accuracy is how closely the colors on the screen match colors in real life. Bright images seem brighter, with more depth.Full YCbCr 4:4:4 Chroma Sampling at 4KSupport Files: User's Manual (Jul 24, 2019)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. EDID\u00ae and VESA\u00ae are registered trademarks of the Video Electronics Standards Association. Dolby\u00ae and the double\u2011D symbol are registered trademarks of Dolby Laboratories. Dolby TrueHD\u2122 is a trademark of Dolby Laboratories. DTS\u00ae is a registered trademark and the DTS logos, Symbol, DTS\u2011HD\u2122, and DTS\u2011HD Master Audio\u2122 are trademarks of DTS, Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jan 27, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/152601.jpg\",\"https://images.monoprice.com/productlargeimages/152602.jpg\",\"https://images.monoprice.com/productlargeimages/152603.jpg\",\"https://images.monoprice.com/productlargeimages/152604.jpg\",\"https://images.monoprice.com/productlargeimages/152605.jpg\",\"https://images.monoprice.com/productlargeimages/152606.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 129.99,
+      "sku": "15260",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15260",
+      "gtin14": "889028033500"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 Pro 1x8 Video Splitter with HDMI HDR 18Gbps HDCP 2.2 YCbCr 444 and EDID Support",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Splitters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters"
+    },
+    {
+      "name": "15260",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters/15260"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

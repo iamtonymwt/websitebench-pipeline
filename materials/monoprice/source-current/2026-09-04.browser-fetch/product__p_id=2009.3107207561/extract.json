@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2RCA Male to 2RCA Male Cable 25ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=2009",
+    "url": "https://www.monoprice.com/product?p_id=2009",
+    "description": "Despite the introduction of more advanced audio and video signal cables, such as HDMI\u00ae and Toslink, most audio and a large number of video connections still use the common RCA connector.This is a two-channel cable with red and white male RCA plugs with molded connector housings and strain relief boots on each end. The cable is ideal for connecting stereo audio output from a component, such as a CD player, to an amplifier or receiver.HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/20091.jpg\",\"https://images.monoprice.com/productlargeimages/20092.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "2009",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2009",
+      "gtin14": "844660020097"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2RCA Male to 2RCA Male Cable 25ft Black",
+      "ratingCount": "146",
+      "reviewCount": "60",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "2009",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/2009"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

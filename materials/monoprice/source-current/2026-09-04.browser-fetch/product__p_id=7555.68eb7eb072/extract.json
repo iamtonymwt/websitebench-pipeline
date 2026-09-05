@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@60Hz HDR 18Gbps YCbCr 444 34AWG 1.5ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=7555",
+    "url": "https://www.monoprice.com/product?p_id=7555",
+    "description": "Enhance your multimedia experience with the Monoprice High\u2011Speed HDMI Cable featuring an HDMI Micro Connector, designed to seamlessly bridge your HDMI\u2011equipped mobile device with your television or monitor. Offering unparalleled convenience and versatility, this cable delivers exceptional performance, ensuring stunning visuals and immersive audio with every connection.At the heart of this cable lies advanced technology engineered to meet the demands of today's high\u2011definition content. With a blazing\u2011fast data throughput of 18Gbps, you can enjoy seamless transmission of digital signals, whether you're streaming your favorite movies, gaming, or sharing multimedia presentations. The 34AWG copper conductors ensure optimal signal integrity and reliability, guaranteeing crystal\u2011clear image quality and uninterrupted audio playback.Equipped with a ferrite core, this cable provides robust protection against electromagnetic and radio frequency interference, ensuring a stable and interference\u2011free connection. Whether you're in a busy household or a bustling office environment, you can count on the Monoprice High\u2011Speed HDMI Cable to deliver a consistently smooth and reliable viewing experience.Designed for maximum compatibility and ease of use, this cable features a full\u2011size HDMI connector on one end and an HDMI Micro Connector on the other. The full\u2011size HDMI connector boasts a slim profile, measuring only 15.7mm thick and 24.0mm wide, ensuring compatibility with a wide range of devices and setups. Meanwhile, the HDMI Micro Connector is compact and lightweight, measuring just 13.0mm thick and 16.2mm wide, making it ideal for connecting smartphones, tablets, and other portable devices.Gold\u2011plated connectors further enhance the cable's performance by minimizing signal loss and ensuring long\u2011lasting durability. Whether you're connecting your smartphone to your TV to stream videos or showcasing presentations from your tablet, you can trust the Monoprice High\u2011Speed HDMI Cable to deliver uncompromising performance and reliability.This versatile cable supports a range of HDMI features, including 1080p resolution at 120Hz, 4K resolution at 60Hz, and 3D video, allowing you to enjoy immersive visuals with stunning clarity and depth. Additionally, it supports Deep Color up to 16\u2011bits per channel, ensuring vibrant and lifelike color reproduction, as well as x.v.Color\u2122 for enhanced color accuracy and realism.Experience the ultimate in high\u2011definition audio with support for High Definition Audio formats such as SA\u2011CD, DVD\u2011Audio, DTS\u2011HD Master Audio\u2122, and Dolby TrueHD\u2122. Whether you're watching movies, listening to music, or playing games, you'll enjoy immersive sound quality that brings your entertainment to life.In summary, the Monoprice High\u2011Speed HDMI Cable with HDMI Micro Connector offers a seamless solution for connecting your HDMI\u2011equipped mobile device to your TV or monitor. With its high\u2011speed data throughput, advanced features, and durable construction, it provides the perfect blend of performance, reliability, and convenience. Whether you're a multimedia enthusiast, a professional presenter, or a casual user, this cable ensures a premium viewing and listening experience every time.This High Speed HDMI Cable features an HDMI Micro Connector (Type D) on the source end and a regular HDMI Connector (Type A) on the other end. It supports the following general features:HDMI Micro Connector at source end18Gbps data throughput34AWG copper conductorsFerrite core helps protect against RFI/EMIFull size HDMI connector head measures only 15.7mm thick and 24.0mm wideHDMI Micro connector head measures only 13.0mm thick and 16.2mm wideGold plated connectorsIt supports the following HDMI features:1080p resolution at 120Hz4K resolution at 60Hz3D videoDeep Color up to 16-bits per channelx.v.Color\u2122High Definition Audio, including SA-CD, DVD-Audio, DTS-HD Master Audio\u2122, and Dolby TrueHD\u2122HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. x.v.Color\u2122 is a trademark of Sony Corporation. DTS\u00ae is a registered trademark and the DTS logos, Symbol, DTS-HD\u2122, and DTS-HD Master Audio\u2122 are trademarks of DTS, Inc. Dolby\u00ae and the double-D symbol are registered trademarks of Dolby Laboratories. Dolby TrueHD\u2122 is a trademark of Dolby Laboratories. \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/75551.jpg\",\"https://images.monoprice.com/productlargeimages/75552.jpg\",\"https://images.monoprice.com/productlargeimages/75553.jpg\",\"https://images.monoprice.com/productlargeimages/75554.jpg\",\"https://images.monoprice.com/productlargeimages/75555.jpg\",\"https://images.monoprice.com/productlargeimages/75556.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.09,
+      "sku": "7555",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7555",
+      "gtin14": "844660075554"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@60Hz HDR 18Gbps YCbCr 444 34AWG 1.5ft Black",
+      "ratingCount": "78",
+      "reviewCount": "8",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "Micro & Mini HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/micro-&-mini-hdmi-cables"
+    },
+    {
+      "name": "7555",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/micro-&-mini-hdmi-cables/7555"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

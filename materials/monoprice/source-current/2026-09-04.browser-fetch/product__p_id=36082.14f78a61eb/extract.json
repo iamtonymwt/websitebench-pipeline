@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Easy Adjustable Full-Motion Gas-Spring 2-Segment Wall Mount for Monitors Up To 27in Max Weight 15.4lbs",
+    "@id": "https://www.monoprice.com/product?p_id=36082",
+    "url": "https://www.monoprice.com/product?p_id=36082",
+    "description": "\u00a0This easy\u2011adjust monitor mount frees up space on your desktop by mounting your display on the wall instead of taking up space on your desk. The fully\u2011adjustable gas spring arm provides a wide range instant adjustments, similar to the desktop version. It works well with workstations that are next to a wall and also works for non\u2011traditional work spaces where there may not even be a real desk to support a monitor.This mount provides full adjustability for monitors, including vertical and horizontal tilt, height level adjustment, and portrait or landscape orientation rotation. The extra arm segment provides additional length and a wider range of screen position options.Features: Instant tilt, swivel, rotatation, and height adjustmentsThe wall mounted design frees up desk space and suits non\u2011traditional workstationsThe gas\u2011spring provides a counterbalance force that lets the monitor hover and allows for easy one\u2011handed adjustmentMade of high\u2011quality metal structural partsWorks with most monitors up to 27\" and weighing up to 15.4 lbs.*Supports 75x75 and 100x100 VESA\u00ae patternsThe built\u2011in cable management system minimizes wire mess by routing the cables through the mount's arm segments*The minimum and maximum display sizes are only approximations. Your TV will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight. Support Files: User's Manual (Oct 30, 2018)Tech Drawing (Mar 30, 2026)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Feb 24, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/360821.jpg\",\"https://images.monoprice.com/productlargeimages/360822.jpg\",\"https://images.monoprice.com/productlargeimages/360823.jpg\",\"https://images.monoprice.com/productlargeimages/360824.jpg\",\"https://images.monoprice.com/productlargeimages/360825.jpg\",\"https://images.monoprice.com/productlargeimages/360826.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 43.99,
+      "sku": "36082",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=36082",
+      "gtin14": "889028113288"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Easy Adjustable Full-Motion Gas-Spring 2-Segment Wall Mount for Monitors Up To 27in Max Weight 15.4lbs",
+      "ratingCount": "26",
+      "reviewCount": "26",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Desk Monitor Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts"
+    },
+    {
+      "name": "36082",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts/36082"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

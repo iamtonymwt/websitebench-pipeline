@@ -40,6 +40,8 @@ from __future__ import annotations
 
 import argparse
 import collections
+import gzip
+import hashlib
 import json
 import pathlib
 import re
@@ -48,7 +50,7 @@ import urllib.parse
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from capture_pages import read_body  # noqa: E402
-from fetch_assets import asset_target  # noqa: E402
+from fetch_assets import WEBFLOW_HOSTS, asset_target  # noqa: E402
 
 LOCAL_ASSET_PREFIX = "/static/assets"
 
@@ -62,8 +64,11 @@ CSS_URL = re.compile(r"""url\(\s*(?P<q>['"]?)(?P<v>[^)'"]+)(?P=q)\s*\)""", re.I)
 
 ABSOLUTE = re.compile(r"^(?:https?:)?//", re.I)
 
-# Hosts whose bytes we hold locally.
-LOCAL_HOSTS = {"www.monoprice.com", "monoprice.com", "images.monoprice.com"}
+# Hosts whose bytes we hold locally. The Webflow set is here because 3,328 pages
+# of this site are a Webflow build whose entire visual layer lives there; see
+# fetch_assets.WEBFLOW_HOSTS.
+LOCAL_HOSTS = ({"www.monoprice.com", "monoprice.com", "images.monoprice.com"}
+               | WEBFLOW_HOSTS)
 
 # Third-party tags removed wholesale. Everything here was observed loading on a
 # captured page; nothing is speculative.
@@ -78,7 +83,12 @@ THIRD_PARTY_HOST_HINTS = (
     "px-cloud.net", "px-cdn.net", "perimeterx", "affirm.com", "five9.net",
     "nagich.com", "apollo.io", "aplo-evnt", "liadm.com", "cloudflareinsights",
     "wra-api.net", "sitemaphosting", "kayako", "scanalert", "trustkeeper",
-    "truste.com", "cloudfront.net", "unbxd", "capi-automation",
+    "truste.com", "unbxd", "capi-automation",
+    # Named exactly, not as "cloudfront.net". That substring also matches
+    # Webflow's jQuery host, and stripping it would have taken the script layer
+    # off 3,328 pages while the strip report happily counted it as a third party
+    # removed.
+    "d21gpk1vhmjuf5.cloudfront.net", "d3m8huu8gvuyn3.cloudfront.net",
 )
 
 # First-party paths that exist only to proxy a third party. A remote-request
@@ -200,14 +210,38 @@ def strip_third_party_tags(html: str, tally: collections.Counter) -> str:
 
 
 def route_for(url: str) -> str:
+    """Frozen-file path for a URL, keeping the source's directory structure.
+
+    Flattening the path to one name loses information and collides:
+    `/category/cables/hdmi-cables` and `/category/cables-hdmi/cables` both
+    become `category-cables-hdmi-cables`, and the second write silently wins.
+    Segments are kept as directories, and a query becomes one extra segment.
+    """
     u = urllib.parse.urlsplit(url)
-    path = u.path.lower().strip("/") or "index"
+    trailing = u.path.endswith("/") and u.path != "/"
+    segments = [s for s in u.path.lower().split("/") if s] or ["index"]
+    # Percent-encode rather than substitute. Replacing every unsafe run with "-"
+    # collapsed genuinely different pages together: this site serves both
+    # `/category/adapters,-switches,-&-splitters/...` and
+    # `/category/adapters, switches, & splitters/...`, and they are not the same
+    # page -- one pair differed by 70 KB. Encoding keeps them distinct and still
+    # readable.
+    safe = [urllib.parse.quote(s, safe="._,+&=-")[:100] for s in segments]
+    if trailing:
+        # `/terms-of-use/` and `/terms-of-use` are two URLs the source answers
+        # separately. Keep them apart rather than letting one overwrite the other.
+        safe.append("index")
     if u.query:
         keep = sorted(urllib.parse.parse_qsl(u.query))
         if keep:
-            path += "__" + urllib.parse.urlencode(keep)
-    path = re.sub(r"[^A-Za-z0-9._&=,%+-]+", "-", path)
-    return path[:180]
+            encoded = urllib.parse.urlencode(keep)
+            # Truncating a long query collided two different filtered listings
+            # into one file. A digest of the *whole* query keeps the readable
+            # prefix and still separates them.
+            digest = hashlib.sha256(encoded.encode()).hexdigest()[:8]
+            safe.append("q__" + re.sub(r"[^A-Za-z0-9._,%+&=-]+", "-",
+                                       encoded)[:100] + "." + digest)
+    return "/".join(safe)
 
 
 def freeze_page(html: str, base_url: str, loc: Localiser,
@@ -286,6 +320,11 @@ def main() -> int:
     unresolved: list[str] = []
     written = 0
     by_kind: collections.Counter = collections.Counter()
+    route_map: dict[str, str] = {}
+    reserved: dict[str, str] = {}
+    collisions: list[tuple[str, str]] = []
+    total_raw_bytes = [0]
+    total_stored_bytes = [0]
 
     page_dirs = sorted(d for d in pathlib.Path(args.capture_dir).glob("*/*")
                        if d.is_dir())
@@ -298,9 +337,54 @@ def main() -> int:
             continue
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
         kind = meta.get("classification")
+        # A stylesheet that got swept into the page capture is not a page. It
+        # classifies as `content` -- it has no <title>, so no rule rejects it --
+        # and freezing it would serve CSS as an HTML route.
+        if re.match(r"^/(assets|Scripts|Content|cf-fonts|CommissionJunction)/",
+                    urllib.parse.urlsplit(meta["url"]).path, re.I):
+            by_kind["skipped:asset-not-a-page"] += 1
+            continue
         # An error page captured from the source is not a content page. Serving
         # one with status 200 is a false success, and this site's absent-product
         # page looks entirely ordinary.
+        # An error page captured from the source must never be served as content
+        # at status 200 -- that is a false success, and this site's absent-product
+        # page looks entirely ordinary. But the clone still needs *one* of each,
+        # because the source answers those situations with these exact pages: a
+        # real 404 at /this-route-does-not-exist, and a 200 "Products no longer
+        # Available" for 1,906 discontinued ids. They are frozen once, into a
+        # reserved directory the route map does not point at, and the app serves
+        # them deliberately with the right status.
+        if kind in ("not-found", "absent-product"):
+            slot = "_error/not-found" if kind == "not-found" else "_error/absent-product"
+            if slot in reserved:
+                by_kind[f"skipped:{kind}"] += 1
+                continue
+            html_body = read_body(page_dir)
+            if html_body is None:
+                by_kind[f"skipped:{kind}-no-body"] += 1
+                continue
+            # Not every 404 the site emits is the *site's* 404. A request under
+            # an asset path returns IIS's own "Detailed Error - 404.0" page --
+            # a server page, not a Monoprice page -- and taking the first one
+            # encountered picked exactly that. The site's own error page is
+            # titled HttpError404.
+            if kind == "not-found":
+                title = re.search(r"<title[^>]*>(.*?)</title>", html_body,
+                                  re.I | re.S)
+                text = (title.group(1) if title else "").strip().lower()
+                if "httperror404" not in text.replace(" ", ""):
+                    by_kind["skipped:not-found-server-page"] += 1
+                    continue
+            loc = Localiser(assets_dir, meta["url"], served_routes, served_products)
+            frozen_error = freeze_page(html_body, meta["url"], loc, tally)
+            dest = out_root / f"{slot}.html"
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            with gzip.open(f"{dest}.gz", "wb", compresslevel=6) as fh:
+                fh.write(frozen_error.encode("utf-8", "replace"))
+            reserved[slot] = meta["url"]
+            by_kind[f"written:error-page:{kind}"] += 1
+            continue
         if kind not in ("content", "empty-listing"):
             by_kind[f"skipped:{kind}"] += 1
             continue
@@ -312,15 +396,46 @@ def main() -> int:
         frozen = freeze_page(html, meta["url"], loc, tally)
         tally.update(loc.tally)
         unresolved.extend(loc.unresolved[:5])
-        dest = out_root / f"{route_for(meta['url'])}.html"
+        route = route_for(meta["url"])
+        dest = out_root / f"{route}.html"
+        if route in route_map:
+            # Two source URLs that would occupy one file. Report it rather than
+            # letting the second write win in silence.
+            collisions.append((route_map[route], meta["url"]))
+            by_kind["skipped:route-collision"] += 1
+            continue
+        route_map[route] = meta["url"]
         dest.parent.mkdir(parents=True, exist_ok=True)
-        dest.write_text(frozen, encoding="utf-8")
+        # Stored gzipped. These pages are 285 KB each and there are ~6,000 of
+        # them: 1.7 GB verbatim, ~180 MB compressed. The app serves the bytes
+        # untouched with `Content-Encoding: gzip`, which every browser decodes,
+        # so this costs nothing at request time -- it is not a cache, it is the
+        # representation.
+        raw = frozen.encode("utf-8", "replace")
+        with gzip.open(f"{dest}.gz", "wb", compresslevel=6) as fh:
+            fh.write(raw)
+        total_raw_bytes[0] += len(raw)
+        total_stored_bytes[0] += pathlib.Path(f"{dest}.gz").stat().st_size
         by_kind[f"written:{kind}"] += 1
         written += 1
+
+    # The route map is what the app serves from. Writing it here rather than
+    # having the app re-derive the naming rule keeps one definition of the
+    # mapping instead of two that can drift apart.
+    (out_root / "route-map.json").write_text(
+        json.dumps({"schema_version": "monoprice.frozen-route-map.v1",
+                    "routes": {url: route for route, url in
+                               sorted(route_map.items(), key=lambda kv: kv[1])}},
+                   indent=1) + "\n", encoding="utf-8")
 
     report = {
         "schema_version": "monoprice.frozen-pages.v1",
         "pages_written": written,
+        "stored_bytes": total_stored_bytes[0],
+        "uncompressed_bytes": total_raw_bytes[0],
+        "error_pages": dict(sorted(reserved.items())),
+        "route_collisions": len(collisions),
+        "route_collision_examples": collisions[:10],
         "by_kind": dict(sorted(by_kind.items())),
         "rewrites": dict(sorted(tally.items())),
         "unresolved_examples": sorted(set(unresolved))[:40],

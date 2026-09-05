@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6in SATA 15-pin Female to Molex 4-pin Male Power Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=1253",
+    "url": "https://www.monoprice.com/product?p_id=1253",
+    "description": "Got a new SATA drive that you need to connect to a system with an older\u00a0power supply?\u00a0 Here's a solution.This is an adapter is for connecting internal storage devices that require 15 pin SATA power connectors to Power supplies that only have 4 pin molex\u00a0 power connectors.\u00a0 i.e. YOUR DRIVE IS A NEWER SATA, BUT YOUR COMPUTER IS AN OLDER ONE WITH MOLEX.\u00a0Warning:\u00a0 Molex connector provide 12V and 5V power lines, but not 3.3V required by some SATA drives.\u00a0 Make sure your drive does not require a 3.3V power connection before purchasing this adapter.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/12531.jpg\",\"https://images.monoprice.com/productlargeimages/12532.jpg\",\"https://images.monoprice.com/productlargeimages/12533.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.39,
+      "sku": "1253",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1253",
+      "gtin14": "844660012535"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6in SATA 15-pin Female to Molex 4-pin Male Power Adapter",
+      "ratingCount": "79",
+      "reviewCount": "52",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SATA Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables"
+    },
+    {
+      "name": "1253",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables/1253"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

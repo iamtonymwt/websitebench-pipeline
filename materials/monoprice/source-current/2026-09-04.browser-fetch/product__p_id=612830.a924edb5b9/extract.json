@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 30W LED DMX Spot Moving Head Stage Light with 7 Colors and Gobos",
+    "@id": "https://www.monoprice.com/product?p_id=612830",
+    "url": "https://www.monoprice.com/product?p_id=612830",
+    "description": "Project a crisp beam of light anywhere with this 30\u2011watt moving head stage light. Choose from 7 colors, plus open white, and 7 gobos patterns, plus an open circle. Super\u2011fast servo motors and 16\u2011bit fine tuners direct light where you want when you want. If programming is not your speed, then take it out of DMX mode and activate any of the 8 auto programs or the sound active mode with internal mic. With one unit serving as the master, up to 32 additional units can slave together for an incredible light show all night long.Features: Uses a single, 30\u2011watt white LED8\u2011position gobo wheel with 7 gobo patterns and a non\u2011template open beam option8\u2011position color wheel with 7 color filters (Orange, Cyan, Lavender, Yellow, Green, Blue, and Red) and a non\u2011filtered Open/White option8 built\u2011in programs9\u2011channel and 12\u2011channel DMX control modes540\u00b0 of pan movement, 190\u00b0 of tilt movementReversible Pan and Tilt control for inverted or mirrored operationReversible menu for inverted operationIncludes sound\u2011responsive programAccepts 100 ~ 240 VAC, 50/60 Hz input powerSupport Files: User's Manual (Nov 17, 2021)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 21, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6128301.jpg\",\"https://images.monoprice.com/productlargeimages/6128302.jpg\",\"https://images.monoprice.com/productlargeimages/6128303.jpg\",\"https://images.monoprice.com/productlargeimages/6128304.jpg\",\"https://images.monoprice.com/productlargeimages/6128305.jpg\",\"https://images.monoprice.com/productlargeimages/6128306.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 259.99,
+      "sku": "612830",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612830",
+      "gtin14": "889028033388"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 30W LED DMX Spot Moving Head Stage Light with 7 Colors and Gobos",
+      "ratingCount": "11",
+      "reviewCount": "11",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "LED Moving Heads",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-moving-heads"
+    },
+    {
+      "name": "612830",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-moving-heads/612830"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cloth Series 1/4-inch TS Guitar/Instrument Cable with One Right Angle Connector 10ft Blue",
+    "@id": "https://www.monoprice.com/product?p_id=601470",
+    "url": "https://www.monoprice.com/product?p_id=601470",
+    "description": "Monoprice\u2122Cloth Series 1/4\u2011inch TS Guitar/Instrument Cable with One Right Angle Connector, 10ft Blue20AWG Solid Conductor, Two Layers of Copper Braid Shielding, 99% Shield CoverageGet a great sounding, no\u2011noise guitar/studio recording instrument cable when you use this Cloth Series 1/4\" TS Male Straight to Right Angle 20AWG Instrument Cable from Monoprice\u2122!This cable is constructed using a 20AWG solid conductor, surrounded by two layers of copper braid shielding, that produce 99% shield coverage. The cable features nickel\u2011plated connectors for smooth, corrosion\u2011free connections every time. One end features a straight TS connector, while the other end features a 90-degree angled connector. The blue braided cloth jacket provides superior durability to traditional plastic jackets..gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc Updated Oct 30, 2023 WARNING: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6014701.jpg\",\"https://images.monoprice.com/productlargeimages/6014702.jpg\",\"https://images.monoprice.com/productlargeimages/6014703.jpg\",\"https://images.monoprice.com/productlargeimages/6014704.jpg\",\"https://images.monoprice.com/productlargeimages/6014705.jpg\",\"https://images.monoprice.com/productlargeimages/6014706.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.99,
+      "sku": "601470",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601470",
+      "gtin14": "757901816260"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cloth Series 1/4-inch TS Guitar/Instrument Cable with One Right Angle Connector 10ft Blue",
+      "ratingCount": "112",
+      "reviewCount": "112",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Guitar Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/guitar-cables"
+    },
+    {
+      "name": "601470",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/guitar-cables/601470"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

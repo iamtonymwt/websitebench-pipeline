@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Super-Bright Hex 7 x12W DMX LED PAR Wash Stage Light RGBAW+UV 84W Output",
+    "@id": "https://www.monoprice.com/product?p_id=612745",
+    "url": "https://www.monoprice.com/product?p_id=612745",
+    "description": "                    Add an extremely bright PAR light capable of delivering Amber, White, and Ultraviolet light, in addition to the standard Red, Green, and Blue using this Super\u2011Bright 12\u2011watt x7 LED PAR Stage Light from Monoprice\u2122!                    This PAR light features 7 super\u2011bright 12\u2011watt LEDs, each of which is capable of producing Red, Green, Blue, Amber, White, and Ultraviolet light. The colors can be mixed in any combination to produce the exact shades you desire.                    The light has several basic built\u2011in program abilities, such as fade, strobe, color changing, and sound activation modes. Additionally, it features 68 presets/programs, which can be activated to produce specific color washes, as well as several color changing programs. In addition to the built\u2011in modes, it has the capability of responding to DMX signals using 3, 6, 8, 10, or 11 channels. Several basic and programmable nodes allows you to produce smooth fades at speeds slower than real\u2011time.                    A white balance mode allows you to adjust the overall tint of the light produced by having all LED colors on. You can adjust how much of each individual color element is allowed to be displayed. When enabled, the White Balance function effects the overall light output. So, for example, if you set the Red light brightness value to 000 (no brightness), you will not see any red in any of the light produced by this fixture, even if using a preset program or directly accessing the red color.                    It features pass\u2011through connectors for both power and the DMX signal, so you can easily daisy\u2011chain up to 32 lights together. The power connection uses the locking NAC3 connector for additional safety.                                                                      Distance(meters)                                      Lux Values for Each Color at Distance                                                          R                                      G                                      B                                      A                                      W                                      UV                                      ALL                                                          1                                      2030                                      2485                                      1050                                      1223                                      3406                                      620                                      11400                                                          3                                      210                                      265                                      120                                      135                                      384                                      64                                      1520                                                          5                                      82                                      96                                      50                                      53                                      145                                      26                                      510                                                          7                                      42                                      50                                      25                                      26                                      73                                      12                                      270                                                          10                                      23                                      28                                      15                                      14                                      42                                      8                                      150                                                                                                                                                                                              Support Files:            User's Manual (Oct 3, 2014)    Manual de Usuario (Espa\u00f1ol) (Jul 16, 2015)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 21, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6127451.jpg\",\"https://images.monoprice.com/productlargeimages/6127452.jpg\",\"https://images.monoprice.com/productlargeimages/6127453.jpg\",\"https://images.monoprice.com/productlargeimages/6127454.jpg\",\"https://images.monoprice.com/productlargeimages/6127455.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 159.99,
+      "sku": "612745",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=612745",
+      "gtin14": "889028001592"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Super-Bright Hex 7 x12W DMX LED PAR Wash Stage Light RGBAW+UV 84W Output",
+      "ratingCount": "39",
+      "reviewCount": "39",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "LED Wash Lights",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights"
+    },
+    {
+      "name": "612745",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights/612745"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

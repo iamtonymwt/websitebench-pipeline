@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SS2V70 70V 2-Zone 100-Watt Speaker Selector",
+    "@id": "https://www.monoprice.com/product?p_id=38165",
+    "url": "https://www.monoprice.com/product?p_id=38165",
+    "description": "This SS2V70 70V 2\u2011Zone 100\u2011Watt Speaker Selector features two independent mono 70V 100\u2011watt speaker zones, each with its own on/off switch and volume control knob. It has a single 2\u2011conductor input and a pass\u2011through output, allowing multiple speaker selectors to be daisy chained. It supports up to 80 watts of 70V speakers connected to each zone.Support Files: Quick Install Guide (Jul 3, 2019)Diagram (Mar 4, 2024)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 9, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381651.jpg\",\"https://images.monoprice.com/productlargeimages/381652.jpg\",\"https://images.monoprice.com/productlargeimages/381653.jpg\",\"https://images.monoprice.com/productlargeimages/381654.jpg\",\"https://images.monoprice.com/productlargeimages/381655.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "38165",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38165",
+      "gtin14": "889028123157"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SS2V70 70V 2-Zone 100-Watt Speaker Selector",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38165",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38165"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

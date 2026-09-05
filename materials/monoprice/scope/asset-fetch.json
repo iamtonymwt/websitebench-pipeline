@@ -1,0 +1,302 @@
+{
+  "schema_version": "monoprice.asset-fetch.v1",
+  "plan": "scope/asset-plan.json",
+  "assets_dir": "source-assets",
+  "requested": 29682,
+  "status_tally": {
+    "cached": 24456,
+    "fetched": 5156,
+    "http-403": 2,
+    "http-404": 57,
+    "over-limit": 3,
+    "http-406": 8
+  },
+  "bytes_written": 1291091922,
+  "seconds": 173.6,
+  "failures": [
+    {
+      "key": "cdn.prod.website-files.com/680733553d93d74ec4bca34c/680935acc40a1f5374b33f6f_Placeholder Image - Landscape.svg",
+      "status": "http-403"
+    },
+    {
+      "key": "cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+      "status": "http-403"
+    },
+    {
+      "key": "images.monoprice.com/backgrounds/img_subsecurebg.gif",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/buttons/grey_small.png",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/buttons/grey_medium.png",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/buttons/grey_large.png",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/buttons/grey_x_small.png",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/buttons/grey_x_large.png",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/backgrounds/white_40.png",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/assets/images/email-modal-6-bg.png",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/assets/images/email-modal-6-close-btn.png",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445281.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445271.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445361.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445291.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445351.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445341.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445301.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445331.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445321.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445451.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445491.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445461.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445501.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/cms_images/Educator_Setup_4.jpg",
+      "status": "over-limit",
+      "bytes": 25973768
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/382081.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/cms_images/ethernet_technologists.jpg",
+      "status": "over-limit",
+      "bytes": 38570408
+    },
+    {
+      "key": "images.monoprice.com/cms_images/Office_Setup_2.jpg",
+      "status": "over-limit",
+      "bytes": 25973768
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445421.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445441.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/445431.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/21151.jpg",
+      "status": "http-406"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/274685.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/338151.jpg",
+      "status": "http-406"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/274686.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/394161.jpg",
+      "status": "http-406"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/410251.jpg",
+      "status": "http-406"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/313375.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/313376.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/294426.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/448966.jpg",
+      "status": "http-406"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/47831.jpg",
+      "status": "http-406"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/54461.jpg",
+      "status": "http-406"
+    },
+    {
+      "key": "images.monoprice.com/productlargeimages/6126011.jpg",
+      "status": "http-406"
+    },
+    {
+      "key": "images.monoprice.com/productmediumimages/497571.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/images/starsnew-b.jpg",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/fonts/slick.eot",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/fonts/slick.woff",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/fonts/slick.ttf",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/fonts/slick.svg",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/fonts/hawksearch.eot",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/_images/ui-icons_444444_256x240.png_",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/images/ui-icons_444444_256x240.png",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/Content/Themes/alert-overlay.png",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/fonts/hawksearch.woff",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/fonts/hawksearch.ttf",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/fonts/hawksearch.svg",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/css/owl.video.play.png",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/_images/ui-icons_555555_256x240.png_",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/_images/ui-icons_777620_256x240.png_",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/_images/ui-icons_cc0000_256x240.png_",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/_images/ui-icons_777777_256x240.png_",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/_images/ui-icons_ffffff_256x240.png_",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/images/ui-icons_555555_256x240.png",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/images/ui-icons_ffffff_256x240.png",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/images/ui-icons_777620_256x240.png",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/images/ui-icons_cc0000_256x240.png",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/javascripts/images/ui-icons_777777_256x240.png",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/stylesheets/libs/next-vertical.gif",
+      "status": "http-404"
+    },
+    {
+      "key": "www.monoprice.com/assets/stylesheets/libs/prev-vertical.gif",
+      "status": "http-404"
+    }
+  ],
+  "failures_total": 70
+}

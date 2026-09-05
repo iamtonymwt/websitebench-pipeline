@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice THX-LCR THX Certified Ultra 3-Way LCR In-Wall Speaker",
+    "@id": "https://www.monoprice.com/product?p_id=34366",
+    "url": "https://www.monoprice.com/product?p_id=34366",
+    "description": "The THX\u00ae In\u2011Wall Speaker Series has been engineered to deliver the highest level of accuracy and reproduce all the dynamics and detail of the best home theater soundtracks and music. Each speaker has been THX\u00ae Certified Ultra, ensuring optimal frequency response, dispersion, and low distortion. THX Certification ensures that the sound from the speaker is as the audio engineer intended. The THX\u2011LCR features premium drivers, THX Certification, a sophisticated crossover network, and an MDF baffle to ensure that you've never experienced home theater sound that is this dynamic, detailed, or immersive from an in\u2011wall speaker.\u00a0THX\u00ae CERTIFIED ULTRATested. Approved. Certified.THX\u00ae Engineers complete hundreds of different scientifically formulated tests to ensure the highest audio standards possible. Key tests in this program are as follows:Axial Frequency ResponseThis describes a loudspeaker's ability to reproduce audio accurately. Our test confirms the axial frequency response is balanced and flat.Vertical and Horizontal DispersionNot everyone gets the middle seat when watching a movie. So we test the off\u2011axis response to make sure it is smooth with no audible comb filtering, making every seat in the room the sweet spot.Output Versus DistortionThis test ensures the speaker can reach the high volumes necessary to achieve THX\u00ae Reference Level without creating audible distortion or artifacts.\u00a0PREMIUM DRIVERSHigh\u2011Excursion Woofers. Silk Dome Midrange. Silk Dome Tweeter.Featuring carefully selected drivers that deliver a flat frequency response in the listening window, the THX\u2011LCR features two 6.5\" woofers, a 2\" silk dome midrange, and a 1\" silk dome tweeter. The silk dome midrange operated in the 550Hz~1.9kHz range, improving power handling, lowering distortion, and improving the polar response, which allows the speaker to achieve higher SPL. The 6.5\" high\u2011excursion woofers feature long fiber pulp cones, NBR surrounds, and are design with shorting rings to keep distortion at a minimum. The combined driver design enables each speaker to reach sonic heights and deliver accurate sound for the best in home theater dynamics and detail.PRECISION CROSSOVER NETWORKThe THX\u00ae speaker series feature carefully selected fourth\u2011order Linkwitz\u2011Riley crossover network acoustic filters. This sophisticated crossover minimizes sonic frequency overlap, reduces distortion, and is an excellent choice to minimize off\u2011axis response errors near the crossover frequency.EASY INSTALLThe heavy\u2011duty mounting tabs make for a fast and problem\u2011free installation. The magnetic, detachable grille is powder\u2011coated in white and can be painted to match any decor.   TIMBRE MATCHEDSame Drivers. Same Landscape. LCR Design.The Monolith\u2122 THX\u00ae Certified in\u2011wall and in\u2011room speakers use the same drivers and crossover components, allowing the speakers to be mixed and matched to suit your room! Use in\u2011wall speakers for the rears and in\u2011room speakers for the LCR and you will remain timbre matched across the Monolith THX family.   .gte-ctr .row{margin:0;}5 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 5 year replacement warranty, we offer a 45 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.45 Day Money Back GuaranteeMonoprice stands behind the Monolith line of products we sell with a 45 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Cutout Template (Apr 15, 2019)Monoprice\u2122, Monolith\u2122, the Monolith logo, and all Monoprice logos are trademarks of Monoprice Inc. THX\u00ae and the THX logo are the property of THX Ltd., registered in the U.S. and other countries. Updated Apr 11, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/343661.jpg\",\"https://images.monoprice.com/productlargeimages/343662.jpg\",\"https://images.monoprice.com/productlargeimages/343663.jpg\",\"https://images.monoprice.com/productlargeimages/343664.jpg\",\"https://images.monoprice.com/productlargeimages/343665.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 499.99,
+      "sku": "34366",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=34366",
+      "gtin14": "889028095492"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice THX-LCR THX Certified Ultra 3-Way LCR In-Wall Speaker",
+      "ratingCount": "7",
+      "reviewCount": "7",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "In Wall Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers"
+    },
+    {
+      "name": "34366",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers/34366"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

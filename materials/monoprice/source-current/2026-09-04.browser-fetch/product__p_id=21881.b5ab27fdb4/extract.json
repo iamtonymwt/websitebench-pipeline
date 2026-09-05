@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to USB-C Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=21881",
+    "url": "https://www.monoprice.com/product?p_id=21881",
+    "description": "Connect your device with a USB-A connector to a USB-C\u00ae port using this USB-A to USB-C Adapter from Monoprice\u2122!This small adapter features a standard female USB-A port and male USB-C plug. It allows you to use an existing USB 2.0 or 3.0 device, such as a mouse, USB hub, etc., with a USB-C connector port, such as that found on the newest MacBook Air\u00ae.\u00a0Monoprice\u2122 and all Monoprice logos trademarks of Monoprice Inc. USB-C\u00ae and USB-C\u00ae are trademarks of USB Implementers Forum, Inc. Apple\u00ae, Mac\u00ae, MacBook\u00ae, and MacBook Air\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Updated Apr 27, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/218811.jpg\",\"https://images.monoprice.com/productlargeimages/218812.jpg\",\"https://images.monoprice.com/productlargeimages/218813.jpg\",\"https://images.monoprice.com/productlargeimages/218814.jpg\",\"https://images.monoprice.com/productlargeimages/218815.jpg\",\"https://images.monoprice.com/productlargeimages/218816.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "21881",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21881",
+      "gtin14": "889028051771"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to USB-C Adapter",
+      "ratingCount": "7",
+      "reviewCount": "7",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "21881",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/21881"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium 3.5mm AUX Extension Cable - TRS Stereo Male-to-Female 22AWG Gold Plated 15ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=5589",
+    "url": "https://www.monoprice.com/product?p_id=5589",
+    "description": "The 3.5mm (1/8\") stereo TRS connector is more commonly known as the Headphone Jack on portable mp3 players and mobile phones. This cable features a male 3.5mm stereo (TRS) plug on one end and a female 3.5mm stereo jack on the other end, each with molded connector housings and strain relief boots. Each connector is gold-plated to ensure smooth, corrosion-free connections.The cable is made of heavy-duty coaxial cable for each conductor. The conductors are 22AWG and each conductor is shield to prevent EMI or RFI interference from entering your audio system. The cable is 12mm x 6mm thick, while the connector housings are 41mm long x 15mm diameter.Because of their size and weight these cables are best suited for more permanent connections, such as from your PC to your sound system. If you want something more suitable for portable applications, please try one of our standard 3.5mm audio cables.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/55891.jpg\",\"https://images.monoprice.com/productlargeimages/55892.jpg\",\"https://images.monoprice.com/productlargeimages/55893.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.69,
+      "sku": "5589",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5589",
+      "gtin14": "844660055891"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium 3.5mm AUX Extension Cable - TRS Stereo Male-to-Female 22AWG Gold Plated 15ft Black",
+      "ratingCount": "605",
+      "reviewCount": "74",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "5589",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/5589"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

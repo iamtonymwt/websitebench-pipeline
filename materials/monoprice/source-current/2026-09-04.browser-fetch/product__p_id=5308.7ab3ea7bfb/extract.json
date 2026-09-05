@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice UL Power Cord Splitter - NEMA 5-15P to 2x NEMA 5-15R 16AWG 13A/1625W 3-Prong Black 1.2ft",
+    "@id": "https://www.monoprice.com/product?p_id=5308",
+    "url": "https://www.monoprice.com/product?p_id=5308",
+    "description": "This Power Cord Splitter by Monoprice offers a practical solution for connecting two devices to a single power outlet effortlessly. With its smart Y\u2011splitter design, it surpasses the limitations of a conventional power strip by providing just the right number of connections while maintaining convenience.The power cord features a three\u2011prong NEMA\u00ae 5\u201115 plug, ensuring secure and grounded power connections for your devices. Its reliable construction boasts a sturdy 16 AWG cable designed to handle a considerable load of up to 13 amps or 1625 watts at 125 volts.Designed with versatility in mind, this power cord splitter features a NEMA\u00ae 5\u201115P plug type that fits most standard power outlets. It offers two NEMA\u00ae 5\u201115R receptacles, allowing you to effortlessly power two devices simultaneously from the same power source.Crafted with durability in mind, the power cord splitter is built with high\u2011quality SJT jacket material. This robust jacket material ensures longevity and protection against wear and tear, making it suitable for various environments and applications.The power cord splitter consists of three conductors, providing a reliable and stable connection for your devices. It employs a 16 AWG wire gauge, which is designed to efficiently transmit power and handle the demands of everyday use.Safety is a top priority, and this power cord splitter has obtained various certifications to ensure peace of mind. It is UL\u00ae and cUL certified, meeting the safety standards set by reputable organizations. Additionally, it is CSA\u00ae and RoHS compliant, further attesting to its quality and adherence to industry regulations.Whether you need to power multiple devices in your home office, entertainment center, or any other setup, this Monoprice Power Cord Splitter is a dependable and convenient solution. It maximizes flexibility while providing secure power connections, allowing you to simplify your setup without compromising safety or performance.Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0Type2x NEMA 5\u201115RJacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge16AWGMaximum\u00a0Current13 ampsCertificationsUL\u00ae, cUL, CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jun 8, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/53081.jpg\",\"https://images.monoprice.com/productlargeimages/53082.jpg\",\"https://images.monoprice.com/productlargeimages/53083.jpg\",\"https://images.monoprice.com/productlargeimages/53084.jpg\",\"https://images.monoprice.com/productlargeimages/53085.jpg\",\"https://images.monoprice.com/productlargeimages/53086.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.89,
+      "sku": "5308",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5308",
+      "gtin14": "844660053088"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice UL Power Cord Splitter - NEMA 5-15P to 2x NEMA 5-15R 16AWG 13A/1625W 3-Prong Black 1.2ft",
+      "ratingCount": "122",
+      "reviewCount": "53",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Splitter Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords"
+    },
+    {
+      "name": "5308",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords/5308"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

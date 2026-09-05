@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HDMI to 6G SDI Converter with Dual SDI Out",
+    "@id": "https://www.monoprice.com/product?p_id=30445",
+    "url": "https://www.monoprice.com/product?p_id=30445",
+    "description": "This converter can accept 4K, 1080p, 1080i, 720p, and 480i HDMI\u00ae signals and outputs the corresponding SDI output without any signal loss. It includes a mirrored SDI output for a second display.Features: Automatically detects the HDMI\u00ae input signalCompliant with the SMPTE ST\u20112081, SMPTE 425M\u2011AB, SMPTE 424M, SMPTE 292M, and SMPTE 259M\u2011C standardsSupports 5.94Gbps, 5.94/1.001Gbps, 2.97Gbps, 2.97/1.001Gbps, 1.485Gbps, 1.485/1.001Gbps, and 270Mbps SDI bit ratesSupports HDMI resolutions up to 4K@30HzBuilt\u2011in SDI re\u2011driver for long cable runsIncludes an analog stereo audio inputFirmware can be updated from an external USB flash drive (FAT32 file system only)Support Files: User's Manual (Jan 3, 2018)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Updated Feb 14, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/304451.jpg\",\"https://images.monoprice.com/productlargeimages/304452.jpg\",\"https://images.monoprice.com/productlargeimages/304453.jpg\",\"https://images.monoprice.com/productlargeimages/304454.jpg\",\"https://images.monoprice.com/productlargeimages/304455.jpg\",\"https://images.monoprice.com/productlargeimages/304456.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 199.99,
+      "sku": "30445",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=30445",
+      "gtin14": "889028071410"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HDMI to 6G SDI Converter with Dual SDI Out",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "SDI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/sdi-adapters"
+    },
+    {
+      "name": "30445",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/sdi-adapters/30445"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

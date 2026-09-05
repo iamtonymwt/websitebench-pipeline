@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice VGA (HD15) to 3RCA Component Video Cable Gold Plated 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=2170",
+    "url": "https://www.monoprice.com/product?p_id=2170",
+    "description": "This cable is intended for use with projectors that use a VGA connector for its component (YPbPr) video connection. This cable DOES NOT CONVERT VGA signals to component video or vice versa - it functions only with devices that use the VGA connector for component video.This cable has an DE15 (HD15) VGA/SVGA connector on one end and three, color-coded RCA connectors on the other end. The connectors and pins are gold plated for smooth, corrosion-free connections.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/21701.jpg\",\"https://images.monoprice.com/productlargeimages/21702.jpg\",\"https://images.monoprice.com/productlargeimages/21703.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.49,
+      "sku": "2170",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2170",
+      "gtin14": "844660021704"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice VGA (HD15) to 3RCA Component Video Cable Gold Plated 6ft",
+      "ratingCount": "183",
+      "reviewCount": "63",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "RCA Composite & Component Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/rca-composite-&-component-cables"
+    },
+    {
+      "name": "2170",
+      "url": "https://www.monoprice.com/category/cables/video-cables/rca-composite-&-component-cables/2170"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

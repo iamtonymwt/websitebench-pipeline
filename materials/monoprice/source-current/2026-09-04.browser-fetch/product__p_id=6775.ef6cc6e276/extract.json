@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice F Type Right Angle Female to Male Adapter - Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=6775",
+    "url": "https://www.monoprice.com/product?p_id=6775",
+    "description": "Monoprice offers premium quality, gold plated coaxial connector adapters for every situation.\u00a0\u00a0\u00a0All of our adapters feature solid connectors that provide secure connections.\u00a0\u00a0Gold Plated 90 Degree Male to Female F-type Coax connector.Sweep testing ensures 3.0GHz performance at applicable frequencies.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/67751.jpg\",\"https://images.monoprice.com/productlargeimages/67752.jpg\",\"https://images.monoprice.com/productlargeimages/67753.jpg\",\"https://images.monoprice.com/productlargeimages/67754.jpg\",\"https://images.monoprice.com/productlargeimages/67755.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "6775",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6775",
+      "gtin14": "844660067757"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice F Type Right Angle Female to Male Adapter - Gold Plated",
+      "ratingCount": "240",
+      "reviewCount": "240",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters"
+    },
+    {
+      "name": "6775",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters/6775"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice High\u2011Quality Gold\u2011Plated Banana Binding Post Inset Wall Plate for 5 Speakers - Two\u2011Piece Coupler Design",
+    "@id": "https://www.monoprice.com/product?p_id=3539",
+    "url": "https://www.monoprice.com/product?p_id=3539",
+    "description": "Wall plate with high quality gold\u00a0plated\u00a0binding posts for speakers.Can be used with banana plugs, spades, or bare wire.Same type of connector front and back.No soldering required.Corrosion resistant gold connectors.Spacing is compatible with PID# 2944 & 2945 banana plugs.\u00a0This product can either be used with banana plugs (product ID 2801 or 2943) or it can accept bare wire connections on both the front and rear of the plate.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.\u00a0\u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/35391.jpg\",\"https://images.monoprice.com/productlargeimages/35392.jpg\",\"https://images.monoprice.com/productlargeimages/35393.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "3539",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=3539",
+      "gtin14": "844660035398"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice High\u2011Quality Gold\u2011Plated Banana Binding Post Inset Wall Plate for 5 Speakers - Two\u2011Piece Coupler Design",
+      "ratingCount": "569",
+      "reviewCount": "68",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "3539",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/3539"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

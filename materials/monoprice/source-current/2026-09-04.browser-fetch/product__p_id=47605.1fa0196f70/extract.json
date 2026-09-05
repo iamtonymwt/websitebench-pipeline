@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DisplayPort 2.1 Cable 80Gbps 8K HDR 4K240Hz Ultra High-Speed 1.5ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=47605",
+    "url": "https://www.monoprice.com/product?p_id=47605",
+    "description": "Monoprice\u2122DisplayPort\u00ae 2.1 Cable \u2013 80Gbps, 8K HDR, 4K240, Ultra High-Speed, BlackNext-Gen 8K Connectivity for High-Refresh Gaming and Professional Visual ApplicationsUnlock the full potential of your high-performance displays with the Monoprice DisplayPort 2.1 Cable. Supporting bandwidths up to 80Gbps, it delivers stunning 8K HDR visuals and ultra-smooth 4K@240 gameplay with exceptional clarity and precision. Whether you\u2019re gaming competitively, editing high-resolution content, or expanding your workstation, this cable ensures uncompromised visual performance.Engineered to exceed DisplayPort 2.1 specifications, it supports Dynamic HDR, Variable Refresh Rate (VRR), and advanced display technologies to keep motion sharp and colors accurate during fast-action scenes. The locking DisplayPort connector provides a secure, reliable fit, while the molded strain-relief design enhances durability for long-term, everyday use.Compatible with a wide range of devices\u2014including monitors, projectors, desktops, laptops, and docking stations\u2014this cable offers the future-ready connectivity needed for next-generation displays. Available in lengths from 1.5 to 5 feet, it's perfect for high-end gaming setups, creative production environments, and professional workstations requiring stable, ultra high-speed video performance.Lengths: 1.5, 3, and 5 feetSupports up to 80Gbps bandwidth for next-generation DisplayPort 2.1 performanceDelivers 8K HDR visuals and 4K240 high-refresh gaming for ultra-smooth motion and clarityCompatible with Dynamic HDR and Variable Refresh Rate (VRR) technologies for lifelike contrast and tear-free gameplayIdeal for advanced gaming setups, professional workstations, and high-resolution displaysWorks with DisplayPort-equipped devices including monitors, projectors, desktops, laptops, and docking stationsLocking DisplayPort connector ensures a secure connection that won't loosen during useMolded strain relief enhances durability and protects against wear in frequent-use environmentsFully backward compatible with DisplayPort 1.4 and earlier for broad device support\u00a0NEXT-GENERATION 8K PERFORMANCESupports bandwidth up to 80Gbps, enabling 8K HDR visuals, 4K@240Hz gaming, and resolutions up to 16K@60Hz with DSC-enabled devices.\u00a0ENHANCED VISUAL FIDELITY AND GAMEPLAYFull compatibility with Dynamic HDR and VRR ensures deeper contrast, accurate color, and tear-free performance in high-action scenes.\u00a0SECURE AND DURABLE CONNECTIONA locking DisplayPort connector prevents accidental disconnections, while molded strain relief adds long-lasting durability.\u00a0OPTIMIZED FOR HIGH-PERFORMANCE DISPLAYSCompatible with DisplayPort-enabled monitors, projectors, desktops, laptops, and docking stations. Ideal for versatile, high-end setups.\u00a0PACKAGE CONTENTS1x Monoprice\u2122 DisplayPort\u00ae 2.1 Cable\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Tech Drawing (Dec 15, 2025)Sales Sheet (Dec 15, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.VESA\u00ae, DisplayPort\u00ae, and the DisplayPort logo are registered trademarks of the Video Electronics Standards Association.Updated Dec 15, 2025 Warning: This product can expose you to chemicals, including Phthalates, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/476051.jpg\",\"https://images.monoprice.com/productlargeimages/476052.jpg\",\"https://images.monoprice.com/productlargeimages/476053.jpg\",\"https://images.monoprice.com/productlargeimages/476054.jpg\",\"https://images.monoprice.com/productlargeimages/476055.jpg\",\"https://images.monoprice.com/productlargeimages/476056.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.49,
+      "sku": "47605",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=47605",
+      "gtin14": "889028211960"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DisplayPort 2.1 Cable 80Gbps 8K HDR 4K240Hz Ultra High-Speed 1.5ft Black",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "47605",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/47605"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

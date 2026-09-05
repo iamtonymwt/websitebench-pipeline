@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 4K High Speed HDMI Cable - 4K@60Hz HDR HDR10 Dolby Vision 18Gbps YUV 444 28AWG With Ferrite Cores 10 Feet Black - 3 Pack",
+    "@id": "https://www.monoprice.com/product?p_id=39552",
+    "url": "https://www.monoprice.com/product?p_id=39552",
+    "description": "Reliably distribute 4K@60Hz video signals to your UHDTV using this Select Series High Speed HDMI\u00ae Cable from Monoprice!This High Speed HDMI Cable supports the following general features:18Gbps data throughputFerrite cores help protect against electromagnetic and radio frequency interference28AWG copper conductorsGold plated connectorsSupports HDR and HDR10: HDR is an acronym for High Dynamic Range. TVs with HDR show a better, more realistic image with more contrast, brightness, and colors than ever before. HDR significantly expands contrast ratio and color accuracy. Contrast ratio is related to how bright or dark a screen is and color accuracy is how closely the colors on the screen match colors in real life. Bright images seem brighter, with more depth.Full YCbCr 4:4:4 Chroma Sampling at 4KSupports Dolby Vision\u2122It supports the following HDMI features:Supports all HDMI\u00ae 2.0 resolutions up to 4K (3840x2160p @60Hz), including 3D and Multi View videoSupports the 21:9 cinema aspect ratioSupports up to 32 audio channels and a 1536 kHz audio sampling rateSimultaneous delivery of dual video streams to multiple users on the same screenSupports SA-CD, DVD-Audio, DTS-HD Master Audio\u2122, Dolby TrueHD\u2122, and other high-definition audio standardsSupports Deep Color, up to 16-bits per channel, including the Sony\u00ae x.v.Color\u2122 standardSupports extended CEC (Consumer Electronics Control) commands and functions, the HDMI Ethernet Channel, and the Audio Return Channel featuresHDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Sony\u00ae is a registered trademark of Sony Corporation. x.v.Color\u2122 is a trademark of Sony Corporation. DTS\u00ae is a registered trademark and the DTS logos, Symbol, DTS-HD\u2122, and DTS-HD Master Audio\u2122 are trademarks of DTS, Inc. Dolby\u00ae and the double-D symbol are registered trademarks of Dolby Laboratories. Dolby TrueHD\u2122 and Dolby Vision\u2122 are trademarks of Dolby Laboratories. Updated Feb 19, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/395521.jpg\",\"https://images.monoprice.com/productlargeimages/395522.jpg\",\"https://images.monoprice.com/productlargeimages/395523.jpg\",\"https://images.monoprice.com/productlargeimages/395524.jpg\",\"https://images.monoprice.com/productlargeimages/395525.jpg\",\"https://images.monoprice.com/productlargeimages/395526.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 28.69,
+      "sku": "39552",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39552",
+      "gtin14": "889028137338"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 4K High Speed HDMI Cable - 4K@60Hz HDR HDR10 Dolby Vision 18Gbps YUV 444 28AWG With Ferrite Cores 10 Feet Black - 3 Pack",
+      "ratingCount": "13029",
+      "reviewCount": "22",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables"
+    },
+    {
+      "name": "39552",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables/39552"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

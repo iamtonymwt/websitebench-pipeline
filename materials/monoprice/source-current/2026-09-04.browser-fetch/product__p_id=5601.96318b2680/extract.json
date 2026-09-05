@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium 3.5mm Stereo Male to 2RCA Male Cable 22AWG Gold Plated 25ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=5601",
+    "url": "https://www.monoprice.com/product?p_id=5601",
+    "description": "While most mobile devices use the 3.5mm stereo headphone output, most home audio systems with an amplifier or receiver use RCA jacks for audio inputs. This cable is ideal for connecting the output of your mp3 player or phone to your home audio system.The cable is made of heavy-duty coaxial cable for each conductor. The conductors are 22AWG and each conductor is shield to prevent EMI or RFI interference from entering your audio system. The cable is 12mm x 6mm thick, while the connector housings are about 41mm long x 15mm diameter.Because of their size and weight these cables are best suited for more permanent connections, such as from your PC to your sound system. If you want something more suitable for portable applications, please try one of our standard 3.5mm to RCA audio cables.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/56011.jpg\",\"https://images.monoprice.com/productlargeimages/56012.jpg\",\"https://images.monoprice.com/productlargeimages/56013.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 30.09,
+      "sku": "5601",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5601",
+      "gtin14": "844660056010"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium 3.5mm Stereo Male to 2RCA Male Cable 22AWG Gold Plated 25ft Black",
+      "ratingCount": "1365",
+      "reviewCount": "118",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "5601",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/5601"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

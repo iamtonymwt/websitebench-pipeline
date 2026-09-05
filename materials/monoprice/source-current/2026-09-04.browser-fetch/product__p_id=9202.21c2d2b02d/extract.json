@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 12 Outlet Power Surge Protector with 2 Built-In USB Charger Ports - 3420 Joules 6ft Cord",
+    "@id": "https://www.monoprice.com/product?p_id=9202",
+    "url": "https://www.monoprice.com/product?p_id=9202",
+    "description": "Protect your electronic equipment from damaging voltage and current spikes with this Monoprice surge protector.This model includes twelve protected power outlets, 4 of which are positioned for AC power adapters, and a 2-port 2.1A USB charger. The clear plastic tabs on the sides of the unit illuminate green to indicate when the surge protector is providing protection to your equipment and when a proper ground is detected.When the protection circuitry has been fully consumed by power and current spikes, the protection light will no longer illuminate, indicating that the surge protector should be replaced. When the grounded tab is not illuminated it indicates that there is a problem with the house wiring and that the ground is not properly connected to the power outlet.The surge protector has 4 keyholes on the back, allowing it to be secured to a wall or other surface.Features: 2-port 2.1A usb charger12 protected power outlets3420 joules of protectionPower outlet safety shutters6 foot power cord2-in-1 power/circuit breaker switchBuilt-in EMI/RFI filter15A, 1800 watts capacityUL\u00ae/cUL ratedMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jun 22, 2020 Warning: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/92021.jpg\",\"https://images.monoprice.com/productlargeimages/92022.jpg\",\"https://images.monoprice.com/productlargeimages/92023.jpg\",\"https://images.monoprice.com/productlargeimages/92024.jpg\",\"https://images.monoprice.com/productlargeimages/92025.jpg\",\"https://images.monoprice.com/productlargeimages/92026.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 60.89,
+      "sku": "9202",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9202",
+      "gtin14": "844660092025"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 12 Outlet Power Surge Protector with 2 Built-In USB Charger Ports - 3420 Joules 6ft Cord",
+      "ratingCount": "86",
+      "reviewCount": "86",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Strip Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors"
+    },
+    {
+      "name": "9202",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors/9202"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

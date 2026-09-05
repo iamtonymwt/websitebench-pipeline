@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 25pcs Drawer Organizer 4 Sizes Clear Plastic Desk Divider Storage Bins Multipurpose Trays For Organization of Accessories Gadgets for Kitchen Bathroom Bedroom Makeup Jewelry Office",
+    "@id": "https://www.monoprice.com/product?p_id=44564",
+    "url": "https://www.monoprice.com/product?p_id=44564",
+    "description": "This Drawer Organizer is designed to organize various items in your desk drawer. Multiple sizes can arranged within the drawer to create a customized storage for your hair accessories, craft supplies, medicine, jewelries, toiletries, gadgets for kitchen, and many more. Made of high-quality PET material that is durable. The transparent design allows to easily see what you need quickly.Versatile Use: Can arranged within the drawer to create a customized storage.Multiple Sizes: 4 different sizes to arrange the trays according to your needs.Transparent Design: Allows to easily see what you need quickly.Easy to Clean: Wipe clean or quickly rinse with water to remove dirt or dust ensuring the trays remains clean at all times.Perfect For: Customized storage for your hair accessories, craft supplies, medicine, jewelries, toiletries, gadgets for kitchen, and many more.Space Saving Design: These organizers are stackable when they are not in use, which will save a lot of space.\u00a0Sizes:2.9 L *2.9 W *2.1 H inches - 8pcs6 L * 2.9 W * 2.1 H inches - 8pcs9.2 L * 2.9 W * 2.1 H inches - 6pcs9.2 L * 6.02 W * 2.1 H inches - 3pcs\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/445641.jpg\",\"https://images.monoprice.com/productlargeimages/445642.jpg\",\"https://images.monoprice.com/productlargeimages/445643.jpg\",\"https://images.monoprice.com/productlargeimages/445644.jpg\",\"https://images.monoprice.com/productlargeimages/445645.jpg\",\"https://images.monoprice.com/productlargeimages/445646.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "44564",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=44564",
+      "gtin14": "889028190319"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 25pcs Drawer Organizer 4 Sizes Clear Plastic Desk Divider Storage Bins Multipurpose Trays For Organization of Accessories Gadgets for Kitchen Bathroom Bedroom Makeup Jewelry Office",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "44564",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/44564"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

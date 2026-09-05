@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8.0mm Professional Microphone Bulk Cable - Oxygen-Free 2-Conductor PVC Jacket 21AWG 100ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=5978",
+    "url": "https://www.monoprice.com/product?p_id=5978",
+    "description": "Build your own custom balanced mono and unbalanced stereo patch cables using this Professional Microphone Bulk Cable from Monoprice!This cable features two 21AWG high-purity, oxygen-free copper conductors, a braided copper shield with 97.5% coverage, and a single drain wire. Each conductor is jacketed in color-coded PVC.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/59781.jpg\",\"https://images.monoprice.com/productlargeimages/59782.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 59.99,
+      "sku": "5978",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5978",
+      "gtin14": "844660059783"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8.0mm Professional Microphone Bulk Cable - Oxygen-Free 2-Conductor PVC Jacket 21AWG 100ft Black",
+      "ratingCount": "63",
+      "reviewCount": "29",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables"
+    },
+    {
+      "name": "Bulk Microphone Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-microphone-cables"
+    },
+    {
+      "name": "5978",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-microphone-cables/5978"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

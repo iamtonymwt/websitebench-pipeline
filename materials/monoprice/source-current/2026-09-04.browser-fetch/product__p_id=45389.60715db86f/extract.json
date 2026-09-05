@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Expandable Pots and Pans Rack Lids Organizer Kitchen Counter Dish Dry Rack Cabinet Plate Rack Holder for Small Kitchens",
+    "@id": "https://www.monoprice.com/product?p_id=45389",
+    "url": "https://www.monoprice.com/product?p_id=45389",
+    "description": "This pots and pans drying rack is valuable accessory to any kitchen counter and cabinet. The extendable design up to 22 inches allows holding more items on the kitchen counter or cabinet and set the length you want. Made of high-quality material that ensures long-lasting durability to quickly air dry your dishes and pans. Also perfect for cabinet storage. Easy to assemble and no tools required.Maximize kitchen storage: Create a clutter-free space with our organizer. Optimize both cabinet and countertop areas for enhanced efficiency. Perfect for organizing dishes, pots and pans, lids, cutting boards, cookie sheets, and bakeware.Expandable Design: Can be extended up to 22 inches allows holding more items on the kitchen counter or cabinet and set the length you want.High Quality: Made of high quality material that ensures long-lasting durability to quickly air dry your dishes.Easy to Use: Easy to assemble and no tools required.Compact: Perfect dish drainer for small kitchens, limited counter space, dorms, or apartments.Product Dimension: 12in \u2013 22in x 8in x 6in\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/453891.jpg\",\"https://images.monoprice.com/productlargeimages/453892.jpg\",\"https://images.monoprice.com/productlargeimages/453893.jpg\",\"https://images.monoprice.com/productlargeimages/453894.jpg\",\"https://images.monoprice.com/productlargeimages/453895.jpg\",\"https://images.monoprice.com/productlargeimages/453896.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "45389",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=45389",
+      "gtin14": "889028195413"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Expandable Pots and Pans Rack Lids Organizer Kitchen Counter Dish Dry Rack Cabinet Plate Rack Holder for Small Kitchens",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "45389",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/45389"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

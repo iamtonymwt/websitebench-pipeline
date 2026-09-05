@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice Rackmount for Monolith HTP-1 Processor",
+    "@id": "https://www.monoprice.com/product?p_id=42563",
+    "url": "https://www.monoprice.com/product?p_id=42563",
+    "description": "Rack mount compatible only with the Monolith HTP-1 home theater processor.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/425631.jpg\",\"https://images.monoprice.com/productlargeimages/425632.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 59.99,
+      "sku": "42563",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=42563",
+      "gtin14": "889028182116"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice Rackmount for Monolith HTP-1 Processor",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Home Theater Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/home-theater-receivers"
+    },
+    {
+      "name": "42563",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/home-theater-receivers/42563"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

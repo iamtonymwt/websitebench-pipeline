@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "4-Tier Travel Hanging Organizer Compression Packing Cubes Luggage Bag Suitcase Shelves for Travel and Cruise",
+    "@id": "https://www.monoprice.com/product?p_id=47036",
+    "url": "https://www.monoprice.com/product?p_id=47036",
+    "description": "Stay organized and keep your travel essentials neat with this compact luggage hanging organizer. Perfect for storing clothes, toiletries, accessories, or makeup, this accessory ensures your items are tidy and easy to access. Made from durable, waterproof fabric, it features breathable mesh panels for quick visibility. With 4 expandable compartments, you can organize items by category. The built-in hook allows you to hang it on towel bars, doors, curtain rods, or closets, making it ideal for hotels, hostels, or road trips where space is limited. Lightweight and portable, this travel accessory is designed for hassle-free travel.\u00a04 Tier Compartments: Keep your travel essentials organized in the expandable compartments, ensuring everything stays in place and is easy to find.Pack with Ease: Effortlessly pack and unpack your items by placing them in each compartment before packing it into your luggage\u2014quick and simple!Hanging Design: Comes with a hook for easy hanging on towel bars, doors, curtain rods, or closets\u2014perfect for space-limited accommodations.Easy Access: Breathable mesh windows allow you to view everything at a glance, eliminating the need to dig through your luggage.Durable and Portable: Made with lightweight, durable, and waterproof fabric, this organizer is a must-have travel accessory for any trip..gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0\u00a0\u00a0Updated Jan 26, 2022 Warning: This product may contain Phthalates, Lead, and BPA, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/470361.jpg\",\"https://images.monoprice.com/productlargeimages/470362.jpg\",\"https://images.monoprice.com/productlargeimages/470363.jpg\",\"https://images.monoprice.com/productlargeimages/470364.jpg\",\"https://images.monoprice.com/productlargeimages/470365.jpg\",\"https://images.monoprice.com/productlargeimages/470366.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "47036",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=47036",
+      "gtin14": "889028206744"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "4-Tier Travel Hanging Organizer Compression Packing Cubes Luggage Bag Suitcase Shelves for Travel and Cruise",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Travel & Fitness",
+      "url": "https://www.monoprice.com/category/home-&-office/travel-&-fitness"
+    },
+    {
+      "name": "Travel Accessories",
+      "url": "https://www.monoprice.com/category/home-&-office/travel-&-fitness/travel-accessories"
+    },
+    {
+      "name": "47036",
+      "url": "https://www.monoprice.com/category/home-&-office/travel-&-fitness/travel-accessories/47036"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

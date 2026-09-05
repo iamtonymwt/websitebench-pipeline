@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Performance Dynamic Cardioid Instrument and Vocal Microphone w/ Clip",
+    "@id": "https://www.monoprice.com/product?p_id=600057",
+    "url": "https://www.monoprice.com/product?p_id=600057",
+    "description": "This professional-grade instrument microphone is built for the road and is ideal for all solo and ensemble performances. Stage noise is absorbed by the body of the mic, so it is not reproduced by the sound system. No on/off switch also means performers cannot accidentally turn the mic off. Confidence is also maximized by low feedback, thanks to the unidirectional cardioid pickup pattern. The cardioid mic also minimizes bleed from other instruments to keep your stage mix tight and articulate. Includes a heavy-duty mic clip and handsome carry bag.Nothing screams \"Cheap Microphone\" like an on/off switch. True professional mics do not give this option to the performer because he will always accidentally switch it off at the worst time, then look around to blame the sound system. This microphone is a great value for an all-metal. road-ready performer with low noise and handling. Use this mic for guitars amps, drums, or horns and be heard Loud & Clear!Features: Low profile microphone for instrumentsDynamic cardioid for consistent heavy-duty useLow handling noise for rigorous stage useAll-metal construction handles abuse of the roadIncludes a leatherette bag and mic clip\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6000571.jpg\",\"https://images.monoprice.com/productlargeimages/6000572.jpg\",\"https://images.monoprice.com/productlargeimages/6000573.jpg\",\"https://images.monoprice.com/productlargeimages/6000574.jpg\",\"https://images.monoprice.com/productlargeimages/6000575.jpg\",\"https://images.monoprice.com/productlargeimages/6000576.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 38.99,
+      "sku": "600057",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=600057",
+      "gtin14": "889028037133"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Performance Dynamic Cardioid Instrument and Vocal Microphone w/ Clip",
+      "ratingCount": "34",
+      "reviewCount": "34",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Microphones",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/microphones"
+    },
+    {
+      "name": "Dynamic Microphones",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/dynamic-microphones"
+    },
+    {
+      "name": "600057",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/dynamic-microphones/600057"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

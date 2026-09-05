@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8-Channel Speaker Selector",
+    "@id": "https://www.monoprice.com/product?p_id=8230",
+    "url": "https://www.monoprice.com/product?p_id=8230",
+    "description": "Spread your sounds around your home or business with this Monoprice\u2122 8\u2011Channel Speaker Selector!This speaker selector allows you to connect up to eight stereo speaker zones. Each zone can be individually toggled on or off with the front panel switch. Built\u2011in impedance\u2011matching circuitry ensures that the overall impedance level to the amplifier does not drop below 5 ohms, no matter how many speaker zones are selected or how many speakers are in each zone.The impedance\u2011matching protection circuitry can be disabled using a front\u2011panel button, but this should only be done if there is another protection circuit employed or the system is carefully designed to avoid amplifier damage. The unit can handle up to 100 watts per channel with the protection circuitry enabled and up to 200 watts per channel with the protection circuit disabled.Support Files: User's Manual (Sep 6, 2011)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 20, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/82301.jpg\",\"https://images.monoprice.com/productlargeimages/82302.jpg\",\"https://images.monoprice.com/productlargeimages/82303.jpg\",\"https://images.monoprice.com/productlargeimages/82304.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 69.99,
+      "sku": "8230",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8230",
+      "gtin14": "844660082309"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8-Channel Speaker Selector",
+      "ratingCount": "43",
+      "reviewCount": "43",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "8230",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/8230"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

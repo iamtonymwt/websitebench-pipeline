@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 Ethernet Patch Cable - Micro SlimRun Stranded 550MHz UTP Pure Bare Copper 32AWG 7ft White",
+    "@id": "https://www.monoprice.com/product?p_id=34258",
+    "url": "https://www.monoprice.com/product?p_id=34258",
+    "description": "Monoprice\u2122 Micro SlimRun\u2122 Cat6 UTP Ethernet Patch Cables are designed for high density environments where space is a premium. The unbelievably thin, 0.1\u2011inch thick 32AWG cable and bootless design reduces congestion and simplifies moves, additions, and changes. Micro SlimRun Cat6 cables are ideal for when clearance and space is limited.Monoprice\u2122 Ethernet cables are made of 100% pure bare copper wire, as opposed to copper clad aluminum (CCA) wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.\u00a02.6mm Diameter10G PerformanceBootlessLifetime Warranty2.6mm Diameter: The 2.6mm cable thickness makes this ideal for routing through the tightest spaces.10G Performance: This cable is perfect for 10 Gigabit Ethernet networks and is backwards compatible with existing Gigabit Ethernet and Fast Ethernet networks.Bootless: The bootless design is ideal for IT and data center professionals who prefer interconnect cables without the covers that protect the plug retaining clips, allowing for faster and easier cable connections.Lifetime Warranty: Buy with Confidence! With the Monoprice\u2122 Lifetime Warranty on all cables, you can rest assured we stand behind our products and our customers.\u00a0Size Matters Colors:Black, Blue, Gray, White, Yellow, Red, Orange, Green, and PurpleLengths:0.5, 1, 2, 3, 5, 7, 10, 14, 20, 30, and 50 feet\u00a0CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important..gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Specification Sheet (Apr 2, 2019)Monoprice\u2122, SlimRun\u2122, and all Monoprice logos are trademarks of Monoprice Inc.UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated Aug 08, 2023Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/342581.jpg\",\"https://images.monoprice.com/productlargeimages/342582.jpg\",\"https://images.monoprice.com/productlargeimages/342583.jpg\",\"https://images.monoprice.com/productlargeimages/342584.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.69,
+      "sku": "34258",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34258",
+      "gtin14": "889028094419"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 Ethernet Patch Cable - Micro SlimRun Stranded 550MHz UTP Pure Bare Copper 32AWG 7ft White",
+      "ratingCount": "88",
+      "reviewCount": "2",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6 Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables"
+    },
+    {
+      "name": "34258",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables/34258"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

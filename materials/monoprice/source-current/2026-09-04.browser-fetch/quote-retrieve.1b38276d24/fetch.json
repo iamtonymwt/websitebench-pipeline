@@ -1,0 +1,13 @@
+{
+  "url": "https://www.monoprice.com/quote/retrieve",
+  "final_url": "https://www.monoprice.com/myaccount/myaccount?return_page=%2Fmyaccount%2Fquotehistory",
+  "upstream_status": 200,
+  "classification": "content",
+  "bytes": 509159,
+  "sha256": "152c908733301ad60cb00d188dc4a191e025d3200b4d6daff161e5dfbc5ac49c",
+  "fetched_at": "2026-09-05T01:30:49+00:00",
+  "fetch_ms": 2458,
+  "mode": "raw-served-html",
+  "body_retained": true,
+  "stored_bytes": 55165
+}

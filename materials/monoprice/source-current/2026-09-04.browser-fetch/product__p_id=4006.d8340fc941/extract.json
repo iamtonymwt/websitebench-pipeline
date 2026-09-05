@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Recessed Low Voltage Cable Wall Plate with Recessed Power - White",
+    "@id": "https://www.monoprice.com/product?p_id=4006",
+    "url": "https://www.monoprice.com/product?p_id=4006",
+    "description": "Use this recessed low\u2011voltage cable plate with recessed power to install power and low voltage cables behind your flat panel TV, your amplifier, or other audio/video devices. The recessed low voltage cable plate with recessed power can be installed upright or inverted and will clean up the look of your entertainment center.You can install this plate right over an existing outlet. Just remove the existing outlet and install this one in it's place. You'll then cut the drywall next to it to allow for the cable side of this plate. This is a two gang box, but it will install over a one gang outlet, and is designed for the drywall next to the existing outlet to be cut out. This box is designed so that you cannot see back into the wall. You will not see insulation or drywall through the cable hole opening.Note: The color indicated can vary in tone and/or hue between production runs and manufacturing facilities. The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice\u2122 or any other vendor. Individual pieces may also vary very slightly in color from each other.Features: Cables will pass through the conduit/hole opening on the plate face4\u20115 thick HDMI cables will fit through the openingThe opening is 1.3\" wide x 1.9\" highIncludes all screws and an installation manualScrew colors match box colorThe power receptacle is grounded and made with copperRated for 15ASupport Files: User's Manual (Aug 27, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 13, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/40061.jpg\",\"https://images.monoprice.com/productlargeimages/40062.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 42.99,
+      "sku": "4006",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4006",
+      "gtin14": "844660040064"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Recessed Low Voltage Cable Wall Plate with Recessed Power - White",
+      "ratingCount": "84",
+      "reviewCount": "84",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "4006",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/4006"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

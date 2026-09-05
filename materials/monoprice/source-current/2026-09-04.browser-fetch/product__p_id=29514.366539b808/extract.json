@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice M565C Over Ear Closed Back Planar Magnetic Headphones",
+    "@id": "https://www.monoprice.com/product?p_id=29514",
+    "url": "https://www.monoprice.com/product?p_id=29514",
+    "description": "The Monolith\u2122 M565C planar headphones are the perfect way to experience your music collection. Based on the M565, the M565C features a completely redesigned and engineered planar driver, producing a detailed aural landscape in a closed back enclosure. Spectacular imaging, low distortion, and perfectly balanced sound make the Monolith M565C a true audiophile listening experience.Planar Driver and Functions\u00a0Planar DriversClosed Back DesignComfortPlanar Drivers: Not your typical headphone driver! The planar driver in the M565C has been completely redesigned and engineered versus the driver found in the M565. Several enhancements have been made, including a new symmetrical magnet structure that allows the planar driver to be much more efficient in a closed back enclosure. The result is low distortion, improved linearity, and spectacular imaging in a closed back design.Closed Back Design: Outside noise stays out and only the music stays in! The 565C delivers excellent audio isolation, allowing the sonic landscape to not be disturbed by the outside world, and the outside to not be disturbed by your music. This makes the M565C the perfect audiophile choice for those that may need to listen in less than silent environments.Comfort: The Monolith\u2122 M565C has been engineered to be comfortable for extended listening sessions. Large, comfy earpads made of faux leather and a padded headband are designed to keep you comfortable as you listen.\u00a0\u00a0.gte-ctr .row{margin:0;}5 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 5 year replacement warranty, we offer a 45 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.45 Day Money Back GuaranteeMonoprice stands behind the Monolith line of products we sell with a 45 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122, Monolith\u2122, the Monolith logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 23, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/295141.jpg\",\"https://images.monoprice.com/productlargeimages/295142.jpg\",\"https://images.monoprice.com/productlargeimages/295143.jpg\",\"https://images.monoprice.com/productlargeimages/295144.jpg\",\"https://images.monoprice.com/productlargeimages/295145.jpg\",\"https://images.monoprice.com/productlargeimages/295146.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 214.99,
+      "sku": "29514",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=29514",
+      "gtin14": "889028070215"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice M565C Over Ear Closed Back Planar Magnetic Headphones",
+      "ratingCount": "27",
+      "reviewCount": "27",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones"
+    },
+    {
+      "name": "Over Ear Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/over-ear-headphones"
+    },
+    {
+      "name": "29514",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/over-ear-headphones/29514"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

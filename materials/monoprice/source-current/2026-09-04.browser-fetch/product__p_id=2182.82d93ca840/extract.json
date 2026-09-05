@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) 22AWG Gold Plated 3ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=2182",
+    "url": "https://www.monoprice.com/product?p_id=2182",
+    "description": "Component video, also known as YPbPr, produces the highest quality analog video. This cable includes conductors for each of the three video channels (Red, Green, Blue) as well as the two stereo audio channels (Red and White) and is ideal for connecting the analog output of DVD players and VCRs to the corresponding inputs on your TV.The video conductors in this cable are made from RG-59 coaxial cable, with 22AWG cores and shielding to prevent EMI and RFI interference from disturbing your video signal. The audio lines utilize 27AWG stranded conductors. The connectors are gold plated to ensure smooth, corrosion-free connections.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/21821.jpg\",\"https://images.monoprice.com/productlargeimages/21822.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 16.49,
+      "sku": "2182",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2182",
+      "gtin14": "844660021827"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) 22AWG Gold Plated 3ft Black",
+      "ratingCount": "666",
+      "reviewCount": "137",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "RCA Composite & Component Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/rca-composite-&-component-cables"
+    },
+    {
+      "name": "2182",
+      "url": "https://www.monoprice.com/category/cables/video-cables/rca-composite-&-component-cables/2182"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

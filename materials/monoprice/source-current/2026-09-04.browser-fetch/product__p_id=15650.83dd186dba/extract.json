@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 Pro Video Repeater for HDMI Cables Supports HDR10+ and Dolby Vision",
+    "@id": "https://www.monoprice.com/product?p_id=15650",
+    "url": "https://www.monoprice.com/product?p_id=15650",
+    "description": "This Blackbird\u2122 4K Pro HDMI\u00ae 2.0 Repeater amplifies and equalizes an HDMI signal, allowing it to be extended further than otherwise possible. It can extend 4K@60Hz 4:4:4 signals up to 26 feet (8 meters), 4K@60Hz 4:2:0 up to 49 feet (15 meters), or 1080p@60Hz up to 65 feet (20 meters). It provides up to 18Gbps bandwidth and supports Clock Data Recovery (CDR) to ensure no signal loss.Features: Complies with the HDMI\u00ae 2.0, HDCP\u2122 2.2, and DVI\u2122 1.0 standardsProvides 18Gbps video bandwidthSupports resolutions up to 4K@60Hz 4:4:4Supports HLG, HDR 10, HDR 10+, and Dolby Vision\u2122Can extend 4K@60Hz 4:4:4 signals up to 26 feet (8 meters), 4K@60Hz 4:2:0 up to 49 feet (15 meters), or 1080p@60Hz up to 65 feet (20 meters)Built\u2011in TMDS\u00ae equalization and Clock Data Recovery (CDR)Bus powered \u2011 no external power requiredSupport Files: User's Manual (Sep 7, 2021)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. DVI\u2122 is a trademark of the Digital Display Working Group. Dolby\u00ae, Dolby Vision\u2122, Dolby TrueHD\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. TMDS\u00ae is a registered trademark of Silicon Image, Inc. DTS\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc. DTS\u2011HD\u2122 is a trademark of DTS, Inc. Updated Jan 27, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/156501.jpg\",\"https://images.monoprice.com/productlargeimages/156502.jpg\",\"https://images.monoprice.com/productlargeimages/156503.jpg\",\"https://images.monoprice.com/productlargeimages/156504.jpg\",\"https://images.monoprice.com/productlargeimages/156505.jpg\",\"https://images.monoprice.com/productlargeimages/156506.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.99,
+      "sku": "15650",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15650",
+      "gtin14": "889028037553"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 Pro Video Repeater for HDMI Cables Supports HDR10+ and Dolby Vision",
+      "ratingCount": "22",
+      "reviewCount": "22",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Extenders",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders"
+    },
+    {
+      "name": "15650",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders/15650"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

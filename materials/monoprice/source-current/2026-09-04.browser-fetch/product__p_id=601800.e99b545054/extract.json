@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 3 - 12.5ft Adjustable Lighting Stand w/ T-bar and 77lbs Capacity",
+    "@id": "https://www.monoprice.com/product?p_id=601800",
+    "url": "https://www.monoprice.com/product?p_id=601800",
+    "description": "Take your stage equipment on the go and setup anywhere with this Lighting Stand from Monoprice!This lighting stand offers easy setup and high stability for your professional equipment. It comes on a tripod that telescopes to a solid 12.5 feet, with several locking pins for any desired height. Also included is one T-bar with four mounting points for your lights or speakers. This system is perfect for mobile DJs, bands, or even to use as rentals.Features: 77.1 lbs. maximum load capacityExtends up to a stable 12.5 feet tall3.5 feet tall when collapsed4 mount openingsT-bars are 4 feet wideWeighs 8.8 lbs.Tripod base adjustable up to 3.5 feet wideStage Right\u00e2\u201e\u00a2 and the Stage Right logo are trademarks of Monoprice Inc. Updated Oct 16, 2019 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6018001.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 77.99,
+      "sku": "601800",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=601800",
+      "gtin14": "757901803345"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 3 - 12.5ft Adjustable Lighting Stand w/ T-bar and 77lbs Capacity",
+      "ratingCount": "51",
+      "reviewCount": "51",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Lighting Stands & Trusses",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses"
+    },
+    {
+      "name": "601800",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses/601800"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat5e 1000ft Blue CMR UL Bulk Cable UTP Solid 24AWG 350MHz Pure Bare Copper Reelex II Pull Box Bulk Ethernet Cable",
+    "@id": "https://www.monoprice.com/product?p_id=880",
+    "url": "https://www.monoprice.com/product?p_id=880",
+    "description": "Avoid having excess Ethernet cable lying around by building your own cables to the exact length needed using this Bulk Ethernet Copper Cable from Monoprice\u2122!Features: Unshielded Twisted Pair (UTP) Category 5e Ethernet cable24AWG solid, pure bare copper conductorsCMR (Riser) fire safety rating350MHz bandwidth1000 foot rollMonoprice Ethernet cables are made of 100% pure bare copper wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Sheilded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Support Files: Specification Sheet (Apr 13, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. REELEX\u00ae and the REELEX logo are registered trademarks of REELEX PACKAGING SOLUTIONS, INC. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated Jan 7, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/8801.jpg\",\"https://images.monoprice.com/productlargeimages/8802.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 189.99,
+      "sku": "880",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=880",
+      "gtin14": "844660008804"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat5e 1000ft Blue CMR UL Bulk Cable UTP Solid 24AWG 350MHz Pure Bare Copper Reelex II Pull Box Bulk Ethernet Cable",
+      "ratingCount": "200",
+      "reviewCount": "54",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Networking Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables"
+    },
+    {
+      "name": "Cat5e Bulk Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat5e-bulk-ethernet-cables"
+    },
+    {
+      "name": "880",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat5e-bulk-ethernet-cables/880"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

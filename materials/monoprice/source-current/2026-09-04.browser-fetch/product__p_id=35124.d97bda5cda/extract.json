@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice MP-T65RT Tower Home Theater Speakers with Ribbon Tweeter (Pair)",
+    "@id": "https://www.monoprice.com/product?p_id=35124",
+    "url": "https://www.monoprice.com/product?p_id=35124",
+    "description": "The MP-T65RT offers fantastic audio performance at a reasonable price! These diminutive tower speakers feature a ribbon tweeter that offers an extended, airy, and fast high frequency response, along with two 6.5\" woofers in a ported cabinet for enhanced bass response. The compact, aesthetically pleasing cabinet will complement most rooms, without being an imposing presence.\u00a0  1 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Apr 1, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/351241.jpg\",\"https://images.monoprice.com/productlargeimages/351242.jpg\",\"https://images.monoprice.com/productlargeimages/351243.jpg\",\"https://images.monoprice.com/productlargeimages/351244.jpg\",\"https://images.monoprice.com/productlargeimages/351245.jpg\",\"https://images.monoprice.com/productlargeimages/351246.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 190.99,
+      "sku": "35124",
+      "availability": "https://schema.org/Discontinued",
+      "url": "https://www.monoprice.com/product?p_id=35124",
+      "gtin14": "889028103128"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice MP-T65RT Tower Home Theater Speakers with Ribbon Tweeter (Pair)",
+      "ratingCount": "59",
+      "reviewCount": "59",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Tower Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/tower-speakers"
+    },
+    {
+      "name": "35124",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/tower-speakers/35124"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

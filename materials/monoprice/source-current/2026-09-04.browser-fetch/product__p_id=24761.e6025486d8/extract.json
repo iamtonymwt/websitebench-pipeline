@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Rough-in Bracket for 6.5in Round Speaker (Each)",
+    "@id": "https://www.monoprice.com/product?p_id=24761",
+    "url": "https://www.monoprice.com/product?p_id=24761",
+    "description": "Use preconstruction brackets when installing ceiling speakers. The snap-away wings make it easy to mount your speaker first to the bracket itself, then between the studs. Made from ABS, this bracket works perfectly with joists spanning 12.5\" to 29.0\". This bracket is designed to fit most round 6.5\" installed speakers.Use the speaker clamps built into the ceiling speakers to attach the bracket, it's just that easy. This affordable time saver is a must have when installing speakers into new construction, whether it be an entirely new house, business, or your home theater project. Each bracket is sold individually.Features: Use the adjustable arms to attach the bracket to studs or joists before the drywall goes upThe arms are adjustable to allow for unusual stud or joist locationsIt can be attached using nails, drywall screws, or construction staples (not included)Solid ABS preconstruction bracketFits between joists 12.5\" ~ 29.0\" apartSnap-away wings make installation simple\u00a0Support Files: Tech Drawing (Nov 02, 2025)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 5, 2020 \u00a0Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/247611.jpg\",\"https://images.monoprice.com/productlargeimages/247612.jpg\",\"https://images.monoprice.com/productlargeimages/247613.jpg\",\"https://images.monoprice.com/productlargeimages/247614.jpg\",\"https://images.monoprice.com/productlargeimages/247615.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "24761",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=24761",
+      "gtin14": "889028059074"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Rough-in Bracket for 6.5in Round Speaker (Each)",
+      "ratingCount": "28",
+      "reviewCount": "16",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "In Wall Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers"
+    },
+    {
+      "name": "24761",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers/24761"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

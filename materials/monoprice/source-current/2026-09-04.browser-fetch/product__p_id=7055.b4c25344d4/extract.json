@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Professional Networking Tool Kit",
+    "@id": "https://www.monoprice.com/product?p_id=7055",
+    "url": "https://www.monoprice.com/product?p_id=7055",
+    "description": "Make your own professional quality Ethernet and other network cables to the exact lengths you require using this Professional Networking Kit from Monoprice\u2122!This kit contains everything you need to make Ethernet cables, except for the cable itself. It includes six 8P8C RJ45 and six 6P6C RJ12 plugs, a crimping tool designed to fit both plug types, a punch\u2011down tool for 110 type terminal blocks, and a UTP/STP flat cable stripper/cutter.A cable tester is also included to ensure that your finished cables are fully operational.Package Contents: 1x Crimp tool for 6P/8P plugs1x Punch\u2011down tool for 110 type terminal blocks1x UTP/STP, flat cable stripper/cutter1x Cable cutter6x 8P8C plugs6x 6P6C plugsCable tester for RJ45 (EIA/TIA 568A/568B), 10BaseT, Token Ring, RJ11/12 USOC, and Coaxial BNC cablesSupport Files: User's Manual (Jul 8, 2011)Line Drawing (May 27, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 19, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/70551.jpg\",\"https://images.monoprice.com/productlargeimages/70552.jpg\",\"https://images.monoprice.com/productlargeimages/70553.jpg\",\"https://images.monoprice.com/productlargeimages/70554.jpg\",\"https://images.monoprice.com/productlargeimages/70555.jpg\",\"https://images.monoprice.com/productlargeimages/70556.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 123.99,
+      "sku": "7055",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7055",
+      "gtin14": "844660070559"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Professional Networking Tool Kit",
+      "ratingCount": "30",
+      "reviewCount": "30",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Toolkits",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/toolkits"
+    },
+    {
+      "name": "7055",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/toolkits/7055"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Eaton 5P UPS 750VA 600W 120V Line-Interactive UPS 5-15P 8x 5-15R Outlets True Sine Wave Cybersecure Network Card Option Tower - Tower",
+    "@id": "https://www.monoprice.com/product?p_id=50682",
+    "url": "https://www.monoprice.com/product?p_id=50682",
+    "description": "750VA/600W/120V Battery Backup for Network Closets and Small Data CentersThis 5P line-interactive UPS system provides reliable battery backup for small business, education, retail, financial or healthcare networking components, including servers, VoIP phones, data storage and PoE switches. The 5P750 protects connected devices by providing 20 percent more wattage compared to traditional UPS systems.Reliable Battery Backup Keeps You Operational Through Power OutagesValve regulated lead acid (VRLA) battery modules allow you to work through short power failures and give you enough time to safely save files and shut down your system in case of a prolonged blackout. Exclusive ABM technology increases battery life by 50 percent and closely monitors battery health to provide advanced notice when batteries need replacing.Optional Gigabit Network Interface Offers 24/7 Remote AccessThe NETWORK-M2 Gigabit network card (sold separately) enables full remote configuration and management, including load shedding, reboots of connected equipment and safe shutdowns. UPS firmware can also be flashed remotely through the NETWORK-M2 without dropping the load, so you don't have to plan for downtime. The card meets both UL 2900-1 and IEC 62443-4-2 standards for cybersecurity, which were developed to address the vulnerability of connected devices to known malware/exploits and to protect business from these risks. An optional Environmental Monitoring Probe Gen 2 (EMPDT1H1C2, sold separately) provides a variety of environmental monitoring capabilities, including temperature and humidity conditions.NEMA 5-15R Outlets Protect Your Connected ComponentsEight managed 5-15R outlets provide connected equipment with pure sine wave AC output and allow you to monitor power consumption down to the outlet group level. Four outlets are grouped into two load banks that let you shed non-critical loads to extend runtime for critical loads.LCD Interface Keeps You Informed at a GlanceThe five-button graphical LCD provides useful information about the UPS itself, load status,events, measurements and settings. To save energy, the LCD switches to the screen saver after five minutes of inactivity. The backlight LCD automatically dims after 10 minutes of inactivity.Advanced Communications Ports Allow for Automatic Saves and ShutdownsRS-232 and USB ports connect to a serial-enabled or USB-enabled device for a variety of communication options (cables are included). The RPO/ROO connector permits emergency shutdown or remote restart of all connected equipment. By adding the optional RELAY-MS interface card (sold separately), a dry-contact relay port can be programmed through the LCD to provide reliable communications to automation and industrial components.Keeps equipment running during outages to allow time for file saves and safe shutdownProvides 20% more wattage compared to traditional UPS systems to protect devicesExclusive ABM technology with 3-stage charging increases internal battery life by 50%5-button graphical LCD offers critical UPS data and load status at a glanceOptional NETWORK-M2 Gigabit network card enables full remote access and controlInterfaces/PortsUSBYesNetwork (RJ-45)YesTotal Number of Expansion Slots1Technical InformationEmergency Power OFFYesPlug/Connector TypeNEMA 5-15PReceptacle TypeNEMA 5-15RReceptacle Detail8 x NEMA 5-15RBattery InformationBattery ChemistryLead AcidHot SwappableYesBackup/Run Time (Half Load)12 MinuteBackup/Run Time (Full Load)4 MinuteBattery CharacteristicsMaintenance-free, SealedPhysical CharacteristicsWeight (Approximate)23.60 lbForm FactorTowerHeight9.10\"Width5.90\"\u00a0Depth13.60\"Power DescriptionInput Voltage110 V ACOutput Voltage132 V AC\u00a0120 V AC\u00a0125 V ACLoad Capacity (VA)750 VALoad Capacity (Watt)600 WGeneral InformationProduct TypeLine-interactive UPSManufacturer Part Number5P750Manufacturer Website Addresshttp://www.eaton.comManufacturerEaton CorporationProduct Model5PProduct Name5P Tower UPSBrand NameEatonMiscellaneousPackage Contents5P Tower UPSUser Manual CDIntelligent Power Software Suite CDQuick Start GuideUSB CableRS-232 Serial CableSoftware IncludedIntelligent Power Software SuiteCertifications & StandardsUL 1778UL497AcULusCEIEC 62040-2 C1-C2EN 55024CISPR22 Class BFCC part 15 Class BCountry of OriginPhilippinesEnvironmentally FriendlyYesEnergy StarYesEnvironmental ComplianceRestriction of Hazardous Substances (RoHS)\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/506821.jpg\",\"https://images.monoprice.com/productlargeimages/506822.jpg\",\"https://images.monoprice.com/productlargeimages/506823.jpg\",\"https://images.monoprice.com/productlargeimages/506824.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 490.99,
+      "sku": "50682",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=50682",
+      "gtin14": "889028241004"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Eaton 5P UPS 750VA 600W 120V Line-Interactive UPS 5-15P 8x 5-15R Outlets True Sine Wave Cybersecure Network Card Option Tower - Tower",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/power-&-surge"
+    },
+    {
+      "name": "UPS Battery Backups",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/ups-battery-backups"
+    },
+    {
+      "name": "50682",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/ups-battery-backups/50682"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

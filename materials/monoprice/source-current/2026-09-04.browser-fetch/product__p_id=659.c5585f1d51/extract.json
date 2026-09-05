@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2RCA Male to 2RCA Male Cable 28AWG 6ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=659",
+    "url": "https://www.monoprice.com/product?p_id=659",
+    "description": "Despite the introduction of more advanced audio and video signal cables, such as HDMI\u00ae and Toslink\u00ae, most audio and a large number of video connections still use the common RCA connector.This is a two-channel, 28AWG cable with red and white male RCA plugs with molded connector housings and strain relief boots on each end. The cable is ideal for connecting stereo audio output from a component, such as a CD player, to an amplifier or receiver.Support Files: Tech Drawing (Dec 10, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. TOSLINK\u00ae is a registered trademark of Toshiba Corporation. Updated Dec 10, 2025 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6591.jpg\",\"https://images.monoprice.com/productlargeimages/6592.jpg\",\"https://images.monoprice.com/productlargeimages/6593.jpg\",\"https://images.monoprice.com/productlargeimages/6594.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.69,
+      "sku": "659",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=659",
+      "gtin14": "844660006596"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2RCA Male to 2RCA Male Cable 28AWG 6ft Black",
+      "ratingCount": "146",
+      "reviewCount": "51",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "659",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/659"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

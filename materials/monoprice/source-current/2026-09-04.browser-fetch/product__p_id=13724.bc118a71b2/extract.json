@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Wire CMP Rated 2-Conductor 16AWG 250ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=13724",
+    "url": "https://www.monoprice.com/product?p_id=13724",
+    "description": "Monoprice Plenum Speaker Wire is designed to meet the most stringent standards of safety for both residential and commercial applications. The fire-retardant cable jacket bears the CMP plenum air space safety rating, making it ideal for use in any situation. Available in a variety of lengths and gauges, you can choose two-conductor versions, for connecting a single speaker, or four-conductor versions for connecting speaker pairs. The pure bare copper conductors are sheathed in color-coded jackets contained with the main CMP-rated jacket. Backed up by Monoprice's Lifetime Warranty, Monoprice Plenum Speaker Wire series is the ultimate speaker wire for commercial and residential installations.Plenum Rated100% Pure Bare CopperVarious Lengths and Gauges2 or 4 Color-Coded ConductorsSoft and Flexible Cable JacketPlenum Rated: Monoprice Plenum Speaker Wire uses an external cable jacket, which has been specially treated to resist the spread of fire. It has been CMP rated as safe for use in the plenum ducts and airspaces of commercial class buildings, making it the ideal speaker wire choice for any situation.100% Pure Bare Copper: Featuring pure bare copper conductors, these speaker wires faithfully and accurately reproduce music with total sonic clarity.Various Lengths and Gauges: Available in 12, 14, 16, and 18 AWG sizes, and in 50, 100, 250, and 500 foot lengths, Monoprice has the speaker wire that is perfect for your needs.2 or 4 Color-Coded Conductors: Connect a single speaker using the 2-conductor wire or connect a stereo pair using the 4-conductor variant. Each version has uniquely colored inner jackets so you can easily match polarity at each end.Soft and Flexible Cable Jacket: While most plenum rated cables are stiff, Monoprice Plenum Speaker Wire uses a specially treated jacket, which keeps it as soft and flexible as ordinary speaker cable.Monoprice Lifetime Warranty on ALL CablesWith Monoprice's Lifetime Warranty you can rest assured we stand behind our products and our customers.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service & SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Spec Sheet Oct. 31, 2024Updated Jan 22, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/137241.jpg\",\"https://images.monoprice.com/productlargeimages/137242.jpg\",\"https://images.monoprice.com/productlargeimages/137243.jpg\",\"https://images.monoprice.com/productlargeimages/137244.jpg\",\"https://images.monoprice.com/productlargeimages/137245.jpg\",\"https://images.monoprice.com/productlargeimages/137246.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 219.99,
+      "sku": "13724",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13724",
+      "gtin14": "889028017739"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Wire CMP Rated 2-Conductor 16AWG 250ft Black",
+      "ratingCount": "174",
+      "reviewCount": "2",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "13724",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/13724"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

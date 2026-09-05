@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10ft 28AWG DisplayPort to VGA Cable White",
+    "@id": "https://www.monoprice.com/product?p_id=6020",
+    "url": "https://www.monoprice.com/product?p_id=6020",
+    "description": "                    Connect the VGA port on your HDTV or monitor directly to your DisplayPort\u00ae source without any extra adapters. This cable features a unique active digital-to-analog signal converter built right in.  This high performance cable features fully shielded tin plated copper conduits and gold plated connectors.                    IMPORTANT! This cable will only function in one direction, from a DisplayPort source to a VGA display.                    Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.        DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association.          Updated Apr 29, 2020                           Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/60201.jpg\",\"https://images.monoprice.com/productlargeimages/60202.jpg\",\"https://images.monoprice.com/productlargeimages/60203.jpg\",\"https://images.monoprice.com/productlargeimages/60204.jpg\",\"https://images.monoprice.com/productlargeimages/60205.jpg\",\"https://images.monoprice.com/productlargeimages/60206.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "6020",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6020",
+      "gtin14": "844660060208"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10ft 28AWG DisplayPort to VGA Cable White",
+      "ratingCount": "49",
+      "reviewCount": "12",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "6020",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/6020"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

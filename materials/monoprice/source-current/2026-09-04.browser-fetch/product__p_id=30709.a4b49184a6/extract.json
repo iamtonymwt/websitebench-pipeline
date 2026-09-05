@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Cable Tray Organizer For Work Computer Tables and Sit-Stand Desks Black",
+    "@id": "https://www.monoprice.com/product?p_id=30709",
+    "url": "https://www.monoprice.com/product?p_id=30709",
+    "description": "This Cable Tray Organizer helps with managing messy wires and power adapters that plague today's work desks. Hide unsightly cords and bricks and regain precious desk space. It is designed to work with Monoprice sit-stand desks to allow for easy height adjustment, but it also works with most kinds of work tables and computer desks.Made of steel for a durable platform, it can hold power strips, power adapters, and various cables to help keep wires in order. It is designed to mount directly to Monoprice Sit-Stand Desk frames, but it can also be screwed under most wood or wood-composite desks.Features: Keeps cables organizedEnough space for typical computer setupsImproves sit-stand adjustabilityWorks with most wood or wood-composite tabletopsMade of steel for durabilityMeasures 23.0\" x 5.2\" x 2.9\" (585 x 131 x 74 mm)Support Files: Dimensions Diagram (May 18, 2020)Monoprice\u2122 WORKSTREAM\u2122 the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated May 27, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/307091.jpg\",\"https://images.monoprice.com/productlargeimages/307092.jpg\",\"https://images.monoprice.com/productlargeimages/307093.jpg\",\"https://images.monoprice.com/productlargeimages/307094.jpg\",\"https://images.monoprice.com/productlargeimages/307095.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "30709",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=30709",
+      "gtin14": "889028074152"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Cable Tray Organizer For Work Computer Tables and Sit-Stand Desks Black",
+      "ratingCount": "11",
+      "reviewCount": "11",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Furniture",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture"
+    },
+    {
+      "name": "Desk Organizers",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desk-organizers"
+    },
+    {
+      "name": "30709",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desk-organizers/30709"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

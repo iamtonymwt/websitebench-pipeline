@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Wire Braided with Banana Plugs 2-Conductor 14AWG 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=15519",
+    "url": "https://www.monoprice.com/product?p_id=15519",
+    "description": "Monoprice Affinity\u2122 Premium Braided Speaker Wire combines great looks and durability with exceptional sonic performance, making it the ideal speaker wire solution for the serious audiophile. The 14AWG copper conductors have been tinned to prevent corrosion and the braided fabric outer jacket not only helps prevent damage to the jacket, but also won't scratch your speaker cabinets. Each wire is pre-terminated with color-coded, gold plated banana plugs at each end, ensuring that you can quickly and accurately connect your speakers to your amplifier. Backed by Monoprice's world renowned Lifetime Replacement Warranty, there is no better choice than Monoprice's Affinity Premium Braided Speaker Wire!Two ConductorsLong Lasting DurabilityPremium Soft-Touch Braided JacketProfessional GradeTwo Conductors: Affinity\u2122 Premium Braided Speaker Wire features two 14AWG conductors with color-coded aluminum connectors, making it easy to match polarity.Long Lasting Durability: Featuring tinned, oxygen-free copper conductors and gold plated banana plugs, these wires are designed for long-term corrosion resistance, durability, and sonic clarity.Premium Soft-Touch Braided Jacket: These wires have been wrapped in braided fabric, giving them a soft-touch to protect your speakers' finish, yet retaining the flexibility of ordinary speaker wire.Professional Grade: Packed with professional grade features, such as color-coded, brushed aluminum connectors, gold plated banana plugs, and a braided fabric jacket, you get the appearance of a professional installation, without the cost of hiring someone or the hassle of making them yourself.Monoprice Lifetime Warranty on ALL CablesWith Monoprice's Lifetime Warranty you can rest assured we stand behind our products and our customers.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service & SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Affinity\u2122 is a trademark of Monoprice Inc. Updated Jan 23, 2020 \u00a0Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/155191.jpg\",\"https://images.monoprice.com/productlargeimages/155192.jpg\",\"https://images.monoprice.com/productlargeimages/155193.jpg\",\"https://images.monoprice.com/productlargeimages/155194.jpg\",\"https://images.monoprice.com/productlargeimages/155195.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 26.19,
+      "sku": "15519",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15519",
+      "gtin14": "889028036204"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Wire Braided with Banana Plugs 2-Conductor 14AWG 3ft",
+      "ratingCount": "212",
+      "reviewCount": "23",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "15519",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/15519"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

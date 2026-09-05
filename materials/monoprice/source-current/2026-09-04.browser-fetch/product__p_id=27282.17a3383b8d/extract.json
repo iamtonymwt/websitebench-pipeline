@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-C to 4K DisplayPort  HDMI  and Single-Link DVI-D Passive Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=27282",
+    "url": "https://www.monoprice.com/product?p_id=27282",
+    "description": "Connect your USB-C\u00ae or Thunderbolt\u2122 3 equipped PC or Mac\u00ae to a 4K HDMI\u00ae, Single-Link DVI\u2122-D, or DisplayPort\u00ae video display using this USB-C Passive Adapter from Monoprice\u2122!This adapter is designed to allow you to connect a DisplayPort, HDMI\u00ae, or Single-Link DVI-D display to a USB-C or Thunderbolt 3 video output. It supports DisplayPort resolutions up to 4K (3840x2160p) @60Hz, HDMI resolutions up to 4K (3840x2160p) @30Hz, and Single-Link DVI-D resolutions up to 1920x1080p @60Hz. Being a passive adapter, it is NOT compatible with the AMD\u00ae Eyefinity or NVIDIA\u00ae Surround\u2122 multidisplay modes. Note that only one of the three video outputs can be used at any given time.Features:Connects to both USB-C\u00ae and Thunderbolt\u2122 3 video outputsSupports DisplayPort\u00ae resolutions up to 4K (3840x2160p @60Hz)Supports HDMI\u00ae resolutions up to 4K (3840x2160p @30Hz)Supports Single-Link DVI\u2122-D resolutions up to 1920x1080p @60HzPASSIVE adapter is NOT compatible with nVidia\u00ae Surround\u2122 or AMD\u00ae Eyefinity multidisplay modesSupport Files: Spec Sheet (Oct 31, 2024)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. DVI\u2122 is a trademark of the Digital Display Working Group. USB-C\u00ae and USB-C\u00ae are trademarks of USB Implementers Forum, Inc. Thunderbolt\u2122 is a trademark of Intel Corporation in the U.S. and/or other countries. Apple\u00ae and Mac\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. AMD\u00ae is a registered trademark of Advanced Micro Devices. NVIDIA\u00ae and NVIDIA Surround\u2122 are trademarks of NVIDIA Corporation. Updated Mar 15, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/272821.jpg\",\"https://images.monoprice.com/productlargeimages/272822.jpg\",\"https://images.monoprice.com/productlargeimages/272823.jpg\",\"https://images.monoprice.com/productlargeimages/272824.jpg\",\"https://images.monoprice.com/productlargeimages/272825.jpg\",\"https://images.monoprice.com/productlargeimages/272826.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "27282",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=27282",
+      "gtin14": "889028062500"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-C to 4K DisplayPort  HDMI  and Single-Link DVI-D Passive Adapter",
+      "ratingCount": "6",
+      "reviewCount": "6",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "27282",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/27282"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

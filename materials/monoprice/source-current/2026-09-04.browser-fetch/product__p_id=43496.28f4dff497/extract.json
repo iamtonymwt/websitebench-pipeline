@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 6ft Aluminum Portable Fold-Up Camping Kitchen Table with Windscreen and 5 Enclosed Cupboards",
+    "@id": "https://www.monoprice.com/product?p_id=43496",
+    "url": "https://www.monoprice.com/product?p_id=43496",
+    "description": "About this itemEASY FOLDING: Portable camp kitchen folds compactly for easy transport and storageTONS OF SPACE & STORAGE: Spacious design with plenty of room for food prep and storage including 3 aluminum tabletops and 5 cupboards, door is openable with zippers and can be fixed when rolled up.WIND PROTECTION: Handy windscreen to block the wind for heat retention and faster cookingSTRONG CONSTRUCTION: Constructed of durable fabric and solid aluminum for superior strength and durability Lightweight and easy to carryEASY TO USE: Quick and simple set up and fold, with a carrying bag for easy carrying around.With plenty of room for all of your cooking gear, our portable camp kitchen gets the job done when you need to prep food on the go. The spacious design has plenty of room for food prep and storage including 5 enclosed cupboards, 2 countertops, and an aluminum countertop. A handy windscreen around the aluminum countertop is there to block the wind for heat retention and faster cooking while roll down bug screens protect the 5 lower cupboards. This camp kitchen helps keeps you organized, so that you spend less time looking for utensils and more time seeking adventure.\u00a0FeaturesPerfect for camping, picnics, barbecues, backyard parties and morePortable camp kitchen folds compactly for easy transport and storageSpacious design with plenty of room for food prep and storage including\u00a05 enclosed cupboards and 3 upper countertops (2 MDF, 1 aluminum)Handy windscreen to block the wind for heat retention and faster cookingConstructed of moisture-resistant MDF, durable fabric and solid aluminumQuick and simple set upSize: 70x46x18\"Folded size: 31.5\"x4.7\"x22.4\"Wind board Steel: 0.6mm\u00a0Frame MaterialMetalTop Material TypeEngineered Wood, Aluminum\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0Warning: This product can expose you to Wood Dust, which is known to the State of California to cause cancer. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/434961.jpg\",\"https://images.monoprice.com/productlargeimages/434962.jpg\",\"https://images.monoprice.com/productlargeimages/434963.jpg\",\"https://images.monoprice.com/productlargeimages/434964.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 109.99,
+      "sku": "43496",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43496",
+      "gtin14": "889028178614"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 6ft Aluminum Portable Fold-Up Camping Kitchen Table with Windscreen and 5 Enclosed Cupboards",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Outdoor",
+      "url": "https://www.monoprice.com/category/pages/14"
+    },
+    {
+      "name": "Camping",
+      "url": "https://www.monoprice.com/category/outdoor/camping"
+    },
+    {
+      "name": "Kitchen",
+      "url": "https://www.monoprice.com/category/outdoor/camping/kitchen"
+    },
+    {
+      "name": "43496",
+      "url": "https://www.monoprice.com/category/outdoor/camping/kitchen/43496"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

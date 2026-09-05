@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Toslink S/PDIF 1x3 Splitter",
+    "@id": "https://www.monoprice.com/product?p_id=43391",
+    "url": "https://www.monoprice.com/product?p_id=43391",
+    "description": "This Toslink\u00ae S/PDIF 1x3 Splitter allows you to connect a single digital optical S/PDIF (Toslink) audio source to up to three devices, such as a television, audio amplifier, AV receiver, etc. It supports 2\u2011channel high definition audio sources, including LPCM, DTS\u00ae, and Dolby Digital\u2122. It has a 96kHz sampling rate, supports signal re\u2011timing, and can transmit audio to distances up to 131 feet (40 meters) using an optical cable with a loss of less than 0.2dB/m.Features: Connect a single Toslink\u00ae digital optical S/PDIF audio source to up to three devicesSupports 2\u2011channel high definition audio sources, including LPCM, DTS\u00ae, and Dolby Digital\u212296kHz sampling rateSupports signal re\u2011timingCan transmit audio to distances up to 131 feet (40 meters) using an optical cable with a loss of less than 0.2dB/mOver voltage protectionUSB poweredSupport Files: User's Manual (Jul 20, 2021)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. TOSLINK\u00ae is a registered trademark of Toshiba Corporation. DTS\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc. Dolby\u00ae, Dolby\u00ae Digital\u2122, Dolby Audio\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. Updated Dec 20, 2021 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/433911.jpg\",\"https://images.monoprice.com/productlargeimages/433912.jpg\",\"https://images.monoprice.com/productlargeimages/433913.jpg\",\"https://images.monoprice.com/productlargeimages/433914.jpg\",\"https://images.monoprice.com/productlargeimages/433915.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 20.99,
+      "sku": "43391",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43391",
+      "gtin14": "889028177525"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Toslink S/PDIF 1x3 Splitter",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Splitters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters"
+    },
+    {
+      "name": "43391",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters/43391"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

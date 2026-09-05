@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Multi Guitar Folding Stand for 5 Acoustic and Electric Guitars or Bass Guitars",
+    "@id": "https://www.monoprice.com/product?p_id=602105",
+    "url": "https://www.monoprice.com/product?p_id=602105",
+    "description": "Clubs, bars, and private events seem to be giving the band less and less space all of the time. How do you secure your stringed instruments so that they are handy and ready to play? Look no further than this 5-Way Guitar Stand.It safely holds 5 guitars, basses, mandolins, bouzoukis, or requintos in less than 4 square feet of space. Tripod stand are cumbersome and have loose parts that get lost. The 5-Way guitar stand folds up to less than 3\" to fit anywhere. It easily folds up flat for transportation to the club, bar, church, or home.The base is sturdy and durable, which enables the stand to stand freely and securely without worry. Enjoy stability and security for your instruments thanks to the all steel tubing and joints. With its padded tubing, your instruments are sure to be protected from scratches, dings, or broken strings.Assembly is required.Features: Safely holds 5 guitars, basses, mandolins, bouzoukis, or requintos in less than 4 square feet of spaceIt easily folds up flat for transportation to the club, bar, church, or homeStability and security for your instruments thanks to the all steel tubing and jointsWith its padded tubing, your instruments are sure to be protected from scratches, dings, or broken stringsStage Right\u2122 and the Stage Right logo are trademarks of Monoprice Inc. Updated Oct 16, 2019 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6021051.jpg\",\"https://images.monoprice.com/productlargeimages/6021052.jpg\",\"https://images.monoprice.com/productlargeimages/6021053.jpg\",\"https://images.monoprice.com/productlargeimages/6021054.jpg\",\"https://images.monoprice.com/productlargeimages/6021055.jpg\",\"https://images.monoprice.com/productlargeimages/6021056.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 44.99,
+      "sku": "602105",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=602105",
+      "gtin14": "889028058824"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Multi Guitar Folding Stand for 5 Acoustic and Electric Guitars or Bass Guitars",
+      "ratingCount": "96",
+      "reviewCount": "96",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Instrument Stands & Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories"
+    },
+    {
+      "name": "Guitar Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/guitar-stands"
+    },
+    {
+      "name": "602105",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/guitar-stands/602105"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 6-string Standard Guitar Capo",
+    "@id": "https://www.monoprice.com/product?p_id=611050",
+    "url": "https://www.monoprice.com/product?p_id=611050",
+    "description": "Alter the pitch of your guitar with this Guitar Capo from Stage Right\u2122!Capos by design hold the strings tightly in place on a desired section of your guitar in order to alter the tone or pitch without changing your finger positioning. This high quality capo is a trigger-style made of aluminum with rubber accents for easy one-handed application and removal. The rubber grip on the handle keeps it from slipping out of your hand during application and has a rubber mouth to prevent any damage to your guitar.Fits most standard guitarsStage Right\u2122, Monoprice\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Sep 3, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6110501.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "611050",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=611050",
+      "gtin14": "757901803222"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 6-string Standard Guitar Capo",
+      "ratingCount": "87",
+      "reviewCount": "87",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories"
+    },
+    {
+      "name": "611050",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories/611050"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Replacement Monolith 13in Subwoofer Driver (41496)",
+    "@id": "https://www.monoprice.com/product?p_id=44535",
+    "url": "https://www.monoprice.com/product?p_id=44535",
+    "description": "",
+    "image": "[]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 399.99,
+      "sku": "44535",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44535",
+      "gtin14": "889028190029"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Replacement Monolith 13in Subwoofer Driver (41496)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Subwoofers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers"
+    },
+    {
+      "name": "44535",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers/44535"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

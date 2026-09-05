@@ -2,84 +2,122 @@
   "schema_version": "monoprice.catalogue-extract.v1",
   "capture_dir": "source-current",
   "counts": {
-    "products": 0,
-    "categories": 416,
-    "memberships_resolved": 0,
-    "memberships_dangling": 4356,
-    "memberships_by_evidence": {},
-    "categories_with_no_products": 416
+    "products": 3857,
+    "categories": 1877,
+    "memberships_resolved": 35438,
+    "memberships_dangling": 2247,
+    "memberships_by_evidence": {
+      "breadcrumb": 11569,
+      "listing": 23869
+    },
+    "categories_with_no_products": 40
   },
   "pages": {
-    "page_dirs": 1280,
-    "other_pages": 828,
-    "skipped_empty-listing": 36,
-    "listings": 416,
-    "listing_tiles": 4356
+    "page_dirs": 11246,
+    "other_pages": 2055,
+    "skipped_not-found": 23,
+    "skipped_empty-listing": 44,
+    "listings_taxonomy": 707,
+    "listing_tiles": 30030,
+    "listings_shop-collection": 2622,
+    "skipped_absent-product": 1906,
+    "products": 3889
   },
-  "problems": {},
+  "captured_but_not_read_by_this_tool": {
+    "home": 716,
+    "p": 706,
+    "search": 422,
+    "pages": 147,
+    "assets": 46,
+    "help": 4,
+    "product": 4,
+    "Content": 2,
+    "terms-of-use": 2,
+    "about-us": 1,
+    "b2b": 1,
+    "category": 1,
+    "(root)": 1,
+    "privacy": 1,
+    "quote": 1
+  },
+  "problems": {
+    "product_without_image": {
+      "count": 23,
+      "examples": [
+        "https://www.monoprice.com/product?p_id=21885",
+        "https://www.monoprice.com/product?p_id=38208",
+        "https://www.monoprice.com/product?p_id=39676",
+        "https://www.monoprice.com/product?p_id=43229",
+        "https://www.monoprice.com/product?p_id=44527",
+        "https://www.monoprice.com/product?p_id=44528",
+        "https://www.monoprice.com/product?p_id=44529",
+        "https://www.monoprice.com/product?p_id=44530"
+      ]
+    }
+  },
   "dangling_examples": [
     [
-      "10145",
-      "/category/cables/audio-cables/auxiliary-cables",
+      "10013",
+      "/p/shop/3-way-coax-cable-splitter-8656a",
       "listing"
     ],
     [
-      "10146",
-      "/category/cables/audio-cables/auxiliary-cables",
+      "10013",
+      "/p/shop/3-way-coax-splitter-c89bf",
       "listing"
     ],
     [
-      "10149",
-      "/category/cables/audio-cables/auxiliary-cables",
+      "10013",
+      "/p/shop/3-way-coaxial-cable-splitter-c5593",
       "listing"
     ],
     [
-      "10462",
-      "/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts",
+      "10013",
+      "/p/shop/50-ft-cat5-ethernet-cable-f4cbf",
       "listing"
     ],
     [
-      "10472",
-      "/category/mounts-&-stands/tv-wall-mounts",
+      "10013",
+      "/p/shop/av-receiver-stereo-hdmi-cf2c1",
       "listing"
     ],
     [
-      "10472",
-      "/category/mounts-&-stands/tv-wall-mounts/fixed-tv-wall-mounts",
+      "10013",
+      "/p/shop/best-coax-splitters-fdece",
       "listing"
     ],
     [
-      "10482",
-      "/category/mounts-&-stands/tv-wall-mounts",
+      "10013",
+      "/p/shop/best-in-ceiling-speakers-a666e",
       "listing"
     ],
     [
-      "10482",
-      "/category/mounts-&-stands/tv-wall-mounts/tilt-tv-wall-mounts",
+      "10013",
+      "/p/shop/coax-data-splitter-140b0",
       "listing"
     ],
     [
-      "10565",
-      "/category/audio-video/speakers/home-theater-speakers-systems",
+      "10013",
+      "/p/shop/coax-splitter-3-way-6cb4a",
       "listing"
     ],
     [
-      "10620",
-      "/category/audio-video/weatherproof-cases-&-containers",
+      "10013",
+      "/p/shop/coax-splitter-for-internet-and-tv-7ad9f",
       "listing"
     ]
   ],
   "empty_category_examples": [
-    "/category/3d-printing-&-hobbies/3d-printers-&-accessories",
-    "/category/3d-printing-&-hobbies/3d-printers-&-accessories/3d-printer-replacement-parts-&-accessories",
-    "/category/3d-printing-&-hobbies/craft-cutters-&-accessories",
-    "/category/3d-printing-&-hobbies/craft-cutters-&-accessories/craft-cutters-",
-    "/category/adapters,-switches,-&-splitters/audio-adapters",
-    "/category/adapters,-switches,-&-splitters/audio-adapters/audio-converters",
-    "/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter",
-    "/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs",
-    "/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers",
-    "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    "/category/audio-video/audio-&-video-accessories/remote-controls",
+    "/category/audio-video/cameras-&-accessories",
+    "/category/audio-video/cameras-&-accessories/camera-accessories",
+    "/category/audio-video/cameras-&-accessories/cameras-&-lenses",
+    "/category/audio-video/commercial-audio-&-digital-signage/digital-signage",
+    "/category/audio-video/projectors-&-screens/projectors",
+    "/category/audio-video/surge-protection/power-adapters",
+    "/category/audio-video/televisions",
+    "/category/audio-video/televisions/televisions",
+    "/category/computers-&-gaming/monitors-&-displays/digital-signage"
   ],
   "note": "`memberships_dangling` names products that a listing links to but that were never captured. They are reported rather than dropped: a category that looks empty because its products were not captured is a capture gap, and a category the source itself renders empty is a source fact. Only the first is a defect."
 }

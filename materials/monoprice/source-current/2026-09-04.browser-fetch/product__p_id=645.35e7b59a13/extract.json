@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 12ft 3.5mm Stereo Plug/Plug M/M Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=645",
+    "url": "https://www.monoprice.com/product?p_id=645",
+    "description": "The 3.5mm (1/8\") stereo TRS connector is more commonly known as the Headphone Jack on portable mp3 players and mobile phones. This cable features a male 3.5mm stereo (TRS) plug on each end, with molded connector housings and strain relief boots. The cable is ideal for connecting a stereo audio output, such as an mp3 player or phone, to a stereo audio input, such as the auxiliary input on a car stereo system.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6451.jpg\",\"https://images.monoprice.com/productlargeimages/6452.jpg\",\"https://images.monoprice.com/productlargeimages/6453.jpg\",\"https://images.monoprice.com/productlargeimages/6454.jpg\",\"https://images.monoprice.com/productlargeimages/6455.jpg\",\"https://images.monoprice.com/productlargeimages/6456.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.39,
+      "sku": "645",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=645",
+      "gtin14": "844660006459"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 12ft 3.5mm Stereo Plug/Plug M/M Cable - Black",
+      "ratingCount": "929",
+      "reviewCount": "237",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "645",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/645"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

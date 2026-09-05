@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Audio 60W 3ch 100/70V Mixer Amp with Bluetooth",
+    "@id": "https://www.monoprice.com/product?p_id=36373",
+    "url": "https://www.monoprice.com/product?p_id=36373",
+    "description": "Enjoy quality Bluetooth\u00ae wireless technology music playback and paging ability with this 60\u2011watt 3\u2011channel 100/70V Mixer Amp with Bluetooth\u00ae from Monoprice. Small to medium sized businesses will benefit from the compact size of this high power music and paging audio amplifier with a 3\u2011channel mixer. Choose from 1/4\" or XLR mic inputs and RCA or 1/4\" line inputs for playback of cable boxes or juke boxes. USB playback is available for controlled playback or enjoy streaming music from your mobile device using Bluetooth connectivity. Choose high\u2011fidelity 4~8 ohm speakers or install 100/70V distributed audio speakers for more coverage of your facility. Control USB and Bluetooth\u00ae playback using the included IR remote control.Features: Compact public address amplifierSupports 4\u2011ohm, 8\u2011ohm, and 16\u2011ohm passive speakersSupports 70\u2011volt and 100\u2011volt constant voltage speaker systemsDelivers 60\u2011watts into a 4\u2011ohm loadBuilt\u2011in mp3 player, FM tuner, and Bluetooth\u00ae connectionIncludes 1/4\" unbalanced and XLR balanced microphone inputsSupports phantom power for condenser microphonesIncludes two line inputs and one line outputFeatures an EMC priority inputIncludes short circuit, clipping, overload, and over temperature protection circuitsCan accept 100 ~ 240 VAC, 50/60 Hz or 24 VDC, 4A input powerSupport Files: User's Manual (Jun 5, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. The Bluetooth\u00ae word mark and logos are registered trademarks of Bluetooth SIG, Inc. Updated Feb 24, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/363731.jpg\",\"https://images.monoprice.com/productlargeimages/363732.jpg\",\"https://images.monoprice.com/productlargeimages/363733.jpg\",\"https://images.monoprice.com/productlargeimages/363734.jpg\",\"https://images.monoprice.com/productlargeimages/363735.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 166.99,
+      "sku": "36373",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=36373",
+      "gtin14": "889028116210"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Audio 60W 3ch 100/70V Mixer Amp with Bluetooth",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "3.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Commercial Audio & Digital Signage",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage"
+    },
+    {
+      "name": "Mixers & Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers"
+    },
+    {
+      "name": "36373",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers/36373"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB 3.0 7-port Aluminum Hub with AC Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=21672",
+    "url": "https://www.monoprice.com/product?p_id=21672",
+    "description": "Expand your computer's capabilities by adding 7 SuperSpeed USB 3.0 ports with this aluminum unibody hub. Use with a laptop or desktop PC to easily connect external hard drives, flash drives, mobile devices, keyboards, mice, and other USB peripherals. This hub can be powered directly from a computer for use with most USB peripherals, or use the included AC power adapter to reliably connect high power-draw devices. This hub is capable of data transfer speeds up to 5Gbps via USB 3.0, but also backwards compatible with USB 2.0 and 1.1 computers and devices. No drivers or complicated configurations are required - just plug it in and start using it right away!Features: 7 USB ports to expand connectivity for computers with limited portsCan be plugged directly to a computer and be fully bus-powered for instant plug and play operationIncludes AC Adapter for reliable connection with USB devices that require more powerWorks with high-bandwidth USB 3.0 devices, such as external hard disks, high resolution webcams, camcorders, video surveillance cameras, digital video cameras, multichannel audio and moreEasy to Install, Plug and Play - no driver installation needed on Windows\u00ae and Mac\u00ae systemsSandblasted aluminum unibody design for a premium look and durability\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Microsoft\u00ae and Windows\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Apple\u00ae and Mac\u00ae are trademarks of Apple Inc, registered in the U.S. and other countries. Updated Dec 10, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/216721.jpg\",\"https://images.monoprice.com/productlargeimages/216722.jpg\",\"https://images.monoprice.com/productlargeimages/216723.jpg\",\"https://images.monoprice.com/productlargeimages/216724.jpg\",\"https://images.monoprice.com/productlargeimages/216725.jpg\",\"https://images.monoprice.com/productlargeimages/216726.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 57.99,
+      "sku": "21672",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21672",
+      "gtin14": "889028049945"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB 3.0 7-port Aluminum Hub with AC Adapter",
+      "ratingCount": "68",
+      "reviewCount": "19",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Hubs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs"
+    },
+    {
+      "name": "21672",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs/21672"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

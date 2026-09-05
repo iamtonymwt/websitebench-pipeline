@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Series Push-to-Pop-Out Video Wall TV Mount Fits 37 to 70 TVs Max Weight 99 lbs. Extension of 2.7in to 8.5in VESA Patterns Up to 600x400 Security Brackets",
+    "@id": "https://www.monoprice.com/product?p_id=21876",
+    "url": "https://www.monoprice.com/product?p_id=21876",
+    "description": "The Commercial Series Pop\u2011Out and Expandable Menu Board system allows integrators to create stunning video wall or attractive digital menu board by utilizing an easy to use push to pop out system.The push to pop out system allows for ease of access to connections and equipment that may be hidden behind the display.The Commercial Series Pop\u2011Out and Expandable Menu Board Wall Mount System is available in two sizes, Medium and Large, accommodating VESA\u00ae patterns as large as 600x400. The pop out clearance for these units can range from 68 ~ 215 mm. The system allows for \u00b13\u00b0 of rotational adjustment. The simple wall mount system is expandable with the use of the PID 21879 connecting plate, allowing for an unlimited expansion of displays. The Commercial Series System allows for the use of padlocks for additional security (padlocks not included).*The minimum and maximum display sizes are only approximations. Your TV will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight.Support Files: User's Manual (Mar 13, 2017)Diagram (Oct 3, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Feb 4, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/218761.jpg\",\"https://images.monoprice.com/productlargeimages/218762.jpg\",\"https://images.monoprice.com/productlargeimages/218763.jpg\",\"https://images.monoprice.com/productlargeimages/218764.jpg\",\"https://images.monoprice.com/productlargeimages/218765.jpg\",\"https://images.monoprice.com/productlargeimages/218766.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 164.99,
+      "sku": "21876",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21876",
+      "gtin14": "889028051726"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Series Push-to-Pop-Out Video Wall TV Mount Fits 37 to 70 TVs Max Weight 99 lbs. Extension of 2.7in to 8.5in VESA Patterns Up to 600x400 Security Brackets",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Digital Signage Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts"
+    },
+    {
+      "name": "21876",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts/21876"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

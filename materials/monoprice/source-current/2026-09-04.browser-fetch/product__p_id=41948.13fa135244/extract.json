@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Ergonomic gaming Chair with Height Adjustment Headrest and Lumbar Support Swivel Chair",
+    "@id": "https://www.monoprice.com/product?p_id=41948",
+    "url": "https://www.monoprice.com/product?p_id=41948",
+    "description": "Perfect for Gaming: MPM is dedicated to make the best gaming chair for pro gamers. Improve your gaming experience today! 4\u201d height adjustability with maximum Weight Capacity: 250 pounds.Ergonomic Design: Heavy duty racing gaming chair with integrated metal frame, international standards explosion-proof gas Spring, Suitable for playing your computer games, watching TV, lying down rest and office working. Thick padded back and seat take this chair to the next level of comfort.High-Quality Material: Smooth PU leather upholstery. Thick padded seat cushion made of high density foam. Heavy-duty chair base and nylon smooth-rolling casters for great stability and mobility.Game and Office: This gaming chair is an ideal seat of choice for working, studying and gaming. It will perfectly blend in your game room or home office with its modern and stylish look. And it will keep you comfortable during long sessions of game or work.Multi-Function: Seat-height adjustable, 360 degree swivel, Smooth-rolling casters, headrest pillow and lumbar cushion for added supportDimension:seat back height \u2013 33\u201dseat height minimum, floor to seat top \u2013 13\u201dseat height maximum, floor to seat top \u2013 17\u201dHeight Adjustability \u2013 4\u201d\u00a0Note: Assembly needed, tool is included in the package\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/419481.jpg\",\"https://images.monoprice.com/productlargeimages/419482.jpg\",\"https://images.monoprice.com/productlargeimages/419483.jpg\",\"https://images.monoprice.com/productlargeimages/419484.jpg\",\"https://images.monoprice.com/productlargeimages/419485.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 119.99,
+      "sku": "41948",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41948",
+      "gtin14": "889028162231"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Ergonomic gaming Chair with Height Adjustment Headrest and Lumbar Support Swivel Chair",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Furniture",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture"
+    },
+    {
+      "name": "Drawers & Cabinets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/drawers-&-cabinets"
+    },
+    {
+      "name": "41948",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/drawers-&-cabinets/41948"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

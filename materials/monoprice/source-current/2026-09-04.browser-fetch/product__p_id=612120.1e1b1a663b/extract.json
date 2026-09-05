@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 192-Channel DMX-512 Universal Stage Lighting Controller for Up To 12 Intelligent Lights",
+    "@id": "https://www.monoprice.com/product?p_id=612120",
+    "url": "https://www.monoprice.com/product?p_id=612120",
+    "description": "Control up to 12 intelligent lights with up to 16\u2011channels of DMX data with this 16\u2011Channel DMX512 Controller from Monoprice\u2122!This compact controller gives you access to up to 6 sets of chases with up to 240 scenes each. It is able to execute multiple chases at the same time and includes beat\u2011activation, tap sync, and auto run functions.Features: Universal DMX512 controllerControls 12 intelligent lights of up to 16 channels30 banks of 8 scenes, 240 scenes total6 sets of chases containing 240 scenesExecute multiple chases simultaneouslyRe\u2011assignable channelsWheel assignable Pan/Tilt and 16\u2011bit controlBeat\u2011activation, tap sync, auto runGrab any fixture on the flyPolarity selectorMIDI compatiblePackage Contents: 1x 16\u2011Channel DMX512 controller1x AC power adapter (9 ~ 12 VDC, 500mA, 90 ~ 240 VAC)1x User's manualSupport Files: User's Manual (Dec 1, 2014)Manual de Usuario (Espa\u00f1ol) (Apr 30, 2015)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 18, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6121201.jpg\",\"https://images.monoprice.com/productlargeimages/6121202.jpg\",\"https://images.monoprice.com/productlargeimages/6121203.jpg\",\"https://images.monoprice.com/productlargeimages/6121204.jpg\",\"https://images.monoprice.com/productlargeimages/6121205.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 139.99,
+      "sku": "612120",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612120",
+      "gtin14": "757901814334"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 192-Channel DMX-512 Universal Stage Lighting Controller for Up To 12 Intelligent Lights",
+      "ratingCount": "37",
+      "reviewCount": "37",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "DMX Control",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/dmx-control"
+    },
+    {
+      "name": "612120",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/dmx-control/612120"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

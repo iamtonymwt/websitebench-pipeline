@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Wire CL2 Rated 4-Conductor 12AWG 250ft White",
+    "@id": "https://www.monoprice.com/product?p_id=4038",
+    "url": "https://www.monoprice.com/product?p_id=4038",
+    "description": "Get the most out of your home audio system with high quality, pure bare copper speaker wire from Monoprice\u2122!Pure Bare Copper is a superior conductor to the copper clad aluminum (CCA) conductors used in most other inexpensive speaker wire. CCA is only about 68% as conductive as pure bare copper. This additional resistance is added to the impedance of your speakers and can negatively effect the sound.For the wire to have no audible effect, the total wire resistance should be no more than 5% of the lowest impedance of your speakers. Even speakers rated for a nominal 8-ohms, may dip to as low as 4-ohms at some frequencies, which further reduces the total cable resistance allowed in the wire. Using Pure Bare Copper speaker wire ensures that the total load put on the amplifier remains as close as possible to the impedance curve of your speakers.Each conductor is jacketed with color-coded PVC for easy polarity identification. The entire cable assembly is jacketed in a black, CL2-rated PVC material. The CL2 rating indicates that the cable complies with fire safety and insurance requirements, making it safe for use inside the walls of residential class buildings.\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Dec 23, 2020 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/40381.jpg\",\"https://images.monoprice.com/productlargeimages/40382.jpg\",\"https://images.monoprice.com/productlargeimages/40383.jpg\",\"https://images.monoprice.com/productlargeimages/40384.jpg\",\"https://images.monoprice.com/productlargeimages/40385.jpg\",\"https://images.monoprice.com/productlargeimages/40386.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 418.99,
+      "sku": "4038",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4038",
+      "gtin14": "844660040385"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Wire CL2 Rated 4-Conductor 12AWG 250ft White",
+      "ratingCount": "1900",
+      "reviewCount": "15",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "4038",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/4038"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

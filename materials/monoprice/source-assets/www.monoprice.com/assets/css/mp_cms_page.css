@@ -1,0 +1,124 @@
+﻿header {
+    height: 63px !important;
+}
+
+div.layout,
+div#page-content,
+div#page-content > .row .row {
+    width: 100% !important;
+    min-width: 0 !important;
+}
+
+.row {
+    display: block;
+}
+
+img.mp-page_hero {
+    width: 100% !important
+}
+
+div.product > div > div {
+    text-align: center;
+}
+
+.product .desc {
+    text-align: center;
+    margin: 0 auto 10px auto;
+    padding: 15px !important;
+}
+
+.product .desc a {
+    color: #383838;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 12px;
+}
+
+.product .desc a:hover {
+    color: #00a7bb;
+}
+
+.product .now {
+    color: #181818;
+    font-size: 180%;
+    font-weight: 600;
+    line-height: .8em;
+    padding-right: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.product .image {
+    width: 100%;
+}
+
+.product .image > a {
+    width: 140px;
+    margin: 0 auto;
+    display: block;
+}
+
+.product .desc {
+    display: block;
+    display: -webkit-box;
+    max-width: 320px;
+    margin: 0 auto;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0;
+}
+
+div.pricing .compare {
+    display: none;
+}
+
+.now.col span {
+    background: none;
+    width: 100%;
+    color: #181818;
+    position: relative;
+    top: -3px
+}
+
+.product .pricing ~ .pricing span {
+    padding: 5px;
+    line-height: 12px;
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+    top: -250px;
+    right: 0;
+    width: 80px;
+    border-top: 3px solid #0098aa;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #00a7bb;
+}
+
+.layout .span-1-of-4 {
+    height: 330px;
+}
+
+.pricing {
+    height: 0px !important;
+}
+
+.product .pricing {
+    display: block;
+    position: relative;
+    text-align: left;
+    width: 100%;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+
+.product {
+    padding: 25px 0 45px 0
+}
+
+.free-tag {
+    margin: 5px auto;
+}

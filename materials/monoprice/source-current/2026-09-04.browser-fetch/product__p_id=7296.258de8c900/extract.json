@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RJ12 Keystone Jack for 24AWG Stranded/22-26AWG Solid Wire White",
+    "@id": "https://www.monoprice.com/product?p_id=7296",
+    "url": "https://www.monoprice.com/product?p_id=7296",
+    "description": "Easy to use, modular RJ11/RJ12 Keystone jack. 110 type IDC. 90 degree connection. To be used with keystone wall plate or panel. Wiring diagram next to wire clips.Note that the width of the RJ11/12 keystones is such that two cannot be used side-by-side in the same wall-plate.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.\u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72961.jpg\",\"https://images.monoprice.com/productlargeimages/72962.jpg\",\"https://images.monoprice.com/productlargeimages/72963.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "7296",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7296",
+      "gtin14": "844660072966"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RJ12 Keystone Jack for 24AWG Stranded/22-26AWG Solid Wire White",
+      "ratingCount": "50",
+      "reviewCount": "47",
+      "ratingValue": "3.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "7296",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/7296"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

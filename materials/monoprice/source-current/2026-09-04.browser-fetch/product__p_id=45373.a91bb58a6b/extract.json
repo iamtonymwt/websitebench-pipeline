@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Lightweight Self Inflatable Camping Pillow Ergonomic Compact Travel Camp Pillow Compressible Inflating Pillows For Camping Hiking Beach Backpacking with Carry Bag",
+    "@id": "https://www.monoprice.com/product?p_id=45373",
+    "url": "https://www.monoprice.com/product?p_id=45373",
+    "description": "This Self Inflatable Camping Pillow will make yourself cozy and get a better night sleep on your camping trip. Easy to inflate and deflates in seconds. Lightweight and compact that makes it easy to fit in your pocket or bag. The ergonomic design enhances neck support and makes your travel comfortable. The top fabric is smooth and soft that ensures a good night sleep. Made of TPU fabric material that is durable and water resistant that makes cleaning as easy as wiping with damp cloth.Lightweight: Lightweight and compact that makes it easy to fit in your pocket or bag.Easy to Use: Effortlessly self-inflate and deflate within seconds, saving you valuable time and enhancing the convenience of your outdoor adventures and travels.Ergonomic Design: Experience superior comfort during your sleep and travels with our camp pillow, featuring advanced memory foam technology for enhanced head and neck support. Enjoy a comfortable rest wherever your journey takes you!Durable: Made of TPU fabric material that is durable and water resistant that makes cleaning as easy as wiping with damp cloth.Perfect For: Gift for yourself, friends, and family. You can use this camping pillow indoors or outdoor activities like camping, hiking, beach, backpacking or when traveling on a plane, train, or car.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0SpecificationsMaterial: 30D Elastic Fabric, TPU, high Rebound 3D Layer, Soft Anti-crack fabricProduct Dimension: 18 x 12 x 4.7 Inches\u00a0\u00a014 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/453731.jpg\",\"https://images.monoprice.com/productlargeimages/453732.jpg\",\"https://images.monoprice.com/productlargeimages/453733.jpg\",\"https://images.monoprice.com/productlargeimages/453734.jpg\",\"https://images.monoprice.com/productlargeimages/453735.jpg\",\"https://images.monoprice.com/productlargeimages/453736.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "45373",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=45373",
+      "gtin14": "889028195314"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Lightweight Self Inflatable Camping Pillow Ergonomic Compact Travel Camp Pillow Compressible Inflating Pillows For Camping Hiking Beach Backpacking with Carry Bag",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Outdoor",
+      "url": "https://www.monoprice.com/category/pages/14"
+    },
+    {
+      "name": "Camping",
+      "url": "https://www.monoprice.com/category/outdoor/camping"
+    },
+    {
+      "name": "Tents",
+      "url": "https://www.monoprice.com/category/outdoor/camping/tents"
+    },
+    {
+      "name": "45373",
+      "url": "https://www.monoprice.com/category/outdoor/camping/tents/45373"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

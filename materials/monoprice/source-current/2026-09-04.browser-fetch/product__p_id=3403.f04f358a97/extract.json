@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Universal VESA Adapter Plate for TV Wall Mounts 50x50mm to 400x200mm",
+    "@id": "https://www.monoprice.com/product?p_id=3403",
+    "url": "https://www.monoprice.com/product?p_id=3403",
+    "description": " \u00a0So you just got a new, larger screen TV and it won't fit on your existing wall mount? No problem! As long as the mount can handle the weight of the new display, you can use this Wall Mount Bracket Universal Adapter from Monoprice\u2122 to adapt your existing mount to the VESA size needed for your new TV.This adapter bracket includes holes for VESA\u00ae 50x50, 75x75, 100x100, 200x100, 200x200, and 400x200, allowing you to adapt from one size to another.Support Files: User's Manual (Oct 30, 2017)Dimensions Diagram (Oct 30, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a trademark owned by the Video Electronics Standards Association (VESA\u00ae) in the United States and other countries. Updated Jan 13, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/34031.jpg\",\"https://images.monoprice.com/productlargeimages/34032.jpg\",\"https://images.monoprice.com/productlargeimages/34033.jpg\",\"https://images.monoprice.com/productlargeimages/34034.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "3403",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3403",
+      "gtin14": "844660034032"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Universal VESA Adapter Plate for TV Wall Mounts 50x50mm to 400x200mm",
+      "ratingCount": "37",
+      "reviewCount": "37",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "TV Mount Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-mount-accessories"
+    },
+    {
+      "name": "3403",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-mount-accessories/3403"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

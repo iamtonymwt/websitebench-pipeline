@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Super VGA (SVGA) HD15 M/M CL2 Rated Cable with Stereo Audio Triple Shielding Gold Plated 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=558",
+    "url": "https://www.monoprice.com/product?p_id=558",
+    "description": "Despite the introduction of DVI\u2122 and HDMI\u00ae, the common VGA connection is still the primary connection for most computer monitors.This triple-shielded cable is designed to handle analog VGA and extended VGA resolutions. It features gold-plated male DE-15 (aka HD-15 or DB-15) connectors on each end for smooth, corrosion-free connections. Additionally, it has a stereo audio line with 3.5mm (1/8\") connectors at each end. Each 3.5mm lead has an additional 22 inches of length beyond the DE-15 connector, so you can connect it to your sound card and to the audio input of your TV or monitor.DVI\u2122 is a trademark of the Digital Display Working Group. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Updated Sep 4, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/5581.jpg\",\"https://images.monoprice.com/productlargeimages/5582.jpg\",\"https://images.monoprice.com/productlargeimages/5583.jpg\",\"https://images.monoprice.com/productlargeimages/5584.jpg\",\"https://images.monoprice.com/productlargeimages/5585.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.39,
+      "sku": "558",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=558",
+      "gtin14": "844660005582"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Super VGA (SVGA) HD15 M/M CL2 Rated Cable with Stereo Audio Triple Shielding Gold Plated 10ft",
+      "ratingCount": "770",
+      "reviewCount": "121",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "VGA & SVGA Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables"
+    },
+    {
+      "name": "558",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables/558"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1/8in TRS Male to Two 1/4in TS Male Y Cable and Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=601045",
+    "url": "https://www.monoprice.com/product?p_id=601045",
+    "description": "Connect your iPod\u00ae, iPhone\u00ae, Android\u2122 phone, or other media device to your pro audio gear using this 3.5mm TRS to Two 1/4\" TS Male Adapter Cable from Monoprice.This 56-inch long cable is the ideal solution for connecting portable media devices to professional audio equipment, such as a mixing console. It features a 3.5mm (1/8\") TRS plug on one end and a pair of 1/4\" TS plugs on the other. The connector heads of the TS plugs are color coded red and gray to identify the right and left channels respectively. The cable uses 28 AWG conductors.Apple\u00ae, iPod\u00ae, and iPhone\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Android\u2122 is a trademark of Google LLC. Updated Oct 14, 2019 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6010451.jpg\",\"https://images.monoprice.com/productlargeimages/6010452.jpg\",\"https://images.monoprice.com/productlargeimages/6010453.jpg\",\"https://images.monoprice.com/productlargeimages/6010454.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "601045",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601045",
+      "gtin14": "757901803390"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1/8in TRS Male to Two 1/4in TS Male Y Cable and Adapter",
+      "ratingCount": "96",
+      "reviewCount": "68",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "601045",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/601045"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

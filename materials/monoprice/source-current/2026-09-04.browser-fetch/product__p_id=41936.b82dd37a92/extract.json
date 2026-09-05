@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A 1000ft Blue CMR UL Bulk Cable Shielded (F/UTP) Solid 23AWG 650MHz 10G Pure Bare Copper Spool in Box Flame-Retardant Entegrade Series Bulk Ethernet Cable",
+    "@id": "https://www.monoprice.com/product?p_id=41936",
+    "url": "https://www.monoprice.com/product?p_id=41936",
+    "description": "Made of 100% pure bare copper wire, Monoprice\u2122 high performance Cat6A Plus, 23AWG, Shielded CMR Riser\u2011Rated, Ethernet Bulk Cable is an ideal choice for wiring your home or office for a high\u2011speed network.The cable is tested to perform up to speeds up to 650MHz, guaranteeing high\u2011speed data transfers for server applications, cloud computing, video surveillance, and online high\u2011definition video streaming. These 1000 foot cables are packed in a strong wooden reel with length markings. They are RoHS compliant.Features: Shielded Twisted Pair (F/UTP) Category 6A Plus Ethernet cableUL\u00ae certified shielded 23AWG solid, pure bare copper conductorsCMR (Riser) fire safety ratingTested up to 650MHz bandwidth1000 foot roll with length markingsANSI\u00ae/TIA 568\u2011C.2 compliantRoHS compliantLifetime warrantyMonoprice Ethernet cables are made of 100% pure bare copper wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.CategoryCat5eCat6Cat6ACat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyMaximum Cable Distance100m100m100m (50m @ 10Gbps)30mNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-T or 40GBase-TCertification (Monoprice)ULUL or ETLUL or ETLULCostLowFairFair/ModeratePremiumDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. ANSI\u00ae, the ANSI logo, and numerous other identifiers containing \"ANSI\" are registered trademarks, service marks, and accreditation marks of the American National Standards Institute (ANSI). Updated Jun 16, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/419361.jpg\",\"https://images.monoprice.com/productlargeimages/419362.jpg\",\"https://images.monoprice.com/productlargeimages/419363.jpg\",\"https://images.monoprice.com/productlargeimages/419364.jpg\",\"https://images.monoprice.com/productlargeimages/419365.jpg\",\"https://images.monoprice.com/productlargeimages/419366.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 354.99,
+      "sku": "41936",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41936",
+      "gtin14": "889028162064"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A 1000ft Blue CMR UL Bulk Cable Shielded (F/UTP) Solid 23AWG 650MHz 10G Pure Bare Copper Spool in Box Flame-Retardant Entegrade Series Bulk Ethernet Cable",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Networking Bulk Cables",
+      "url": "https://www.monoprice.com/category/networking/networking-bulk-cables"
+    },
+    {
+      "name": "Cat6A Bulk Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6a-bulk-ethernet-cables"
+    },
+    {
+      "name": "41936",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6a-bulk-ethernet-cables/41936"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

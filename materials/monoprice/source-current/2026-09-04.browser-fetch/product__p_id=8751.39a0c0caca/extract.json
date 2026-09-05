@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A Male to USB-A Female 2.0 Extension Cable - Active  20/28AWG  Repeater  Kinect & PS3 Move Compatible  Black  16ft",
+    "@id": "https://www.monoprice.com/product?p_id=8751",
+    "url": "https://www.monoprice.com/product?p_id=8751",
+    "description": "Extend your USB 2.0 connections beyond the normal maximum of 16 feet with this USB 2.0 Active Extension/Repeater Cable from Monoprice!The normal maximum length of USB 2.0 cables is 5 meters, or about 16 feet. Beyond this the strength and timing of the signals can get out of tolerance and the USB connection will fail. This extension/repeater cable contains active electronics, which recondition and boost the timing signals to ensure that they stay within tolerance.The repeater gets its power from the USB 5 VDC bus, so no external power adapter is required. Multiple repeater cables can be daisy-chained together to get even longer USB cable runs.This cable is compatible with the USB version of the Xbox\u00ae 360\u00ae Kinect\u00ae* and with the PlayStation\u00ae 3 Eye camera!*Note that this will only work with the USB version of the Kinect for use with the older Xbox 360 systems and that the separate Kinect power cable must be used to power the Kinect sensor. This cable can only extend the data connection for the USB Kinect.Microsoft\u00ae, Windows\u00ae, Vista\u00ae, Xbox\u00ae, Xbox 360\u00ae, and Kinect\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. PlayStation\u00ae and PS3\u00ae are registered trademarks of Sony Interactive Entertainment Inc. Move\u2122 is a trademark of Sony Interactive Entertainment Inc. Updated Feb 12, 2020 \u00a0      \u00a0   ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/87511.jpg\",\"https://images.monoprice.com/productlargeimages/87512.jpg\",\"https://images.monoprice.com/productlargeimages/87513.jpg\",\"https://images.monoprice.com/productlargeimages/87514.jpg\",\"https://images.monoprice.com/productlargeimages/87515.jpg\",\"https://images.monoprice.com/productlargeimages/87516.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.49,
+      "sku": "8751",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8751",
+      "gtin14": "844660087519"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A Male to USB-A Female 2.0 Extension Cable - Active  20/28AWG  Repeater  Kinect & PS3 Move Compatible  Black  16ft",
+      "ratingCount": "600",
+      "reviewCount": "91",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables"
+    },
+    {
+      "name": "8751",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables/8751"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

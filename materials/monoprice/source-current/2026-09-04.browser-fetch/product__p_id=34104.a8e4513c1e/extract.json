@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2x1 DisplayPort Switch 4K@60Hz 21.6Gbps (Open Box)",
+    "@id": "https://www.monoprice.com/product?p_id=34104",
+    "url": "https://www.monoprice.com/product?p_id=34104",
+    "description": "This 2x1 DisplayPort Switch allows you to connect two DisplayPort video sources to a single DisplayPort display. It supports video resolutions up to 4K@60Hz and provides up to 21.6 Gbps bandwidth. It is fully compatible with the DisplayPort 1.2 specification and is compliant with the VESA DisplayPort standard 1.62, 2.7, and 5.4 Gbps link rates.Features: Supports video resolutions up to 4K@60HzProvides up to 21.6 Gbps bandwidthFully compliant with the DisplayPort 1.2 specificationSupports the RGB, YCbCr 4:4:4, and YCbCr 4:2:2 color spacesCompliant with the VESA DisplayPort standard 1.62, 2.7, and 5.4 Gbps link ratesSupport for 1, 2, or 4 differential data pairs (lanes)Support Files: User's Manual (May 26, 2017)\u00a0                       Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/341041.jpg\",\"https://images.monoprice.com/productlargeimages/341042.jpg\",\"https://images.monoprice.com/productlargeimages/341043.jpg\",\"https://images.monoprice.com/productlargeimages/341044.jpg\",\"https://images.monoprice.com/productlargeimages/341045.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "34104",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=34104",
+      "gtin14": "889028092873"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2x1 DisplayPort Switch 4K@60Hz 21.6Gbps (Open Box)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "Monitor & Computer Splitters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/monitor-&-computer-splitters"
+    },
+    {
+      "name": "34104",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/monitor-&-computer-splitters/34104"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

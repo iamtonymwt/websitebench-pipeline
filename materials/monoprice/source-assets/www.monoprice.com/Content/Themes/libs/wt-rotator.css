@@ -1,0 +1,36 @@
+.wt-rotator{ font-family:Arial,Helvetica,sans-serif;font-size:12px;background-color:#FFF;position:relative;width:565px;height:325px;overflow:hidden; }
+.wt-rotator a{outline:none;}
+.wt-rotator .screen{position:relative;top:0;left:0;width:565px;height:325px;overflow:hidden; background:rgba(0,0,0,.7)}
+.wt-rotator #strip{display:block;position:absolute;top:0;left:0;z-index:0;overflow:hidden;}
+.wt-rotator .content-box{display:none;position:absolute;top:0;left:0;overflow:hidden;}
+.wt-rotator .main-img{display:none;position:absolute;top:0;left:0;z-index:0;border:0;padding-top:0!important;}
+.wt-rotator .preloader{position:absolute;top:50%;left:50%;width:36px;height:36px;margin-top:-18px;margin-left:-18px;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px; background:rgba(0,0,0,.7) url("//images.monoprice.com/wt-rotator/loader.gif") center no-repeat;z-index:4;}
+.wt-rotator #timer{position:absolute;left:0;height:4px;background-color:#FFF;-moz-opacity:.5;filter:alpha(opacity=50);opacity:0.5;z-index:4;visibility:hidden;font-size:0;}
+.wt-rotator .desc{color:transparent;position:absolute;z-index:6;overflow:hidden;visibility:hidden;text-align:left;}
+.wt-rotator .inner-bg{position:relative;top:0;left:0;width:100%;height:100%;background-color:#FFF;-moz-opacity:.7;filter:alpha(opacity=70);opacity:.7;z-index:0;}
+.wt-rotator .inner-text{position:absolute;top:0;left:0;padding:10px;width:auto;height:auto;z-index:1;}
+.wt-rotator .c-panel{position:absolute;top:295px!important;width:100%;height:25px!important;z-index:7;visibility:hidden;box-sizing:border-box;border-top:1px solid grey;background-color:black;}
+.wt-rotator .outer-cp{position:absolute;left:0;width:100%;background:#333;background:-moz-linear-gradient(top, #999 0%, #333 50%, #000 51%, #111 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#999), color-stop(50%,#333), color-stop(51%,#000), color-stop(100%,#111));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#666666', endColorstr='#111111',GradientType=0);border:1px solid #000;border-left:none;border-right:none;}
+.wt-rotator .thumbnails,
+.wt-rotator .buttons{display:inline;position:relative;float:left;overflow:hidden;height: 25px!important;margin-top:5px;}
+.wt-rotator .thumbnails ul{list-style:none;margin:0;padding:0;}
+.wt-rotator .thumbnails li,
+.wt-rotator .play-btn,
+.wt-rotator .prev-btn,
+.wt-rotator .next-btn{list-style:none;display:inline;float:left;margin-right:4px;overflow:hidden;width:24px;height:24px;line-height:24px;text-align:center;cursor:pointer;font-weight:bold;background:url("//images.monoprice.com/wt-rotator/navContainer_bg.png") no-repeat scroll left top transparent;}
+.wt-rotator .thumbnails li.thumb-over{color:transparent;background:url("//images.monoprice.com/wt-rotator/navContainer_bg.png") no-repeat scroll left top transparent;background-position:bottom left;outline:none;}
+.wt-rotator .thumbnails li.curr-thumb{color:transparent;cursor:default;background:url("//images.monoprice.com/wt-rotator/navContainer_bg.png") no-repeat scroll left top transparent;background-position:bottom left;outline:none;}
+.wt-rotator .thumbnails li.image{background-color:#000;}
+.wt-rotator .thumbnails li.image.curr-thumb,
+.wt-rotator .thumbnails li.image.thumb-over{border-color:#06F;}
+.wt-rotator .thumbnails li.image a,
+.wt-rotator .thumbnails li.image img{display:block;border:0;}
+.wt-rotator .thumbnails li.image.curr-thumb img{-moz-opacity:.8;filter:alpha(opacity=80);opacity:0.8;cursor:default;}
+.wt-rotator .thumbnails li *{display:none;}
+.wt-rotator .thumbnails li div{position:relative;color:transparent;background-color:#000;width:auto;height:auto;}
+.wt-rotator .button-over{background-color:#CCC;}
+#rotator-tooltip{position:absolute;top:0;left:0;z-index:99999;display:none;}
+.wt-rotator .block,
+.wt-rotator .vpiece,
+.wt-rotator .hpiece{position:absolute;z-index:2;}
+.wt-rotator .thumbnails li{overflow:hidden;width:10px;text-indent:-999px;}

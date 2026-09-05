@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 24in 4pin MOLEX Male to 4x 15pin SATA II Female Power Cable with Net Jacket",
+    "@id": "https://www.monoprice.com/product?p_id=8794",
+    "url": "https://www.monoprice.com/product?p_id=8794",
+    "description": "The Serial ATA standard provides for the adoption of a new 15-pin drive power connector, replacing the ubiquitous 4-pin Molex\u00ae connector. However, existing system cases and power supplies may have an insufficient number of SATA power connectors, while still retaining the older Molex connectors.This 24\" adapter cable plugs into a 4-pin Molex power plug and provides four 15-pin SATA power connectors. Each SATA power connector is spaced about 6 inches apart, allowing four drives to be easily daisy chained to the single power line. The power wires are contained within a net jacket to keep them neat and tidy within the system case.Warning! The Molex connector provides only 5 and 12 VDC power. While many SATA drives only require these power levels, some require the additional 3.3 VDC power provided for in the SATA specification. Make sure your drive does not require 3.3 VDC before purchasing this adapter cable. Support Files: Specification Sheet (Jun 21, 2023)Molex\u00ae is a registered trademark of Molex, LLC in the United States of America and may be registered in other countries. Updated Jul 07, 2023 \u00a0 ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/87941.jpg\",\"https://images.monoprice.com/productlargeimages/87942.jpg\",\"https://images.monoprice.com/productlargeimages/87943.jpg\",\"https://images.monoprice.com/productlargeimages/87944.jpg\",\"https://images.monoprice.com/productlargeimages/87945.jpg\",\"https://images.monoprice.com/productlargeimages/87946.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.09,
+      "sku": "8794",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8794",
+      "gtin14": "844660087946"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 24in 4pin MOLEX Male to 4x 15pin SATA II Female Power Cable with Net Jacket",
+      "ratingCount": "18",
+      "reviewCount": "18",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SATA Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables"
+    },
+    {
+      "name": "8794",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables/8794"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

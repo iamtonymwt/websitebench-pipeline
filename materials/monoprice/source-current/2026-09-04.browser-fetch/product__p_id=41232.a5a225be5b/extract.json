@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice BT-600ANC Bluetooth Over Ear Headphones with Active Noise Cancelling (ANC) Qualcomm aptX HD Audio AAC Touch Controls Ambient Mode 40hr Playtime Carrying Case Multi-Pairing",
+    "@id": "https://www.monoprice.com/product?p_id=41232",
+    "url": "https://www.monoprice.com/product?p_id=41232",
+    "description": "The Monoprice\u2122 BT\u2011600ANC Bluetooth\u00ae Over Ear Headphones with Active Noise Cancelling has everything you need in wireless headphones. These headphones use the latest in Bluetooth wireless technology with Qualcomm\u00ae aptX\u2122 HD Audio for crystal clear, CD quality sound. An advanced form of Active Noise Cancelling that uses multiple microphones for exceptional background noise reduction. Listen all day with a battery life of up to 40 hours of playback combined with exceptional comfort in a foldable design. Touch controls allow you to easily and quickly swipe or tap to change volume, skip tracks and answer phone calls.Bluetooth\u00ae 5Supports the Qualcomm\u00ae aptX\u2122 HD Audio, SBC, and AAC audio codecsHybrid noise cancelling40mm drivers40 hours of playback timeTouch controlAmbient sound modeFoldable designComfortable earpadsCarrying case included\u00a0        1 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Nov 18, 2020)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. The Bluetooth\u00ae word mark and logos are registered trademarks of Bluetooth SIG, Inc. Qualcomm\u00ae is a trademark of Qualcomm Incorporated, registered in the United States and other countries. Qualcomm\u00ae aptX\u2122 HD Audio, Qualcomm\u00ae cVc\u2122 Echo Cancelling and Noise Suppression, and the aptX logo are trademarks of Qualcomm Technologies International, Ltd. Qualcomm\u00ae aptX\u2122 HD Audio and Qualcomm\u00ae cVc\u2122 Echo Cancelling and Noise Suppression are products of Qualcomm Technologies International, Ltd. USB Type\u2011C\u00ae and USB\u2011C\u00ae are registered trademarks of USB Implementers Forum, Inc. Updated Mar 10, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/412321.jpg\",\"https://images.monoprice.com/productlargeimages/412322.jpg\",\"https://images.monoprice.com/productlargeimages/412323.jpg\",\"https://images.monoprice.com/productlargeimages/412324.jpg\",\"https://images.monoprice.com/productlargeimages/412325.jpg\",\"https://images.monoprice.com/productlargeimages/412326.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 119.99,
+      "sku": "41232",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41232",
+      "gtin14": "889028154267"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice BT-600ANC Bluetooth Over Ear Headphones with Active Noise Cancelling (ANC) Qualcomm aptX HD Audio AAC Touch Controls Ambient Mode 40hr Playtime Carrying Case Multi-Pairing",
+      "ratingCount": "140",
+      "reviewCount": "140",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones"
+    },
+    {
+      "name": "Bluetooth Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/bluetooth-headphones"
+    },
+    {
+      "name": "41232",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/bluetooth-headphones/41232"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

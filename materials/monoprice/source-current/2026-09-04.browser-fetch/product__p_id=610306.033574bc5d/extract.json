@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 2-inch Adjustable Guitar Strap Nylon with Synthetic Leather Ends Black",
+    "@id": "https://www.monoprice.com/product?p_id=610306",
+    "url": "https://www.monoprice.com/product?p_id=610306",
+    "description": "Keep your guitar in just the right place using this 2-inch Nylon Guitar Strap from Monoprice!This guitar strap is made of a smooth nylon that can be easily repositioned on your shoulder. It features sewn synthetic leather ends and a plastic adjusting ring. It measures 50.4\" hole-to-hole, allowing for a wide adjustment range.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6103061.jpg\",\"https://images.monoprice.com/productlargeimages/6103062.jpg\",\"https://images.monoprice.com/productlargeimages/6103063.jpg\",\"https://images.monoprice.com/productlargeimages/6103064.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "610306",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=610306",
+      "gtin14": "889028059807"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 2-inch Adjustable Guitar Strap Nylon with Synthetic Leather Ends Black",
+      "ratingCount": "27",
+      "reviewCount": "27",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories"
+    },
+    {
+      "name": "610306",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories/610306"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

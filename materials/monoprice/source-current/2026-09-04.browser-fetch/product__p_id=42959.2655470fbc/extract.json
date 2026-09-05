@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat8 250ft Blue CM Bulk Cable Shielded (S/FTP) Solid 22AWG 2GHz 40G Pure Bare Copper Spool in Box Entegrade Series Bulk Ethernet Cable",
+    "@id": "https://www.monoprice.com/product?p_id=42959",
+    "url": "https://www.monoprice.com/product?p_id=42959",
+    "description": "Monoprice\u2122 Entegrade\u2122 Cat8 Bulk Networking Cable provides higher frequency characteristics and data transfer speeds, designed for high performance data center applications. Cat8 is capable of supporting bandwidths of up to 2GHz for up to 30 meters of cabling to provide a cost effective copper solution. Cat8 bulk cable is suitable for 25G networking with up to 40G speed, which especially fits critical server grade networking equipment.The fully shielded S/FTP 22AWG solid bare copper cable is CMR rated cable for use in the risers of commercial class buildings. Each twisted pair is individually shielded with Aluminum\u2011Mylar\u00ae polyester film, which repels EMI in electrically noisy environments. The physical conductor is 0.60mm in diameter, similar to lower category cables.Monoprice Entegrade Cat8 is packed on a wooden reel in a solid box. The PVC jacket is RoHS certified and is compliant with ANSI\u00ae/TIA\u2011568\u2011C.2 standards.Features: Supports up to 40Gbps data transfer rateSupports up to 2GHz bandwidthFully shielded S/FTPMonoprice Ethernet cables are made of 100% pure bare copper wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.Cat8 RJ45 Shielded Toolless Keystone available separately (39239) CategoryCat5eCat6Cat6ACat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyMaximum Cable Distance100m100m100m (50m @ 10Gbps)30mNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-T or 40GBase-TCertification (Monoprice)ULUL or ETLUL or ETLULCostLowFairFair/ModeratePremiumDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Support Files: Dimensions Diagram (Jan 14, 2021)Monoprice\u2122, Entegrade\u2122, and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Mylar\u00ae is a registered trademark of DuPont Teijin Films. ANSI\u00ae, the ANSI logo, and numerous other identifiers containing \"ANSI\" are registered trademarks, service marks, and accreditation marks of the American National Standards Institute (ANSI). NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated May 17, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/429591.jpg\",\"https://images.monoprice.com/productlargeimages/429592.jpg\",\"https://images.monoprice.com/productlargeimages/429593.jpg\",\"https://images.monoprice.com/productlargeimages/429594.jpg\",\"https://images.monoprice.com/productlargeimages/429595.jpg\",\"https://images.monoprice.com/productlargeimages/429596.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 204.99,
+      "sku": "42959",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=42959",
+      "gtin14": "889028171547"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat8 250ft Blue CM Bulk Cable Shielded (S/FTP) Solid 22AWG 2GHz 40G Pure Bare Copper Spool in Box Entegrade Series Bulk Ethernet Cable",
+      "ratingCount": "9",
+      "reviewCount": "1",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Networking Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables"
+    },
+    {
+      "name": "Cat8 Bulk Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat8-bulk-ethernet-cables"
+    },
+    {
+      "name": "42959",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat8-bulk-ethernet-cables/42959"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

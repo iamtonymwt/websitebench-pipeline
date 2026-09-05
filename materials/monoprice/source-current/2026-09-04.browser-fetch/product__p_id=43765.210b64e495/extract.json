@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Lightweight Folding Cane with Seat Walking Stick Walking Cane Crutch Chair Travel Aid",
+    "@id": "https://www.monoprice.com/product?p_id=43765",
+    "url": "https://www.monoprice.com/product?p_id=43765",
+    "description": "MPM folding cane seat provides you an enjoyable walking experience with a sturdy support when closed and a comfortable seat to rest on when open. It is portable which is perfect for on the go as well as travel. With strong aluminum construction and a tri-pod design, the cane only weighs 1.3 lbs. but can withstand a weight capacity of 250 lbs. The cane is suitable for both left or right handed.\u00a0Stable portable walker: Tripod design for increased stability.Safety non-slip: With vinyl contoured tipped legs, it prevents fall and keeps you safe. This sturdy cane will support you throughout your daily life.Easy to store: Conveniently folds for easy storage on planes, in the car or around the house.Sturdy material: MPM walking stick is made of strong and lightweight aluminum that supports up to 250 lbs.Ergonomic handle: Our handle is contoured to help reduce hand cramping or muscle fatigue providing a comfortable grip.\u00a0Seat Height: 21 inches; Cane height with seat folded 35 inch; Height when cane is opened 29 inch. Seat measures 9x7 inches\u00a0Material: Aluminum alloy, rubber foot pad, PP seat board\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0\u00a0WARNING: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/437651.jpg\",\"https://images.monoprice.com/productlargeimages/437652.jpg\",\"https://images.monoprice.com/productlargeimages/437653.jpg\",\"https://images.monoprice.com/productlargeimages/437654.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "43765",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=43765",
+      "gtin14": "889028181379"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Lightweight Folding Cane with Seat Walking Stick Walking Cane Crutch Chair Travel Aid",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "43765",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/43765"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

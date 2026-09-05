@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Adjustable Folding Laptop Stand Foldable Laptop Computer Stand Tablet Holder Steel",
+    "@id": "https://www.monoprice.com/product?p_id=33813",
+    "url": "https://www.monoprice.com/product?p_id=33813",
+    "description": "This metal laptop stand provides an easy way to elevate and angle laptops for better screen viewing and comfort. The stand can be used in 3 angle settings and folds flat when not in use, so it is easy to take along in a laptop bag. The open design ensures sufficient airflow to aid laptop cooling. It works with most laptops and is recommended for portable computers with up to 15\" screens.Features: Adjustable with three angle settings to prop up laptop screens to improve comfortEasy to take with your laptop, folds flat when not in useOpen design allows for maximum airflow to aid laptop coolingRecommended for laptops with screens up to 15\"Support Files: Dimensions Diagram (Aug 14, 2018)\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/338131.jpg\",\"https://images.monoprice.com/productlargeimages/338132.jpg\",\"https://images.monoprice.com/productlargeimages/338133.jpg\",\"https://images.monoprice.com/productlargeimages/338134.jpg\",\"https://images.monoprice.com/productlargeimages/338135.jpg\",\"https://images.monoprice.com/productlargeimages/338136.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "33813",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33813",
+      "gtin14": "889028089958"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Adjustable Folding Laptop Stand Foldable Laptop Computer Stand Tablet Holder Steel",
+      "ratingCount": "16",
+      "reviewCount": "16",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Furniture",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture"
+    },
+    {
+      "name": "Desk Organizers",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desk-organizers"
+    },
+    {
+      "name": "33813",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desk-organizers/33813"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

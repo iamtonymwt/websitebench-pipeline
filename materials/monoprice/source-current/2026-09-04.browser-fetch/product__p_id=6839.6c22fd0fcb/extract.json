@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Adjustable 33 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
+    "@id": "https://www.monoprice.com/product?p_id=6839",
+    "url": "https://www.monoprice.com/product?p_id=6839",
+    "description": "Mount your satellite or bookshelf speakers on the wall and get the perfect angle with this set of adjustable wall mount brackets from Monoprice\u2122!The brackets are designed to hold speakers weighing 33 lbs or less each, making them perfect for small satellite or bookshelf speakers in a 5.1 system. The bracket uses a disc joint with a compression lock to allow tilting to almost any angle. A steel security cable ensures that, if the joint were to come undone during adjustment, the speaker would not fall to the floor.\u00a0Support Files: User's Manual (Feb 15, 2011)Dimensions Diagram (Sep 18, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 19, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/68391.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 34.99,
+      "sku": "6839",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6839",
+      "gtin14": "844660068396"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Adjustable 33 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
+      "ratingCount": "125",
+      "reviewCount": "125",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Speaker Mounts & Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands"
+    },
+    {
+      "name": "Speaker Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts"
+    },
+    {
+      "name": "6839",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts/6839"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

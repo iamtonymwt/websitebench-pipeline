@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1U (19 x 1.75 in) Metal D-Ring Premium Cable Management Panel",
+    "@id": "https://www.monoprice.com/product?p_id=7308",
+    "url": "https://www.monoprice.com/product?p_id=7308",
+    "description": "This D\u2011Ring Panel fits into a standard 19\" wide equipment rack. It features five closable D\u2011Rings, which can be used to enclose cables inside the rack. The rings measure 1.75\"(H) by 3\"(D) and are easily opened/closed.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 26, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/73081.jpg\",\"https://images.monoprice.com/productlargeimages/73082.jpg\",\"https://images.monoprice.com/productlargeimages/73083.jpg\",\"https://images.monoprice.com/productlargeimages/73084.jpg\",\"https://images.monoprice.com/productlargeimages/73085.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "7308",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7308",
+      "gtin14": "844660073086"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1U (19 x 1.75 in) Metal D-Ring Premium Cable Management Panel",
+      "ratingCount": "34",
+      "reviewCount": "24",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Rings & Cable Management Panels",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/rings-&-cable-management-panels"
+    },
+    {
+      "name": "7308",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/rings-&-cable-management-panels/7308"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

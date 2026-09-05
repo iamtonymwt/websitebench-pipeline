@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice USB Keyboard Spill Resistant Membrane Comfortable Standard QWERTY Layout folding feet Black",
+    "@id": "https://www.monoprice.com/product?p_id=35106",
+    "url": "https://www.monoprice.com/product?p_id=35106",
+    "description": "This is a no-frills keyboard that will get the job done. This keyboard has a standard US layout, updated to now have the rectangular Enter key that is more common in North America. It has a low profile, with easy to press keys for reduced fatigue, and quiet and comfortable key action.Its slim and clean design matches any desktop or laptop. Clearly labeled keys, reliable plug and play wired USB connectivity, full-sized function keys with 10-key number pad, and indicator lights make this budget friendly keyboard an easy choice when you need a simple keyboard.Features: Comfortable, spill-resistant membrane keyboard with standard US layout measures 17.0\" x 5.0\" x 1.0\" and weighs only 15 ouncesSimple, wired USB interface with 53\" cableFolding keyboard feet raise the back by 0.5\" for improved typing comfort to suitSupport Files: Diagram (Oct 10, 2018)\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/351061.jpg\",\"https://images.monoprice.com/productlargeimages/351062.jpg\",\"https://images.monoprice.com/productlargeimages/351063.jpg\",\"https://images.monoprice.com/productlargeimages/351064.jpg\",\"https://images.monoprice.com/productlargeimages/351065.jpg\",\"https://images.monoprice.com/productlargeimages/351066.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "35106",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35106",
+      "gtin14": "889028102947"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice USB Keyboard Spill Resistant Membrane Comfortable Standard QWERTY Layout folding feet Black",
+      "ratingCount": "12",
+      "reviewCount": "12",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "Peripherals & Accessories",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories"
+    },
+    {
+      "name": "Keyboards",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories/keyboards"
+    },
+    {
+      "name": "35106",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories/keyboards/35106"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

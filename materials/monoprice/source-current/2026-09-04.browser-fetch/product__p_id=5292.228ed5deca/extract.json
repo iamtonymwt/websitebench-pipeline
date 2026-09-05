@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13 14AWG 15A/1875W 125V SJT 3-Prong 6ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=5292",
+    "url": "https://www.monoprice.com/product?p_id=5292",
+    "description": "The Monoprice Power Cord with NEMA 5-15P to IEC-320-C13 connectors is a versatile solution for connecting various electronic devices in North America. Designed to work seamlessly with PCs, monitors, scanners, and printers, this power cord ensures a reliable power supply for your equipment.\u00a0The cord enables you to effortlessly connect devices equipped with a male IEC 60320 C14 panel connector to a standard US AC wall outlet. With a standard, grounded NEMA 5-15P plug on one end and an IEC 60320 C13 female connector on the other, setup becomes hassle-free. Simply link the female C13 connector to your device or power adapter's male C14 connector, and then insert the NEMA plug into an accessible AC power outlet, UPS, or any AC power source.\u00a0Crafted with 14AWG, the cord offers a sturdy build that can handle up to 15A/1875W power capacity, making it suitable for most applications. Whether it's powering your computer, monitor, or power adapter, this power cord is a reliable companion for everyday use. Enjoy a secure and efficient connection with the Monoprice Power Cord, ensuring your devices stay powered and operational.\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialSVT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge14\u00a0AWGMaximum\u00a0Current10 ampsCertificationsUL\u00ae, cUL, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC.Updated Jul 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/52921.jpg\",\"https://images.monoprice.com/productlargeimages/52922.jpg\",\"https://images.monoprice.com/productlargeimages/52923.jpg\",\"https://images.monoprice.com/productlargeimages/52924.jpg\",\"https://images.monoprice.com/productlargeimages/52925.jpg\",\"https://images.monoprice.com/productlargeimages/52926.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.29,
+      "sku": "5292",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5292",
+      "gtin14": "844660052920"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13 14AWG 15A/1875W 125V SJT 3-Prong 6ft Black",
+      "ratingCount": "313",
+      "reviewCount": "54",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "5292",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/5292"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

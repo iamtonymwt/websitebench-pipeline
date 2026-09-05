@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Dual Card Reader with up to 312Mbps transfer speed",
+    "@id": "https://www.monoprice.com/product?p_id=49371",
+    "url": "https://www.monoprice.com/product?p_id=49371",
+    "description": "Monoprice\u2122Monoprice Dual USB-C Card Reader with SD & microSD Support, Up to 312 MB/sThe Monoprice Dual USB-C Card Reader lets you read and write to SD and microSD cards simultaneously via a single USB-C connection. Designed for USB-C laptops, tablets, and phones, it supports UHS II media with transfer speeds up to 312 MB/s, making it suitable for business workflows, education environments, and everyday file access without technical setup.\u00a0Read Two Cards at Once from One USB-C PortYou can access files from an SD card and a microSD card simultaneously without swapping adapters or reconnecting cables. The reader includes dedicated SD and microSD slots and supports concurrent operation over a single USB-C host connection.\u00a0High Speed Transfers for Large FilesLarge documents, photos, and videos are copied faster, reducing wait time during backups or file sharing. The reader supports UHS-II media with data transfer speeds up to 312 MB/s, as specified by the Secure Digital UHS-II standard. Actual speed depends on the card and host device.\u00a0Broad Media CompatibilityYou can use older cards as well as newer high capacity media without changing readers. Supported standards include SD, SDHC, SDXC, UHS I, UHS II, Secure Digital v1.0 through v5.0, DDR200 mode, and MultiMediaCard (MMC) formats with capacities up to 2 TB.\u00a0USB-C for Modern Laptops and TabletsOne connector works across newer business and education devices without legacy USB adapters. The reader uses a USB Type-C male connector with a USB 3.0 interface, while remaining backward-compatible with USB 2.0 hosts.\u00a0No Drivers or External Power RequiredUsers can start transferring files immediately without IT setup or software installs. The reader is USB bus powered and supports plug and play operation on compatible operating systems.\u00a0Package Contents\u2022 1x Monoprice Dual USB-C Card Reader\u2022 1x User Manual\u00a0.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User Manual (Mar 24, 2026)Sales Sheet (Jul 5, 2026)Technical Drawing (Jul 28, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated July 2026 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/493711.jpg\",\"https://images.monoprice.com/productlargeimages/493712.jpg\",\"https://images.monoprice.com/productlargeimages/493713.jpg\",\"https://images.monoprice.com/productlargeimages/493714.jpg\",\"https://images.monoprice.com/productlargeimages/493715.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.95,
+      "sku": "49371",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=49371",
+      "gtin14": "889028228302"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Dual Card Reader with up to 312Mbps transfer speed",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Hubs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs"
+    },
+    {
+      "name": "49371",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs/49371"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

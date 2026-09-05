@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blade for Punch-Down Impact Tool 66 Type",
+    "@id": "https://www.monoprice.com/product?p_id=7045",
+    "url": "https://www.monoprice.com/product?p_id=7045",
+    "description": "This is a replacement blade for Punch-Down Impact tools.\u00a0 It features dual 66 type tips.\u00a0 One side has a built-in cutter.\u00a0 The\u00a0other side is the standard blade without the cutter.\u00a0Compatible with punch down impact tools that feature sure-lock blade holders.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/70451.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.99,
+      "sku": "7045",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7045",
+      "gtin14": "844660070450"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blade for Punch-Down Impact Tool 66 Type",
+      "ratingCount": "14",
+      "reviewCount": "14",
+      "ratingValue": "3.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Compression Tools",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/compression-tools"
+    },
+    {
+      "name": "7045",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/compression-tools/7045"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

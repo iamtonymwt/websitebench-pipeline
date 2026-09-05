@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Low Profile 7.5 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
+    "@id": "https://www.monoprice.com/product?p_id=6979",
+    "url": "https://www.monoprice.com/product?p_id=6979",
+    "description": "Easily mount your satellite speakers on your wall with this Speaker Wall Mounting Bracket set from Monoprice\u2122!These brackets are designed to mount small satellite speakers with a single\u2011bolt mounting system. Each bracket can support a speaker weighing up to about 7.5 lbs. (3.5 kg). Each bracket can be adjusted for tilt and swivel, so you can point each speaker to the proper angle for the optimum audio experience.The brackets can be mounted to wooden stud or brick/concrete/hollow\u2011block walls and includes the hardware necessary for either type of mounting option. Additionally, the kit includes M5x12 screws for mounting the speakers to the brackets. Each speaker mounts about 3\" from the wall.Support Files: User's Manual (Sep 18, 2017)Dimensions Diagram (Sep 18, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 19, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/69791.jpg\",\"https://images.monoprice.com/productlargeimages/69792.jpg\",\"https://images.monoprice.com/productlargeimages/69793.jpg\",\"https://images.monoprice.com/productlargeimages/69794.jpg\",\"https://images.monoprice.com/productlargeimages/69795.jpg\",\"https://images.monoprice.com/productlargeimages/69796.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "6979",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6979",
+      "gtin14": "844660069799"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Low Profile 7.5 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
+      "ratingCount": "194",
+      "reviewCount": "194",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Speaker Mounts & Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands"
+    },
+    {
+      "name": "Speaker Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts"
+    },
+    {
+      "name": "6979",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts/6979"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

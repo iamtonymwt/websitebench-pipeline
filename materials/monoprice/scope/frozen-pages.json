@@ -1,0 +1,59 @@
+{
+  "schema_version": "monoprice.frozen-pages.v1",
+  "pages_written": 5995,
+  "stored_bytes": 223942592,
+  "uncompressed_bytes": 1839393676,
+  "error_pages": {
+    "_error/absent-product": "https://www.monoprice.com/product/index?c_id=105&cp_id=10509&cs_id=1050902&format=2&p_id=3359&seq=1",
+    "_error/not-found": "https://www.monoprice.com/home/news_detail.asp?news_id=177"
+  },
+  "route_collisions": 0,
+  "route_collision_examples": [],
+  "by_kind": {
+    "skipped:absent-product": 1905,
+    "skipped:asset-not-a-page": 48,
+    "skipped:body-not-retained": 3289,
+    "skipped:not-found": 19,
+    "skipped:not-found-server-page": 3,
+    "written:content": 5951,
+    "written:empty-listing": 44,
+    "written:error-page:absent-product": 1,
+    "written:error-page:not-found": 1
+  },
+  "rewrites": {
+    "asset_localised": 315432,
+    "asset_missing_on_disk": 281,
+    "attribute_removed_rather_than_blanked": 82392,
+    "css_url_removed": 1,
+    "iframe_removed": 5282,
+    "link_removed": 3830,
+    "offsite_reference_removed": 55712,
+    "route_localised": 6542834,
+    "route_product_not_served": 7144,
+    "same_host_absolute_made_relative": 30,
+    "script_removed": 53706,
+    "third_party_reference_removed": 19528
+  },
+  "unresolved_examples": [
+    "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/680935acc40a1f5374b33f6f_Placeholder%20Image%20-%20Landscape.svg",
+    "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+    "https://images.monoprice.com/cms_images/201127_wall_mount_finder_bg_1300x200.jpg",
+    "https://images.monoprice.com/cms_images/250307_B2B_Homepage_.jpg",
+    "https://images.monoprice.com/cms_images/260113_BackInStock_.jpg",
+    "https://images.monoprice.com/cms_images/260701_cables_.jpg",
+    "https://images.monoprice.com/cms_images/260708_best_seller_.jpg",
+    "https://images.monoprice.com/cms_images/260901_great_finds_.jpg",
+    "https://images.monoprice.com/cms_images/Educator_Setup_4.jpg",
+    "https://images.monoprice.com/cms_images/Office_Setup_2.jpg",
+    "https://images.monoprice.com/cms_images/ethernet_technologists.jpg",
+    "https://images.monoprice.com/productmediumimages/382081.jpg",
+    "https://images.monoprice.com/productmediumimages/445271.jpg",
+    "https://images.monoprice.com/productmediumimages/445281.jpg",
+    "https://images.monoprice.com/productmediumimages/445301.jpg",
+    "https://images.monoprice.com/productmediumimages/445351.jpg",
+    "https://images.monoprice.com/productmediumimages/445361.jpg",
+    "https://images.monoprice.com/productmediumimages/497571.jpg"
+  ],
+  "unresolved_total": 281,
+  "note": "`asset_missing_on_disk` is the number of references left pointing at bytes that are not in the asset tree. They are counted, not silently skipped: an unmatched reference that is not counted is how a page keeps calling a CDN while the closure report reads clean."
+}

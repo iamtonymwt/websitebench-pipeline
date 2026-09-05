@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MP Ultimate 2 Replacement X/Y Bracket Kit",
+    "@id": "https://www.monoprice.com/product?p_id=43229",
+    "url": "https://www.monoprice.com/product?p_id=43229",
+    "description": "",
+    "image": "[]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "43229",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43229",
+      "gtin14": "889028174432"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MP Ultimate 2 Replacement X/Y Bracket Kit",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "3D Printing & Hobbies",
+      "url": "https://www.monoprice.com/category/pages/6"
+    },
+    {
+      "name": "3D Printers & Accessories",
+      "url": "https://www.monoprice.com/category/3d-printing-&-hobbies/3d-printers-&-accessories"
+    },
+    {
+      "name": "3D Printer Replacement Parts & Accessories",
+      "url": "https://www.monoprice.com/category/3d-printing-&-hobbies/3d-printers-&-accessories/3d-printer-replacement-parts-&-accessories"
+    },
+    {
+      "name": "43229",
+      "url": "https://www.monoprice.com/category/3d-printing-&-hobbies/3d-printers-&-accessories/3d-printer-replacement-parts-&-accessories/43229"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

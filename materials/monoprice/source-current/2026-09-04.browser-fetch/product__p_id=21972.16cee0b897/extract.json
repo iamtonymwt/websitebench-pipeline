@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2-Port DisplayPort 1.2 to DisplayPort Multi-Stream Transport (MST) Hub",
+    "@id": "https://www.monoprice.com/product?p_id=21972",
+    "url": "https://www.monoprice.com/product?p_id=21972",
+    "description": "This 2\u2011Port DisplayPort\u00ae 1.2 to DisplayPort Multi\u2011Stream Transport (MST) Hub enables two different display modes on up to two monitors connected to a single DisplayPort output. You can connect a single display at resolutions up to 4K@60Hz to mirror your computer's desktop. Alternatively, you can connect two monitors and the hub will extend the image to span the two displays at resolutions up to 4K@30Hz for each display. This hub is ideal for digital signage and large video displays in schools, churches, conference rooms, at trade shows, and in retail outlets.\u00a0Multi\u2011Stream Transport (MST) HubDuplicate ModeExtended Desktop ModeMulti\u2011Stream Transport (MST) Hub: An MST Hub enables three different display modes on up to four monitors connected to a single Mini DisplayPort\u00ae output.Duplicate Mode: You can connect a single display at resolutions up to 4K@60Hz to mirror your computer's desktop.Extended Desktop Mode: Connect two monitors and the hub will automatically extend the image to span the two displays at resolutions up to 4K@30Hz for each display.Master the Multi\u2011StreamIdeal for Digital SignagePerfect for multi\u2011stream displays for use in schools, churches, conference rooms, at trade shows, and in retail outlets.Connect 2 Displays at 4K at 30Hz.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Quick Start Guide (Apr 27, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. Apple\u00ae, Mac\u00ae, and macOS\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. NVIDIA\u00ae is a registered trademark of NVIDIA corporation. Intel\u00ae is a trademark of Intel Corporation or it's subsidiaries in the U.S. and/or other countries. Updated Feb 4, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/219721.jpg\",\"https://images.monoprice.com/productlargeimages/219722.jpg\",\"https://images.monoprice.com/productlargeimages/219723.jpg\",\"https://images.monoprice.com/productlargeimages/219724.jpg\",\"https://images.monoprice.com/productlargeimages/219725.jpg\",\"https://images.monoprice.com/productlargeimages/219726.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 44.99,
+      "sku": "21972",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21972",
+      "gtin14": "889028052792"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2-Port DisplayPort 1.2 to DisplayPort Multi-Stream Transport (MST) Hub",
+      "ratingCount": "11",
+      "reviewCount": "11",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters"
+    },
+    {
+      "name": "21972",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters/21972"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 24in SATA 6Gbps Cable with Locking Latch 90-Degree to 180-Degree UV Blue",
+    "@id": "https://www.monoprice.com/product?p_id=5116",
+    "url": "https://www.monoprice.com/product?p_id=5116",
+    "description": "With Locking Capability6GB Maximum transfer rateHot-swap capabilityThinner Cable construction compares with ATALocking latch connector guarantees proper connection to deviceLocking Latch connector is compatible with non-locking connectorBackground:Serial ATA (SATA) replaces Parallel ATA (PATA, a.k.a. IDE) as the new standard for high speed, reliable data transfer between your computers motherboard and storage drives.\u00a0 SATA provides faster data transfers, less clutter due to a more compact cable, leading to better in-case air circulation and ability to hot swap connections.First generation SATA is generally referred to simply as SATA, but is also known as SATA 150 or SATA 1, has a thoughput of 1.5 gbit/s.\u00a0 It is an internal interface that uses \"L\"\u00a0type connectors.\u00a0 They are referred to as \"L\" connectors because if you look at the female\u00a0connector head on, it has a sideways \"L\" shaped slot.\u00a0 The male connector has an \"L\" shaped tongue.Second generation SATA is\u00a0known as SATA\u00a0 3 Gbps but commonly referred to as SATA 2 and sometimes SATA 300.\u00a0 It supports a 3.0 Gbps transfer rate and also uses the \"L\" type connector.\u00a0 SATA 2 cables are backward compatible with first generation SATA devices.\u00a0 However, maximum throughput will be limited to the least common denominator.To go with the newer SATA interface, SATA drives usually employ a new 15 pin power connector as oppose to the older 4 pin Molex power connectors used on older system.\u00a0 However, some drives will have both types of connections for ease of installation into legacy systems.Here's where it can get confusing.\u00a0 For use with external devices, eSATA was developed with a completely different type of connector.\u00a0 eSATA uses \"I\" (letter i) type connectors because, as before, if you look at the connector straight on, there is an \"I\" shaped slot or tongue.\u00a0 Not to be confused with SATA 1 (#1) which some manufacturers will label SATA I (roman numeral i) which tends to confuse some users.\u00a0\u00a0So a cable\u00a0that is labeled as having type \"I\" connectors are for eSATA and not SATA 1 cables.\u00a0eSATA has a maximum bandwidth of 6.0 gbit/s, same as SATA 3.\u00a0 But along with the new connector type, it also calls for a shielded cable.\u00a0 Though it has a faster transfer speed than USB 2.0 and\u00a0Firewire 400/800 it has a shorter maximum range of 2 meters.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/51161.jpg\",\"https://images.monoprice.com/productlargeimages/51162.jpg\",\"https://images.monoprice.com/productlargeimages/51163.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.89,
+      "sku": "5116",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5116",
+      "gtin14": "844660051169"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 24in SATA 6Gbps Cable with Locking Latch 90-Degree to 180-Degree UV Blue",
+      "ratingCount": "10",
+      "reviewCount": "10",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SATA Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables"
+    },
+    {
+      "name": "5116",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables/5116"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

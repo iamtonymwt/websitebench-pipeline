@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1-Gang Blank Wall Plate Ivory 4.5x2.75x0.2 w/Screws (Ivory Coated Screw Head)",
+    "@id": "https://www.monoprice.com/product?p_id=34492",
+    "url": "https://www.monoprice.com/product?p_id=34492",
+    "description": "Blank wall plate to cover unused holes and remove when ready for expansion.Monoprice\u00e2\u201e\u00a2 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jun 5, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/344921.jpg\",\"https://images.monoprice.com/productlargeimages/344922.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "34492",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34492",
+      "gtin14": "889028096765"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1-Gang Blank Wall Plate Ivory 4.5x2.75x0.2 w/Screws (Ivory Coated Screw Head)",
+      "ratingCount": "3",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystone Wall Plates",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates"
+    },
+    {
+      "name": "34492",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates/34492"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

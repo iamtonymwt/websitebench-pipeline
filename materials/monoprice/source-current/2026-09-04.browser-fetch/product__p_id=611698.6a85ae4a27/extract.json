@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8-Head Multi-Plug 12 Daisy-Chain Cable w/ 2.1mm Pins for Guitar Pedal Power Adapters",
+    "@id": "https://www.monoprice.com/product?p_id=611698",
+    "url": "https://www.monoprice.com/product?p_id=611698",
+    "description": "Power up to eight guitar effects pedals with only a single AC adapter using this 8-Head Multi-Plug Daisy-Chain Power Cable from Monoprice!This adapter is designed to work with the Monoprice guitar effects pedals, the Monoprice 9V AC power adapter, the Monoprice 18V AC power adapter, and all standard guitar effects pedals and power supplies on the market.It features a single female DC connector on one end and eight male DC connectors at intervals of about 12\". It uses the standard 5.5mm barrel and 2.1mm pin diameters used by all standard pedals and pedal power adapters. The total cable length is about 108\".",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6116981.jpg\",\"https://images.monoprice.com/productlargeimages/6116982.jpg\",\"https://images.monoprice.com/productlargeimages/6116983.jpg\",\"https://images.monoprice.com/productlargeimages/6116984.jpg\",\"https://images.monoprice.com/productlargeimages/6116985.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "611698",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=611698",
+      "gtin14": "757901816253"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8-Head Multi-Plug 12 Daisy-Chain Cable w/ 2.1mm Pins for Guitar Pedal Power Adapters",
+      "ratingCount": "62",
+      "reviewCount": "62",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Pedals",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals"
+    },
+    {
+      "name": "611698",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals/611698"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

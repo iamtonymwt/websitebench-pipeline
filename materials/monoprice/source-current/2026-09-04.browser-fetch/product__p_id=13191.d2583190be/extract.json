@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Hi-Fi Lightweight On-Ear Headphones with Inline Microphone & Controller",
+    "@id": "https://www.monoprice.com/product?p_id=13191",
+    "url": "https://www.monoprice.com/product?p_id=13191",
+    "description": "C|NET's Steve Guttenberg just reviewed our Hi-Fi Lightweight on-ear headphones in \"Monoprice's $14.99 on-ear headphone is almost too good to be true\". Find out more.\u00a0\u00a0Why spend hundreds of dollars for a pair of headphones? These headphones sound fantastic! In fact, we'll stack this pair of headphones against any competitor's on-ear headphones at any price in our own sonic version of The Pepsi Challenge\u00ae. The bass is full and rich, vocals are clear and articulate, and the highs are crisp and well-defined. Don't take our word for it though, give them a try and you'll never go back. And with our 30-day money back guarantee, we assume all the risk while you reap all the rewards!Solid BassClear & ArticulateLightweightIn-Line Play/Pause ControlsBuilt-In MicrophoneUnbeatable ValueSound: Life is too short for headphones that don't sound great! We believe that the whole point of listening to music is to hear it as the artist intended. Our engineers and audio experts have spent countless hours listening to and comparing various headphones until we were satisfied we had found models that fit our demanding standards.Lightweight: At only 4.5 ounces, you'll hardly notice you're wearing them at all. Great for a full day of work, long flights, or extended gaming session, you'll experience less fatigue wearing these awesome sounding headphones.In-Line Controller: Featuring an in-line controller with a microphone and play/pause controls, you can also use these headphones answer/terminate calls on your Apple\u00ae or Android\u2122 smartphone.Unbeatable Value: At a price that is less than what you'd pay in tax for big name brand headphones, you can't afford to NOT try these lightweight headphones!WarrantyMonoprice not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service & SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0The Pepsi Challenge\u00ae is a trademark of PepsiCo, Inc. Apple\u00ae is a trademark of Apple Inc., registered in the U.S. and other countries. Android\u2122 is a trademark of Google LLC. Updated Apr 9, 2020 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/131911.jpg\",\"https://images.monoprice.com/productlargeimages/131912.jpg\",\"https://images.monoprice.com/productlargeimages/131913.jpg\",\"https://images.monoprice.com/productlargeimages/131914.jpg\",\"https://images.monoprice.com/productlargeimages/131915.jpg\",\"https://images.monoprice.com/productlargeimages/131916.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "13191",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13191",
+      "gtin14": "889028012260"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Hi-Fi Lightweight On-Ear Headphones with Inline Microphone & Controller",
+      "ratingCount": "371",
+      "reviewCount": "371",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones"
+    },
+    {
+      "name": "On Ear Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/on-ear-headphones"
+    },
+    {
+      "name": "13191",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/on-ear-headphones/13191"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

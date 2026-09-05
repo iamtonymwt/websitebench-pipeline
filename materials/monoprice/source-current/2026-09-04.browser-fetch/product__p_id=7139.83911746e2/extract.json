@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1/4in (6.35mm) TRS Stereo Plug to 3.5mm TRS Stereo Jack Adapter Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=7139",
+    "url": "https://www.monoprice.com/product?p_id=7139",
+    "description": "6.35mm (1/4 Inch) Stereo Plug (male)\u00a0to 3.5mm Stereo Jack (female)\u00a0Adaptor - Gold Plated.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/71391.jpg\",\"https://images.monoprice.com/productlargeimages/71392.jpg\",\"https://images.monoprice.com/productlargeimages/71393.jpg\",\"https://images.monoprice.com/productlargeimages/71394.jpg\",\"https://images.monoprice.com/productlargeimages/71395.jpg\",\"https://images.monoprice.com/productlargeimages/71396.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "7139",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7139",
+      "gtin14": "844660071396"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1/4in (6.35mm) TRS Stereo Plug to 3.5mm TRS Stereo Jack Adapter Gold Plated",
+      "ratingCount": "140",
+      "reviewCount": "140",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Plug Adapter",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter"
+    },
+    {
+      "name": "7139",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter/7139"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

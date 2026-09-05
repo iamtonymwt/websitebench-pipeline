@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3 Meter (10ft) 1/4inch TRS Male to two 1/4inch TS Male Insert Cable",
+    "@id": "https://www.monoprice.com/product?p_id=601053",
+    "url": "https://www.monoprice.com/product?p_id=601053",
+    "description": "Connect your external effects processors to your mixing board with this 1/4\" Insert Cable from Monoprice!Insert cables are used for creating a real-time effects loop by connecting a channel insert on an audio mixing board to an external effects processor with 1/4\" unbalanced connections. Connect the TRS plug into the \"insert\" jack of your mixing board. The tip of the jack is a send (sending a mono signal to an external effects professor) and the ring is the return (returning a mono signal from the external effects processor back into the mixing board).This cable can also be used to split an unbalanced stereo signal into two unbalanced mono signals, or to combine two mono signals into a single stereo signal.This cable is constructed with two 26 AWG conductors and copper braid shielding. The TS connectors are color coded gray and red and feature knurled grips so you can insert and extract the plugs with ease.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6010531.jpg\",\"https://images.monoprice.com/productlargeimages/6010532.jpg\",\"https://images.monoprice.com/productlargeimages/6010533.jpg\",\"https://images.monoprice.com/productlargeimages/6010534.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "601053",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601053",
+      "gtin14": "757901809989"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3 Meter (10ft) 1/4inch TRS Male to two 1/4inch TS Male Insert Cable",
+      "ratingCount": "61",
+      "reviewCount": "25",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "601053",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/601053"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

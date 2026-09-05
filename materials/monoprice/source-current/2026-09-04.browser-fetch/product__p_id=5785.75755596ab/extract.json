@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Mountable Head Cable Ties 8in 40 lbs 100 pcs/pack Black",
+    "@id": "https://www.monoprice.com/product?p_id=5785",
+    "url": "https://www.monoprice.com/product?p_id=5785",
+    "description": "Mountable head cable ties combine two great products into one. Zip bundles of cables together and mount the ties to a wall using the integrated mounting eyelet on the zip tie head. No need for additional wall clips or mounts. It helps keep cables neat and organized and prevents loose cables from wandering and causing accidents. It prolongs cable life by keeping them out of the path of traffic. Each tie supports up to 40 lbs.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 26, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/57851.jpg\",\"https://images.monoprice.com/productlargeimages/57852.jpg\",\"https://images.monoprice.com/productlargeimages/57853.jpg\",\"https://images.monoprice.com/productlargeimages/57854.jpg\",\"https://images.monoprice.com/productlargeimages/57855.jpg\",\"https://images.monoprice.com/productlargeimages/57856.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "5785",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5785",
+      "gtin14": "844660057857"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Mountable Head Cable Ties 8in 40 lbs 100 pcs/pack Black",
+      "ratingCount": "23",
+      "reviewCount": "15",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Cable Management",
+      "url": "https://www.monoprice.com/category/networking/cable-management"
+    },
+    {
+      "name": "Cable Ties",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-ties"
+    },
+    {
+      "name": "5785",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-ties/5785"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 12in x 12in Truss Totem Top Base Plate with Hardware for 8in Box Aluminum Lighting Truss ",
+    "@id": "https://www.monoprice.com/product?p_id=625857",
+    "url": "https://www.monoprice.com/product?p_id=625857",
+    "description": " \u00a0Truss totems (or truss towers) are a very popular and practical configuration of lighting truss. Intended for use with our 8\" truss, the Stage Right\u2122 Top Base Plate sits on top of a vertical truss, creating a solid base for mounting lighting fixtures. It is made of aluminum to match the look and finish of the standard 8\" truss. Mounting hardware is included.Disclaimer: This product is prone to cosmetic finish imperfections and my scratch easily, as well as show signs of scratching from the factory.Support Files: User's Manual (Jan 13, 2020)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 18, 2021 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6258571.jpg\",\"https://images.monoprice.com/productlargeimages/6258572.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 64.99,
+      "sku": "625857",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625857",
+      "gtin14": "889028149584"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 12in x 12in Truss Totem Top Base Plate with Hardware for 8in Box Aluminum Lighting Truss ",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Lighting Stands & Trusses",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses"
+    },
+    {
+      "name": "625857",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses/625857"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

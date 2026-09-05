@@ -1,0 +1,13 @@
+{
+  "url": "https://www.monoprice.com/product?c_id=109&cp_id=10918&cs_id=1091801&format=2&p_id=10761&seq=1",
+  "final_url": "https://www.monoprice.com/product?c_id=109&cp_id=10918&cs_id=1091801&format=2&p_id=10761&seq=1",
+  "upstream_status": 200,
+  "classification": "content",
+  "bytes": 444210,
+  "sha256": "69858ee819cff5c07efddcaeb746879e86646d24a7abec646a12adef2a3d6b16",
+  "fetched_at": "2026-09-05T01:30:34+00:00",
+  "fetch_ms": 397,
+  "mode": "raw-served-html",
+  "body_retained": false,
+  "extract": "schema.org Product + BreadcrumbList"
+}

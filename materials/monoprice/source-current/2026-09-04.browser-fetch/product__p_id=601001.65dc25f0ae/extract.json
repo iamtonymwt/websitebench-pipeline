@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 2in Stage Lighting O-Clamp for Truss and Stands w/ 1 and 1.5in Inserts 10-pack",
+    "@id": "https://www.monoprice.com/product?p_id=601001",
+    "url": "https://www.monoprice.com/product?p_id=601001",
+    "description": "Old C-clamps are a very easy way to mount lighting fixtures. However, soft aluminum gets scratched very quickly and can look less than great at events and weddings. Whether you are using a 12-20 inch touring truss or a 6-8 inch display truss, these Stage Right O-clamps are ideal. Fitted inserts (included) allow you to use 1-, 1.5-, or 2-inch trusses with style and ease.Made of high-impact molded ABS, these clamps look good, can support up to 75 pound fixtures, and will not scratch bars. The low-profile design makes getting your lights into tight places a breeze. It is especially useful when used with truss warmers. It features a 10M light mounting screw with wingnut for use with our 612733 Truss Wash Uplight.Features: ABS molded clampFits truss diameters of 1\", 1.5\", and 2\"Includes fitted inserts76 lbs. (34 kg) capacityIdeal for truss warmersLow profile mountingStage Right\u2122 and the Stage Right logo are trademarks of Monoprice Inc. Updated Oct 25, 2019 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6010011.jpg\",\"https://images.monoprice.com/productlargeimages/6010012.jpg\",\"https://images.monoprice.com/productlargeimages/6010013.jpg\",\"https://images.monoprice.com/productlargeimages/6010014.jpg\",\"https://images.monoprice.com/productlargeimages/6010015.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 53.99,
+      "sku": "601001",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=601001",
+      "gtin14": "889028144961"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 2in Stage Lighting O-Clamp for Truss and Stands w/ 1 and 1.5in Inserts 10-pack",
+      "ratingCount": "8",
+      "reviewCount": "8",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Lighting Stands & Trusses",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses"
+    },
+    {
+      "name": "601001",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses/601001"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

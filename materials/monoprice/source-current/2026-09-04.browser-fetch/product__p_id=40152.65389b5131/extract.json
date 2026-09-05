@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Plus USB Car Charger 2-Port 4.8A Output for iPhone Android and Galaxy Devices - 10 PACK",
+    "@id": "https://www.monoprice.com/product?p_id=40152",
+    "url": "https://www.monoprice.com/product?p_id=40152",
+    "description": "Charge up to two Apple iPads\u00ae at full speed in your vehicle using this 2-port USB Car Charger from Monoprice!This USB 2.0 car charger features two USB ports and a maximum current capacity of 4.8 amps! The 2.4 amps per port combines with the spacial internal circuitry to allow Apple\u00ae and Samsung\u00ae devices to be charged at their full charge rates.The charger measures 1.1\" x 1.1\" x 2.4\" (29 x 29 x 60 mm).Apple\u00ae and iPad\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Android\u2122 is a trademark of Google LLC. Samsung\u00ae is a registered trademarks of Samsung Electronics Co., Ltd. ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/401521.jpg\",\"https://images.monoprice.com/productlargeimages/401522.jpg\",\"https://images.monoprice.com/productlargeimages/401523.jpg\",\"https://images.monoprice.com/productlargeimages/401524.jpg\",\"https://images.monoprice.com/productlargeimages/401525.jpg\",\"https://images.monoprice.com/productlargeimages/401526.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 59.99,
+      "sku": "40152",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40152",
+      "gtin14": "889028143087"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Plus USB Car Charger 2-Port 4.8A Output for iPhone Android and Galaxy Devices - 10 PACK",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mobile",
+      "url": "https://www.monoprice.com/category/pages/9"
+    },
+    {
+      "name": "Charging",
+      "url": "https://www.monoprice.com/category/mobile/charging"
+    },
+    {
+      "name": "USB Car Chargers",
+      "url": "https://www.monoprice.com/category/mobile/charging/usb-car-chargers"
+    },
+    {
+      "name": "40152",
+      "url": "https://www.monoprice.com/category/mobile/charging/usb-car-chargers/40152"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

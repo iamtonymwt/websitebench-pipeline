@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 100ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
+    "@id": "https://www.monoprice.com/product?p_id=601550",
+    "url": "https://www.monoprice.com/product?p_id=601550",
+    "description": "You can rely on Monoprice as the source for your high-performance, high-quality speaker cables with NL4FC connectors!These 2-conductor speaker connection cables are made with high-purity, 12 AWG copper wire for maximum current handling capability. They feature black and blue colored plastic NL4FC female connectors at each end, with spring-loaded lock release latches.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6015501.jpg\",\"https://images.monoprice.com/productlargeimages/6015502.jpg\",\"https://images.monoprice.com/productlargeimages/6015503.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 159.99,
+      "sku": "601550",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=601550",
+      "gtin14": "757901803123"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 100ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
+      "ratingCount": "104",
+      "reviewCount": "11",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Speaker Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/speaker-cables"
+    },
+    {
+      "name": "601550",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/speaker-cables/601550"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

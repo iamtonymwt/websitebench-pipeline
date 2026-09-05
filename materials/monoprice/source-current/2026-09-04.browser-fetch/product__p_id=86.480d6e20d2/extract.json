@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Super VGA (SVGA) M/F Monitor Cable with Ferrite Cores Gold Plated 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=86",
+    "url": "https://www.monoprice.com/product?p_id=86",
+    "description": "Extend your SVGA monitor cable using this Super VGA Monitor Extension Cable from Monoprice!This double-shielded cable is designed to handle analog VGA and extended VGA resolutions. It features a male DE-15 (aka HD-15 or DB-15) connector on one end and a female DE-15 connector on the other end. Each heavy duty connector head includes thumbscrews for securing the plug to a panel connector. It includes ferrite cores at each end, which ensure that EMI and RFI interference will not enter your video system.Updated Sep 4, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/861.jpg\",\"https://images.monoprice.com/productlargeimages/862.jpg\",\"https://images.monoprice.com/productlargeimages/863.jpg\",\"https://images.monoprice.com/productlargeimages/864.jpg\",\"https://images.monoprice.com/productlargeimages/865.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.49,
+      "sku": "86",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=86",
+      "gtin14": "844660000860"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Super VGA (SVGA) M/F Monitor Cable with Ferrite Cores Gold Plated 6ft",
+      "ratingCount": "69",
+      "reviewCount": "25",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "VGA & SVGA Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables"
+    },
+    {
+      "name": "86",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables/86"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

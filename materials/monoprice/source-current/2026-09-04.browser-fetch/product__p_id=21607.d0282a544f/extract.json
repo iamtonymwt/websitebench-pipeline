@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-C to 4K HDMI  Single Link DVI  and VGA Passive Adapter  Black",
+    "@id": "https://www.monoprice.com/product?p_id=21607",
+    "url": "https://www.monoprice.com/product?p_id=21607",
+    "description": "Connect your USB-C\u00ae or Thunderbolt\u2122 3 equipped PC or Mac\u00ae to a 4K HDMI\u00ae Single Link DVI\u2122, or VGA video display using this USB-C to 4K HDMI, DVI, and VGA Passive Adapter from Monoprice\u2122!This adapter is designed to allow you to connect an HDMI, DVI, or VGA display to a USB-C or Thunderbolt 3 video output. It supports HDMI resolutions up to 4K (3840x2160p) @30Hz, Single Link DVI resolutions up to 1920x1080p @60Hz, and VGA resolutions up to 1920x1080p @60Hz. Being a passive adapter, it is NOT compatible with the AMD\u00ae Eyefinity or nVidia\u00ae Surround\u2122 multidisplay modes. Note that only one of the three video outputs can be used at any given time.It features a true 6\" cable length with polycarbonate connector heads. The VGA and DVI connectors have panel screw holes, so you can secure the cable to the adapter. The USB-C connector head measures about 6.5 x 12.3 x 25.0 mm, and the multioutput connector head measures about 15.0 x 45.3 x 85.0 mm.Features: Connects to both USB-C\u00ae and Thunderbolt\u2122 3 video outputsSupports HDMI\u00ae resolutions up to 4K (3840x2160p @30Hz)Supports Single Link DVI\u2122 resolutions up to 1920x1080p @60HzSupports VGA resolutions up to 1920x1080p @60HzPASSIVE adapter is NOT compatible with nVidia\u00ae Surround\u2122 or AMD\u00ae Eyefinity multidisplay modes\u00a0\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB-C\u00ae and USB-C\u00ae are trademarks of USB Implementers Forum, Inc. Apple\u00ae and Mac\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Thunderbolt\u2122 is a trademark of Intel Corporation in the U.S. and/or other countries. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. DVI\u2122 is a trademark of the Digital Display Working Group. AMD\u00ae is a registered trademark of Advanced Micro Devices. NVIDIA\u00ae and NVIDIA Surround\u2122 are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Updated Dec 10, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/216071.jpg\",\"https://images.monoprice.com/productlargeimages/216072.jpg\",\"https://images.monoprice.com/productlargeimages/216073.jpg\",\"https://images.monoprice.com/productlargeimages/216074.jpg\",\"https://images.monoprice.com/productlargeimages/216075.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.99,
+      "sku": "21607",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21607",
+      "gtin14": "889028049297"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-C to 4K HDMI  Single Link DVI  and VGA Passive Adapter  Black",
+      "ratingCount": "35",
+      "reviewCount": "35",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "21607",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/21607"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

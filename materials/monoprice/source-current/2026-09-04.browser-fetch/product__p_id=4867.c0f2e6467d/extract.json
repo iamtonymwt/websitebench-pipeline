@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to Micro USB-B 2.0 Cable - 5-Pin  28/28AWG  Black  3ft",
+    "@id": "https://www.monoprice.com/product?p_id=4867",
+    "url": "https://www.monoprice.com/product?p_id=4867",
+    "description": "The Monoprice USB\u2011A to Micro\u2011B 2.0 Cable \u2011 5\u2011Pin, 28/28AWG is the ideal solution for seamless connectivity between your devices. With the increasing prevalence of smartphones and tablets utilizing the USB micro B connector, this cable ensures effortless compatibility with your gadgets.Designed to meet USB 2.0 specifications, this cable guarantees high\u2011speed data transfer and reliable power delivery. The 28 AWG conductors employed for both data and power transmission ensure optimal performance and efficiency. Whether you're transferring files, syncing data, or charging your devices, this cable provides a stable and consistent connection.Crafted with attention to detail, the cable features molded connector heads that securely fit into your devices' ports. The molded strain relief boots provide additional durability, preventing stress on the cable and connectors. You can rely on this cable to withstand everyday use without compromising its functionality.To safeguard your data integrity, the cable is shielded to protect against external signal interference. This shielding technology ensures minimal data loss and maximizes signal quality, enabling you to experience smooth and uninterrupted data transfer.With a length suitable for various applications, this cable offers convenience without compromising performance. Whether you need to connect your smartphone to your computer, charge your tablet, or sync data between devices, this cable provides the versatility you require.The Monoprice USB\u2011A to Micro\u2011B 2.0 Cable \u2011 5\u2011Pin, 28/28AWG combines reliability, durability, and efficiency in a single package. Stay connected and enjoy seamless data transfer and power delivery with this high\u2011quality cable. Upgrade your connectivity experience today and unlock the full potential of your devices with this exceptional USB cable.Features: 100% compliant with USB 2.0 specifications28 AWG data and power conductorsMolded connector heads with molded strain relief bootsShielded to protect against external signal interferenceSupport Files: Tech Drawing (Jul 17, 2025)Updated Feb 7, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/48671.jpg\",\"https://images.monoprice.com/productlargeimages/48672.jpg\",\"https://images.monoprice.com/productlargeimages/48673.jpg\",\"https://images.monoprice.com/productlargeimages/48674.jpg\",\"https://images.monoprice.com/productlargeimages/48675.jpg\",\"https://images.monoprice.com/productlargeimages/48676.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.49,
+      "sku": "4867",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4867",
+      "gtin14": "844660048671"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to Micro USB-B 2.0 Cable - 5-Pin  28/28AWG  Black  3ft",
+      "ratingCount": "1939",
+      "reviewCount": "527",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "Micro USB Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables"
+    },
+    {
+      "name": "4867",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables/4867"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

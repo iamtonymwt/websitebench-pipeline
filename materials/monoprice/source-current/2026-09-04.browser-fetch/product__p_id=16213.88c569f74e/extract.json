@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DisplayPort 1.1 to HDTV Cable 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=16213",
+    "url": "https://www.monoprice.com/product?p_id=16213",
+    "description": "This cable is designed to connect a DisplayPort\u00ae video source to an HDTV display that uses the standard HDMI\u00ae Type-A video connector. It complies with the DisplayPort 1.1 standard, which provides up to 10.8 Gbps. It can transmit 1080p@60Hz video with up to 48-bit Deep Color (16-bits per channel), as well as 4K@24Hz. The connectors are gold plated to ensure long term corrosion resistance and smooth connections. The DisplayPort connector features the standard mechanical latch to lock the cable connector to the panel connector.DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Updated Mar 17, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/162131.jpg\",\"https://images.monoprice.com/productlargeimages/162132.jpg\",\"https://images.monoprice.com/productlargeimages/162133.jpg\",\"https://images.monoprice.com/productlargeimages/162134.jpg\",\"https://images.monoprice.com/productlargeimages/162135.jpg\",\"https://images.monoprice.com/productlargeimages/162136.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 20.39,
+      "sku": "16213",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=16213",
+      "gtin14": "889028043370"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DisplayPort 1.1 to HDTV Cable 6ft",
+      "ratingCount": "50",
+      "reviewCount": "50",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "16213",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/16213"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

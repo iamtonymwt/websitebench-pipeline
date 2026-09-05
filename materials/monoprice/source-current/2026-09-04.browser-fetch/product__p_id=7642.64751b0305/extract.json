@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 12inch SATA 15pin Male to 4pin Molex and 4pin Power Cable",
+    "@id": "https://www.monoprice.com/product?p_id=7642",
+    "url": "https://www.monoprice.com/product?p_id=7642",
+    "description": "It converts a SATA Power 15pin connector into a 4pin Molex and 4pin Mini (Floppy) power connector\u201a in order to supply power to\u00a0devices that\u00a0need 4pin Molex\u00a0or 4pin Mini power connections. \u00a0\u2022 Power connector for Devices requiring a Molex or Mini connection\u2022 Connector: SATA 15pin straigh Male t to Molex 4pin straight Female\u00a0 + 4pin Mini Female\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76421.jpg\",\"https://images.monoprice.com/productlargeimages/76422.jpg\",\"https://images.monoprice.com/productlargeimages/76423.jpg\",\"https://images.monoprice.com/productlargeimages/76424.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.79,
+      "sku": "7642",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7642",
+      "gtin14": "844660076421"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 12inch SATA 15pin Male to 4pin Molex and 4pin Power Cable",
+      "ratingCount": "31",
+      "reviewCount": "31",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SATA Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables"
+    },
+    {
+      "name": "7642",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables/7642"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

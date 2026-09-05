@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Series Portrait and Landscape Rotating 360 Degree Low Profile Fixed TV Wall Mount Bracket - For LED Displays 37in to 80in Max Weight 110 lbs. VESA Patterns up to 600x400",
+    "@id": "https://www.monoprice.com/product?p_id=24267",
+    "url": "https://www.monoprice.com/product?p_id=24267",
+    "description": " \u00a0This mount bracket is designed to mount a flat\u2011panel TV in the portrait or landscape orientation. It is compatible with TVs with a VESA\u00ae mounting pattern between 200x200 and 600x400 (400x600 in portrait orientation), which includes most 37\" to 80\" TVs*.The included hardware supports mounting on brick and concrete walls. The mount can safely hold up to 110 pounds (including the weight of the mount itself).*Note that the display screen size is only an approximation. Your display is compatible with this mount as long as it has a VESA\u00ae mounting pattern and weight that fit within the size and weight limits listed above.Support Files: User's Manual (Mar 16, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a trademark owned by the Video Electronics Standards Association (VESA\u00ae) in the United States and other countries. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Feb 10, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/242671.jpg\",\"https://images.monoprice.com/productlargeimages/242672.jpg\",\"https://images.monoprice.com/productlargeimages/242673.jpg\",\"https://images.monoprice.com/productlargeimages/242674.jpg\",\"https://images.monoprice.com/productlargeimages/242675.jpg\",\"https://images.monoprice.com/productlargeimages/242676.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 54.99,
+      "sku": "24267",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24267",
+      "gtin14": "889028053973"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Series Portrait and Landscape Rotating 360 Degree Low Profile Fixed TV Wall Mount Bracket - For LED Displays 37in to 80in Max Weight 110 lbs. VESA Patterns up to 600x400",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "3.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Digital Signage Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts"
+    },
+    {
+      "name": "24267",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts/24267"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Viper 12G SDI BNC Cable 50ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=41296",
+    "url": "https://www.monoprice.com/product?p_id=41296",
+    "description": "The Monoprice\u2122 Viper Series 12G SDI Cables are precision serial digital video coaxial cables for transmitting UHD-SDI video signals. The cable is a BNC-terminated, high-performance coaxial cable with\u00a0copper foil and high-density tinned copper braided shielding, making the cable flexible and strong.Reliably distribute 4K@60Hz video signals in studio, to mobile trucks, or even at home. The cable features nickel body 75-ohm connectors with gold-plated contacts and highly foamed PE insulation for optimal attenuation.This strong and flexible cable was developed to support greater resolution, frame rates, and color fidelity. It provides 12Gbps bandwidth, four times that of HD, making it ideal for the 4K@60 format.This SDI BNC cable supports the following general features:Transfers UHD-SDI video signals over digital video coaxial cableConnector A and B: True 75-ohm BNC male connectors with gold-plated contactsCopper foil + high-density tinned copper braided shieldingSolid annealed copper 16 AWG center conductor12 Gbps bandwidth75-ohm nominal impedance100% sweep testedMonoprice\u2122 lifetime warranty on all cablesMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Apr 03, 2023\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/412961.jpg\",\"https://images.monoprice.com/productlargeimages/412962.jpg\",\"https://images.monoprice.com/productlargeimages/412963.jpg\",\"https://images.monoprice.com/productlargeimages/412964.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 230.99,
+      "sku": "41296",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=41296",
+      "gtin14": "889028154939"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Viper 12G SDI BNC Cable 50ft Black",
+      "ratingCount": "3",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "SDI Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/sdi-cables"
+    },
+    {
+      "name": "41296",
+      "url": "https://www.monoprice.com/category/cables/video-cables/sdi-cables/41296"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

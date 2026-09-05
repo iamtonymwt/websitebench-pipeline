@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2-inch Nylon Adjustable Guitar Strap with Leather Ends - Gray & Black",
+    "@id": "https://www.monoprice.com/product?p_id=611300",
+    "url": "https://www.monoprice.com/product?p_id=611300",
+    "description": "Keep your guitar in just the right place using this 2-inch Nylon Guitar Strap from Monoprice!This guitar strap is made of a smooth nylon that can be easily repositioned on your shoulder. It features double-thickness, sewn leather ends, a plastic adjusting ring, and plastic end rings.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6113001.jpg\",\"https://images.monoprice.com/productlargeimages/6113002.jpg\",\"https://images.monoprice.com/productlargeimages/6113003.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "611300",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=611300",
+      "gtin14": "757901816307"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2-inch Nylon Adjustable Guitar Strap with Leather Ends - Gray & Black",
+      "ratingCount": "62",
+      "reviewCount": "62",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories"
+    },
+    {
+      "name": "611300",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories/611300"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

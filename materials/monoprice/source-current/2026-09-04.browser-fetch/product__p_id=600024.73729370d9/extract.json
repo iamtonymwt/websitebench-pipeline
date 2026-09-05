@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Clamp-Mounted 12-18in Adjustable Desktop Studio Monitor Stands w/ Antislip Pads Steel 22lbs Weight Capacity (Pair)",
+    "@id": "https://www.monoprice.com/product?p_id=600024",
+    "url": "https://www.monoprice.com/product?p_id=600024",
+    "description": "When setting up your home studio, monitor stands are key. They are both useful at keeping your speakers secure and can make a huge difference in your sound, as monitor placement is critical for proper mixing. If you've ever used conventional, floor standing monitor stands, you know they need some floorspace, as support for a 4' stand will require ample footprint. Here's where the Stage Right\u2122 clamp mounted desktop studio monitor stands come in. They provide the benefits of traditional monitor stands, without the footprint. For instances where floor space is limited, Stage Right desktop stands may be the ideal solution for your monitors.Made of steel, Stage Right desktop monitor stands are height-adjustable, allowing you to place your monitors between 12\" and 18\" above the height of your desk. Their clamp will work on desk surfaces up to 40mm thick. The top platform is 9\" x 9\", providing sufficient surface area to support monitors up to 8\". For additional stability, Stage Right desktop monitor stands include antislip pads and can support up to 22 lbs.Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Apr 28, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6000241.jpg\",\"https://images.monoprice.com/productlargeimages/6000242.jpg\",\"https://images.monoprice.com/productlargeimages/6000243.jpg\",\"https://images.monoprice.com/productlargeimages/6000244.jpg\",\"https://images.monoprice.com/productlargeimages/6000245.jpg\",\"https://images.monoprice.com/productlargeimages/6000246.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "600024",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=600024",
+      "gtin14": "889028168875"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Clamp-Mounted 12-18in Adjustable Desktop Studio Monitor Stands w/ Antislip Pads Steel 22lbs Weight Capacity (Pair)",
+      "ratingCount": "7",
+      "reviewCount": "7",
+      "ratingValue": "3.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Studio Sound & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories"
+    },
+    {
+      "name": "Studio Stands",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-stands"
+    },
+    {
+      "name": "600024",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-stands/600024"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

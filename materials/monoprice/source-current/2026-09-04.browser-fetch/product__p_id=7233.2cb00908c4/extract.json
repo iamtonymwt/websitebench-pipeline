@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RCA Plug to RCA Jack Adapter Gold Plated (Right Angle)",
+    "@id": "https://www.monoprice.com/product?p_id=7233",
+    "url": "https://www.monoprice.com/product?p_id=7233",
+    "description": "RCA Plug to RCA Jack Adaptor - Gold Plated (Right Angle)Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72331.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "7233",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7233",
+      "gtin14": "844660072331"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RCA Plug to RCA Jack Adapter Gold Plated (Right Angle)",
+      "ratingCount": "116",
+      "reviewCount": "116",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Plug Adapter",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter"
+    },
+    {
+      "name": "7233",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter/7233"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

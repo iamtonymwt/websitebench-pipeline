@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Essential Tilt TV Tripod Stand For 32 To 55 TVs up to 77lbs Max VESA 400x400",
+    "@id": "https://www.monoprice.com/product?p_id=30359",
+    "url": "https://www.monoprice.com/product?p_id=30359",
+    "description": "The Monoprice\u2122 Heavy Duty Steel Tube Portable Television Stand is ideal for temporary deployments. Its compact and lightweight design makes it best used for trade shows, presentations, church events, and retail environments. The stand is recommended for 32\" to 55\" displays* that weigh less than 77 lbs. and have a VESA\u00ae mounting pattern between 200x200 and 400x400.Heavy Duty Steel TubePortable FoldableTiltHeavy Duty Steel Tube: This sturdy stand supports displays weighing up to 77 lbs.Portable Foldable: You can easily fold this stand and have it ready for use wherever and whenever the need arises.Tilt: The tilt functionality allows you to avoid glare and provides a better viewing angle.\u00a0Ideal for.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Oct 9, 2017)Dimensions Diagram (Oct 27, 2022)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Feb 14, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/303591.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 76.99,
+      "sku": "30359",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=30359",
+      "gtin14": "889028070796"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Essential Tilt TV Tripod Stand For 32 To 55 TVs up to 77lbs Max VESA 400x400",
+      "ratingCount": "21",
+      "reviewCount": "21",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "TV Carts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-carts"
+    },
+    {
+      "name": "30359",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-carts/30359"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

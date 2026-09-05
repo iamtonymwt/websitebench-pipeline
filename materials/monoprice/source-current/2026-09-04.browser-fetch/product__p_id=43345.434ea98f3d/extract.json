@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 Ethernet Patch Cable - FLEXboot Snagless RJ45 550MHz UTP Pure Bare Copper 24AWG 12-Pack 7ft White",
+    "@id": "https://www.monoprice.com/product?p_id=43345",
+    "url": "https://www.monoprice.com/product?p_id=43345",
+    "description": "Monoprice\u2122Cat6 Patch CableUTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet CableMonoprice\u2122 FLEXBOOT\u2122 Series of cables feature a thinner cable boot protecting the plug retaining clip, which makes it much easier to depress the clip and protective cover.Less packaging 12-Pack Cat6 patch cables for 12/24/48/96-port networking devices/panels, Monoprice\u2122 Ethernet cables are made of 100% pure bare copper wire and are fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper conductors in communications cables.Unshielded Twisted Pair (UTP) Category 6 Ethernet cable, 550MHz bandwidth24AWG stranded, pure bare copper conductorThe thin FLEXboot\u2122 snagless cable boot protects the plug retaining clip and is easier to depress than other protective snagless cable boots50\u03bcm gold plated modular plugs ensure clear transmission by eliminating signal loss due to corrosion12-Pack Cat6 patch cables available for 12/24/48/96-port networking devices/panels\u00a0HIGH TRANSMISSION PERFORMANCERated Cat6 1 Gigabit at 24WG, bandwidth tested up to 550MHz. Ideal for high bandwidth\u00a0required voice, data, or video distribution applications at economic scale.\u00a0PURE COPPER STRANDED CONDUCTORS WITH SPINEComplies with UL, ANSI/TIA, the bare copper is superior conductor material for data transmission.\u00a0SNAGLESS AND NARROW BOOT DESIGNMonoprice's designed snagless boots provide strain relief for patch cable connections to reduce congestion and simplifies moves, additions, and changes.\u00a0QUALITY GUARANTEEDEach shipment is tested by Monoprice's QA team, physical check, electronic function and Fluke test. Superior headroom beyond TIA CAT6 Channel criteria.\u00a0CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important..gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Tech Drawing (Sep 18, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated May 09, 2023 WARNING: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/433451.jpg\",\"https://images.monoprice.com/productlargeimages/433452.jpg\",\"https://images.monoprice.com/productlargeimages/433453.jpg\",\"https://images.monoprice.com/productlargeimages/433454.jpg\",\"https://images.monoprice.com/productlargeimages/433455.jpg\",\"https://images.monoprice.com/productlargeimages/433456.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 41.89,
+      "sku": "43345",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43345",
+      "gtin14": "889028175675"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 Ethernet Patch Cable - FLEXboot Snagless RJ45 550MHz UTP Pure Bare Copper 24AWG 12-Pack 7ft White",
+      "ratingCount": "1541",
+      "reviewCount": "1",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6 Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables"
+    },
+    {
+      "name": "43345",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables/43345"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

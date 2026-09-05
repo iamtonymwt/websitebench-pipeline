@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Tripod Adjustable Double Guitar Stand for Electric or Acoustic Guitar & Bass",
+    "@id": "https://www.monoprice.com/product?p_id=625917",
+    "url": "https://www.monoprice.com/product?p_id=625917",
+    "description": "Ideal for both electric and acoustic guitars, the Stage Right\u2122 double guitar stand is made of steel tubing for stability, with soft rubber padding that covers all points of contact with your guitars. In addition to both stable and soft materials, the Stage Right double guitar stand is height adjustable from 25.8\" ~ 30.3\" (655 ~ 770 mm).Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Sep 11, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6259171.jpg\",\"https://images.monoprice.com/productlargeimages/6259172.jpg\",\"https://images.monoprice.com/productlargeimages/6259173.jpg\",\"https://images.monoprice.com/productlargeimages/6259174.jpg\",\"https://images.monoprice.com/productlargeimages/6259175.jpg\",\"https://images.monoprice.com/productlargeimages/6259176.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 33.99,
+      "sku": "625917",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625917",
+      "gtin14": "889028164099"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Tripod Adjustable Double Guitar Stand for Electric or Acoustic Guitar & Bass",
+      "ratingCount": "11",
+      "reviewCount": "11",
+      "ratingValue": "3.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/guitar-stands"
+    },
+    {
+      "name": "625917",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/guitar-stands/625917"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

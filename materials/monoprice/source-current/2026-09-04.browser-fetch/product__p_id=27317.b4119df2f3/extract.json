@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C5 18AWG 7A/125V 3-Prong Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=27317",
+    "url": "https://www.monoprice.com/product?p_id=27317",
+    "description": "The Monoprice\u2122 Laptop Power Cord Adapter is ideal for connecting your laptop power supplies, portable projectors, select desktop computers, and LG\u00ae brand LCD televisions containing a 3\u2011slot C6 input. Featuring a C14 connector on one end and a C5 connector on the other, this cable allows your laptop's power connection to work with an existing C13 power cord. This 18 AWG cable is designed to carry up to a 7 amp/875 watt load.Features: 18AWG conductorsUp to 7 amps maximum currentUsable for 100 ~ 250 VAC applicationsSupport Files: Diagram (Mar 04, 2024)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. LG\u00ae is a registered trademark of LG Electronics Inc. Updated Aug 20, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/273171.jpg\",\"https://images.monoprice.com/productlargeimages/273172.jpg\",\"https://images.monoprice.com/productlargeimages/273173.jpg\",\"https://images.monoprice.com/productlargeimages/273174.jpg\",\"https://images.monoprice.com/productlargeimages/273175.jpg\",\"https://images.monoprice.com/productlargeimages/273176.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.39,
+      "sku": "27317",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=27317",
+      "gtin14": "889028062852"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C5 18AWG 7A/125V 3-Prong Black 6ft",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Laptop AC Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/laptop-ac-power-cords"
+    },
+    {
+      "name": "27317",
+      "url": "https://www.monoprice.com/category/cables/power-cords/laptop-ac-power-cords/27317"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

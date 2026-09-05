@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Memory Foam Wrist Rest Pad Set Ergonomic Keyboard Mouse Wrist Support Desk Arm Rest for Laptop Computer PC Gaming Home and Office",
+    "@id": "https://www.monoprice.com/product?p_id=44973",
+    "url": "https://www.monoprice.com/product?p_id=44973",
+    "description": "This wrist rest pad provides arm and wrist support for computer users, made of thick memory foam for comfort and elevation. Covered in soft Lycra cloth, it's easy to clean and stays in place with a natural rubber bottom layer. The ergonomic design relieves wrist pain and maintains a natural hand position, fitting most computers and mice for improved posture during typing and gaming. Ideal for long typing sessions, writers, editors, and gamers seeking comfort and support.\u00a0Easy to Clean: Soft and smooth Lycra cloth makes it easy to clean by wet wipe or damp cloth.Non-Slip Bottom: The bottom layer is made of natural rubber that has great surface friction and holds the pad in place.Premium Memory Foam: Constructed with thick memory foam, elevating your wrists to ensure superior comfort and support when you are typing and using your mouse while you are working or gaming.Ergonomic Design: Relieves wrist pain and discomfort by keeping the hand and wrist in natural position.Wide Application: Fits most computers, laptops, notebooks, and mouse that improves hand and wrist posture. Perfect for long typing work, editors, writers, and gamers.\u00a0Specifications:17\"x3.3\"x0.9\" for the Keyboard rest5.5\"x3.3\"x0.9\" for the Mouse supportMaterial: Natural Rubber + Lycra cloth + Memory foam.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0WARNING: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/449731.jpg\",\"https://images.monoprice.com/productlargeimages/449732.jpg\",\"https://images.monoprice.com/productlargeimages/449733.jpg\",\"https://images.monoprice.com/productlargeimages/449734.jpg\",\"https://images.monoprice.com/productlargeimages/449735.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.99,
+      "sku": "44973",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=44973",
+      "gtin14": "889028194447"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Memory Foam Wrist Rest Pad Set Ergonomic Keyboard Mouse Wrist Support Desk Arm Rest for Laptop Computer PC Gaming Home and Office",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "Peripherals & Accessories",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories"
+    },
+    {
+      "name": "Keyboards",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories/keyboards"
+    },
+    {
+      "name": "44973",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories/keyboards/44973"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

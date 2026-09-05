@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat5e 1000ft Black CMR Bulk Cable Shielded (F/UTP) Solid 24AWG 350MHz Pure Bare Copper Spool in Box No Logo Bulk Ethernet Cable",
+    "@id": "https://www.monoprice.com/product?p_id=18618",
+    "url": "https://www.monoprice.com/product?p_id=18618",
+    "description": "Monoprice\u2122 24AWG Cat5e 350MHz STP Solid, Riser\u2011Rated (CMR) Bulk Pure Bare Copper Ethernet Cable is premium, high\u2011speed cabling designed for use in 1000Base\u2011T Gigabit Ethernet network environments. Constructed using 24AWG solid, pure bare copper conductors with a CMR\u2011rated PVC jacket, it exceeds TIA/EIA 568\u2011C.2 standards and is safe for use in the riser spaces of commercial class buildings. This cable is ETL listed and RoHS compliant.Features: Shielded Twisted Pair (STP) Category 5e Ethernet cable24AWG solid, pure bare copper conductorsCMR (Riser) fire safety rating350MHz bandwidthDesigned for use in 1000Base\u2011T Gigabit Ethernet network environmentsExceeds ANSI\u00ae TIA/EIA 568\u2011C.2 standardsETL listed and RoHS compliant1000\u2011foot wooden spoolMonoprice Ethernet cables are made of 100% pure bare copper wire, as opposed to copper clad aluminum (CCA) wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.CategoryCat5eCat6Cat6ACat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyMaximum Cable Distance100m100m100m (50m @ 10Gbps)30mNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-T or 40GBase-TCertification (Monoprice)ULUL or ETLUL or ETLULCostLowFairFair/ModeratePremiumDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. ANSI\u00ae, the ANSI logo, and numerous other identifiers containing \"ANSI\" are registered trademarks, service marks, and accreditation marks of the American National Standards Institute (ANSI). NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated Jun 8, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/186181.jpg\",\"https://images.monoprice.com/productlargeimages/186182.jpg\",\"https://images.monoprice.com/productlargeimages/186183.jpg\",\"https://images.monoprice.com/productlargeimages/186184.jpg\",\"https://images.monoprice.com/productlargeimages/186185.jpg\",\"https://images.monoprice.com/productlargeimages/186186.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 229.99,
+      "sku": "18618",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18618",
+      "gtin14": "889028046401"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat5e 1000ft Black CMR Bulk Cable Shielded (F/UTP) Solid 24AWG 350MHz Pure Bare Copper Spool in Box No Logo Bulk Ethernet Cable",
+      "ratingCount": "2",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Networking Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables"
+    },
+    {
+      "name": "Cat5e Bulk Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat5e-bulk-ethernet-cables"
+    },
+    {
+      "name": "18618",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat5e-bulk-ethernet-cables/18618"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

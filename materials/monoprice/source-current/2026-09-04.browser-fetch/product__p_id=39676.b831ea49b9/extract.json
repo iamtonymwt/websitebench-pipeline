@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Series Motorized TV Lift Stand Replacement Remote",
+    "@id": "https://www.monoprice.com/product?p_id=39676",
+    "url": "https://www.monoprice.com/product?p_id=39676",
+    "description": "Replacement remote for PID 39659",
+    "image": "[]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.29,
+      "sku": "39676",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39676",
+      "gtin14": "889028138595"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Series Motorized TV Lift Stand Replacement Remote",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "TV Mount Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-mount-accessories"
+    },
+    {
+      "name": "39676",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-mount-accessories/39676"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

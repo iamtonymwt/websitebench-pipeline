@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB 3.0 USB-A Male to USB-A Female Premium Extension Cable  10ft",
+    "@id": "https://www.monoprice.com/product?p_id=30716",
+    "url": "https://www.monoprice.com/product?p_id=30716",
+    "description": "These premium USB 3.0 extension cables provide users with extra length and connectivity options for their SuperSpeed devices. These cables feature a premium braided jacket covering, which gives them a premium look and feel, makes them more durable, and is more tangle-resistant when compared to ordinary USB cables.\u00a0SuperSpeed Data ConnectionPremium Look and FeelCorrosion ResistantSuperSpeed Data Connection: Fully compliant with the USB 3.0 specification, these cables are capable of data transfer rates up to 5 Gbps, making them well suited for use with external storage devices.Premium Look and Feel: The braided nylon jacket not only gives a premium look and feel, it makes the cables more durable and resistant to tangling.Corrosion Resistant: The gold plated connectors ensure a smooth, corrosion-free connection for long-term reliability.\u00a0Buy with ConfidenceMonoprice not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service & SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Diagram (Dec 17, 2021)Updated Mar 25, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/307161.jpg\",\"https://images.monoprice.com/productlargeimages/307162.jpg\",\"https://images.monoprice.com/productlargeimages/307163.jpg\",\"https://images.monoprice.com/productlargeimages/307164.jpg\",\"https://images.monoprice.com/productlargeimages/307165.jpg\",\"https://images.monoprice.com/productlargeimages/307166.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.69,
+      "sku": "30716",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=30716",
+      "gtin14": "889028074220"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB 3.0 USB-A Male to USB-A Female Premium Extension Cable  10ft",
+      "ratingCount": "77",
+      "reviewCount": "12",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables"
+    },
+    {
+      "name": "30716",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables/30716"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

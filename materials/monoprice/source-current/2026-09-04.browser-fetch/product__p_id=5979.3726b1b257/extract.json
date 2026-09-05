@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8.0mm Professional Microphone Bulk Cable - Oxygen-Free 2-Conductor PVC Jacket 21AWG 250ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=5979",
+    "url": "https://www.monoprice.com/product?p_id=5979",
+    "description": "Build your own custom balanced mono and unbalanced stereo patch cables using this Professional Microphone Bulk Cable from Monoprice!This cable features two 21AWG high-purity, oxygen-free copper conductors, a braided copper shield with 97.5% coverage, and a single drain wire. Each conductor is jacketed in color-coded PVC.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/59791.jpg\",\"https://images.monoprice.com/productlargeimages/59792.jpg\",\"https://images.monoprice.com/productlargeimages/59793.jpg\",\"https://images.monoprice.com/productlargeimages/59794.jpg\",\"https://images.monoprice.com/productlargeimages/59795.jpg\",\"https://images.monoprice.com/productlargeimages/59796.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 129.99,
+      "sku": "5979",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5979",
+      "gtin14": "844660059790"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8.0mm Professional Microphone Bulk Cable - Oxygen-Free 2-Conductor PVC Jacket 21AWG 250ft Black",
+      "ratingCount": "63",
+      "reviewCount": "16",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables"
+    },
+    {
+      "name": "Bulk Microphone Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-microphone-cables"
+    },
+    {
+      "name": "5979",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-microphone-cables/5979"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

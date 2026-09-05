@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8-Port Cat6 Data Module",
+    "@id": "https://www.monoprice.com/product?p_id=21653",
+    "url": "https://www.monoprice.com/product?p_id=21653",
+    "description": "Used to simplify and organize your network wiring terminationsNon\u2011bridged Cat6 data board with 8 standard 4 pair 110 IDC connectors providing high performance connectivityStandard Cat6 RJ45 Ports for up to 8 network connectionsComplies with all TIA/EIA\u2011568 requirementsRequires the use of a network router or switchETL Listed\u00a0Support Files: Quick Installation Guide (Sep 7, 2025)Features Sheet (Sep 7, 2025)Tech Drawing (May 25, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 4, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/216531.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "21653",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21653",
+      "gtin14": "889028049754"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8-Port Cat6 Data Module",
+      "ratingCount": "9",
+      "reviewCount": "7",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels"
+    },
+    {
+      "name": "Networking Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/networking-patch-panels"
+    },
+    {
+      "name": "21653",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/networking-patch-panels/21653"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

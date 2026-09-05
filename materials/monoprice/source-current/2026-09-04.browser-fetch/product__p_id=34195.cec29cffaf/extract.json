@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Specialty Ceiling Mounted TV Wall Mount Bracket Triple Sided For 32 To 65 TVs up to 66 lbs. each Max VESA 600x400",
+    "@id": "https://www.monoprice.com/product?p_id=34195",
+    "url": "https://www.monoprice.com/product?p_id=34195",
+    "description": "\u00a0Put information or entertainment where people can see it, regardless of wall space with this Triple Sided Ceiling TV Mount Bracket from Monoprice\u2122. Make your content viewable from any point in your facility with this 360\u00b0 digital signage ceiling bracket. Installation is as simple as with a single screen TV mount you put on your wall, though we do recommend only qualified personnel mount large displays in public areas. All hardware is included to mount most flat panel displays from any pitch ceiling. Hang 32\" ~ 65\" TVs* with weights up to 66 lbs. each safely and securely with plenty of space for cable management to keep it looking neat too. Screens can be adjusted from \u00b115\u00b0 and hang 2.62 ~ 10.68 feet from the ceiling. Professional grade quality, variable hardware options included, all at a price that makes sense.Features: Easily mount 3 large TVs for convenient viewing of information or broadcasts from anywhere in the roomNo special hardware or tools required to install multiple displaysSingle column drop hangs screens 2.62 ~ 10.68 feet from ceilingAccommodates any 32\" ~ 65\" TV* weighing up to 66 lbs. each, with 100x100 ~ 600x400 VESA\u00ae mounting patterns*The minimum and maximum display sizes are only approximations. Your TV will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight. Support Files: User's Manual (Jul 10, 2020)Benutzerhandbuch (Deutsche) (Jun 19, 2019)Manuel d'Utilisateur (Fran\u00e7ais) (Jun 19, 2019)Manuale Utente (Italiano) (Jun 19, 2019)Manual del Usuario (Espa\u00f1ol) (Jun 19, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a trademark owned by the Video Electronics Standards Association (VESA\u00ae) in the United States and other countries. Updated Feb 22, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/341951.jpg\",\"https://images.monoprice.com/productlargeimages/341952.jpg\",\"https://images.monoprice.com/productlargeimages/341953.jpg\",\"https://images.monoprice.com/productlargeimages/341954.jpg\",\"https://images.monoprice.com/productlargeimages/341955.jpg\",\"https://images.monoprice.com/productlargeimages/341956.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 249.99,
+      "sku": "34195",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34195",
+      "gtin14": "889028093788"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Specialty Ceiling Mounted TV Wall Mount Bracket Triple Sided For 32 To 65 TVs up to 66 lbs. each Max VESA 600x400",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Digital Signage Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts"
+    },
+    {
+      "name": "34195",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts/34195"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

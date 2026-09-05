@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to USB-B 2.0 Cable - Active 28/24AWG Black 33ft",
+    "@id": "https://www.monoprice.com/product?p_id=7531",
+    "url": "https://www.monoprice.com/product?p_id=7531",
+    "description": "USB 2.0 A Male to B male Active\u00a0 printer Cable is a bus-powered extended length\u00a0cable that can be used to increase the length of a device without\u00a0any signal loss\u00a0or potential performance problems. It contains active electronics which boost the USB signal for maximum reliability and performance over extended distances. It connects your PC to\u00a0any USB device with Type B female port up to 10m(33ft), such as scanners, printers, digital camera and other USB peripherals.\u00a0\u00a0                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/75311.jpg\",\"https://images.monoprice.com/productlargeimages/75312.jpg\",\"https://images.monoprice.com/productlargeimages/75313.jpg\",\"https://images.monoprice.com/productlargeimages/75314.jpg\",\"https://images.monoprice.com/productlargeimages/75315.jpg\",\"https://images.monoprice.com/productlargeimages/75316.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 22.09,
+      "sku": "7531",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7531",
+      "gtin14": "844660075318"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to USB-B 2.0 Cable - Active 28/24AWG Black 33ft",
+      "ratingCount": "193",
+      "reviewCount": "143",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB B Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-b-cables"
+    },
+    {
+      "name": "7531",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-b-cables/7531"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

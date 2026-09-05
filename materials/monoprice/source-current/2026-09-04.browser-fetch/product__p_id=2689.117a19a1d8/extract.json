@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DVI-D Dual Link M1-D(P&D) Male to HDMI Female Adapter (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=2689",
+    "url": "https://www.monoprice.com/product?p_id=2689",
+    "description": "This is an HDMI\u00ae female to M1 male adapter. For use with M1 ports commonly found on InFocus projectors. This adapter will allow you to connect a regular HDMI\u00ae male to male cable to the M1 digital input of your projector.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shownHDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/26891.jpg\",\"https://images.monoprice.com/productlargeimages/26892.jpg\",\"https://images.monoprice.com/productlargeimages/26893.jpg\",\"https://images.monoprice.com/productlargeimages/26894.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "2689",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2689",
+      "gtin14": "844660026891"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DVI-D Dual Link M1-D(P&D) Male to HDMI Female Adapter (Gold Plated)",
+      "ratingCount": "39",
+      "reviewCount": "39",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "HDMI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters"
+    },
+    {
+      "name": "2689",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters/2689"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium Fixed TV Tripod Stand For 45 To 65 TVs up to 70.4lbs Max VESA 400x600",
+    "@id": "https://www.monoprice.com/product?p_id=35375",
+    "url": "https://www.monoprice.com/product?p_id=35375",
+    "description": "Beautiful and elegant are rarely words we use to describe TV mounts. This Easel Stand will give your TV and any living space some old world charm combined with a touch of modern design. This sturdy easel design is capable of supporting televisions weighing up to 77 lbs. and as large as 65\".The single tube mounting design allows you to easily raise and lower your display to the ideal viewing height. The tube mount also has the ability to swivel 360\u00b0 for a TV viewing angle that suits your needs.Integrated cable management ensures that this elegant TV stand is not spoiled with messy wires. Additional safety brackets are included for high traffic areas or rooms.Features:Black Bracket with Walnut Tripod BaseDesigned for 45\" ~ 65\" screen sizes weighing up to 77 lbs. (35 kg)Supports 200x200, 300x200, 300x300, 400x200, 400x300, 400x400, and 600x400 VESA\u00ae patternsSupport Files: User's Manual (Jun 7, 2023)Dimensions Diagram (Nov 27, 2018)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a trademark of the Video Electronics Standards Association. Updated Feb 23, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/353751.jpg\",\"https://images.monoprice.com/productlargeimages/353752.jpg\",\"https://images.monoprice.com/productlargeimages/353753.jpg\",\"https://images.monoprice.com/productlargeimages/353754.jpg\",\"https://images.monoprice.com/productlargeimages/353755.jpg\",\"https://images.monoprice.com/productlargeimages/353756.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 98.99,
+      "sku": "35375",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35375",
+      "gtin14": "889028105658"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium Fixed TV Tripod Stand For 45 To 65 TVs up to 70.4lbs Max VESA 400x600",
+      "ratingCount": "54",
+      "reviewCount": "54",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "TV & Component Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-&-component-stands"
+    },
+    {
+      "name": "35375",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-&-component-stands/35375"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

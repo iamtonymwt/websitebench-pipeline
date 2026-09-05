@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG Gold Plated Black 1.5ft",
+    "@id": "https://www.monoprice.com/product?p_id=5441",
+    "url": "https://www.monoprice.com/product?p_id=5441",
+    "description": "A great value on high performance, USB 2.0 compliant cables.\u00a0 These reliable cables feature Gold Plated Connectors for corrosion resistance and heavy gauge wires for years of reliable use.Compatible with both PC and Apple systems.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/54411.jpg\",\"https://images.monoprice.com/productlargeimages/54412.jpg\",\"https://images.monoprice.com/productlargeimages/54413.jpg\",\"https://images.monoprice.com/productlargeimages/54414.jpg\",\"https://images.monoprice.com/productlargeimages/54415.jpg\",\"https://images.monoprice.com/productlargeimages/54416.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.89,
+      "sku": "5441",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5441",
+      "gtin14": "844660054412"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG Gold Plated Black 1.5ft",
+      "ratingCount": "334",
+      "reviewCount": "57",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-cables"
+    },
+    {
+      "name": "5441",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-cables/5441"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

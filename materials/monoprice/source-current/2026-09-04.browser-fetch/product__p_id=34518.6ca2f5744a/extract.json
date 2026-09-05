@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Decor Insert for Keystone 6-Port White 4x1.4x0.25 w/Screws",
+    "@id": "https://www.monoprice.com/product?p_id=34518",
+    "url": "https://www.monoprice.com/product?p_id=34518",
+    "description": "Keystone D\u00e9cor Insert for use in conjunction with a d\u00e9cor wall plate, gang box, and keystones. Use appropriate keystones to create a nicely finished, professionally installed look for Ethernet networks or home theater interconnects. Eliminate that cluster of wires and hide them behind a wall.\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/345181.jpg\",\"https://images.monoprice.com/productlargeimages/345182.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "34518",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34518",
+      "gtin14": "889028097021"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Decor Insert for Keystone 6-Port White 4x1.4x0.25 w/Screws",
+      "ratingCount": "16",
+      "reviewCount": "5",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystone Wall Plates",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates"
+    },
+    {
+      "name": "34518",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates/34518"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Tripp Lite by Eaton PDU 3.8kW Single-Phase Local Metered Automatic Transfer Switch",
+    "@id": "https://www.monoprice.com/product?p_id=50671",
+    "url": "https://www.monoprice.com/product?p_id=50671",
+    "description": "Tripp Lite Metered ATS / Auto Transfer Switch provides a redundant power option for single-corded network devices. Dual input cords support separate connection to PRIMARY and SECONDARY power sources. The ATS will normally maintain continuous output to all outlets as derived from the primary input cable. If the primary power source becomes unstable or fails altogether, the ATS will switch over to the secondary power source until the primary input is restored and stable. Super-fast switchover between primary and secondary power sources occurs within milliseconds. ATS functionality is supported by any two compatible AC power sources, regardless of phase angle, to support a variety of advanced redundant power networking applications. Enables fault tolerant hot-swappable UPS protection when used with a single UPS and fully redundant UPS protection when each cord is connected to a separate UPS system. In a two-UPS environment, the primary input cable must be supported by a full time sine wave UPS with zero transfer time. Tripp Lite SmartOnline series is highly recommended for use as the primary UPS in a two-UPS application. ATS configurations utilizing separate mains circuits, backup generators and even separate utility power grid feeds are fully supported. On-board ATS processor constantly evaluates power quality on both input sources to prevent transfer to the secondary source when unavailable or of lower quality than the primary source. Front input LED's display primary or secondary power availability.\u00a0Single phase 16/20A 200-240V Auto Transfer Switch / ATS PDUEnables redundant-power option for single-corded network devicesSeparate primary & secondary inputs connect to any two compatible power sources1U horizontal rackmount; 2 C20 inputs; 8 C13 and 2 C19 outletsTwo digit visual current meter; Upgrade options availableFederal Trade Agreements Act / TAA Compliant for GSA Schedule purchasesMiscellaneousPackage ContentsMetered PDUMH20HVAT 10-Outlets PDUUser Manual with Warranty InformationCompatibilityUPS SystemsCountry of OriginTaiwanEnvironmentally FriendlyYesTAA CompliantYesEnvironmental ComplianceRestriction of Hazardous Substances (RoHS)Technical InformationPlug/Connector TypeIEC 60320 C20Receptacle TypeIEC 60320 C13\u00a0IEC 60320 C19Receptacle Detail2 x IEC 60320 C19\u00a08 x IEC 60320 C13Plug/Connector Detail2 x IEC 60320 C20Power DescriptionInput Voltage230 V ACOutput Voltage208 V AC\u00a0200 V AC\u00a0230 V AC\u00a0220 V AC\u00a0240 V ACInput Voltage Range200 V AC - 240 V ACGeneral InformationProduct TypePDUManufacturer Part NumberPDUMH20HVATManufacturer Website Addresshttp://www.eaton.comManufacturerEaton CorporationProduct ModelPDUMH20HVATProduct NameMetered PDUMH20HVAT 10-Outlets PDUProduct SeriesMeteredBrand NameTripp Lite seriesPhysical CharacteristicsWeight (Approximate)10.30 lbMount TypeRack-mountableRack Height1UHeight1.7\"Width17.3\"Depth14\"Product ColorBlackColor FamilyBlack\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/506711.jpg\",\"https://images.monoprice.com/productlargeimages/506712.jpg\",\"https://images.monoprice.com/productlargeimages/506713.jpg\",\"https://images.monoprice.com/productlargeimages/506714.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 520.99,
+      "sku": "50671",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=50671",
+      "gtin14": "889028240892"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Tripp Lite by Eaton PDU 3.8kW Single-Phase Local Metered Automatic Transfer Switch",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Strip Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors"
+    },
+    {
+      "name": "50671",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors/50671"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

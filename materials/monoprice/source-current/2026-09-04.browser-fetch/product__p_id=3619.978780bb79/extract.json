@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Super VGA (SVGA) Extension Cable - M/F CL2 In\u2011Wall Rated Ferrite Cores Gold Plated 50ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=3619",
+    "url": "https://www.monoprice.com/product?p_id=3619",
+    "description": "Despite the introduction of DVI\u2122 and HDMI\u00ae, the common VGA connection is still the primary connection for most computer monitors.This double-shielded extension cable is designed to handle analog VGA and extended VGA resolutions. It features a male DE-15 (aka HD-15 or DB-15) connector on one end and a female DE-15 connector on the other end. The connectors and pins are gold plated for smooth, corrosion-free connections. It includes ferrite cores at each end, which ensure that EMI and RFI interference will not enter your video system.This cable is CL2 rated, which indicates that it complies with fire safety and insurance standards, making it safe for use through or within the walls of residential class buildings.DVI\u2122 is a trademark of the Digital Display Working Group. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Updated Sep 4, 2019 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/36191.jpg\",\"https://images.monoprice.com/productlargeimages/36192.jpg\",\"https://images.monoprice.com/productlargeimages/36193.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 32.69,
+      "sku": "3619",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3619",
+      "gtin14": "844660036197"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Super VGA (SVGA) Extension Cable - M/F CL2 In\u2011Wall Rated Ferrite Cores Gold Plated 50ft Black",
+      "ratingCount": "64",
+      "reviewCount": "16",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "VGA & SVGA Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables"
+    },
+    {
+      "name": "3619",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables/3619"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

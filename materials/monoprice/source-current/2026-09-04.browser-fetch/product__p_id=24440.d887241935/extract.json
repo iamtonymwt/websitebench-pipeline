@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-C to HDMI Cable - 10.8Gbps 4K@30Hz Thunderbolt 4/3 Compatible Black 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=24440",
+    "url": "https://www.monoprice.com/product?p_id=24440",
+    "description": "Monoprice\u2122USB\u2011C\u2122 to HDMI\u00ae Cable \u2011 4K@30Hz, EMF ShieldedDesigned for performance and reliability, this USB\u2011C\u2122 to HDMI\u00ae cable is the ideal solution for connecting your laptop or USB\u2011C\u2122 device to an HDMI\u00ae display. Whether you're mirroring your screen or expanding your desktop workspace, this cable delivers crisp 4K resolution at 30Hz with true plug\u2011and\u2011play simplicity\u2011no drivers or software required.Built to meet the demands of modern AV setups, the cable features a reversible USB\u2011C\u2122 connector compatible with Thunderbolt\u2122 3 and Thunderbolt\u2122 4 ports, ensuring broad device support and seamless integration.Supports resolutions up to 3840x2160p @30HzUSB\u2011C\u2122 and Thunderbolt\u2122 3/4 compatiblePlug & Play \u2011 no drivers or software requiredDurable construction for long\u2011term useInternal structure includes 8 twisted pairs (7 with ground wires) and 3 single wiresAll conductors made of tinned copper for enhanced conductivity and corrosion resistanceTriple\u2011layer shielding: mylar wrap, aluminum foil shield, and copper foil shieldEMF shielding minimizes interference for stable, high\u2011quality signal transmissionHDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. USB Type-C\u2122 and USB-C\u2122 is a trademark of USB Implementers Forum, Inc. Thunderbolt\u2122, Thunderbolt\u2122 3, and the Thunderbolt logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/244401.jpg\",\"https://images.monoprice.com/productlargeimages/244402.jpg\",\"https://images.monoprice.com/productlargeimages/244403.jpg\",\"https://images.monoprice.com/productlargeimages/244404.jpg\",\"https://images.monoprice.com/productlargeimages/244405.jpg\",\"https://images.monoprice.com/productlargeimages/244406.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "24440",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24440",
+      "gtin14": "889028055786"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-C to HDMI Cable - 10.8Gbps 4K@30Hz Thunderbolt 4/3 Compatible Black 3ft",
+      "ratingCount": "67",
+      "reviewCount": "29",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "24440",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/24440"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

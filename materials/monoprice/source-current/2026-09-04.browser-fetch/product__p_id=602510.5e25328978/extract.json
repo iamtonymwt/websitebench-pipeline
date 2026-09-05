@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Microphone Stand with Hand-Clutch & Solid Base",
+    "@id": "https://www.monoprice.com/product?p_id=602510",
+    "url": "https://www.monoprice.com/product?p_id=602510",
+    "description": "Seamlessly adjust the height of your microphone with this Microphone Stand with Hand-Clutch from Monoprice.This microphone stand was designed with you in mind and is built the quality you have come to expect from Monoprice. It features a solid round base that measures 9.6\" in diameter for excellent stability. It also features a convenient hand-clutch for one-handed adjustment. Using the hand-clutch the stand can be easily adjusted from a collpased height of 35\" all the way up to 58\".Microphone clip sold separately.                        Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6025101.jpg\",\"https://images.monoprice.com/productlargeimages/6025102.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 46.99,
+      "sku": "602510",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=602510",
+      "gtin14": "757901804403"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Microphone Stand with Hand-Clutch & Solid Base",
+      "ratingCount": "39",
+      "reviewCount": "39",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Instrument Stands & Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories"
+    },
+    {
+      "name": "Microphone Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands"
+    },
+    {
+      "name": "602510",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands/602510"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10ft Premier Series XLR Female to 1/4in TRS Male Cable 16AWG (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=4770",
+    "url": "https://www.monoprice.com/product?p_id=4770",
+    "description": "                    Monoprice\u2122 Professional Audio cables bring you high performance cables at rock bottom prices. Whether you're connecting broadcast equipment, instruments for your band, or your high end entertainment system, Monoprice has the interconnect cables for you.                    Balanced audio cables utilize impedance balanced lines that reduce EM and RF noise and extend the effective range of the cable run. Additionally, unlike standard unbalanced RCA interconnects that utilizes their braid as a signal return, balanced cables have a separate braided shield to provide additional resistance to interference, without modulating the interference into the signal. This prevents ground loop issues.                    XLR to 1/4\" TRS balanced pro audio cables provide high fidelity and eliminate noise in the recording studio and on the stage. Our new Premier Series cables up the ante in terms of construction quality and performance.                              Features:                            16AWG Stranded Copper Wire Conduits        97.5% Shielded Balanced Connections        Gold Plated Connectors        Metallic Graphite Colored Connector Housings        Molded Strain Relief Boots                                                                                                                                                          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice.          Updated Jun 15, 2021                            ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/47701.jpg\",\"https://images.monoprice.com/productlargeimages/47702.jpg\",\"https://images.monoprice.com/productlargeimages/47703.jpg\",\"https://images.monoprice.com/productlargeimages/47704.jpg\",\"https://images.monoprice.com/productlargeimages/47705.jpg\",\"https://images.monoprice.com/productlargeimages/47706.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 16.99,
+      "sku": "4770",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4770",
+      "gtin14": "844660047704"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10ft Premier Series XLR Female to 1/4in TRS Male Cable 16AWG (Gold Plated)",
+      "ratingCount": "208",
+      "reviewCount": "28",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "4770",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/4770"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

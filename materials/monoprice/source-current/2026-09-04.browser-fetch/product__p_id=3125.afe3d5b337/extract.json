@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Q1338X (HP 38X) Remanufactured Laser Toner Cartridge for HP 4200 4200n 4200tn 4200dtn printers",
+    "@id": "https://www.monoprice.com/product?p_id=3125",
+    "url": "https://www.monoprice.com/product?p_id=3125",
+    "description": "Part Number: Q1338X, HP38X Page Yield: 20,000 pages Hewlett Packard - LaserJet Series LaserJet 4200LaserJet 4200dtnLaserJet 4200dtnsLaserJet 4200dtnslLaserJet 4200nLaserJet 4200tn",
+    "image": "[\"https://images.monoprice.com/productlargeimages/31251.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 75.99,
+      "sku": "3125",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3125",
+      "gtin14": "844660031253"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Q1338X (HP 38X) Remanufactured Laser Toner Cartridge for HP 4200 4200n 4200tn 4200dtn printers",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "Printers & Accessories",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/printers-&-accessories"
+    },
+    {
+      "name": "Toner Cartridges",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/printers-&-accessories/toner-cartridges"
+    },
+    {
+      "name": "3125",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/printers-&-accessories/toner-cartridges/3125"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

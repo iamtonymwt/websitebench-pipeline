@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice AtlasFlex Series Durable USB 2.0 USB-C to USB-A Charge & Sync Reinforced Nylon-Braid Cable 1.5ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=31202",
+    "url": "https://www.monoprice.com/product?p_id=31202",
+    "description": "Monoprice AtlasFlex\u2122 - the strongest cable you will ever need.Monoprice AtlasFlex\u2122 cables are built to outlast and outperform every cable that's come before. Each cable is fitted with reinforced, robust aluminum connectors to withstand any and all bends, drops, pulls, and mishaps. Along with a 3A/60W charging speed to keep your devices charged faster. The long flexible strain reliefs are designed to last, flexible enough to bend and turn under stress and long enough to handle odd angles. The colorful nylon-braided cables are internally reinforced to withstand more than 50,000 bends, twists, and turns. Monoprice AtlasFlex - the strongest cable you will ever need.\u00a0USB-C\u00ae ConnectorHigh-Strength Aluminum ConnectorsResilient and Flexible Strain ReliefsNylon Reinforced CableUSB-C\u00ae Connector: The reversible USB-C\u00ae connector is always properly oriented, eliminating a common source of frustration from trying to plug in improperly oriented USB-A connectors.High-Strength Aluminum Connectors: Designed to withstand forces up to 30 lbf (130N), these aluminum connectors were engineered to defy the rigors of odd bends and strains. It will take a force greater than 130N to get these connectors to even begin to bend.Resilient and Flexible Strain Reliefs: Built with repeated use in mind, these cables have longer and more flexible strain reliefs than traditional cables to ensure that the point where the cable meets the connector does not fail.Nylon Reinforced Cable: Tested to last over 50,000 bends, the nylon-wrapped, reinforced cable allows for heavy use without any connection issues or failures. Despite twists, tweaks, or turns, these cables will never let up.\u00a0\u00a0 \u00a0Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice\u2122 exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0\u00a0Support Files: Tech Drawing (Dec 14, 2025)\u00a0AtlasFlex\u2122 is a trademark of Monoprice Inc.USB-C\u00ae and USB-C\u00ae are trademarks of USB Implementers Forum, Inc.Updated Nov 27, 2024 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/312021.jpg\",\"https://images.monoprice.com/productlargeimages/312022.jpg\",\"https://images.monoprice.com/productlargeimages/312023.jpg\",\"https://images.monoprice.com/productlargeimages/312024.jpg\",\"https://images.monoprice.com/productlargeimages/312025.jpg\",\"https://images.monoprice.com/productlargeimages/312026.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.19,
+      "sku": "31202",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=31202",
+      "gtin14": "889028079126"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice AtlasFlex Series Durable USB 2.0 USB-C to USB-A Charge & Sync Reinforced Nylon-Braid Cable 1.5ft Black",
+      "ratingCount": "314",
+      "reviewCount": "18",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "31202",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/31202"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium 3.5mm AUX Cable - TRS Stereo Male-to-Male 22AWG Gold Plated 3ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=5576",
+    "url": "https://www.monoprice.com/product?p_id=5576",
+    "description": "The 3.5mm (1/8\") stereo TRS connector is more commonly known as the Headphone Jack on portable mp3 players and mobile phones. This cable features a male 3.5mm stereo (TRS) plug on each end, with molded connector housings and strain relief boots. Each connector is gold-plated to ensure smooth, corrosion-free connections.The cable is made of heavy-duty coaxial cable for each conductor. The conductors are 22AWG and each conductor is shield to prevent EMI or RFI interference from entering your audio system. The cable is 12mm x 6mm thick, while the connector housings are 41mm long x 15mm diameter.Because of their size and weight, these cables are best suited for more permanent connections, such as from your PC to your sound system. Also, because of the size of the connector head, these are unsuited for use with phone cases and may not fit within the expansion slot cutouts on the back of a PC case. If you want something more suitable for these applications, please try one of our standard 3.5mm audio cables.Support Files: Spec Sheet (Oct 31, 2024)Monoprice\u00e2\u201e\u00a2 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jun 1, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/55761.jpg\",\"https://images.monoprice.com/productlargeimages/55762.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.59,
+      "sku": "5576",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5576",
+      "gtin14": "844660055761"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium 3.5mm AUX Cable - TRS Stereo Male-to-Male 22AWG Gold Plated 3ft Black",
+      "ratingCount": "1095",
+      "reviewCount": "333",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "5576",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/5576"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

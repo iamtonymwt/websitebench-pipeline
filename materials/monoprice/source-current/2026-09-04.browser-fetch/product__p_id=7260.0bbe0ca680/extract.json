@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 24-port Keystone Jack Panel",
+    "@id": "https://www.monoprice.com/product?p_id=7260",
+    "url": "https://www.monoprice.com/product?p_id=7260",
+    "description": "This keystone panel fits into a standard 19\" wide equipment rack and measures 1U tall (1.75\"). It accommodates up to 24 individual keystones, allowing you to build a custom patch panel with network, audio, and/or video connections. The panel is constructed of black painted steel. Each port is individually numbered.Support Files: Technical Specs (Apr 10, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 24, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72601.jpg\",\"https://images.monoprice.com/productlargeimages/72602.jpg\",\"https://images.monoprice.com/productlargeimages/72603.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "7260",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7260",
+      "gtin14": "844660072607"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 24-port Keystone Jack Panel",
+      "ratingCount": "102",
+      "reviewCount": "90",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels"
+    },
+    {
+      "name": "Keystone Jack Panel",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/keystone-jack-panel"
+    },
+    {
+      "name": "7260",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/keystone-jack-panel/7260"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

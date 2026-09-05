@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cable Tie Mounts 25x25 mm 100 pcs/pack White",
+    "@id": "https://www.monoprice.com/product?p_id=5860",
+    "url": "https://www.monoprice.com/product?p_id=5860",
+    "description": "These high quality adhesive backed cable tie mounts are perfect for any application where a cable needs to be securely mounted without damaging the mounting surface. Just peel the covering off of the adhesive backing, stick the mount to the mounting surface, thread your cable tie through, zip it shut around the cable, and your cable is firmly mounted. Need to remove the mount? Gently peel the adhesive material from the mounting surface and it will break free without damaging the surface.It is a great solution for securing cables to the back of televisions and home theater equipment, running cabling along the wall, running cabling along the roof (indoors), and under desks and tables. It can be stuck to any flat, hard mounting surface with ease and will hold your cables firmly and securely. The opening is 6.2mm.Updated Aug 26, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/58601.jpg\",\"https://images.monoprice.com/productlargeimages/58602.jpg\",\"https://images.monoprice.com/productlargeimages/58603.jpg\",\"https://images.monoprice.com/productlargeimages/58604.jpg\",\"https://images.monoprice.com/productlargeimages/58605.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 4.99,
+      "sku": "5860",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5860",
+      "gtin14": "844660058601"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cable Tie Mounts 25x25 mm 100 pcs/pack White",
+      "ratingCount": "85",
+      "reviewCount": "36",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Cable Management",
+      "url": "https://www.monoprice.com/category/networking/cable-management"
+    },
+    {
+      "name": "Cable Tie Mounts",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-tie-mounts"
+    },
+    {
+      "name": "5860",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-tie-mounts/5860"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

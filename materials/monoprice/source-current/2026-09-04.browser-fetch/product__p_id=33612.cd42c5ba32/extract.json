@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13 18AWG 10A/1250W 3-Prong SJT Red 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=33612",
+    "url": "https://www.monoprice.com/product?p_id=33612",
+    "description": "Extend the reach of your AC powered device using this AC power extension cord to energize equipment from a distant power outlet. This cable features a standard, grounded IEC 60320 C14 plug on one end and an IEC 60320 C13 receptacle on the other. IEC 60320 C14 to C13 power cords are commonly used between rack mounted equipment and the PDU in a data cabinet. This cable is designed to carry up to a 10 amp/1250 watt, 125 volt load.Features: Recommended for powering computers, monitors, and other essential peripheralsExtend the length of an existing power cord for more flexibilityConnect devices, such as computers, servers, and monitors to a PDU or UPS in data centerColored cord is designed for easy identification in a high\u2011density data environment\u00a0Plug\u00a0TypeIEC 60320 C14Receptacle\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialSVT, SJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18 AWGMaximum\u00a0Current10 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. CSA\u00ae is a registered trademark of the CSA Group. Updated Sep 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/336121.jpg\",\"https://images.monoprice.com/productlargeimages/336122.jpg\",\"https://images.monoprice.com/productlargeimages/336123.jpg\",\"https://images.monoprice.com/productlargeimages/336124.jpg\",\"https://images.monoprice.com/productlargeimages/336125.jpg\",\"https://images.monoprice.com/productlargeimages/336126.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "33612",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33612",
+      "gtin14": "889028087947"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13 18AWG 10A/1250W 3-Prong SJT Red 3ft",
+      "ratingCount": "61",
+      "reviewCount": "0",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "33612",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/33612"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

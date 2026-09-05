@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 Pro HDBaseT Lite Video Extender Kit up to 70m with IR PoC RS-232 HDCP 2.2",
+    "@id": "https://www.monoprice.com/product?p_id=21609",
+    "url": "https://www.monoprice.com/product?p_id=21609",
+    "description": "This Blackbird\u2122 4K Pro HDBaseT\u2122 Extender Kit allows you to extend High Speed HDMI\u00ae signals using a single Cat6 Ethernet cable. It supports extension of 4K@60Hz video to distances up to 115 feet (35 meters) and 1080p video to distances up to 230 feet (70 meters). It delivers 10.2Gbps bandwidth and is compliant with HDCP\u2122 2.2. It supports the Power over Cable (PoC) feature, which uses the Cat6 cable to deliver power to either the transmitter or receiver, so it can be installed without the need for a nearby AC power outlet.\u00a0     \u00a0Pick The Perfect Blackbird HDBaseT Extender Kit That Fits Your Needs.comp-img {max-height: 300px}.comp-copy-col {background-color:#F1F1F1}\u00a0    P/N4109744567216692160821792216094K@60Hz Transmission Distance394 feet (120m)328 feet (100m)328 feet (100m)229 feet (70m)229 feet (70m)115 feet (35m)1080p@60Hz Transmission Distance492 feet (150m)492 feet (150m)328 feet (100m)328 feet (100m)328 feet (100m)220 feet (70m)HDR SupportYesNoNoNoYesNoPower over CablePoCN/APoCPoHPoHPoCIR and RS\u2011232 Pass\u2011ThroughYesN/AYesYesYesYesHDCP 2.2YesYesYesYesYesYes3 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 3 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Jun 12, 2017)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDBaseT\u2122 and the HDBaseT Alliance logo are trademarks of the HDBaseT Alliance. HDCP\u2122 is a trademark of Digital Content Protection LLC. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Blu\u2011ray Disc\u2122 and Blu\u2011ray\u2122 are trademarks of the Blu\u2011ray Disc Association. Updated Nov 18, 2021 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/216091.jpg\",\"https://images.monoprice.com/productlargeimages/216092.jpg\",\"https://images.monoprice.com/productlargeimages/216093.jpg\",\"https://images.monoprice.com/productlargeimages/216094.jpg\",\"https://images.monoprice.com/productlargeimages/216095.jpg\",\"https://images.monoprice.com/productlargeimages/216096.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 119.99,
+      "sku": "21609",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21609",
+      "gtin14": "889028049310"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 Pro HDBaseT Lite Video Extender Kit up to 70m with IR PoC RS-232 HDCP 2.2",
+      "ratingCount": "40",
+      "reviewCount": "40",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "HDBaseT",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset"
+    },
+    {
+      "name": "21609",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset/21609"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

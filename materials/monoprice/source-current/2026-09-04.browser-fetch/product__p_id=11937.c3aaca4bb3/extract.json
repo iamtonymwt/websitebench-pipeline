@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Wire Flat CL2 Rated 2-Conductor 16AWG 250ft",
+    "@id": "https://www.monoprice.com/product?p_id=11937",
+    "url": "https://www.monoprice.com/product?p_id=11937",
+    "description": "Connect your speakers using this easy-to-route, 16AWG Pure Copper Flat Speaker Wire from Monoprice!This speaker wire comes in a flat package, which is easier to route in and around stereo equipment racks, corners, and other equipment than ordinary round speaker wire. It features cable markings on one of the two conductors and has an overall size of 12.4 x 2.0 mm. The PVC jacket is CL2 rated, making it safe for routing within and through the walls of residential class buildings.Support Files: Tech Drawing (Mar 10, 2026)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/119371.jpg\",\"https://images.monoprice.com/productlargeimages/119372.jpg\",\"https://images.monoprice.com/productlargeimages/119373.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 125.29,
+      "sku": "11937",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=11937",
+      "gtin14": "757901819919"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Wire Flat CL2 Rated 2-Conductor 16AWG 250ft",
+      "ratingCount": "51",
+      "reviewCount": "8",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "11937",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/11937"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

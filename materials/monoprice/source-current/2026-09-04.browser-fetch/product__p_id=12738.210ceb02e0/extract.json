@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 4K High Speed HDMI Cable - 4K@24Hz 10.2 Gbps CL2 In-Wall Rated Active 60ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=12738",
+    "url": "https://www.monoprice.com/product?p_id=12738",
+    "description": "Monoprice's Ultra Series Active High Speed HDMI\u00ae Cable features the next generation of active HDMI cable technology. It delivers 10.2 Gbps bandwidth and it supports Ultra HD HDMI video transmissions with video resolutions up to 4K@24Hz with YUV 4:2:0 chroma sampling. Ultra Series Active now supports the latest in high resolution performance and HDCP\u2122 2.2 compliance.This High Speed HDMI Cable supports the following general features: Lengths 60ft \u2013 100ftThis cable supports HDMI\u00ae video resolutions up to 4K@24Hz, bandwidth up to 10.2 Gbps, and YUV 4:2:0 chroma samplingIt supports the following HDMI features: HDCP\u2122 2.2 Compliant: High-bandwidth Digital Content Protection (HDCP) is a copy prevention technology that's been used on HDMI\u00ae connections for over ten years. Compliance with the latest HDCP 2.2 format ensures that the cable will not cause any unwanted dropouts or compatibility issues.Delivers up to 10.2 Gbps data bandwidthCompliant with HDCP 2.2CL2 fire safety ratingFeatures Spectra7\u00ae (formerly RedMere\u00ae) HT8181 Active Chipset TechnologyEMI verified for minimal interference with wireless signalsSupports up to 32 audio channels with ARC for an immersive audio experienceSupport for wide angle theatrical 21:9 aspect ratioDeep Color up to 16 bits per channelAuto equalizationFuture proofs 4K Ultra HD environments\u00a0Monoprice\u2122, Cabernet\u2122, and all Monoprice trademarks are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Dolby\u00ae, Dolby Vision\u2122, and the double-D symbol are trademarks of Dolby Laboratories. Spectra7\u00ae and RedMere\u00ae are registered trademarks of Spectra7 Microsystems, Inc. Updated Sep 16, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/127381.jpg\",\"https://images.monoprice.com/productlargeimages/127382.jpg\",\"https://images.monoprice.com/productlargeimages/127383.jpg\",\"https://images.monoprice.com/productlargeimages/127384.jpg\",\"https://images.monoprice.com/productlargeimages/127385.jpg\",\"https://images.monoprice.com/productlargeimages/127386.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 101.49,
+      "sku": "12738",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12738",
+      "gtin14": "889028007563"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 4K High Speed HDMI Cable - 4K@24Hz 10.2 Gbps CL2 In-Wall Rated Active 60ft Black",
+      "ratingCount": "95",
+      "reviewCount": "42",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables"
+    },
+    {
+      "name": "12738",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables/12738"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,294 @@
+header {
+    height: 63px !important;
+}
+
+header,
+span {
+    font-size: 100%;
+    margin: 0;
+
+}
+
+div.layout,
+div#page-content,
+div#page-content>.row .row {
+    width: 100% !important;
+    min-width: 0 !important;
+}
+
+.row {
+    display: block;
+}
+
+ul.info-points {
+    list-style: disc;
+    margin: auto;
+    line-height: 1.8em;
+    padding: 10px;
+}
+
+li {
+    font-size: 16px;
+}
+
+img.mp-page_hero {
+    width: 100% !important
+}
+
+div.product>div>div {
+    text-align: center;
+}
+
+.text-center {
+    display: flex;
+    align-items: center;
+}
+
+.lp-midtext {
+    font-size: 18px;
+    padding: 10px;
+}
+
+.lp-midtext p.head-par {
+    padding: 10px 0;
+    text-align: left;
+}
+
+.product .desc {
+    text-align: center;
+    margin: 0 auto 10px auto;
+    padding: 15px !important;
+}
+
+.product .desc a {
+    color: #383838;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 12px;
+}
+
+.product .desc a:hover {
+    color: #00a7bb;
+}
+
+.product .now {
+    color: #181818;
+    font-size: 180%;
+    font-weight: 600;
+    line-height: .8em;
+    padding-right: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.product .image {
+    width: 100%;
+}
+
+.product .image>a {
+    width: 140px;
+    margin: 0 auto;
+    display: block;
+}
+
+.product .desc {
+    display: block;
+    display: -webkit-box;
+    max-width: 320px;
+    margin: 0 auto;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0;
+}
+
+div.pricing .compare {
+    display: none;
+}
+
+.vert-align-mid {
+    display: flex;
+    align-items: center;
+}
+
+.now.col span {
+    background: none;
+    width: 100%;
+    color: #181818;
+    position: relative;
+    top: -3px
+}
+
+.product .pricing~.pricing span {
+    padding: 5px;
+    line-height: 12px;
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+    top: -250px;
+    right: 0;
+    width: 80px;
+    border-top: 3px solid #0098aa;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #00a7bb;
+}
+
+.layout .span-1-of-4 {
+    height: 330px;
+}
+
+.pricing {
+    height: 0px !important;
+}
+
+.product .pricing {
+    display: block;
+    position: relative;
+    text-align: left;
+    width: 100%;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+
+.product {
+    padding: 25px 0 45px 0
+}
+
+.free-tag {
+    margin: 5px auto;
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    background-color: #e8e8e8;
+    margin: auto;
+    padding: 0;
+    border: none;
+}
+
+.layout {
+    min-width: 0
+}
+
+.cat_bkg {
+    margin-top: 20px;
+}
+
+.product_bkg {
+    margin-top: auto;
+}
+
+.cat_bkg img {
+    max-width: 100%;
+    padding-bottom: 20px;
+    display: block;
+    margin: 0px auto;
+}
+
+.section-head h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.product_bkg p {
+    padding: 5px 0;
+    text-align: center;
+    font-size: 16px;
+    color: #383838;
+    line-height: 1.5em;
+}
+
+.head-par {
+    color: #2C3E50;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    font-size: 16px;
+}
+
+p.shop-btn-teal {
+    background-color: #00a7bb;
+    border-radius: 2px;
+    width: 200px;
+    margin: 10px auto;
+    color: #ffffff;
+    padding: 6px 30px;
+    text-align: center;
+}
+
+p.shop-btn-teal:hover {
+    background-color: #0098aa;
+}
+
+.product_bkg h3 {
+    padding: 5px 5px 0px 2px;
+}
+
+.content-block-prod {
+    padding: 20px 0;
+}
+
+.landing-content prod-img {
+    max-width: 600px;
+}
+
+.vert-align-mid {
+    display: flex;
+    align-items: center;
+}
+
+.vert-align-top {
+    display: flex;
+    align-items: flex-start;
+}
+
+.vert-align-bot {
+    display: flex;
+    align-items: flex-end;
+}
+
+@media screen and (max-width: 992px) {
+    .lp-midtext {
+        padding: 10px 120px;
+    }
+
+    .vert-align-mid,
+    .vert-align-top,
+    .vert-align-bot {
+        display: block;
+    }
+
+    h2.desc-title {
+        margin: 0 !important;
+    }
+
+    .section-head h2 {
+        padding-top: 0;
+    }
+
+}
+
+@media screen and (max-width: 481px) {
+    .col-xs-12 {
+        padding: 0 5px !important;
+    }
+
+    .container {
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+
+    .section-head h2 {
+        font-size: 22px;
+    }
+
+    .product_bkg p {
+        text-align: left;
+    }
+
+}

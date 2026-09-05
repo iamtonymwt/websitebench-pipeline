@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB-A to Micro B Cable 2.4A 22/30AWG Black 0.5ft",
+    "@id": "https://www.monoprice.com/product?p_id=13919",
+    "url": "https://www.monoprice.com/product?p_id=13919",
+    "description": "Monoprice\u2122Select Series USB\u2011A to Micro B Cable2.4A, 22/30AWG, Black, 0.5ftStay connected seamlessly and power up your devices with the Monoprice Select Series USB\u2011A to Micro USB\u2011B Cable 2.4A, 22/30AWG. Whether you're at home, in the office, or on the go, this cable ensures reliable connectivity for charging from any USB power source or syncing your music, photos, and other files by plugging into your computer.Experience the convenience of fast charging and efficient data transfer with this cable, boasting a maximum charging current of 2.4A (12W) and a data transfer speed of up to 480Mbps. Say goodbye to long charging times and slow data transfers as this cable ensures your devices are powered up quickly and your files are transferred swiftly.Constructed with durable polycarbonate connector heads, this cable is built to withstand the rigors of daily use, offering extra durability and reliability. The robust construction ensures that the cable can withstand the wear and tear of daily use, providing a long\u2011lasting solution for all your charging and syncing needs.With the Monoprice Select Series USB\u2011A to Micro USB\u2011B Cable, you can enjoy peace of mind knowing that your devices will stay connected and powered up whenever you need them, making it an essential accessory for your digital lifestyle.\u00a0STAY CONNECTEDCharge your device from any USB power source or sync your music and photos by plugging it into your computer.\u00a0FAST CHARGING AND DATA\u2011SYNCProvides maximum charging current of 2.4A (12W) and 480Mbps data transfer speed.\u00a0POLYCARBONATE CONNECTOR HEADSThe molded polycarbonate connector heads are extra durable and capable of withstanding the wear and tear of daily use.\u00a0Available ColorsBlue, Black and WhiteAvailable Lengths0.5, 3, 6, 10, and 15 feet\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 22, 2023 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/139191.jpg\",\"https://images.monoprice.com/productlargeimages/139192.jpg\",\"https://images.monoprice.com/productlargeimages/139193.jpg\",\"https://images.monoprice.com/productlargeimages/139194.jpg\",\"https://images.monoprice.com/productlargeimages/139195.jpg\",\"https://images.monoprice.com/productlargeimages/139196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "13919",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13919",
+      "gtin14": "889028019795"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB-A to Micro B Cable 2.4A 22/30AWG Black 0.5ft",
+      "ratingCount": "666",
+      "reviewCount": "39",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "Micro USB Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables"
+    },
+    {
+      "name": "13919",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables/13919"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

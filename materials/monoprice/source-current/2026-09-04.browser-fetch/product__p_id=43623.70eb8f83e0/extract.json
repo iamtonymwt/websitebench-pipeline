@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 4x4 Video Matrix with HDMI plus Auto Downscaling Supports HDCP 2.2 YCbCr 444 IR",
+    "@id": "https://www.monoprice.com/product?p_id=43623",
+    "url": "https://www.monoprice.com/product?p_id=43623",
+    "description": "The Monoprice\u2122 Blackbird\u2122 4K 4x4 HDMI\u00ae Matrix is a high performance HDMI\u00ae Matrix that allows up to four HDMI video sources (e.g., cable and satellite receivers, gaming console, etc.) to be shown on up to four displays simultaneously. It supports resolutions up to 4K@60Hz and delivers 18Gbps of video bandwidth. With EDID\u00ae management, 4K to 1080p downscaling, and support for popular multichannel audio formats, you can be assured of a solid and flexible HDMI audio video distribution.Features: Independently distributes any of up to four HDMI\u00ae video sources to up to four HDMI displaysSupports video resolutions up to 4K@60Hz with YCbCr 4:4:4 color space, including 4K@30Hz and 1080p@60HzComplies with the HDMI 2.0 and HDCP\u2122 2.2/1.x standardsDelivers up to 18Gbps video bandwidthSupports EDID\u00ae management using a 4\u2011position DIP switchSupports independent 4K to 1080p downscaling for greater flexibility when using 1080p displaysSupports HDR, HDR10, HDR10+, and Dolby Vision\u2122 passthroughSupports multichannel audio, including LPCM 7.1, Dolby TrueHD\u2122, DTS\u2011HD Master Audio\u2122, Dolby\u00ae 5.1, and DTS\u00ae 5.1Includes a multifunction IR remote controlSupport Files: User's Manual (Apr 09, 2024)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Dolby\u00ae, Dolby\u00ae TrueHD\u2122, Dolby Vision\u2122, Dolby Audio\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. DTS\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc. DTS\u2011HD\u2122 and DTS\u2011HD Master Audio\u2122 are trademarks of DTS, Inc. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. HDCP\u2122 is a trademark of Digital Content Protection LLC. Updated Nov 17, 2021 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/436231.jpg\",\"https://images.monoprice.com/productlargeimages/436232.jpg\",\"https://images.monoprice.com/productlargeimages/436233.jpg\",\"https://images.monoprice.com/productlargeimages/436234.jpg\",\"https://images.monoprice.com/productlargeimages/436235.jpg\",\"https://images.monoprice.com/productlargeimages/436236.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 229.99,
+      "sku": "43623",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=43623",
+      "gtin14": "889028179888"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 4x4 Video Matrix with HDMI plus Auto Downscaling Supports HDCP 2.2 YCbCr 444 IR",
+      "ratingCount": "9",
+      "reviewCount": "9",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Matrix",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix"
+    },
+    {
+      "name": "43623",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix/43623"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Extra Wide Non-slip High Precision Keyboard and Mouse Pad 36x12 inches 3mm Thick",
+    "@id": "https://www.monoprice.com/product?p_id=33819",
+    "url": "https://www.monoprice.com/product?p_id=33819",
+    "description": "This extra wide mouse pad measures 36\" x 12\" and provides a high precision work surface to get the highest performance and accuracy from your computer mouse. It is big enough to allow a keyboard and other input devices to be placed close together on the same surface for maximum comfort, preventing uneven and wobbly desk setups. The edges are lock-stitched to resist fraying and curling and to extend the useful life.Features: Large surface can fit your mouse and keyboardPrecision microfiber surface and antislip rubber bottom3mm thick material with edge stitching\u00a0Support Files: Dimensions Diagram (Aug 14, 2018)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 4, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/338191.jpg\",\"https://images.monoprice.com/productlargeimages/338192.jpg\",\"https://images.monoprice.com/productlargeimages/338193.jpg\",\"https://images.monoprice.com/productlargeimages/338194.jpg\",\"https://images.monoprice.com/productlargeimages/338195.jpg\",\"https://images.monoprice.com/productlargeimages/338196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.99,
+      "sku": "33819",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33819",
+      "gtin14": "889028090015"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Extra Wide Non-slip High Precision Keyboard and Mouse Pad 36x12 inches 3mm Thick",
+      "ratingCount": "9",
+      "reviewCount": "9",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Furniture",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture"
+    },
+    {
+      "name": "Desk Organizers",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desk-organizers"
+    },
+    {
+      "name": "33819",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desk-organizers/33819"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

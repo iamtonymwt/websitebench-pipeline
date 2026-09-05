@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird IR Blaster for PID 21609 Blackbird 4K HDBaseT Kit",
+    "@id": "https://www.monoprice.com/product?p_id=27220",
+    "url": "https://www.monoprice.com/product?p_id=27220",
+    "description": "This 12V Monoprice IR Kit includes a 5ft IR blaster and a 5ft IR receiver for extending remote control reception.Blackbird\u2122 is a trademark of Monoprice Inc. HDBaseT\u2122 and the HDBaseT Alliance logo are trademarks of the HDBaseT Alliance. \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/272201.jpg\",\"https://images.monoprice.com/productlargeimages/272202.jpg\",\"https://images.monoprice.com/productlargeimages/272203.jpg\",\"https://images.monoprice.com/productlargeimages/272204.jpg\",\"https://images.monoprice.com/productlargeimages/272205.jpg\",\"https://images.monoprice.com/productlargeimages/272206.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "27220",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=27220",
+      "gtin14": "889028061800"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird IR Blaster for PID 21609 Blackbird 4K HDBaseT Kit",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "3.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "HDBaseT",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset"
+    },
+    {
+      "name": "27220",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset/27220"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

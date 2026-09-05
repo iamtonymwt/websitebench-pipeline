@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB 2.0 A Female/B Male Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=364",
+    "url": "https://www.monoprice.com/product?p_id=364",
+    "description": "This coupler features a female USB A type connector at one end and a male USB B type connector at the other end. This is useful if you have only a USB A M/M cable available and need to connect to a device that uses USB B. It is compatible with USB 2.0 and backwards compatible with USB 1.0/1.1 connections.Note that the maximum reliable length for standard USB cables is about 15 feet. If you need to extend USB longer than that, we recommend the use of one of our Active USB Extender Cables.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/3641.jpg\",\"https://images.monoprice.com/productlargeimages/3642.jpg\",\"https://images.monoprice.com/productlargeimages/3643.jpg\",\"https://images.monoprice.com/productlargeimages/3644.jpg\",\"https://images.monoprice.com/productlargeimages/3645.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 4.99,
+      "sku": "364",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=364",
+      "gtin14": "844660003649"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB 2.0 A Female/B Male Adapter",
+      "ratingCount": "10",
+      "reviewCount": "10",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "364",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/364"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

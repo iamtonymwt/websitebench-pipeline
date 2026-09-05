@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice UL Power Cord Splitter - NEMA 5-15P to 2x NEMA 5-15R 14AWG 15A/1875W 3-Prong Black 1.2ft",
+    "@id": "https://www.monoprice.com/product?p_id=5309",
+    "url": "https://www.monoprice.com/product?p_id=5309",
+    "description": "This Y\u2011splitter power cord allows you to easily and conveniently plug two devices into a single power outlet. It provides more flexibility than a power strip, with just the right amount of connections. The three\u2011prong NEMA\u00ae 5\u201115 design makes it safe for your grounded power connections. This 14 AWG cable is designed to carry up to a 15 amp/1875 watt, 125 volt load.Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0Type2x NEMA 5\u201115RJacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge14AWGMaximum\u00a0Current15 ampsCertificationsUL\u00ae, cUL, CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jul 13, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/53091.jpg\",\"https://images.monoprice.com/productlargeimages/53092.jpg\",\"https://images.monoprice.com/productlargeimages/53093.jpg\",\"https://images.monoprice.com/productlargeimages/53094.jpg\",\"https://images.monoprice.com/productlargeimages/53095.jpg\",\"https://images.monoprice.com/productlargeimages/53096.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "5309",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5309",
+      "gtin14": "844660053095"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice UL Power Cord Splitter - NEMA 5-15P to 2x NEMA 5-15R 14AWG 15A/1875W 3-Prong Black 1.2ft",
+      "ratingCount": "122",
+      "reviewCount": "62",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Splitter Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords"
+    },
+    {
+      "name": "5309",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords/5309"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

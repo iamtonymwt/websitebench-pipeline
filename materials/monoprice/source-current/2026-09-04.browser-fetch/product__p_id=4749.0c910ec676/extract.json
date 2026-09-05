@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1.5ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
+    "@id": "https://www.monoprice.com/product?p_id=4749",
+    "url": "https://www.monoprice.com/product?p_id=4749",
+    "description": "Monoprice\u2122 Professional Audio cables bring you high performance cables at rock bottom prices. Whether you're connecting broadcast equipment, instruments for your band, or your high end entertainment system, Monoprice has the interconnect cables for you.Balanced audio cables utilize impedance balanced lines that reduce EM and RF noise and extend the effective range of the cable run. Additionally, unlike standard unbalanced RCA interconnects that utilizes their braid as a signal return, balanced cables have a separate braided shield to provide additional resistance to interference, without modulating the interference into the signal. This prevents ground loop issues.Our XLR male to female cables continue our tradition of bringing the highest quality cables at the best prices. These cables feature thick, heavy gauge wires, gold plated connectors, and sturdy connector housings.Features: 16AWG Stranded Copper Wire Conduits97.5% Shielded Balanced ConnectionsGold Plated ConnectorsMetallic Graphite Colored Connector HousingsMolded Strain Relief BootsMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice. Updated Jun 15, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/47491.jpg\",\"https://images.monoprice.com/productlargeimages/47492.jpg\",\"https://images.monoprice.com/productlargeimages/47493.jpg\",\"https://images.monoprice.com/productlargeimages/47494.jpg\",\"https://images.monoprice.com/productlargeimages/47495.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "4749",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4749",
+      "gtin14": "844660047490"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1.5ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
+      "ratingCount": "1396",
+      "reviewCount": "113",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Microphone Cables (XLR Cables)",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/microphone-cables-(xlr-cables)"
+    },
+    {
+      "name": "4749",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/microphone-cables-(xlr-cables)/4749"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

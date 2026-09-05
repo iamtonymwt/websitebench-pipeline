@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Audio 120W 2ch Mixer Amp (No Logo)",
+    "@id": "https://www.monoprice.com/product?p_id=18801",
+    "url": "https://www.monoprice.com/product?p_id=18801",
+    "description": "This amplifier features two 60\u2011watt channels and offers several configuration options. You can use it as a normal 60\u2011watts/channel stereo amplifier, as two separate 60\u2011watt mono amplifiers, or as a single bridged 120\u2011watt mono amplifier. It includes both unbalanced line level stereo RCA inputs as well as balanced Euroblock connector inputs for use as line or microphone inputs. It has independent volume controls for each channel, as well as bass and treble tone controls and an switchable amplifier limiter circuit. In stereo or dual mono mode it supports 4\u2011ohm and 8\u2011ohm loads, or an 8\u2011ohm load for bridged mono operation.Features: Can be configured for 60\u2011watts/channel stereo, dual 60\u2011watt mono, or bridged 120\u2011watt mono modesTwo balanced mono inputs using Euroblock connectorsTwo unbalanced line level stereo RCA inputsMic/Line switch for the balanced inputsSeparate volume controls for each inputSwitchable amplifier limiter to prevent clippingSupport Files: User's Manual (Jan 9, 2017)Small Retail Sales Sheet (Apr 24, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 3, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/188011.jpg\",\"https://images.monoprice.com/productlargeimages/188012.jpg\",\"https://images.monoprice.com/productlargeimages/188013.jpg\",\"https://images.monoprice.com/productlargeimages/188014.jpg\",\"https://images.monoprice.com/productlargeimages/188015.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 349.99,
+      "sku": "18801",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18801",
+      "gtin14": "889028047873"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Audio 120W 2ch Mixer Amp (No Logo)",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Commercial Audio & Digital Signage",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage"
+    },
+    {
+      "name": "Mixers & Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers"
+    },
+    {
+      "name": "18801",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers/18801"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

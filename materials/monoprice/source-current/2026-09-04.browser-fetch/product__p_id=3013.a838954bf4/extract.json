@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Adjustable Speaker Wall Mount Brackets 10 lb Capacity (Pair) White",
+    "@id": "https://www.monoprice.com/product?p_id=3013",
+    "url": "https://www.monoprice.com/product?p_id=3013",
+    "description": "Easily mount your satellite speakers on your wall with this Speaker Wall Mounting Bracket kit from Monoprice\u2122!These brackets are designed to mount small satellite speakers with a single\u2011bolt, two\u2011hole (2\" \u2011 2.75\" spacing), or keyhole mounting systems. Each bracket can support a speaker weighing up to about 10 lbs. Each bracket can be tilted and swiveled, so you can point each speaker to the proper angle for the optimum audio experience.The brackets can be mounted to wooden stud or brick/concrete/hollow\u2011block walls and includes the hardware necessary for either type of mounting option.Note: The included extension is intended for ceiling mounting solutions only. When used in a wall mounting situation the extension increases the leverage of the weight of the speakers on the mount, thereby decreasing the load capacity. Support Files: User's Manual (Sep 18, 2017)Dimensions Diagram (Sep 18, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 18, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/30131.jpg\",\"https://images.monoprice.com/productlargeimages/30132.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "3013",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3013",
+      "gtin14": "844660030133"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Adjustable Speaker Wall Mount Brackets 10 lb Capacity (Pair) White",
+      "ratingCount": "476",
+      "reviewCount": "92",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Speaker Mounts & Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands"
+    },
+    {
+      "name": "Speaker Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts"
+    },
+    {
+      "name": "3013",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts/3013"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

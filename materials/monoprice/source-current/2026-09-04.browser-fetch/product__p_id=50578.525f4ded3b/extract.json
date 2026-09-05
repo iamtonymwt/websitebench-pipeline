@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Tripp Lite by Eaton UPS TAA-Compliant ECO Series 120V 750VA 450W Energy-Saving Standby UPS with USB port and 12 Outlets - 750VA/450W",
+    "@id": "https://www.monoprice.com/product?p_id=50578",
+    "url": "https://www.monoprice.com/product?p_id=50578",
+    "description": "Tripp Lite's ECO750UPSTAA is compliant with the Federal Trade Agreements Act (TAA) for GSA Schedule purchases. This standby GREEN UPS offers complete protection from blackouts, brownouts and transient surges. Supports GREEN energy savings via built-in \"ECO\" outlets that automatically power off unused computer accessories like printers or multi-media speakers when the computer is not in use. Full load efficiency rating of 99% also offers energy-savings and cooler operation by limiting UPS power consumption to less than 5 watts! Eco-friendly design meets strict RoHS environmental standards. Provides uninterrupted transition to battery-derived AC output during brownouts and power failures with enough runtime to save and shutdown connected equipment without data loss. Offers complete protection in an ultra-compact desktop or wall-mountable housing. Includes 6 battery supported outlets for computer, monitor and four vital system peripherals, plus 6 additional surge suppression-only outlets for accessories not requiring battery support. Four of the surge-only outlets are designated \"ECO\" outlets that can be configured to automatically power-off when the computer enters standby mode or is shutdown. USB port enables UPS configuration options and unattended system shutdown without data loss in the case of extended power failure. PowerAlert software is available via free download from www.tripplite.com. USB cable included. Built-in single line RJ11 phone suppression protects modem, fax machine, cordless phone or other accessories with a dialup/DSL phone connection. Built-in audible alarm and front panel LEDs offer continuous status information regarding line and battery power operation. 750VA/450 watt power handling ability supports entry-level PC systems for up to 45 minutes during power fail conditions. 3 year warranty. $100,000 connected equipment insurance (USA, Puerto Rico, & Canada Only)Federal Trade Agreements Act / TAA Compliant for GSA Schedule purchases750VA ultra-compact 120V standby UPS, energy-saving ECO outletsMaintains AC output during power failures, 99% line mode efficiencyECO option turns off set of four outlets when the computer is not in useUSB port, TEL/DSL protection, Wall mountable, Surge-only outletsNEMA 5-15P input plug and 12 NEMA 5-15R outlets\u00a0Interfaces/PortsUSBYesBattery InformationBackup/Run Time (Half Load)11.50 MinuteBackup/Run Time (Full Load)2.50 MinuteTypical Battery Recharge Time20 HourPhysical CharacteristicsWeight (Approximate)8.80 lbForm FactorDesktopHeight3.10\"Width12.20\"Depth6.90\"Power DescriptionInput Voltage110 V ACOutput Voltage120 V ACInput Current10 ALoad Capacity (VA)750 VALoad Capacity (Watt)450 W\u00a0Technical InformationDataline ProtectionRJ-11Plug/Connector TypeNEMA 5-15PReceptacle TypeNEMA 5-15RTransfer Time3 msReceptacle Detail6 x NEMA 5-15RMiscellaneousPackage ContentsECO750UPSTAA 750 VA Desktop UPSUSB CableInstructional Manual with Warranty InformationCertifications & StandardsUL 1778CSAFCC Part 15 Category B (EMI)TAACountry of OriginTaiwanEnvironmentally FriendlyYesTAA CompliantYesEnvironmental ComplianceRestriction of Hazardous Substances (RoHS)General InformationProduct TypeStandby UPSManufacturer Part NumberECO750UPSTAAManufacturer Website Addresshttp://www.eaton.comManufacturerEaton CorporationProduct ModelECO750UPSTAAProduct NameECO750UPSTAA 750 VA Desktop ECO UPS TAA CompliantProduct SeriesECOBrand NameTripp Lite series\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/505781.jpg\",\"https://images.monoprice.com/productlargeimages/505782.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 160.99,
+      "sku": "50578",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=50578",
+      "gtin14": "889028239957"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Tripp Lite by Eaton UPS TAA-Compliant ECO Series 120V 750VA 450W Energy-Saving Standby UPS with USB port and 12 Outlets - 750VA/450W",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Inverters",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-inverters"
+    },
+    {
+      "name": "50578",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-inverters/50578"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

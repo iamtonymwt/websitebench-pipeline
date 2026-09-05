@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
+    "@id": "https://www.monoprice.com/product?p_id=35995",
+    "url": "https://www.monoprice.com/product?p_id=35995",
+    "description": "The Monoprice 3-Panel 1U 19\" wide blank fiber optic patch panel is designed to hold 3 LGX fiber optic adapter panels or 3 LGX MPO cassettes. It provides a flexible solution when moves, adds, and changes are required. The panel supports patching for up to 72 LC or 36 SC fiber optic connections. The blank fiber patch panel fits on racks and cabinets with 19-inch mounting widths and takes up 1 rack mount space, 1 RMS. The panel is made from 16 gauge steel that is black powder coated to protect against wear, corrosion, impact, and weather. The edges on the frame on the top and bottom have been folded to reinforce the panel for better strength. This panel is only compatible with LGX fiber optic cassettes.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/359951.jpg\",\"https://images.monoprice.com/productlargeimages/359952.jpg\",\"https://images.monoprice.com/productlargeimages/359953.jpg\",\"https://images.monoprice.com/productlargeimages/359954.jpg\",\"https://images.monoprice.com/productlargeimages/359955.jpg\",\"https://images.monoprice.com/productlargeimages/359956.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "35995",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35995",
+      "gtin14": "889028112069"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels"
+    },
+    {
+      "name": "Fiber Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/fiber-patch-panels"
+    },
+    {
+      "name": "35995",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/fiber-patch-panels/35995"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

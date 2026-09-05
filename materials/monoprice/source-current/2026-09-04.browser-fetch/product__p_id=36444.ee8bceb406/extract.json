@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium Ultra Durable Nylon Braided Apple MFi Certified Lightning to 3.5mm Jack Audio Adapter - Black",
+    "@id": "https://www.monoprice.com/product?p_id=36444",
+    "url": "https://www.monoprice.com/product?p_id=36444",
+    "description": "\u00a0Listen to headphones, connect to speakers, or stream music through any audio system from your iPhone\u00ae with this Monoprice MFi Certified Lightning\u00ae to 3.5mm Audio Adapter.This adapter is certified to work with any Apple\u00ae Lightning device and supports microphone connectivity, allowing for phone calls and audio recording through compatible 3.5mm audio accessories.Built with premium materials, including a durable nylon-braided cable, it ensures long-lasting, reliable performance. The Lightning connector (C101) is Rhodium Ruthenium plated for enhanced durability and conductivity, while the 3.5mm jack is now gold-plated for improved audio signal transmission.Features: Certified by Apple\u00ae to be compatible with any Apple Lightning\u00ae productRhodium Ruthenium plated Lightning connector (C101) for superior durability and signal integrityGold-plated 3.5mm jack for enhanced audio qualityNylon cable jacket for long-lasting performanceSupports in-line microphone use with wired headsets\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Apple\u00ae, iPhone\u00ae, Lightning\u00ae, the \"Made for iPhone\" logo, and the \"Made for iPod\" are trademarks of Apple Inc., registered in the U.S. and other countries. The \"Made for iPad\" logo is a trademarks of Apple Inc. Updated Aug 11, 2025 \u00a0Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/364441.jpg\",\"https://images.monoprice.com/productlargeimages/364442.jpg\",\"https://images.monoprice.com/productlargeimages/364443.jpg\",\"https://images.monoprice.com/productlargeimages/364444.jpg\",\"https://images.monoprice.com/productlargeimages/364445.jpg\",\"https://images.monoprice.com/productlargeimages/364446.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.89,
+      "sku": "36444",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=36444",
+      "gtin14": "889028116920"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium Ultra Durable Nylon Braided Apple MFi Certified Lightning to 3.5mm Jack Audio Adapter - Black",
+      "ratingCount": "60",
+      "reviewCount": "60",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/lightning-cables"
+    },
+    {
+      "name": "36444",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/lightning-cables/36444"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

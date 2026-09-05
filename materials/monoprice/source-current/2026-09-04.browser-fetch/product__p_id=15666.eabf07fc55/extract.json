@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A RJ45 Toolless 180-Degree Keystone Jack for 22-24AWG Solid Wire Blue",
+    "@id": "https://www.monoprice.com/product?p_id=15666",
+    "url": "https://www.monoprice.com/product?p_id=15666",
+    "description": "This Toolless keystone jack series allows you to terminate Cat5e, Cat6, and Cat6A jacks without the use of a punch down tool. This keystone jack is backwards compatible with components and systems of lower performing categories. Use in standard keystone wallplates, patch panels, or surface mount boxes. Available in 8 colors and in Cat6 and Cat6A.Features: 110-style 180-degree punch down8-position 8-conductor (8P8C)568A and 568B wiring compatibleMeets or exceeds TIA/EIA 568B industry standardRoHS compliantUL listedAvailable in 8 colorsAvailable in Cat6 and Cat6AWarning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/156661.jpg\",\"https://images.monoprice.com/productlargeimages/156662.jpg\",\"https://images.monoprice.com/productlargeimages/156663.jpg\",\"https://images.monoprice.com/productlargeimages/156664.jpg\",\"https://images.monoprice.com/productlargeimages/156665.jpg\",\"https://images.monoprice.com/productlargeimages/156666.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "15666",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15666",
+      "gtin14": "889028037713"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A RJ45 Toolless 180-Degree Keystone Jack for 22-24AWG Solid Wire Blue",
+      "ratingCount": "45",
+      "reviewCount": "15",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "15666",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/15666"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

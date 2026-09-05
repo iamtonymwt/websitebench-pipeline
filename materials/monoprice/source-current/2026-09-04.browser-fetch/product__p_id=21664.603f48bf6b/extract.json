@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RG-6 Quad Universal F-Connector 25 Pack",
+    "@id": "https://www.monoprice.com/product?p_id=21664",
+    "url": "https://www.monoprice.com/product?p_id=21664",
+    "description": "This is a package of F-type compression connectors for RG-6 cables with quad shielding. Each package includes 25 connectors.Support Files: Features Sheet (Sep 7, 2025)Tech Drawing (Jul 28, 2025)\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/216641.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "21664",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21664",
+      "gtin14": "889028049860"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RG-6 Quad Universal F-Connector 25 Pack",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-keystones"
+    },
+    {
+      "name": "21664",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-keystones/21664"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to USB-B 2.0 Cable - 28/24AWG  Gold Plated  White  6ft",
+    "@id": "https://www.monoprice.com/product?p_id=8616",
+    "url": "https://www.monoprice.com/product?p_id=8616",
+    "description": "Connect your USB peripherals to your using this USB 2.0 A Male to B Male cable from Monoprice!While some newer peripherals use the mini B or micro B USB connector, the original USB B connector is still the common connector for printers, scanners, and similar large peripherals. This cable uses 28 AWG conductors for data and 24 AWG conductors for power. It features gold plated connectors to ensure smooth, corrosion-free connections. It is shielded to protect against signal interference and data loss.Features: 100% compliant with USB 2.0 specifications28 AWG data conductors and 24 AWG power conductorsGold plated connectors ensure a smooth, corrosion-free connectionMolded connector heads with molded strain relief bootsShielded to protect against external signal interferenceSupport Files: Diagram (Aug 8, 2024)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/86161.jpg\",\"https://images.monoprice.com/productlargeimages/86162.jpg\",\"https://images.monoprice.com/productlargeimages/86163.jpg\",\"https://images.monoprice.com/productlargeimages/86164.jpg\",\"https://images.monoprice.com/productlargeimages/86165.jpg\",\"https://images.monoprice.com/productlargeimages/86166.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.89,
+      "sku": "8616",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8616",
+      "gtin14": "844660086161"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to USB-B 2.0 Cable - 28/24AWG  Gold Plated  White  6ft",
+      "ratingCount": "1029",
+      "reviewCount": "23",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB B Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-b-cables"
+    },
+    {
+      "name": "8616",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-b-cables/8616"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Entegrade Series Cat6A/Cat7 Shielded RJ45 Toolless Die Cast 180-Degree Keystone Jack for 22-24AWG Solid Wire PoE+ Silver 10-Pack",
+    "@id": "https://www.monoprice.com/product?p_id=24756",
+    "url": "https://www.monoprice.com/product?p_id=24756",
+    "description": "Cat7 Keystone ModuleShielded, tool\u2011free connectionQuick and safe wire terminations without any special punch toolsCategory 7, Class EAArea of application: Up to 500 MHz, 10GBase\u2011T Norms: ISO/IEC 11801 2nd Ed., EN 50173\u20111, EIA/TIA 568\u2011C, 802.3af, 802.3at PoE+Suitable for patch panels and mounting outlets RJ45 female to LSA, 8P8C Cable installation via LSA strips, color coded according to EIA/TIA 568 A and B360\u00b0 shield coverageAccepts: 22\u201124 AWG solid cables (bare conductor diameter from 0.50\u20110.58mm, outside diameter from 5.0\u20118.5mm)Zinc die\u2011cast, nickel\u2011platedRJ45 pin holder: ABS UL\u00ae 94V\u20110RJ45 contact: Tinned phosphor bronze with gold\u2011platingLSA termination clamp: Krone\u00ae LSA+, UL 94V\u20112, zinc plated phosphor bronze PCB: FR4, UL 94V\u20110Insertion force: 30N max. (IEC 60603\u20117\u20115)Retention strength: 7.7 kg between jack and plugOperating temperature: \u201120 ~ +70\u00b0C (ISO/IEC 11801, EN 50173\u20111, ANSI\u00ae/TIA/EIA 568 C)Mating cycles female: > 750 according to ISO/IEC 11801, IEC 60603\u20117\u20115 Clamp: > 200 according to ISO/IEC 11801, IEC 60603\u20117\u20115Support Files: Quick Install Guide (Dec 5, 2017)Dimensions Diagram (Apr 22, 2017)Monoprice\u2122, Entegrade\u2122, and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Krone\u00ae is a registered trademark of Krone, Inc. ANSI\u00ae, the ANSI logo, and numerous other identifiers containing \"ANSI\" are registered trademarks, service marks, and accreditation marks of the American National Standards Institute (ANSI). Updated Feb 10, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/247561.jpg\",\"https://images.monoprice.com/productlargeimages/247562.jpg\",\"https://images.monoprice.com/productlargeimages/247563.jpg\",\"https://images.monoprice.com/productlargeimages/247564.jpg\",\"https://images.monoprice.com/productlargeimages/247565.jpg\",\"https://images.monoprice.com/productlargeimages/247566.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 61.99,
+      "sku": "24756",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24756",
+      "gtin14": "889028059029"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Entegrade Series Cat6A/Cat7 Shielded RJ45 Toolless Die Cast 180-Degree Keystone Jack for 22-24AWG Solid Wire PoE+ Silver 10-Pack",
+      "ratingCount": "21",
+      "reviewCount": "15",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "24756",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/24756"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

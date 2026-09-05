@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 3x1 Video Switch with HDMI HDR 18Gbps HDCP 2.2 CEC Includes Infrared Remote Control",
+    "@id": "https://www.monoprice.com/product?p_id=15262",
+    "url": "https://www.monoprice.com/product?p_id=15262",
+    "description": "This 4K 3x1 HDMI\u00ae Switch allows you to distribute any of up to three HDMI video source devices to a single HDMI display. It supports up to 18Gbps video bandwidth and a 4K@60Hz maximum video resolution with YCbCr 4:4:4 color space, as well as all HDMI 3D video modes. It complies with the HDMI 2.0 and HDCP\u2122 2.2 standards and supports HDR, HDR10, Dolby Vision\u2122, and Hybrid Log\u2011Gamma (HLG). It can be manually controlled using the top panel button or the included IR remote control.Features: Supports video resolutions up to 4K@60Hz YCbCr 4:4:4, as well as all HDMI\u00ae 3D video modes3 HDMI video inputs and 1 HDMI video outputSupports up to 18Gbps video bandwidthComplies with the HDMI 2.0, HDCP\u2122 2.2/1.x, and DVI\u2122 1.0 specificationsSupports HDR, HDR10, Dolby Vision\u2122, and Hybrid Log\u2011Gamma (HLG)USB powered with low power consumptionIncludes an IR remote control\u00a0Sample Connection DiagramSupport Files: User's Manual (Apr 15, 2024)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Dolby\u00ae, Dolby Vision\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. DVI\u2122 is a trademark of the Digital Display Working Group. Blu\u2011ray Disc\u2122, Blu\u2011ray\u2122, and the logos are trademarks of the Blu\u2011ray Disc Association. Updated Jan 27, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/152621.jpg\",\"https://images.monoprice.com/productlargeimages/152622.jpg\",\"https://images.monoprice.com/productlargeimages/152623.jpg\",\"https://images.monoprice.com/productlargeimages/152624.jpg\",\"https://images.monoprice.com/productlargeimages/152625.jpg\",\"https://images.monoprice.com/productlargeimages/152626.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 31.99,
+      "sku": "15262",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15262",
+      "gtin14": "889028033524"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 3x1 Video Switch with HDMI HDR 18Gbps HDCP 2.2 CEC Includes Infrared Remote Control",
+      "ratingCount": "50",
+      "reviewCount": "50",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Switches",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-switches"
+    },
+    {
+      "name": "15262",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-switches/15262"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

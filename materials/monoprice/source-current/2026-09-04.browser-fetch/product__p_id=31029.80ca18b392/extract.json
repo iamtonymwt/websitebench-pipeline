@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SWA-400 400-watt Subwoofer Amplifier with DSP and Presets",
+    "@id": "https://www.monoprice.com/product?p_id=31029",
+    "url": "https://www.monoprice.com/product?p_id=31029",
+    "description": "The SWA\u2011400 subwoofer amplifier delivers clean, solid power required to drive medium to large sized subwoofer speakers. Its compact 1U design is compatible with many other popular electronic devices and different styles of multimedia gear. The SWA\u2011400 is engineered to provide high fidelity bass amplification and is tailored for home audio and home theater audio systems. User defined presets give you complete control over crossover frequency, as well as slope, phase, and low\u2011cut. Recall your presets for the type of listening you are doing. Short circuit and thermal protection circuits are built\u2011in.Master Volume: Sets the overall subwoofer output in relation to the main speakers. Values range from \u20119dB to +9dB, selectable in 3dB increments. The volume should be set to achieve an even balance between full\u2011range program and subwoofer output.Preset Choose: Selects one of 3 presets. Preset 1 is optimized for 8\" in\u2011wall subs, Preset 2 is optimized for 10\" in\u2011wall subs, and preset 3 is optimized for 12\" subs.Crossover Frequency: Selects the highest frequency cut\u2011off point to the subwoofer. If you are using larger main speakers use lower frequencies below 100Hz. A smaller main speaker will require more reinforcement from the subwoofer, so the crossover should be set to higher frequencies above 100Hz. A good starting place is the lower limit of the frequency response of the main speakers.Crossover Slope: Also known as roll\u2011off, the slope refers to how abruptly the high frequencies are cut off. The SWA\u2011400 offers 4 slopes from \u201112dB to \u201148dB. This setting refers to how many decibels above the selected Crossover Freq are attenuated (turned down) per octave. A gradual slope of \u201112dB allows more bleed of higher frequencies to pass through the subwoofer. This is useful with smaller or cheaper main speakers that are less efficient at reproducing bass. Higher slopes are more effective when used with high efficiency and bigger main speakers that do produce sufficient bass.Phase: This puts a slight delay on the signal sent to your subwoofer. Since the main amplifier drives the main speakers with full\u2011range sound, the main speakers are reproducing bass frequencies along with the sub. If you have a front firing sub that is in the same plane as the mains, then the phase can be set to 0. Down\u2011firing, rear\u2011ported, or subs placed away from the mains will smear the bass tones and the frequencies will cancel each other out as they bounce around the room. Try different settings and walk around your listening area for the optimum setting.Low\u2011Cut: Selects the lowest frequency that the amp will reproduce. This is useful for smaller subs, 10\" and below. Since smaller speakers cannot reproduce extreme low frequencies, it is best to limit the system to what they can reproduce. This will maximize the efficiency of the subwoofer system and minimize over\u2011extension and speaker failure. Please check with your subwoofer manufacture's manual and specs for speaker limitations.Mode Select: Selects between Sub and LFE modes. The Sub setting is the normal operating mode for the SWA\u2011400. LFE mode bypasses the Crossover Freq function of the SWA\u2011400. Use this mode if you are connecting the SWA\u2011400 to the LFE output of your amplifier or AV receiver.Auto Standby: If no audio signal is present for an extended period of time, the SWA\u2011400 can be switched into standby mode to conserve electricity. Choose from 5\u201130 minutes in 5 minute increments or turn the function off.Memory Storage: Once the system is set to your liking, save your settings to one of three memory storage locations. Different settings for music, movies, and night time are a good use for memory storage positions.Memory Recall: Loads one of the three user\u2011defined memory storage locationsProtection: Short circuit and thermal protection circuits are built\u2011in.While deep, hard hitting bass is fun and a little annoying to the neighbors, a good subwoofer system also improves your main speaker's fidelity. By driving a separate subwoofer system, your left and right speakers are free to articulate dialog and subtle audio accents while the explosions are hitting you in the chest.This subwoofer amp is an ideal match to our passive in\u2011wall subwoofers. The SWA\u2011400 is stable down to 4 ohms, so it will easily drive one or two subs. The front panel backlit LCD screen will go dark after 2 minutes with no adjustments. Automated power management includes audio trigger and 12V triggers that will shut down and turn on the amp as you need it.Support Files: User's Manual (May 30, 2018)Updated Feb 18, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/310291.jpg\",\"https://images.monoprice.com/productlargeimages/310292.jpg\",\"https://images.monoprice.com/productlargeimages/310293.jpg\",\"https://images.monoprice.com/productlargeimages/310294.jpg\",\"https://images.monoprice.com/productlargeimages/310295.jpg\",\"https://images.monoprice.com/productlargeimages/310296.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 649.99,
+      "sku": "31029",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=31029",
+      "gtin14": "889028077405"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SWA-400 400-watt Subwoofer Amplifier with DSP and Presets",
+      "ratingCount": "14",
+      "reviewCount": "14",
+      "ratingValue": "3.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "31029",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/31029"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

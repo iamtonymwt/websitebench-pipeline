@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Cubicle Flat Panel Monitor Mount",
+    "@id": "https://www.monoprice.com/product?p_id=33098",
+    "url": "https://www.monoprice.com/product?p_id=33098",
+    "description": "This flat panel monitor mount provides a sleek and low profile monitor mount for cubicle workstations. No need to clamp on a desk edge or drill through a table top, this mount simply hangs from the top edge of cubicle work stations to provide a clean and easy install. It provides a wide range of height and tilt adjustments for optimum fit and ergonomics. Because it attaches to a cubicle wall, this mount helps with reclaiming valuable desk space.Features: Clean, ultra\u2011thin monitor mounting solution for cubicle workstationsEasy installationFits a wide range of monitorsAdjustable height, tilt, and rotate positionsHigh quality and durable mountLow\u2011profile design attaches to the top edge of cubicle walls, freeing up valuable desk spaceNo clamping or drilling required, simply hang the monitor mount on the cubicle wallRated for monitors up to 17.6 lbs.Can fit any size that works for the cubicle wall height10 easy height adjustments, tilt for fit or even rotate screens to switch to portrait mode when working with long documentsStructural parts are made of quality steelSupport Files: User's Manual (Feb 22, 2018)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 18, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/330981.jpg\",\"https://images.monoprice.com/productlargeimages/330982.jpg\",\"https://images.monoprice.com/productlargeimages/330983.jpg\",\"https://images.monoprice.com/productlargeimages/330984.jpg\",\"https://images.monoprice.com/productlargeimages/330985.jpg\",\"https://images.monoprice.com/productlargeimages/330986.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 27.99,
+      "sku": "33098",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33098",
+      "gtin14": "889028082546"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Cubicle Flat Panel Monitor Mount",
+      "ratingCount": "6",
+      "reviewCount": "6",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Desk Monitor Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts"
+    },
+    {
+      "name": "33098",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts/33098"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1-Port Keystone Jack Surface Mount Box - UL No Logo White",
+    "@id": "https://www.monoprice.com/product?p_id=7088",
+    "url": "https://www.monoprice.com/product?p_id=7088",
+    "description": "Versatile modular surface mount box for when in-wall box and wire installation are not possible. Use with keystones for the connector of your choice. A clean and simple solution for network expansion.Box is durable plastic, white in color.Comes with double sided adhesive tape to mount the box to the wall, or you can use the two screws provided to screw it down to baseboard, window\u00a0sill,\u00a0trim, etc..Jack is not included. You can use any of our keystone jacks.Zip tie is included and used to hold the cable tight inside the box and keeps cables from moving.Box has a slit in the back side to allow the wire to enter the box for flush moutning. Box top snaps on and off for easy access to wires.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/70881.jpg\",\"https://images.monoprice.com/productlargeimages/70882.jpg\",\"https://images.monoprice.com/productlargeimages/70883.jpg\",\"https://images.monoprice.com/productlargeimages/70884.jpg\",\"https://images.monoprice.com/productlargeimages/70885.jpg\",\"https://images.monoprice.com/productlargeimages/70886.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "7088",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7088",
+      "gtin14": "844660070887"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1-Port Keystone Jack Surface Mount Box - UL No Logo White",
+      "ratingCount": "68",
+      "reviewCount": "30",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Surface Mount Boxes",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/surface-mount-boxes"
+    },
+    {
+      "name": "7088",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/surface-mount-boxes/7088"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

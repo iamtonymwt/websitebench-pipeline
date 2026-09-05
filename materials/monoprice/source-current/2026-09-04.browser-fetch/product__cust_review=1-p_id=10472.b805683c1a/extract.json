@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Fixed TV Wall Mount Bracket Anti-Theft For 32 To 75 TVs up to 99lbs Max VESA 400x400 UL Certified",
+    "@id": "https://www.monoprice.com/product?p_id=10472",
+    "url": "https://www.monoprice.com/product?p_id=10472",
+    "description": " \u00a0Don't leave your flat panel TV on a table or stand where it can be knocked over and damaged, or even worse injure a child or pet. Instead, mount it securely and safely to the wall using this Low Profile Wall Mount Bracket from Monoprice\u2122!This mount bracket features an ultraslim form factor, which puts the back of the TV only about 1.0\" away from the wall, making it ideal for displays with side or bottom facing connections. It has undergone extensive safety testing and has been certified by UL\u00ae, which ensures that it will perform safely and reliably.This bracket is designed to mount an LCD, LED, or Plasma display with a VESA\u00ae mounting pattern between 75x50 and 400x400, which includes most 32\" to 75\" TVs*. It can be mounted to any brick, concrete, or wood stud wall and can safely hold up to 99 lbs. (including the weight of the mount itself). Mounting hardware is included.*The minimum and maximum display sizes are only approximations. Your TV will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight.Support Files: User's Manual (Jun 29, 2026)Dimensions Diagram (Jun 29, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. UL\u00ae and the UL logo are registered trademarks of UL LLC.v Updated Jan 25, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/104721.jpg\",\"https://images.monoprice.com/productlargeimages/104722.jpg\",\"https://images.monoprice.com/productlargeimages/104723.jpg\",\"https://images.monoprice.com/productlargeimages/104724.jpg\",\"https://images.monoprice.com/productlargeimages/104725.jpg\",\"https://images.monoprice.com/productlargeimages/104726.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 47.99,
+      "sku": "10472",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=10472",
+      "gtin14": "757901802782"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Fixed TV Wall Mount Bracket Anti-Theft For 32 To 75 TVs up to 99lbs Max VESA 400x400 UL Certified",
+      "ratingCount": "87",
+      "reviewCount": "85",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Fixed TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/fixed-tv-wall-mounts"
+    },
+    {
+      "name": "10472",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/fixed-tv-wall-mounts/10472"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

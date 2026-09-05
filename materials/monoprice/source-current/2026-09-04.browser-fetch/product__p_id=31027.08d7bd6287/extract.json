@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Unity 450 Watt Bridgeable Power Amp",
+    "@id": "https://www.monoprice.com/product?p_id=31027",
+    "url": "https://www.monoprice.com/product?p_id=31027",
+    "description": "This 2\u2011channel class D power amplifier features a stereo speaker output with support for 4\u2011ohm and 8\u2011ohm speakers. It can deliver 150 watts per channel into 8\u2011ohm loads or 225 watts per channel into 4\u2011ohm loads. Additionally, the output can be bridged to provide 450 watts to a single 8\u2011ohm speaker. It includes a 3.5mm stereo input along with dual RCA L/R inputs.Features: Class D amplifier providing 150 watts/channel (RMS) into 8 ohm loads or 225 watts/channel into 4\u2011ohm loadsBridgeable output provides 450 watts into a single 8\u2011ohm load4\u2011pole detachable speaker screw connector (Euroblock connector) with support for up to 12 AWG speaker wireBuilt\u2011in thermal and short circuit protection circuitsIncludes rackmount earsSupport Files: User's Manual (Jul 17, 2020)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 18, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/310271.jpg\",\"https://images.monoprice.com/productlargeimages/310272.jpg\",\"https://images.monoprice.com/productlargeimages/310273.jpg\",\"https://images.monoprice.com/productlargeimages/310274.jpg\",\"https://images.monoprice.com/productlargeimages/310275.jpg\",\"https://images.monoprice.com/productlargeimages/310276.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 379.99,
+      "sku": "31027",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=31027",
+      "gtin14": "889028077382"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Unity 450 Watt Bridgeable Power Amp",
+      "ratingCount": "63",
+      "reviewCount": "6",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "31027",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/31027"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

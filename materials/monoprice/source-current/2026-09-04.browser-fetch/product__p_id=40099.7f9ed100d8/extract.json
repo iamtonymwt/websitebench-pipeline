@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Power Cord - Locking NEMA L6-20P to IEC 60320 C19 12AWG 20A/2500W SJT 250V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=40099",
+    "url": "https://www.monoprice.com/product?p_id=40099",
+    "description": "Connect network servers and other peripherals that require heavier\u2011gauge cabling with a PDU, UPS, or other AC power source with a NEMA\u00ae L6\u201120R locking outlet. Locking plugs have the pins arrayed in a circular manner and is inserted and twisted to lock in place.This heavy\u2011duty cable features a female IEC 60320 C19 connector on one end and a male NEMA L6\u201120P connector on the other end. It features 12 AWG conductors suitable for high power connections that require a higher\u2011rated, heavier\u2011gauge cable. Simply mate the female C19 connector with the male C20 connector on your device or power adapter, then plug the NEMA connector into a nearby UPS or other AC power source. This cable is designed to carry up to a 20 amp/2500 watt, 125 volt load.Features: Recommended for high\u2011performance computers and network devices requiring higher voltageThe NEMA\u00ae L6\u201120P locking connector allows it to be securely plugged into the power outlet for important equipmentConnect commercial equipment requiring high voltage such as computers, servers, and monitors to a PDU or UPS in data centerDesigned for high\u2011density data environments\u00a0Plug\u00a0TypeNEMA\u00ae L6\u201120PReceptacle\u00a0TypeIEC 60320 C19Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge12 AWGMaximum\u00a0Current20 ampsCertificationsUL\u00ae, cUL, RoHS, REACHMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Aug 20, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/400991.jpg\",\"https://images.monoprice.com/productlargeimages/400992.jpg\",\"https://images.monoprice.com/productlargeimages/400993.jpg\",\"https://images.monoprice.com/productlargeimages/400994.jpg\",\"https://images.monoprice.com/productlargeimages/400995.jpg\",\"https://images.monoprice.com/productlargeimages/400996.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.89,
+      "sku": "40099",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40099",
+      "gtin14": "889028142554"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Power Cord - Locking NEMA L6-20P to IEC 60320 C19 12AWG 20A/2500W SJT 250V Black 6ft",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "40099",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/40099"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

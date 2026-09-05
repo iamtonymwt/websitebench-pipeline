@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1/4in (6.35mm) TS Mono Plug to RCA Jack Adapter Gold Plated (Yellow plastic center)",
+    "@id": "https://www.monoprice.com/product?p_id=7149",
+    "url": "https://www.monoprice.com/product?p_id=7149",
+    "description": "6.35mm (1/4 Inch) Mono Plug (male)\u00a0to RCA Jack (female) Adaptor - Gold Plated (Yellow plastic center)Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/71491.jpg\",\"https://images.monoprice.com/productlargeimages/71492.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "7149",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7149",
+      "gtin14": "844660071495"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1/4in (6.35mm) TS Mono Plug to RCA Jack Adapter Gold Plated (Yellow plastic center)",
+      "ratingCount": "61",
+      "reviewCount": "61",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Plug Adapter",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter"
+    },
+    {
+      "name": "7149",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter/7149"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

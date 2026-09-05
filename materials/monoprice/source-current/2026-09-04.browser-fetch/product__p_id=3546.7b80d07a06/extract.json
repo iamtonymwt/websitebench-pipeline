@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Dual Link DVI-D Extension Cable - Male to Female 28AWG 6ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=3546",
+    "url": "https://www.monoprice.com/product?p_id=3546",
+    "description": "DVI displays from Apple and other manufacturers often come with a non-removable video cable. If that is too short for your intended setup, things can be tricky indeed! DVI Extension cables provide an extra 2m(6ft.), extending the range of the display to a total of ca. 3.5m(11 ft.). DVI Extensions offer optimal signal quality so that video signals are transmitted correctly for a great picture and trouble-free operation.Digital Visual Interface (DVI) is the standard interface for a high-performance connection between PCs and flat panel displays, digital CRT displays, projectors, and HDTV. The DVI-D Digital Extension Cable delivers the high-performance, high-bandwidth interface needed for video displays of today while leaving headroom for the products of tomorrow. These precision-engineered cables are fully compliant with the DVI standard defined by DDWG (Digital Display Working Group). The DVI-D dual link configuration provides enough bandwidth for resolutions up to 2048 x 1536 and allows high speed digital transmission up to 9.9 Gbps.Digital DisplaysFlat PanelsGraphic CardsProjectorsHDTV BoxesThe DVI-D plug connector interfaces with either DVI-D and DVI-I receptacles.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/35461.jpg\",\"https://images.monoprice.com/productlargeimages/35462.jpg\",\"https://images.monoprice.com/productlargeimages/35463.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.59,
+      "sku": "3546",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3546",
+      "gtin14": "844660035466"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Dual Link DVI-D Extension Cable - Male to Female 28AWG 6ft Black",
+      "ratingCount": "46",
+      "reviewCount": "23",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DVI Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables"
+    },
+    {
+      "name": "3546",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables/3546"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

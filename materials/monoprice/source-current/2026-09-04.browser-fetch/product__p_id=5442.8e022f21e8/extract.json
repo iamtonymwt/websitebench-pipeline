@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG Gold Plated Black 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=5442",
+    "url": "https://www.monoprice.com/product?p_id=5442",
+    "description": "A great value on high performance, USB 2.0 compliant cables.\u00a0 These reliable cables feature Gold Plated Connectors for corrosion resistance and heavy gauge wires for years of reliable use.Compatible with both PC and Apple systems.\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/54421.jpg\",\"https://images.monoprice.com/productlargeimages/54422.jpg\",\"https://images.monoprice.com/productlargeimages/54423.jpg\",\"https://images.monoprice.com/productlargeimages/54424.jpg\",\"https://images.monoprice.com/productlargeimages/54425.jpg\",\"https://images.monoprice.com/productlargeimages/54426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.09,
+      "sku": "5442",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=5442",
+      "gtin14": "844660054429"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG Gold Plated Black 3ft",
+      "ratingCount": "334",
+      "reviewCount": "66",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-cables"
+    },
+    {
+      "name": "5442",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-cables/5442"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

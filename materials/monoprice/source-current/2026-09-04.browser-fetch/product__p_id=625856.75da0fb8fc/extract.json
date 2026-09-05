@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice High Definition 200-Watt RBGW 4-in-1 LED Ellipsoidal Stage Light with Manual Zoom",
+    "@id": "https://www.monoprice.com/product?p_id=625856",
+    "url": "https://www.monoprice.com/product?p_id=625856",
+    "description": "The Stage Right\u2122 by Monoprice\u2122 High Definition 200\u2011Watt RGBW 4\u2011in\u20111 LED Ellipsoidal Stage Light is perfect for vividly illuminating any stage performance. This versatile fixture is a great stage light for theaters, clubs, churches, conventions, and much more.This LED ellipsoidal light features a bright, 200\u2011watt Red/Green/Blue/White (RGBW) 4\u2011in\u20111 COB LED that provides superb color reproduction and mixing. The COB design increases the lighting area to avoid uncomfortable glare. With an adjustable manual zoom of 19\u00b0 ~ 50\u00b0 and 4 independently adjustable shutters, you can get very versatile light placement and illumination. This fixture is DMX\u2011ready, so you can have full control when connecting with other fixtures or you can plug and play in auto mode to run standalone.Support Files: User's Manual (Mar 24, 2020)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 9, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6258561.jpg\",\"https://images.monoprice.com/productlargeimages/6258562.jpg\",\"https://images.monoprice.com/productlargeimages/6258563.jpg\",\"https://images.monoprice.com/productlargeimages/6258564.jpg\",\"https://images.monoprice.com/productlargeimages/6258565.jpg\",\"https://images.monoprice.com/productlargeimages/6258566.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 599.99,
+      "sku": "625856",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625856",
+      "gtin14": "889028149553"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice High Definition 200-Watt RBGW 4-in-1 LED Ellipsoidal Stage Light with Manual Zoom",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Spotlights & Ellipsoidals",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals"
+    },
+    {
+      "name": "625856",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals/625856"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

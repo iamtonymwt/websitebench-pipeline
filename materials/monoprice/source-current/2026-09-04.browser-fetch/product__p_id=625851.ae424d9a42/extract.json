@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Universal Mic Clip for Handheld Microphones 5-Pack",
+    "@id": "https://www.monoprice.com/product?p_id=625851",
+    "url": "https://www.monoprice.com/product?p_id=625851",
+    "description": "Stage Right\u2122 microphone clips are specifically designed to securely hold most common handheld microphones. The fit is firm (25mm width), ensuring your microphone stays in place while on stage. Conveniently packed in 3, 5, and 10 units, Stage Right microphone clips come with a threaded screw insert, allowing it to be used with both 3/8\" and 5/8\" mic stands.Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Jun 26, 2020 \u00a0Warning: This product can expose you to chemicals including Phthalates, which is/are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6258511.jpg\",\"https://images.monoprice.com/productlargeimages/6258512.jpg\",\"https://images.monoprice.com/productlargeimages/6258513.jpg\",\"https://images.monoprice.com/productlargeimages/6258514.jpg\",\"https://images.monoprice.com/productlargeimages/6258515.jpg\",\"https://images.monoprice.com/productlargeimages/6258516.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.99,
+      "sku": "625851",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625851",
+      "gtin14": "889028149379"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Universal Mic Clip for Handheld Microphones 5-Pack",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Instrument Stands & Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories"
+    },
+    {
+      "name": "Stand Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/stand-accessories"
+    },
+    {
+      "name": "625851",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/stand-accessories/625851"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice Headphone Cable Dual 2.5mm TS to 3.5mm TRS 6ft Black (Works with M1060 M1060C M565 M565C)",
+    "@id": "https://www.monoprice.com/product?p_id=29516",
+    "url": "https://www.monoprice.com/product?p_id=29516",
+    "description": "This is a replacement headphone cable for the Monolith\u2122 M565, M565C, M1060, and M1060C headphones. It features a right angle 3.5mm TRS connector on one end and two 2.5mm TS connectors on the other. It is 6 feet in length.Features: Replacement headphone cable for the Monolith\u2122 M565, M565C, M1060, and M1060C headphonesRight angle 3.5mm TRS to two 2.5mm TS connectors6 foot length\u00a0Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 45 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.45 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 45 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice\u2122 exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122, Monolith\u2122, the Monolith logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 29, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/295161.jpg\",\"https://images.monoprice.com/productlargeimages/295162.jpg\",\"https://images.monoprice.com/productlargeimages/295163.jpg\",\"https://images.monoprice.com/productlargeimages/295164.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 32.29,
+      "sku": "29516",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=29516",
+      "gtin14": "889028070239"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice Headphone Cable Dual 2.5mm TS to 3.5mm TRS 6ft Black (Works with M1060 M1060C M565 M565C)",
+      "ratingCount": "12",
+      "reviewCount": "12",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "29516",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/29516"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

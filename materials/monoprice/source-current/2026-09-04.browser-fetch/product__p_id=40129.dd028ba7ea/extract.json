@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C19 12AWG 20A/2500W SJT 250V Black 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=40129",
+    "url": "https://www.monoprice.com/product?p_id=40129",
+    "description": "Connect servers, routers, switches, blade servers, and other compatible C19 network devices to a PDU or UPS system. This cable features a female IEC 60320 C19 plug on one end and a male IEC 60320 C20 connector on the other end. Simply mate the male C20 connector into an AC power receptacle or rackmounted PDU or UPS system, then connect the female C19 end to a network device that requires a heavy\u2011gauge power cord, such as a server, router, network switch, or blade server. This cable is designed to carry up to a 20 amp/2500 watt, 125 volt load.Plug\u00a0TypeIEC 60320 C20Receptacle\u00a0TypeIEC 60320 C19Jacket\u00a0MaterialSJT, SJTW#\u00a0of\u00a0Conductors3Wire\u00a0Gauge12AWGMaximum\u00a0Current20 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jul 14, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/401291.jpg\",\"https://images.monoprice.com/productlargeimages/401292.jpg\",\"https://images.monoprice.com/productlargeimages/401293.jpg\",\"https://images.monoprice.com/productlargeimages/401294.jpg\",\"https://images.monoprice.com/productlargeimages/401295.jpg\",\"https://images.monoprice.com/productlargeimages/401296.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "40129",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40129",
+      "gtin14": "889028142851"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C19 12AWG 20A/2500W SJT 250V Black 3ft",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "40129",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/40129"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

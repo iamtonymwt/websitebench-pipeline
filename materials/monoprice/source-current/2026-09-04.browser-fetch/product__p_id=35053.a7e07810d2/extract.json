@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C19 14AWG 15A/1875W 125V 3-Prong Black 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=35053",
+    "url": "https://www.monoprice.com/product?p_id=35053",
+    "description": "This 14 AWG power cord features a North America NEMA\u00ae 5\u201115 plug on one end and an IEC 60320 C19 female connector on the other end. The C19 coupler is used for supplying power in IT applications where higher currents are required. These include high\u2011power workstations and servers, uninterruptible power supplies, power distribution units, large network routers, switches, and blade enclosures, as well as high\u2011current medical equipment.Features: NEMA 5\u201115P to IEC 60320 C19 power cords connect devices with C20 and NEMA 5\u201115R power connectorsRecommended for IT and medical applications where higher currents are requiredHeavy\u2011duty computer power cord replaces or upgrades a cord provided by the manufacturer\u00a0Plug\u00a0TypeNEMA\u00ae 5-15PReceptacle\u00a0TypeIEC 60320 C19Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge14 AWGMaximum\u00a0Current15 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. CSA\u00ae is a registered trademark of the CSA Group. Updated Sep 30, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/350531.jpg\",\"https://images.monoprice.com/productlargeimages/350532.jpg\",\"https://images.monoprice.com/productlargeimages/350533.jpg\",\"https://images.monoprice.com/productlargeimages/350534.jpg\",\"https://images.monoprice.com/productlargeimages/350535.jpg\",\"https://images.monoprice.com/productlargeimages/350536.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.59,
+      "sku": "35053",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35053",
+      "gtin14": "889028102411"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C19 14AWG 15A/1875W 125V 3-Prong Black 10ft",
+      "ratingCount": "4",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "35053",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/35053"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

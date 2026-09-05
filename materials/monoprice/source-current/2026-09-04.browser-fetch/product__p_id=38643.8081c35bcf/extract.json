@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8K Ultra High Speed HDMI Extension Cable - HDMI 2.1 8K@60Hz 4K@120Hz 48Gbps HDR VRR 1.5ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=38643",
+    "url": "https://www.monoprice.com/product?p_id=38643",
+    "description": "DynamicView\u2122 Ultra 8K High Speed HDMI Cables are the next generation of HDMI cables. Supporting up to 8K resolution and 48Gbps bandwidth, this future-proofed cable just might be the last HDMI cable you'll ever need.DynamicView supports Dynamic HDR, meaning content will be able to take advantage of HDR's expanded contrast ranges, brightness levels, and heightened levels of detail, and now have them optimized on a scene-by-scene or even a frame by-frame basis.DynamicView Ultra 8K supports eARC, enabling the most advanced audio formats (including Object Based Audio) and audio signal control capabilities.This Ultra 8K High Speed HDMI Cable supports the following features: Supports 8K@120Hz/60Hz/30Hz, 4K@144Hz/120Hz/60Hz/30Hz video resolutionsBackwards compatible with HDMI\u2122 versions 2.0 & 1.4Supports VESA\u2122 DSC 1.2a/BT.2020Supports HDR10 Dolby Vision\u2122, Variable Refresh Rate (VRR), and Quick Frame TransportSupports up to 32 audio channels and a 1536kHz audio sampling rateSupports Dynamic HDRDelivers up to 48Gbps bandwidthSupports eARC (Enhanced Audio Return Channel) and eARC Object-Based AudioSupports Game Mode VRR and the advanced game eco-systemDynamicView\u2122 is a trademark of Monoprice Inc. HDMI\u2122, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. VESA\u2122 is a registered trademark of the Video Electronics Standards Association.s Dolby\u2122, Dolby Vision\u2122, and the double-D symbol are trademarks of Dolby Laboratories. Updated Apr 20, 2023 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/386431.jpg\",\"https://images.monoprice.com/productlargeimages/386432.jpg\",\"https://images.monoprice.com/productlargeimages/386433.jpg\",\"https://images.monoprice.com/productlargeimages/386434.jpg\",\"https://images.monoprice.com/productlargeimages/386435.jpg\",\"https://images.monoprice.com/productlargeimages/386436.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.89,
+      "sku": "38643",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38643",
+      "gtin14": "889028127957"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8K Ultra High Speed HDMI Extension Cable - HDMI 2.1 8K@60Hz 4K@120Hz 48Gbps HDR VRR 1.5ft Black",
+      "ratingCount": "15",
+      "reviewCount": "4",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "HDMI Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-extension-cables"
+    },
+    {
+      "name": "38643",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-extension-cables/38643"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

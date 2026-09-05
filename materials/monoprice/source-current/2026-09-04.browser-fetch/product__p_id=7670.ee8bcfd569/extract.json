@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - AS/NZS 3112 (Australia/New Zealand) to IEC 60320 C13 H05VV-F 3G 0.75 mm Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=7670",
+    "url": "https://www.monoprice.com/product?p_id=7670",
+    "description": "This AC power cord is designed to connect a computer or other device to an electrical outlet that conforms to the Australian/New Zealand standard. The Australian/New Zealand standard is used in Australia, New Zealand, Fiji, Tonga, Solomon Islands, and Papua New Guinea. It features a grounded AS/NZS 3112 plug on one end and an IEC 60320 C13 receptacle on the other end. This 18 AWG cable is rated to carry up to a 5 amp/1250 watt, 250 volt load.\u00a0Wall\u00a0Plug\u00a0TypeAS/NZS 3112 (Australia/New Zealand)Equipment\u00a0Plug\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialH05VV\u2011F 3G#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18 AWGMaximum\u00a0Current5 ampsCertificationsKEMA-KEURSupport Files: Spec Sheet (May 16, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jul 13, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76701.jpg\",\"https://images.monoprice.com/productlargeimages/76702.jpg\",\"https://images.monoprice.com/productlargeimages/76703.jpg\",\"https://images.monoprice.com/productlargeimages/76704.jpg\",\"https://images.monoprice.com/productlargeimages/76705.jpg\",\"https://images.monoprice.com/productlargeimages/76706.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.59,
+      "sku": "7670",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7670",
+      "gtin14": "844660076704"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - AS/NZS 3112 (Australia/New Zealand) to IEC 60320 C13 H05VV-F 3G 0.75 mm Black 6ft",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "International Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords"
+    },
+    {
+      "name": "7670",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords/7670"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

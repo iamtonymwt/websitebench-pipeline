@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6in 34AWG High Speed HDMI Cable With Ethernet Port Saver HDMI Micro Connector Male to HDMI Connector Female Black",
+    "@id": "https://www.monoprice.com/product?p_id=7603",
+    "url": "https://www.monoprice.com/product?p_id=7603",
+    "description": "This Port Saver helps to put less stress on the internal ports of your devices.It features a very snug fit, which helps prevent HDMI\u00ae connection problems caused by cables coming loose. The features a standard female HDMI connector on one end and a male Micro HDMI connector male on the other end. This 34AWG cable supports the HDMI Ethernet Channel feature. It is RoHS compliant.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Updated Nov 11, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76031.jpg\",\"https://images.monoprice.com/productlargeimages/76032.jpg\",\"https://images.monoprice.com/productlargeimages/76033.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "7603",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7603",
+      "gtin14": "844660076032"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6in 34AWG High Speed HDMI Cable With Ethernet Port Saver HDMI Micro Connector Male to HDMI Connector Female Black",
+      "ratingCount": "84",
+      "reviewCount": "84",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "HDMI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters"
+    },
+    {
+      "name": "7603",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters/7603"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

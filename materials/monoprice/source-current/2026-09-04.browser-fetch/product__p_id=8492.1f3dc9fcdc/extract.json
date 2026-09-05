@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 19inch eSATAp to SATA 22pin Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=8492",
+    "url": "https://www.monoprice.com/product?p_id=8492",
+    "description": "Do you want a simple, easy-to-connect, temporary external drive solution for your eSATAp equipped desktop or laptop PC to a internal SATA drive? This is the cable to get!This cable has an eSATAp (powered, external SATA) connector on one end and a standard SATA internal drive connector (with power) on the other end. You can easily connect any internal SATA drive to your PC's internal SATA bus from outside your PC by using this cable and your eSATAp port. Your PC will see the drive the same as if it was installed into your PC, without requiring any software installation.This cable will support 2.5\" SATA HDDs on any system equipped with an eSATAp port. It will also support 3.5\" SATA HDDs and 5.25\" optical drives on a desktop system equipped with a 12V eSATAp port.Although this isn't ideal as a long-term solution, because of the exposed drive circuits, it is an excellent way to quickly transfer data to or from an internal drive without going through the hassle of installing it into a PC or an external enclosure at a lower cost than a SATA docking station.Warning! Because the drive is not enclosed, the circuit board is exposed and can be easily shorted out if you allow it to come into contact with a conducting surface or object. DO NOT place the drive on a metal surface or allow metal objects (such as screws) to come into contact with the circuit board. It is best to place the drive circuit board side down on top of a nonconducting surface. The box for this converter cable serves as an excellent surface on which to place the drive. \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/84921.jpg\",\"https://images.monoprice.com/productlargeimages/84922.jpg\",\"https://images.monoprice.com/productlargeimages/84923.jpg\",\"https://images.monoprice.com/productlargeimages/84924.jpg\",\"https://images.monoprice.com/productlargeimages/84925.jpg\",\"https://images.monoprice.com/productlargeimages/84926.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 4.99,
+      "sku": "8492",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8492",
+      "gtin14": "844660084921"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 19inch eSATAp to SATA 22pin Cable - Black",
+      "ratingCount": "28",
+      "reviewCount": "28",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SATA Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables"
+    },
+    {
+      "name": "8492",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables/8492"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

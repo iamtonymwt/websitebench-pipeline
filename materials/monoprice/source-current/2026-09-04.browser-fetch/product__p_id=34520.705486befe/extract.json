@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Decor Insert for Keystone 6-Port Black 4x1.4x0.25 w/Screws",
+    "@id": "https://www.monoprice.com/product?p_id=34520",
+    "url": "https://www.monoprice.com/product?p_id=34520",
+    "description": "Keystone D\u00e9cor Insert for use in conjunction with a d\u00e9cor wall plate, gang box, and keystones. Use appropriate keystones to create a nicely finished, professionally installed look for Ethernet networks or home theater interconnects. Eliminate that cluster of wires and hide them behind a wall.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/345201.jpg\",\"https://images.monoprice.com/productlargeimages/345202.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "34520",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34520",
+      "gtin14": "889028097045"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Decor Insert for Keystone 6-Port Black 4x1.4x0.25 w/Screws",
+      "ratingCount": "16",
+      "reviewCount": "1",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystone Wall Plates",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates"
+    },
+    {
+      "name": "34520",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates/34520"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

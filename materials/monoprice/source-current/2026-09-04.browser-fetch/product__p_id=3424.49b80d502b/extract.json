@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45 Stranded 550MHz UTP Pure Bare Copper Wire 24AWG 2ft Red",
+    "@id": "https://www.monoprice.com/product?p_id=3424",
+    "url": "https://www.monoprice.com/product?p_id=3424",
+    "description": "The Monoprice Cat6 Patch Cable is a high\u2011quality Ethernet cable designed to provide reliable and fast network connections. With its impressive features and superior construction, this cable is a must\u2011have for anyone seeking seamless connectivity.Featuring an Unshielded Twisted Pair (UTP) Category 6 design, this Ethernet cable ensures optimal performance for both home and professional networking applications. Its 24AWG stranded, pure bare copper conductors deliver enhanced conductivity and signal integrity, allowing for high\u2011speed data transmission without any loss or interference.Equipped with 50\u00b5m gold plated contacts, this cable guarantees excellent corrosion resistance and superior signal conductivity. These contacts ensure a secure and stable connection, enabling you to enjoy uninterrupted network performance.With a bandwidth of 550MHz, this Cat6 cable offers ample capacity for handling bandwidth\u2011intensive tasks such as streaming HD videos, online gaming, and large file transfers. You can rely on this cable to deliver high\u2011speed and reliable data transmission, even in demanding network environments.One of the standout features of this Ethernet cable is its snagless cable boot. The snagless design protects the plug retaining clip from damage during installation or removal, ensuring durability and longevity. You can confidently connect and disconnect this cable without worrying about accidental damage or interruptions.The full\u2011boot connectors of the Monoprice Cat6 Patch Cable provide added strain relief and protect the cable from bending or twisting. This feature enhances the cable's durability and prevents premature wear and tear, making it a reliable choice for long\u2011lasting performance.In addition to its outstanding performance, this Ethernet cable prioritizes safety and compliance with industry standards. Unlike cables that use copper clad aluminum (CCA) wire, the Monoprice Cat6 Patch Cable is constructed using 100% pure bare copper wire. This adherence to UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards ensures maximum safety and reliability, as pure bare copper wire is mandated for communication cables.In conclusion, the Monoprice Cat6 Patch Cable stands out as a top\u2011tier Ethernet cable, offering exceptional performance, durability, and safety. Whether you're setting up a home network or managing a professional IT infrastructure, this cable is the perfect choice to ensure fast, reliable, and secure connectivity. Trust in the Monoprice brand and experience the excellence of this Cat6 Patch Cable for all your networking needs.Features: Unshielded Twisted Pair (UTP) Category 6 Ethernet cable24AWG stranded, pure bare copper conductors550MHz bandwidthSnagless cable boot protects the plug retaining clip50\u00b5m gold plated contactsMonoprice\u2122 Ethernet cables are made of 100% pure bare copper wire, as opposed to copper clad aluminum (CCA) wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Sheilded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Support Files: Specification Sheet (Apr 2, 2019)Tech Drawing (Sep 22, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated Jun 20, 2023 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/34241.jpg\",\"https://images.monoprice.com/productlargeimages/34242.jpg\",\"https://images.monoprice.com/productlargeimages/34243.jpg\",\"https://images.monoprice.com/productlargeimages/34244.jpg\",\"https://images.monoprice.com/productlargeimages/34245.jpg\",\"https://images.monoprice.com/productlargeimages/34246.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.09,
+      "sku": "3424",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=3424",
+      "gtin14": "844660034247"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45 Stranded 550MHz UTP Pure Bare Copper Wire 24AWG 2ft Red",
+      "ratingCount": "3424",
+      "reviewCount": "26",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6 Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables"
+    },
+    {
+      "name": "3424",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables/3424"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

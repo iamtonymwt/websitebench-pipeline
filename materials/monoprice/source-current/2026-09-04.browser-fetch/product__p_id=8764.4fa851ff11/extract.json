@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3ft 4-Channel XLR Male to XLR Female Snake Cable",
+    "@id": "https://www.monoprice.com/product?p_id=8764",
+    "url": "https://www.monoprice.com/product?p_id=8764",
+    "description": "Get 4-channel, professional, balanced audio XLR cable snakes from Monoprice for less than you're used to paying for each XLR cable alone!These XLR cable snakes feature four sets of male-to-female XLR cables assembled into a single, soft and durable, cable jacket. Each XLR connector has a silver metal housing and is connected with a color coded wire, so you can quickly and easily make the right connections the first time, every time.The cables are colored red, blue, white, and yellow. The connector housings are metal with plastic and rubber cable boots to reduce strain on the physical connection. Each cable carries a lifetime guarantee, so you can trust you'll always have a properly working cable, when you buy them from Monoprice!There is currently an error on the packaging showing this to be an STP-XLR cable, while clearly the cable is an XLR-XLR type. Note that the packaging is incorrect and is in the process of being corrected. ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/87641.jpg\",\"https://images.monoprice.com/productlargeimages/87642.jpg\",\"https://images.monoprice.com/productlargeimages/87643.jpg\",\"https://images.monoprice.com/productlargeimages/87644.jpg\",\"https://images.monoprice.com/productlargeimages/87645.jpg\",\"https://images.monoprice.com/productlargeimages/87646.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.99,
+      "sku": "8764",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8764",
+      "gtin14": "844660087649"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3ft 4-Channel XLR Male to XLR Female Snake Cable",
+      "ratingCount": "162",
+      "reviewCount": "69",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Snake Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables"
+    },
+    {
+      "name": "8764",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables/8764"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

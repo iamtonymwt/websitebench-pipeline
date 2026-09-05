@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft RCA Plug/Plug M/M Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=653",
+    "url": "https://www.monoprice.com/product?p_id=653",
+    "description": "Despite the introduction of more advanced audio and video signal cables, such as HDMI\u00ae and Toslink, most audio and a large number of video connections still use the common RCA connector.This is a single-channel cable with male RCA plugs with molded connector housings and strain relief boots on each end. The cable is ideal for short, low-frequency connections, such as standard audio signals. For higher-frequency signals, such as for RF or composite video, over longer lengths we recommend the use of one of our premium RG-6 or RG-59 based cables.HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6531.jpg\",\"https://images.monoprice.com/productlargeimages/6532.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.69,
+      "sku": "653",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=653",
+      "gtin14": "844660006534"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft RCA Plug/Plug M/M Cable - Black",
+      "ratingCount": "82",
+      "reviewCount": "22",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "653",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/653"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

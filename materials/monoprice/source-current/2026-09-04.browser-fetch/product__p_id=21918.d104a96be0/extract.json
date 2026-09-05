@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 5 Pair Affinity Series 24k Gold Speaker Banana Plug",
+    "@id": "https://www.monoprice.com/product?p_id=21918",
+    "url": "https://www.monoprice.com/product?p_id=21918",
+    "description": "Monoprice Affinity\u2122 Series Banana plugs make speaker installations easy. They are designed for use with amplifiers or speakers that use binding posts.These high quality plugs feature a dual screw fastening system that can accept bare speaker wire from 10 to 18 AWG. Each pair comes with one plug color coded red and the other coded black, for easy polarity identification.The plug body is made of copper fitted with a ferromanganese tip. The entire plug is then plated with gold to help prevent corrosion.Features: Can accept bare wire and spadesColor coded black/red rings for maintaining proper polaritySecure, positive contact with binding postsCorrosion resistant, 24K gold plated finishCopper body construction and ferromanganese tipsAffinity\u2122 is a trademark of Monoprice Inc. \u00a0Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/219181.jpg\",\"https://images.monoprice.com/productlargeimages/219182.jpg\",\"https://images.monoprice.com/productlargeimages/219183.jpg\",\"https://images.monoprice.com/productlargeimages/219184.jpg\",\"https://images.monoprice.com/productlargeimages/219185.jpg\",\"https://images.monoprice.com/productlargeimages/219186.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.99,
+      "sku": "21918",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21918",
+      "gtin14": "889028052143"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 5 Pair Affinity Series 24k Gold Speaker Banana Plug",
+      "ratingCount": "139",
+      "reviewCount": "43",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Banana Plugs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs"
+    },
+    {
+      "name": "21918",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs/21918"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

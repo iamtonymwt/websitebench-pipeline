@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1.5ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=5346",
+    "url": "https://www.monoprice.com/product?p_id=5346",
+    "description": "Meet the Monoprice Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable, the ultimate solution for audio and video connections that rely on the trusted RCA connector.In a world where cutting\u2011edge signal cables like HDMI\u00ae and Toslink dominate the market, the RCA connector continues to hold its ground as the go\u2011to choice for countless audio and video setups. The Monoprice Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable embodies the essence of reliability and quality, offering an unparalleled audio experience.Crafted with precision and expertise, this two\u2011channel audio cable is constructed using RG\u201159 75 ohm coaxial cable. Its 22AWG conductor ensures optimal signal transmission, delivering pristine audio performance from your source to your output. With this cable, you can immerse yourself in rich, high\u2011fidelity sound that captivates your senses.EMI and RFI interference can be a nuisance when it comes to audio systems. That's why the Monoprice Premium Cable is shielded to perfection, effectively blocking any external electromagnetic or radio frequency interference from corrupting your audio signals. Experience uninterrupted and crystal\u2011clear audio reproduction, free from distortions or unwanted noise.The connectors of this cable are plated with gold, enhancing their durability and conductivity. This gold plating not only ensures seamless connections, but also prevents corrosion over time, maintaining the longevity and performance of your audio setup. Say goodbye to connectivity issues and enjoy a reliable and consistent audio experience.Installing or removing cables can sometimes be a hassle, but not with the Monoprice Premium Cable. Each connector head features embedded, color\u2011coded rubber rings. These rings not only add a touch of visual elegance but also provide a secure grip, making installation and removal effortless and convenient. Connect with ease, knowing that your cable is firmly in place.The Monoprice Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable is the epitome of excellence in audio connectivity. It combines robust construction, shielding against interference, and high\u2011quality connectors to deliver outstanding audio performance. Whether you're setting up a home theater, a professional audio studio, or connecting audio devices in any other setting, this cable is your trusted companion. Immerse yourself in the world of premium audio with the Monoprice Premium Cable.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/53461.jpg\",\"https://images.monoprice.com/productlargeimages/53462.jpg\",\"https://images.monoprice.com/productlargeimages/53463.jpg\",\"https://images.monoprice.com/productlargeimages/53464.jpg\",\"https://images.monoprice.com/productlargeimages/53465.jpg\",\"https://images.monoprice.com/productlargeimages/53466.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "5346",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5346",
+      "gtin14": "844660053460"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1.5ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
+      "ratingCount": "1328",
+      "reviewCount": "269",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "5346",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/5346"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Textured Office Desk Mat",
+    "@id": "https://www.monoprice.com/product?p_id=36636",
+    "url": "https://www.monoprice.com/product?p_id=36636",
+    "description": "Upgrade and customize your desk with this desk mat. Get a professional work surface that helps improve the high\u2011contact area of your desk. The textured surface helps improve mouse tracking, especially if using glass or a reflective desk surface.This desk mat protects your desk from the wear and tear of daily use. The water resistant material is durable, easy to clean, and helps prevent water rings and spots from liquids. The mat has a front lip that keeps it in place and also helps to soften sharp desk edges to make computer work more comfortable for your arms and wrists. The mat is wide enough for both your keyboard and mouse to keep them at the same level.Features: Protect your desk surface from the wear and tear of daily useGet a professional looking desk mat to complete your deskThe textured surface provides an improved mousing surface for precise tracking, especially when using a glass top or a shiny desk surfaceThe front lip keeps the desk mat in place and helps soften sharp desk edgesThis wide desk mat provides enough space for both a mouse and keyboardThe water\u2011resistant Thermoplastic Polyurethane (TPU) material is durable and easy to cleanMeasures 29.5\" x 17.7\" x 0.6\"Support Files: Dimensions Diagram (Jan 28, 2019)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 11, 2021 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/366361.jpg\",\"https://images.monoprice.com/productlargeimages/366362.jpg\",\"https://images.monoprice.com/productlargeimages/366363.jpg\",\"https://images.monoprice.com/productlargeimages/366364.jpg\",\"https://images.monoprice.com/productlargeimages/366365.jpg\",\"https://images.monoprice.com/productlargeimages/366366.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "36636",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=36636",
+      "gtin14": "889028118856"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Textured Office Desk Mat",
+      "ratingCount": "20",
+      "reviewCount": "20",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Furniture",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture"
+    },
+    {
+      "name": "Desk Organizers",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desk-organizers"
+    },
+    {
+      "name": "36636",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desk-organizers/36636"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

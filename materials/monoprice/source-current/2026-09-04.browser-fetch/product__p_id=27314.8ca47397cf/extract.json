@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x IEC 60320 C13 18AWG 10A/1250W SVT Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=27314",
+    "url": "https://www.monoprice.com/product?p_id=27314",
+    "description": "The Monoprice\u2122 universal AC Power Extension Cord Splitter, allows you to connect two devices with C14 connections, such as computers, to one power outlet. It cuts down on cabling, as well as frees up space on UPSs, surge protectors, wall outlets, etc. It is an ideal solution for eliminating extra bulky cords and reducing clutter in a data center. This 18 AWG cable is designed to carry up to a 10 amp/1250 watt, 125 volt load.Features: 18AWG conductorsUp to 10 amps maximum currentUsable for 100 ~ 250 VAC applicationsY\u2011splitter, powers two devices from one outletWall\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201115PEquipment\u00a0Plug\u00a0Type2x IEC 60320 C13Jacket\u00a0MaterialSVT, SJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18AWGMaximum\u00a0Current10 ampsCertificationsETL, cETL, RoHS, REACHMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. Updated Sep 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/273141.jpg\",\"https://images.monoprice.com/productlargeimages/273142.jpg\",\"https://images.monoprice.com/productlargeimages/273143.jpg\",\"https://images.monoprice.com/productlargeimages/273144.jpg\",\"https://images.monoprice.com/productlargeimages/273145.jpg\",\"https://images.monoprice.com/productlargeimages/273146.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.79,
+      "sku": "27314",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=27314",
+      "gtin14": "889028062821"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x IEC 60320 C13 18AWG 10A/1250W SVT Black 6ft",
+      "ratingCount": "11",
+      "reviewCount": "6",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Splitter Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords"
+    },
+    {
+      "name": "27314",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords/27314"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB-C to DVI  USB-C  USB-A Multiport Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=15759",
+    "url": "https://www.monoprice.com/product?p_id=15759",
+    "description": "The versatility of the USB-C\u00ae port means that it can perform several functions, including video output and power input. But what if you need to use a second display for extended periods of time beyond what you can expect from your laptop's battery life? With the Select Series Multiport Adapter there is no need to choose between the two! This adapter allows you to connect an external DVI\u2122 video display to mirror your laptop's display or expand your system's desktop area, with support for resolutions up to 1920x1080p @60Hz. The USB 3.0 USB-A port allows you to charge and sync mobile devices or use external drives and provides data transfer speeds up to 5Gbps. It also features a USB-C port, which you can connect to your original USB-C charger, so you can charge the battery while simultaneously using a second display and syncing your phone!\u00a0\u00a0USB-C Power PortExpand Your ViewUSB 3.0 ConnectivityPortableUSB-C Power Port: The USB-C\u00ae charging port supports up to 60 watts (20V/3A) of power pass-through, allowing you to connect a compatible USB-C\u00ae charger and charge your laptop's battery, rather than draining it while using this adapter.Expand Your View: Connect a DVI\u2122 display at resolutions up to 1920x1080p @60Hz to mirror your laptop's display or to expand your system's desktop area.USB 3.0 Connectivity: The USB 3.0 USB-A port allows you to connect high speed external peripherals, such as portable hard drives or flash drives, at speeds up to 5Gbps. With 2.4A of charging power, it can charge even the most power hungry mobile devices.Portable: Small and portable, you can easily slip this adapter into your laptop case and have it ready for use wherever and whenever the need arises.\u00a0CompatibilitiesCompatible with USB-C\u00ae equipped laptops, such as the Apple\u00ae MacBook\u00ae and Google\u2122 Chromebook\u2122WarrantyMonoprice not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB-C\u00ae and USB-C\u00ae are trademarks of USB Implementers Forum, Inc. DVI\u2122 is a trademark of the Digital Display Working Group. Apple\u00ae, Mac\u00ae, MacBook\u00ae, and OS X\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122 and Chromebook\u2122 are trademarks of Google Inc. Updated Dec 10, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/157591.jpg\",\"https://images.monoprice.com/productlargeimages/157592.jpg\",\"https://images.monoprice.com/productlargeimages/157593.jpg\",\"https://images.monoprice.com/productlargeimages/157594.jpg\",\"https://images.monoprice.com/productlargeimages/157595.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "15759",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15759",
+      "gtin14": "889028038680"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB-C to DVI  USB-C  USB-A Multiport Adapter",
+      "ratingCount": "53",
+      "reviewCount": "53",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "15759",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/15759"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

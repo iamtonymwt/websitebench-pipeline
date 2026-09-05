@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Video/Audio Splitter - HDMI Male to 2x HDMI Female",
+    "@id": "https://www.monoprice.com/product?p_id=2522",
+    "url": "https://www.monoprice.com/product?p_id=2522",
+    "description": "This passive splitter will distribute a single HDMI\u00ae input to two HDMI outputs. The single HDMI plug and two HDMI ports are gold plated to ensure smooth, corrosion-free connections.Note that this splitter does not pass the HDCP\u2122 copy protection information, so it is unsuited for use in home theater systems. Please use one of our powered splitters for home theater applications.HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Updated Aug 22, 2019 \u00a0Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/25221.jpg\",\"https://images.monoprice.com/productlargeimages/25222.jpg\",\"https://images.monoprice.com/productlargeimages/25223.jpg\",\"https://images.monoprice.com/productlargeimages/25224.jpg\",\"https://images.monoprice.com/productlargeimages/25225.jpg\",\"https://images.monoprice.com/productlargeimages/25226.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "2522",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2522",
+      "gtin14": "844660025221"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Video/Audio Splitter - HDMI Male to 2x HDMI Female",
+      "ratingCount": "208",
+      "reviewCount": "208",
+      "ratingValue": "2.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Splitters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters"
+    },
+    {
+      "name": "2522",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters/2522"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

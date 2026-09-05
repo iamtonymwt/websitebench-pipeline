@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium 5.1.2 Channel Immersive Home Theater System with Subwoofer",
+    "@id": "https://www.monoprice.com/product?p_id=33831",
+    "url": "https://www.monoprice.com/product?p_id=33831",
+    "description": "                                            The Monoprice\u2122 Premium 5.1.2\u2011Channel Immersive Home Theater System takes your home theater to new heights! Fully compatible with both standard and Dolby Atmos\u00ae enabled receivers, the 5.1.2 system features two satellite speakers that have been equipped with immersive, upward\u2011firing drivers, enhancing the detail in multichannel, multidimensional soundtracks. The Monoprice Premium 5.1.2\u2011Channel Immersive Home Theater System surpasses all expectations for sound quality in a small package!                                                                              .gte-ctr .row{margin:0;}                                                                                                              1 Year Replacement Warranty                                      Monoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.                                                                                                                                  30 Day Money Back Guarantee                                      Monoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.                                                                                                                                  Quality at a Fair Price                                      Monoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.                                                                                                                                  Hassle Free Packaging                                      Monoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.                                                                                                                                 Service and Support                                      You're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!                                                                        Support Files:      User's Manual (Nov 10, 2021)          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.        Dolby\u00ae, Dolby Atmos\u00ae, and the double\u2011D symbol are trademarks of Dolby Laboratories.          Updated Feb 22, 2022                                                                Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/338311.jpg\",\"https://images.monoprice.com/productlargeimages/338312.jpg\",\"https://images.monoprice.com/productlargeimages/338313.jpg\",\"https://images.monoprice.com/productlargeimages/338314.jpg\",\"https://images.monoprice.com/productlargeimages/338315.jpg\",\"https://images.monoprice.com/productlargeimages/338316.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 349.99,
+      "sku": "33831",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33831",
+      "gtin14": "889028090138"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium 5.1.2 Channel Immersive Home Theater System with Subwoofer",
+      "ratingCount": "25",
+      "reviewCount": "25",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Home Theater Speakers Systems",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/home-theater-speakers-systems"
+    },
+    {
+      "name": "33831",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/home-theater-speakers-systems/33831"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

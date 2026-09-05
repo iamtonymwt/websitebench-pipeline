@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Onix Series - 3.5mm to 2-Male RCA Adapter Cable 3ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=38081",
+    "url": "https://www.monoprice.com/product?p_id=38081",
+    "description": "Monoprice Onix Series Cable is made from premium quality RG-6/U with double copper braid shielding to prevent signal degradation caused by EMI and RFI interference. Featuring a 3.5mm TRS connector on one end and two gold plated RCA male connectors on the other, this cable is ideal for conducting line level RCA audio signals from a mobile device, portable mixer, or computer.The plastic cable jacket has been encased within braided nylon, which resists nicks and cuts without reducing cable flexibility. Additionally, the braided jacket gives a premium appearance over that of ordinary plastic jackets. The CL2 rating on this cable indicates that the jacket has been treated so that it complies with fire safety regulations, making it safe for use in or through the walls of residential class buildings.Backed by Monoprice's Lifetime Warranty, Onix Series Digital Coax Cable is the ultimate digital audio cable for home theater installations.Features: Gold plated RCA male connectorsRobust high quality TRS 3.5mm Connector97% pure oxygen-free copper conductorDouble shielded with copper braiding22 pF per foot capacitance75 ohm impedanceUpdated Apr 15, 2019 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/380811.jpg\",\"https://images.monoprice.com/productlargeimages/380812.jpg\",\"https://images.monoprice.com/productlargeimages/380813.jpg\",\"https://images.monoprice.com/productlargeimages/380814.jpg\",\"https://images.monoprice.com/productlargeimages/380815.jpg\",\"https://images.monoprice.com/productlargeimages/380816.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 21.59,
+      "sku": "38081",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38081",
+      "gtin14": "889028122198"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Onix Series - 3.5mm to 2-Male RCA Adapter Cable 3ft Black",
+      "ratingCount": "12",
+      "reviewCount": "5",
+      "ratingValue": "2.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "38081",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/38081"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

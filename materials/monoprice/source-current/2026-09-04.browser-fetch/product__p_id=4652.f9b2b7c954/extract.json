@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice In-Wall Recessed Pro Power Kit with Straight Blade Inlet - TV Power and Cable Management White",
+    "@id": "https://www.monoprice.com/product?p_id=4652",
+    "url": "https://www.monoprice.com/product?p_id=4652",
+    "description": "Use this Recessed Pro Power Kit with straight blade inlet to install power and low voltage cables behind your flat panel TV, your amplifier/home theater receiver, or other audio and video devices to your equipment room or at the location of your source equipment.This kit includes two plates and one 6ft straight power extension cable. The faceplate is 5.25\" wide by 4.5\" tall and the recession in the rear of the plate is 2.5\" at it's longest point.The color indicated can vary in tone and/or hue between production runs and manufacturing facilities. The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice\u2122 or any other vendor. Individual pieces may also vary very slightly in color from each other.Features: ETL listedConforms to UL\u00ae standard 514CSupport Files: User's Manual (Aug 27, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jan 18, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/46521.jpg\",\"https://images.monoprice.com/productlargeimages/46522.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 81.99,
+      "sku": "4652",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4652",
+      "gtin14": "844660046523"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice In-Wall Recessed Pro Power Kit with Straight Blade Inlet - TV Power and Cable Management White",
+      "ratingCount": "154",
+      "reviewCount": "154",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "4652",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/4652"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

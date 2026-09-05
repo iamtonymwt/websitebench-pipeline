@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HDMI Right Angle Port Saver Adapter (Male to Female) 90-Degree Vertical Flat Left",
+    "@id": "https://www.monoprice.com/product?p_id=4859",
+    "url": "https://www.monoprice.com/product?p_id=4859",
+    "description": "Tight spaces giving you a problem connecting your HDMI\u00ae cable? Tired of having to move your equipment just to reach those \"hard to get places?\" Use an HDMI port saver to save your time and efforts in your cable setup! Our HDMI port savers (male to female) give you the flexibility you'll need without risking bending your HDMI cables excessively which may damage the cable or even worse the ports on your expensive HDTV. This port saver will help ease the strain at the point of connection to eliminate damage to the HDMI ports on your television.This port saver supports 3D signals! If your port is vertically mounted and the flat side is on the left, it would point downward. If the flat side were on the right, it would point upward.Dimensions = 1 5/8\" x 1 3/16\" x 1/2\"HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/48591.jpg\",\"https://images.monoprice.com/productlargeimages/48592.jpg\",\"https://images.monoprice.com/productlargeimages/48593.jpg\",\"https://images.monoprice.com/productlargeimages/48594.jpg\",\"https://images.monoprice.com/productlargeimages/48595.jpg\",\"https://images.monoprice.com/productlargeimages/48596.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "4859",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4859",
+      "gtin14": "844660048596"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HDMI Right Angle Port Saver Adapter (Male to Female) 90-Degree Vertical Flat Left",
+      "ratingCount": "187",
+      "reviewCount": "187",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "HDMI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters"
+    },
+    {
+      "name": "4859",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters/4859"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

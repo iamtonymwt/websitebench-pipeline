@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - AS 3112 (Australia) to IEC 60320 C13 18AWG 10A 250V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=1308",
+    "url": "https://www.monoprice.com/product?p_id=1308",
+    "description": "G'day mate!\u00a0 If you need to connect your PC, monitor, HDTV, etc. in the \"Land Down Under,\"\u00a0this is the right cable for you.\u00a018AWG computer Power cord for\u00a0Australian power SocketsAS 3112 (type 1) to IEC C13/14.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/13081.jpg\",\"https://images.monoprice.com/productlargeimages/13082.jpg\",\"https://images.monoprice.com/productlargeimages/13083.jpg\",\"https://images.monoprice.com/productlargeimages/13084.jpg\",\"https://images.monoprice.com/productlargeimages/13085.jpg\",\"https://images.monoprice.com/productlargeimages/13086.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.75,
+      "sku": "1308",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1308",
+      "gtin14": "844660013082"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - AS 3112 (Australia) to IEC 60320 C13 18AWG 10A 250V Black 6ft",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "International Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords"
+    },
+    {
+      "name": "1308",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords/1308"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

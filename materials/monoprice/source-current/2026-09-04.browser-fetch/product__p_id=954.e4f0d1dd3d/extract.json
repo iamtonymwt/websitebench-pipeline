@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RJ45 8 Conductor Modular Bulk Cable 28AWG Stranded Flat Sliver 1000ft",
+    "@id": "https://www.monoprice.com/product?p_id=954",
+    "url": "https://www.monoprice.com/product?p_id=954",
+    "description": "Avoid having excess phone cable lying around by building your own cables to the exact length needed using this 8 Conductor Modular Bulk Cable from Monoprice\u2122!Features: RJ45 Phone cableFlat cableSilver color8 conductors28AWG stranded CCA wire1000 foot rollMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated 30 Jun 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/9541.jpg\",\"https://images.monoprice.com/productlargeimages/9542.jpg\",\"https://images.monoprice.com/productlargeimages/9543.jpg\",\"https://images.monoprice.com/productlargeimages/9544.jpg\",\"https://images.monoprice.com/productlargeimages/9545.jpg\",\"https://images.monoprice.com/productlargeimages/9546.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 126.79,
+      "sku": "954",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=954",
+      "gtin14": "844660009542"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RJ45 8 Conductor Modular Bulk Cable 28AWG Stranded Flat Sliver 1000ft",
+      "ratingCount": "16",
+      "reviewCount": "2",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "Phone Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/phone-cables"
+    },
+    {
+      "name": "954",
+      "url": "https://www.monoprice.com/category/cables/data-cables/phone-cables/954"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

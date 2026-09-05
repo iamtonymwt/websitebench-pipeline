@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HD15 (HD VGA/SVGA) Male to Female Port Saver",
+    "@id": "https://www.monoprice.com/product?p_id=1190",
+    "url": "https://www.monoprice.com/product?p_id=1190",
+    "description": "Port savers can prevent damage to the port connectors on your equipment that can be caused by repeated plugging and unplugging of connecting cables and adapters. They can also be used as in-line couplers to connect two similar cables to make a single effectively longer cable.This 15-pin DE-15 (HD-15) adapter is incorrectly labeled as a Gender Changer. However, it is actually a port saver/in-line coupler for DE-15 (HD-15) VGA/SVGA connections. It has nut connectors on one end and screw connectors on the other for securing it to panel and line connectors. If you are looking for a F/F Gender Changer, you want PID 1191 instead. \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/11901.jpg\",\"https://images.monoprice.com/productlargeimages/11902.jpg\",\"https://images.monoprice.com/productlargeimages/11903.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "1190",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1190",
+      "gtin14": "844660011903"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HD15 (HD VGA/SVGA) Male to Female Port Saver",
+      "ratingCount": "13",
+      "reviewCount": "13",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Gender Changers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers"
+    },
+    {
+      "name": "1190",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers/1190"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

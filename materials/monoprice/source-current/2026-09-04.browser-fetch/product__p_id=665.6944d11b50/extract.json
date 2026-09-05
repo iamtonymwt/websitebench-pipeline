@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft 3.5mm Stereo Plug/2 RCA Plug Cable Black",
+    "@id": "https://www.monoprice.com/product?p_id=665",
+    "url": "https://www.monoprice.com/product?p_id=665",
+    "description": "While most mobile devices use the 3.5mm stereo headphone output, most home audio systems with an amplifier or receiver use RCA jacks for audio inputs. This cable is ideal for connecting the headphone output of your mp3 player or phone to your home audio system. It has a single 3.5mm (1/8\") TRS stereo male plug on one end and a pair of left/right RCA male plugs on the other end, each with molded connector housings and strain relief boots.Support Files: Small Restaurant Sales Sheet (Apr 24, 2017)Small Retail Sales Sheet (Apr 24, 2017)Monoprice\u00e2\u201e\u00a2 and all Monoprice logos are trademarks of Monoprice Inc. Updated Apr 29, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6651.jpg\",\"https://images.monoprice.com/productlargeimages/6652.jpg\",\"https://images.monoprice.com/productlargeimages/6653.jpg\",\"https://images.monoprice.com/productlargeimages/6654.jpg\",\"https://images.monoprice.com/productlargeimages/6655.jpg\",\"https://images.monoprice.com/productlargeimages/6656.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.69,
+      "sku": "665",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=665",
+      "gtin14": "844660006657"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft 3.5mm Stereo Plug/2 RCA Plug Cable Black",
+      "ratingCount": "423",
+      "reviewCount": "423",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "665",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/665"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

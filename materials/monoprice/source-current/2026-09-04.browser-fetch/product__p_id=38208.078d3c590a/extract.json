@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice Liquid Platinum Power Supply v2 36V 1.4A 1M NEMA 3 Prong Power Cord",
+    "@id": "https://www.monoprice.com/product?p_id=38208",
+    "url": "https://www.monoprice.com/product?p_id=38208",
+    "description": "Enable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 41.19,
+      "sku": "38208",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38208",
+      "gtin14": "889028123591"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice Liquid Platinum Power Supply v2 36V 1.4A 1M NEMA 3 Prong Power Cord",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones"
+    },
+    {
+      "name": "Headphone Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/headphone-amplifiers"
+    },
+    {
+      "name": "38208",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/headphone-amplifiers/38208"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

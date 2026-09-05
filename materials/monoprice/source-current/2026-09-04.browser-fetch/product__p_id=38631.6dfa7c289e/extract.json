@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8K Ultra High Speed Fiber Optic HDMI Cable - 8K@60Hz 4K@120Hz 48Gbps HDR VRR Active Optical Cable (AOC) 100ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=38631",
+    "url": "https://www.monoprice.com/product?p_id=38631",
+    "description": "SlimRun\u2122 AV Dynamic HDR 8K Ultra High Speed HDMI\u00ae Cables are the next generation in active optical cable systems. With support for resolutions up to 8K@120Hz and 48Gbps bandwidth, this future\u2011proofed cable just might be the last HDMI cable you'll ever need. Using optical fiber to replace copper wire as the high\u2011speed signal transmission medium, SlimRun can perfectly transmit 8K@120Hz HDR video to distances up to 100 meters. Compared with traditional copper wire cables, SlimRun AV HDR is not only longer, softer, and slimmer, but also offers better signal quality, without the need for external power. This cable complies with the HDMI 2.1 standard, which makes it compatible with the latest hardware, including the PlayStation\u00ae 5, PlayStation\u00ae 5 Digital Edition, Xbox Series X\u2122, and Xbox Series S\u2122.\u00a0        Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122, SlimRun\u2122, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Sony\u00ae is a registered trademark of Sony Corporation. x.v.Color\u2122 and the x.c.Color logo are trademarks of Sony Corporation. PlayStation\u00ae is a registered trademark of Sony Interactive Entertainment Inc. Microsoft\u00ae, Xbox\u00ae, Xbox Series X\u2122, and Xbox Series S\u2122 are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Updated Nov 30, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/386311.jpg\",\"https://images.monoprice.com/productlargeimages/386312.jpg\",\"https://images.monoprice.com/productlargeimages/386313.jpg\",\"https://images.monoprice.com/productlargeimages/386314.jpg\",\"https://images.monoprice.com/productlargeimages/386315.jpg\",\"https://images.monoprice.com/productlargeimages/386316.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 260.19,
+      "sku": "38631",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38631",
+      "gtin14": "889028127834"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8K Ultra High Speed Fiber Optic HDMI Cable - 8K@60Hz 4K@120Hz 48Gbps HDR VRR Active Optical Cable (AOC) 100ft Black",
+      "ratingCount": "45",
+      "reviewCount": "5",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables"
+    },
+    {
+      "name": "38631",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables/38631"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

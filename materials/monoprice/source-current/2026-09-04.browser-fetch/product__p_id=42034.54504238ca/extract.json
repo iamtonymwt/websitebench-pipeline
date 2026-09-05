@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SB-600 Dolby Atmos 5.1.2 Soundbar with Wireless Subwoofer and Wireless Surround Speakers 2 HDMI Inputs 4K HDR/DV Pass-Through eArc Bluetooth Toslink Coax Remote",
+    "@id": "https://www.monoprice.com/product?p_id=42034",
+    "url": "https://www.monoprice.com/product?p_id=42034",
+    "description": "The Monoprice\u2122 SB\u2011600 Dolby Atmos\u00ae 5.1.2 Soundbar delivers a true and powerful Dolby Atmos home theater experience, with built\u2011in Atmos height speakers on the soundbar, wireless surround speakers, and a wireless 8\" subwoofer. Two HDMI\u00ae inputs, an HDMI eARC output, coaxial and optical digital audio inputs, and a 3.5mm analog audio input allow you to connect your various audio and video devices, while the Bluetooth\u00ae 4.2 radio and USB input allow you to stream audio from your smartphone or PC. Enjoy total control from the comfort of your easy chair using the included IR remote control. The wireless connectivity ensures a quick and easy setup and a clutter free appearance. The Monoprice SB\u2011600 Dolby Atmos 5.1.2 Soundbar delivers stellar looks and a complete home theater experience.Dolby Atmos\u00ae 5.1.2 soundbarWireless surround speakersWireless 8\" subwooferTwo HDMI\u00ae inputs and an HDMI ARC outputBluetooth\u00ae 4.2 and USB streamingCoaxial and optical digital inputs3.5mm analog audio inputDSP sound modesIncludes an IR remote controlIncludes a High Speed HDMI\u00ae Cable and mounting hardware\u00a0         1 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Mar 16, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Dolby\u00ae, Dolby Atmos\u00ae, Dolby Audio\u2122, Dolby Digital\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. The Bluetooth\u00ae word mark and logos are registered trademarks of Bluetooth SIG, Inc. TOSLINK\u00ae is a registered trademark of Toshiba Corporation. Updated Mar 14, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/420341.jpg\",\"https://images.monoprice.com/productlargeimages/420342.jpg\",\"https://images.monoprice.com/productlargeimages/420343.jpg\",\"https://images.monoprice.com/productlargeimages/420344.jpg\",\"https://images.monoprice.com/productlargeimages/420345.jpg\",\"https://images.monoprice.com/productlargeimages/420346.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 549.99,
+      "sku": "42034",
+      "availability": "https://schema.org/Discontinued",
+      "url": "https://www.monoprice.com/product?p_id=42034",
+      "gtin14": "889028163344"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SB-600 Dolby Atmos 5.1.2 Soundbar with Wireless Subwoofer and Wireless Surround Speakers 2 HDMI Inputs 4K HDR/DV Pass-Through eArc Bluetooth Toslink Coax Remote",
+      "ratingCount": "59",
+      "reviewCount": "59",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Sound Bars",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/sound-bars"
+    },
+    {
+      "name": "42034",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/sound-bars/42034"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

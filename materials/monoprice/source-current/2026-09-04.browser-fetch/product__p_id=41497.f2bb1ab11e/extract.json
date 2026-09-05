@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SW-10 10 150 Watt RMS (300 Watt Peak) Powered Subwoofer",
+    "@id": "https://www.monoprice.com/product?p_id=41497",
+    "url": "https://www.monoprice.com/product?p_id=41497",
+    "description": "                                            The Monoprice\u2122 SW\u201110 10\" 150 Watt Powered Subwoofer will add deeper bass and more dramatic impact to any music or home theater system. Featuring a front firing 10\" woofer, a powerful 150 watt RMS amplifier (300 watt peak), and a down\u2011firing port, the compact Monoprice SW\u201110 will add fuller, cleaner bass to any system in any room!                                          10\" Subwoofer            150 Watt RMS (300 Watt Peak) Amplifier                                                Ported Design            40 ~ 150Hz Frequency Response                                                Variable Phase Control            Variable Low Pass Filter                                                                                                                                                              1 Year Replacement Warranty                                Monoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.                                                                                                    30 Day Money Back Guarantee                                Monoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.                                                                                                    Quality at a Fair Price                                Monoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.                                                                                                    Hassle Free Packaging                                Monoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.                                                                                                    Service and Support                                You're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!                                                      Support Files:      User's Manual (Oct 28, 2020)          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.        Dolby\u00ae, Dolby Digital\u2122, Dolby Audio\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories.        DTS\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc.          Updated Mar 10, 2022                                                                Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/414971.jpg\",\"https://images.monoprice.com/productlargeimages/414972.jpg\",\"https://images.monoprice.com/productlargeimages/414973.jpg\",\"https://images.monoprice.com/productlargeimages/414974.jpg\",\"https://images.monoprice.com/productlargeimages/414975.jpg\",\"https://images.monoprice.com/productlargeimages/414976.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 199.99,
+      "sku": "41497",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41497",
+      "gtin14": "889028156964"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SW-10 10 150 Watt RMS (300 Watt Peak) Powered Subwoofer",
+      "ratingCount": "15",
+      "reviewCount": "15",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Subwoofers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers"
+    },
+    {
+      "name": "41497",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers/41497"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

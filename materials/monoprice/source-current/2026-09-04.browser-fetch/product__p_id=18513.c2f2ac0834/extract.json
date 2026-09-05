@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Unity 100-Watt Bridgeable Power Amp",
+    "@id": "https://www.monoprice.com/product?p_id=18513",
+    "url": "https://www.monoprice.com/product?p_id=18513",
+    "description": "Multiroom audio systems are in high demand these days. Homeowners and businesses have their own idea of what they want. Sometimes the all\u2011in\u2011one does not meet the need of the client.This 2\u2011channel class D power amplifier features a stereo speaker output, with support for 4\u2011ohm and 8\u2011ohm speakers. It can deliver 50 watts per channel into 8\u2011ohm loads or 65 watts per channel into 4\u2011ohm loads. Additionally, the output can be bridged to provide 120 watts to a single 8\u2011ohm speaker. It includes a buffered loop line output of the original signal for driving another power amplifier in distributed whole house audio systems. The amp can be configured for always on, signal detection, or triggered power on status. It also includes a 12\u2011volt trigger output for controlling other devices.Features: Class\u2011D amplifier providing 50 watts/channel (RMS) into 8 ohm loads or 65 watts/channel into 4\u2011ohm loadsBridgeable output provides 120 watts into a single 8\u2011ohm load4\u2011pole detachable speaker screw connector (Euroblock connector) with support for up to 12 AWG speaker wire12\u2011volt trigger input for power\u2011on/off12\u2011volt trigger output for controlling other devicesBuffered loop output of original signal for connecting additional amplifiersRear panel volume gain adjustmentBuilt\u2011in thermal and short circuit protection circuitsIncludes rackmount ears for mounting a single amp or two amps side\u2011by\u2011sideSupport Files: User's Manual (Jul 17, 2020)Atmos\u00ae Sales Sheet (Apr 24, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Dolby\u00ae, Dolby Atmos\u00ae, and the double\u2011D symbol are registered trademarks of Dolby Laboratories. DTS\u00ae, DTS:X\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc. Updated Feb 3, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/185131.jpg\",\"https://images.monoprice.com/productlargeimages/185132.jpg\",\"https://images.monoprice.com/productlargeimages/185133.jpg\",\"https://images.monoprice.com/productlargeimages/185134.jpg\",\"https://images.monoprice.com/productlargeimages/185135.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 179.99,
+      "sku": "18513",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18513",
+      "gtin14": "889028045336"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Unity 100-Watt Bridgeable Power Amp",
+      "ratingCount": "63",
+      "reviewCount": "24",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "18513",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/18513"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

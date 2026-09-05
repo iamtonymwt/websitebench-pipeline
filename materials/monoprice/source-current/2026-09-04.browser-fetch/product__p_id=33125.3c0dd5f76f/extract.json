@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "DisplayPort 1.2a to 4K60 HDMI Active Adapter with HDR",
+    "@id": "https://www.monoprice.com/product?p_id=33125",
+    "url": "https://www.monoprice.com/product?p_id=33125",
+    "description": "Connect your DisplayPort\u00ae video source to a 4K@60Hz High Dynamic Range (HDR) HDMI\u00ae video display. This adapter is fully compliant with the HDMI 2.0 and HDCP\u2122 2.2 specifications and supports all the features found in the specs, including 3D and Multi View video. It delivers up to 18Gbps bandwidth and supports the 21:9 cinema aspect ration and up to 32 audio channels and a 1536kHz sampling rate. It supports the High Dynamic Range (HDR) feature, which significantly expands the contrast ratio and color accuracy.\u00a0\u00a04K@60Hz ResolutionHigh Dynamic Range (HDR)Compact Design4K Resolution: Enjoy stunningly realistic and lifelike video with the maximum 3840x2160p (4K) resolution with a full 60Hz framerate and support for more than 1 billion colors.High Dynamic Range (HDR): HDR is an acronym for High Dynamic Range. TVs with HDR show a better, more realistic image with more contrast, brightness, and colors than ever before. HDR significantly expands contrast ratio and color accuracy. Contrast ratio is related to how bright or dark a screen is and color accuracy is how closely the colors on the screen match colors in real life. Bright images seem brighter, with more depth.Compact Design: The small size and light weight of this adapter makes it easy to stow in a laptop bag or purse, which means that you can always have it with you when you need to connect to an HDMI\u00ae display.\u00a0CompatibilitiesCompatible with DisplayPort\u00ae equipped PCs and laptops, including the Apple MacBook\u00ae and Google Chromebook\u2122.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0\u00a0Support Files: Tech Drawing (Dec 11, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Apple\u00ae and MacBook\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122, Chrome\u2122, and Chromebook\u2122 are trademarks of Google LLC. Updated Mar 28, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/331251.jpg\",\"https://images.monoprice.com/productlargeimages/331252.jpg\",\"https://images.monoprice.com/productlargeimages/331253.jpg\",\"https://images.monoprice.com/productlargeimages/331254.jpg\",\"https://images.monoprice.com/productlargeimages/331255.jpg\",\"https://images.monoprice.com/productlargeimages/331256.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.99,
+      "sku": "33125",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33125",
+      "gtin14": "889028082812"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "DisplayPort 1.2a to 4K60 HDMI Active Adapter with HDR",
+      "ratingCount": "5",
+      "reviewCount": "4",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters"
+    },
+    {
+      "name": "33125",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters/33125"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

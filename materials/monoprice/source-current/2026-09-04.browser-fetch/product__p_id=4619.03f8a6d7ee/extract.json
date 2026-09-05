@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Aria In-Ceiling Speakers 6.5in Dual Input Stereo 3-Way (pair)",
+    "@id": "https://www.monoprice.com/product?p_id=4619",
+    "url": "https://www.monoprice.com/product?p_id=4619",
+    "description": "These in\u2011ceiling speakers feature a triple driver design with two pivoting titanium silk membrane dome tweeters for superior sonic performance. The woofer is constructed of an advanced glass composite to deliver high fidelity, distortion\u2011free audio. Each speaker features two sets of speaker wire terminals, allowing you to wire each speaker for single\u2011speaker stereo. When using single speaker stereo, you can achieve good stereo separation by pointing the tweeters in different directions to allow the sound to reflect around and fill the room.Features: Exotic glass composite woofer for distortion free reproductionOversized magnets for more impactful bassDual precision titanium silk membrane dome tweeters for broad frequency spectrum, sweeter highs and pure sonic clarityPivoting tweeters allow you to point the acoustics to the prime listening position for a more accurate and immersive sonic experience40W nominal and 100W maximum power handling capacity provides ample headroom so these drivers won't be easily overdriven or blown out8 ohms standard impedance ensure they can be safely driven by even the most modest home theater receiversInstallation Notes: To wire a speaker for single speaker stereo mode, keep the jumper set to the \"Standard single speaker stereo\" selection. Wire one of the sets of speaker terminals normally, with red/positive wired to red/positive. For the other set of speaker terminals, connect the wires in the reverse to a normal connection with the red/positive source connected to the black/negative terminal and the black/negative source connected to the red/positive terminal. This ensures that you will not experience any phase cancellation of the audio from each driver.For normal operation, set the jumper to the \"parallel connection\" option. Wire the speaker normally, with red/positive going to red/positive and black/negative going to black/negative. It does not matter which of the two terminals sets you connect to the audio source.Package Contents: 2x 6.5\" 3\u2011way In\u2011Ceiling Speaker with grille1x Installation instructions1x Cutout template and paint mask1x Grille removal tool1x Grille puttyPlease note that the video on this page shows the specific instructions for installation of PID 4101. However, it is representational of the steps, tools, and types of procedures that would be used for the installation of any in\u2011wall or in\u2011ceiling speaker and is included on this page for reference purposes only. Please refer to the installation instructions of the in\u2011wall or in\u2011ceiling speaker you have for the specific dimensions and installation procedures. Note that the price listed in the video was the price for PID 4101 at the time the video was made. Prices can fluctuate up and down based on production costs and the value of the US$ against foreign currencies. Support Files: User's Manual (Aug 30, 2011)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 18, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/46191.jpg\",\"https://images.monoprice.com/productlargeimages/46192.jpg\",\"https://images.monoprice.com/productlargeimages/46193.jpg\",\"https://images.monoprice.com/productlargeimages/46194.jpg\",\"https://images.monoprice.com/productlargeimages/46195.jpg\",\"https://images.monoprice.com/productlargeimages/46196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 149.99,
+      "sku": "4619",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4619",
+      "gtin14": "844660046196"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Aria In-Ceiling Speakers 6.5in Dual Input Stereo 3-Way (pair)",
+      "ratingCount": "86",
+      "reviewCount": "86",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "In Ceiling Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-ceiling-speakers"
+    },
+    {
+      "name": "4619",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-ceiling-speakers/4619"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

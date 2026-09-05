@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - NEMA 5-15P to IEC-320-C5 18AWG 7A/125V SVT 3-Prong 10ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=7689",
+    "url": "https://www.monoprice.com/product?p_id=7689",
+    "description": "This is a 3\u2011conductor, grounded AC power cord designed for use with switched\u2011mode power supplies with the IEC 60320 C6 connector. It features a standard 3\u2011prong NEMA\u00ae 5\u201115P plug at one end and an IEC 60320 C5 plug, also known as a \"cloverleaf\" plug due to its shape, at the other end. This fully molded power cord connects your laptop power supply to a wall outlet. This 18 AWG cable is designed to carry up to a 7 amp/875 watt, 125 volt load.\u00a0Wall\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201115PEquipment\u00a0Plug\u00a0TypeIEC 60320 C5Jacket\u00a0MaterialSVT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18 AWGMaximum\u00a0Current7 ampsCertificationsUL\u00ae, cUL, RoHSSupport Files: Diagram (May 08, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC.Updated Aug 20, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76891.jpg\",\"https://images.monoprice.com/productlargeimages/76892.jpg\",\"https://images.monoprice.com/productlargeimages/76893.jpg\",\"https://images.monoprice.com/productlargeimages/76894.jpg\",\"https://images.monoprice.com/productlargeimages/76895.jpg\",\"https://images.monoprice.com/productlargeimages/76896.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.19,
+      "sku": "7689",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=7689",
+      "gtin14": "844660076896"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - NEMA 5-15P to IEC-320-C5 18AWG 7A/125V SVT 3-Prong 10ft Black",
+      "ratingCount": "151",
+      "reviewCount": "30",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Laptop AC Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/laptop-ac-power-cords"
+    },
+    {
+      "name": "7689",
+      "url": "https://www.monoprice.com/category/cables/power-cords/laptop-ac-power-cords/7689"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

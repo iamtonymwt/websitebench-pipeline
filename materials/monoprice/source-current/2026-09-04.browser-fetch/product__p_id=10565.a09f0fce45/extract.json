@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium 5.1-Channel Home Theater System with Subwoofer",
+    "@id": "https://www.monoprice.com/product?p_id=10565",
+    "url": "https://www.monoprice.com/product?p_id=10565",
+    "description": "While superb sound quality is the ultimate goal of any home audio system, the realities of budget and even aesthetics often force compromises in sound quality. Well, the time for compromise is over. Now you can have it all \u2011 great sound, great looks, small size, and an unbelievably low price!The Monoprice Premium 5.1\u2011Channel Home Theater System surpasses all expectations for sound quality in a small package. The four satellite and the single center speakers each use a 3\" polypropylene mid\u2011range driver and a 3/4\" aluminum dome tweeter. They can handle up 100 watts of power and have an impedance of 8 ohms.The satellite and center channel speakers handle frequencies from 110Hz to 20kHz \u00b13dB, with the crossover between the mid\u2011range and tweeter drivers set to 3.5KHz. The powered subwoofer features an 8\" downward firing speaker driven by a 200 watt amplifier. It handles frequencies from 30Hz to 150Hz (\u201110dB) and uses a variable crossover from 40\u2011150Hz.The satellites measure only about 6.9\" x 4.3\" x 4.3\" (HWD) and weigh about 2.9 lbs each, making them easy to mount almost anywhere. The center channel speaker measures about 4.3\" x 10.2\" x 4.3\" (HWD) and weighs 3.0 lbs. Both the satellite and center speakers are equipped with a universal 1/4\" threaded insert mounting options and have rear\u2011firing ports, so they sound best when there is some breathing room behind them.The subwoofer is a 12.6\" cube and weighs about 20 lbs. It features four large rubber feet, which keep the downward firing driver off the floor. It includes both line and speaker level stereo inputs, so it can be used with any amplifier. A phase control switch on the back allows you to adjust the phase of the subwoofer in relation to the rest of the system.So when looking for speakers for your home audio system, make the no compromise choice and enjoy superb sound quality and a stunning sound stage with the Monoprice Premium 5.1\u2011Channel Home Theater System!Support Files: User's Manual (Apr 25, 2018)Manual de Usuario (Espa\u00f1ol) (Mar 19, 2015)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 25, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/105651.jpg\",\"https://images.monoprice.com/productlargeimages/105652.jpg\",\"https://images.monoprice.com/productlargeimages/105653.jpg\",\"https://images.monoprice.com/productlargeimages/105654.jpg\",\"https://images.monoprice.com/productlargeimages/105655.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 329.99,
+      "sku": "10565",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=10565",
+      "gtin14": "757901804045"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium 5.1-Channel Home Theater System with Subwoofer",
+      "ratingCount": "288",
+      "reviewCount": "288",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Home Theater Speakers Systems",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/home-theater-speakers-systems"
+    },
+    {
+      "name": "10565",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/home-theater-speakers-systems/10565"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

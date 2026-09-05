@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R 16AWG 13A/1625W 3-Prong Black 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=5298",
+    "url": "https://www.monoprice.com/product?p_id=5298",
+    "description": "Extend the reach of your AC powered device using this AC power extension cord to power equipment from a distant power outlet. This cable features a standard, grounded NEMA\u00ae 5\u201115P plug on one end and a NEMA 5\u201115R receptacle on the other. Simply plug your device into the receptacle, then plug the other end of the cord into an AC power outlet. These cables are designed to carry up to a 13 amp/1625 watt, 125 volt load.Features: Recommended for powering computers, monitors, and other essential peripheralsIdeal replacement for worn out or missing extension cordsConnect devices, such as computers, servers, and monitors to a PDU\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0TypeNEMA 5\u201115RJacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge16 AWGMaximum\u00a0Current13 ampsCertificationsUL\u00ae, cUL, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC.Updated Jul 15, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/52981.jpg\",\"https://images.monoprice.com/productlargeimages/52982.jpg\",\"https://images.monoprice.com/productlargeimages/52983.jpg\",\"https://images.monoprice.com/productlargeimages/52984.jpg\",\"https://images.monoprice.com/productlargeimages/52985.jpg\",\"https://images.monoprice.com/productlargeimages/52986.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 20.29,
+      "sku": "5298",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5298",
+      "gtin14": "844660052982"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R 16AWG 13A/1625W 3-Prong Black 3ft",
+      "ratingCount": "664",
+      "reviewCount": "78",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "5298",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/5298"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

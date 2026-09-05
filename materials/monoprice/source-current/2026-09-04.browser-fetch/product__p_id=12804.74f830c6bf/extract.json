@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded 550MHz UTP CM Pure Bare Copper Wire 24AWG No Logo 1000ft White",
+    "@id": "https://www.monoprice.com/product?p_id=12804",
+    "url": "https://www.monoprice.com/product?p_id=12804",
+    "description": "Avoid having excess Ethernet cable lying around by building your own cables to the exact length needed using this Bulk Ethernet Copper Cable from Monoprice\u2122!Features: Unshielded Twisted Pair (UTP) Category 6 Ethernet cable24AWG stranded, pure bare copper conductorsCM (In\u2011Wall) fire safety rating550MHz bandwidth1000 foot rollMonoprice\u2122 Ethernet cables are made of 100% pure bare copper wire, as opposed to copper clad aluminum (CCA) wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated Jun 14, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/128041.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 149.99,
+      "sku": "12804",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12804",
+      "gtin14": "889028008225"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded 550MHz UTP CM Pure Bare Copper Wire 24AWG No Logo 1000ft White",
+      "ratingCount": "3",
+      "reviewCount": "1",
+      "ratingValue": "3.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Networking Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables"
+    },
+    {
+      "name": "Cat6 Bulk Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables"
+    },
+    {
+      "name": "12804",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables/12804"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

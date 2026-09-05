@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RVC50-70 50-Watt 70V Rotary Speaker Volume Control",
+    "@id": "https://www.monoprice.com/product?p_id=38163",
+    "url": "https://www.monoprice.com/product?p_id=38163",
+    "description": "The RVC50\u201170 is an in\u2011wall, inline volume control for 70V music systems. It features 11 volume positions with make before break contacts. It supports a maximum load of 50 watts and can fit into a single gang junction box, while two RVC50\u201170 volume controls or one RVC25\u201170 and one RVC\u201150\u201170 can fit side\u2011by\u2011side into a dual gang box.Support Files: Quick Install Guide (Jul 3, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 9, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381631.jpg\",\"https://images.monoprice.com/productlargeimages/381632.jpg\",\"https://images.monoprice.com/productlargeimages/381633.jpg\",\"https://images.monoprice.com/productlargeimages/381634.jpg\",\"https://images.monoprice.com/productlargeimages/381635.jpg\",\"https://images.monoprice.com/productlargeimages/381636.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "38163",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38163",
+      "gtin14": "889028123133"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RVC50-70 50-Watt 70V Rotary Speaker Volume Control",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38163",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38163"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

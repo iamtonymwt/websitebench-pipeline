@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Shoe box 12pcs Stackable Clear Plastic Shoe Organizer Shoe Rack Sneaker Storage Box with Lid For Men and Women Shoes Heels Flats Sneakers Sandals Flip Flops",
+    "@id": "https://www.monoprice.com/product?p_id=44565",
+    "url": "https://www.monoprice.com/product?p_id=44565",
+    "description": "This MPM Shoe Box 12pcs is designed to provide efficient and space-saving storage for your pair of shoes, sneakers, sandals, flip flops, wedges, and more. Made of durable clear plastic to easily see what\u2019s inside the box and breathable design to ensure ventilation and odor prevention. These stackable shoe boxes can be arrange to suit various spaces such as under the bed, entryway, living room, cabinet, and closet.Stackable and Sturdy: This design is space saving and organized your shoes. Can be arranged freely according to storage space under the bed, entryway, living room, cabinet, and closet.Clear and Transparent: Allowing you to easily see the shoes stored inside without the need to open the box.Dust-Free: Provides protection against dust and other contaminants that helps maintain cleanliness of your shoes.Breathable Design: Ensure ventilation and odor prevention.Versatile Use: Aside from storing shoes, these boxes can also be used to store accessories, items, or crafts.SpecificationShape: rectangleProduct size: 13*9.4*5.70 inchesMaterial: PP+ABS\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/445651.jpg\",\"https://images.monoprice.com/productlargeimages/445652.jpg\",\"https://images.monoprice.com/productlargeimages/445653.jpg\",\"https://images.monoprice.com/productlargeimages/445654.jpg\",\"https://images.monoprice.com/productlargeimages/445655.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 34.99,
+      "sku": "44565",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44565",
+      "gtin14": "889028190326"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Shoe box 12pcs Stackable Clear Plastic Shoe Organizer Shoe Rack Sneaker Storage Box with Lid For Men and Women Shoes Heels Flats Sneakers Sandals Flip Flops",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "44565",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/44565"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

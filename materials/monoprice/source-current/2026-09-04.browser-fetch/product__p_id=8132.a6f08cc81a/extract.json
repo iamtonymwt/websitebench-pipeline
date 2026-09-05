@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Multifunction RJ-45 BNC and Speaker Wire Tone Generator Tracer Tester",
+    "@id": "https://www.monoprice.com/product?p_id=8132",
+    "url": "https://www.monoprice.com/product?p_id=8132",
+    "description": "The Monoprice\u2122 3\u2011in\u20111 Tracer/Toner/Cable Tester is a professional tool used to test and troubleshoot RJ45, RJ11, and BNC cables. It can also be used to trace and identify individual wires within a wire bundle or group and can provide talk testing functionality between telephone units.The tester is composed of two main units: the Tone Generator/Cable Tester and the Amplifier Probe with sensing tip. Each unit is constructed of plastic with the edges covered in rubber to improve grip. Each unit is powered by a 9 volt battery and two batteries are included in the packaging.The Tone Generator/Cable Tester is the main testing unit and is used to test cable continuity for Coaxial cables, RJ45 and RJ11 cables, and for individual wires using the attached alligator clips. A detachable Remote Terminator is used for RJ45 and RJ11 cables to provide the continuity link at the remote end of the cable.The Tone Generator portion of the tester is used to send a tone down an attached cable. The Amplifier Probe is then used at the other end to test individual cables in a bundle or group to find the one with the tone, thus identifying the cable. The Amplifier Probe can also be used at various points along a cable length to locate a break in the cable.In Talk Batt mode, the tester provides the power and closes a telephone circuit to allow the phones to be tested for operation and the wires to be tested for continuity and clarity.The tester has an auto\u2011off functionality that kicks in after 20 seconds of non\u2011use in all modes except the Toner and Talk Batt mode. These latter two modes will remain on without activity for 30 minutes before the tester automatically shuts down.Support Files: User's Manual (May 18, 2011)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 20, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/81321.jpg\",\"https://images.monoprice.com/productlargeimages/81322.jpg\",\"https://images.monoprice.com/productlargeimages/81323.jpg\",\"https://images.monoprice.com/productlargeimages/81324.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 99.99,
+      "sku": "8132",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8132",
+      "gtin14": "844660081326"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Multifunction RJ-45 BNC and Speaker Wire Tone Generator Tracer Tester",
+      "ratingCount": "26",
+      "reviewCount": "26",
+      "ratingValue": "3.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Tests & Tone Generators",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/tests-&-tone-generators"
+    },
+    {
+      "name": "8132",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/tests-&-tone-generators/8132"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

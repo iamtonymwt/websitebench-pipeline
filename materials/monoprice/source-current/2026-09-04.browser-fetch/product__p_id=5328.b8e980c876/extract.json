@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 7-Port USB 2.0 Hub with AC Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=5328",
+    "url": "https://www.monoprice.com/product?p_id=5328",
+    "description": "The 7-port USB 2.0 hub provides 7 Hi-Speed USB 2.0 ports for your high-speed connectivity needs. This device is fully compliant to USB 2.0 specifications and provides a data transfer rate of up to 480 Mbps. The MS-UH2070 also supports USB 1.1 devices since it is backward compatible with USB 1.1 specifications. It is very easy to use, Plug-n-Play, hot swappable and portable.7 downstream and one upstream portsSupports data transfer rate of up to 480 Mbps40 times faster than USB 1.1 productsconnect up to 127 devices together ( through daisy chaining)Plug-n-Play, hot swappableAutomatically switches to the highest speed supported by peripheralBackward compatible with USB 1.1 specifications\u00a0* This is a self-powered\u00a0hub with\u00a0external power adapter\u00a0included.\u00a0Compatible Operating Systems:Windows 95Windows 98Windows MEWindows NTWindows 2000Windows XP (32-bit and 64-bit)Windows Vista (32-bit and 64-bit)Windows 7 (32-bit and 64-bit)Mac OS 9Mac OS 10.0Mac OS 10.1Mac OS 10.2Mac OS 10.3Mac OS 10.4Mac OS 10.5Mac OS 10.6Linux",
+    "image": "[\"https://images.monoprice.com/productlargeimages/53281.jpg\",\"https://images.monoprice.com/productlargeimages/53282.jpg\",\"https://images.monoprice.com/productlargeimages/53283.jpg\",\"https://images.monoprice.com/productlargeimages/53284.jpg\",\"https://images.monoprice.com/productlargeimages/53285.jpg\",\"https://images.monoprice.com/productlargeimages/53286.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 38.99,
+      "sku": "5328",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5328",
+      "gtin14": "844660053286"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 7-Port USB 2.0 Hub with AC Adapter",
+      "ratingCount": "362",
+      "reviewCount": "304",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Hubs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs"
+    },
+    {
+      "name": "5328",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs/5328"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

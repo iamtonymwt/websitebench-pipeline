@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 35ft Premier Series XLR Male to 1/4in TRS Male Cable 16AWG (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=4765",
+    "url": "https://www.monoprice.com/product?p_id=4765",
+    "description": "Step into a realm of unparalleled audio performance with the Monoprice Premier Series XLR Male to 1/4in TRS Male Cable, a pinnacle of professional\u2011grade connectivity designed to elevate your audio experience to new heights. Crafted with meticulous attention to detail and uncompromising quality standards, this cable exemplifies Monoprice's commitment to delivering exceptional performance at an unbeatable value.Designed to meet the rigorous demands of professional audio applications, Monoprice Professional Audio cables are the ultimate choice for broadcasters, musicians, recording engineers, and audio enthusiasts alike. Whether you're connecting studio equipment, instruments for live performances, or high\u2011end audio systems, these cables are engineered to deliver pristine sound quality and reliable performance in any scenario.At the heart of this cable's performance lies its balanced audio design, which utilizes impedance\u2011balanced lines to minimize electromagnetic (EM) and radio frequency (RF) interference, ensuring clean, noise\u2011free signal transmission over extended cable runs. Unlike standard unbalanced RCA interconnects, which rely on their braid as a signal return, balanced cables feature a separate braided shield that provides enhanced resistance to interference without introducing signal modulation or ground loop issues, preserving the integrity of your audio signals.The XLR to 1/4in TRS configuration of this cable is ideal for connecting a wide range of professional audio equipment, including microphones, mixers, amplifiers, and more. By providing balanced connections, this cable delivers high-\u2011fidelity audio reproduction with minimal noise and distortion, making it an indispensable tool for recording studios, live sound reinforcement setups, and broadcast environments where pristine sound quality is paramount.Elevating the standards of construction quality and performance, the Monoprice Premier Series cables are engineered with precision and durability in mind. Featuring 16AWG stranded copper wire conduits, these cables offer robust signal transmission capabilities, ensuring reliable performance even in demanding applications. The 97.5% shielded balanced connections further enhance signal integrity by minimizing the impact of external interference sources.To ensure optimal conductivity and corrosion resistance, the connectors of this cable are gold plated, providing a reliable electrical connection while minimizing signal degradation over time. The metallic graphite\u2011colored connector housings not only add a touch of elegance to the cable's aesthetic but also enhance durability and signal integrity by providing superior strain relief and protection against physical damage.Additionally, molded strain relief boots safeguard the cable's terminations from excessive bending and stress, prolonging its lifespan and ensuring consistent performance over time. Whether you're setting up a professional recording studio, outfitting a live sound rig, or simply seeking to enhance the audio quality of your home entertainment system, the Monoprice Premier Series XLR Male to 1/4in TRS Male Cable delivers the performance, reliability, and value you need to take your audio experience to the next level.Features: 16AWG stranded copper wire conduits97.5% shielded balanced connectionsGold plated connectorsMetallic graphite colored connector housingsMolded strain relief bootsMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice. Updated Jun 15, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/47651.jpg\",\"https://images.monoprice.com/productlargeimages/47652.jpg\",\"https://images.monoprice.com/productlargeimages/47653.jpg\",\"https://images.monoprice.com/productlargeimages/47654.jpg\",\"https://images.monoprice.com/productlargeimages/47655.jpg\",\"https://images.monoprice.com/productlargeimages/47656.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 44.99,
+      "sku": "4765",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4765",
+      "gtin14": "844660047650"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 35ft Premier Series XLR Male to 1/4in TRS Male Cable 16AWG (Gold Plated)",
+      "ratingCount": "296",
+      "reviewCount": "22",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "4765",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/4765"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

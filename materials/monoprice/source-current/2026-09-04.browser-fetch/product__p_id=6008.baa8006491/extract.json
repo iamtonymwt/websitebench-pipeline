@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Mini DisplayPort to DisplayPort Cable - Bidirectional 32AWG Sheilded Gold Plated 10ft White",
+    "@id": "https://www.monoprice.com/product?p_id=6008",
+    "url": "https://www.monoprice.com/product?p_id=6008",
+    "description": "Connect your DisplayPort\u00ae and Mini DisplayPort sources and devices with this bidirectional cable from Monoprice\u00e2\u201e\u00a2!This cable has a standard sized DisplayPort (DP) connector on one end and a Mini DisplayPort (MDP) connector on the other. The cable is bidirectional, which means that you can use a DP source with a MDP monitor or a MDP source with a DP monitor.The conductors are made of pure copper and the connectors are gold plated for improved connectivity and corrosion resistance. Additionally, it is well shielded to prevent stray electromagnetic (EM) and radio frequency (RF) signals from interfering with your data.Important Note! This cable supports DisplayPort version 1.1, which does NOT support audio and has a maximum data transmission rate of 8.64 Gbps. Monoprice\u00e2\u201e\u00a2 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. Updated Apr 29, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/60081.jpg\",\"https://images.monoprice.com/productlargeimages/60082.jpg\",\"https://images.monoprice.com/productlargeimages/60083.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "6008",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6008",
+      "gtin14": "844660060086"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Mini DisplayPort to DisplayPort Cable - Bidirectional 32AWG Sheilded Gold Plated 10ft White",
+      "ratingCount": "266",
+      "reviewCount": "55",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "6008",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/6008"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

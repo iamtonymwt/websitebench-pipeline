@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6 Outlet Slim Surge Protector Power Strip with AV Coaxial Protection - 1080 Joules 4ft Cord",
+    "@id": "https://www.monoprice.com/product?p_id=9199",
+    "url": "https://www.monoprice.com/product?p_id=9199",
+    "description": "Protect your electronic equipment from damaging voltage and current spikes with this Monoprice surge protector!This model includes six protected power outlets and coaxial/RF line protection. The clear plastic tab on the side of the unit illuminates green to indicate when the surge protector is providing protection to your equipment. When the protection circuitry has been fully consumed by power and current spikes, the protection light will no longer illuminate, indicating that the surge protector should be replaced.The surge strip has 4 keyholes on the back, allowing it to be secured to a wall or other surface.Features: 6 protected power outlets1080 joules of protection4 foot power cordCoaxial/RF line protection2-in-1 power/circuit breaker switchBuilt-in EMI/RFI filter15A, 1800 watts capacityUL\u00ae/cUL rated\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jun 19, 2020 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/91991.jpg\",\"https://images.monoprice.com/productlargeimages/91992.jpg\",\"https://images.monoprice.com/productlargeimages/91993.jpg\",\"https://images.monoprice.com/productlargeimages/91994.jpg\",\"https://images.monoprice.com/productlargeimages/91995.jpg\",\"https://images.monoprice.com/productlargeimages/91996.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.19,
+      "sku": "9199",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9199",
+      "gtin14": "844660091998"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6 Outlet Slim Surge Protector Power Strip with AV Coaxial Protection - 1080 Joules 4ft Cord",
+      "ratingCount": "34",
+      "reviewCount": "34",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Strip Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors"
+    },
+    {
+      "name": "9199",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors/9199"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

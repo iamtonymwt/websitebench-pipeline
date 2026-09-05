@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 4-Port USB 2.0 HUB",
+    "@id": "https://www.monoprice.com/product?p_id=6631",
+    "url": "https://www.monoprice.com/product?p_id=6631",
+    "description": "\u00a0The 4-port USB 2.0 hub provides 4 Hi-Speed USB 2.0 ports for your high-speed connectivity needs. This device is USB 2.0 and provides a data transfer rate of up to 480 Mbps (high speed). Also supports USB 1.1 devices since it is backward compatible with USB 1.1 specifications. It is very easy to use, Plug-n-Play, hot swappable and portable.\u00a04 USB 2.0 ports for easy expansionSupports a data transfer rate of up to 480 Mbps40 Times faster than USB 1.1 productsPlug-n-Play, hot swappableBackward compatible with USB 1.1 specificationsSupports Windows 98, 98SE, 2000, ME, XP, Vista and Mac OS X or later versionOvercurrent ProtectionSelf PoweredUSB cable tucks away when not in useCompatible Operating Systems:Windows 95Windows 98Windows MEWindows NTWindows 2000Windows XP (32-bit and 64-bit)Windows Vista (32-bit and 64-bit)Windows 7 (32-bit and 64-bit)Mac OS 9Mac OS 10.0Mac OS 10.1Mac OS 10.2Mac OS 10.3Mac OS 10.4Mac OS 10.5Mac OS 10.6Linux",
+    "image": "[\"https://images.monoprice.com/productlargeimages/66311.jpg\",\"https://images.monoprice.com/productlargeimages/66312.jpg\",\"https://images.monoprice.com/productlargeimages/66313.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "6631",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6631",
+      "gtin14": "844660066316"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 4-Port USB 2.0 HUB",
+      "ratingCount": "276",
+      "reviewCount": "216",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Hubs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs"
+    },
+    {
+      "name": "6631",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs/6631"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - CEE 7/7 SCHUKO (Europe) to IEC 60320 C13 H05VV-F 3G 0.75 mmsup2/sup Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=7692",
+    "url": "https://www.monoprice.com/product?p_id=7692",
+    "description": "This AC power cord is designed to connect a computer or other device to an electrical outlet that conforms to either the CEE 7/3 SCHUKO\u00ae (German) or the CEE 7/5 standard (French). It features a grounded CEE 7/7 plug on one end and an IEC 60320 C13 receptacle on the other end. This 18 AWG cable is rated to carry up to a 5 amp/1250 watt, 250 volt load.\u00a0Wall\u00a0Plug\u00a0TypeCEE 7/7Equipment\u00a0Plug\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialH05VV\u2011F 3G#\u00a0of\u00a0Conductors2Wire\u00a0Gauge18 AWGMaximum\u00a0Current5 ampsCertifications+S, KEMA, OVE, SEMKO, NEMKO, DEMKO, FIMKO, CEBEC, VDEMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. SCHUKO\u00ae is a registered trademark of the SCHUKO trademark association. Updated Jul 13, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76921.jpg\",\"https://images.monoprice.com/productlargeimages/76922.jpg\",\"https://images.monoprice.com/productlargeimages/76923.jpg\",\"https://images.monoprice.com/productlargeimages/76924.jpg\",\"https://images.monoprice.com/productlargeimages/76925.jpg\",\"https://images.monoprice.com/productlargeimages/76926.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.09,
+      "sku": "7692",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7692",
+      "gtin14": "844660076926"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - CEE 7/7 SCHUKO (Europe) to IEC 60320 C13 H05VV-F 3G 0.75 mmsup2/sup Black 6ft",
+      "ratingCount": "5",
+      "reviewCount": "4",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "International Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords"
+    },
+    {
+      "name": "7692",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords/7692"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird H.265 Video Receiver/Decoder over IP with HDMI Receiver Only",
+    "@id": "https://www.monoprice.com/product?p_id=43625",
+    "url": "https://www.monoprice.com/product?p_id=43625",
+    "description": "The Blackbird\u2122 PRO H.265 HDMI\u00ae over IP Kit allows you to distribute an HDMI video signal to distances up to 492 feet (150 meters) over a single Cat5e/6 Ethernet cable. In addition to a normal connection between the Encoder/Transmitter and Decoder/Receiver, the Encoder can be connected directly to a computer and the signal can be decoded using the VLC\u00ae free, open\u2011source media player. It can also connect to one or more Decoders/Receivers through an Ethernet switch, thereby allowing distribution to multiple displays. it supports the H.264 and H.265 codecs and video resolutions up to 1900x1200@60Hz with the YCbCr 4:4:4 color space.This is the Decoder/Receiver only. Click here for the complete kit (43624).Features: Compliant with the HDMI\u00ae 1.4b and HDCP\u2122 1.4 specificationsSupports 10.2 Gbps bandwidthSupports video resolutions up to 1900x1200@60Hz YCbCr 4:4:4Supports the H.264 and H.265 codecsTransmits to distances up to 492 feet (150 meters) over a single Cat5e/6 Ethernet cableSupports broadband IR extensionSupport Files: User's Manual (Apr 26, 2023)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. VideoLAN\u00ae, VLC\u00ae, VLC media player\u00ae, and x264\u00ae are trademarks internationally registered by the VideoLAN non-profit organization. HDCP\u2122 is a trademark of Digital Content Protection LLC. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. Blu\u2011ray Disc\u2122, Blu\u2011ray\u2122, and the logos are trademarks of the Blu\u2011ray Disc Association. Updated Jun 30, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/436251.jpg\",\"https://images.monoprice.com/productlargeimages/436252.jpg\",\"https://images.monoprice.com/productlargeimages/436253.jpg\",\"https://images.monoprice.com/productlargeimages/436254.jpg\",\"https://images.monoprice.com/productlargeimages/436255.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "43625",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43625",
+      "gtin14": "889028179901"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird H.265 Video Receiver/Decoder over IP with HDMI Receiver Only",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Extenders",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders"
+    },
+    {
+      "name": "43625",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders/43625"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Reverse Nose Decora Plate White",
+    "@id": "https://www.monoprice.com/product?p_id=18652",
+    "url": "https://www.monoprice.com/product?p_id=18652",
+    "description": "Use the Reverse Nose Decor Insert to install low voltage cables behind your HDTV, amplifier or other audio video devices. The Reverse Nose Decor Insert is designed to be installed into a low voltage mounting bracket (sold separately) that is installed into the wall.Features: Low profile design fits behind the thinnest mounts and TV'sConceal multiple low voltage cables behind your HDTVEasily holds up to 6 cablesMounts flush with a decor style wall plateMounts to a standard low voltage mounting ring or old work ringAllows cable management internally rather than externallyPerfect for eliminating connections at the wallAvailable in 5 colors: black, brown, ivory, lite almond, whiteQuick and easy to installSupport Files: User's Manual (Aug 28, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 3, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/186521.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "18652",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18652",
+      "gtin14": "889028046746"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Reverse Nose Decora Plate White",
+      "ratingCount": "8",
+      "reviewCount": "8",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "18652",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/18652"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

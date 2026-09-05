@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 3x 3W LED Truss Warmer DMX RGB PAR Stage Wash Light with Remote",
+    "@id": "https://www.monoprice.com/product?p_id=612733",
+    "url": "https://www.monoprice.com/product?p_id=612733",
+    "description": "                    Sometimes you do not have time to program an elaborate light show for your event. Sometimes you do not have the staff to run it. Use this simple IR controlled truss wash uplight to easily add lighting effects. The compact triangle shape will fit just about anywhere, so they are not a distraction from your guests. The three 3\u2011watt tri\u2011color LEDs give plenty of illumination for 20\u2011foot walls or truss warmers.                    Use the master/slave mode with the IR remote to drive an entire show with one simple to use wireless control. Start with a solid color for dinner then click to a multicolor show when the dancing starts. DMX in/out ports are included. When used as truss light for a large show, colors and brightness are all controllable via standard 3\u2011pin DMX cables to your controller.                    This light features three 3\u2011watt RGB 3\u2011in\u20111 LEDs and 16\u2011built\u2011in presets. It employs 32\u2011bit dimming technology for smooth, even fades. It can operate in standalone mode, as a master or slave, or with 3\u2011, 6\u2011, 7\u2011, or 8\u2011channel DMX control. It has a greater than 1.5kHz refresh rate, ensuring flicker free operation for television broadcasts and video recording.                              Features:                            Three 3\u2011watt RGB 3\u2011in\u20111 LEDs        3, 6, 7, or 8\u2011channel DMX modes        16 built\u2011in presets        32\u2011bit smooth dimming technology        1.5kHz refresh rate        Flicker free for television broadcasts and video recording        Variable electronic strobe, dimming, and color changing effects        Standalone, Master/Slave, and DMX modes                                                                                                                                                          Support Files:        User's Manual (Jul 10, 2017)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 18, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6127331.jpg\",\"https://images.monoprice.com/productlargeimages/6127332.jpg\",\"https://images.monoprice.com/productlargeimages/6127333.jpg\",\"https://images.monoprice.com/productlargeimages/6127334.jpg\",\"https://images.monoprice.com/productlargeimages/6127335.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 89.99,
+      "sku": "612733",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=612733",
+      "gtin14": "889028059098"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 3x 3W LED Truss Warmer DMX RGB PAR Stage Wash Light with Remote",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "LED Wash Lights",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights"
+    },
+    {
+      "name": "612733",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights/612733"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

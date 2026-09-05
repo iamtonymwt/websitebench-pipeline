@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Switch Series HDMI USB Combo Cable for KVM Switches 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=36644",
+    "url": "https://www.monoprice.com/product?p_id=36644",
+    "description": "This Monoprice HDMI\u00ae USB Combo Cable for KVM Switches is the easiest way to connect all your computers and servers to your KVM switches. It provides image clarity for high resolution applications, as well as USB connections. The cables add great performance, high quality, and reliability to KVM applications.Features: Dual head HDMI\u00ae to HDMI combo cableFully compatible with the HDMI 2.0 standardSupports video resolutions up to 4K@60HzSupports High Dynamic Range (HDR)Full YUV 4:4:4 chroma sampling at 4KSupports USB for keyboard and mouseLifetime Monoprice warrantyHDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Updated Apr 22, 2019 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/366441.jpg\",\"https://images.monoprice.com/productlargeimages/366442.jpg\",\"https://images.monoprice.com/productlargeimages/366443.jpg\",\"https://images.monoprice.com/productlargeimages/366444.jpg\",\"https://images.monoprice.com/productlargeimages/366445.jpg\",\"https://images.monoprice.com/productlargeimages/366446.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "36644",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=36644",
+      "gtin14": "889028118931"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Switch Series HDMI USB Combo Cable for KVM Switches 6ft",
+      "ratingCount": "4",
+      "reviewCount": "1",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "KVM Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/kvm-cables"
+    },
+    {
+      "name": "36644",
+      "url": "https://www.monoprice.com/category/cables/data-cables/kvm-cables/36644"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

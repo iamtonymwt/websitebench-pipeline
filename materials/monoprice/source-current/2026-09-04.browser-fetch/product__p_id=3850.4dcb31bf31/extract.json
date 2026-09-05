@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HDMI Port Saver (Male to Female) - 270 Degree",
+    "@id": "https://www.monoprice.com/product?p_id=3850",
+    "url": "https://www.monoprice.com/product?p_id=3850",
+    "description": "Are tight spaces giving you a problem connecting your HDMI\u00ae cable? Tired of having to move your equipment just to reach those hard-to-get-to-places? Use an HDMI\u00ae port saver to save time and effort in your cable setup! Our 270 degree HDMI\u00ae port saver (male to female) gives you the flexibility you need without risking bending your HDMI\u00ae cables excessively, which may damage the cable or, even worse, the ports on your expensive equipment. This port saver will help ease the strain at the point of connection to eliminate damage to the HDMI\u00ae ports on your devices.\u00a0Dimensions: 1.09\" x 0.64\" x 0.78\"\u00a0WARNING: Since port alignment differs from one device to another, it is difficult to state which way this port saver will point on your particular device. For that reason, we offer two different angled models, one with a 90 degree bend, which angles toward the beveled side of the connector, and a 270 degree connector, which points in the opposite direction. Please look at the orientation of the HDMI port on your device to determine how it is aligned and whether this port saver will point your cable in the direction you desire.HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/38501.jpg\",\"https://images.monoprice.com/productlargeimages/38502.jpg\",\"https://images.monoprice.com/productlargeimages/38503.jpg\",\"https://images.monoprice.com/productlargeimages/38504.jpg\",\"https://images.monoprice.com/productlargeimages/38505.jpg\",\"https://images.monoprice.com/productlargeimages/38506.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "3850",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3850",
+      "gtin14": "844660038504"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HDMI Port Saver (Male to Female) - 270 Degree",
+      "ratingCount": "337",
+      "reviewCount": "337",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "HDMI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters"
+    },
+    {
+      "name": "3850",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters/3850"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

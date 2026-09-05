@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SS-4 Premium 4-Channel Speaker Selector",
+    "@id": "https://www.monoprice.com/product?p_id=38157",
+    "url": "https://www.monoprice.com/product?p_id=38157",
+    "description": "                    The SS\u20114 Speaker Selector is a resistor\u2011based, impedance matching speaker selector used for connecting up to four pairs of 4\u2011ohm or 8\u2011ohm speakers, while maintaining a safe impedance load for your amplifier or receiver. Each pair of speakers can be independently turned on or off using push buttons on the front panel, with no need for worrying about amplifier loading.                              Features:                            Connect and safely control multiple speaker pairs with a single amplifier        Automatic impedance protection circuitry        100 watts RMS per channel power capacity        5\u2011ohm minimum amplifier impedance with four 4\u2011ohm speakers selected, 6\u2011ohm minimum with 8\u2011ohm speakers        Supports 12\u201116 AWG speaker wire        Individual zone on/off buttons        Heavy\u2011duty screw\u2011type connectors        Isolated left/right circuit grounds provide a safe connection for amplifiers with floating grounds or bridged configurations        Accurate, noise\u2011free switching                                                                                                                                                          Support Files:      Quick Install Guide (Jul 3, 2019)          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 8, 2022                                                                Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381571.jpg\",\"https://images.monoprice.com/productlargeimages/381572.jpg\",\"https://images.monoprice.com/productlargeimages/381573.jpg\",\"https://images.monoprice.com/productlargeimages/381574.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 79.99,
+      "sku": "38157",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=38157",
+      "gtin14": "889028123072"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SS-4 Premium 4-Channel Speaker Selector",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38157",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38157"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 10 Flexible Podium and PA Live Sound Mixer Light w/ BNC Port",
+    "@id": "https://www.monoprice.com/product?p_id=603355",
+    "url": "https://www.monoprice.com/product?p_id=603355",
+    "description": "This 4-LED lamp plugs into a BNC port. It features a flexible, 10.6\" (270mm) gooseneck, so you can direct the illumination to anywhere you need.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6033551.jpg\",\"https://images.monoprice.com/productlargeimages/6033552.jpg\",\"https://images.monoprice.com/productlargeimages/6033553.jpg\",\"https://images.monoprice.com/productlargeimages/6033554.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.99,
+      "sku": "603355",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=603355",
+      "gtin14": "757901803949"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 10 Flexible Podium and PA Live Sound Mixer Light w/ BNC Port",
+      "ratingCount": "27",
+      "reviewCount": "27",
+      "ratingValue": "3.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Live Sound",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/live-sound"
+    },
+    {
+      "name": "Live Stage Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/live-sound/live-stage-accessories"
+    },
+    {
+      "name": "603355",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/live-sound/live-stage-accessories/603355"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

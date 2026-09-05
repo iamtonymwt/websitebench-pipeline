@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Micro USB OTG Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=9724",
+    "url": "https://www.monoprice.com/product?p_id=9724",
+    "description": "Today's smartphones are more powerful than many computers from even just a few years ago. Unleash the power of your phone by giving it access to the same USB peripherals that make your PC easier to use - keyboards, mice, flash drives, and game controllers - using this USB On-The-Go\u2122 Adapter from Monoprice!USB On-The-Go is an extension of the USB 2.0 specification. Basically it allows an OTG equipped device, such as your phone, to act as a USB host. In host mode, you can connect peripheral devices, such as keyboards, mice, drives, etc., to your phone the same as you would connect them to your PC. The Android\u2122 operating system is a powerful OS that includes support for these external peripherals. With an OTG\u2122 adapter you can connect them to your phone and use them the same as you would use them on a PC.When combined with an MHL\u00ae adapter to output the video from your phone to your HDTV, you've got a full-powered computer workstation in your pocket! Enjoy retro gaming using the proper controller for the emulated game system. Type up a report for work using a full-sized keyboard and mouse. You can even copy pictures and music from one phone to another without having to use a PC as an intermediate device.OTG opens up a world of possibilities and helps you get the most out of your digital life!USB On-The-Go\u2122 and OTG\u2122 are trademarks of USB Implementers Forum, Inc. Android\u2122 is a trademark of Google LLC. MHL\u00ae is a registered trademark of MHL, LLC. Updated Feb 11, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/97241.jpg\",\"https://images.monoprice.com/productlargeimages/97242.jpg\",\"https://images.monoprice.com/productlargeimages/97243.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "9724",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9724",
+      "gtin14": "844660097242"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Micro USB OTG Adapter",
+      "ratingCount": "233",
+      "reviewCount": "233",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters"
+    },
+    {
+      "name": "9724",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters/9724"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

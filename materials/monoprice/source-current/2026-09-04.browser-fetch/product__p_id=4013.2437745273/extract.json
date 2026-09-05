@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3-Gang 8.2 Surround Sound Distribution Wall Plate - Gold Plated Binding Posts Dual Subwoofer Ports",
+    "@id": "https://www.monoprice.com/product?p_id=4013",
+    "url": "https://www.monoprice.com/product?p_id=4013",
+    "description": "This home theater plate provides all the flexibility that\u00a0a professional installer or experienced do-it-yourselfer needs to create a sophisticated media environment. The plates are easy to terminate and contribute to a neat looking and\u00a0finished installation. Clear labeling also simplifies room set up and configuration.Please Note: The subwoofer connection is an RCA connection on the front and an\u00a0RCA connector on the back.\u00a0This product can either be used with banana plugs (product ID 2801 or 2943) or it can accept bare wire connections on both the front and rear of the plate.\u00a0Note:\u00a0 Not compatible with\u00a0DUAL banana plugs like PID# 2944 & 2945.\u00a0 Works fine with individual single banana plugs.\u00a0 \u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.\u00a0**Requires low voltage mounting bracket - not included**",
+    "image": "[\"https://images.monoprice.com/productlargeimages/40131.jpg\",\"https://images.monoprice.com/productlargeimages/40132.jpg\",\"https://images.monoprice.com/productlargeimages/40133.jpg\",\"https://images.monoprice.com/productlargeimages/40134.jpg\",\"https://images.monoprice.com/productlargeimages/40135.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "4013",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4013",
+      "gtin14": "844660040132"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3-Gang 8.2 Surround Sound Distribution Wall Plate - Gold Plated Binding Posts Dual Subwoofer Ports",
+      "ratingCount": "89",
+      "reviewCount": "89",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "4013",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/4013"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

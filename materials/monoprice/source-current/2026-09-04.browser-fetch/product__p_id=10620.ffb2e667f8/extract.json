@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam 10 x 9 x 7 in",
+    "@id": "https://www.monoprice.com/product?p_id=10620",
+    "url": "https://www.monoprice.com/product?p_id=10620",
+    "description": "Provide IP67 level dust and water protection for action cameras, camera bodies and lenses, or ammunition using this customizable Weatherproof Hard Case from Monoprice\u2122!The IP, or Ingress Protection, rating is a two digit value that indicates the level of protection provided by the cases. The IP67 rating of this case means that it provides complete protection against dust and other solid particles and that it can withstand up to 30 minutes of submersion in water at up to 1 meter depth.The case is constructed of impact and ultraviolet resistant polypropylene and has a fully customizable foam interior for superior shock protection. A pressure relief valve allows you to slowly and safely equalize the pressure inside and out.Features: Designed and developed to the comply with the highest safety protection standardsWaterproof up to 1 meter depth for 30 minutesShockproof design with fully customizable foam interiorTotal protection against dust and other solid materialUltraviolet and impact resistant materialPressure relief valve allows for gradual pressure equalizationSeal design provides IP67 level protectionErgonomic, rubber covered handle\u20114 ~ +194\u00b0F (\u201120 ~ +90\u00b0C) operating temperature400 cu in (6.57 liter) internal volume17.3 lbs. (7.86 kg) maximum buoyancy10.6\" x 9.1\" x 7.3\" (270 x 231 x 185 mm) external dimensions9.57\" x 7.17\" x 6.18\" (243 x 182 x 157 mm) internal dimensionsWeighs only 3.1 lbs. (1.4 kg)Support Files: Dimensions Diagram (Sep 4, 2018)Monoprice\u2122, PURE OUTDOOR\u2122, all Monoprice logos, and the PURE OUTDOOR logo are trademarks of Monoprice Inc. Updated Jun 10, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/106201.jpg\",\"https://images.monoprice.com/productlargeimages/106202.jpg\",\"https://images.monoprice.com/productlargeimages/106203.jpg\",\"https://images.monoprice.com/productlargeimages/106204.jpg\",\"https://images.monoprice.com/productlargeimages/106205.jpg\",\"https://images.monoprice.com/productlargeimages/106206.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "10620",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=10620",
+      "gtin14": "757901805189"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam 10 x 9 x 7 in",
+      "ratingCount": "55",
+      "reviewCount": "55",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Outdoor",
+      "url": "https://www.monoprice.com/category/pages/14"
+    },
+    {
+      "name": "Weatherproof Cases & Containers",
+      "url": "https://www.monoprice.com/category/outdoor/weatherproof-cases-&-containers"
+    },
+    {
+      "name": "Weatherproof Cases",
+      "url": "https://www.monoprice.com/category/audio-video/weatherproof-cases-&-containers/weatherproof-cases"
+    },
+    {
+      "name": "10620",
+      "url": "https://www.monoprice.com/category/audio-video/weatherproof-cases-&-containers/weatherproof-cases/10620"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

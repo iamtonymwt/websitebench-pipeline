@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB-C to HDMI Adapter 4K@30Hz",
+    "@id": "https://www.monoprice.com/product?p_id=13235",
+    "url": "https://www.monoprice.com/product?p_id=13235",
+    "description": "USB\u2011C\u00ae is here and it is a real game changer!The new reversible Type\u2011C\u00ae connector plugs in the first time, every time!Use a single cable for power, video, networking, and dataUSB 3.1 SuperSpeed+ supports up to 10Gbps data rateCharge and power devices with up to 100 watts of powerUntil this point we've had to deal with a number of different USB connector types with different shapes and sizes. One thing that is common among all the various USB Type\u2011A and Type\u2011B connectors is that they are all asymmetrical, which means that there is a top and a bottom, as anyone who has fumbled around trying to insert a USB cable by feel can attest. The old USB standards are also relatively slow and can carry very little charging power.The USB 3.1 standard introduces the new symmetrical/reversible Type\u2011C connector. The new connector is only slightly larger than the older mini and micro Type\u2011B connectors, which means that it can be used on mobile devices, replacing the existing use of mini or micro connectors. Also, unlike the earlier use of different connectors for the host (Type\u2011A) and peripheral (Type\u2011B) devices, the Type\u2011C connector is used at both ends. Best of all, the connector is symmetrical, which means no more fumbling around to figure out which side is supposed to be on top. Just grab either end and plug it in!In addition to the new connector, the USB 3.1 standard increases the data transfer rate to 10GBps, which is fast enough to carry full HD video and multichannel, uncompressed audio. The standard also increases the power handling capabilities to 100 watts, which means that USB\u2011C will replace existing power, video, networking, and data cables. Apple\u00ae is taking this to the extreme, with the latest MacBook Air\u00ae featuring only a single USB\u2011C port for charging, video, and connecting peripheral devices.This 4\u2011inch video adapter features a male Type\u2011C connector on one end and a female HDMI\u00ae connector on the other end.\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB Type\u2011C\u00ae and USB\u2011C\u00ae are trademarks of USB Implementers Forum, Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Apple\u00ae, Mac\u00ae, MacBook\u00ae, MacBook Air\u00ae, and macOS\u00ae are trademarks of Apple Inc, registered in the U.S. and other countries. Chrome OS\u2122 is a trademark of Google LLC. Microsoft\u00ae and Windows\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Updated Oct 21, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/132351.jpg\",\"https://images.monoprice.com/productlargeimages/132352.jpg\",\"https://images.monoprice.com/productlargeimages/132353.jpg\",\"https://images.monoprice.com/productlargeimages/132354.jpg\",\"https://images.monoprice.com/productlargeimages/132355.jpg\",\"https://images.monoprice.com/productlargeimages/132356.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "13235",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13235",
+      "gtin14": "889028012703"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB-C to HDMI Adapter 4K@30Hz",
+      "ratingCount": "72",
+      "reviewCount": "72",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "13235",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/13235"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

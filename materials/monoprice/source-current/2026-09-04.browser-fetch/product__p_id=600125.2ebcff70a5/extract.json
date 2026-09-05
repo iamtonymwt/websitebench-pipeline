@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Sound Block Passive Direct Box with Ground Lift and Attenuator",
+    "@id": "https://www.monoprice.com/product?p_id=600125",
+    "url": "https://www.monoprice.com/product?p_id=600125",
+    "description": "                    Throw the Sound Block in a bag, trunk, or anywhere cable and misc. audio supplies are stored. The heavy\u2011duty construction and passive electronics make the Sound Block nearly indestructible. This Direct Interface is extremely versatile as a Lo to Hi\u2011Z transformer for electric instruments and devices to XLR mic inputs or as Lo\u2011Hi\u2011Z to use a microphone with a guitar amp (not recommended only because guitar amps make terrible PAs).                    High level outputs from active instruments and even speaker outputs are not a problem when using the \u201120 or \u201140 db attenuator switch. The Sound Block is a very easy to use passive device. Simply plug your 1/4\" output from a guitar or electric piano, plug an XLR cable into your mixer's channel input, and you're done. A ground lift is provided for use in older buildings with janky wiring or if circuits are different from stage to where the sound system is located.                              Features:                            Heavy\u2011duty 14 gauge steel construction        Bidirectional impedance matching        Use with high output signals, including speakers        \u201120dB and \u201140dB pad options        Easy to use passive electronic device        Control hum and buzz from stage with the ground lift        50 ohms TRS parallel input impedance        50 ohms TRS Parallel output impedance        600 ohms XLR\u2011M balanced input and output impedance                                                                                                                                                          Support Files:      Quick User Guide (Apr 29, 2016)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Feb 15, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6001251.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 36.99,
+      "sku": "600125",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=600125",
+      "gtin14": "889028033425"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Sound Block Passive Direct Box with Ground Lift and Attenuator",
+      "ratingCount": "47",
+      "reviewCount": "47",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Studio Sound & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories"
+    },
+    {
+      "name": "Studio Signal Processors",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-signal-processors"
+    },
+    {
+      "name": "600125",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-signal-processors/600125"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

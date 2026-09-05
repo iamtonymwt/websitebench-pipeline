@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - Non-Polarized NEMA 1-15P to Non-Polarized IEC-320-C7 18AWG 7A/125V SPT\u20112 3ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=7671",
+    "url": "https://www.monoprice.com/product?p_id=7671",
+    "description": "Connect your battery chargers, laptop power supplies, AV equipment, video game consoles, and other equipment with non\u2011polarized IEC 60320 C8 power receptacle. This power cord features a non\u2011polarized IEC 60320 C7 plug on one end and a non\u2011polarized NEMA\u00ae 1\u201115P 2\u2011prong plug on the other end. The C7 coupler is commonly known as a \"figure\u20118\", \"infinity\", or \"shotgun\" plug, due to its shape. This 18 AWG cable is designed to carry up to a 7 amp/1250 watt, 125 volt load.\u00a0Wall\u00a0Plug\u00a0TypeNon\u2011Polarized NEMA\u00ae 1\u201115PEquipment\u00a0Plug\u00a0TypeNon\u2011Polarized IEC 60320 C7Jacket\u00a0MaterialSPT\u20112#\u00a0of\u00a0Conductors2Wire\u00a0Gauge18AWGMaximum\u00a0Current7 ampsCertificationsUL\u00ae, cUL, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC.Updated Aug 20, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76711.jpg\",\"https://images.monoprice.com/productlargeimages/76712.jpg\",\"https://images.monoprice.com/productlargeimages/76713.jpg\",\"https://images.monoprice.com/productlargeimages/76714.jpg\",\"https://images.monoprice.com/productlargeimages/76715.jpg\",\"https://images.monoprice.com/productlargeimages/76716.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.29,
+      "sku": "7671",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7671",
+      "gtin14": "844660076711"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - Non-Polarized NEMA 1-15P to Non-Polarized IEC-320-C7 18AWG 7A/125V SPT\u20112 3ft Black",
+      "ratingCount": "268",
+      "reviewCount": "70",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Laptop AC Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/laptop-ac-power-cords"
+    },
+    {
+      "name": "7671",
+      "url": "https://www.monoprice.com/category/cables/power-cords/laptop-ac-power-cords/7671"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

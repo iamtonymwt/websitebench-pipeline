@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Select Series USB-A to Micro B 3.0 Cable - Black 0.5m - 3 pack",
+    "@id": "https://www.monoprice.com/product?p_id=34879",
+    "url": "https://www.monoprice.com/product?p_id=34879",
+    "description": "Connect your SuperSpeed USB 3.0 devices using this USB 3.0 A Male to Micro-B Male Cable from Monoprice!This cable features a USB 3.0 A male connector on one end and a USB 3.0 Micro-B male connector on the other end. The USB 3.0 Micro-B connector differs from the traditional USB 2.0 Micro-B connector in that it has an additional 5-pin plug, which carries power for external devices, such as portable hard drives.\u00a0Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 13, 2024Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/348791.jpg\",\"https://images.monoprice.com/productlargeimages/348792.jpg\",\"https://images.monoprice.com/productlargeimages/348793.jpg\",\"https://images.monoprice.com/productlargeimages/348794.jpg\",\"https://images.monoprice.com/productlargeimages/348795.jpg\",\"https://images.monoprice.com/productlargeimages/348796.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.29,
+      "sku": "34879",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34879",
+      "gtin14": "889028100677"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Select Series USB-A to Micro B 3.0 Cable - Black 0.5m - 3 pack",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB B Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-b-cables"
+    },
+    {
+      "name": "34879",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-b-cables/34879"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

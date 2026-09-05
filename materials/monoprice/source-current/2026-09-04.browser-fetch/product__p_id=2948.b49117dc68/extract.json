@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice S/PDIF (Toslink) Digital Optical to Digital Coaxial (RCA) Audio Converter",
+    "@id": "https://www.monoprice.com/product?p_id=2948",
+    "url": "https://www.monoprice.com/product?p_id=2948",
+    "description": "Convert a Digital Optical Audio signal into a Digital Coaxial Audio signal using this S/PDIF (Toslink\u00ae) Digital Optical to Digital Coaxial (RCA) Audio Converter from Monoprice!The Sony\u00ae/Philips\u00ae Digital Interface Format allows for both an electrical signal, carried over Digital Coaxial Audio cable, and an optical signal carried over a Digital Optical Audio cable. This converter allows you to connect an optical output to a digital electrical signal. It measures only about 3\" x 2\" and includes a 6 VDC, 3A AC power adapter.TOSLINK\u00ae is a registered trademark of Toshiba Corporation. Sony\u00ae is a registered trademark of Sony Corporation. Philips\u00ae is a registered trademark of Koninklijke Philips Electronics N.V. Updated Feb 12, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/29481.jpg\",\"https://images.monoprice.com/productlargeimages/29482.jpg\",\"https://images.monoprice.com/productlargeimages/29483.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "2948",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2948",
+      "gtin14": "844660029489"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice S/PDIF (Toslink) Digital Optical to Digital Coaxial (RCA) Audio Converter",
+      "ratingCount": "283",
+      "reviewCount": "283",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Converters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-converters"
+    },
+    {
+      "name": "2948",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-converters/2948"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

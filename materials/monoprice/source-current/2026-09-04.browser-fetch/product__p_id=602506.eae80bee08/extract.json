@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Suspension Boom Arm Scissor Broadcast Mic Stand w/ Built-in XLR Mic Cable",
+    "@id": "https://www.monoprice.com/product?p_id=602506",
+    "url": "https://www.monoprice.com/product?p_id=602506",
+    "description": "Our Suspension Boom Stand is made of steel and provides a sturdy platform to hold microphones in place for the duration of a recording or podcast session. The arm is strong enough to support 2 pounds of weight and the rugged construction means it won't transfer vibrations to the microphone, causing audio noise. In addition to being ideal for broadcast or podcasting applications, our scissor booms are perfect for streaming, or even gaming, where mics are often placed in front of a camera, or simply need to be out of the way.The microphone arm was designed to provide users with as much flexibility as possible. The metal C-clamp is large enough to fit onto surfaces up to 1.9\" thick and the pressure can be adjusted quickly and easily using the metal spindle. The clamp is padded to prevent damage to the surface it's attached to, as well. The arm can extend up to 33\". At the end of the mic arm is a nut with 3/8\"x16 threading and there's a 3/8\" to 5/8\" adapter included, so a wide range of microphone clips and shock mounts can be used.Tension adjustments are located at all pivot points. This ensures that your boom stand stays in any position you put it, allowing you and your guest the freedom and comfort to move about and keep the mic in front of you.Our Suspension Boom Stand is ready to go to work for you out of the box. Enjoy the convenience of the included 9.5-foot cable. 3 feet of the cable is integrated into the scissor stand, leaving over 6 feet of cable to interface with your computer or recording hardware. Choose between the USB Type-A to USB Type-B version (602505) and the XLR-F to XLR-M version (602506).Stage Right\u00e2\u201e\u00a2 and the Stage Right logo are trademarks of Monoprice Inc. Updated Mar 24, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6025061.jpg\",\"https://images.monoprice.com/productlargeimages/6025062.jpg\",\"https://images.monoprice.com/productlargeimages/6025063.jpg\",\"https://images.monoprice.com/productlargeimages/6025064.jpg\",\"https://images.monoprice.com/productlargeimages/6025065.jpg\",\"https://images.monoprice.com/productlargeimages/6025066.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 26.99,
+      "sku": "602506",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=602506",
+      "gtin14": "889028131695"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Suspension Boom Arm Scissor Broadcast Mic Stand w/ Built-in XLR Mic Cable",
+      "ratingCount": "61",
+      "reviewCount": "24",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Instrument Stands & Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories"
+    },
+    {
+      "name": "Microphone Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands"
+    },
+    {
+      "name": "602506",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands/602506"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

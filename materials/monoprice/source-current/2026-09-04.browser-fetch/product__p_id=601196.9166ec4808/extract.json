@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6 Meter (20ft) 8-Channel 1/4inch TRS Male to 1/4inch TRS Male Snake Cable",
+    "@id": "https://www.monoprice.com/product?p_id=601196",
+    "url": "https://www.monoprice.com/product?p_id=601196",
+    "description": "Connect up to eight channels of audio between equipment with 1/4-inch TRS jacks using this 8-Channel 1/4-inch TRS Male to 1/4-inch TRS Male Snake Cable from Monoprice!This snake cable features eight balanced mono or unbalanced stereo lines with color coded wires (red, white, green, yellow, black, blue, gray, and brown). Each wire is constructed of a pair of 26 AWG conductors with aluminum foil shielding to protect from stray EM and RF interference.The wires at each end are terminated in 1/4-inch TRS plugs.Support Files: Spec Sheet (Jun 16, 2025)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6011961.jpg\",\"https://images.monoprice.com/productlargeimages/6011962.jpg\",\"https://images.monoprice.com/productlargeimages/6011963.jpg\",\"https://images.monoprice.com/productlargeimages/6011964.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 54.99,
+      "sku": "601196",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601196",
+      "gtin14": "757901810107"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6 Meter (20ft) 8-Channel 1/4inch TRS Male to 1/4inch TRS Male Snake Cable",
+      "ratingCount": "22",
+      "reviewCount": "22",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Snake Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables"
+    },
+    {
+      "name": "601196",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables/601196"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

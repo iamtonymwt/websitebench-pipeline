@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Junction box for turret  IP camera (compatible with Hikvision DS-2CD2343G0-I Monoprice 30562 30551 )",
+    "@id": "https://www.monoprice.com/product?p_id=39836",
+    "url": "https://www.monoprice.com/product?p_id=39836",
+    "description": "",
+    "image": "[\"https://images.monoprice.com/productlargeimages/398361.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "39836",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39836",
+      "gtin14": "889028140086"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Junction box for turret  IP camera (compatible with Hikvision DS-2CD2343G0-I Monoprice 30562 30551 )",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Smart Home & Security",
+      "url": "https://www.monoprice.com/category/pages/8"
+    },
+    {
+      "name": "Surveillance Cameras & Accessories",
+      "url": "https://www.monoprice.com/category/smart-home-&-security/surveillance-cameras-&-accessories"
+    },
+    {
+      "name": "Camera Mounts & Housings",
+      "url": "https://www.monoprice.com/category/smart-home-&-security/surveillance-cameras-&-accessories/camera-mounts-&-housings"
+    },
+    {
+      "name": "39836",
+      "url": "https://www.monoprice.com/category/smart-home-&-security/surveillance-cameras-&-accessories/camera-mounts-&-housings/39836"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10ft Premier Series 1/4-inch (TS) Right Angle Male to Right Angle Male 16AWG Audio Cable (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=9449",
+    "url": "https://www.monoprice.com/product?p_id=9449",
+    "description": "Connect speakers and other audio equipment with this Premium 1/4\" TS Patch Cable with 90-degree connectors from Monoprice!This unbalanced cable features 90-degree TS/Mono plugs on each end. It uses 16 AWG stranded, pure copper conductors and employs copper braid shielding with 97.5% coverage to ensure that stray radio frequency and electromagnetic signals do not degrade the audio quality of your performance. The plugs are gold plated to provide smooth, corrosion-free connections as well as maximum electrical conductivity.Note that this cable is intended for general audio use. For high-end, low-noise performance and recording use we recommend our Cloth Series cables, PIDs 601410, 601415, and 601420. ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/94491.jpg\",\"https://images.monoprice.com/productlargeimages/94492.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.99,
+      "sku": "9449",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9449",
+      "gtin14": "844660094494"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10ft Premier Series 1/4-inch (TS) Right Angle Male to Right Angle Male 16AWG Audio Cable (Gold Plated)",
+      "ratingCount": "218",
+      "reviewCount": "30",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Guitar Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/guitar-cables"
+    },
+    {
+      "name": "9449",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/guitar-cables/9449"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

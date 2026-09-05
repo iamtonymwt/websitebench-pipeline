@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Wire CL2 Rated 2-Conductor 14AWG 100ft White",
+    "@id": "https://www.monoprice.com/product?p_id=2820",
+    "url": "https://www.monoprice.com/product?p_id=2820",
+    "description": "Enhance your home audio experience with Monoprice\u2122 Speaker Wire, CL2 Rated. Crafted with high\u2011quality pure bare copper, this speaker wire enables you to unlock the full potential of your audio system.Unlike inexpensive speaker wires that utilize copper clad aluminum (CCA) conductors, our Pure Bare Copper wire boasts superior conductivity. CCA conductors are only about 68% as conductive as pure bare copper, meaning they introduce additional resistance to the impedance of your speakers, ultimately impacting the sound quality.To ensure minimal audible effects, it is crucial for the total wire resistance to be less than 5% of the lowest impedance of your speakers. Even speakers with an 8\u2011ohm nominal rating can dip to as low as 4\u2011ohms at certain frequencies, further limiting the allowable cable resistance. By utilizing Pure Bare Copper speaker wire, you can maintain a load on the amplifier that closely aligns with the impedance curve of your speakers.For easy polarity identification, each conductor of the wire is jacketed with color\u2011coded PVC. The entire cable assembly is encased in a black, CL2\u2011rated PVC material. The CL2 rating signifies compliance with fire safety and insurance requirements, ensuring that this wire is safe for installation within the walls of residential class buildings.With Monoprice\u2122 Speaker Wire, CL2 Rated, you can optimize your audio system's performance, minimize impedance issues, and enjoy exceptional sound quality. Upgrade your home audio setup today with this reliable and high\u2011performance speaker wire from Monoprice\u2122.\u00a0Support Files: Diagram (Jan 12, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jun 20, 2023 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/28201.jpg\",\"https://images.monoprice.com/productlargeimages/28202.jpg\",\"https://images.monoprice.com/productlargeimages/28203.jpg\",\"https://images.monoprice.com/productlargeimages/28204.jpg\",\"https://images.monoprice.com/productlargeimages/28205.jpg\",\"https://images.monoprice.com/productlargeimages/28206.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 76.49,
+      "sku": "2820",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2820",
+      "gtin14": "844660028208"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Wire CL2 Rated 2-Conductor 14AWG 100ft White",
+      "ratingCount": "1900",
+      "reviewCount": "251",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "2820",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/2820"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

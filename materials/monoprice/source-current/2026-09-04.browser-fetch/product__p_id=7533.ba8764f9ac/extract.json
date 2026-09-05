@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A Male to USB-A Female 2.0 Extension Cable - Active  26/22AWG  Repeater  Kinect  and PS3 Move Compatible  Black  65ft",
+    "@id": "https://www.monoprice.com/product?p_id=7533",
+    "url": "https://www.monoprice.com/product?p_id=7533",
+    "description": "\"Due to its design, USB cable has a normal maximum length of about 5 meters (16.4 feet), but you can get longer distances by using an active USB extension cable from Monoprice\u2122!This is a bus\u2011powered extension cable that can be used to increase the length of a device without any signal loss or potential performance problems. It contains active electronics, which boost the USB signal for maximum reliability and performance over extended distances. The cable operates as self\u2011powered extender, for use with USB cameras, printers, webcams, keyboard/mouse, etc.It is a true plug\u2011and\u2011play device. No additional drivers are required. It supports Windows\u00ae 98/2000/XP/Vista\u00ae/7, macOS\u00ae v10.0 or higher, and Linux\u00ae. It can also be used with manys of USB devices, including the Xbox\u00ae Kinect\u00ae* and the Eye of the PS3\u00ae Move\u2122!* Important notes for Kinect users: 1. You can use this cable to connect the USB version of the Kinect only. It is not compatible with the proprietary Kinect connector. If you have a Kinect connector, please use PID 8487. 2. The Kinect requires more power than traditional USB ports are capable of providing. In order to prevent damage to equipment, Microsoft\u00ae has designed the Kinect with a proprietary connector. If your Kinect did not come with a USB/Power adapter, you must purchase one from Microsoft before you can use this extension cable. Note that the packaging indicates that this cable uses 26/22 AWG wires, however it actually uses 28/24 AWG wires as noted in the Features below. Features: USB\u2011A male to USB\u2011A female extensionGold\u2011plated connector28/24 AWG wiresCompliant with USB 2.0 High Speed (480Mbps) standardBackwards compatible with USB 1.0/1.1 standardsActive USB extension cableEnsures good signal quality to meet USB 2.0 specificationExtends USB signal up to 15 meters (49 feet)Operating temperature range from +32 ~ +176\u00b0F (0 ~ +80\u00b0C)Compatible with Windows 98/2000/XP/Vista/7, macOS, Linux\u00a0<img alt=\"\" service=\"\" and=\"\" support.=\"\" you're=\"\" never=\"\" on=\"\" your=\"\" own=\"\" with=\"\" monoprice=\"\" products!=\"\" we=\"\" have=\"\" a=\"\" full=\"\" team=\"\" of=\"\" friendly=\"\" knowledgeable=\"\" technicians=\"\" available=\"\" to=\"\" answer=\"\" questions,=\"\" both=\"\" before=\"\" after=\"\" the=\"\" sale.=\"\" contact=\"\" our=\"\" technical=\"\" support=\"\" for=\"\" questions=\"\" about=\"\" products,=\"\" troubleshooting,=\"\" or=\"\" even=\"\" suggestions=\"\" products=\"\" fit=\"\" particular=\"\" needs.=\"\" not=\"\" be=\"\" outdone,=\"\" helpful=\"\" customer=\"\" is=\"\" here=\"\" make=\"\" ordering,=\"\" delivery,=\"\" any=\"\" possible=\"\" returns=\"\" quick=\"\" painless=\"\" operation,=\"\" from=\"\" start=\"\" finish!\"\"=\"\" class=\"\" img-responsive=\"\" center-block\"\"=\"\" data-cke-saved-src=\"\" src=\"\" downloads.monoprice.com=\"\" files=\"\" images=\"\" service400.jpg\"\"=\"\">Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Microsoft\u00ae, Windows\u00ae, Vista\u00ae, Xbox\u00ae, and Kinect\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Apple\u00ae, Mac\u00ae, and macOS\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Linux\u00ae is the registered trademark of Linus Torvalds in the U.S. and other countries. PlayStation\u00ae and PS3\u00ae are registered trademarks of Sony Interactive Entertainment Inc. Move\u2122 is a trademark of Sony Interactive Entertainment Inc. Updated Oct 21, 2021 \u00a0\"",
+    "image": "[\"https://images.monoprice.com/productlargeimages/75331.jpg\",\"https://images.monoprice.com/productlargeimages/75332.jpg\",\"https://images.monoprice.com/productlargeimages/75333.jpg\",\"https://images.monoprice.com/productlargeimages/75334.jpg\",\"https://images.monoprice.com/productlargeimages/75335.jpg\",\"https://images.monoprice.com/productlargeimages/75336.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 35.69,
+      "sku": "7533",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7533",
+      "gtin14": "844660075332"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A Male to USB-A Female 2.0 Extension Cable - Active  26/22AWG  Repeater  Kinect  and PS3 Move Compatible  Black  65ft",
+      "ratingCount": "600",
+      "reviewCount": "40",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables"
+    },
+    {
+      "name": "7533",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables/7533"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Syston Access Control Cable 18/4C Shld+22/3PR Shld+22/2C Shld+22/4C Shld CMP Yellow 500ft Spool",
+    "@id": "https://www.monoprice.com/product?p_id=34412",
+    "url": "https://www.monoprice.com/product?p_id=34412",
+    "description": "Features:Access Point Lock Down Control Cable (orange) features 4x unshielded 18AWG stranded conductorsAccess Point Card Reader Control Cable (white) features 3x shielded pairs of 22AWG stranded conductorsAccess Point Door Contact Control Cable (blue) features 2x unshielded 22AWG stranded conductorsAccess Point Request\u2011to\u2011Exit Control Cable (green) features 4x unshielded 22AWG stranded conductorsInstall friendlyA rip cord underneath the jacket provides for easy removal at installationTested physically and electrically in accordance with National Electrical Code\u00ae (NEC\u00ae) standardsLegend markings for zones and rooms to save installation timeFootage markings in ascending and descending orderRoHS compliantFree from restricted metals and hazardous compounds21.7\" x 7.9\" x 9.8\" package dimensionsMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Syston\u00ae is a registered trademark of Syston Cable Technology Corporation. The Syston logo is a trademark of Syston Cable Technology Corporation. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. DuPont\u2122 and Kevlar\u00ae are trademarks or registered trademarks of E.I. du Pont de Nemours and Company or its affiliates. Mylar\u00ae is a registered trademark of DuPont Teijin Films. Updated Jul 12, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/344121.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 683.59,
+      "sku": "34412",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34412",
+      "gtin14": "889028095959"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Syston Access Control Cable 18/4C Shld+22/3PR Shld+22/2C Shld+22/4C Shld CMP Yellow 500ft Spool",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables"
+    },
+    {
+      "name": "Bulk Access Control Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-access-control-cables"
+    },
+    {
+      "name": "34412",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-access-control-cables/34412"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

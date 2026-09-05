@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to Micro USB-B 2.0 Cable - 5-Pin 28/28AWG Black 3ft  5-Pack",
+    "@id": "https://www.monoprice.com/product?p_id=39904",
+    "url": "https://www.monoprice.com/product?p_id=39904",
+    "description": "    The USB micro B connector has become the new universal standard connector used on most smartphones and tablets. This USB 2.0 cable features a USB-A male plug on one end and a USB micro USB-B male plug on the other end. It uses 28 AWG conductors for both data and power and is shielded to protect against signal interference and data loss.      Features:    100% compliant with USB 2.0 specifications28 AWG data and power conductorsMolded connector heads with molded strain relief bootsShielded to protect against external signal interference        Updated Feb 7, 2020          \u00a0   ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/399041.jpg\",\"https://images.monoprice.com/productlargeimages/399042.jpg\",\"https://images.monoprice.com/productlargeimages/399043.jpg\",\"https://images.monoprice.com/productlargeimages/399044.jpg\",\"https://images.monoprice.com/productlargeimages/399045.jpg\",\"https://images.monoprice.com/productlargeimages/399046.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.19,
+      "sku": "39904",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39904",
+      "gtin14": "889028140598"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to Micro USB-B 2.0 Cable - 5-Pin 28/28AWG Black 3ft  5-Pack",
+      "ratingCount": "1939",
+      "reviewCount": "3",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "Micro USB Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables"
+    },
+    {
+      "name": "39904",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables/39904"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

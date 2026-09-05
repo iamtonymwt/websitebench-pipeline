@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Rough-in Bracket for 8in Round Speaker (Each)",
+    "@id": "https://www.monoprice.com/product?p_id=24762",
+    "url": "https://www.monoprice.com/product?p_id=24762",
+    "description": "Use preconstruction brackets when installing ceiling speakers. The snap-away wings make it easy to mount your speaker first to the bracket itself, then between the studs. Made from ABS, this bracket works perfectly with joists spanning 12.5\" to 29.0\". This bracket is designed to fit most round 8\" installed speakers.Use the speaker clamps built into the ceiling speakers to attach the bracket, it's just that easy. This affordable time saver is a must have when installing speakers into new construction, whether it be an entirely new house, business, or your home theater project. Each bracket is sold individually.Features: Use the adjustable arms to attach the bracket to studs or joists before the drywall goes upThe arms are adjustable to allow for unusual stud or joist locationsIt can be attached using nails, drywall screws, or construction staples (not included)Solid ABS preconstruction bracketFits between joists 12.5\" ~ 29.0\" apartSnap-away wings make installation simple\u00a0\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 5, 2020 \u00a0Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/247621.jpg\",\"https://images.monoprice.com/productlargeimages/247622.jpg\",\"https://images.monoprice.com/productlargeimages/247623.jpg\",\"https://images.monoprice.com/productlargeimages/247624.jpg\",\"https://images.monoprice.com/productlargeimages/247625.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "24762",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24762",
+      "gtin14": "889028059081"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Rough-in Bracket for 8in Round Speaker (Each)",
+      "ratingCount": "28",
+      "reviewCount": "12",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "In Wall Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers"
+    },
+    {
+      "name": "24762",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers/24762"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

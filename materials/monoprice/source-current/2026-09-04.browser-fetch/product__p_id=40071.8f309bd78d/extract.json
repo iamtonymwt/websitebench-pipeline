@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Power Cord - NEMA 5-15P to IEC 60320 C15 14AWG 15A/1875W 125V SJT 15ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=40071",
+    "url": "https://www.monoprice.com/product?p_id=40071",
+    "description": "This North America NEMA\u00ae 5\u201115 plug to IEC 60320 C15 female connector power cord works with most PCs, monitors, scanners, and printers, as well as high temperature appliances, such as electric kettles.Connect your computer, monitor, power adapter, or other device with a male IEC 60320 C16 panel connector to a standard US AC wall outlet. The power cord features a standard, grounded NEMA 5\u201115P plug on one end and an IEC 60320 C15 connector on the other end. Simply mate the female C15 connector with the male C16 connector on your device or power adapter, then plug the NEMA connector into a nearby AC power outlet, UPS, or other AC power source. This cable is rated for a 15 amp/1875 watt, 125 volt load.\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0TypeIEC 60320 C15Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge14 AWGMaximum\u00a0Current15 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jul 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/400711.jpg\",\"https://images.monoprice.com/productlargeimages/400712.jpg\",\"https://images.monoprice.com/productlargeimages/400713.jpg\",\"https://images.monoprice.com/productlargeimages/400714.jpg\",\"https://images.monoprice.com/productlargeimages/400715.jpg\",\"https://images.monoprice.com/productlargeimages/400716.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "40071",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40071",
+      "gtin14": "889028142271"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Power Cord - NEMA 5-15P to IEC 60320 C15 14AWG 15A/1875W 125V SJT 15ft Black",
+      "ratingCount": "10",
+      "reviewCount": "2",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "40071",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/40071"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 RJ45 Modular Plugs w/EZ Passthrough for Round Solid/Stranded Cable 50u Clear 100-Pk",
+    "@id": "https://www.monoprice.com/product?p_id=34414",
+    "url": "https://www.monoprice.com/product?p_id=34414",
+    "description": "These EZ Passthrough RJ45 plugs allow for easy to install modular connectors for Cat6 cable. Finish your cables with ease with these EZ Passthrough connectors.Features: RJ45 connectors for Cat6 cablesEZ Passthrough design for easy crimping and cable finishingGold plated contactsClear plastic housingPurchase the EZ Passthrough Tool here!  Updated Sep 4, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/344141.jpg\",\"https://images.monoprice.com/productlargeimages/344142.jpg\",\"https://images.monoprice.com/productlargeimages/344143.jpg\",\"https://images.monoprice.com/productlargeimages/344144.jpg\",\"https://images.monoprice.com/productlargeimages/344145.jpg\",\"https://images.monoprice.com/productlargeimages/344146.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "34414",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=34414",
+      "gtin14": "889028095980"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 RJ45 Modular Plugs w/EZ Passthrough for Round Solid/Stranded Cable 50u Clear 100-Pk",
+      "ratingCount": "11",
+      "reviewCount": "9",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Modular Plugs",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs"
+    },
+    {
+      "name": "34414",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs/34414"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

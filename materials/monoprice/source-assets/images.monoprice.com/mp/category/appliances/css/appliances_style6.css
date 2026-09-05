@@ -1,0 +1,606 @@
+#main-wrap .container {
+    max-width: 100% !important;
+    margin: 0;
+    padding: 0;
+}
+
+.mp_lp_container {
+    max-width: 1600px;
+    margin: 0px auto;
+    padding: 30px;
+}
+
+#hp-hero-rotator {
+    margin: 0;
+    max-height: 400px;
+}
+
+img.mpb2b_logo {
+    display: block;
+    margin: 0px auto;
+}
+
+h3.header_subtitle {
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.carousel-indicators li {
+    width: 50px !important;
+    height: 2px !important;
+    
+}
+ 
+/********************************/
+/*       Appliance Products        */
+/********************************/
+
+.appliance_products {
+    border-bottom: 1px solid #efefef;
+}
+
+.col-md-6.appliance_block {
+    padding: 10px 10px;
+}
+
+.col-md-4.block_square {
+    background-color: #383838;
+    height: auto;
+    min-height: 300px;
+    padding: 20px 20px;
+}
+
+.col-md-8.block_slider {
+    height: 100vh;
+    max-height: 300px;
+    padding: 0px;
+}
+
+.block_img:hover{
+    transform: scale(.9);
+}
+
+.block_img2:hover{
+    transform: scale(.9);
+}
+.block_img3:hover{
+    transform: scale(.9);
+}
+
+.block_img4:hover{
+    transform: scale(.9);
+}
+
+.block_img5:hover{
+    transform: scale(.9);
+}
+
+.block_img6:hover{
+    transform: scale(.9);
+}
+.block_img7:hover{
+    transform: scale(.9);
+}
+.block_img8:hover{
+    transform: scale(.9);
+}
+
+.block_img9:hover{
+    transform: scale(.9);
+}
+
+.block_img10:hover{
+    transform: scale(.9);
+}
+
+.block_img11:hover{
+    transform: scale(.9);
+}
+
+.block_img12:hover{
+    transform: scale(.9);
+}
+
+.block_img13:hover{
+    transform: scale(.9);
+}
+.block_img14:hover{
+    transform: scale(.9);
+}
+.block_img15:hover{
+    transform: scale(.9);
+}
+.block_img16:hover{
+    transform: scale(.9);
+}
+.block_img17:hover{
+    transform: scale(.9);
+}
+.block_img18:hover{
+    transform: scale(.9);
+}
+.block_img19:hover{
+    transform: scale(.9);
+}
+
+.block_square h2 {
+    color: #fff;
+    font-size: 18px;
+}
+
+.block_square p {
+    color: #fff;
+    font-size: 14px;
+    margin: 10px 0px 10px 0px;
+    color: #c8c8c8;
+}
+
+.block_img {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_block1.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+
+.block_img2 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_block2.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+
+.block_img3 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_403727.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+
+
+.block_img4 {
+    background-image: url(//images.monoprice.com/productlargeimages/218326.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img5 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_block5.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img6 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_block6.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img7 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_block7.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img8 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_block8.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img9 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_block9.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img10 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_block10.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img11 {
+    background-image: url(//images.monoprice.com/cms_images/272376_600x400.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img12 {
+    background-image: url(//images.monoprice.com/cms_images/242116_600x400.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+
+.block_img13 {
+    background-image: url(//images.monoprice.com/cms_images/242126_600x600.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img14 {
+    background-image: url(//images.monoprice.com/cms_images/278436_600x600.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img15 {
+    background-image: url(//images.monoprice.com/cms_images/27324_600x400.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+.block_img16 {
+    background-image: url(//images.monoprice.com/cms_images/35380_Banner_600x400.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+
+.block_img17 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_384236.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+
+.block_img18 {
+    background-image: url(//images.monoprice.com/cms_images/600x400_block18.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+
+.block_img19 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/600x400_187346.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transition: all .5s;
+}
+
+.col-md-4.block_square.bundle_block {
+    
+    height: auto;
+    min-height: 300px;
+    padding: 30px;
+    background: #c1cd98;
+}
+
+.bundle_block h2 {
+    color: #383838;
+    line-height: 30px;
+}
+
+p.discount {
+    text-align: left;
+    font-size: 40px;
+    font-weight: 600;
+    color:#fff;
+}
+
+a.bundle_cta {
+    /* border: 1px solid #fff; */
+    /* padding: 10px 30px; */
+    /* border-radius: 30px; */
+    transition: background-color 0.5s ease;
+    color: #fff;
+}
+
+a.bundle_cta:hover {
+    /* background-color:#383838; */
+    color: #888888 !important;
+    border:none;
+}
+
+.hp-modules figure {
+    margin-bottom: 0px !important;
+}
+
+/********************************/
+/*       Appliance Products        */
+/********************************/
+
+
+/********************************/
+/*       Coming Soon Section        */
+/********************************/
+.cs_block {
+    height: 100vh;
+    max-height: 350px !important;
+}
+
+.cs_header {
+    position: absolute;
+    top: 0;
+    color: #fff;
+}
+
+.cs_header h2 {
+    text-align: center;
+    font-size: 40px !important;
+    margin-top: 60px !important;
+    top: 0%;
+    
+}
+
+.cs_block p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.cs_block p span {
+    font-size: 14px;
+    color: #c8c8c8;
+    font-weight: 100;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.cs_image {
+    background-image: url(//images.monoprice.com/mp/category/appliances/cs_block1.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.cs_image2 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/cs_block2.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.cs_image3 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/cs_block3.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.cs_image4 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/cs_block4.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.cs_image5 {
+    background-image: url(//images.monoprice.com/mp/category/appliances/cs_block5.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bundle_block p {
+    color: #fff;
+}
+
+.bundle_block span {
+    font-size: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+/********************************/
+/*       Coming Soon Section        */
+/********************************/
+
+/*
+Fade content bs-carousel with hero headers
+Code snippet by maridlcrmn (Follow me on Twitter @maridlcrmn) for Bootsnipp.com
+Image credits: unsplash.com
+*/
+
+/********************************/
+/*       Fade Bs-carousel       */
+/********************************/
+.fade-carousel {
+    position: relative;
+    height: 100vh;
+}
+.fade-carousel .carousel-inner .item {
+    height: 100vh;
+    max-height: 400px;
+}
+.fade-carousel .carousel-indicators > li {
+    margin: 25px 2px;
+    background-color: #fff;
+    border-color: #ffffff;
+    opacity: .7;
+}
+.fade-carousel .carousel-indicators > li.active {
+  width: 50px;
+  height: 3px;
+  opacity: 1;
+}
+
+/********************************/
+/*          Hero Headers        */
+/********************************/
+.hero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 3;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+    padding: 0px 20px;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.75);
+    -webkit-transform: translate3d(-50%,-50%,0);
+    -moz-transform: translate3d(-50%,-50%,0);
+    -ms-transform: translate3d(-50%,-50%,0);
+    -o-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+}
+.hero h1 {
+    font-size: 5em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    line-height: 65px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.hero h1 span {
+    font-size: inherit;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+    line-height: 65px;
+    text-transform: capitalize;
+}
+
+.fade-carousel .carousel-inner .item .hero {
+    opacity: 0;
+    -webkit-transition: 2s all ease-in-out .1s;
+       -moz-transition: 2s all ease-in-out .1s; 
+        -ms-transition: 2s all ease-in-out .1s; 
+         -o-transition: 2s all ease-in-out .1s; 
+            transition: 2s all ease-in-out .1s; 
+}
+.fade-carousel .carousel-inner .item.active .hero {
+    opacity: 1;
+    -webkit-transition: 2s all ease-in-out .1s;
+       -moz-transition: 2s all ease-in-out .1s; 
+        -ms-transition: 2s all ease-in-out .1s; 
+         -o-transition: 2s all ease-in-out .1s; 
+            transition: 2s all ease-in-out .1s;    
+}
+
+/********************************/
+/*            Overlay           */
+/********************************/
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: #080d15;
+    opacity: .5;
+    display: none;
+}
+
+/********************************/
+/*          Custom Buttons      */
+/********************************/
+.btn.btn-lg {padding: 10px 40px;}
+.btn.btn-hero,
+.btn.btn-hero:hover,
+.btn.btn-hero:focus {
+    color: #f5f5f5;
+    background-color: #00a7bb;
+    border-color: #00a7bb;
+    outline: none;
+    margin: 20px auto;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+
+/********************************/
+/*       Slides backgrounds     */
+/********************************/
+.fade-carousel .slides .slide-1, 
+.fade-carousel .slides .slide-2,
+.fade-carousel .slides .slide-3 {
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.fade-carousel .slides .slide-1 {
+  background-image: url(//images.monoprice.com/mp/category/appliances/appliance_lp_header.jpg);
+}
+
+
+/********************************/
+/*          Media Queries       */
+/********************************/
+@media screen and (min-width: 992px){
+    .hero { width: 980px; }  
+    
+     
+}
+
+@media screen and (max-width: 992px){
+    .col-md-4.block_square {
+    min-height: auto;
+    
+    } 
+    .col-md-4.block_square.bundle_block {
+    min-height: auto;
+    
+}
+}
+@media screen and (max-width: 640px){
+    .hero h1 { font-size: 4em; }    
+}
+
+@media only screen and (max-width: 1200px) {
+    
+
+    
+
+}
+
+@media only screen and (max-width: 768px) {
+    .hero {
+        width: 100%;
+        padding: 0px 20px;
+    }
+    
+}
+
+@media only screen and (max-width: 320px) {
+    
+    
+}
+

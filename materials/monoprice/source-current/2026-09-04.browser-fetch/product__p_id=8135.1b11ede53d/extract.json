@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice LAN and Coaxial Installation Kit with Tester and Tone Generator",
+    "@id": "https://www.monoprice.com/product?p_id=8135",
+    "url": "https://www.monoprice.com/product?p_id=8135",
+    "description": "Are you unsure of which network tools and testers you need to order out of the myriad of options available? Get this all\u2011in\u2011one tool kit and get everything you need to build and test RJ11, RJ12, and RJ45 multiconductor cables, and RG\u201158, RG\u201159, and RG\u20116 coaxial cables.This kit includes the complete PID 8132 MCT\u2011700 Tracer/Toner/Cable Tester as well as the PID 8133 LanSOHO Pro Cable Tester (no longer available separately). Additionally, the testing cables with a multimeter can be made easier using the included Black Box RJ45 breakout adapter, which gives easy access to each wire within the cable.You can prepare your multiconductor with the included stripper/cutter and your coax cables with the included PID 3359 HT\u2011322 Coaxial Cable Stripper/Cutters. The kit also comes with a ratcheting crimp tool, with dies for attaching RJ11, RJ45, AMP RJ45, and Coax connectors to the appropriate cables.When you need to make a keystone jack or attach LAN cables to a patch panel, you can use the included punchdown tool with the #66 and #110 punchdown/cutter dies. You can also use the included cutting pliers to cut LAN and coax cables to the proper length.The entire kit comes in an impact\u2011resistant plastic briefcase with foam lining and and cutouts for each tester, tool, and die, allowing you to instantly inventory the kit and identify any missing pieces before leaving a work site.Requires three 9 volt batteries, two for the MCT\u2011700 and another for the LanSOHO 200 (not included).Package Contents: 1x 3\u2011in\u20111 Tracer/ Toner / Cable Tester (one 2\u2011piece unit)1x LanSOHO 200 Pro Cable Tester (no longer available separately)1x Multiconductor cable stripper/cutter1x Black Box RJ45 breakout adapter1x Crimp tool with ratchet action1x RJ\u201145 crimping die (2 pieces)1x AMP RJ\u201145 crimping die (2 pieces)1x RJ\u201111 crimping die (2 pieces)1x .225/.32/.35 coax crimping die (2 pieces)1x Rotary coax cable stripper1x Cutting pliers1x Punchdown impact tool1x #66 cutter/punchdown die1x #110 cutter/punchdown die1x Instruction sheet for MCT\u2011700 tester1x Instruction sheet for LanSOHO 200 tester1x Instruction sheet for HT\u2011322 coax stripper1x Foam\u2011lined plastic briefcase with cutouts for each tool itemRequires three 9 volt batteries, two for the tester and another for the LanSOHO 200 (not included)Support Files: User's Manual (Aug 2, 2011)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 20, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/81351.jpg\",\"https://images.monoprice.com/productlargeimages/81352.jpg\",\"https://images.monoprice.com/productlargeimages/81353.jpg\",\"https://images.monoprice.com/productlargeimages/81354.jpg\",\"https://images.monoprice.com/productlargeimages/81355.jpg\",\"https://images.monoprice.com/productlargeimages/81356.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 287.99,
+      "sku": "8135",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8135",
+      "gtin14": "844660081357"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice LAN and Coaxial Installation Kit with Tester and Tone Generator",
+      "ratingCount": "9",
+      "reviewCount": "9",
+      "ratingValue": "3.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Toolkits",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/toolkits"
+    },
+    {
+      "name": "8135",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/toolkits/8135"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

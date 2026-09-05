@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Replacement Door Open Sensor for the Maker Ultimate 2 3D Printer (36045)",
+    "@id": "https://www.monoprice.com/product?p_id=39172",
+    "url": "https://www.monoprice.com/product?p_id=39172",
+    "description": "This is a replacement Door Open Sensor for the Monoprice\u2122 Maker Ultimate 2 3D Printer (36045).Warranty: Replacing parts on your 3D printer may result in its warranty being voided. If you are having difficulty and are unsure if your printer is still under warranty or wish to prevent voiding your warranty, please contact our technical support team at tech@monoprice.com for assistance.Safety: Always exercise extreme caution when working on any electrical device, including your 3D printer. Ensure that the printer is turned off and the power plug is removed from the power outlet. Also ensure that the printer has fully cooled down prior to working on it.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Sep 15, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/391721.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.99,
+      "sku": "39172",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39172",
+      "gtin14": "889028133347"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Replacement Door Open Sensor for the Maker Ultimate 2 3D Printer (36045)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "3D Printing & Hobbies",
+      "url": "https://www.monoprice.com/category/pages/6"
+    },
+    {
+      "name": "3D Printers & Accessories",
+      "url": "https://www.monoprice.com/category/3d-printing-&-hobbies/3d-printers-&-accessories"
+    },
+    {
+      "name": "3D Printer Replacement Parts & Accessories",
+      "url": "https://www.monoprice.com/category/3d-printing-&-hobbies/3d-printers-&-accessories/3d-printer-replacement-parts-&-accessories"
+    },
+    {
+      "name": "39172",
+      "url": "https://www.monoprice.com/category/3d-printing-&-hobbies/3d-printers-&-accessories/3d-printer-replacement-parts-&-accessories/39172"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

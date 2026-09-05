@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Punch-Down Impact Tool for 66 and 110/88 Type",
+    "@id": "https://www.monoprice.com/product?p_id=7043",
+    "url": "https://www.monoprice.com/product?p_id=7043",
+    "description": "This is a Punch-Down Impact Tool for 110/88, Krone, and 66. There is a sure-lock blade holder and high/low impact pressure adjustment. Length: 7.1\"                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/70431.jpg\",\"https://images.monoprice.com/productlargeimages/70432.jpg\",\"https://images.monoprice.com/productlargeimages/70433.jpg\",\"https://images.monoprice.com/productlargeimages/70434.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.99,
+      "sku": "7043",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7043",
+      "gtin14": "844660070436"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Punch-Down Impact Tool for 66 and 110/88 Type",
+      "ratingCount": "79",
+      "reviewCount": "79",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Compression Tools",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/compression-tools"
+    },
+    {
+      "name": "7043",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/compression-tools/7043"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

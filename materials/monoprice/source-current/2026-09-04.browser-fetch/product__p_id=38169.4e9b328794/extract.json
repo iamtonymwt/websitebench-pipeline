@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 120-Watt Slider Resistance Speaker Volume Control",
+    "@id": "https://www.monoprice.com/product?p_id=38169",
+    "url": "https://www.monoprice.com/product?p_id=38169",
+    "description": "This 120\u2011Watt Speaker Volume Control features audiophile sound quality, with virtually no high\u2011end or low\u2011end roll\u2011off. It has a non\u2011shorting design, which prevents amplifier damage, and color\u2011coded, right\u2011angle, solderless speaker terminals with easy top termination. It uses a 12\u2011position switch, which offers a total of 36dB attenuation, with Off, two 6dB, seven 3dB, and full on settings. The package includes white, almond, and ivory plastic inserts and knobs.Support Files: Quick Install Guide (Jul 3, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 9, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381691.jpg\",\"https://images.monoprice.com/productlargeimages/381692.jpg\",\"https://images.monoprice.com/productlargeimages/381693.jpg\",\"https://images.monoprice.com/productlargeimages/381694.jpg\",\"https://images.monoprice.com/productlargeimages/381695.jpg\",\"https://images.monoprice.com/productlargeimages/381696.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "38169",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38169",
+      "gtin14": "889028123195"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 120-Watt Slider Resistance Speaker Volume Control",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38169",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38169"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

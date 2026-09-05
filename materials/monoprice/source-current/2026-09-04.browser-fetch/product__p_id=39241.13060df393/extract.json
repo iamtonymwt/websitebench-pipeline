@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Ultra Compact USB-C 3.2 Gen2 Cable  10Gbps  5A  Black 1m (3.3ft)",
+    "@id": "https://www.monoprice.com/product?p_id=39241",
+    "url": "https://www.monoprice.com/product?p_id=39241",
+    "description": "Featuring the latest in USB technology, this Monoprice\u2122 Ultra Compact USB-C\u00ae Cable is fully certified and compliant with the newest USB version 3.2 Gen2 standards. It offers up to 10Gbps of data throughput and a full 100 watts/5 amps Power Delivery (PD), when plugged into a compatible PD charger or other power source.\u00a0  Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice\u2122 exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB-C\u00ae, USB-C\u00ae, and the SuperSpeed USB 10 Gbps Trident Logo are registered trademarks of USB Implementers Forum, Inc. Updated Mar 31, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/392411.jpg\",\"https://images.monoprice.com/productlargeimages/392412.jpg\",\"https://images.monoprice.com/productlargeimages/392413.jpg\",\"https://images.monoprice.com/productlargeimages/392414.jpg\",\"https://images.monoprice.com/productlargeimages/392415.jpg\",\"https://images.monoprice.com/productlargeimages/392416.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.89,
+      "sku": "39241",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39241",
+      "gtin14": "889028134108"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Ultra Compact USB-C 3.2 Gen2 Cable  10Gbps  5A  Black 1m (3.3ft)",
+      "ratingCount": "16",
+      "reviewCount": "12",
+      "ratingValue": "3.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "39241",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/39241"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

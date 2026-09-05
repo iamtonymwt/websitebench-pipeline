@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat5e RJ45 Inline Coupler Type Feedthrough Keystone Jack Black",
+    "@id": "https://www.monoprice.com/product?p_id=7285",
+    "url": "https://www.monoprice.com/product?p_id=7285",
+    "description": "Easy to use coupler style keystones allow you to use RJ45 terminated cables in the front and the back eliminating the need to splice wires while standing behind a rack. You can use pre-terminated fix length cables as well, eliminating the need for crimping. Fits all standard keystone wall plates and panels.Support Files: Dimensions Diagram (Jan 13, 2011)\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72851.jpg\",\"https://images.monoprice.com/productlargeimages/72852.jpg\",\"https://images.monoprice.com/productlargeimages/72853.jpg\",\"https://images.monoprice.com/productlargeimages/72854.jpg\",\"https://images.monoprice.com/productlargeimages/72855.jpg\",\"https://images.monoprice.com/productlargeimages/72856.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "7285",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7285",
+      "gtin14": "844660072850"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat5e RJ45 Inline Coupler Type Feedthrough Keystone Jack Black",
+      "ratingCount": "203",
+      "reviewCount": "25",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "7285",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/7285"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

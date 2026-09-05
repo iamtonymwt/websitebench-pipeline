@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli",
+    "@id": "https://www.monoprice.com/product?p_id=33304",
+    "url": "https://www.monoprice.com/product?p_id=33304",
+    "description": "The Monolith\u2122 Liquid Spark is a compact headphone amplifier developed by Alex Cavalli for Monoprice. It provides everything people have come to expect from a Cavalli Audio\u00ae design. It uses dual 18V filtered power supply rails to produce wide voltage swings for additional headroom. The Liquid Spark offers plenty of power at 1300mW RMS into a 50 ohm load, with very low distortion and switchable gain.\u00a0          .gte-ctr .row{margin:0;}3 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 3 year replacement warranty, we offer a 45 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.45 Day Money Back GuaranteeMonoprice stands behind the Monolith line of products we sell with a 45 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Jul 25, 2018)Specification Sheet (Oct 25, 2018)Test Measurements Graphs (Oct 25, 2018)Monoprice\u2122, Monolith\u2122, the Monolith logo, and all Monoprice logos are trademarks of Monoprice Inc. Cavalli Audio\u00ae and the Cavalli Audio logo are registered trademarks of Cavalli Audio LLC. Updated Dec 16, 2021 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/333041.jpg\",\"https://images.monoprice.com/productlargeimages/333042.jpg\",\"https://images.monoprice.com/productlargeimages/333043.jpg\",\"https://images.monoprice.com/productlargeimages/333044.jpg\",\"https://images.monoprice.com/productlargeimages/333045.jpg\",\"https://images.monoprice.com/productlargeimages/333046.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 164.99,
+      "sku": "33304",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33304",
+      "gtin14": "889028084601"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli",
+      "ratingCount": "80",
+      "reviewCount": "80",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones"
+    },
+    {
+      "name": "Headphone Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/headphone-amplifiers"
+    },
+    {
+      "name": "33304",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/headphone-amplifiers/33304"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

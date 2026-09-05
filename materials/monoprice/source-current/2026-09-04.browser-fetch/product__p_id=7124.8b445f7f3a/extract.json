@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2.5mm TRS Stereo Plug to 3.5mm TRS Stereo Jack Adapter Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=7124",
+    "url": "https://www.monoprice.com/product?p_id=7124",
+    "description": "RG6 Quad Shield is great for Hi-Impact Acoustics, antennas, cable television, and satellite installations. The durable 18 AWG copper-clad steel-center conductor is surrounded by a foam polyethylene dielectric with two active shield layers of mylar foil providing 99-100% coverage and two layers of aluminum braid shielding with 95% coverage. Sweep testing ensures 3.0 GHz performance at applicable frequencies.Features: 75 ohm impedance18 AWG solid 0.040\" copper-clad steel center conductorTwo layers of mylar foil shielding with 99-100% coverageTwo layers of aluminum braid shielding with 95% coverageCM/CL2 rated",
+    "image": "[\"https://images.monoprice.com/productlargeimages/71241.jpg\",\"https://images.monoprice.com/productlargeimages/71242.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "7124",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=7124",
+      "gtin14": "844660071242"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2.5mm TRS Stereo Plug to 3.5mm TRS Stereo Jack Adapter Gold Plated",
+      "ratingCount": "46",
+      "reviewCount": "46",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Plug Adapter",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter"
+    },
+    {
+      "name": "7124",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter/7124"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

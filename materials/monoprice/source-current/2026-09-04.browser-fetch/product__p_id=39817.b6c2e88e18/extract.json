@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Junction Box for Dome  IP camera (Compatible with Hikvision DS-2CD2143G0-I)",
+    "@id": "https://www.monoprice.com/product?p_id=39817",
+    "url": "https://www.monoprice.com/product?p_id=39817",
+    "description": "",
+    "image": "[\"https://images.monoprice.com/productlargeimages/398171.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.0,
+      "sku": "39817",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39817",
+      "gtin14": "889028139899"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Junction Box for Dome  IP camera (Compatible with Hikvision DS-2CD2143G0-I)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Smart Home & Security",
+      "url": "https://www.monoprice.com/category/pages/8"
+    },
+    {
+      "name": "Surveillance Cameras & Accessories",
+      "url": "https://www.monoprice.com/category/smart-home-&-security/surveillance-cameras-&-accessories"
+    },
+    {
+      "name": "Camera Mounts & Housings",
+      "url": "https://www.monoprice.com/category/smart-home-&-security/surveillance-cameras-&-accessories/camera-mounts-&-housings"
+    },
+    {
+      "name": "39817",
+      "url": "https://www.monoprice.com/category/smart-home-&-security/surveillance-cameras-&-accessories/camera-mounts-&-housings/39817"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

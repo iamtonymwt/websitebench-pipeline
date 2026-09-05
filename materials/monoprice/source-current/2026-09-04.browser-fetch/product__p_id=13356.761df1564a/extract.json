@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RJR-2 Multizone RJ45 to RCA Converter",
+    "@id": "https://www.monoprice.com/product?p_id=13356",
+    "url": "https://www.monoprice.com/product?p_id=13356",
+    "description": "The Monoprice RJR-2 Multizone RJ45 to RCA Converter is the required adapter that allows the RJ45 connectors on the 13358 Multizone Source Keypad with Bluetooth Receiver and 39262 Monoprice Multizone Source with Wi-Fi Receiver and Line Input to provide RCA audio outputs for use with standard audio systems, including the 10761 Monoprice 6-Zone Home Audio Multizone Controller and Amplifier Kit.The Multizone Source Keypad with Bluetooth Receiver (13358), Multizone Source with Wi-Fi Receiver and Line Input (39262) and RJR\u20112 Multizone RJ45 to RCA Converter (13356) components present an ideal opportunity for installers to add convenience to any multiroom system, including the Monoprice 6-Zone Home Audio Multizone Controller and Amplifier Kit (10761). The NO LOGO design increases confidence that end users will not simply look up a make and model number to find it cheaper somewhere else.Features: Safely run audio long distances throughout homes or officesInterface with any brand audio systemEasy to install with standard building materialsMoney making add\u2011on opportunity for installersSupport Files: Manual (Oct 26, 2023)Sales Sheet (May 26, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. The Bluetooth\u00ae word mark and logos are registered trademarks of Bluetooth SIG, Inc. Updated Mar 9, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/133561.jpg\",\"https://images.monoprice.com/productlargeimages/133562.jpg\",\"https://images.monoprice.com/productlargeimages/133563.jpg\",\"https://images.monoprice.com/productlargeimages/133564.jpg\",\"https://images.monoprice.com/productlargeimages/133565.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 99.99,
+      "sku": "13356",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=13356",
+      "gtin14": "889028014042"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RJR-2 Multizone RJ45 to RCA Converter",
+      "ratingCount": "10",
+      "reviewCount": "10",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "13356",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/13356"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 12in 4pin MOLEX Male to 2x 15pin SATA II Female Power Cable (Net Jacket)",
+    "@id": "https://www.monoprice.com/product?p_id=8793",
+    "url": "https://www.monoprice.com/product?p_id=8793",
+    "description": "The Serial ATA standard provides for the adoption of a new 15-pin drive power connector, replacing the ubiquitous 4-pin Molex\u00ae connector. However, existing system cases and power supplies may have an insufficient number of SATA power connectors, while still retaining the older Molex connectors.This 12\" adapter cable plugs into a 4-pin Molex power plug and provides two 15-pin SATA power connectors. Each SATA power connector is spaced about 6 inches apart, allowing two drives to be easily daisy chained to the single power line. The power wires are contained within a net jacket to keep them neat and tidy within the system case.Warning! The Molex connector provides only 5 and 12 VDC power. While many SATA drives only require these power levels, some require the additional 3.3 VDC power provided for in the SATA specification. Make sure your drive does not require 3.3 VDC before purchasing this adapter cable. Molex\u00ae is a registered trademark of Molex, LLC in the United States of America and may be registered in other countries. Updated Feb 6, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/87931.jpg\",\"https://images.monoprice.com/productlargeimages/87932.jpg\",\"https://images.monoprice.com/productlargeimages/87933.jpg\",\"https://images.monoprice.com/productlargeimages/87934.jpg\",\"https://images.monoprice.com/productlargeimages/87935.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "8793",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8793",
+      "gtin14": "844660087939"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 12in 4pin MOLEX Male to 2x 15pin SATA II Female Power Cable (Net Jacket)",
+      "ratingCount": "19",
+      "reviewCount": "19",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SATA Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables"
+    },
+    {
+      "name": "8793",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables/8793"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

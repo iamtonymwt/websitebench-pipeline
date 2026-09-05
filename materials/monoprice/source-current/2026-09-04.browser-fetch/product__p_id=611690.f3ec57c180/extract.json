@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 9V Power Supply for Guitar Pedals",
+    "@id": "https://www.monoprice.com/product?p_id=611690",
+    "url": "https://www.monoprice.com/product?p_id=611690",
+    "description": "Power your guitar effects pedal with this Stage Right\u00e2\u201e\u00a2 9V Power Supply for Guitar Pedals from Monoprice\u00e2\u201e\u00a2!This AC adapter is intended for use with the Monoprice guitar effects pedals, as well as guitar effects pedals from other manufacturers.It boasts a cable length of 5 feet, which means you don't need to have an unsightly power strip next to your pedal board. It has the following physical and electrical characteristics:Tip negativeInput power of 100~240 VAC, 50/60 Hz, 0.2AOutput power of 9 VDC, 500mADC connector barrel/pin diameter is 5.5mm/2.1mmMonoprice\u00e2\u201e\u00a2, Stage Right\u00e2\u201e\u00a2, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Jul 9, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6116901.jpg\",\"https://images.monoprice.com/productlargeimages/6116902.jpg\",\"https://images.monoprice.com/productlargeimages/6116903.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "611690",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=611690",
+      "gtin14": "757901816215"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 9V Power Supply for Guitar Pedals",
+      "ratingCount": "104",
+      "reviewCount": "104",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Pedals",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals"
+    },
+    {
+      "name": "611690",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals/611690"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

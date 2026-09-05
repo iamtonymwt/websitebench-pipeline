@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice On Tour Cables - 1/4in TRS Male Connector to 1/8in TRS Male Connector 24AWG Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=35797",
+    "url": "https://www.monoprice.com/product?p_id=35797",
+    "description": "Monoprice's Stage Right\u2122 line of professional audio cables brings you high performance cables at rock bottom prices. Whether you're connecting broadcast equipment, instruments for your band, or your high end entertainment system, Monoprice has the interconnect cables for you.Stage Right by Monoprice On Tour Cables continue our tradition of bringing the highest quality cables at the best prices. These cables feature thick, heavy gauge wires, gold plated connectors, and sturdy connector housings meant to be taken on the road.Features: Features robust and professional quality 1/8\" connectors designed with the mobile and notebook computer user in mindReduce the wear and tear on a permanently installed cable by using an extension cable as a strain reliefBacked by Monoprice's lifetime warrantyStage Right\u2122 and the Stage Right logo are trademarks of Monoprice Inc. Updated Oct 14, 2019 \u00a0                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/357971.jpg\",\"https://images.monoprice.com/productlargeimages/357972.jpg\",\"https://images.monoprice.com/productlargeimages/357973.jpg\",\"https://images.monoprice.com/productlargeimages/357974.jpg\",\"https://images.monoprice.com/productlargeimages/357975.jpg\",\"https://images.monoprice.com/productlargeimages/357976.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "35797",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35797",
+      "gtin14": "889028110089"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice On Tour Cables - 1/4in TRS Male Connector to 1/8in TRS Male Connector 24AWG Black 6ft",
+      "ratingCount": "10",
+      "reviewCount": "5",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Mobile & Combo Adapter Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/mobile-&-combo-adapter-cables"
+    },
+    {
+      "name": "35797",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/mobile-&-combo-adapter-cables/35797"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3-Pin XLR Male Mic Connector Gold Plated Pins",
+    "@id": "https://www.monoprice.com/product?p_id=6210",
+    "url": "https://www.monoprice.com/product?p_id=6210",
+    "description": "Make your own custom length XLR cables using this 3-Pin XLR Male Connector from Monoprice!This 3-pin male connector features a nickel-tin body, gold plated pins for smooth, corrosion-free connections, and a rubber strain relief boot. Use this with our bulk microphone cable to make custom XLR cables.Note: For custom DMX512 cables, use PID 601651 3-pin Male DMX Connector and PID 601660 2-Conductor DMX Lighting & AES/EBU Bulk Cable instead. Updated Apr 23, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/62101.jpg\",\"https://images.monoprice.com/productlargeimages/62102.jpg\",\"https://images.monoprice.com/productlargeimages/62103.jpg\",\"https://images.monoprice.com/productlargeimages/62104.jpg\",\"https://images.monoprice.com/productlargeimages/62105.jpg\",\"https://images.monoprice.com/productlargeimages/62106.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "6210",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6210",
+      "gtin14": "844660062103"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3-Pin XLR Male Mic Connector Gold Plated Pins",
+      "ratingCount": "22",
+      "reviewCount": "22",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables"
+    },
+    {
+      "name": "Bulk Microphone Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-microphone-cables"
+    },
+    {
+      "name": "6210",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-microphone-cables/6210"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

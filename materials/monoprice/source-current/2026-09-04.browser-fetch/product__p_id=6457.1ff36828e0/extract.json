@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Hook and Loop Fastening Cable Ties 6in 50 pcs/pack Black",
+    "@id": "https://www.monoprice.com/product?p_id=6457",
+    "url": "https://www.monoprice.com/product?p_id=6457",
+    "description": "Organize your wires and cables with reusable Hook and Loop Cable Ties from Monoprice\u2122!These cable ties are made of a self\u2011attaching hook and loop material, popularized by the NASA space program. They measure 6\" in length and include an eye hole in the tail, allowing the tie to be attached to a cable or hung from a hook. The package includes 50 pieces.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 25, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/64571.jpg\",\"https://images.monoprice.com/productlargeimages/64572.jpg\",\"https://images.monoprice.com/productlargeimages/64573.jpg\",\"https://images.monoprice.com/productlargeimages/64574.jpg\",\"https://images.monoprice.com/productlargeimages/64575.jpg\",\"https://images.monoprice.com/productlargeimages/64576.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.99,
+      "sku": "6457",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6457",
+      "gtin14": "844660064572"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Hook and Loop Fastening Cable Ties 6in 50 pcs/pack Black",
+      "ratingCount": "197",
+      "reviewCount": "114",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Cable Management",
+      "url": "https://www.monoprice.com/category/networking/cable-management"
+    },
+    {
+      "name": "Hook & Loop",
+      "url": "https://www.monoprice.com/category/networking/cable-management/hook-&-loop"
+    },
+    {
+      "name": "6457",
+      "url": "https://www.monoprice.com/category/networking/cable-management/hook-&-loop/6457"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

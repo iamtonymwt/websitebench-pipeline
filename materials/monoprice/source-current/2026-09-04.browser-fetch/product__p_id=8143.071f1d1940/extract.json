@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Electrical Precision Cutter for Wire Up to 0.9mm",
+    "@id": "https://www.monoprice.com/product?p_id=8143",
+    "url": "https://www.monoprice.com/product?p_id=8143",
+    "description": "These handy wire cutters are perfect for snipping small wires up to 0.9mm thick, such as those found in Cat5e and Cat6 cables. The angled cutting end makes it easy to cut flush with a flat surface, such as a wall, and gives you clear line of sight to the cutting point for precision placement of the cut. The pointed tip allows you to easily cut individual wires within a tight bundle.The grips are made of red plastic, with blue rubber grips for added insulation, comfort, and grip. The bright, contrasting colors mean you won't overlook these cutters when you clean up the worksite and they are easy to locate within your tool box.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/81431.jpg\",\"https://images.monoprice.com/productlargeimages/81432.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "8143",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=8143",
+      "gtin14": "844660081432"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Electrical Precision Cutter for Wire Up to 0.9mm",
+      "ratingCount": "26",
+      "reviewCount": "26",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Cable Cutters",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/cable-cutters"
+    },
+    {
+      "name": "8143",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/cable-cutters/8143"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

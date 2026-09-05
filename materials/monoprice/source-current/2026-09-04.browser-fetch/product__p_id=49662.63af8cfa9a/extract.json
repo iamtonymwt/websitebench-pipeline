@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-C to 3.5mm Mic and 3.5mm Stereo Audio - Gaming Headset to PC Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=49662",
+    "url": "https://www.monoprice.com/product?p_id=49662",
+    "description": "Monoprice\u2122USB-C to 3.5mm Mic and 3.5mm Stereo Audio \u2014 Gaming Headset to PC AdapterGaming headsets with two separate 3.5mm plugs \u2014 one for audio out, one for microphone \u2014 are the standard for PC gaming, but USB-C-only laptops and modern desktops leave those headsets without a direct connection. The Monoprice USB-C to 3.5mm Mic and 3.5mm Stereo Audio Adapter solves this with a single USB-C plug that splits into a dedicated 3.5mm headphone output and a separate 3.5mm microphone input. Both aluminum shells are laser-engraved with function icons \u2014 a headphone symbol and a microphone symbol \u2014 so you never have to guess which plug is which.The 125mm nylon-braided cable adds durability without bulk, with a PVC core at 2.7mm OD and a nylon braid at 3.2mm OD. Nickel-plated contacts on all three connectors ensure a reliable, corrosion-resistant connection. Backed by the Monoprice lifetime limited warranty.Dual 3.5mm ports. One USB-C plug delivers a dedicated headphone output and a separate microphone input \u2014 no shared combo jack.Labeled aluminum shells. Laser-engraved headphone and microphone icons on each port mean you always connect to the right jack.Compact 125mm cable. Short enough to sit flush behind a workstation or fold flat in a laptop bag without excess slack.Nylon-braided construction. 3.2mm braid OD over a 2.7mm PVC core; resists tangling and daily handling wear.Nickel-plated connectors. All three ports \u2014 USB-C, headphone 3.5mm, and microphone 3.5mm \u2014 use nickel plating for corrosion resistance.USB-C audio output required. This adapter requires the host USB-C port to support audio output. Verify device specs; not compatible with charging-only USB-C ports.\u00a0DUAL 3.5MM PORTSOne USB-C plug delivers a dedicated headphone output and a separate microphone input \u2014 separate jacks, separate signals.\u00a0LABELED ALUMINUM SHELLSLaser-engraved headphone and mic icons mark each port permanently; CNC aluminum construction.\u00a0125 MM NYLON-BRAIDED CABLE3.2 mm braid OD over a 2.7 mm PVC core; compact enough for a laptop bag.\u00a0NICKEL-PLATED CONTACTSUSB-C male and both 3.5mm female jacks; corrosion-resistant and long-lasting.\u00a0WORKS WITH STANDARD GAMING HEADSETSBuilt for headsets with two separate 3.5mm plug \u2014 headphone out and microphone in. Connect each plug to its matching labeled jack; no combo splitter, no new headset required.\u00a0PACKAGE CONTENTS\u20221x Monoprice USB-C to 3.5mm Mic and 3.5mm Stereo Audio Adapter\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Technical Drawing (Aug 18, 2026)Sales Sheet (Aug 12, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 2026 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/496621.jpg\",\"https://images.monoprice.com/productlargeimages/496622.jpg\",\"https://images.monoprice.com/productlargeimages/496623.jpg\",\"https://images.monoprice.com/productlargeimages/496624.jpg\",\"https://images.monoprice.com/productlargeimages/496625.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "49662",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=49662",
+      "gtin14": "889028231210"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-C to 3.5mm Mic and 3.5mm Stereo Audio - Gaming Headset to PC Adapter",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "49662",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/49662"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

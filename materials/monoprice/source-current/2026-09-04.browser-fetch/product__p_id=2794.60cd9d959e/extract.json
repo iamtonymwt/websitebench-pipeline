@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Wire Oxygen-Free CL2 Rated 2-Conductor 16AWG 300ft",
+    "@id": "https://www.monoprice.com/product?p_id=2794",
+    "url": "https://www.monoprice.com/product?p_id=2794",
+    "description": "Get the most out of your home audio system with high quality, oxygen-free, pure bare copper speaker wire from Monoprice!This speaker wire features two conductors made of high purity (greater than 99.95% pure), oxygen-free bare copper. Pure Bare Copper is a superior conductor to the copper clad aluminum (CCA) conductors used in most other inexpensive speaker wire. CCA is only about 68% as conductive as pure bare copper. This additional resistance is added to the impedance of your speakers and can negatively effect the sound.For the wire to have no audible effect, the total wire resistance should be no more than 5% of the lowest impedance of your speakers. Even speakers rated for a nominal 8-ohms, may dip to as low as 4-ohms at some frequencies, which further reduces the total cable resistance allowed in the wire. Using Pure Bare Copper speaker wire ensures that the total load put on the amplifier remains as close as possible to the impedance curve of your speakers.For example, a 16AWG 2-conductor Pure Bare Copper speaker wire has a total resistance of 0.803 ohms per 100 feet (both directions must be considered). By comparison, a 16AWG 2-conductor CCA speaker wire has a total resistance of 1.181 ohms per 100 feet. Assuming 4 ohms is the lowest impedance of your speakers, a speaker wire run can be no more 0.2-ohms total. 20 feet of 16AWG Pure Bare Copper would be 0.1606 ohms, well under the 0.2-ohm limit. On the other hand, 20 feet of 16AWG CCA would be 0.2362 ohms, well OVER the 0.2-ohm limit.One side of the clear outer PVC jacket is marked with an easily visible blue stripe to indicate polarity.Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/27941.jpg\",\"https://images.monoprice.com/productlargeimages/27942.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 180.49,
+      "sku": "2794",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2794",
+      "gtin14": "844660027942"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Wire Oxygen-Free CL2 Rated 2-Conductor 16AWG 300ft",
+      "ratingCount": "1555",
+      "reviewCount": "16",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "2794",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/2794"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

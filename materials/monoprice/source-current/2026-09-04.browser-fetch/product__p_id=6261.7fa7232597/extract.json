@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6in RCA Female to 2x RCA Male Digital Coaxial Splitter Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=6261",
+    "url": "https://www.monoprice.com/product?p_id=6261",
+    "description": "This Digital Coax Cable is made from premium quality RG-6/U with double copper braid shielding to prevent signal degradation caused by EMI and RFI interference. This cable is ideal for conducting S/PDIF digital audio signals and other high-bandwidth content, but it can also be used for composite video and other line level RCA signals.This splitter features a single RCA female jack on one end and a pair of RCA male plugs on the other end. The purpose of this is adapter to split a single RCA output to send to two RCA inputs.Note that this should be used only as a splitter. Combining audio signals could result in damage to your audio equipment. The proper way to combine audio signals is through an audio mixer. Features: Gold plated RCA male connectorsRubber-covered, molded connector housings97% pure oxygen-free copper conductorDouble shielded with copper braiding22 pF per foot capacitance75 ohm impedance                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/62611.jpg\",\"https://images.monoprice.com/productlargeimages/62612.jpg\",\"https://images.monoprice.com/productlargeimages/62613.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.79,
+      "sku": "6261",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6261",
+      "gtin14": "844660062615"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6in RCA Female to 2x RCA Male Digital Coaxial Splitter Adapter",
+      "ratingCount": "160",
+      "reviewCount": "160",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Digital Coaxial Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/digital-coaxial-cables"
+    },
+    {
+      "name": "6261",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/digital-coaxial-cables/6261"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

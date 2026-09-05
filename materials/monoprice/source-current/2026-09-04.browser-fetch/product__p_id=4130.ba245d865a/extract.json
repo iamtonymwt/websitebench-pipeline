@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RCA Male to F Female Adapter - Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=4130",
+    "url": "https://www.monoprice.com/product?p_id=4130",
+    "description": "Gold plated adapter for converting \"F\" type connectors on Coax cables into RCA.PLEASE NOTE!\u00a0 Do not use these adapters to connect an RF antenna signal into a Composite video signal or visa versa.\u00a0 When using this for composite signals, you should have an RCA adapter on both ends.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/41301.jpg\",\"https://images.monoprice.com/productlargeimages/41302.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "4130",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4130",
+      "gtin14": "844660041306"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RCA Male to F Female Adapter - Gold Plated",
+      "ratingCount": "37",
+      "reviewCount": "37",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters"
+    },
+    {
+      "name": "4130",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters/4130"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

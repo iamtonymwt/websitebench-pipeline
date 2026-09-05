@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "netis 24-Port Unmanaged 10/100/1000 Mbps Gigabit Ethernet Switch Rack Mountable Fanless Commercial Grade Steel Enclosure",
+    "@id": "https://www.monoprice.com/product?p_id=41527",
+    "url": "https://www.monoprice.com/product?p_id=41527",
+    "description": "The netis\u00ae ST3124GS Gigabit Ethernet Rackmount Switch provides 24x 10/100/1000Mbps Auto-Negotiation RJ45 ports. It is ideal for small and medium office use. All ports support Auto MDI/MDIX function, eliminating the need for crossover cables or uplink ports. The 24 Port Gigabit Ethernet Rackmount Switch provides you with a high-performance, seamless, and standard upgrade to improve your old network to a 1000Mbps network.Features: 24x 10/100/1000M RJ45 portsSupports MAC address self-learning and auto MDI/MDIXSupports 16K MAC address48 Gbps switching capacity3.5Mbit SDRAM packet bufferFanless design lowers energy consumption and eliminates operating noiseHigh quality steel case design includes mounting brackets to fit 19\" racksPlug and play, no configuration requiredSupport Files: Quick Installation Guide (Oct 23, 2016)Specification Sheet (Aug 21, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. netis\u00ae and the netis logo are registered trademarks of Netis Systems Co., Ltd. Updated Mar 16, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/415271.jpg\",\"https://images.monoprice.com/productlargeimages/415272.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 79.99,
+      "sku": "41527",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41527",
+      "gtin14": "889028157299"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "netis 24-Port Unmanaged 10/100/1000 Mbps Gigabit Ethernet Switch Rack Mountable Fanless Commercial Grade Steel Enclosure",
+      "ratingCount": "6",
+      "reviewCount": "6",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Wired Networking",
+      "url": "https://www.monoprice.com/category/networking/wired-networking"
+    },
+    {
+      "name": "Network Switches",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/network-switches"
+    },
+    {
+      "name": "41527",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/network-switches/41527"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

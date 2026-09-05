@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 15ft XLR Male to 1/4inch TRS Male 16AWG Cable (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=18816",
+    "url": "https://www.monoprice.com/product?p_id=18816",
+    "description": "The Stage Right\u2122 brand of professional audio cables brings you high performance cables at rock bottom prices. This balanced cable feature a 3-pin male XLR connector on one end and a 1/4\" male TRS plug on the other. It is ideal for connecting mixers, microphones, amplifiers, and other professional audio devices.Features: 16AWG stranded pure bare copper conductorsAluminum braid provides 97.5% shieldingGold plated connectors\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/188161.jpg\",\"https://images.monoprice.com/productlargeimages/188162.jpg\",\"https://images.monoprice.com/productlargeimages/188163.jpg\",\"https://images.monoprice.com/productlargeimages/188164.jpg\",\"https://images.monoprice.com/productlargeimages/188165.jpg\",\"https://images.monoprice.com/productlargeimages/188166.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "18816",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18816",
+      "gtin14": "889028048023"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 15ft XLR Male to 1/4inch TRS Male 16AWG Cable (Gold Plated)",
+      "ratingCount": "37",
+      "reviewCount": "3",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "18816",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/18816"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

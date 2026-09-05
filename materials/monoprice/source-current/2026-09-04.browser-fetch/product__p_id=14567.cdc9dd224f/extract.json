@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium Select 8in 200-Watt Subwoofer",
+    "@id": "https://www.monoprice.com/product?p_id=14567",
+    "url": "https://www.monoprice.com/product?p_id=14567",
+    "description": "Get big sound at the low end by adding this Select 8\u2011inch 200\u2011watt Subwoofer to your existing audio system. Enjoy deep, rich bass in music and experience the room rattling rumble of explosions when watching movies.Featuring a forward\u2011firing, 8\u2011inch paper cone driver, this sub can be easily integrated into almost any existing audio system. Use the dedicated LFE subwoofer input if your amplifier is equipped with an LFE output or use the line level or speaker level stereo inputs if it doesn't. As long as your system has stereo speaker outputs, you can use this subwoofer!Features: 100 watts RMS, 200 watts peak power output8\" paper cone driver with rubber surroundThree input options: dedicated LFE, line level stereo, and speaker level stereoAdjustable low\u2011pass filter, volume, and phase controlsSmall footprint \u2011 only 10.6\" x 12.8\"Support Files: User's Manual (Dec 19, 2017)Multilanguage User's Manual (Apr 16, 2018)Manuel d'Utilisateur (Fran\u00e7ais) (Dec 19, 2017)Benutzerhandbuch (Deutsche) (Dec 19, 2017)Manuale Utente (Italiano) (Apr 16, 2018)Manual de Usuario (Espa\u00f1ol) (Dec 19, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Apr 28, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/145671.jpg\",\"https://images.monoprice.com/productlargeimages/145672.jpg\",\"https://images.monoprice.com/productlargeimages/145673.jpg\",\"https://images.monoprice.com/productlargeimages/145674.jpg\",\"https://images.monoprice.com/productlargeimages/145675.jpg\",\"https://images.monoprice.com/productlargeimages/145676.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 224.99,
+      "sku": "14567",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=14567",
+      "gtin14": "889028026472"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium Select 8in 200-Watt Subwoofer",
+      "ratingCount": "110",
+      "reviewCount": "110",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Subwoofers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers"
+    },
+    {
+      "name": "14567",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers/14567"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

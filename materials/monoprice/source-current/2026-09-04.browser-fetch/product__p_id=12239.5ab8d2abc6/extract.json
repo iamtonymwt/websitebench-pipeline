@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
+    "@id": "https://www.monoprice.com/product?p_id=12239",
+    "url": "https://www.monoprice.com/product?p_id=12239",
+    "description": "FAST CHARGING via USB The USB 2.0 Fast Charge Plus Micro USB Cable is a fast charging sync cable with large 20AWG power conductors for rapid charging and 30AWG conductors for data.SECURITY WHILE CHARGING The USB 2.0 Fast Charge Plus Micro USB Cable has a data on/off switch that protects your device from hacking when connected via USB to unfamiliar ports for charging.Set to Charge Only as default, this cable protects your device from hacking while charging from any USB port on the planet. When you want to transfer data, just flip the switch and the cable does standard data transferLIFETIME WARRANTY \u2013 BUY WITH CONFIDENCE Backed up by Monoprice's Lifetime Warranty, the USB 2.0 Fast Charge Plus Micro USB Cable guarantees the quickest charge so you can get back to using your device sooner.Features: Cable Length - 4.5ftUSB Type A to Micro USBLarge 20AWG power conductors for the fastest charge possibleIn-line switch controls the flow of data",
+    "image": "[\"https://images.monoprice.com/productlargeimages/122391.jpg\",\"https://images.monoprice.com/productlargeimages/122392.jpg\",\"https://images.monoprice.com/productlargeimages/122393.jpg\",\"https://images.monoprice.com/productlargeimages/122394.jpg\",\"https://images.monoprice.com/productlargeimages/122395.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.99,
+      "sku": "12239",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12239",
+      "gtin14": "889028002339"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "Micro USB Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables"
+    },
+    {
+      "name": "12239",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables/12239"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

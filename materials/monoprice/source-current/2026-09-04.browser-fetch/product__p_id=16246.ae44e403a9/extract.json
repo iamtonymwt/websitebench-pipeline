@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Essential Dual Monitor Articulating Arm Desk Mount",
+    "@id": "https://www.monoprice.com/product?p_id=16246",
+    "url": "https://www.monoprice.com/product?p_id=16246",
+    "description": "The Essential Dual Monitor Adjustable Arm Desk Mount is designed to mount two 13\" ~ 27\" displays weighing up to 17.6 lbs. each above your desk. The elevated display position not only adds space to your desk, but also improves your posture by allowing you to look straight ahead instead of downward. It also creates a neat and clean professional appearance, which improves the look of any home or office environment. The mount can be swiveled 180\u00b0, tilted 35\u00b0 downward or 90\u00b0 upward, and rotated 360\u00b0 for quick and easy swapping between landscape and portrait orientations.\u00a0\u00a0\u00a0\u00a0     Model16243 16245 16246 16247 16248 Number\u00a0of\u00a0Displays11234Swivel\u00a0Range180\u00b0180\u00b0180\u00b0180\u00b0180\u00b0Tilt\u00a0Range+90\u00b0 / \u201190\u00b0+90\u00b0 / \u201190\u00b0+90\u00b0 / \u201135\u00b0+90\u00b0 / \u201190\u00b0+90\u00b0 / \u201190\u00b0Rotation\u00a0Range360\u00b0360\u00b0360\u00b0360\u00b0360\u00b0Minimum\u00a0Display\u00a0Size*10\"10\"13\"10\"10\"Maximum\u00a0Display\u00a0Size*30\"30\"27\"30\"30\"Minimum\u00a0VESA\u00ae75 x 7575 x 7575 x 7575 x 7575 x 75Maximum\u00a0VESA100 x 100100 x 100100 x 100100 x 100100 x 100Weight\u00a0Capacity22 lbs. (10kg)22 lbs. (10kg)17.6 lbs. (8kg)22 lbs. (10kg)22 lbs. (10kg)*The minimum and maximum display sizes are only approximations. Your display will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight..gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Aug 4, 2016)Diagram (Nov 30, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated May 10, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/162461.jpg\",\"https://images.monoprice.com/productlargeimages/162462.jpg\",\"https://images.monoprice.com/productlargeimages/162463.jpg\",\"https://images.monoprice.com/productlargeimages/162464.jpg\",\"https://images.monoprice.com/productlargeimages/162465.jpg\",\"https://images.monoprice.com/productlargeimages/162466.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 43.99,
+      "sku": "16246",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=16246",
+      "gtin14": "889028043769"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Essential Dual Monitor Articulating Arm Desk Mount",
+      "ratingCount": "95",
+      "reviewCount": "45",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Desk Monitor Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts"
+    },
+    {
+      "name": "16246",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts/16246"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

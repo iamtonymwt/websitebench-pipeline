@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Splitter Power Cord - IEC 60320 C20 to 2x IEC 60320 C19  12AWG 20A SJTW 100-250V Black 2ft",
+    "@id": "https://www.monoprice.com/product?p_id=35117",
+    "url": "https://www.monoprice.com/product?p_id=35117",
+    "description": "This Monoprice\u2122 C19 to C20 Y\u2011splitter cable allows you to plug two devices with C20 inlets to a single C19 outlet on a PDU or UPS system. This 12 AWG cable is designed to carry up to a 20 amp/2500 watt, 125 volt load. This cable is ETL, cETL,\u00a0CSA\u00ae, and RoHS certified.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. CSA\u00ae is a registered trademark of the CSA Group. Updated Sep 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/351171.jpg\",\"https://images.monoprice.com/productlargeimages/351172.jpg\",\"https://images.monoprice.com/productlargeimages/351173.jpg\",\"https://images.monoprice.com/productlargeimages/351174.jpg\",\"https://images.monoprice.com/productlargeimages/351175.jpg\",\"https://images.monoprice.com/productlargeimages/351176.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.39,
+      "sku": "35117",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35117",
+      "gtin14": "889028103050"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Splitter Power Cord - IEC 60320 C20 to 2x IEC 60320 C19  12AWG 20A SJTW 100-250V Black 2ft",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Splitter Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords"
+    },
+    {
+      "name": "35117",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords/35117"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

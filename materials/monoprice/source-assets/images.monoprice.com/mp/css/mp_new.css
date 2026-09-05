@@ -1,0 +1,12 @@
+.prod-page-container .clr-gray {color: #383838}
+.prod-container a.btn-chat {display: none}
+#hawkbannertop img {width: 100%;height:auto;}
+.masterpass-banner {display: none;}
+.hawk-sqMainWrapper.hawk-autoProducts .hawk-sqContent {height: auto!important;min-height: 195px;}
+#promo-text-detail-2241, #promo-text-detail-2242, #promo-text-detail-2243 {max-width: 660px;}
+#promo-text-detail-2244, #promo-text-detail-2245, #promo-text-detail-2246 {max-width: 660px;}
+/*Menu hack*/
+a#menu_cables ~ .megamenu-sub .last-menu-col, a#menu_audio_video ~ .megamenu-sub .last-menu-col {margin-top: -25px}
+ul#hawkfacet_price_sale {display: block!important;}
+.text-red {color:#000000!important;}
+.sb-site-container {padding:0 0 0 0 !important;}

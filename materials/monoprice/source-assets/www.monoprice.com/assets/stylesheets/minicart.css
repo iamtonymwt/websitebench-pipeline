@@ -1,0 +1,301 @@
+﻿.lw_monoMiniItemText a {
+    font-family: "Ek Mukta",Arial,Verdana;
+    color: #212121 !important;
+    padding: 0 !important;
+    margin-left: 0 !important;
+    text-transform: uppercase;
+    font-size: 14px !important;
+    font-weight: 300 !important;
+    text-decoration: none;
+    margin-top: 20px;
+    letter-spacing: 0;
+}
+
+lw_monoMiniImage img {
+    width: 60px;
+    height: auto;
+}
+
+
+.lw_monoMiniImageContainer {
+    float: left;
+    width: 80px;
+    height: 50px;
+    margin: 7px 0 5px 0;
+    padding: 0;
+}
+
+div#monoMini div.lw_monoMiniItemDetails {
+    width: 200px;
+    margin: 0;
+    padding: 30px 0 0 10px;
+    text-align: left;
+    float: left;
+    line-height: 14px;
+    height: 95px;
+}
+
+
+
+/*.scrollbar
+{
+	margin-left: 10px;
+	float: left;
+max-height: 600px;
+	overflow-y: scroll;
+      width: 304px;
+}
+
+.force-overflow
+{
+	max-height: 450px;
+margin-bottom: 40px;
+}
+*/
+
+/*
+ *  STYLE 3
+ */
+
+/*
+#style-3::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #000000;
+}
+
+#style-3::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #FF0000;
+}
+
+#style-3::-webkit-scrollbar-thumb
+{
+	background-color: #dddddd;
+}
+*/
+
+
+
+
+
+.category-menu.clickable > a {
+    display: block;
+    background: url(https://images.monoprice.com/assets/images/w_arrow_down.png) top right no-repeat;
+}
+
+
+/*mini cart css*/
+
+
+.monoMiniQtyPrice {
+    font-size: 16px;
+    font-weight: 400;
+    float: left;
+    margin-top: 25px;
+    clear: both;
+    width: 100%;
+    text-align: center;
+}
+
+
+    .monoMiniQtyPrice span {
+    }
+
+
+
+div#monoMini {
+    padding: 3px 0 4px 0;
+    font-family: "Ek Mukta",Arial,Verdana;
+    font-size: 11px;
+    line-height: 13px;
+    background-color: #fff;
+    overflow: hidden;
+    border: 1px solid #cccccc;
+    position: absolute;
+    width: 325px;
+    height: 0;
+    margin-left: -290px;
+    z-index: 99999;
+    top: 43px;
+}
+
+.mp-minicart-qty {
+    margin-top: 0;
+    color: #212121;
+    font-family: "Ek Mukta",Arial,Verdana;
+    font-size: 14px;
+}
+
+div.shadowMiniCart {
+    /*-webkit-box-shadow: 1px 2px 5px #AAA;
+        -moz-box-shadow: 1px 2px 5px 0 #AAA;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Color=#AAAAAA,Direction=135,Strength=3);";
+        filter: progid:DXImageTransform.Microsoft.Shadow(Color=#AAAAAA,Direction=135,Strength=3);*/
+}
+
+div#monoMini div.monoMiniItem {
+    position: relative;
+    border-bottom: 1px dashed lightgrey;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-left: 5px;
+    margin-right: 4px;
+    min-height: 80px;
+    width: auto;
+    _width: 100%;
+    line-height: 0;
+}
+
+
+.remove-item-cart {
+    color: #222222;
+    margin-left: 10px;
+    text-decoration: underline;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+}
+
+.itemPrice, .itemPrice span {
+    color: #00a7bb;
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 0;
+    float: right;
+}
+
+div#monoMiniContent {
+}
+
+.monoMiniItem {
+    border-bottom: thin #dddddd solid;
+}
+
+div.monoMiniItem:first-child {
+}
+
+.itemCommandButtons a i {
+    color: #212121;
+}
+
+div#monoMini div.monoMiniImageContainer {
+    text-align: center;
+    display: block;
+}
+
+div#monoMini div.monoMiniItemDetails {
+    width: 280px;
+    margin: 0;
+    padding: 7px 0;
+    text-align: left;
+    float: left;
+    line-height: 14px;
+}
+
+div#monoMini div.monoMiniItemText {
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+    padding: 0;
+    width: 200px;
+    margin-left: 45px;
+}
+
+    div#monoMini div.monoMiniItemText a {
+        text-decoration: none;
+        font-family: "Ek Mukta",Arial,Verdana;
+        color: #000000;
+        padding: 0 !important;
+        margin-left: 0 !important;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+.clearFloats {
+    clear: both;
+    position: relative;
+    _line-height: 0;
+}
+
+.minipID {
+    color: #FFFFFF;
+    font-weight: normal;
+}
+
+div#monoMini div.monoMiniItem:hover {
+    background-color: #ffffff;
+}
+
+div#monoMiniBottom {
+    background-color: #FFFFFF;
+    font-size: 11px;
+    padding: 15px 5px 15px 15px;
+    text-align: left;
+}
+
+div.miniCartcheckoutButton {
+    float: right;
+    line-height: 0;
+    height: 31px;
+    margin-right: 10px;
+}
+
+.monoMiniQtyPrice div {
+    display: inline-block;
+}
+
+.myBagLink a {
+    font-weight: bold;
+    padding: 0 !important;
+    display: inline !important;
+}
+
+
+.quickBagSubTotal {
+    font-weight: bold;
+}
+
+.mininote {
+    font-size: 11px;
+    font-weight: 300;
+    color: #595959;
+    font-family: 'Ek Mukta', sans-serif;
+    padding: 10px;
+	clear: both;
+}
+
+.itemCommandButtons {
+    text-align: right;
+    float: left;
+}
+
+#myBagCount {
+    margin-left: 5px;
+}
+
+.mySubTotalCount {
+    margin-left: 11px;
+}
+
+.animated {
+    display: block;
+}
+
+.lw_monoMiniItemText {
+    margin-left: 80px;
+    padding-top: 10px;
+    padding-right: 30px;
+}
+
+.lw_monoMiniImage {
+    width: 64px;
+    height: auto;
+}
+
+
+.monoMiniItem {
+    width: 96%;
+}

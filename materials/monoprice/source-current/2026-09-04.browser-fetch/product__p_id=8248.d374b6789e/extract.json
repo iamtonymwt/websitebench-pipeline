@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8in 60-Watt Powered Subwoofer Black",
+    "@id": "https://www.monoprice.com/product?p_id=8248",
+    "url": "https://www.monoprice.com/product?p_id=8248",
+    "description": "This is an 8\" powered subwoofer capable of producing 60 watts (RMS) output. The subwoofer has a frequency response range of 50 ~ 250 Hz with a lowpass crossover filter, which can be adjusted from 50 ~ 150 Hz. Gain and frequency knobs on the control panel allow you to adjust the crossover filter and the power output for the optimum blend and balance of bass output with your stereo or surround speakers.The subwoofer has multiple input options, which allow it to be used with any existing stereo or 5.1 (or greater) amplifier system. For each input there is a corresponding output.High\u2011level inputs accept a full\u2011range signal from the amplifier's stereo speaker outputs. When connecting the unit as part of a 5.1 system, these would be taken off the Front Left and Front Right outputs in parallel to the standard pair of front speakers. The subwoofer provides its own power and includes impedance matching circuitry, so this will not reduce the power output to the front speakers or affect the overall impedance load on the amplifier.Additionally, the subwoofer has a set of right/left Line Level inputs. If using a standard stereo system, without a special subwoofer output, you can connect these to the left and right line level outputs on the amp. The subwoofer will then combine the signals to process the mono bass signal it needs to drive the speaker. If you are using an amplifier with a single mono subwoofer line level output, simply use an RCA \"Y\" cable to split the output and send it to the two line level inputs on the subwoofer.The subwoofer is housed in an attractive black wood cabinet that measures 13.75\" x 11.75\" x 11.75\". The driver and a 2 3/4\" sound port are located on the front, covered by a black cloth speaker grill.An optional \"Auto\u2011On\" function puts the subwoofer system into power\u2011saving standby mode after about 2 minutes of no audio input detected. Alternatively, the \"Auto\u2011On\" function can be disabled, allowing the unit to be on whenever the power switch is in the \"on\" position. A 2 amp/250 volt fuse protects the system from short circuits or power overloads.Please note that the manual/data sheet for this subwoofer incorrectly lists the top\u2011end of the crossover as having a frequency of 250Hz. In fact, the top\u2011end of the crossover is at 150Hz as listed on the control plate on the back of the speaker. However, the back plate of the unit indicates the low\u2011end of the crossover as being 45Hz, when it is in fact 50Hz. Support Files: User Manual (Oct 2, 2023)FlatScreen Sales Sheet (Apr 24, 2017)Whole Home Sales Sheet (Apr 24, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 25, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/82481.jpg\",\"https://images.monoprice.com/productlargeimages/82482.jpg\",\"https://images.monoprice.com/productlargeimages/82483.jpg\",\"https://images.monoprice.com/productlargeimages/82484.jpg\",\"https://images.monoprice.com/productlargeimages/82485.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 149.99,
+      "sku": "8248",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8248",
+      "gtin14": "844660082484"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8in 60-Watt Powered Subwoofer Black",
+      "ratingCount": "293",
+      "reviewCount": "293",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Subwoofers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers"
+    },
+    {
+      "name": "8248",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers/8248"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

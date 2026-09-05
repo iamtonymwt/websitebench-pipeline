@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Standard Speed HDMI to Micro HDMI Cable with Ethernet 6ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=7557",
+    "url": "https://www.monoprice.com/product?p_id=7557",
+    "description": "Connect your HDMI\u00ae equipped mobile device directly to your television using this Standard HDMI Cable and HDMI Micro Connector from Monoprice!This Standard HDMI Cable features an HDMI Micro Connector (Type D) on the source end and a regular HDMI Connector (Type A) on the other end. It supports the following general features:4.95Gbps data throughput34AWG copper conductorsFerrite core helps protect against RFI/EMIFull size HDMI connector head measures only 15.7mm thick and 24.0mm wideHDMI Micro connector head measures only 13.0mm thick and 16.2mm wideGold plated connectorsIt supports the following HDMI features:720p/1080i resolution at 60HzDeep Color up to 16-bits per channelx.v.Color\u2122High Definition Audio, including SA-CD, DVD-Audio, DTS-HD Master Audio\u2122, and Dolby TrueHD\u2122HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. x.v.Color\u2122 is a trademark of Sony Corporation. DTS\u00ae is a registered trademark and the DTS logos, Symbol, DTS-HD\u2122, and DTS-HD Master Audio\u2122 are trademarks of DTS, Inc. Dolby\u00ae and the double-D symbol are registered trademarks of Dolby Laboratories. Dolby TrueHD\u2122 is a trademark of Dolby Laboratories. \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/75571.jpg\",\"https://images.monoprice.com/productlargeimages/75572.jpg\",\"https://images.monoprice.com/productlargeimages/75573.jpg\",\"https://images.monoprice.com/productlargeimages/75574.jpg\",\"https://images.monoprice.com/productlargeimages/75575.jpg\",\"https://images.monoprice.com/productlargeimages/75576.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.39,
+      "sku": "7557",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=7557",
+      "gtin14": "844660075578"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Standard Speed HDMI to Micro HDMI Cable with Ethernet 6ft Black",
+      "ratingCount": "103",
+      "reviewCount": "103",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "Micro & Mini HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/micro-&-mini-hdmi-cables"
+    },
+    {
+      "name": "7557",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/micro-&-mini-hdmi-cables/7557"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

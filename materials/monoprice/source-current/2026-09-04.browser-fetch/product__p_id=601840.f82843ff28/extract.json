@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 12.5ft Lighting Stand System with Truss 200 lbs. Capacity and 4ft T-bars",
+    "@id": "https://www.monoprice.com/product?p_id=601840",
+    "url": "https://www.monoprice.com/product?p_id=601840",
+    "description": "Take your stage equipment on the go and setup anywhere with this Lighting Stand System with Truss from Monoprice\u2122!This trussing system offers easy setup and high stability for your professional equipment. It can also be used as a mounting system for a large format projector screen. It comes with two tripods that telescope to 12.5 feet, featuring two locking grooved pins. Also included are two T\u2011bars with four mounting points each and two, five foot trusses that securely lock together to create a ten foot wide span, or be used separately. This system is perfect for mobile DJs, bands, or even to use as rentals.Features: 220 lbs. Maximum Load CapacityExtends up to 12.5 feet tallHas 36 different mounting locationsT\u2011bars are 4 feet wideSpans 10 feet wide using the trussesWeighs 53 lbs.Tripod base adjustable up to 3.5 feet wideSupport Files: User's Manual (Jul 18, 2013)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 15, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6018401.jpg\",\"https://images.monoprice.com/productlargeimages/6018402.jpg\",\"https://images.monoprice.com/productlargeimages/6018403.jpg\",\"https://images.monoprice.com/productlargeimages/6018404.jpg\",\"https://images.monoprice.com/productlargeimages/6018405.jpg\",\"https://images.monoprice.com/productlargeimages/6018406.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 206.99,
+      "sku": "601840",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601840",
+      "gtin14": "757901803338"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 12.5ft Lighting Stand System with Truss 200 lbs. Capacity and 4ft T-bars",
+      "ratingCount": "26",
+      "reviewCount": "26",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Lighting Stands & Trusses",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses"
+    },
+    {
+      "name": "601840",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses/601840"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

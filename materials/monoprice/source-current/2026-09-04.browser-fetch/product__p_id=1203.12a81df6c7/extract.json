@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DB9 M/F Null Modem Mini Type",
+    "@id": "https://www.monoprice.com/product?p_id=1203",
+    "url": "https://www.monoprice.com/product?p_id=1203",
+    "description": "RS-232, DB 9 pin male to female null modem.Null modems are used to connect two computers or other devices together to achieve file transfer. Null modem connectors are different from straight through connectors because the receive and transmit conductors are crossed.This is a miniature null modem with a male connector on one side and a female on the other.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown",
+    "image": "[\"https://images.monoprice.com/productlargeimages/12031.jpg\",\"https://images.monoprice.com/productlargeimages/12032.jpg\",\"https://images.monoprice.com/productlargeimages/12033.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "1203",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1203",
+      "gtin14": "844660012030"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DB9 M/F Null Modem Mini Type",
+      "ratingCount": "15",
+      "reviewCount": "15",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/db-adapters"
+    },
+    {
+      "name": "1203",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/db-adapters/1203"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

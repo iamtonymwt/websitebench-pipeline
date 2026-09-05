@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cable Plate with Flexible Opening 1-Gang White",
+    "@id": "https://www.monoprice.com/product?p_id=12584",
+    "url": "https://www.monoprice.com/product?p_id=12584",
+    "description": "Keep your low\u2011voltage cable runs looking neat and tidy using this 2\u2011Gang Cable plate with Flexible Openings from Monoprice!This low\u2011voltage wall plate features two flexible openings, which allow you to neatly route up to six (6) low\u2011voltage signal cables through your wall. It includes mounting wings, so you can attach it directly to drywall without requiring the use of a separate low\u2011voltage mounting bracket.Features: Low profile design fits behind the industry's thinnest mounts and TVsConceal multiple low voltage cables behind your flat panel TVEasily holds up to 6 cablesAvailable in 4 colors: black, ivory, lite almond, whiteQuick and easy to installMounting wings are molded into the media plate and fasten tightly against the back of the drywallNo low voltage mounting plate or old work ring requiredNo additional parts necessaryNote that for safety purposes, you must use cable rated for in\u2011wall, riser, or plenum use when running cables inside your wall. Failure to do so could result in a fire hazard and invalidate any fire insurance claims. Support Files: Quick Installation Guide (Jul 28, 2025)Sales Sheet (Aug 24, 2025)Tech Drawing (Aug 24, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 26, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/125841.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "12584",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12584",
+      "gtin14": "889028005781"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cable Plate with Flexible Opening 1-Gang White",
+      "ratingCount": "19",
+      "reviewCount": "14",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "12584",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/12584"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

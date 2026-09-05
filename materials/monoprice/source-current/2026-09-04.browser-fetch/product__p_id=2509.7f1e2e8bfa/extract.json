@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice VGA to S-Video/RCA (Composite) Adapter Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=2509",
+    "url": "https://www.monoprice.com/product?p_id=2509",
+    "description": "IMPORTANT, Please READ!\u00a0\u00a0 Before Buying.This item is a VGA VIDEO Card to S. Video or Composite TV \u00a0Adapter Cable.Use it to connect the video card on your computer to a TV input. Your\u00a0 video card\u00a0MUST be able to support s-Video or Composite out through it's VGA port. This is known as a TV out function. If you don't know if your video card\u00a0can do this, then call the card manufacturer and ask them \"Does my video card support S-Video or Composite Video out through its VGA port?\"\u00a0 If it does, then buy this adapter. If not, then use Product # 4724 https://www.monoprice.com/products/search.asp?keyword=4724Connector: VGA(HD15) Male to S-Video Female and RCA(Composite) JackCable: UL 2919 Coaxial Low Voltage CableIt will work with VGA cards that have TV-Out function capability through the VGA connector.Check your Video Card manual or manufacturer to make sure that your VGA card has TV-Out function capability.IMPORTANT: THIS ADAPTER WILL ABSOLUTELY NOT CONVERT AN S-VIDEO OR COMPOSITE VIDEO SIGNAL TO VGA.\u00a0 IT WILL NOT WORK BACKWARDS. YOU CAN NOT USE IT TO DRIVE A VGA COMPUTER MONITOR WITH A CONSUMER ELECTRONICS\u00a0DEVICE SUCH AS A DVD PLAYER OR VCR.IT IS NOT COMPATIBLE WITH NETBOOKS OR ANY CURRENT GRAPHIC CHIPSET.Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/25091.jpg\",\"https://images.monoprice.com/productlargeimages/25092.jpg\",\"https://images.monoprice.com/productlargeimages/25093.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "2509",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2509",
+      "gtin14": "844660025092"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice VGA to S-Video/RCA (Composite) Adapter Cable - Black",
+      "ratingCount": "84",
+      "reviewCount": "84",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "VGA Adapters",
+      "url": "https://www.monoprice.comhttps://www.monoprice.com/search/index?keyword=VGA+adapters"
+    },
+    {
+      "name": "2509",
+      "url": "https://www.monoprice.comhttps://www.monoprice.com/search/index?keyword=VGA+adapters/2509"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

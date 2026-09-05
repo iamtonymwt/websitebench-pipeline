@@ -1,13 +1,38 @@
 {
-  "mainline_journey_ids": [
-    "home-mainline"
-  ],
-  "out_of_scope": [],
-  "primary_actor_ids": [
-    "visitor"
-  ],
-  "purpose_id": "public-home",
   "schema_version": "offline-clone.purpose.v1",
-  "statement": "Render the scoped public home page for Monoprice offline.",
-  "status": "draft"
+  "purpose_id": "monoprice-storefront",
+  "status": "draft",
+  "statement": "Help consumers and small businesses find and buy cables, connectivity hardware and consumer electronics directly from the manufacturer, and receive an order confirmation.",
+  "primary_actor_ids": [
+    "anonymous-shopper"
+  ],
+  "mainline_journey_ids": [
+    "browse-to-product",
+    "search",
+    "add-to-cart",
+    "checkout",
+    "order-confirmation"
+  ],
+  "out_of_scope": [
+    {
+      "id": "account",
+      "reason": "every /myaccount path is under a robots Disallow rule and was never requested"
+    },
+    {
+      "id": "b2b-portal",
+      "reason": "b2b.monoprice.com is a separate origin, not in the approved discovery set"
+    },
+    {
+      "id": "support-knowledge-base",
+      "reason": "monopricesupport.kayako.com is a third-party origin"
+    },
+    {
+      "id": "live-chat",
+      "reason": "Five9 widget in a cross-origin iframe; not recordable and not reproducible offline"
+    },
+    {
+      "id": "financing",
+      "reason": "Affirm is a third-party payment service with real side effects"
+    }
+  ]
 }

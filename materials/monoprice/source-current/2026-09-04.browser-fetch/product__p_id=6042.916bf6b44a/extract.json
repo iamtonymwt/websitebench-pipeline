@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB Extender over Cat5e or Cat6 Connection up to 150ft",
+    "@id": "https://www.monoprice.com/product?p_id=6042",
+    "url": "https://www.monoprice.com/product?p_id=6042",
+    "description": "Extend your USB 1.0/1.1 connection to distances up to 150 feet using this USB Extender over Cat5/Cat6 from Monoprice\u2122!This simple USB adapter converts USB signals into a form that can be transmitted over Ethernet cable, then reassembled into a standard USB signal at the other end. This allows you to extend your USB connection to distances up to 150 feet, almost 10 times the length limit of standard USB cabling.The adapter draws all power necessary from the USB bus, so no external power source is required. It is compatible with any USB compatible device, including any USB\u2011equipped computer, game consoles, USB cameras, printers, keyboards, mice, etc.Note that this adapter supports USB 1.0/1.1 speeds only. It is not compatible with USB 2.0 or USB 3.0 speeds. For best results, use shielded Cat6 cabling.Compatible Operating Systems:Windows\u00ae 95, 98, ME, NT, 2000, XP (32\u2011bit and 65\u2011bit), Vista\u00ae (32\u2011bit and 64\u2011bit), 7 (32\u2011bit and 64\u2011bit)macOS\u00ae 9, macOS\u00ae 10.0\u201110.6Linux\u00ae\u00a0Support Files: Specification Sheet (Aug 13, 2013)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Microsoft\u00ae, Windows\u00ae, and Vista\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Apple\u00ae, Mac\u00ae, and macOS\u00ae are trademarks of Apple Inc, registered in the U.S. and other countries. Linux\u00ae is the registered trademark of Linus Torvalds in the U.S. and other countries. Updated Oct 21, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/60421.jpg\",\"https://images.monoprice.com/productlargeimages/60422.jpg\",\"https://images.monoprice.com/productlargeimages/60423.jpg\",\"https://images.monoprice.com/productlargeimages/60424.jpg\",\"https://images.monoprice.com/productlargeimages/60425.jpg\",\"https://images.monoprice.com/productlargeimages/60426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 28.39,
+      "sku": "6042",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6042",
+      "gtin14": "844660060420"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB Extender over Cat5e or Cat6 Connection up to 150ft",
+      "ratingCount": "193",
+      "reviewCount": "193",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables"
+    },
+    {
+      "name": "6042",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables/6042"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HDMI Port Saver Adapter (Male to Female) Swiveling Type",
+    "@id": "https://www.monoprice.com/product?p_id=5133",
+    "url": "https://www.monoprice.com/product?p_id=5133",
+    "description": "HDMI\u00ae port savers are the perfect solution for relieving wear and tear on your equipment's HDMI\u00ae ports due to constant plugging and unplugging or when heavy HDMI\u00ae cables put extra strain on the connectors. This port saver will help ease the strain at the point of connection to eliminate damage to the HDMI\u00ae ports on your HDMI\u00ae device.\u00a0This adapter can swivel smoothly up or down up to 90 degrees from center.HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/51331.jpg\",\"https://images.monoprice.com/productlargeimages/51332.jpg\",\"https://images.monoprice.com/productlargeimages/51333.jpg\",\"https://images.monoprice.com/productlargeimages/51334.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 4.99,
+      "sku": "5133",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5133",
+      "gtin14": "844660051336"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HDMI Port Saver Adapter (Male to Female) Swiveling Type",
+      "ratingCount": "209",
+      "reviewCount": "209",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "HDMI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters"
+    },
+    {
+      "name": "5133",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters/5133"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

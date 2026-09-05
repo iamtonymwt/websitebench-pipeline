@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB-C to 3x USB-A 3.0  Gigabit Ethernet  and USB-C (F) Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=15250",
+    "url": "https://www.monoprice.com/product?p_id=15250",
+    "description": "The versatility of the USB-C\u00ae port means that it can simultaneously perform several different functions, including data transfer and power input. Rather than being forced to choose one or another, you can enjoy the superior security and increased data transfer speeds of a wired Ethernet connection, as well as the flexibility of three SuperSpeed USB 3.0 ports for connecting external hard drives, flash drives, and other USB devices, all while charging your laptop's battery. Capable of data transfer speeds up to 5Gbps, this hub is also backwards compatible with USB 2.0 and 1.1 devices. A true plug and play device, no drivers or software installations are required to use this Gigabit adapter or USB ports on a Windows\u00ae or Mac\u00ae OS X\u00ae machine.\u00a0USB-C Power Port3-Port USB HubPortableUSB-C Power Port: The USB-C\u00ae charging port supports up to 60 watts (20V/3A) of power pass-through, allowing you to connect a compatible USB-C\u00ae charger and charge your laptop's battery, rather than draining it while using this adapter.3-Port USB Hub: Add three USB 3.0 USB-A ports, each capable of delivering data speeds up to 5Gbps, for connecting SuperSpeed external peripherals and charging mobile devices.Portable: Small and portable, you can easily slip this adapter into your laptop case and have it ready for use wherever and whenever the need arises.\u00a0\u00a0Compatible with USB-C equipped laptops, such as the Apple MacBook\u00ae and Google Chromebook\u2122WarrantyMonoprice not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB-C\u00ae and USB-C\u00ae are trademarks of USB Implementers Forum, Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Apple\u00ae, Mac\u00ae, MacBook\u00ae, and OS X\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122 and Chromebook\u2122 are trademarks of Google Inc. Updated Dec 9, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/152501.jpg\",\"https://images.monoprice.com/productlargeimages/152502.jpg\",\"https://images.monoprice.com/productlargeimages/152503.jpg\",\"https://images.monoprice.com/productlargeimages/152504.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 31.99,
+      "sku": "15250",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15250",
+      "gtin14": "889028033364"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB-C to 3x USB-A 3.0  Gigabit Ethernet  and USB-C (F) Adapter",
+      "ratingCount": "38",
+      "reviewCount": "38",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Wired Networking",
+      "url": "https://www.monoprice.com/category/networking/wired-networking"
+    },
+    {
+      "name": "USB to Ethernet Converters",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/usb-to-ethernet-converters"
+    },
+    {
+      "name": "15250",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/usb-to-ethernet-converters/15250"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

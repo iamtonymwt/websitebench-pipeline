@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1U (19 x 1.75 in) Blank Panel",
+    "@id": "https://www.monoprice.com/product?p_id=7261",
+    "url": "https://www.monoprice.com/product?p_id=7261",
+    "description": "Blank panels can be used to reserve rack space for future expansion and provide a neat and clean appearance by hiding cabling. This blank panel fits a standard 19\" wide rack and covers 1U of rack space (1.75\" height). The panel is constructed of black painted steel.Support Files: Tech Drawing (Aug 11, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 24, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72611.jpg\",\"https://images.monoprice.com/productlargeimages/72612.jpg\",\"https://images.monoprice.com/productlargeimages/72613.jpg\",\"https://images.monoprice.com/productlargeimages/72614.jpg\",\"https://images.monoprice.com/productlargeimages/72615.jpg\",\"https://images.monoprice.com/productlargeimages/72616.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "7261",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7261",
+      "gtin14": "844660072614"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1U (19 x 1.75 in) Blank Panel",
+      "ratingCount": "72",
+      "reviewCount": "40",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Components & Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/components-&-accessories"
+    },
+    {
+      "name": "7261",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/components-&-accessories/7261"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Flat USB-C to USB-A 3.2 Gen 1x1 Charge and Sync Cable  5Gbps  3A  Black  6ft",
+    "@id": "https://www.monoprice.com/product?p_id=41941",
+    "url": "https://www.monoprice.com/product?p_id=41941",
+    "description": "Monoprice\u2122Flat USB\u2011C\u00ae to\u2011A 3.2 Gen 1x1Charge and Sync Cable, 5Gbps, 3AKeep your devices fully charged and your data in sync with the Monoprice\u2122 Flat USB\u2011C\u00ae to\u2011A Charge and Sync Cable. Capable of delivering 3 amps of Battery Charging power, you can quickly charge any USB\u2011C\u00ae enabled device from a\u2011A source. This USB 3.2 Gen 1x1 cable supports data transfer speeds up to 5 Gbps, allowing you to easily keep your data in sync.USB 3.2 Gen 1x13 Amps Battery Charging5Gbps Transfer SpeedDurable ConstructionFlat Cable Resists TanglingLifetime Warranty\u00a03A BATTERY CHARGINGWith up to 3 amps of Battery Charging power, you can keep your mobile devices fully charged and ready for use.REVERSIBLE CONNECTORThe reversible\u2011C\u00ae connector is always properly oriented, eliminating a common source of frustration from trying to plug in improperly oriented\u2011A connectors.FAST DATA TRANSFERSWith up to 5Gbps data transfer speed, you can sync your devices in the blink of an eye.DURABLE CONSTRUCTION.CONVENIENT FLAT CABLE.The flat cable design allows this cable to withstand more bends than ordinary cables and resists tangling, eliminating a common frustration with mobile charge/sync cables.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB\u2011C\u00ae and USB\u2011C\u00ae are registered trademarks of USB Implementers Forum, Inc. Updated Jun 15, 2021 ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/419411.jpg\",\"https://images.monoprice.com/productlargeimages/419412.jpg\",\"https://images.monoprice.com/productlargeimages/419413.jpg\",\"https://images.monoprice.com/productlargeimages/419414.jpg\",\"https://images.monoprice.com/productlargeimages/419415.jpg\",\"https://images.monoprice.com/productlargeimages/419416.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 23.09,
+      "sku": "41941",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41941",
+      "gtin14": "889028162163"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Flat USB-C to USB-A 3.2 Gen 1x1 Charge and Sync Cable  5Gbps  3A  Black  6ft",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "41941",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/41941"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

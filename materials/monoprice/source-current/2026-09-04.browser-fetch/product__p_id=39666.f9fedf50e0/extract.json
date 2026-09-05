@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 Video Switcher with HDMI plus Audio Extraction Supports HDR HDCP 2.2 YCbCr 444",
+    "@id": "https://www.monoprice.com/product?p_id=39666",
+    "url": "https://www.monoprice.com/product?p_id=39666",
+    "description": "This Blackbird\u2122 4K 4x1 HDMI\u00ae Switch allows you to connect up to four HDMI source devices to a single HDMI display. It supports video resolutions up to 4K@60Hz, including 1080p@60Hz and all 3D video modes. It can extract audio from the HDMI source to the combined 3.5mm analog stereo/mini Toslink\u00ae digital optical jack on the rear panel. It supports HDCP\u2122 2.2, EDID\u00ae management, and is compliant with the HDMI 2.0a standard, including support for the Audio Return Channel (ARC) feature.Features: Compliant with the HDMI\u00ae 2.0a and HDCP\u2122 2.2 specificationsFeature 4 HDMI inputs and 1 HDMI outputSupports video resolutions up to 4K@60Hz with 24\u2011bit RGB/YcbCr 4:4:4Supports Dual Audio Return Channel (ARC) controlSuper wideband IR control systemBidirectional IR passthrough\u00a0Support Files: User's Manual (Nov 14, 2019)Home Theater and Office Comparison Matrix (Mar 18, 2021)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. TOSLINK\u00ae is a registered trademark of Toshiba Corporation. HDCP\u2122 is a trademark of Digital Content Protection LLC. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. Microsoft\u00ae, Windows\u00ae, and the Windows logo are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Blu\u2011ray Disc\u2122, Blu\u2011ray\u2122, and the logos are trademarks of the Blu\u2011ray Disc Association. Sony\u00ae is a registered trademark of Sony Corporation. PlayStation\u00ae is a registered trademark of Sony Interactive Entertainment Inc. PS4\u2122 is a trademark of Sony Interactive Entertainment Inc. Updated Mar 10, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/396661.jpg\",\"https://images.monoprice.com/productlargeimages/396662.jpg\",\"https://images.monoprice.com/productlargeimages/396663.jpg\",\"https://images.monoprice.com/productlargeimages/396664.jpg\",\"https://images.monoprice.com/productlargeimages/396665.jpg\",\"https://images.monoprice.com/productlargeimages/396666.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 89.99,
+      "sku": "39666",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39666",
+      "gtin14": "889028182024"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 Video Switcher with HDMI plus Audio Extraction Supports HDR HDCP 2.2 YCbCr 444",
+      "ratingCount": "17",
+      "reviewCount": "17",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Switches",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-switches"
+    },
+    {
+      "name": "39666",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-switches/39666"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

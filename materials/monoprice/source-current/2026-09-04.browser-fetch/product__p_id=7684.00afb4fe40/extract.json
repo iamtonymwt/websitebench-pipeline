@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Right Angle Power Cord - NEMA 5-15P to Right Angle IEC 60320 C13 14AWG 15A/1875W SJT 125V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=7684",
+    "url": "https://www.monoprice.com/product?p_id=7684",
+    "description": "The Monoprice Power Cord with NEMA 5-15P to IEC 60320 C13 Right Angle connectors is a versatile solution for connecting various electronic devices in North America. Designed to work seamlessly with PCs, monitors, scanners, and printers, this power cord ensures a reliable power supply for your equipment.\u00a0The cord enables you to effortlessly connect devices equipped with a male IEC 60320 C14 panel connector to a standard US AC wall outlet. With a standard, grounded NEMA 5-15P plug on one end and an IEC 60320 C13 female connector on the other, setup becomes hassle-free. Simply link the female C13 connector to your device or power adapter's male C14 connector, and then insert the NEMA plug into an accessible AC power outlet, UPS, or any AC power source.\u00a0Crafted with 14AWG, the cord offers a sturdy build that can handle up to 15A/1875W power capacity, making it suitable for most applications. Whether it's powering your computer, monitor, or power adapter, this power cord is a reliable companion for everyday use. Enjoy a secure and efficient connection with the Monoprice Power Cord, ensuring your devices stay powered and operational.\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0TypeIEC 60320 C13 Angled 90\u00b0Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge14 AWGMaximum\u00a0Current15 ampsCertificationsUL\u00ae, cUL, RoHSSupport Files: Specification Sheet (Dec 29, 2022)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC.Updated\u00a0Feb 13, 2023\u00a0\u00a0\u00a0Enable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable Ginger?How to use GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76841.jpg\",\"https://images.monoprice.com/productlargeimages/76842.jpg\",\"https://images.monoprice.com/productlargeimages/76843.jpg\",\"https://images.monoprice.com/productlargeimages/76844.jpg\",\"https://images.monoprice.com/productlargeimages/76845.jpg\",\"https://images.monoprice.com/productlargeimages/76846.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 16.09,
+      "sku": "7684",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7684",
+      "gtin14": "844660076841"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Right Angle Power Cord - NEMA 5-15P to Right Angle IEC 60320 C13 14AWG 15A/1875W SJT 125V Black 6ft",
+      "ratingCount": "42",
+      "reviewCount": "10",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "7684",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/7684"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

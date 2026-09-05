@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Essential Fixed TV Wall Mount Bracket Low Profile For 32 To 55 TVs up to 99lbs Max VESA 400x200",
+    "@id": "https://www.monoprice.com/product?p_id=6422",
+    "url": "https://www.monoprice.com/product?p_id=6422",
+    "description": " \u00a0Don't leave your flat panel TV on a table or stand where it can be knocked over and damaged, or even worse injure a child or pet. Instead, mount it securely and safely to the wall using this Low Profile Wall Mount Bracket from Monoprice\u2122!This mount bracket features an ultraslim form factor, which puts the back of the TV only about 0.75\" away from the wall, making it ideal for displays with side or bottom facing connections. The mount includes a security bracket, which prevents removal of the display from the mount (padlock not included).This bracket is designed to mount an LCD, LED, or Plasma display with a VESA\u00ae mounting pattern between 75x75 and 400x200, which includes most 32\" to 55\" TVs*. It can be mounted to any brick, concrete, or wood stud wall and can safely hold up to 99 lbs. (including the weight of the mount itself). Mounting hardware is included.*Note that the display screen size is only an approximation. Your display is compatible with this mount as long as it has a VESA\u00ae mounting pattern and weight that fit within the size and weight limits listed above.Support Files: User's Manual (Aug 26, 2020)Dimensions Diagram (Sep 18, 2017)Monoprice\u2122, SlimSelect\u2122, and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a trademark owned by the Video Electronics Standards Association (VESA\u00ae) in the United States and other countries. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jan 19, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/64221.jpg\",\"https://images.monoprice.com/productlargeimages/64222.jpg\",\"https://images.monoprice.com/productlargeimages/64223.jpg\",\"https://images.monoprice.com/productlargeimages/64224.jpg\",\"https://images.monoprice.com/productlargeimages/64225.jpg\",\"https://images.monoprice.com/productlargeimages/64226.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 54.99,
+      "sku": "6422",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6422",
+      "gtin14": "844660064220"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Essential Fixed TV Wall Mount Bracket Low Profile For 32 To 55 TVs up to 99lbs Max VESA 400x200",
+      "ratingCount": "50",
+      "reviewCount": "50",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Fixed TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/fixed-tv-wall-mounts"
+    },
+    {
+      "name": "6422",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/fixed-tv-wall-mounts/6422"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Onix Series - Male RCA Two Channel Stereo Audio Cable 25ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=38078",
+    "url": "https://www.monoprice.com/product?p_id=38078",
+    "description": "Monoprice Onix Series Cable is made from premium quality RG-6/U with double copper braid shielding to prevent signal degradation caused by EMI and RFI interference. Featuring a two gold plated RCA male connectors on each end, this cable is ideal for conducting line level RCA audio signals from a CD player, record player, or analog media device to an AV receiver or amplifier.The plastic cable jacket has been encased within braided nylon, which resists nicks and cuts without reducing cable flexibility. Additionally, the braided jacket gives a premium appearance over that of ordinary plastic jackets. The CL2 rating on this cable indicates that the jacket has been treated so that it complies with fire safety regulations, making it safe for use in or through the walls of residential class buildings.Backed by Monoprice's Lifetime Warranty, Onix Series Digital Coax Cable is the ultimate digital audio cable for home theater installations.Features: Gold plated RCA male connectorsTwo channels for audio on left and right speakers97% pure oxygen-free copper conductorDouble shielded with copper braiding22 pF per foot capacitance75 ohm impedanceUpdated Apr 15, 2019 \u00a0Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/380781.jpg\",\"https://images.monoprice.com/productlargeimages/380782.jpg\",\"https://images.monoprice.com/productlargeimages/380783.jpg\",\"https://images.monoprice.com/productlargeimages/380784.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 52.89,
+      "sku": "38078",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38078",
+      "gtin14": "889028122167"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Onix Series - Male RCA Two Channel Stereo Audio Cable 25ft Black",
+      "ratingCount": "59",
+      "reviewCount": "10",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "38078",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/38078"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

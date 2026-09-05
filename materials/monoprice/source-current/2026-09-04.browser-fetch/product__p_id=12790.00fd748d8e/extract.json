@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DisplayPort 1.2a to VGA Active Adapter Black",
+    "@id": "https://www.monoprice.com/product?p_id=12790",
+    "url": "https://www.monoprice.com/product?p_id=12790",
+    "description": "Connect your DisplayPort\u00ae equipped PC to a VGA monitor using this DisplayPort 1.2a to VGA Active Adapter from Monoprice\u2122!This adapter is designed to allow you to connect a VGA monitor to a DisplayPort video output. It conforms to the DisplayPort 1.2a standard and supports resolutions up to 1920x1080p @60Hz. Being an active adapter, it is fully compatible with the AMD\u00ae Eyefinity and nVidia\u00ae Surround\u2122 multidisplay modes.It features a true 6\" cable length with polycarbonate connector heads. The VGA end has panel screw holes, so you can secure the cable to the connector. The DP connector head measures about 15 x 26 x 31 mm. The VGA connector head measures about 20 x 42 x 47 mm.Features: Conforms to DisplayPort\u00ae 1.2a standardSupports VGA resolutions up to 1920x1080p @60HzACTIVE adapter is compatible with nVidia\u00ae Surround\u2122 and AMD\u00ae Eyefinity multidisplay modesSupport Files: Spec Sheet (Oct 31, 2024)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. AMD\u00ae is a registered trademark of Advanced Micro Devices. NVIDIA\u00ae and NVIDIA Surround\u2122 are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Updated Oct 5, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/127901.jpg\",\"https://images.monoprice.com/productlargeimages/127902.jpg\",\"https://images.monoprice.com/productlargeimages/127903.jpg\",\"https://images.monoprice.com/productlargeimages/127904.jpg\",\"https://images.monoprice.com/productlargeimages/127905.jpg\",\"https://images.monoprice.com/productlargeimages/127906.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "12790",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12790",
+      "gtin14": "889028008089"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DisplayPort 1.2a to VGA Active Adapter Black",
+      "ratingCount": "22",
+      "reviewCount": "20",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters"
+    },
+    {
+      "name": "12790",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters/12790"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

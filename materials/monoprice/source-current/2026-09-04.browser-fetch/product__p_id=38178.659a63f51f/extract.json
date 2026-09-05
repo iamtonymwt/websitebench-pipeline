@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice OVC300 Rotary 300-Watt Outdoor Volume Control with Auto Impedance Matching Weather Resistant",
+    "@id": "https://www.monoprice.com/product?p_id=38178",
+    "url": "https://www.monoprice.com/product?p_id=38178",
+    "description": "This Impedance Matching Outdoor Volume Control allows you to connect multiple speaker pairs to a single power amplifier or receiver. It increases (or decreases) the impedance of the connected speaker pair to ensure that the overall impedance level presented to the amplifier is high enough to prevent damage to the amplifier. It can support amplifiers with up to 300 watts of output power and has a waterproof enclosure, allowing it to be used in outdoor applications.Support Files: Quick Install Guide (Jul 3, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 8, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381781.jpg\",\"https://images.monoprice.com/productlargeimages/381782.jpg\",\"https://images.monoprice.com/productlargeimages/381783.jpg\",\"https://images.monoprice.com/productlargeimages/381784.jpg\",\"https://images.monoprice.com/productlargeimages/381785.jpg\",\"https://images.monoprice.com/productlargeimages/381786.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 54.99,
+      "sku": "38178",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38178",
+      "gtin14": "889028123287"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice OVC300 Rotary 300-Watt Outdoor Volume Control with Auto Impedance Matching Weather Resistant",
+      "ratingCount": "7",
+      "reviewCount": "3",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38178",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38178"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Onix Series - 2-Male to 1-Female RCA Y-Adapter 12in Black",
+    "@id": "https://www.monoprice.com/product?p_id=38079",
+    "url": "https://www.monoprice.com/product?p_id=38079",
+    "description": "Monoprice Onix Series Cable is made from premium quality RG-6/U with double copper braid shielding to prevent signal degradation caused by EMI and RFI interference. Featuring a single gold plated female RCA connector on one end and two gold plated RCA male connectors on the other, this cable is ideal for splitting line level RCA audio signals from a CD player, record player, or analog media device to an AV receiver, amplifier, or even for connecting a dual channel LFE subwoofer to a single channel LFE output on an AVR.The plastic cable jacket has been encased within braided nylon, which resists nicks and cuts without reducing cable flexibility. Additionally, the braided jacket gives a premium appearance over that of ordinary plastic jackets. The CL2 rating on this cable indicates that the jacket has been treated so that it complies with fire safety regulations, making it safe for use in or through the walls of residential class buildings.Backed by Monoprice's Lifetime Warranty, Onix Series Digital Coax Cable is the ultimate digital audio cable for home theater installations.Features: Gold plated RCA connectorsTwo channels for audio on left and right speakers97% pure oxygen-free copper conductorDouble shielded with copper braiding22 pF per foot capacitance75 ohm impedanceUpdated Apr 15, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/380791.jpg\",\"https://images.monoprice.com/productlargeimages/380792.jpg\",\"https://images.monoprice.com/productlargeimages/380793.jpg\",\"https://images.monoprice.com/productlargeimages/380794.jpg\",\"https://images.monoprice.com/productlargeimages/380795.jpg\",\"https://images.monoprice.com/productlargeimages/380796.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.89,
+      "sku": "38079",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38079",
+      "gtin14": "889028122174"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Onix Series - 2-Male to 1-Female RCA Y-Adapter 12in Black",
+      "ratingCount": "20",
+      "reviewCount": "20",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "38079",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/38079"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

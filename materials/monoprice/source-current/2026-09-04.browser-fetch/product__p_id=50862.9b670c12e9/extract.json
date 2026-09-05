@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Vertiv Liebert PSI5 UPS - 1000VA 900W 120V 1U Line Interactive AVR Rack Mount UPS 0.9 Power Factor",
+    "@id": "https://www.monoprice.com/product?p_id=50862",
+    "url": "https://www.monoprice.com/product?p_id=50862",
+    "description": "The Vertiv Liebert PSI5 1kVA UPS is designed to protect and extend the life of your electronic devices in school, home and office. This 1U rack mount UPS offers cost-effective protection from downtime and damage caused by power outages, brownouts, sags, surges or noise interference. Automatic Voltage Regulation (AVR) extends battery life and safeguards critical equipment. Voltage regulation is from 83 to 159 VAC without using the battery. With advanced pure sine wave output, this line interactive UPS ensures availability of critical IT applications like network closets and small data centers. This battery backup allows orderly shutdown of critical equipment. It takes less than 6 milliseconds transfer time to battery. Add an optional Vertiv Liebert Unity communication card and remotely monitor up to 50 UPS systems through the free Vertiv Trellis Power Insight Application. It has a 3-year warranty.POWER PROTECTION: The 1kVA UPS has AVR to correct power disturbances.SPACE-SAVING 1U RACK: Get similar features as a 2U battery backup in a compact 1U rack space.MORE USABLE POWER: This single phase line interactive UPS has 0.9 output power factor.REMOTE MANAGEMENT CAPABILITY: Add a communication card to this UPS to monitor devices remotely.PROGRAMMABLE OUTLETS: Get 5 total outlets with 2 programmable outlets to prioritize critical loads.Environmental ConditionsMaximum Operating Temperature104\u00b0F (40\u00b0C)Maximum Operating Elevation9842.52 ftInterfaces/PortsNetwork (RJ-45)NoSerial PortNoEPO PortYesUSB (HID Compliant) PortYesPhysical CharacteristicsWeight (Approximate)36.40 lbForm FactorRack-mountableRack Height1UHeight1.70\"Width17.20\"Depth17.70\"General InformationProduct TypeLine-interactive UPSManufacturer Part NumberPSI5-1000RM1201UManufacturer Website Addresshttp://www.vertiv.com/ManufacturerVertivProduct ModelPSIProduct NamePSI5-1000RM1201U UPSProduct SeriesPSI5Brand NameVertiv LiebertMiscellaneousPackage ContentsPSI5-1000RM1201U UPSRack Mount EarsUSB CableSafety ManualQuick Installation GuideSoftware IncludedPower Insight 2.2Country of OriginChinaEnvironmentally FriendlyYesTAA CompliantNoEnergy StarNoEnvironmental ComplianceRestriction of Hazardous Substances (RoHS)\u00a0Registration, Evaluation, Authorization and Restriction of Chemicals (REACH)\u00a0Battery InformationBattery ChemistryLead AcidHot SwappableYesBattery Size6VBattery Capacity9000 mAhNumber of Batteries4Backup/Run Time (Half Load)13 MinuteBackup/Run Time (Full Load)5 MinuteBattery CharacteristicsValve-regulated, Non-spillableDC System Voltage6 V DCTypical Battery Recharge Time6 HourPower DescriptionInput Voltage120 V ACOutput Voltage120 V AC\u00a0100 V AC\u00a0110 V AC\u00a0115 V AC\u00a0125 V ACWaveform TypePure Sine WaveInput Voltage Range75 V AC - 146 V ACOutput Frequency60 HzInput Frequency65 HzLoad Capacity (VA)1000 VALoad Capacity (Watt)900 WTechnical InformationApplication/UsageHome\u00a0Electronic Device\u00a0Data Center\u00a0Mission Critical Equipment\u00a0Education\u00a0Office\u00a0Network ClosetPlug/Connector TypeNEMA 5-15PPhaseSingle PhaseReceptacle TypeNEMA 5-15RAVRYesTransfer Time4 msReceptacle Detail5 x NEMA 5-15R\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/508621.jpg\",\"https://images.monoprice.com/productlargeimages/508622.jpg\",\"https://images.monoprice.com/productlargeimages/508623.jpg\",\"https://images.monoprice.com/productlargeimages/508624.jpg\",\"https://images.monoprice.com/productlargeimages/508625.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 925.99,
+      "sku": "50862",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=50862",
+      "gtin14": "889028242766"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Vertiv Liebert PSI5 UPS - 1000VA 900W 120V 1U Line Interactive AVR Rack Mount UPS 0.9 Power Factor",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "PC Components",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/pc-components"
+    },
+    {
+      "name": "Cases",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/pc-components/cases"
+    },
+    {
+      "name": "50862",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/pc-components/cases/50862"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

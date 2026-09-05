@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 30-Watt 1x12 Guitar Stack Tube Amplifier with Celestion V30 and Reverb",
+    "@id": "https://www.monoprice.com/product?p_id=611830",
+    "url": "https://www.monoprice.com/product?p_id=611830",
+    "description": "In a guitar amp world filled with digital emulators, the vacuum tube (or valve) remains the undisputed king. The Stage Right\u2122 30\u2011watt guitar stack delivers the best of tube amp and speaker design at an ultra affordable price. Three industry standard 12AX7 tubes drive the preamp section, while two pairs of EL84 tubes generate 30\u2011watts of output power. The clean and overdrive channels are selectable and reverb can be turned on or off using the included 2\u2011button footswitch. A 3\u2011band equalizer section allows you to really dial in and customize your sound.Included in the bundle is a 1x12 cabinet featuring an industry standard Celestion\u00ae Vintage 30 speaker. Found in virtually all pro and touring rigs, the V30 creates enormously detailed and complex overtones, a warm low\u2011end, and a famously rich vocal\u2011like mid\u2011range. The Celestion V30 sound has been captured on thousands of recordings from a diverse range of notable players, including Slash, Steve Stevens, and Peter Frampton.\u00a0    1 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Dec 15, 2018)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Celestion\u00ae is a registered trademark of KEF Celestion Corporation. Updated Mar 18, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6118301.jpg\",\"https://images.monoprice.com/productlargeimages/6118302.jpg\",\"https://images.monoprice.com/productlargeimages/6118303.jpg\",\"https://images.monoprice.com/productlargeimages/6118304.jpg\",\"https://images.monoprice.com/productlargeimages/6118305.jpg\",\"https://images.monoprice.com/productlargeimages/6118306.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 799.99,
+      "sku": "611830",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=611830",
+      "gtin14": "889028119501"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 30-Watt 1x12 Guitar Stack Tube Amplifier with Celestion V30 and Reverb",
+      "ratingCount": "43",
+      "reviewCount": "43",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Amplifiers",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers"
+    },
+    {
+      "name": "611830",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers/611830"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

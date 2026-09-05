@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Upgraded Collapsible Folding Stool Portable Lightweight Retractable Telescoping Foldable Camping Stool Capacity 300lbs for Outdoor Fishing Hiking Camping BBQ",
+    "@id": "https://www.monoprice.com/product?p_id=45386",
+    "url": "https://www.monoprice.com/product?p_id=45386",
+    "description": "Crafted from durable ABS plastic, our collapsible stool offers exceptional strength, supporting up to 400 pounds with solid stability. Easily foldable and adjustable up to 11 inches, it's perfect for indoor and outdoor use. It features an anti-slip design for safety.Strong and durable: Crafted from robust ABS plastic, our portable collapsible stool boasts exceptional durability and strength. With its high-density construction, it ensures reliable support in any setting. This stool surpasses its counterparts in both tilt resistance and load-bearing capacity, capable of supporting 300 pounds with solid stability.Foldable and adjustable height: The folding camping stool effortlessly opens and closes within seconds, securely locking in place with a slight rotation for easy installation. You can adjust the height up to 11 inches, providing you with flexible seating options.Portable and lightweight: With a diameter of 8.5 inches and a height of 2.4 inches when closed, these retractable stools weigh just 1.7 lbs. They are designed for easy portability, allowing you to carry them effortlessly in your hand or on your shoulder using the adjustable two straps, without any added burden.Multipurpose: Ideal for both indoor and outdoor use, these stools are versatile and suitable for various occasions such as hiking, gardening, BBQs, camping, standing in queues, and fishing.Safety design: Anti-slip design on the bottom to provide safe and reliable seat anywhere.\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/453861.jpg\",\"https://images.monoprice.com/productlargeimages/453862.jpg\",\"https://images.monoprice.com/productlargeimages/453863.jpg\",\"https://images.monoprice.com/productlargeimages/453864.jpg\",\"https://images.monoprice.com/productlargeimages/453865.jpg\",\"https://images.monoprice.com/productlargeimages/453866.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "45386",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=45386",
+      "gtin14": "889028195383"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Upgraded Collapsible Folding Stool Portable Lightweight Retractable Telescoping Foldable Camping Stool Capacity 300lbs for Outdoor Fishing Hiking Camping BBQ",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Outdoor",
+      "url": "https://www.monoprice.com/category/pages/14"
+    },
+    {
+      "name": "Furniture",
+      "url": "https://www.monoprice.com/category/outdoor/furniture"
+    },
+    {
+      "name": "Chairs",
+      "url": "https://www.monoprice.com/category/outdoor/furniture/chairs"
+    },
+    {
+      "name": "45386",
+      "url": "https://www.monoprice.com/category/outdoor/furniture/chairs/45386"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Recording Studio Desk with Raised Platform and Keyboard Tray",
+    "@id": "https://www.monoprice.com/product?p_id=625919",
+    "url": "https://www.monoprice.com/product?p_id=625919",
+    "description": "Building a home studio can be an exciting experience. It starts with sourcing core pieces of audio gear, such as Digital Audio Workstation software, an interface, good monitors, and so on. With the audio portion acquired, you are now ready to record, right? Not so fast. Usually neglected, a proper workstation can make the difference between an uncomfortably functioning home studio and one you actually want to work in. The Stage Right\u2122 Recording Studio Desk brings the feel and comfort of a large professional studio directly into your home.\u00a0Measuring only 31.5\" in width, the Stage Right\u2122 Recording Studio Desk is both large enough to fit a typical 49\u2011key MIDI keyboard controller with full\u2011size keys and small enough to fit into any room or apartment. At 24\" of total depth and with an upper shelf that is 19\" deep, it occupies the minimum amount of space possible.\u00a0With a raised platform and pullout keyboard tray, the Stage Right\u2122 Recording Studio Desk provides all of the flexibility necessary to accommodate most home studio setups. No monitor speakers stands? No problem. With a raised offset platform that sits at 38\" from the ground, stands are simply not needed. Simply place your monitor speakers (5\" recommended) on each end of the platform and you're done. Additionally, the keyboard tray can be pulled out when needed or pushed in when not in use, further reducing the workstation's footprint.\u00a0Weighing only about 30 lbs., the Stage Right\u2122 Recording Studio Desk perfectly combines stability and weight with up to 175 lbs. of support for all of your expensive recording gear. The desk includes all necessary tools and hardware and takes only a few minutes to assemble.\u00a0 1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Assembly Guide (Aug 5, 2020)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 11, 2021 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6259191.jpg\",\"https://images.monoprice.com/productlargeimages/6259192.jpg\",\"https://images.monoprice.com/productlargeimages/6259193.jpg\",\"https://images.monoprice.com/productlargeimages/6259194.jpg\",\"https://images.monoprice.com/productlargeimages/6259195.jpg\",\"https://images.monoprice.com/productlargeimages/6259196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 114.99,
+      "sku": "625919",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625919",
+      "gtin14": "889028182017"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Recording Studio Desk with Raised Platform and Keyboard Tray",
+      "ratingCount": "27",
+      "reviewCount": "27",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Furniture",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture"
+    },
+    {
+      "name": "Desks",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desks"
+    },
+    {
+      "name": "625919",
+      "url": "https://www.monoprice.com/category/home-&-office/office-furniture/desks/625919"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

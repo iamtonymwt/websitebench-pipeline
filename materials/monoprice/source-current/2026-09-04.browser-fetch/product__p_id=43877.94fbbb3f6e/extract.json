@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird USB 2.0 4-Port Extender Over Cat5e/Cat6 up to 50m/164ft",
+    "@id": "https://www.monoprice.com/product?p_id=43877",
+    "url": "https://www.monoprice.com/product?p_id=43877",
+    "description": "Blackbird\u2122 PRO by Monoprice\u2122USB 2.0 4-Port Extender Over Cat5e/Cat6Connect and control up to four USB devices at distances up to 164 feetThis Blackbird\u2122 PRO USB 2.0 4\u2011Port Extender allows you to extend a USB 2.0 connection to distances up to 164 feet (50 meters) over a single Cat5e or Cat6 Ethernet cable. It features a 4\u2011port USB hub on the receiver. The transmitter is powered by the USB connection to your computer, while the receiver is powered by a 12 VDC, 2A power adapter. The receiver can provide 5 VDC, 1A of power to each of two connected devices and 5 VDC, 500mA of power to each of two other connected devices.Extend a USB 2.0 connection to distances up to 164 feet (50 meters) over a single Cat5e/Cat6 Ethernet cableSupports data rates up to 480Mbps4\u2011port USB hub on the receiverProvides 5 VDC, 1A of power to each of two connected devices and 5 VDC, 500mA of power to each of two other connected devicesUniversal compatibility \u2011 extends ANY USB 2.0 connectionTrue plug and play device, no installation or additional drivers required\u00a0EXTEND YOUR PERIPHERYExtend any USB 2.0 connection for up to four USB devices to distances up to 164 feet (50 meters) over a single Cat5e or Cat6 Ethernet cable, significantly further than the normal 16\u2011foot maximum USB extension.\u00a0BRISK BANDWIDTHDespite the additional distance, this extender supports the full USB 2.0 standard data transfer rate of up to 480Mbps.\u00a0PROJECT YOUR POWERThe receiver uses a dedicated AC power adapter, which allows it to provide up to 1A of charging power to two of the ports and up to 500mA of power to the other two ports.\u00a0FUN FOR FOURThe integrated 4\u2011port hub on the receiver allows you to connect and control up to four USB peripherals, while using only a single USB port on your source device.\u00a0PLUG AND PLAYDon't worry about drivers of configuration with this extender. It is fully compatible with any USB 2.0 device. Just plug it in and use it!\u00a0.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Mar 4, 2022)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 22, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/438771.jpg\",\"https://images.monoprice.com/productlargeimages/438772.jpg\",\"https://images.monoprice.com/productlargeimages/438773.jpg\",\"https://images.monoprice.com/productlargeimages/438774.jpg\",\"https://images.monoprice.com/productlargeimages/438775.jpg\",\"https://images.monoprice.com/productlargeimages/438776.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 99.99,
+      "sku": "43877",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43877",
+      "gtin14": "889028182758"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird USB 2.0 4-Port Extender Over Cat5e/Cat6 up to 50m/164ft",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Extenders",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders"
+    },
+    {
+      "name": "43877",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders/43877"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

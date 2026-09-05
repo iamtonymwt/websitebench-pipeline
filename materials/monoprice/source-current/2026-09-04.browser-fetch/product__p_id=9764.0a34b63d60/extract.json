@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3ft Designed for Mobile 3.5mm Stereo Male to 3.5mm Stereo Male (Gold Plated) - Black",
+    "@id": "https://www.monoprice.com/product?p_id=9764",
+    "url": "https://www.monoprice.com/product?p_id=9764",
+    "description": "So you've got a smartphone filled with your favorite tunes. You put a case on your phone to protect it from scratches, but now your 3.5 mm audio cable won't fit into the headphone jack. Now what?Now you get one of these 3.5 mm cables designed for mobile devices! The 3.5 mm connectors on this cable are designed with a 3 mm long by 6 mm diameter shank between the electrical connection and the connector housing. The 3 mm shank length is sufficient to penetrate through the thickness of most protective cases, while the 6 mm diameter is thin enough to fit into the hole of almost any case. The connectors are gold plated for smooth, corrosion-free connections.This cable has a 3.5 mm stereo male plug on each end.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/97641.jpg\",\"https://images.monoprice.com/productlargeimages/97642.jpg\",\"https://images.monoprice.com/productlargeimages/97643.jpg\",\"https://images.monoprice.com/productlargeimages/97644.jpg\",\"https://images.monoprice.com/productlargeimages/97645.jpg\",\"https://images.monoprice.com/productlargeimages/97646.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.49,
+      "sku": "9764",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9764",
+      "gtin14": "844660097648"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3ft Designed for Mobile 3.5mm Stereo Male to 3.5mm Stereo Male (Gold Plated) - Black",
+      "ratingCount": "732",
+      "reviewCount": "266",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "9764",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/9764"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

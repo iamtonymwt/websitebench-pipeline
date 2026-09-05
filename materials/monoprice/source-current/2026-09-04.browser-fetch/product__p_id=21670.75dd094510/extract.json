@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB 3.0 4-port Aluminum Hub",
+    "@id": "https://www.monoprice.com/product?p_id=21670",
+    "url": "https://www.monoprice.com/product?p_id=21670",
+    "description": "Expand your computer's capabilities by adding 4 SuperSpeed USB 3.0 ports with this aluminum unibody 4\u2011port hub. Use with a laptop or desktop PC to easily connect external hard drives, flash drives, mobile devices, keyboards, mice, and other USB peripherals. This hub is bus\u2011powered directly from a computer for use with most USB peripherals. It is capable of data transfer speeds up to 5Gbps via USB 3.0, but is also backwards compatible with USB 2.0 and 1.1 computers and devices. No drivers or complicated configurations are required \u2011 just plug it in and start using it right away!Features: 4 USB ports to expand connectivity for computers with limited portsDirectly powered by a computer for instant operationWorks with high\u2011bandwidth USB 3.0 devices, such as external hard disks, high resolution webcams, camcorders, video surveillance cameras, digital video cameras, multichannel audio, and moreEasy to Install, Plug and Play \u2011 no driver installation needed on Windows\u00ae and Mac\u00ae systemsSandblasted aluminum unibody design for a premium look and durability\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Microsoft\u00ae and Windows\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Apple\u00ae and Mac\u00ae are trademarks of Apple Inc, registered in the U.S. and other countries. Updated Oct 5, 2021 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/216701.jpg\",\"https://images.monoprice.com/productlargeimages/216702.jpg\",\"https://images.monoprice.com/productlargeimages/216703.jpg\",\"https://images.monoprice.com/productlargeimages/216704.jpg\",\"https://images.monoprice.com/productlargeimages/216705.jpg\",\"https://images.monoprice.com/productlargeimages/216706.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 20.99,
+      "sku": "21670",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21670",
+      "gtin14": "889028049921"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB 3.0 4-port Aluminum Hub",
+      "ratingCount": "68",
+      "reviewCount": "34",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Hubs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs"
+    },
+    {
+      "name": "21670",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs/21670"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

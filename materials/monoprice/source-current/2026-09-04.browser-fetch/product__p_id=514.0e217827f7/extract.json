@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft DB37 M/F Molded Cable",
+    "@id": "https://www.monoprice.com/product?p_id=514",
+    "url": "https://www.monoprice.com/product?p_id=514",
+    "description": "The RS-449 standard (aka EIA-449 or TIA-449) was originally designed as the successor to the more common RS-232 standard used on PCs. It supports RS-422 balanced signals and RS-423 unbalanced signals, with data rates up to 10 Mbps over very short distances and 2 Mbps over more reasonable distances.Although the standard was withdrawn in September 2002, it is still used with some network communications equipment where high throughput and/or long distances are required. The RS-449 cable is also used for V.36 modem equipment.This RS-449 cable uses DC-37 (aka DB-37) a male connector on one end and a female connector on the other end, and is wired straight through, pin for pin. The connectors are molded onto the cable and feature thumbscrews for securing the plug to the socket.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/5141.jpg\",\"https://images.monoprice.com/productlargeimages/5142.jpg\",\"https://images.monoprice.com/productlargeimages/5143.jpg\",\"https://images.monoprice.com/productlargeimages/5144.jpg\",\"https://images.monoprice.com/productlargeimages/5145.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.79,
+      "sku": "514",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=514",
+      "gtin14": "844660005148"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft DB37 M/F Molded Cable",
+      "ratingCount": "3",
+      "reviewCount": "2",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "Serial Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/serial-cables"
+    },
+    {
+      "name": "514",
+      "url": "https://www.monoprice.com/category/cables/data-cables/serial-cables/514"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

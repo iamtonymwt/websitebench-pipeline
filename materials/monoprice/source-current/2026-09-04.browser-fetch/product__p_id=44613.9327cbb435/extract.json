@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 2 Tiers Storage Rack with Toothbrush Toothpaste Makeup Brush Holder Storage Organizers Multifunctional Stand Rack for Bathroom Bedroom Vanity Office Dresser Accessories and Essentials",
+    "@id": "https://www.monoprice.com/product?p_id=44613",
+    "url": "https://www.monoprice.com/product?p_id=44613",
+    "description": "This Storage Rack with Toothbrush Holder is designed to organize your toothbrushes and other bathroom essentials. It allows you to easily keep and access your bathroom essentials while maximizing space in your bathroom. Made of high quality metal that is durable and safely hold your items such as toothbrush, toothpaste, mouthwash, cosmetics, body wash, floss, and many more.Multifunction: Allows you to easily keep and access your bathroom essentials while maximizing space in your bathroom, or vanity table.Durable: Made of high quality material that is durable and safely hold your items.Large Capacity: Higher layer space provides storage of cosmetics, lotion, cosmetics, shampoo, and nail polish at different heights. It can also prevent objects from falling due to collision during taking. With elegant design, this organizer will look great in any room.Easy Access: Open air circulation that easily dries toothbrush or cosmetic brush.No tools required: Easy to assemble with no tools required!\u00a0SpecificationMaterial: PET, METALDimension: 11.8 x 6.5 x 12.5 inches\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0\u00a0Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/446131.jpg\",\"https://images.monoprice.com/productlargeimages/446132.jpg\",\"https://images.monoprice.com/productlargeimages/446133.jpg\",\"https://images.monoprice.com/productlargeimages/446134.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 22.99,
+      "sku": "44613",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44613",
+      "gtin14": "889028190845"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 2 Tiers Storage Rack with Toothbrush Toothpaste Makeup Brush Holder Storage Organizers Multifunctional Stand Rack for Bathroom Bedroom Vanity Office Dresser Accessories and Essentials",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Travel & Fitness",
+      "url": "https://www.monoprice.com/category/home-&-office/travel-&-fitness"
+    },
+    {
+      "name": "Health & Personal Care",
+      "url": "https://www.monoprice.com/category/home-&-office/travel-&-fitness/health-&-personal-care"
+    },
+    {
+      "name": "44613",
+      "url": "https://www.monoprice.com/category/home-&-office/travel-&-fitness/health-&-personal-care/44613"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

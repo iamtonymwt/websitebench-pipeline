@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Coiled Power Extension Cord 16AWG 13A SJT Orange Expands from 3ft to 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=44319",
+    "url": "https://www.monoprice.com/product?p_id=44319",
+    "description": "Monoprice\u2122Coiled Power Tool Extension Cord16AWG, 13A, SJT, Orange, Expands from 3ft to 10ftThe Coiled Power Tool Extension Cord by Monoprice is ideal for automotive and workbench environments. This device keeps your extension cord out of the way from work with a right-angle plug to fit snugly to the wall and extra support to prevent unplugging while in use. Stretching up to 10ft and recoiling back to approximately 18 inches or 2 ft in a relaxed state, this power tool does excellent for convenience.3ft-10ft SJT Extension CordFlame-RetardanceUltra-FlexibilityAbrasion-ResistanceNickel-Coated Brass Blades\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Dec 08, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/443191.jpg\",\"https://images.monoprice.com/productlargeimages/443192.jpg\",\"https://images.monoprice.com/productlargeimages/443193.jpg\",\"https://images.monoprice.com/productlargeimages/443194.jpg\",\"https://images.monoprice.com/productlargeimages/443195.jpg\",\"https://images.monoprice.com/productlargeimages/443196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 38.59,
+      "sku": "44319",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44319",
+      "gtin14": "889028187715"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Coiled Power Extension Cord 16AWG 13A SJT Orange Expands from 3ft to 10ft",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "44319",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/44319"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

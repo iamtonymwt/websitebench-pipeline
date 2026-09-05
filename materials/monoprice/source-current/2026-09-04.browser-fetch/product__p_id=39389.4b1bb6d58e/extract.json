@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Electrical Repair Kit",
+    "@id": "https://www.monoprice.com/product?p_id=39389",
+    "url": "https://www.monoprice.com/product?p_id=39389",
+    "description": "This electrical repair kit includes the following tools:6\" long nose pliers8\" crimping/stripping/cutting tool30\" PVC electrical insulationNylon cable tiesSolderless terminal kitThis kit is CE and RoHS certified.Updated Sep 20, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/393891.jpg\",\"https://images.monoprice.com/productlargeimages/393892.jpg\",\"https://images.monoprice.com/productlargeimages/393893.jpg\",\"https://images.monoprice.com/productlargeimages/393894.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.99,
+      "sku": "39389",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39389",
+      "gtin14": "889028135587"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Electrical Repair Kit",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Toolkits",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/toolkits"
+    },
+    {
+      "name": "39389",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/toolkits/39389"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

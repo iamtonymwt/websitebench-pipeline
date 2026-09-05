@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3.5mm TS Mono Plug to RCA Jack Adapter Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=7146",
+    "url": "https://www.monoprice.com/product?p_id=7146",
+    "description": "3.5mm Mono Plug (male) to RCA Jack (female) Adaptor - Gold Plated",
+    "image": "[\"https://images.monoprice.com/productlargeimages/71461.jpg\",\"https://images.monoprice.com/productlargeimages/71462.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "7146",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7146",
+      "gtin14": "844660071464"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3.5mm TS Mono Plug to RCA Jack Adapter Gold Plated",
+      "ratingCount": "15",
+      "reviewCount": "15",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Plug Adapter",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter"
+    },
+    {
+      "name": "7146",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter/7146"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

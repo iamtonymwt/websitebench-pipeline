@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 RJ45 180-Degree Dual IDC Keystone for 22-24AWG Solid Wire Black",
+    "@id": "https://www.monoprice.com/product?p_id=27548",
+    "url": "https://www.monoprice.com/product?p_id=27548",
+    "description": "This IDC keystone jack series allows you to terminate and install Cat5e jacks easily and quickly. This keystone jack is backwards compatible with components and systems of lower performing categories. Use in standard keystone wallplates, patch panels, or surface mount boxes.Features: 110 FTP 180-degree punch down jack8-position 8-conductor (8P8C)568A and 568B wiring compatibleMeets or exceeds TIA/EIA 568B industry standardRoHS compliantAvailable in 9 colorsUL listed\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/275481.jpg\",\"https://images.monoprice.com/productlargeimages/275482.jpg\",\"https://images.monoprice.com/productlargeimages/275483.jpg\",\"https://images.monoprice.com/productlargeimages/275484.jpg\",\"https://images.monoprice.com/productlargeimages/275485.jpg\",\"https://images.monoprice.com/productlargeimages/275486.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "27548",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=27548",
+      "gtin14": "889028065174"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 RJ45 180-Degree Dual IDC Keystone for 22-24AWG Solid Wire Black",
+      "ratingCount": "10",
+      "reviewCount": "0",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "27548",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/27548"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

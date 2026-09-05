@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8in SATA 15pin Female with Latch to Molex 4pin Male Power Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=8799",
+    "url": "https://www.monoprice.com/product?p_id=8799",
+    "description": "The Serial ATA standard provides for the adoption of a new 15-pin drive power connector, replacing the ubiquitous 4-pin Molex\u00c2\u00ae connector. However, existing system cases and power supplies may have an insufficient number of SATA power connectors, while still retaining the older Molex connectors.This 8\" adapter cable plugs into a 4-pin Molex power plug and provides a single 15-pin SATA power connector, with a locking latch so that your connection does not come loose due to movement or vibration.Warning! The Molex connector provides only 5 and 12 VDC power. While many SATA drives only require these power levels, some require the additional 3.3 VDC power provided for in the SATA specification. Make sure your drive does not require 3.3 VDC before purchasing this adapter cable. Support Files: Specification Sheet (Jun 21, 2023)Molex\u00ae is a registered trademark of Molex, LLC in the United States of America and may be registered in other countries. Updated Jul 06, 2023 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/87991.jpg\",\"https://images.monoprice.com/productlargeimages/87992.jpg\",\"https://images.monoprice.com/productlargeimages/87993.jpg\",\"https://images.monoprice.com/productlargeimages/87994.jpg\",\"https://images.monoprice.com/productlargeimages/87995.jpg\",\"https://images.monoprice.com/productlargeimages/87996.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.79,
+      "sku": "8799",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8799",
+      "gtin14": "844660087991"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8in SATA 15pin Female with Latch to Molex 4pin Male Power Adapter",
+      "ratingCount": "11",
+      "reviewCount": "11",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SATA Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables"
+    },
+    {
+      "name": "8799",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables/8799"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

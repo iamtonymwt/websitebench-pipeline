@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice PTZ Video Conference Camera Pan Tilt Zoom with Remote Full HD 1080p Webcam USB 3.0 3x Optical Zoom",
+    "@id": "https://www.monoprice.com/product?p_id=39512",
+    "url": "https://www.monoprice.com/product?p_id=39512",
+    "description": "This Pan\u2011Tilt\u2011Zoom (PTZ) Conferencing Camera is designed for video conferencing in medium sized conference rooms and is perfect for meetings with 6\u201110 participants. It works with computer based video conferencing apps and cloud services and is designed to be easy to install and use for web meetings.This camera is easy to setup for use with computers. It uses a standard USB 3.0 connection, so it readily works with most laptops and desktops. There is only one cable to plug in. No separate power, video, or control cables are needed. It is plug and play, so no separate drivers are needed for Windows\u00ae, macOS\u00ae, Chrome OS\u2122, and Linux\u00ae. Simply enable the camera through your operating system or conferencing app.The camera's video capabilities are specifically designed for meetings, with an 84 degree field of view. The motorized pan, tilt, and zoom functions allow it to zoom in or out when needed with the touch of a button on the included remote control. The 1/2.9\" Sony\u00ae CMOS sensor is designed to use ambient office lighting, while the 1080p HD video resolution balances HD video quality with data bandwidth requirements.The included remote control provides easy control for pan, tilt, and zoom movements and allows for presets to be saved to automatically zoom in to predetermined points in the meeting room.This PTZ camera includes mounting hardware, so it can be easily installed on meeting room walls next to a TV or monitor. A 16.4\u2011foot USB cable is also included.Features: Designed for mid\u2011sized team and meeting roomsUSB 3.0 connection for power, video, and audioNo drivers required for Windows\u00ae, macOS\u00ae, Chrome OS\u2122, or Linux\u00aeCompatible with popular internet based video conferencing softwareVideo optimized for web meetingsIncludes a wireless remote control for PTZ control, with the ability to save preset angles and zoomsBest when used with an external mic and speaker (sold separately)Mounting hardware included\u00a0Support Files: User's Manual (Oct 28, 2022)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Microsoft\u00ae and Windows\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Apple\u00ae, Mac\u00ae, and macOS\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122, Chrome\u2122, and Chrome OS\u2122 are trademarks of Google LLC. Linux\u00ae is the registered trademark of Linus Torvalds in the U.S. and other countries. Sony\u00ae is a registered trademark of Sony Corporation. Updated Nov 4, 2021 Warning: This product can expose you to Pentaerythritol Dibromide, which is known to the State of California to cause cancer. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/395121.jpg\",\"https://images.monoprice.com/productlargeimages/395122.jpg\",\"https://images.monoprice.com/productlargeimages/395123.jpg\",\"https://images.monoprice.com/productlargeimages/395124.jpg\",\"https://images.monoprice.com/productlargeimages/395125.jpg\",\"https://images.monoprice.com/productlargeimages/395126.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 129.99,
+      "sku": "39512",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39512",
+      "gtin14": "889028136935"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice PTZ Video Conference Camera Pan Tilt Zoom with Remote Full HD 1080p Webcam USB 3.0 3x Optical Zoom",
+      "ratingCount": "7",
+      "reviewCount": "7",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Conferencing Devices",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/conferencing-devices"
+    },
+    {
+      "name": "39512",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/conferencing-devices/39512"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Garden Bench and Kneeler Stools Gardening with Side bag pockets for tool ",
+    "@id": "https://www.monoprice.com/product?p_id=41663",
+    "url": "https://www.monoprice.com/product?p_id=41663",
+    "description": "Product descriptionFeatures:Material:Made of oxford cloth material,waterproof,sturdy and wear resistance.2 Position for sitting and kneeling while gardening and weedingThe perfect gift: This beautiful garden tool plus side bag will be the perfect gardening gift for any gardeners.Sturdy:Durable enough and large capacity. Suitable for storing tools.Portable and lightweight, easy to carry, so you can take it with you around the garden\u00a0Dimension: 23.4\" x 10.5\" x 19.1\"\u00a0\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0Warning: This product can expose you to Phthalates and Lead, which is known to the State of California to cause cancer and reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/416631.jpg\",\"https://images.monoprice.com/productlargeimages/416632.jpg\",\"https://images.monoprice.com/productlargeimages/416633.jpg\",\"https://images.monoprice.com/productlargeimages/416634.jpg\",\"https://images.monoprice.com/productlargeimages/416635.jpg\",\"https://images.monoprice.com/productlargeimages/416636.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 34.99,
+      "sku": "41663",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41663",
+      "gtin14": "889028158661"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Garden Bench and Kneeler Stools Gardening with Side bag pockets for tool ",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "41663",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/41663"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

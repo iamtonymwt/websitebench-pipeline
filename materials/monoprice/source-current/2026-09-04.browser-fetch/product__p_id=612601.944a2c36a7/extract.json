@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice RGB 42in 24W DMX LED Stage Wash Light Bar",
+    "@id": "https://www.monoprice.com/product?p_id=612601",
+    "url": "https://www.monoprice.com/product?p_id=612601",
+    "description": "                    This 3\u2011Color LED Light Bar features 252 10mm LEDs (84 red, 84 green, 84 blue) enclosed within an aluminum case. It includes 13 built\u2011in automatic programs, plus a sound activated mode with sensitivity control. It supports six DMX512 control modes (2, 3, 4, 7, 14, and 26\u2011channels) that you can control using a DMX controller, such as the Monoprice 612120 DMX512 Controller.                    This light includes the following built\u2011in programs:                    Strobe (works with manual color)        Program 1 Color Scan        Program 2 Color Scan with Block Build        Program 3 2\u2011Way Color Scan        Program 4 Multicolor Scan Middle Out        Program 5 RGB Stretch        Program 6 Split Bar Color Jump        Program 7 All Color Scan        Program 8 Color Fade In/Out        Program 9 Color Mix        Program 10 8\u2011Way Color Fade        Program 11 Multicolor Scan Block Build        Program 12 8\u2011Way Color Mix/Fade        Program 13 Pattern Mix        Sound Activated Pattern Mix                                                                                                                                                                Support Files:            User's Manual (Jan 9, 2019)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.        NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association.          Updated Mar 18, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6126011.jpg\",\"https://images.monoprice.com/productlargeimages/6126012.jpg\",\"https://images.monoprice.com/productlargeimages/6126013.jpg\",\"https://images.monoprice.com/productlargeimages/6126014.jpg\",\"https://images.monoprice.com/productlargeimages/6126015.jpg\",\"https://images.monoprice.com/productlargeimages/6126016.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 84.99,
+      "sku": "612601",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612601",
+      "gtin14": "889028017968"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice RGB 42in 24W DMX LED Stage Wash Light Bar",
+      "ratingCount": "56",
+      "reviewCount": "56",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "LED Wash Lights",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights"
+    },
+    {
+      "name": "612601",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights/612601"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

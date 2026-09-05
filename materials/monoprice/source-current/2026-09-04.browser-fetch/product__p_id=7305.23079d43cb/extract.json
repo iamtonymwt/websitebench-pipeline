@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 48-port Cat6 Patch Panel 110 Type (568A/B Compatible)",
+    "@id": "https://www.monoprice.com/product?p_id=7305",
+    "url": "https://www.monoprice.com/product?p_id=7305",
+    "description": "Monoprice\u212248-port Cat6 Patch Panel, 110 Type (568A/B Compatible)This Monoprice\u2122 network patch panel is designed for Category 6 unshielded cable connections. Equipped with 12/24/48 ports with Dual IDC headers, it is compatible with the T568A and T568B wiring standards. You can terminate it using a 110\u2011type punchdown tool. This panel is compatible with 22\u201124 AWG solid network cables.48\u2011port Cat6 patch panelBlack painted steel panelNumbered portsWhite labels for easy labeling and identificationColor coded wiring diagram on backUL\u00ae listedTIA\u2011568A/B compatibleFits into standard 19\" equipment racks (1U)Includes instructions\u00a0{C}.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Diagram (Dec 13, 2022)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Dec 22, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/73051.jpg\",\"https://images.monoprice.com/productlargeimages/73052.jpg\",\"https://images.monoprice.com/productlargeimages/73053.jpg\",\"https://images.monoprice.com/productlargeimages/73054.jpg\",\"https://images.monoprice.com/productlargeimages/73055.jpg\",\"https://images.monoprice.com/productlargeimages/73056.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 51.99,
+      "sku": "7305",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7305",
+      "gtin14": "844660073055"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 48-port Cat6 Patch Panel 110 Type (568A/B Compatible)",
+      "ratingCount": "224",
+      "reviewCount": "34",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels"
+    },
+    {
+      "name": "Networking Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/networking-patch-panels"
+    },
+    {
+      "name": "7305",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/networking-patch-panels/7305"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Recessed HDMI Wall Plate with 1 HDMI F/F Adapter 1RJ45 Cat5e Coupler & 1 F Connector Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=12097",
+    "url": "https://www.monoprice.com/product?p_id=12097",
+    "description": "Professionally terminate your HDMI\u00ae and Ethernet connections using this Recessed HDMI Wall Plate from Monoprice!This wall plate features a female-to-female HDMI coupler, allowing you to connect an HDMI cable inside the wall to one on the outside. It is capable of full High-Speed operation and supports all HDMI features. It is gold-plated to ensure smooth, corrosion-free connections every time.The wall plate also includes a female-to-female Cat5e RJ45 coupler and a female-to-female Coaxial RF coupler, allowing you to connect Ethernet and Coaxial RF cables inside the wall to cables on the outside.Note that for safety purposes, you must use cable rated for in-wall, riser, or plenum use when running cables inside your wall. Failure to do so could result in a fire hazard and invalidate any fire insurance claims. HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov/gdiv>\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/120971.jpg\",\"https://images.monoprice.com/productlargeimages/120972.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "12097",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12097",
+      "gtin14": "889028000946"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Recessed HDMI Wall Plate with 1 HDMI F/F Adapter 1RJ45 Cat5e Coupler & 1 F Connector Gold Plated",
+      "ratingCount": "36",
+      "reviewCount": "36",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "12097",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/12097"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

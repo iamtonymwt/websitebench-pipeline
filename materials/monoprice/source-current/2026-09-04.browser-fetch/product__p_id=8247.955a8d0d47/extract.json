@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 5.1 Channel Home Theater Satellite Speakers and Subwoofer Black",
+    "@id": "https://www.monoprice.com/product?p_id=8247",
+    "url": "https://www.monoprice.com/product?p_id=8247",
+    "description": "                              *** NEWS FLASH! ***                            C|net, one of the most prestigious sites for consumer electronics reviews and information, has honored us by declaring this 5.1 speaker kit as one of their Top 10 Sleeper Hits of the year! They also declared this kit as one of their Best tech gifts for under $100. You can read and watch their full review here.                              *** NEWS FLASH! ***                                  Surround yourself in high fidelity with the Monoprice\u2122 5.1\u2011channel Home Theater Speaker System!                    This speaker system features four satellite speakers and a center channel speaker for the mid\u2011 and high\u2011range audio signals, plus an 8\" powered subwoofer to handle the low frequencies. All the speakers come with an attractive black finish and convenient spring\u2011loaded signal connectors.                    The center speaker uses two 3\" shielded midrange cones, while the satellites employ one 3\" cone and a 1/2\" dome tweeter. However, don't let the small size fool you! These 8 ohm speakers will handle up to 125 watts of power from your home theater receiver at frequencies from 150Hz to 20kHz.                    The subwoofer is powered by a 60 watt (RMS) amplifier, driving a downward firing 8\" cone. It can take either line or speaker\u2011level inputs, so can be used with any amplifier, even older amps without dedicated subwoofer outputs. The subwoofer handles frequencies between 50Hz to 250Hz and includes adjustable crossover frequency and volume balance controls.                    Also included in the box are four C brackets for mounting the satellite speakers to the wall and the necessary hardware for mounting the speakers to the brackets. A pair of plastic feet to properly orient the face of the center speaker is also included. Note that you will need to provide your own hardware for mounting the C brackets to the wall or other vertical surface.                    Don't let the low price fool you! This speaker system sounds great and will fill your room with high\u2011quality, full\u2011spectrum sound!                    Note: The speaker wire connectors on each unit comfortably accept a maximum 16 gauge speaker wire. For best results, Monoprice strongly recommends using pin\u2011type speaker plugs to make the speaker connections and banana or pin\u2011type plugs to connect the wires to your amplifier.                              WARNING! Take extreme care when unpacking the subwoofer from the box. The subwoofer speaker is exposed on the bottom and could be damaged if the unit is grabbed carelessly.                                            Package Contents:                            4x C brackets for mounting satellites to wall (no hardware is included to mount the brackets to the wall)        8x mounting screws for attaching the satellites to the C brackets        8x sound insulating foam pads to fit between the satellite speakers and C brackets        1x RCA M/M stereo cable (74\" long)        2x plastic legs for attaching to back of the center speaker to position the speaker so the face is vertical                                                                                                                                                                Support Files:            User's Manual (Aug 10, 2011)          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.          Updated Jan 25, 2022                                                                Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/82471.jpg\",\"https://images.monoprice.com/productlargeimages/82472.jpg\",\"https://images.monoprice.com/productlargeimages/82473.jpg\",\"https://images.monoprice.com/productlargeimages/82474.jpg\",\"https://images.monoprice.com/productlargeimages/82475.jpg\",\"https://images.monoprice.com/productlargeimages/82476.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 249.99,
+      "sku": "8247",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8247",
+      "gtin14": "844660082477"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 5.1 Channel Home Theater Satellite Speakers and Subwoofer Black",
+      "ratingCount": "261",
+      "reviewCount": "261",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Home Theater Speakers Systems",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/home-theater-speakers-systems"
+    },
+    {
+      "name": "8247",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/home-theater-speakers-systems/8247"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

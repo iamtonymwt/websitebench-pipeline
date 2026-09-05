@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 25ft 3.5mm Stereo Plug/Jack M/F Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=650",
+    "url": "https://www.monoprice.com/product?p_id=650",
+    "description": "The 3.5mm (1/8\") stereo TRS connector is more commonly known as the Headphone Jack on portable mp3 players and mobile phones. This cable features a male 3.5mm stereo (TRS) plug on one end and a female stereo (TRS) jack on the other end, each with molded connector housings and strain relief boots. The cable is ideal for extending the reach of a fixed length 3.5mm stereo cable, such as the cable on a pair of earphones.Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6501.jpg\",\"https://images.monoprice.com/productlargeimages/6502.jpg\",\"https://images.monoprice.com/productlargeimages/6503.jpg\",\"https://images.monoprice.com/productlargeimages/6504.jpg\",\"https://images.monoprice.com/productlargeimages/6505.jpg\",\"https://images.monoprice.com/productlargeimages/6506.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "650",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=650",
+      "gtin14": "844660006503"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 25ft 3.5mm Stereo Plug/Jack M/F Cable - Black",
+      "ratingCount": "879",
+      "reviewCount": "202",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "650",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/650"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

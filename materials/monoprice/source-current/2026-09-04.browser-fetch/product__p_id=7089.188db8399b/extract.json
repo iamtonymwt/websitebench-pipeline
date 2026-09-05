@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2-Port Keystone Jack Surface Mount Box - UL TAA No Logo White",
+    "@id": "https://www.monoprice.com/product?p_id=7089",
+    "url": "https://www.monoprice.com/product?p_id=7089",
+    "description": "Versatile modular surface mount box for when in-wall box and wire installation are not possible. Use with keystones for the connector of your choice. A clean and simple solution for network expansion.Box is durable plastic, white in color. With UL listing info printed in small blue letters on box face.Comes with double sided adhesive\u00a0mounting\u00a0pad\u00a0to mount the box to the wall, or you can use the two screws provided to screw it down to baseboard, window\u00a0sill,\u00a0trim, etc..Jacks are not included. Use\u00a0our keystone jacks with this box except PID# 5370-5377, 5394, 5398, 5399.Comes with 2 zip ties to secure wires to box to prevent pull through.Box has\u00a0two slits in the back side to allow the wires to enter the box for flush moutning. Box top snaps on and off for easy access to wires.NOTE:\u00a0 NOT Compatible with PID# 5370-5377, 5394, 5398, 5399.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/70891.jpg\",\"https://images.monoprice.com/productlargeimages/70892.jpg\",\"https://images.monoprice.com/productlargeimages/70893.jpg\",\"https://images.monoprice.com/productlargeimages/70894.jpg\",\"https://images.monoprice.com/productlargeimages/70895.jpg\",\"https://images.monoprice.com/productlargeimages/70896.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "7089",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7089",
+      "gtin14": "844660070894"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2-Port Keystone Jack Surface Mount Box - UL TAA No Logo White",
+      "ratingCount": "68",
+      "reviewCount": "38",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Surface Mount Boxes",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/surface-mount-boxes"
+    },
+    {
+      "name": "7089",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/surface-mount-boxes/7089"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 HDMI Audio Extractor - 18Gbps HDCP 2.2 YCbCr 444",
+    "@id": "https://www.monoprice.com/product?p_id=24278",
+    "url": "https://www.monoprice.com/product?p_id=24278",
+    "description": "This Blackbird\u2122 4K HDMI\u00ae Audio Extractor extracts the audio signals from HDMI video streams. It supports analog stereo audio, as well as high\u2011definition multichannel audio streams over the S/PDIF digital optical audio output. It supports video resolutions up to 4K@60Hz YCbCr 4:4:4, 10\u2011bit High Dynamic Range (HDR) passthrough, and audio sampling rates up to 192kHz. It is fully compliant with the HDMI 2.0b and HDCP\u2122 2.2 standards and provides up to 18Gbps video bandwidth.Features: Extracts audio from an HDMI\u00ae video signalSupports stereo analog and multichannel digital optical S/PDIF audioSupports video resolutions up to 4K@60Hz YCbCr 4:4:4Supports 10\u2011bits High Dynamic Range (HDR) passthroughSupports CEC bypassSupports audio sampling rates up to 192kHzProvides up to 18Gbps video bandwidthSupport Files: User's Manual (Jul 18, 2017)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Blu\u2011ray Disc\u2122 and Blu\u2011ray\u2122 are trademarks of the Blu\u2011ray Disc Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Feb 10, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/242781.jpg\",\"https://images.monoprice.com/productlargeimages/242782.jpg\",\"https://images.monoprice.com/productlargeimages/242783.jpg\",\"https://images.monoprice.com/productlargeimages/242784.jpg\",\"https://images.monoprice.com/productlargeimages/242785.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 41.99,
+      "sku": "24278",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24278",
+      "gtin14": "889028054086"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 HDMI Audio Extractor - 18Gbps HDCP 2.2 YCbCr 444",
+      "ratingCount": "40",
+      "reviewCount": "40",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Splitters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters"
+    },
+    {
+      "name": "24278",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters/24278"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

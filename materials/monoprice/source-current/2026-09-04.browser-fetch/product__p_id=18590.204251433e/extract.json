@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Aria In-Wall Speakers 6.5-inch Polypropylene 2-Way (pair)",
+    "@id": "https://www.monoprice.com/product?p_id=18590",
+    "url": "https://www.monoprice.com/product?p_id=18590",
+    "description": "Enjoy our most affordable in\u2011wall/ceiling speakers. These speakers feature high quality components without the extras you may not need with most modern AVRs. \"Who cares how much they cost?\" If they do not sound good, you are throwing your money away. Use a pair as your primary music speakers or as additional channels of a surround in a Dolby Atmos\u00ae theater system.The Aria Series 2\u2011way in\u2011wall/ceiling speakers utilize high excursion polypropylene woofers and soft dome tweeters. This provides great flexibility in terms of configuration and makes them suitable for different types of audio tastes. From relaxing background music to high\u2011impact 7\u2011channel home theater systems, these speakers sound smooth, yet pack the punch needed for today's highly processed audio tracks. High quality components and rigorously tested design deliver exceptional value and performance.Simple to install and paintable to match the existing wall color, Aria Series speakers are an ideal way to add high\u2011quality sound to a room without taking up any additional space or breaking the bank.Features: 6.5\" polypropylene cone woofer0.5\" PEI dome tweeter55 Hz ~ 20 kHz frequency response8\u2011ohms nominal impedance40 watts (RMS)/80 watts (Peak) maximum input powerRemovable and paintable grilleSupport Files: User's Manual (Nov 30, 2016)Sales Sheet (May 26, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Dolby\u00ae, Dolby Atmos\u00ae, and the double\u2011D symbol are registered trademarks of Dolby Laboratories. Updated Feb 3, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/185901.jpg\",\"https://images.monoprice.com/productlargeimages/185902.jpg\",\"https://images.monoprice.com/productlargeimages/185903.jpg\",\"https://images.monoprice.com/productlargeimages/185904.jpg\",\"https://images.monoprice.com/productlargeimages/185905.jpg\",\"https://images.monoprice.com/productlargeimages/185906.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 69.99,
+      "sku": "18590",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18590",
+      "gtin14": "889028046104"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Aria In-Wall Speakers 6.5-inch Polypropylene 2-Way (pair)",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "In Wall Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers"
+    },
+    {
+      "name": "18590",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers/18590"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

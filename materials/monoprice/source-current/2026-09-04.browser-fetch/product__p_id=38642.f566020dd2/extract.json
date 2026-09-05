@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8K Ultra High Speed HDMI Extension Cable - HDMI 2.1 8K@60Hz 4K@120Hz 48Gbps HDR VRR 1ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=38642",
+    "url": "https://www.monoprice.com/product?p_id=38642",
+    "description": "DynamicView\u2122 Ultra 8K High Speed HDMI Cables are the next generation of HDMI cables. Supporting up to 8K resolution and 48Gbps bandwidth, this future-proofed cable just might be the last HDMI cable you'll ever need.DynamicView supports Dynamic HDR, meaning content will be able to take advantage of HDR's expanded contrast ranges, brightness levels, and heightened levels of detail, and now have them optimized on a scene-by-scene or even a frame by-frame basis.DynamicView Ultra 8K supports eARC, enabling the most advanced audio formats (including Object Based Audio) and audio signal control capabilities.This Ultra 8K High Speed HDMI Cable supports the following features: Supports 8K@120Hz/60Hz/30Hz, 4K@144Hz/120Hz/60Hz/30Hz video resolutionsBackwards compatible with HDMI\u2122 versions 2.0 & 1.4Supports VESA\u2122 DSC 1.2a/BT.2020Supports HDR10 Dolby Vision\u2122, Variable Refresh Rate (VRR), and Quick Frame TransportSupports up to 32 audio channels and a 1536kHz audio sampling rateSupports Dynamic HDRDelivers up to 48Gbps bandwidthSupports eARC (Enhanced Audio Return Channel) and eARC Object-Based AudioSupports Game Mode VRR and the advanced game eco-system.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Tech Drawing (Mar 10, 2025)DynamicView\u2122 is a trademark of Monoprice Inc. HDMI\u2122, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. VESA\u2122 is a registered trademark of the Video Electronics Standards Association.s Dolby\u2122, Dolby Vision\u2122, and the double-D symbol are trademarks of Dolby Laboratories. Updated Apr 20, 2023 \u00a0Warning: This product can expose you to chemicals, including Phthalates, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/386421.jpg\",\"https://images.monoprice.com/productlargeimages/386422.jpg\",\"https://images.monoprice.com/productlargeimages/386423.jpg\",\"https://images.monoprice.com/productlargeimages/386424.jpg\",\"https://images.monoprice.com/productlargeimages/386425.jpg\",\"https://images.monoprice.com/productlargeimages/386426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.19,
+      "sku": "38642",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38642",
+      "gtin14": "889028127940"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8K Ultra High Speed HDMI Extension Cable - HDMI 2.1 8K@60Hz 4K@120Hz 48Gbps HDR VRR 1ft Black",
+      "ratingCount": "15",
+      "reviewCount": "5",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "HDMI Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-extension-cables"
+    },
+    {
+      "name": "38642",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-extension-cables/38642"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Adjustable Ergonomic Keyboard Tray With Full Size Platform",
+    "@id": "https://www.monoprice.com/product?p_id=24639",
+    "url": "https://www.monoprice.com/product?p_id=24639",
+    "description": "This adjustable keyboard tray provides ergonomic adjustability for keyboard and mouse placement, helping to create a better\u2011fitting workstation. This provides better posture and placement options for people who otherwise can't make adjustments to their desks and workstations. This mount allows users to modify the height, tilt angle, and swivel position of their typing surface to help create a more comfortable and more productive work environment.Adjustments are easy to make, just turn the adjustment knob to move and lock the keyboard tray in place. The full\u2011sized work surface provides ample room for a standard mouse and keyboard and keeps them on the same plane for better comfort. Quality steel and composite wood materials ensure stability and durability to survive daily use. This keyboard tray works with most standard desks with at least 18 inches of flat under\u2011table space.Features: Easily adjustable height, angle, and swivel positionFull\u2011sized work surfaceQuality materials for stability and durabilityWorks with most standard desksStows under desk when not in use, slides out when needed\u00a0\u00a0Support Files: User's Manual (May 22, 2017)Dimensions Diagram (Jul 6, 2017)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 10, 2022 Warning: This product can expose you to Bisphenol A (BPA), which is known to the State of California to cause cancer. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/246391.jpg\",\"https://images.monoprice.com/productlargeimages/246392.jpg\",\"https://images.monoprice.com/productlargeimages/246393.jpg\",\"https://images.monoprice.com/productlargeimages/246394.jpg\",\"https://images.monoprice.com/productlargeimages/246395.jpg\",\"https://images.monoprice.com/productlargeimages/246396.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 89.99,
+      "sku": "24639",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24639",
+      "gtin14": "889028057766"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Adjustable Ergonomic Keyboard Tray With Full Size Platform",
+      "ratingCount": "42",
+      "reviewCount": "42",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "Peripherals & Accessories",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories"
+    },
+    {
+      "name": "Keyboards",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories/keyboards"
+    },
+    {
+      "name": "24639",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/peripherals-&-accessories/keyboards/24639"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

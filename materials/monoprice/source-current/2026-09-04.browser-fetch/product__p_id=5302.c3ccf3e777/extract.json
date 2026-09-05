@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R 16AWG 13A/1625W 3-Prong Black 25ft",
+    "@id": "https://www.monoprice.com/product?p_id=5302",
+    "url": "https://www.monoprice.com/product?p_id=5302",
+    "description": "Extend the reach of your AC powered device with the Monoprice Extension Cord. This reliable and sturdy cable allows you to power your equipment from a distant power outlet, providing convenience and flexibility in your setup.Featuring a NEMA 5\u201115P plug on one end and a NEMA 5\u201115R receptacle on the other, this extension cord is designed to deliver power to your devices safely and efficiently. Simply plug your device into the receptacle and connect the other end of the cord to an AC power outlet, and you're good to go.With a 16AWG wire gauge, this cord is capable of carrying up to a 13 amp/1625 watt, 125 volt load, making it suitable for a variety of applications. It is recommended for powering computers, monitors, and other essential peripherals, ensuring that your devices receive the power they need to function optimally.Whether you need to replace a worn\u2011out or missing extension cord, or you require an additional one to connect devices such as computers, servers, or monitors to a power distribution unit (PDU), this Monoprice extension cord is an ideal choice. Its durable construction and 3\u2011prong design provide a secure and reliable connection, minimizing the risk of power interruptions or failures.This extension cord is built to meet high\u2011quality standards, offering peace of mind and reliable performance. The NEMA 5\u201115P and NEMA 5\u201115R connectors are widely compatible with various devices and power outlets, ensuring versatility in your power setup.With its 3\u2011prong design, this extension cord provides grounding, adding an extra layer of safety for your devices and reducing the risk of electrical hazards. You can trust in its ability to deliver consistent and reliable power to your equipment.Whether you need to power your workstation, set up a temporary setup in a different location, or simply extend the reach of your devices, the Monoprice Extension Cord \u2011 NEMA 5\u201115P to NEMA 5\u201115R is a dependable solution that offers convenience, reliability, and peace of mind. Trust Monoprice for all your power needs.Features: Recommended for powering computers, monitors, and other essential peripheralsIdeal replacement for worn out or missing extension cordsConnect devices, such as computers, servers, and monitors to a PDU\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0TypeNEMA 5\u201115RJacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge16 AWGMaximum\u00a0Current13 ampsCertificationsUL\u00ae, cUL, CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jul 15, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/53021.jpg\",\"https://images.monoprice.com/productlargeimages/53022.jpg\",\"https://images.monoprice.com/productlargeimages/53023.jpg\",\"https://images.monoprice.com/productlargeimages/53024.jpg\",\"https://images.monoprice.com/productlargeimages/53025.jpg\",\"https://images.monoprice.com/productlargeimages/53026.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "5302",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5302",
+      "gtin14": "844660053026"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R 16AWG 13A/1625W 3-Prong Black 25ft",
+      "ratingCount": "664",
+      "reviewCount": "38",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "5302",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/5302"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

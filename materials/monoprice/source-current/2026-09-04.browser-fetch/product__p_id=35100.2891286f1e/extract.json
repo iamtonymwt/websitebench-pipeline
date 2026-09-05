@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty 6 Outlet Metal Surge Protector Power Box - 540 Joules 6ft Cord Black",
+    "@id": "https://www.monoprice.com/product?p_id=35100",
+    "url": "https://www.monoprice.com/product?p_id=35100",
+    "description": "This heavy duty surge protector features a metal enclosure for a durable power distribution solution. It is designed to be physically more robust than ordinary power strips with plastic housings.This surge protector provides 540 joules of protection against power surges or voltage spikes, that could damage electronics and appliances. It is especially useful for sensitive equipment with microprocessors and circuit boards. It can protect against power surges that commonly affect households from external sources, such as indirect lightning strikes, grid switching, and power outages, or from internal sources, like from air conditioners, refrigerators, and washers and dryers switching on or off.This surge protector provides 6 outlets for convenient power distribution. It features a rugged metal case to stand up to the most demanding situations. The integrated 15 amp resettable circuit breaker is designed to instantly react to catastrophic events and overloads to protect users and equipment.Features: 540 joules of surge protectionRugged metal case provides extra safety and durability40dB of EMI/RFI protectionIntegrated 15 amp overload resettable circuit breakerPlain black color, no frills design6 foot power cord6 outletsLED indicator for surge protectionUL\u00ae certified\u00a0\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. Updated Nov 25, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/351001.jpg\",\"https://images.monoprice.com/productlargeimages/351002.jpg\",\"https://images.monoprice.com/productlargeimages/351003.jpg\",\"https://images.monoprice.com/productlargeimages/351004.jpg\",\"https://images.monoprice.com/productlargeimages/351005.jpg\",\"https://images.monoprice.com/productlargeimages/351006.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 43.09,
+      "sku": "35100",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35100",
+      "gtin14": "889028102886"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty 6 Outlet Metal Surge Protector Power Box - 540 Joules 6ft Cord Black",
+      "ratingCount": "19",
+      "reviewCount": "19",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Strip Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors"
+    },
+    {
+      "name": "35100",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors/35100"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

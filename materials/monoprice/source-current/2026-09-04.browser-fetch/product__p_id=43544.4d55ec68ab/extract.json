@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 24-port Blank Keystone Patch Panel - 1U Shielded with Wire Support Bar TAA",
+    "@id": "https://www.monoprice.com/product?p_id=43544",
+    "url": "https://www.monoprice.com/product?p_id=43544",
+    "description": "This Monoprice\u2122 keystone panel fits into a standard 19\" wide equipment rack and measures 1U high (1.75\"). This model features a support bar for easy wire management. It is constructed of black painted steel and each port is individually numbered. The package includes four rack mount screw sets to make your installation faster and easier.Features: 1U 19\" 24\u2011port blank keystone shielded patch panelPorts clearly labeled on frontUL\u00ae listed black painted steel panelMeets and exceeds T568A and T568B standardsTAA compliantSupport Files: Dimensions Diagram (Oct 26, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Oct 27, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/435441.jpg\",\"https://images.monoprice.com/productlargeimages/435442.jpg\",\"https://images.monoprice.com/productlargeimages/435443.jpg\",\"https://images.monoprice.com/productlargeimages/435444.jpg\",\"https://images.monoprice.com/productlargeimages/435445.jpg\",\"https://images.monoprice.com/productlargeimages/435446.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "43544",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43544",
+      "gtin14": "889028179093"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 24-port Blank Keystone Patch Panel - 1U Shielded with Wire Support Bar TAA",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels"
+    },
+    {
+      "name": "Keystone Jack Panel",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/keystone-jack-panel"
+    },
+    {
+      "name": "43544",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/keystone-jack-panel/43544"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

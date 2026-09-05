@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Universal Dolly Cart Appliance Movable Dolly Base Stand Mobile Furniture Wheel Roller For Washing Machine Refrigerator Dryer Mini Fridge",
+    "@id": "https://www.monoprice.com/product?p_id=45317",
+    "url": "https://www.monoprice.com/product?p_id=45317",
+    "description": "Easily move your furniture and appliances with this versatile dolly cart, designed to handle a maximum load of 300 lbs. Ideal for moving boxes, washing machines, dryers, mini fridges, cabinets, dishwashers, and more. The 360-degree lockable swivel wheels ensure smooth, easy maneuvering of heavy items across various floor types. Made with thickened steel pipes, this cart is both sturdy and simple to assemble or disassemble without the need for extra tools. The adjustable steel poles extend from 15.7 to 23.6 inches, making it adaptable to your needs.Key Features:Lockable 360-Degree Swivel Casters: The swivel wheels provide effortless movement for heavy appliances and furniture, with a locking mechanism for added stability.Non-Slip PVC Piece: Prevents slipping and securely holds your items, supporting up to 300 lbs of weight.Adjustable Thickened Steel Pipes: Sturdy and adjustable, extending from 15.7 to 23.6 inches to fit various sizes of items.Easy Assembly: No tools required\u2014simple and quick to set up and take down.Wide Application: Perfect for moving washing machines, dryers, mini fridges, cabinets, dishwashers, and other household items.\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0Support Files: Manual (May 9, 2024)\u00a0WARNING: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/453171.jpg\",\"https://images.monoprice.com/productlargeimages/453172.jpg\",\"https://images.monoprice.com/productlargeimages/453173.jpg\",\"https://images.monoprice.com/productlargeimages/453174.jpg\",\"https://images.monoprice.com/productlargeimages/453175.jpg\",\"https://images.monoprice.com/productlargeimages/453176.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 23.99,
+      "sku": "45317",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=45317",
+      "gtin14": "889028195185"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Universal Dolly Cart Appliance Movable Dolly Base Stand Mobile Furniture Wheel Roller For Washing Machine Refrigerator Dryer Mini Fridge",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "45317",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/45317"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

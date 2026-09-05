@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Dual High\u2011Quality Gold\u2011Plated Speaker Banana Plug Red 3/4in Spacing",
+    "@id": "https://www.monoprice.com/product?p_id=2944",
+    "url": "https://www.monoprice.com/product?p_id=2944",
+    "description": "Banana plugs make speaker installation a breeze. They are designed for use with amplifiers or speakers that use traditional binding posts. Not only is it easier to make the connection on the back of your amp, it is safer, with no chance of stray wire strands creating a short across contacts.This high\u2011quality dual plug has two banana plugs spaced 3/4\" center\u2011to\u2011center with a red plastic yoke, the typical distance between binding posts on speakers. The plugs are the open screw type and can accept bare wire, spades, or other banana plugs. They are sized to fit speaker wire from 12 to 18 AWG. Each pair comes with one plug color coded red and the other coded black, for easy polarity identification.The plug body is made of brass, which is then plated with gold to help prevent corrosion and ensure smooth connections.Features: Can accept bare wire, spades, or other banana plugsCan accept 12 to 18 AWG speaker wiresColor coded black/red rings for maintaining proper polaritySecure, positive contact with binding postsCorrosion resistant, 24K gold plated brass plugRed plastic binding yokeMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 11, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/29441.jpg\",\"https://images.monoprice.com/productlargeimages/29442.jpg\",\"https://images.monoprice.com/productlargeimages/29443.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "2944",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2944",
+      "gtin14": "844660029441"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Dual High\u2011Quality Gold\u2011Plated Speaker Banana Plug Red 3/4in Spacing",
+      "ratingCount": "144",
+      "reviewCount": "61",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Banana Plugs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs"
+    },
+    {
+      "name": "2944",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs/2944"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

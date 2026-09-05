@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Replacement Monolith 15in Subwoofer Driver (24458 42851 42852 38543)",
+    "@id": "https://www.monoprice.com/product?p_id=44534",
+    "url": "https://www.monoprice.com/product?p_id=44534",
+    "description": "",
+    "image": "[]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 299.99,
+      "sku": "44534",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44534",
+      "gtin14": "889028190012"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Replacement Monolith 15in Subwoofer Driver (24458 42851 42852 38543)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Subwoofers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers"
+    },
+    {
+      "name": "44534",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers/44534"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

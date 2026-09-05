@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Single Monitor Low Profile Flat-Clamp Mount for Screens Up to 32in",
+    "@id": "https://www.monoprice.com/product?p_id=34302",
+    "url": "https://www.monoprice.com/product?p_id=34302",
+    "description": "\u00a0This flat\u2011clamp monitor mount is designed to keep a cleaner low\u2011profile look behind and under desks. It is perfect for providing height\u2011adjustable desks and sit\u2011stand desk converters with extra space for free movement. It also minimizes the physical and visual clutter from having mounting components sticking out, which could be an eyesore in open office settings if not hidden out of sight.Unlike most other monitor mounts, this mount minimizes any overhanging or protruding mounting components behind and from under desks. The mount itself sits on top of a desk for stability and provides two mounting options for secure attachment. One option is to secure with an edge clamp with bolt adjustments to tighten. Another option is to bolt through a hole from under the desktop for a clean and secure attachment.Monitors can be easily adjusted for height, rotated between portrait or landscape modes, and tilted horizontally or vertically for fine adjustments.Features: Clean looking, low\u2011profile monitor mounting optionProvides height\u2011adjustable desks extra space for free movementTwo mounting options for easy installationAdjustable for comfort and optimal viewing anglesSafe and secureSupports up to 32\" displaysSupports displays weighing up to 17.6 lbs.Support Files: User's Manual (Jun 4, 2018)Dimensions Diagram (Sep 4, 2018)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Oct 22, 2020 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/343021.jpg\",\"https://images.monoprice.com/productlargeimages/343022.jpg\",\"https://images.monoprice.com/productlargeimages/343023.jpg\",\"https://images.monoprice.com/productlargeimages/343024.jpg\",\"https://images.monoprice.com/productlargeimages/343025.jpg\",\"https://images.monoprice.com/productlargeimages/343026.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 34.99,
+      "sku": "34302",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34302",
+      "gtin14": "889028094853"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Single Monitor Low Profile Flat-Clamp Mount for Screens Up to 32in",
+      "ratingCount": "18",
+      "reviewCount": "18",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Desk Monitor Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts"
+    },
+    {
+      "name": "34302",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts/34302"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

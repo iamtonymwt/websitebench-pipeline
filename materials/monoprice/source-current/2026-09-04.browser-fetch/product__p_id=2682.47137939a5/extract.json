@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 12ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF Digital Coax Subwoofer and Composite Video)",
+    "@id": "https://www.monoprice.com/product?p_id=2682",
+    "url": "https://www.monoprice.com/product?p_id=2682",
+    "description": "This Digital Coax Cable is made from premium quality RG-6/U with double copper braid shielding to prevent signal degradation caused by EMI and RFI interference. This cable is ideal for conducting S/PDIF digital audio signals and other high-bandwidth content, but it can also be used for composite video and other line level RCA signals.The CL2 rating on this cable indicates that the jacket has been treated so that it complies with fire safety regulations, making it safe for use through or within the walls of residential class buildings.Features: Gold plated RCA male connectorsRubber-covered, molded connector housings97% pure oxygen-free copper conductorDouble shielded with copper braiding22 pF per foot capacitance75 ohm impedanceWarning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.govEnable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[\"https://images.monoprice.com/productlargeimages/26821.jpg\",\"https://images.monoprice.com/productlargeimages/26822.jpg\",\"https://images.monoprice.com/productlargeimages/26823.jpg\",\"https://images.monoprice.com/productlargeimages/26824.jpg\",\"https://images.monoprice.com/productlargeimages/26825.jpg\",\"https://images.monoprice.com/productlargeimages/26826.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.69,
+      "sku": "2682",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2682",
+      "gtin14": "844660026822"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 12ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF Digital Coax Subwoofer and Composite Video)",
+      "ratingCount": "1495",
+      "reviewCount": "190",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Digital Coaxial Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/digital-coaxial-cables"
+    },
+    {
+      "name": "2682",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/digital-coaxial-cables/2682"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

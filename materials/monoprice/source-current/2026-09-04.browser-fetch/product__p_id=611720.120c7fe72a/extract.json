@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1x8 20-Watt Guitar Combo Amplifier with Overdrive",
+    "@id": "https://www.monoprice.com/product?p_id=611720",
+    "url": "https://www.monoprice.com/product?p_id=611720",
+    "description": "                    This guitar amp employs a 20\u2011watt amplifier driving an 8\u2011inch, 4\u2011ohm speaker. It features both a solid clean and an overdrive tone with 86dB of gain. It has a line level output, which allows you to send the output to a recorder or mixing board. It also features a 3.5mm AUX IN jack, which allows you to plug in an mp3 player, so you can play along to your favorite tunes and practice at home. The 3.5mm headphone jack disables the speaker when in use, so you can play in almost complete silence. The Monoprice\u2122 20\u2011watt guitar combo is ideal for those looking for a solid, no\u2011frills, solid state combo that is good enough to be used at home and band practice.                                                                                                                                                                Support Files:            User's Manual (Sep 1, 2017)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 18, 2022                                                                Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6117201.jpg\",\"https://images.monoprice.com/productlargeimages/6117202.jpg\",\"https://images.monoprice.com/productlargeimages/6117203.jpg\",\"https://images.monoprice.com/productlargeimages/6117204.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 79.99,
+      "sku": "611720",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=611720",
+      "gtin14": "757901820298"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1x8 20-Watt Guitar Combo Amplifier with Overdrive",
+      "ratingCount": "35",
+      "reviewCount": "35",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Amplifiers",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers"
+    },
+    {
+      "name": "611720",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers/611720"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

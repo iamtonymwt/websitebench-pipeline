@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors 10 foot - Pair",
+    "@id": "https://www.monoprice.com/product?p_id=33835",
+    "url": "https://www.monoprice.com/product?p_id=33835",
+    "description": "Monolith\u2122 14AWG Speaker Wire terminated with banana plugs has been engineered to bring dynamic, true sound that is accurate to the source. Separate insulated bass conductors eliminate undesirable interactions between the low frequencies and highs/mids of the signal. The low frequencies are concentrated into the center of the cable due to the \"skin effect\" and surrounding it are 6 separate polyethylene insulated conductor groups for the mids and highs. Polyethylene is a lower loss dielectric material than the typical PVC and provides more detailed and transparent sound. This stranding design was selected to give the most accurate tonal balance, based on many years of listening tests and cable design experience.\u00a0Ultimate Audio PerformanceSeparate center oxygen-free copper bass conductor with 6 arrays of mid-high frequency ConductorsMultigauge, 14AWG overallFoamed polyurethane insulated bass conductorOptimum stranded oxygen-free copper conductors provide mid/high frequency definitionSilver content solder jointsPrecision machined die cast connectors for maximum durability24K gold-plated banana plugs for best electrical contactNylon braided jacket for easy tangle-free handling\u00a0Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 45 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.45 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 45 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice\u2122 exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122, Monolith\u2122, the Monolith logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 30, 2021 \u00a045",
+    "image": "[\"https://images.monoprice.com/productlargeimages/338351.jpg\",\"https://images.monoprice.com/productlargeimages/338352.jpg\",\"https://images.monoprice.com/productlargeimages/338353.jpg\",\"https://images.monoprice.com/productlargeimages/338354.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 54.99,
+      "sku": "33835",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33835",
+      "gtin14": "889028090176"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors 10 foot - Pair",
+      "ratingCount": "71",
+      "reviewCount": "31",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "33835",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/33835"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

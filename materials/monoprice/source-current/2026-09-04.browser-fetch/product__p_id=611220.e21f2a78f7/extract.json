@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice True-Bypass Chromatic Guitar and Bass Pedal Tuner",
+    "@id": "https://www.monoprice.com/product?p_id=611220",
+    "url": "https://www.monoprice.com/product?p_id=611220",
+    "description": "Easily tune your guitar or bass on stage with this Chromatic Pedal Tuner from Stage Right\u2122!This tuner is designed to fit into your pedal rack and features a heavy\u2011duty metal construction and activation button. It has two 1/4\" TS outputs, Normal and Bypass. The Normal output is muted whenever the tuner is activated and the Bypass output ignores the tuner completely and outputs whatever comes in over the 1/4\" TS Input jack.It has a tuning range from A0 (27.5Hz) to C8 (4186Hz) and is accurate to within \u00b1 1 cent. It can be calibrated to between 436 ~ 445Hz in 1Hz increments and supports the application of 1, 2, or 3 flats to the tuning. The pedal is powered with either a 9V alkaline or heavy\u2011duty battery or with a 9VDC power adapter. Batteries and power adapters sold separately.Support Files: User's Manual (Aug 19, 2013)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 18, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6112201.jpg\",\"https://images.monoprice.com/productlargeimages/6112202.jpg\",\"https://images.monoprice.com/productlargeimages/6112203.jpg\",\"https://images.monoprice.com/productlargeimages/6112204.jpg\",\"https://images.monoprice.com/productlargeimages/6112205.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 30.99,
+      "sku": "611220",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=611220",
+      "gtin14": "757901806650"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice True-Bypass Chromatic Guitar and Bass Pedal Tuner",
+      "ratingCount": "249",
+      "reviewCount": "249",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Pedals",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals"
+    },
+    {
+      "name": "611220",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals/611220"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

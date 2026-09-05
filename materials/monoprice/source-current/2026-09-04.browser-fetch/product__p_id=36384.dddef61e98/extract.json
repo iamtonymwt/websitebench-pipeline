@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - BS 1363 (UK) with 5A Fuse to IEC 60320 C7 (non-polarized) 5A/1250W 250V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=36384",
+    "url": "https://www.monoprice.com/product?p_id=36384",
+    "description": "This AC power cord is designed to connect a laptop power supply, gaming console, or other device to an electrical outlet that conforms to the British BS 1363 standard. The BS 1363 standard is used in over 50 countries, including the UK, Ireland, Malaysia, Malta, Singapore, Bahrain, Sri Lanka, and Saudi Arabia. It features a grounded and 5 amp fused BS1363 plug on one end and an IEC 60320 C7 receptacle on the other end. This 18 AWG cable is rated to carry up to a 5 amp/1250 watt, 250 volt load.\u00a0Wall\u00a0Plug\u00a0TypeBS 1363 (UK)Equipment\u00a0Plug\u00a0TypeIEC 60320 C7 (non\u2011polarized)Jacket\u00a0MaterialH05VV\u2011F 3G 0,75 mm2#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18AWGMaximum\u00a0Current5 ampsCertificationsVDE, ENEC, BSIMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jul 13, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/363841.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.69,
+      "sku": "36384",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=36384",
+      "gtin14": "889028116326"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - BS 1363 (UK) with 5A Fuse to IEC 60320 C7 (non-polarized) 5A/1250W 250V Black 6ft",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "International Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords"
+    },
+    {
+      "name": "36384",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords/36384"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

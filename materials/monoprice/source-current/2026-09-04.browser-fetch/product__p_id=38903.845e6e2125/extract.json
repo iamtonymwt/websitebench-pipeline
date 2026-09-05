@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Palette Series USB 2.0 USB-C to USB-A Charge and Sync Nylon-Braid Cable  1.5ft  White",
+    "@id": "https://www.monoprice.com/product?p_id=38903",
+    "url": "https://www.monoprice.com/product?p_id=38903",
+    "description": "Charge and sync your USB-C\u00ae equipped mobile devices using the Palette Series of USB-C\u00ae to USB-A Cables. These USB 2.0 cables feature a USB-C connector on one end and a USB-A connector on the other end, allowing you to connect your USB-C equipped mobile device to a USB-A equipped wall charger, power bank, or PC connection. Available in a variety of colors, these cables support data transfer rates up to 480Mbps, as well as up to 3 amps/60 watts of charging power.\u00a0Fast ChargingBraided JacketAluminum ConnectorsStay SyncedFast Charging: These cables support up to 3 amps/60 watts of charging power, allowing you to connect your USB-C\u00ae equipped mobile devices to USB-A equipped car/wall chargers, PCs, and laptops.Braided Jacket: The nylon-braided jacket not only helps protect the cable from nicks and cuts, but also resists tangling, making it the perfect cable for traveling.Aluminum Connectors: The superior structural design of the connectors are capped by aluminum connector heads, resulting in a cable that is much more durable than ordinary cables with molded connectors.Stay Synced: Quickly sync your mobile devices with data transfer rates up to 480Mbps.\u00a0Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice\u2122 exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0USB-C\u00ae and USB-C\u00ae are registered trademarks of USB Implementers Forum, Inc. Updated Mar 31, 2021 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/389031.jpg\",\"https://images.monoprice.com/productlargeimages/389032.jpg\",\"https://images.monoprice.com/productlargeimages/389033.jpg\",\"https://images.monoprice.com/productlargeimages/389034.jpg\",\"https://images.monoprice.com/productlargeimages/389035.jpg\",\"https://images.monoprice.com/productlargeimages/389036.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.29,
+      "sku": "38903",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38903",
+      "gtin14": "889028130568"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Palette Series USB 2.0 USB-C to USB-A Charge and Sync Nylon-Braid Cable  1.5ft  White",
+      "ratingCount": "68",
+      "reviewCount": "2",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "38903",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/38903"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

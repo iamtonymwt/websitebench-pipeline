@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Circle Cable Clips with Steel Nail 10mm 100 pcs/pack",
+    "@id": "https://www.monoprice.com/product?p_id=5834",
+    "url": "https://www.monoprice.com/product?p_id=5834",
+    "description": "Circle cable clips allow you to secure runs of round cables like coax to walls and floorboards for a cleaner look and to prevent tripping over loose cables. Installation is easy, just use a hammer to nail it to your mounting surface. It is great for retrofitting cables to rooms where in\u2011wall installations are not an option.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 26, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/58341.jpg\",\"https://images.monoprice.com/productlargeimages/58342.jpg\",\"https://images.monoprice.com/productlargeimages/58343.jpg\",\"https://images.monoprice.com/productlargeimages/58344.jpg\",\"https://images.monoprice.com/productlargeimages/58345.jpg\",\"https://images.monoprice.com/productlargeimages/58346.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "5834",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5834",
+      "gtin14": "844660058342"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Circle Cable Clips with Steel Nail 10mm 100 pcs/pack",
+      "ratingCount": "88",
+      "reviewCount": "60",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Cable Management",
+      "url": "https://www.monoprice.com/category/networking/cable-management"
+    },
+    {
+      "name": "Cable Clips",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-clips"
+    },
+    {
+      "name": "5834",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-clips/5834"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

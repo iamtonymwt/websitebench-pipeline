@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft RG6 (18AWG) 75Ohm Quad Shield CL2 Coaxial Cable with F Type Connector - Black",
+    "@id": "https://www.monoprice.com/product?p_id=3031",
+    "url": "https://www.monoprice.com/product?p_id=3031",
+    "description": "- Heavy-Duty Quad Shielded RG-6/UL 18AWG Coaxial Cable- 75 Ohm 2200 MHz Coaxial Cables for Maximum Signal Transfer and Minimize Interference.- Lifetime Warranty",
+    "image": "[\"https://images.monoprice.com/productlargeimages/30311.jpg\",\"https://images.monoprice.com/productlargeimages/30312.jpg\",\"https://images.monoprice.com/productlargeimages/30313.jpg\",\"https://images.monoprice.com/productlargeimages/30314.jpg\",\"https://images.monoprice.com/productlargeimages/30315.jpg\",\"https://images.monoprice.com/productlargeimages/30316.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.89,
+      "sku": "3031",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3031",
+      "gtin14": "844660030317"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft RG6 (18AWG) 75Ohm Quad Shield CL2 Coaxial Cable with F Type Connector - Black",
+      "ratingCount": "963",
+      "reviewCount": "86",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "Coaxial & BNC Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/coaxial-&-bnc-cables"
+    },
+    {
+      "name": "3031",
+      "url": "https://www.monoprice.com/category/cables/video-cables/coaxial-&-bnc-cables/3031"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

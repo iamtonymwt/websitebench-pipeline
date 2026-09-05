@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Rubber Duct Cable Cover 10 Feet",
+    "@id": "https://www.monoprice.com/product?p_id=21856",
+    "url": "https://www.monoprice.com/product?p_id=21856",
+    "description": "Hide unsightly computer cables easily and efficiently. This rubber cable cover is designed to hide cords that run across your floor or countertop. The flexible material allows you to cut to any desired length.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 26, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/218561.jpg\",\"https://images.monoprice.com/productlargeimages/218562.jpg\",\"https://images.monoprice.com/productlargeimages/218563.jpg\",\"https://images.monoprice.com/productlargeimages/218564.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 25.99,
+      "sku": "21856",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21856",
+      "gtin14": "889028051528"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Rubber Duct Cable Cover 10 Feet",
+      "ratingCount": "11",
+      "reviewCount": "11",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Cable Management",
+      "url": "https://www.monoprice.com/category/networking/cable-management"
+    },
+    {
+      "name": "Cable Covers & Raceways",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-covers-&-raceways"
+    },
+    {
+      "name": "21856",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-covers-&-raceways/21856"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

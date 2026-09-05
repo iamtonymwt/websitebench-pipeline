@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - CEE 7/16 (Europlug) to IEC 60320 C7 (non-polarized) 18AWG 2-Prong Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=32983",
+    "url": "https://www.monoprice.com/product?p_id=32983",
+    "description": "This AC power cord is designed to connect a laptop power supply, gaming console, or other device to an electrical outlet that conforms to one of the round pin European CEE 7/x standards. The CEE 7/16 Europlug is compatible with the CEE 7/1, CEE 7/3 SCHUKO\u00ae, CEE 7/5, and BS 4573 UK Shaver standards. It is also compatible with Israeli, Swiss, Danish, and Italian sockets, as well as many other countries in the Middle East, Africa, South America, and Asia.This cable features a non\u2011polarized CEE 7/16 Europlug on one end and a non\u2011polarized IEC 60320 C7 connector on the other end. This 18 AWG cable is rated to carry up to a 5 amp/1250 watt, 250 volt load, although the CEE 7/16 plug is limited to 2.5 amps.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. SCHUKO\u00ae is a registered trademark of the SCHUKO trademark association. Updated Jul 13, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/329831.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.29,
+      "sku": "32983",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=32983",
+      "gtin14": "889028035641"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - CEE 7/16 (Europlug) to IEC 60320 C7 (non-polarized) 18AWG 2-Prong Black 6ft",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "International Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords"
+    },
+    {
+      "name": "32983",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords/32983"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

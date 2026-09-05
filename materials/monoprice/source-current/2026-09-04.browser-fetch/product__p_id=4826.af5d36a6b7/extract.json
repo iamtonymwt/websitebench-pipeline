@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DisplayPort Male to HDMI Female Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=4826",
+    "url": "https://www.monoprice.com/product?p_id=4826",
+    "description": "The Monoprice DisplayPort Male to HDMI Female Adapter offers a convenient and straightforward solution for connecting your devices equipped with DisplayPort to HDMI devices. With DisplayPort being the latest digital display interface standard introduced by VESA (Video Electronics Standards Association), this adapter allows you to bridge the gap between the two formats effortlessly.With support for both digital video and audio, DisplayPort provides a high\u2011quality signal transmission, ensuring a seamless multimedia experience. However, many HDMI devices are already widely used and compatible with various display setups. This adapter serves as a vital link, enabling you to connect your DisplayPort devices to your existing HDMI devices without the need for complex configurations or additional cables.It is important to note that this adapter functions as a passive adapter. While DisplayPort connectors are technically capable of passing an HDMI signal, it is crucial to understand that DisplayPort and HDMI signals are inherently different and not directly compatible with each other. Therefore, this adapter does not actively convert a DisplayPort signal into an HDMI signal.For this adapter to work effectively, it requires a DisplayPort source device that is capable of producing and passing out an HDMI signal through the DisplayPort jack. This means that the device connected to the adapter must have the ability to output an HDMI signal using the DisplayPort interface. It is advisable to consult your device's specifications or user manual to ensure compatibility and functionality before using this adapter.The Monoprice DisplayPort Male to HDMI Female Adapter eliminates the need for purchasing new cables or devices when you already have a DisplayPort source device and HDMI equipment. Its compact and lightweight design ensures easy portability, making it a convenient accessory for both home and professional use. Whether you need to connect your DisplayPort\u2011equipped laptop or desktop computer to an HDMI monitor, projector, or TV, this adapter provides a hassle\u2011free solution.In summary, the Monoprice DisplayPort Male to HDMI Female Adapter offers a simple and efficient way to connect your DisplayPort devices to HDMI devices. With support for both digital video and audio, this adapter allows you to enjoy high\u2011quality multimedia content without the need for additional cables or complex configurations. However, it is important to ensure compatibility with your source device and understand that this adapter works passively, requiring a DisplayPort source device capable of outputting an HDMI signal through the DisplayPort jack.\u00a0Note: This is a passive adapter. While DisplayPort connectors are capable of passing an HDMI\u00ae signal, DisplayPort and HDMI\u00ae signals are basically different and not compatible with each other. This adapter does not actively convert a DisplayPort signal into an HDMI\u00ae signal. In order for this adapter to function properly, you must have a DisplayPort source device capable of producing and passing out an HDMI\u00ae signal through the DisplayPort jack.HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/48261.jpg\",\"https://images.monoprice.com/productlargeimages/48262.jpg\",\"https://images.monoprice.com/productlargeimages/48263.jpg\",\"https://images.monoprice.com/productlargeimages/48264.jpg\",\"https://images.monoprice.com/productlargeimages/48265.jpg\",\"https://images.monoprice.com/productlargeimages/48266.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "4826",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4826",
+      "gtin14": "844660048268"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DisplayPort Male to HDMI Female Adapter",
+      "ratingCount": "372",
+      "reviewCount": "372",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters"
+    },
+    {
+      "name": "4826",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters/4826"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

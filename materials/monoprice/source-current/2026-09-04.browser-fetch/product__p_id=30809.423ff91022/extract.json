@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Combo Phone/Video Jack Plate Ivory 2-pack",
+    "@id": "https://www.monoprice.com/product?p_id=30809",
+    "url": "https://www.monoprice.com/product?p_id=30809",
+    "description": "                    These wall plates are designed for terminating a 4-conductor (4P4C) telephone line and a coaxial (RG-6, RG-59, etc.) cable television or data line. They require the use of single gang low-voltage mounting brackets, which are available separately. Compatible mounting brackets are linked below:                    1-Gang Low Voltage Mounting Bracket for New Construction (PID 7062)        1-Gang Low Voltage Mounting Bracket, Screw Type (PID 7018)        1-Gang Low Voltage Mounting Bracket, Nail-in Type (PID 7016)              ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/308091.jpg\",\"https://images.monoprice.com/productlargeimages/308092.jpg\",\"https://images.monoprice.com/productlargeimages/308093.jpg\",\"https://images.monoprice.com/productlargeimages/308094.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "30809",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=30809",
+      "gtin14": "889028075203"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Combo Phone/Video Jack Plate Ivory 2-pack",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystone Wall Plates",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates"
+    },
+    {
+      "name": "30809",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates/30809"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

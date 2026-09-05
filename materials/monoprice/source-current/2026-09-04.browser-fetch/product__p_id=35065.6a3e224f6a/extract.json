@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Extension Cord - Locking NEMA L5-20P to NEMA L5-20R 12AWG 20A/2500W SJT 125V Black 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=35065",
+    "url": "https://www.monoprice.com/product?p_id=35065",
+    "description": "This heavy\u2011duty cable features a female NEMA\u00ae L5\u201120R connector on one end and a male NEMA L5\u201120P plug on the other end. It features 12 AWG conductors suitable for high power connections that require a higher\u2011rated, heavier\u2011gauge cable. This cable is designed to carry up to a 20 amp/2500 watt, 125 volt load.\u00a0Plug\u00a0TypeNEMA\u00ae L5\u201120PReceptacle\u00a0TypeNEMA L5\u201120RJacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge12 AWGMaximum\u00a0Current20 ampsCertificationsETL, cETL,\u00a0RoHS, REACHMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. Updated Sep 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/350651.jpg\",\"https://images.monoprice.com/productlargeimages/350652.jpg\",\"https://images.monoprice.com/productlargeimages/350653.jpg\",\"https://images.monoprice.com/productlargeimages/350654.jpg\",\"https://images.monoprice.com/productlargeimages/350655.jpg\",\"https://images.monoprice.com/productlargeimages/350656.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 47.99,
+      "sku": "35065",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35065",
+      "gtin14": "889028102534"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Extension Cord - Locking NEMA L5-20P to NEMA L5-20R 12AWG 20A/2500W SJT 125V Black 10ft",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "35065",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/35065"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

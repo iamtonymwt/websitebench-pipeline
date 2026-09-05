@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Charge & Sync USB-C to USB-C Cable  USB 2.0  TPE Jacket  Up to 3A/60W  10ft  Black",
+    "@id": "https://www.monoprice.com/product?p_id=38918",
+    "url": "https://www.monoprice.com/product?p_id=38918",
+    "description": "Connect your USB-C\u00ae phone, tablet, laptop, or other device to other USB-C\u00ae devices, such as car/wall chargers, multiport adapters, etc. This High Speed USB 2.0 compatible cable features a USB-C connector on each end. It can deliver up to 3 amps of charging power and delivers up to 480 Mbps data bandwidth.\u00a0Fast ChargingHigh SpeedReversible DesignFast Charging: This cable can deliver up to 3 amps of charging power, providing for fast charging of phones, tablets, and other mobile devices.High Speed: This High Speed USB 2.0 cable can deliver up to 480 Mbps of data bandwidth.Reversible Design: The reversible USB-C\u00ae connector is always properly oriented, eliminating a common source of frustration from trying to plug in improperly oriented USB-A connectors.\u00a0Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice\u2122 exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0USB-C\u00ae and USB-C\u00ae are registered trademarks of USB Implementers Forum, Inc. Updated Mar 31, 2021 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/389181.jpg\",\"https://images.monoprice.com/productlargeimages/389182.jpg\",\"https://images.monoprice.com/productlargeimages/389183.jpg\",\"https://images.monoprice.com/productlargeimages/389184.jpg\",\"https://images.monoprice.com/productlargeimages/389185.jpg\",\"https://images.monoprice.com/productlargeimages/389186.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.59,
+      "sku": "38918",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38918",
+      "gtin14": "889028130711"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Charge & Sync USB-C to USB-C Cable  USB 2.0  TPE Jacket  Up to 3A/60W  10ft  Black",
+      "ratingCount": "32",
+      "reviewCount": "6",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "38918",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/38918"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

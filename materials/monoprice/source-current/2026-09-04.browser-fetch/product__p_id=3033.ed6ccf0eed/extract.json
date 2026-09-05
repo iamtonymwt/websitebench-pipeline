@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 25ft RG6 (18AWG) 75Ohm Quad Shield CL2 Coaxial Cable with F Type Connector - Black",
+    "@id": "https://www.monoprice.com/product?p_id=3033",
+    "url": "https://www.monoprice.com/product?p_id=3033",
+    "description": "- Heavy-Duty Quad Shielded RG-6/UL 18AWG Coaxial Cable- 75 Ohm 2200 MHz Coaxial Cables for Maximum Signal Transfer and Minimize Interference.- Lifetime WarrantyWarning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/30331.jpg\",\"https://images.monoprice.com/productlargeimages/30332.jpg\",\"https://images.monoprice.com/productlargeimages/30333.jpg\",\"https://images.monoprice.com/productlargeimages/30334.jpg\",\"https://images.monoprice.com/productlargeimages/30335.jpg\",\"https://images.monoprice.com/productlargeimages/30336.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.19,
+      "sku": "3033",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3033",
+      "gtin14": "844660030331"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 25ft RG6 (18AWG) 75Ohm Quad Shield CL2 Coaxial Cable with F Type Connector - Black",
+      "ratingCount": "963",
+      "reviewCount": "100",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "Coaxial & BNC Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/coaxial-&-bnc-cables"
+    },
+    {
+      "name": "3033",
+      "url": "https://www.monoprice.com/category/cables/video-cables/coaxial-&-bnc-cables/3033"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series Mini DisplayPort 1.2 to DisplayPort 1.2 Cable 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=13372",
+    "url": "https://www.monoprice.com/product?p_id=13372",
+    "description": "The Select Series DisplayPort\u00ae / Mini DisplayPort to DisplayPort 1.2a Cable allows you to connect your DisplayPort 1.2 enabled computer to a monitor or other DisplayPort ready device. The locking connectors ensure a secure connection to your display. The DisplayPort 1.2 compliant cable is up to twice as fast as DisplayPort 1.1 and is backwards compatible.Select Series DisplayPort / Mini DisplayPort 1.2a Cable\u00a0Twice as FastDisplayport 1.2a Compliant4K Capable\u00a0Twice as Fast: DisplayPort\u00ae 1.2a is up to twice as fast as DisplayPort 1.1a, allowing for PC and HDTV resolutions up to 4K (3840x2160p), as well as 3D support.Displayport 1.2a Compliant: Compliant with the DisplayPort 1.2a specification, this cable is also backwards compatible with DisplayPort 1.1/1.1a. Supporting data speeds up to 21.6Gbps, this cable transmits uncompressed audio and deep color depth twice as fast as the previous specification.4K Capable: Broad compatibility with computers, phones, and tablets with DisplayPort or Mini DisplayPort video output and displays up to 4K resolution.\u00a0Select Series DisplayPort / Mini DisplayPort 1.2a enables high resolutionConnect a DisplayPort\u00ae enabled computer to a high definition display or projectorSupports up to 4K resolution and 3D videoHigh Bit Rate 2 (HBR2) bandwidth of up to 21.6 GbpsLatching DisplayPort connectors keeps cable securely plugged inSupports DPCP (DisplayPort Content Protection) and HDCP\u2122 (High-bandwidth Digital Content Protection)Backwards compatible with DisplayPort 1.1/1.1a\u00a0DisplayPort 1.2a1.5, 3, 6, 10, 15, and 25 feetMini DisplayPort 1.2a3 and 6 feetMini DisplayPort 1.2a Extension3 and 6 feetMini DisplayPort 1.2a to DisplayPort 1.2a1.5, 3, 6, 10, and 15 feetMonoprice Lifetime Warranty on ALL CablesWith Monoprice's Lifetime Warranty you can rest assured we stand behind our products and our customers.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service & SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. HDCP\u2122 is a trademark of Digital Content Protection LLC. Updated Feb 4, 2020 \u00a0                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/133721.jpg\",\"https://images.monoprice.com/productlargeimages/133722.jpg\",\"https://images.monoprice.com/productlargeimages/133723.jpg\",\"https://images.monoprice.com/productlargeimages/133724.jpg\",\"https://images.monoprice.com/productlargeimages/133725.jpg\",\"https://images.monoprice.com/productlargeimages/133726.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.79,
+      "sku": "13372",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13372",
+      "gtin14": "889028014202"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series Mini DisplayPort 1.2 to DisplayPort 1.2 Cable 3ft",
+      "ratingCount": "111",
+      "reviewCount": "20",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "13372",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/13372"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

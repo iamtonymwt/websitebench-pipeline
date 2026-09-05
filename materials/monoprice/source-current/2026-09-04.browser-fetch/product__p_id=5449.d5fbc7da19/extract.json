@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to Mini-B 2.0 Cable - 5-Pin 28/24AWG Gold Plated Black 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=5449",
+    "url": "https://www.monoprice.com/product?p_id=5449",
+    "description": "Connect your devices with USB mini B connector using this USB 2.0 A Male to USB Mini-B Male Cable from Monoprice!This cable features a standard USB A male connector on one end and a 5-pin mini B connector on the other. It uses 24AWG conductors for the power lines and 28AWG conductors for the data lines, for improved current carrying capacity. The cable is shielded using braid and foil shields and it includes a single ferrite core, which helps filter out electromagnetic and radio frequency interference (EMI and RFI). The connectors are gold plated for smooth, corrosion free connections.                      Support Files:                    Tech Drawing (Sep 22, 2025)      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/54491.jpg\",\"https://images.monoprice.com/productlargeimages/54492.jpg\",\"https://images.monoprice.com/productlargeimages/54493.jpg\",\"https://images.monoprice.com/productlargeimages/54494.jpg\",\"https://images.monoprice.com/productlargeimages/54495.jpg\",\"https://images.monoprice.com/productlargeimages/54496.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.79,
+      "sku": "5449",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5449",
+      "gtin14": "844660054498"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to Mini-B 2.0 Cable - 5-Pin 28/24AWG Gold Plated Black 10ft",
+      "ratingCount": "560",
+      "reviewCount": "91",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "Mini B Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/mini-b-cables"
+    },
+    {
+      "name": "5449",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/mini-b-cables/5449"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

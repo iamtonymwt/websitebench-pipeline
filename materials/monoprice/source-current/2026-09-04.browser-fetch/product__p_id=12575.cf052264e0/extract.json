@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Split Plate with Flexible Opening Black",
+    "@id": "https://www.monoprice.com/product?p_id=12575",
+    "url": "https://www.monoprice.com/product?p_id=12575",
+    "description": "Keep your low\u2011voltage cable runs looking neat and tidy using this Split Plate with Flexible Opening from Monoprice\u2122!This low\u2011voltage wall plate features a flexible opening, which allows you to neatly route up to six (6) low\u2011voltage signal cables through your wall. The split design means that you can install the plate around an existing cable run without having to disconnect or rerun the cables. The wall plate requires the use of a single\u2011gang, low\u2011voltage mounting bracket (available separately).Features: Low profile design fits behind the industry's thinnest mounts and TVsVirtually seamless designConceal multiple low voltage cables behind your flat panel TVEasily holds up to 6 cablesFlexible opening helps keeps low\u2011voltage pass\u2011though area coveredPerfect for eliminating connections at the wallAvailable in 4 colors: black, ivory, lite almond, whiteQuick and easy to installMounts to any standard low voltage mounting ring, old work ring, or mud ringNote that for safety purposes, you must use cable rated for in\u2011wall, riser, or plenum use when running cables inside your wall. Failure to do so could result in a fire hazard and invalidate any fire insurance claims. Support Files: Quick Installation Guide (Aug 21, 2025)Sales Sheet (Aug 21, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 26, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/125751.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.99,
+      "sku": "12575",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12575",
+      "gtin14": "889028005699"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Split Plate with Flexible Opening Black",
+      "ratingCount": "58",
+      "reviewCount": "5",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "12575",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/12575"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 20-Watt 8in Acoustic Guitar Amplifier and PA with 3-band EQ & Built-in Effects",
+    "@id": "https://www.monoprice.com/product?p_id=611708",
+    "url": "https://www.monoprice.com/product?p_id=611708",
+    "description": "Perfect for both practice and small gigs, our Stage Right\u2122 20\u2011Watt Acoustic Guitar Amplifier will adapt to your needs, while performing like amps several times its price. Plug in a mic and use it as a house PA for small gigs or practice with backing tracks using its CD/line input. In addition to being versatile and adapting to a huge number of applications, this amp delivers clean output sufficient for most small and medium sized rooms. No other amp delivers a comparable feature set at this price point. Featuring built\u2011in reverb and chorus, as well as direct line in and out, the Stage Right 611708 is the ideal amp for beginners looking for a fun amp, as well as musicians looking for a versatile gigging tool.\u00a0  1 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Dec 15, 2018)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 18, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6117081.jpg\",\"https://images.monoprice.com/productlargeimages/6117082.jpg\",\"https://images.monoprice.com/productlargeimages/6117083.jpg\",\"https://images.monoprice.com/productlargeimages/6117084.jpg\",\"https://images.monoprice.com/productlargeimages/6117085.jpg\",\"https://images.monoprice.com/productlargeimages/6117086.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 122.99,
+      "sku": "611708",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=611708",
+      "gtin14": "889028119532"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 20-Watt 8in Acoustic Guitar Amplifier and PA with 3-band EQ & Built-in Effects",
+      "ratingCount": "53",
+      "reviewCount": "53",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Amplifiers",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers"
+    },
+    {
+      "name": "611708",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers/611708"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

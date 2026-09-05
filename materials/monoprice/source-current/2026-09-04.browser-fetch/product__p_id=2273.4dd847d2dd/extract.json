@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 1000ft White CM UL Bulk Cable Stranded (w/spine) UTP 24AWG 550MHz Pure Bare Copper Pull Box Bulk Ethernet Cable",
+    "@id": "https://www.monoprice.com/product?p_id=2273",
+    "url": "https://www.monoprice.com/product?p_id=2273",
+    "description": "Avoid having excess Ethernet cable lying around by building your own cables to the exact length needed using this Bulk Ethernet Copper Cable from Monoprice\u2122!Features: Unshielded Twisted Pair (UTP) Category 6 Ethernet cable24AWG stranded, pure bare copper conductorsCM (In\u2011Wall) fire safety rating550MHz bandwidth1000 foot rollMonoprice\u2122 Ethernet cables are made of 100% pure bare copper wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Sheilded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Support Files: Specification Sheet (Apr 13, 2015)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated Jun 14, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/22731.jpg\",\"https://images.monoprice.com/productlargeimages/22732.jpg\",\"https://images.monoprice.com/productlargeimages/22733.jpg\",\"https://images.monoprice.com/productlargeimages/22734.jpg\",\"https://images.monoprice.com/productlargeimages/22735.jpg\",\"https://images.monoprice.com/productlargeimages/22736.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 229.99,
+      "sku": "2273",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2273",
+      "gtin14": "844660022732"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 1000ft White CM UL Bulk Cable Stranded (w/spine) UTP 24AWG 550MHz Pure Bare Copper Pull Box Bulk Ethernet Cable",
+      "ratingCount": "64",
+      "reviewCount": "9",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Networking Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables"
+    },
+    {
+      "name": "Cat6 Bulk Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables"
+    },
+    {
+      "name": "2273",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables/2273"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

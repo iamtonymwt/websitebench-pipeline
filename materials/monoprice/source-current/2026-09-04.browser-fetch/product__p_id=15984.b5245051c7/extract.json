@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select USB Mini Wall Charger 1-Port 2.4A Output for iPhone Android and Galaxy Devices",
+    "@id": "https://www.monoprice.com/product?p_id=15984",
+    "url": "https://www.monoprice.com/product?p_id=15984",
+    "description": "Keep your USB device fully charged and ready for use at all times at home, at the office, or on the road. Featuring 2.4 amps/12 watts of charging power, it can charge or power even the most power-hungry mobile devices. Measuring only 1.1\" x 1.1\" x 1.2\" and weighing only 0.8 ounces, this is one of the smallest and lightest 2.4 amp chargers on the market.\u00a0Fast ChargingUniversal CompatibilityPortabilityFast Charging: Featuring 2.4 amps/12 watts of charging power, this compact charger can charge or power even the most power-hungry mobile devices.Universal Compatibility: The single USB Type-A port makes this charger compatible with a wide range of smartphones, tablets, and other devices.Portability: Measuring only 1.1\" x 1.1\" x 1.2\" and weighing only 0.8 ounces, this is one of the smallest and lightest 2.4 amp chargers on the market.\u00a0\u00a0\u00a0Compatible with smartphones, tablets, and other devicesMobile Cables available separately    USB-C\u00ae Cables Lightning\u00ae Cables for iPad\u00ae, iPhone\u00ae, iPod\u00ae USB 2.0 to Micro B Cables 30-pin Cables for iPad\u00ae, iPhone\u00ae, iPod\u00ae \u00a0Buy with ConfidenceMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Apple\u00ae and iPhone\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122 and Android\u2122 are trademarks of Google LLC. Samsung\u00ae and Galaxy S\u00ae are both registered trademarks of Samsung Electronics Co., Ltd. USB Type-C\u00ae and USB-C\u00ae are registered trademarks of USB Implementers Forum, Inc. Updated Nov 25, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/159841.jpg\",\"https://images.monoprice.com/productlargeimages/159842.jpg\",\"https://images.monoprice.com/productlargeimages/159843.jpg\",\"https://images.monoprice.com/productlargeimages/159844.jpg\",\"https://images.monoprice.com/productlargeimages/159845.jpg\",\"https://images.monoprice.com/productlargeimages/159846.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.49,
+      "sku": "15984",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15984",
+      "gtin14": "889028040959"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select USB Mini Wall Charger 1-Port 2.4A Output for iPhone Android and Galaxy Devices",
+      "ratingCount": "26",
+      "reviewCount": "26",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mobile",
+      "url": "https://www.monoprice.com/category/pages/9"
+    },
+    {
+      "name": "Charging",
+      "url": "https://www.monoprice.com/category/mobile/charging"
+    },
+    {
+      "name": "USB Wall Chargers",
+      "url": "https://www.monoprice.com/category/mobile/charging/usb-wall-chargers"
+    },
+    {
+      "name": "15984",
+      "url": "https://www.monoprice.com/category/mobile/charging/usb-wall-chargers/15984"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

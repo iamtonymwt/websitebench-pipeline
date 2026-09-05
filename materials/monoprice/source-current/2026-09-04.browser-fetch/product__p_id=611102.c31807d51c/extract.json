@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Universal 2-button Guitar Amp Footswitch",
+    "@id": "https://www.monoprice.com/product?p_id=611102",
+    "url": "https://www.monoprice.com/product?p_id=611102",
+    "description": "                    This is a replacement 2-button footswitch for the 611830 Guitar Short Stack bundle. It controls the reverb and channel selection between the clean and overdrive channels. Its cable is 20 feet (6 meters) long and features a metal housing with a black finish.                                                                                                                                                          Support Files:      User's Manual (Dec 15, 2019)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 17, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6111021.jpg\",\"https://images.monoprice.com/productlargeimages/6111022.jpg\",\"https://images.monoprice.com/productlargeimages/6111023.jpg\",\"https://images.monoprice.com/productlargeimages/6111024.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 32.99,
+      "sku": "611102",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=611102",
+      "gtin14": "889028119549"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Universal 2-button Guitar Amp Footswitch",
+      "ratingCount": "24",
+      "reviewCount": "24",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Amplifiers",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers"
+    },
+    {
+      "name": "611102",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers/611102"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

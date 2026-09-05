@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Desktop Computer Power Cord - IEC 60320 C14 to NEMA 5-15R 18AWG 10A/1250W SVT 125V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=1303",
+    "url": "https://www.monoprice.com/product?p_id=1303",
+    "description": "This cable features a grounded IEC 60320 C14 plug on one end and a NEMA\u00ae 5\u201115R receptacle on the other. It is perfect for extending a standard NEMA 5\u201115 to IEC 60320 C13 power cable. It has 18 AWG conductors, making it suitable for general use. This cable is designed to carry up to a 10 amp/1250 watt, 125 volt load.\u00a0Plug\u00a0TypeIEC 60320 C14Receptacle\u00a0TypeNEMA\u00ae 5\u201115RJacket\u00a0MaterialSVT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18 AWGMaximum\u00a0Current10 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. CSA\u00ae is a registered trademark of the CSA Group. Updated Sep 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/13031.jpg\",\"https://images.monoprice.com/productlargeimages/13032.jpg\",\"https://images.monoprice.com/productlargeimages/13033.jpg\",\"https://images.monoprice.com/productlargeimages/13034.jpg\",\"https://images.monoprice.com/productlargeimages/13035.jpg\",\"https://images.monoprice.com/productlargeimages/13036.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 4.99,
+      "sku": "1303",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1303",
+      "gtin14": "844660013037"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Desktop Computer Power Cord - IEC 60320 C14 to NEMA 5-15R 18AWG 10A/1250W SVT 125V Black 6ft",
+      "ratingCount": "43",
+      "reviewCount": "8",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "1303",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/1303"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

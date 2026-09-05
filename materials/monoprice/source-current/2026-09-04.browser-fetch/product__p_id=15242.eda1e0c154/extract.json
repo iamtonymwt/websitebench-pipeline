@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K Pro HDCP Converter 2.2 to 1.4",
+    "@id": "https://www.monoprice.com/product?p_id=15242",
+    "url": "https://www.monoprice.com/product?p_id=15242",
+    "description": "The Monoprice\u2122 Blackbird\u2122 4K HDCP\u2122 2.2 to 1.4 Converter is the definitive solution for playback of new 4K HDCP 2.2 encoded content on 4K displays with the old HDCP 1.4 standard. Most 4K televisions sold in the last few years do not support HDCP 2.2, but the Blackbird HDCP Converter keeps your equipment relevant and running.The converter is also a great compatibility solution for AV distribution systems running a mix of new and old 4K displays. Backed by Monoprice's one year warranty and world class customer support, rest assured that the Blackbird 4K HDCP 2.2 to 1.4 Converter will get the best out of your 4K television or display.Features: Play todays content on your legacy 4K displayConverts HDCP\u2122 2.2 to 1.4Supports 4K@60Hz and Deep ColorPlug and play simplicitySupports DTS\u2011HD Master Audio\u2122, Dolby TrueHD\u2122, and LPCM audio formatsSmall and portableOne year warrantySupport Files: User's Manual (Jan 27, 2021)Conference AV Solutions Comparison Matrix (Mar 29, 2021)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDCP\u2122 is a trademark of Digital Content Protection LLC. DTS\u00ae is a registered trademark and the DTS logos, Symbol, DTS\u2011HD\u2122 and DTS\u2011HD Master Audio\u2122 are trademarks of DTS, Inc. Dolby\u00ae and the double\u2011D symbol are registered trademarks of Dolby Laboratories. Dolby TrueHD\u2122 is a trademark of Dolby Laboratories. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. USB Type\u2011C\u00ae and USB\u2011C\u00ae are registered trademarks of USB Implementers Forum. HDBaseT\u2122 and the HDBaseT Alliance logo are trademarks of the HDBaseT Alliance. Updated Jan 27, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/152421.jpg\",\"https://images.monoprice.com/productlargeimages/152422.jpg\",\"https://images.monoprice.com/productlargeimages/152423.jpg\",\"https://images.monoprice.com/productlargeimages/152424.jpg\",\"https://images.monoprice.com/productlargeimages/152425.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 34.99,
+      "sku": "15242",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15242",
+      "gtin14": "889028033265"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K Pro HDCP Converter 2.2 to 1.4",
+      "ratingCount": "62",
+      "reviewCount": "62",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Converters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-converters"
+    },
+    {
+      "name": "15242",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-converters/15242"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

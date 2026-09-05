@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SWA-200 200-watt Subwoofer Amp with Crossover and Phase Control",
+    "@id": "https://www.monoprice.com/product?p_id=31030",
+    "url": "https://www.monoprice.com/product?p_id=31030",
+    "description": "                    The SWA\u2011200 subwoofer amplifier delivers clean, solid power required to drive small\u2011to\u2011medium sized subwoofer speakers. Its compact design is compatible with many other popular electronic devices and different styles of multimedia gear. The SWA\u2011200 is engineered to provide high fidelity bass amplification and is tailored for home audio and home theater audio systems. Its volume, crossover frequency, and phase adjustment guarantee perfect integration with any audio system in any listening environment. Short circuit and thermal protection circuits are built\u2011in.                    While deep, hard hitting bass is fun and a little annoying to the neighbors, a good subwoofer system also improves your main speaker's fidelity. By driving a separate subwoofer system, your left and right speakers are free to articulate dialog and subtle audio accents while the explosions are hitting you in the chest.                    This subwoofer amp is an ideal match to our passive in\u2011wall subwoofer (PID 4928). The SWA\u2011200 is stable down to 4 ohms, so it will easily drive one or two subs. Use the front panel crossover and phase controls to dial in the sound just the way you want it.                              Features:                            200 watts of deep, hard\u2011hitting power at 4 ohms impedance        Front panel volume, crossover, and phase controls to tailor your sound to your need        Compact design fits anywhere you need it        Cool running Class D amps are quiet and can run all night                                                                                                                                                          Support Files:        User's Manual (Jul 18, 2018)          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.          Updated Feb 18, 2022                                                                Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/310301.jpg\",\"https://images.monoprice.com/productlargeimages/310302.jpg\",\"https://images.monoprice.com/productlargeimages/310303.jpg\",\"https://images.monoprice.com/productlargeimages/310304.jpg\",\"https://images.monoprice.com/productlargeimages/310305.jpg\",\"https://images.monoprice.com/productlargeimages/310306.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 599.99,
+      "sku": "31030",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=31030",
+      "gtin14": "889028077412"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SWA-200 200-watt Subwoofer Amp with Crossover and Phase Control",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "31030",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/31030"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

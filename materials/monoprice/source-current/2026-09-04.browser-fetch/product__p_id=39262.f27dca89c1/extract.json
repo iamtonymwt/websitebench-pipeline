@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Multizone Source with Wi-Fi Receiver and Line Input",
+    "@id": "https://www.monoprice.com/product?p_id=39262",
+    "url": "https://www.monoprice.com/product?p_id=39262",
+    "description": "The Multizone Source with Wi-Fi Receiver and Line Input plus the 13356 RJR\u20112 Multizone RJ45 to RCA Converter allows you to stream audio from your Wi-Fi\u2011equipped device or any device with a 3.5mm audio output to any home or business audio system with an RCA audio input. Perfect for use with Internet radio services and compactible with Apple AirPlay\u00ae, DLNA\u00ae, Spotify\u00ae and other Internet audio sources. The remote design of this Wi-Fi receiver with Line Input allows mounting in a convenient location near your Wi-Fi audio or 3.5mm audio source, and then run Cat5e/Cat6 Ethernet cable to the RJR-2 at your amplifier which eliminates interference and noise that can compromise analog audio signals over long cable runs.This Multizone Source with Wi-Fi Receiver and Line Input and RJR\u20112 Multizone RJ45 to RCA Converter are perfect for use with the 10761 Monoprice 6-Zone Home Audio Multizone Controller and Amplifier Kit or other audio system. Installation is simple using a standard single\u2011gang electrical box, and the front panel fits standard decora style trim plates.The Multizone Source with Wi-Fi Receiver and Line Input (39262), Multizone Source Keypad with Bluetooth Receiver (13358), and RJR\u20112 Multizone RJ45 to RCA Converter (13356) components present an ideal opportunity for installers to add convenience to any multiroom system. The NO LOGO design increases confidence that end users will not simply look up a make and model to find it cheaper somewhere else.Features: Search, stream, and control your music using the downloadable appStream internet radio services3.5mm audio line input on the front panel1\u2011gang universal standard wall plate sizeSupports 802.11b/g/n wireless network connectivityCompatible with Apple AirPlay\u00ae, DLNA\u00ae, Spotify\u00ae, etc.RJ45 jack on the rear panelMust be used with the 13356 RJR\u20112 Multizone RJ45 to RCA ConverterPerfect for use with the 10761 Monoprice 6-Zone Home Audio Multizone Controller and Amplifier KitSupport Files: Quick Start Guide (May 7, 2020)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Wi\u2011Fi\u00ae and Wi\u2011Fi Alliance\u00ae are registered trademarks of Wi\u2011Fi Alliance. Apple\u00ae, AirPlay\u00ae, and the AirPlay logo are trademarks of Apple Inc., registered in the U.S. and other countries. DLNA\u00ae is a trademarks or registered trademark of Digital Living Network Alliance. Spotify\u00ae is a trademark or registered trademark of Spotify, Ltd. Updated Mar 9, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/392621.jpg\",\"https://images.monoprice.com/productlargeimages/392622.jpg\",\"https://images.monoprice.com/productlargeimages/392623.jpg\",\"https://images.monoprice.com/productlargeimages/392624.jpg\",\"https://images.monoprice.com/productlargeimages/392625.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 99.99,
+      "sku": "39262",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39262",
+      "gtin14": "889028134313"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Multizone Source with Wi-Fi Receiver and Line Input",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "39262",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/39262"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

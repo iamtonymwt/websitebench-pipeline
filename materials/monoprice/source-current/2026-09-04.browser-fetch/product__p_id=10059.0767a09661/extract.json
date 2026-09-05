@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 5.25-inch to 1x3.5-inch SATA/SAS 6.0 Gbps Trayless Hot-Swap Cage Black",
+    "@id": "https://www.monoprice.com/product?p_id=10059",
+    "url": "https://www.monoprice.com/product?p_id=10059",
+    "description": "Upgrade your PC's hard drive cage to include hot swapping, support for SAS and SATA drives, and security using this Trayless Hot Swap Cage from Monoprice!This hard drive cage is intended to be installed into a standard PC case. It uses a single 5.25\" bay and supports a single 3.5\" drive. It uses an SAS backplane, which provides full support for SAS I/II and SATA I/II/III drives with capacities up to 3TB each. The bay is hot swappable, which means you can change out the drive without turning off your PC.The cage is made of aluminum and plastic, which keeps weight to a minimum. The bay has a door, which automatically ejects the drive as the door is opened. The door has a lock, so you can secure a drive in place to prevent unauthorized removal.The enclosure has screw holes for an optional 40mm cooling fan (not included). A switch on the back of the enclosure allows you to disable the combination power/drive activity LED on the front bezel of the enclosure.The enclosure uses standard SATA data and power cables (not included). It comes with screws to secure the cage in a computer case and a key to lock the drive access door.Features: Aluminum and plastic frame for light weightSupports SAS I, SAS II, SATA I, SATA II, and SATA III drivesProvides up to 6.0 Gbps data transfer rateSupports drives up to 3TB capacityLockable drive baySupports Hot SwappingCombination power/drive activity LED (can be disabled)Removable fan cover allows for easy maintenanceDimensions: 5.8\" x 1.7\" x 7.1\"Weight: 0.6 lbs",
+    "image": "[\"https://images.monoprice.com/productlargeimages/100591.jpg\",\"https://images.monoprice.com/productlargeimages/100592.jpg\",\"https://images.monoprice.com/productlargeimages/100593.jpg\",\"https://images.monoprice.com/productlargeimages/100594.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.69,
+      "sku": "10059",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=10059",
+      "gtin14": "670541337998"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 5.25-inch to 1x3.5-inch SATA/SAS 6.0 Gbps Trayless Hot-Swap Cage Black",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "Storage & Drives",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/storage-&-drives"
+    },
+    {
+      "name": "External Storage",
+      "url": "https://www.monoprice.com/Category/Computers & Gaming/Storage & Drives/External Storage"
+    },
+    {
+      "name": "10059",
+      "url": "https://www.monoprice.com/Category/Computers & Gaming/Storage & Drives/External Storage/10059"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

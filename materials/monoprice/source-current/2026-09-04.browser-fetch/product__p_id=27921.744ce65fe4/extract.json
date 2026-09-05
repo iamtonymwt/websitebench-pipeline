@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Essentials USB-C to USB-C 3.1 Gen 1 Cable - 5Gbps  3A  30AWG  White  2m (6.6ft)",
+    "@id": "https://www.monoprice.com/product?p_id=27921",
+    "url": "https://www.monoprice.com/product?p_id=27921",
+    "description": "Connect your USB-C\u00ae phone, tablet, laptop, or other device to other USB-C\u00ae devices, such as car/wall chargers, multiport adapters, etc. This USB 3.1 Gen 1 compatible cable features a USB-C connector on each end. It can deliver up to 3 amps of charging power and has 5 Gbps data bandwidth.Fast ChargingUSB 3.1 Gen 1Reversible DesignFast Charging: The cable can deliver up to 3 amps of charging power, providing for fast charging of phones, tablets, and other mobile devices.USB 3.1 Gen 1: Transfer music, photos, video, or data to and from a USB-C\u00ae equipped laptop at speeds up to 5 Gbps.Reversible Design: The reversible USB-C\u00ae connector is always properly oriented, eliminating a common source of frustration from trying to plug in improperly oriented USB-A connectors.Select\u00a0Series\u00a0TypeSelect Series2.0 USB-C to USB-CSelect Series3.1 USB-C to USB-C Gen\u00a01Select Series3.1 USB-C to USB-C Gen\u00a02Select Series2.0 USB-C to USB-ASelect Series3.1 USB-C to USB-A Gen\u00a02Select Series3.1 USB-C to USB-A Female Gen\u00a01Available\u00a0ColorsConnector\u00a0TypeUSB-C\u00aeUSB-CUSB-CUSB-CUSB-CUSB-CUSB-CUSB-AUSB-CUSB-AUSB-CUSB-A FemaleUsed\u00a0ForTablets, Phones, USB-C Chargers, Game SystemsUSB-C Laptops, USB-C Chargers, Game SystemsUSB-C Laptops, USB-C Chargers, Game SystemsLaptops, Desktops, USB-C Chargers, Power BanksLaptops, Desktops, USB-C Chargers, Power BanksKeyboards, USB Flash Drives, Mice, Smart PhonesData\u00a0Transfer\u00a0RateHigh Speed USB 2.0480 MbpsSuperSpeed USB 3.15 GbpsSuperSpeed+ USB 3.110 GbpsHigh Speed USB 2.0480 MbpsSuperSpeed+ USB 3.110 GbpsSuperSpeed USB 3.15 GbpsMaximum\u00a0Power3 Amps / 5 Amps3 Amps5 Amps3 Amps3 Amps3 AmpsAvailable\u00a0Lengths1.6 ft (0.5m)3.3 ft (1m)6.6 ft (2m)9.8 ft (3m)13.1 ft (4m)6.6 ft (2m)1.6 ft (0.5m)3.3 ft (1m)1.6 ft (0.5m)3.3 ft (1m)6.6 ft (2m)9.8 ft (3m)13.1 ft (4m)3.3 ft (1m)6 in (15cm)Wire\u00a0Gauge30AWG / 26AWG30AWG30AWG26AWG30AWG30AWGUSB-IF\u2122\u00a0Certified\u2713\u2713\u2713\u2713\u2713\u2713Buy with ConfidenceWith Monoprice's Lifetime Warranty you can rest assured we stand behind our products and our customers. Additionally, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service & SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0USB\u2011C\u00ae, USB\u2011C\u00ae, and The SuperSpeed USB 10 Gbps Trident Logo are registered trademarks of USB Implementers Forum, Inc. USB\u2011IF\u2122 is a trademark of USB Implementers Forum, Inc. Updated Jan 27, 2020 \u00a0Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0 ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/279211.jpg\",\"https://images.monoprice.com/productlargeimages/279212.jpg\",\"https://images.monoprice.com/productlargeimages/279213.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.59,
+      "sku": "27921",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=27921",
+      "gtin14": "889028068786"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Essentials USB-C to USB-C 3.1 Gen 1 Cable - 5Gbps  3A  30AWG  White  2m (6.6ft)",
+      "ratingCount": "70",
+      "reviewCount": "46",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "27921",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/27921"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

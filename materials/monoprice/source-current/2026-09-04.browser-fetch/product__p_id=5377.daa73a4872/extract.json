@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat5e Punch Down Keystone Jack for 22-24AWG Solid Wire Yellow",
+    "@id": "https://www.monoprice.com/product?p_id=5377",
+    "url": "https://www.monoprice.com/product?p_id=5377",
+    "description": "Easy to use, modular RJ45 Keystone jack. 110 type IDC. 90 degree connection. To be used with keystone wall plate or panel. Wiring diagram next to wire clips.\u00a0Note that the width of the RJ45 keystones is such that two cannot be used side-by-side in the same wall-plate.Click the following link for an installation guide:https://www.monoprice.com/manual/How%20to%20-%20Punchdown%20keystones.pdf*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, improvements and physical design changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.\u00a0\u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/53771.jpg\",\"https://images.monoprice.com/productlargeimages/53772.jpg\",\"https://images.monoprice.com/productlargeimages/53773.jpg\",\"https://images.monoprice.com/productlargeimages/53774.jpg\",\"https://images.monoprice.com/productlargeimages/53775.jpg\",\"https://images.monoprice.com/productlargeimages/53776.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "5377",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5377",
+      "gtin14": "844660053774"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat5e Punch Down Keystone Jack for 22-24AWG Solid Wire Yellow",
+      "ratingCount": "635",
+      "reviewCount": "10",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "5377",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/5377"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

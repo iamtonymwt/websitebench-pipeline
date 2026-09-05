@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice BNC Female to RCA Female Adapter - Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=4126",
+    "url": "https://www.monoprice.com/product?p_id=4126",
+    "description": "Monoprice offers precision crafted, premium quality, gold plated coaxial connector adapters for every situation.\u00a0All of our adapters feature\u00a0high grade materials and quality\u00a0connectors that provide secure connections.\u00a0Each of these are rated to smoothly transfer 75ohm signals.This connector has a female BNC connector and a female\u00a0RCA jack.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/41261.jpg\",\"https://images.monoprice.com/productlargeimages/41262.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "4126",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4126",
+      "gtin14": "844660041269"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice BNC Female to RCA Female Adapter - Gold Plated",
+      "ratingCount": "15",
+      "reviewCount": "15",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters"
+    },
+    {
+      "name": "4126",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters/4126"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

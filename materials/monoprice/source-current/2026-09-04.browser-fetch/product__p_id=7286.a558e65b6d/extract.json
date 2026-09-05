@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 RJ45 Modular Inline Coupler White",
+    "@id": "https://www.monoprice.com/product?p_id=7286",
+    "url": "https://www.monoprice.com/product?p_id=7286",
+    "description": "Reliable coupler for linking two CAT6 Ethernet cable together.\u00a0 Maintains low signal cross talk specifications of category 6 standard for transparent transition from one cable to another.\u00a0 Marked, \"Cat 6\" for easy identification.RJ45 8 pin female to female straight coupling.Support Files: Tech Drawing (Apr 6, 2026)Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72861.jpg\",\"https://images.monoprice.com/productlargeimages/72862.jpg\",\"https://images.monoprice.com/productlargeimages/72863.jpg\",\"https://images.monoprice.com/productlargeimages/72864.jpg\",\"https://images.monoprice.com/productlargeimages/72865.jpg\",\"https://images.monoprice.com/productlargeimages/72866.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "7286",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7286",
+      "gtin14": "844660072867"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 RJ45 Modular Inline Coupler White",
+      "ratingCount": "140",
+      "reviewCount": "78",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Inline Couplers",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/inline-couplers"
+    },
+    {
+      "name": "7286",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/inline-couplers/7286"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

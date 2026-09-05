@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Replacement Monolith 12in Subwoofer Driver (24457 42847 42848 38544)",
+    "@id": "https://www.monoprice.com/product?p_id=44533",
+    "url": "https://www.monoprice.com/product?p_id=44533",
+    "description": "",
+    "image": "[]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 249.99,
+      "sku": "44533",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44533",
+      "gtin14": "889028190005"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Replacement Monolith 12in Subwoofer Driver (24457 42847 42848 38544)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Subwoofers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers"
+    },
+    {
+      "name": "44533",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers/44533"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

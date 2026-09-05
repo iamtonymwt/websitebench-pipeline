@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2-Gang 7.2 Surround Sound Distribution Wall Plate",
+    "@id": "https://www.monoprice.com/product?p_id=6707",
+    "url": "https://www.monoprice.com/product?p_id=6707",
+    "description": "This pre\u2011configured plate comes with front and back gold plated push\u2011pin banana plug connectors.Features: Eliminates tedious work and decreases labor cost by 20%No wire pull\u2011outsAutomatic conductor adjustment ensures perfect conductivity every timeConnector labeling simplifies room setup and configuration7 front and rear banana plug connection pairs for 7 speakers2 front and rear RCA connections for 2 subwoofersCan accept bare wire connections on both the front and rear of the plateMeasures 3.8\" x 3.6\"Notes: Not compatible with DUAL banana plugs, such as P/Ns 2944 and 2945. Works fine with individual single banana plugs, such as P/Ns 2801 and 2943.The color indicated can vary in tone and/or hue between production runs and manufacturing facilities. The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice\u2122 or any other vendor. Individual pieces may also vary very slightly in color from each other.Requires low voltage mounting bracket , such as P/N 7063, available separately.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Dec 22, 2021 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/67071.jpg\",\"https://images.monoprice.com/productlargeimages/67072.jpg\",\"https://images.monoprice.com/productlargeimages/67073.jpg\",\"https://images.monoprice.com/productlargeimages/67074.jpg\",\"https://images.monoprice.com/productlargeimages/67075.jpg\",\"https://images.monoprice.com/productlargeimages/67076.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "6707",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=6707",
+      "gtin14": "844660067078"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2-Gang 7.2 Surround Sound Distribution Wall Plate",
+      "ratingCount": "40",
+      "reviewCount": "40",
+      "ratingValue": "3.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "6707",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/6707"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

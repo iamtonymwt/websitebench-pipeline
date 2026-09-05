@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8in 28AWG High Speed HDMI With Ethernet Male to Female Port Saver Black",
+    "@id": "https://www.monoprice.com/product?p_id=6061",
+    "url": "https://www.monoprice.com/product?p_id=6061",
+    "description": "This Port Saver helps to put less stress on the internal ports of your devices. Very snug fit which will help to prevent HDMI\u00ae connection problems of having cables come loose.Monoprice HDMI\u00ae cables\u00a0are made with\u00a0COPARTNER\u00a0 brand UL certified cable bodies.\u00a0 Copartner is one of the largest and most well respected producers of raw cabling in the industry.HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/60611.jpg\",\"https://images.monoprice.com/productlargeimages/60612.jpg\",\"https://images.monoprice.com/productlargeimages/60613.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.59,
+      "sku": "6061",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6061",
+      "gtin14": "844660060611"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8in 28AWG High Speed HDMI With Ethernet Male to Female Port Saver Black",
+      "ratingCount": "61",
+      "reviewCount": "61",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "HDMI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters"
+    },
+    {
+      "name": "6061",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters/6061"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

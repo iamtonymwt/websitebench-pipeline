@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 100-Watt Rotary Impedance Matching Speaker Volume Control with Color Kit",
+    "@id": "https://www.monoprice.com/product?p_id=38172",
+    "url": "https://www.monoprice.com/product?p_id=38172",
+    "description": "This Impedance Matching Volume Control allows you to connect multiple speaker pairs to a single power amplifier or receiver. It increases (or decreases) the impedance of the connected speaker pair to ensure that the overall impedance level presented to the amplifier is high enough to prevent damage to the amplifier. It can support amplifiers with up to 100 watts of output power and fits into standard single\u2011gang low\u2011voltage junction boxes or mounting brackets.Support Files: Quick Install Guide (Jul 3, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 9, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381721.jpg\",\"https://images.monoprice.com/productlargeimages/381722.jpg\",\"https://images.monoprice.com/productlargeimages/381723.jpg\",\"https://images.monoprice.com/productlargeimages/381724.jpg\",\"https://images.monoprice.com/productlargeimages/381725.jpg\",\"https://images.monoprice.com/productlargeimages/381726.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 35.99,
+      "sku": "38172",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38172",
+      "gtin14": "889028123225"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 100-Watt Rotary Impedance Matching Speaker Volume Control with Color Kit",
+      "ratingCount": "9",
+      "reviewCount": "2",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38172",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38172"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

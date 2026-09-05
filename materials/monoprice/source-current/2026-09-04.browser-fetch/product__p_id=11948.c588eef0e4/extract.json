@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium Home Theater Center Channel Speaker Black",
+    "@id": "https://www.monoprice.com/product?p_id=11948",
+    "url": "https://www.monoprice.com/product?p_id=11948",
+    "description": "Get a great sounding center channel speaker to upgrade your current center speaker or to add a second to your system using this Premium Home Theater Center Channel Speaker from Monoprice\u2122!This speaker is identical to the center channel speaker included in our Premium 5.1\u2011Channel Home Theater Speaker System (PID 10565). It features a 3\" polypropylene mid\u2011range driver and a 0.75\" aluminum dome tweeter. It can handle up 100 watts of power and has an impedance of 8 ohms.The speaker handles frequencies from 110Hz ~ 20kHz \u00b13dB, with the crossover between the mid\u2011range and tweeter drivers set to 3.5kHz. It measures about 4.3\" x 10.2\" x 4.3\" (HWD) and weighs 3.0 lbs.Support Files: User's Manual (May 8, 2014)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 26, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/119481.jpg\",\"https://images.monoprice.com/productlargeimages/119482.jpg\",\"https://images.monoprice.com/productlargeimages/119483.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "11948",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=11948",
+      "gtin14": "757901820021"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium Home Theater Center Channel Speaker Black",
+      "ratingCount": "50",
+      "reviewCount": "50",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Center Channel Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/center-channel-speakers"
+    },
+    {
+      "name": "11948",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/center-channel-speakers/11948"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "4K60 Video Extender with HDMI up to 70m Over a Single CAT6/6a Ethernet Cable",
+    "@id": "https://www.monoprice.com/product?p_id=48142",
+    "url": "https://www.monoprice.com/product?p_id=48142",
+    "description": "Monoprice\u21224K60 Video Extender with HDMI\u00ae and IR Control, Up to 70m Over a Single Cat5e/6/6A CableExtend 4K HDMI video and IR signals up to 70 meters over Ethernet cableExtend your Ultra HD 4K HDMI\u00ae\u2011equipped display device over standard Ethernet cable up to 230 feet, with zero latency.The 4K60 Video Extender with HDMI enables the transmission of Ultra HD video signals and IR control signals up to 70 meters over a single Cat5e, Cat6, or Cat6A cable. The high\u2011resolution, uncompressed video makes it an ideal solution for extending displays in A/V systems, where the receiver and video components are mounted in separate areas. Additionally, it is highly effective for use in digital signage systems, such as restaurant menu boards, hospitality displays, educational facilities, and corporate conference rooms.This device facilitates the transmission of stunning 4K video and audio signals up to 70 meters with zero latency and uncompressed quality. It supports resolutions up to 4K60Hz 4:4:4, delivering vibrant color and exceptional clarity, thereby enhancing the viewing experience.Furthermore, the EDID\u00ae copy pass\u2011through function simplifies device and display compatibility. The extender also features bi\u2011directional IR, which allows equipment control from either end and PoC (Power\u2011 over\u2011 Cable), reducing cable clutter and providing convenient power distribution.Enhance your audiovisual setup with this reliable and high\u2011performance technology.Extend 4K HDMI\u00ae video up to 70 meters over a Cat5e/6/6A cableSupports full 4K@60Hz resolution at 12\u2011bit 4:4:4 and HDCP\u2122 2.2 as specified in HDMI 2.0b18 Gbps bandwidth supporting up to 4K60Supports HDR, HDR10LPCM, Dolby Atmos/Digital/Plus/Ex, Dolby True HD, DTS, DTS\u2011HD Master AudioPass\u2011through EDID ensures seamless compatibility between sources and displaysBi\u2011directional IR control signal pass\u2011throughSupports PoC (Power\u2011over\u2011Cable) function from Transmitter to Receiver\u00a0GOING THE DISTANCEThe extender offers an impressive transmission distance of up to 70m/230ft, ensuring reliable signal delivery without any noticeable latency. It combines advanced technology, such as uncompressed transmission and EDID copy pass\u2011through, to provide a seamless extender solution.\u00a0VIVID VIDEOEnjoy stunning video quality with support for up to 4K2K@60Hz resolution, HDR, and HDR10. The extender supports various video codecs, including RGB/YCbCr 4:4:4, and offers a wide range of color spaces and color depths for vibrant and lifelike visuals.\u00a0IMMERSIVE AUDIOExperience true high\u2011quality audio with support for LPCM 7.1, Dolby True HD, DTS\u2011HD Master, Dolby 5.1, DTS 5.1, and PCM 2.0 audio formats. The extender also features ARC to SPDIF audio extraction.\u00a0CONTROL FREAKTake full control with bi\u2011directional IR control signal pass\u2011through, allowing seamless control of connected devices. The extender provides flexibility and convenience in managing your audiovisual setup.\u00a0PACKAGE CONTENTS\u2022 1x 4K Video Transmitter\u2022 1x 4K Video Receiver\u2022 1x IR Emitter\u2022 1x IR Receiver\u2022 2x Velcro Strips\u2022 1x Power Adapter (12VDC, 1A)\u2022 1x User Manual\u00a0Support Files: Manual (Jan 22, 2026)Tech Drawing (Jun 3, 2026)Sales Sheet (Jun 5, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing Administrator, Inc. HDCP\u2122 is a trademark of Digital Content Protection, LLC. EDID\u2122 is a trademark of the Video Electronics Standards Association (VESA). Updated Aug 11, 2025 WARNING: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/481421.jpg\",\"https://images.monoprice.com/productlargeimages/481422.jpg\",\"https://images.monoprice.com/productlargeimages/481423.jpg\",\"https://images.monoprice.com/productlargeimages/481424.jpg\",\"https://images.monoprice.com/productlargeimages/481425.jpg\",\"https://images.monoprice.com/productlargeimages/481426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 119.99,
+      "sku": "48142",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=48142",
+      "gtin14": "889028216729"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "4K60 Video Extender with HDMI up to 70m Over a Single CAT6/6a Ethernet Cable",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Extenders",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders"
+    },
+    {
+      "name": "48142",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders/48142"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

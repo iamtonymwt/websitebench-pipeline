@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Sycamore Outdoor Burial 8in Subwoofer with Dual Voice Coil (each)",
+    "@id": "https://www.monoprice.com/product?p_id=31035",
+    "url": "https://www.monoprice.com/product?p_id=31035",
+    "description": "With all of the outdoor speakers available what makes our Sycamore 2.1 system stand out? Simply put, it is their great sound and ease of installation. The weather Sycamore 2.1 system features an 8\" passive subwoofer and a pair of 2.5\" satellite speakers. Unlike other passive systems, where wires need to be run from the amplifier to each individual speaker, installation is simplified by running only a single speaker wire to the subwoofer, then shorter wires from the subwoofer to the individual satellite speakers. The subwoofer has a 12dB crossover that splits the audio signal so it uses only frequencies below 200Hz and sends all frequencies above 200Hz to the satellites. The system is designed to be powered by amplifiers with 50 to 200 watts of power, making it well\u2011suited for most home theater audio systems. Need more bass? Add another subwoofer. Need more coverage for a large room? Add another pair of satellite speakers. It doesn't get any more simple than that.True 2.1 SystemHeard Not SeenEasy InstallModularTrue 2.1 System: The subwoofer employs a 2\u2011way, 12db crossover at 200Hz, so it uses all frequencies below 200Hz and sends all frequencies above 200Hz to the satellite speakers.Heard Not Seen: With the body of the subwoofer and the speaker wires buried in the ground, the system fills your yard or patio with great sound, while maintaining a low profile that doesn't look out of place in your yard.Easy Install: Rather than needing to run separate wires from the amplifier to each speaker, only a single, 4\u2011conductor wire needs to run from the amp to the subwoofer, then a shorter pair of 2\u2011conductor wires run from the sub to the satellites.Modular: The system is designed to be extended by using additional subwoofers and/or satellite speakers. Need more bass? Add another subwoofer. Need more coverage for a large room? Add another pair of satellite speakers. It doesn't get any more simple than that.\u00a0Great Sound in the GroundEnjoy rich and full sound in your yard or patio. The buried subwoofer and low profile satellites keep the focus on the sound, not the sights. P/N 31034Sycamore Outdoor 2.1 Speaker System with 8\u2011inch Subwoofer and 2.5\u2011inch Satellites (3 piece)  P/N 31035Sycamore Outdoor Burial 8\u2011inch Subwoofer with Dual Voice Coil (each)  P/N 31037Sycamore Outdoor 2.5\u2011inch Satellite Garden Speakers (pair) Support Files: User's Manual (Apr 25, 2018)Updated Feb 18, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/310351.jpg\",\"https://images.monoprice.com/productlargeimages/310352.jpg\",\"https://images.monoprice.com/productlargeimages/310353.jpg\",\"https://images.monoprice.com/productlargeimages/310354.jpg\",\"https://images.monoprice.com/productlargeimages/310355.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 299.99,
+      "sku": "31035",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=31035",
+      "gtin14": "889028077467"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Sycamore Outdoor Burial 8in Subwoofer with Dual Voice Coil (each)",
+      "ratingCount": "20",
+      "reviewCount": "20",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Outdoor Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/outdoor-speakers"
+    },
+    {
+      "name": "31035",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/outdoor-speakers/31035"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

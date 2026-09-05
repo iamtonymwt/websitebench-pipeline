@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HDMI to VGA Kit",
+    "@id": "https://www.monoprice.com/product?p_id=11566",
+    "url": "https://www.monoprice.com/product?p_id=11566",
+    "description": "Convert the HDMI\u00ae video from your laptop or desktop PC or Mac to VGA for use with a projector using this HDMI to VGA Kit from Monoprice\u2122!This kit comes with an small HDMI to VGA converter and an HDMI cable. The converter measures 0.9\" x 0.5\" x 1.7\" (23 x 12 x 42 mm) and draws all the power it needs from the HDMI bus. The included 3\u2011foot HDMI cable features an ultra\u2011slim design with connectors that measure only 0.8\" wide (21mm) and 0.5\" (12mm) thick, so it won't block any adjacent ports on a laptop.IMPORTANT! This adapter does NOT support HDCP\u2122, so this will not work in a home theater system and will not support playback of HDCP protected DVDs and Blu\u2011ray Discs\u2122 from your computer. \u00a0Support Files: Conference AV Solutions Comparison Matrix (Mar 29, 2021)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. USB Type-C\u00ae and USB-C\u00ae are registered trademarks of USB Implementers Forum. HDCP\u2122 is a trademark of Digital Content Protection LLC. HDBaseT\u2122 and the HDBaseT Alliance logo are trademarks of the HDBaseT Alliance. Blu-ray Disc\u2122, Blu-ray\u2122, and the logos are trademarks of the Blu-ray Disc Association. Updated Mar 29, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/115661.jpg\",\"https://images.monoprice.com/productlargeimages/115662.jpg\",\"https://images.monoprice.com/productlargeimages/115663.jpg\",\"https://images.monoprice.com/productlargeimages/115664.jpg\",\"https://images.monoprice.com/productlargeimages/115665.jpg\",\"https://images.monoprice.com/productlargeimages/115666.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.99,
+      "sku": "11566",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=11566",
+      "gtin14": "757901815775"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HDMI to VGA Kit",
+      "ratingCount": "58",
+      "reviewCount": "58",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Converters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-converters"
+    },
+    {
+      "name": "11566",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-converters/11566"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

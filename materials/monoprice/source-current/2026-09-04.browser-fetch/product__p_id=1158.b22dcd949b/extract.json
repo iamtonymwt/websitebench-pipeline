@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DB25M/RJ-45 Modular Adapter - Gray",
+    "@id": "https://www.monoprice.com/product?p_id=1158",
+    "url": "https://www.monoprice.com/product?p_id=1158",
+    "description": "DIY solution for using 8 conductor CAT5 cables to extend your Parallel (DB25) connections.8 pin adapter.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/11581.jpg\",\"https://images.monoprice.com/productlargeimages/11582.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "1158",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1158",
+      "gtin14": "844660011583"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DB25M/RJ-45 Modular Adapter - Gray",
+      "ratingCount": "8",
+      "reviewCount": "8",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Gender Changers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers"
+    },
+    {
+      "name": "1158",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers/1158"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

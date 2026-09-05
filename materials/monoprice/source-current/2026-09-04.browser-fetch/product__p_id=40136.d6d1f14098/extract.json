@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C21 12AWG 20A/2500W SJT 250V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=40136",
+    "url": "https://www.monoprice.com/product?p_id=40136",
+    "description": "This heavy\u2011duty IEC 60320 C20 to IEC 60320 C21 extension cord features 12 AWG conductors, making it suitable for high\u2011performance computers and network devices. It is a reliable solution for large server applications that require a higher\u2011rated, heavier\u2011gauge power cord. The C21 connector has two beveled corners and is rated to a higher temperature rating. The C22 male inlet is used primarily on Cisco\u00ae and Juniper\u00ae Networks equipment to a UPS system or PDU, or to replace or upgrade a standard power cord provided by the device's manufacturer. This 12 AWG cable is designed to carry up to a 20 amp/2500 watt, 125 volt load.Features: Connect Cisco\u00ae or Juniper\u00ae Networks devices to a PDU or UPS in a data centerRecommended for powering servers, routers, and other high\u2011output network devicesThick 12 AWG conductors manage the high power levels required for larger equipmentExtend the length of an existing power cord for more flexibilityDesigned for high\u2011density data environments\u00a0Plug\u00a0TypeIEC 60320 C20Receptacle\u00a0TypeIEC 60320 C21Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge12 AWGMaximum\u00a0Current20 ampsCertificationsETL, cETL, RoHS, REACHMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Cisco\u00ae is a registered trademark or trademark of Cisco Systems, Inc. and/or its affiliates in the United States and certain other countries. Juniper\u00ae is a registered trademark of Juniper Networks, Inc. in the United States and other countries. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jul 14, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/401361.jpg\",\"https://images.monoprice.com/productlargeimages/401362.jpg\",\"https://images.monoprice.com/productlargeimages/401363.jpg\",\"https://images.monoprice.com/productlargeimages/401364.jpg\",\"https://images.monoprice.com/productlargeimages/401365.jpg\",\"https://images.monoprice.com/productlargeimages/401366.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.89,
+      "sku": "40136",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40136",
+      "gtin14": "889028142929"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C21 12AWG 20A/2500W SJT 250V Black 6ft",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "40136",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/40136"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

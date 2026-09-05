@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3ft 32AWG Mini DisplayPort to DVI Cable - White",
+    "@id": "https://www.monoprice.com/product?p_id=5998",
+    "url": "https://www.monoprice.com/product?p_id=5998",
+    "description": "Make direct Mini DisplayPort to DVI connections without the hassle of using an adapter.\u00a0 Monoprice is proud to be among the first to offer a direct connect solution for connecting your Mac to your DVI equiped HDTV or monitor.\u00a0 This is a low profile and highly flexible 32AWG cable.\u00a0Supports Full HD 1080p resolution.Full EMI and RF shielding.Passes HDCP compliant signals.\u00a0\u00a0Note* Some models of Mac\u2019s the connector may block access to the adjacent USB accessory port.\u00a0\u00a0*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/59981.jpg\",\"https://images.monoprice.com/productlargeimages/59982.jpg\",\"https://images.monoprice.com/productlargeimages/59983.jpg\",\"https://images.monoprice.com/productlargeimages/59984.jpg\",\"https://images.monoprice.com/productlargeimages/59985.jpg\",\"https://images.monoprice.com/productlargeimages/59986.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "5998",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5998",
+      "gtin14": "844660059981"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3ft 32AWG Mini DisplayPort to DVI Cable - White",
+      "ratingCount": "378",
+      "reviewCount": "137",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "5998",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/5998"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

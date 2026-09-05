@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6-Outlet Rotating Wall Tap Surge Protector 2160 Joules Clamping Voltage 500V",
+    "@id": "https://www.monoprice.com/product?p_id=15876",
+    "url": "https://www.monoprice.com/product?p_id=15876",
+    "description": "Obsidian\u2122 Series Rotating Surge Protectors safeguard your electronic devices from power surges and spikes. The patented rotating outlet design allows you to plug in bulky adapters without blocking adjacent outlets. This 2160 Joule surge protector features 6 surge protected outlets that provide reliable protection for your workstations, printers, broadband modems, home theater systems, and everyday household electronics. Simply plug the surge protector into any AC wall outlet and connect your device to keep it safe from surges, lightning strikes, and AC contamination.\u00a0Protection IndicationProtection Indication: LED indicators let you know when the surge protector is plugged into a properly rounded AC outlet and the surge protection status.\u00a0\u00a0WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Tech Drawing (Oct 20,2025)Monoprice\u2122, Obsidian\u2122, and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. Updated Nov 25, 2020 \u00a0Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/158761.jpg\",\"https://images.monoprice.com/productlargeimages/158762.jpg\",\"https://images.monoprice.com/productlargeimages/158763.jpg\",\"https://images.monoprice.com/productlargeimages/158764.jpg\",\"https://images.monoprice.com/productlargeimages/158765.jpg\",\"https://images.monoprice.com/productlargeimages/158766.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 32.29,
+      "sku": "15876",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15876",
+      "gtin14": "889028039854"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6-Outlet Rotating Wall Tap Surge Protector 2160 Joules Clamping Voltage 500V",
+      "ratingCount": "66",
+      "reviewCount": "66",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Wall Tap Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/wall-tap-surge-protectors"
+    },
+    {
+      "name": "15876",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/wall-tap-surge-protectors/15876"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Keystone Jack HDMI Female to Female Coupler Adapter White",
+    "@id": "https://www.monoprice.com/product?p_id=6852",
+    "url": "https://www.monoprice.com/product?p_id=6852",
+    "description": "Include an HDMI\u00ae connection in your custom audio-video wall plate using this HDMI Coupler Keystone Jack from Monoprice!This keystone jack is designed to fit any standard keystone wall plate. It features a gold-plated female connector on each end, allowing you run a CL2/In-wall rated HDMI cable through the wall.This keystone has no effect on the signal and therefore supports all High Speed HDMI features, including 3D video, 4K video, and high-definition multichannel compressed audio.Support Files: Dimensions Diagram (Apr 18, 2013)HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/68521.jpg\",\"https://images.monoprice.com/productlargeimages/68522.jpg\",\"https://images.monoprice.com/productlargeimages/68523.jpg\",\"https://images.monoprice.com/productlargeimages/68524.jpg\",\"https://images.monoprice.com/productlargeimages/68525.jpg\",\"https://images.monoprice.com/productlargeimages/68526.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "6852",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=6852",
+      "gtin14": "844660068525"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Keystone Jack HDMI Female to Female Coupler Adapter White",
+      "ratingCount": "139",
+      "reviewCount": "129",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-keystones"
+    },
+    {
+      "name": "6852",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-keystones/6852"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

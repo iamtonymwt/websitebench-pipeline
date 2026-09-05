@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RJ12 6 Conductor Modular Bulk Cable UL 26AWG Stranded Flat 1000ft Silver",
+    "@id": "https://www.monoprice.com/product?p_id=956",
+    "url": "https://www.monoprice.com/product?p_id=956",
+    "description": "Avoid having excess phone cable lying around by building your own cables to the exact length needed using this 6 Conductor Modular Bulk Cable from Monoprice\u2122!Features: RJ12 Phone cableFlat cableSilver color6 conductors26AWG stranded pure bare copper conductorsUL\u00ae listed1000 foot rollMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated 30 Jun 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/9561.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 200.69,
+      "sku": "956",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=956",
+      "gtin14": "844660009566"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RJ12 6 Conductor Modular Bulk Cable UL 26AWG Stranded Flat 1000ft Silver",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "Phone Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/phone-cables"
+    },
+    {
+      "name": "956",
+      "url": "https://www.monoprice.com/category/cables/data-cables/phone-cables/956"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice High-Quality Gold-Plated Banana Plugs for Speaker Wire - 5 Pairs Closed Screw Type",
+    "@id": "https://www.monoprice.com/product?p_id=9436",
+    "url": "https://www.monoprice.com/product?p_id=9436",
+    "description": "Banana plugs make speaker installation a breeze. They are designed for use with amplifiers or speakers that use traditional binding posts. Not only is it easier to make the connection on the back of your amp, it is safer, with no chance of stray wire strands creating a short across contacts.These high quality plugs are the closed screw type and can accept bare wire or spades. They are sized to fit speaker wire from 12 to 18 AWG. Each pair comes with one plug color coded red and the other coded black, for easy polarity identification.The plug body is made of brass, which is then plated with gold to help prevent corrosion and ensure smooth connections.This multi-pack includes five pairs of plugs, perfect for connecting the satellite and center channel speakers in a 5.1 channel setup.Features: Can accept bare wire or spadesCan accept 12 to 18 AWG speaker wiresColor coded black/red rings for maintaining proper polaritySecure, positive contact with binding postsCorrosion resistant, 24K gold plated brass plugEach order includes FIVE pairs (10 plugs total)\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/94361.jpg\",\"https://images.monoprice.com/productlargeimages/94362.jpg\",\"https://images.monoprice.com/productlargeimages/94363.jpg\",\"https://images.monoprice.com/productlargeimages/94364.jpg\",\"https://images.monoprice.com/productlargeimages/94365.jpg\",\"https://images.monoprice.com/productlargeimages/94366.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "9436",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9436",
+      "gtin14": "844660094364"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice High-Quality Gold-Plated Banana Plugs for Speaker Wire - 5 Pairs Closed Screw Type",
+      "ratingCount": "2013",
+      "reviewCount": "533",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Banana Plugs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs"
+    },
+    {
+      "name": "9436",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs/9436"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

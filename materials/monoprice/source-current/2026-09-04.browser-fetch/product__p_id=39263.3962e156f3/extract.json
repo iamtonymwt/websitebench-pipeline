@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Ethernet to RS232 Serial Controller for RS232 Control Over IP",
+    "@id": "https://www.monoprice.com/product?p_id=39263",
+    "url": "https://www.monoprice.com/product?p_id=39263",
+    "description": "This Wi\u2011Fi\u00ae/LAN to RS\u2011232/RS\u2011485 Converter allows for remote access, configuration, and the ability to control any RS\u2011232 or RS\u2011485 serial device over a wired Ethernet or Wi\u2011Fi network connection. It supports the WEP, WPA\u2011PSK, WPA2\u2011PSK, and WAPI security protocols, as well as the WEP64, WEP128, TKIP, and AES encryption standards. It has extremely low latency and is suitable for use in a battery powered system.Features: Can connect to an existing wired Ethernet or wireless Wi\u2011Fi\u00ae networkCan control any RS\u2011232 or RS\u2011485 deviceSupports the WEP, WPA\u2011PSK, WPA2\u2011PSK, and WAPI security protocolsSupports the WEP64, WEP128, TKIP, and AES encryption standardsCan be configured as a Wi\u2011Fi router or access pointCompatible with Monoprice 10761, 44518 and 44519 Home Audio Multi\u2011Zone Controller Amplifiers\u00a0Support Files: User's Manual (May 28, 2020)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Wi\u2011Fi\u00ae and Wi\u2011Fi Alliance\u00ae are registered trademarks of Wi\u2011Fi Alliance. Updated Mar 9, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/392631.jpg\",\"https://images.monoprice.com/productlargeimages/392632.jpg\",\"https://images.monoprice.com/productlargeimages/392633.jpg\",\"https://images.monoprice.com/productlargeimages/392634.jpg\",\"https://images.monoprice.com/productlargeimages/392635.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 47.99,
+      "sku": "39263",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39263",
+      "gtin14": "889028134320"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Ethernet to RS232 Serial Controller for RS232 Control Over IP",
+      "ratingCount": "8",
+      "reviewCount": "8",
+      "ratingValue": "3.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "39263",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/39263"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

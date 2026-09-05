@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice SPB-100 24in x 12in Adjustable Guitar Pedal Board w/ Carry Bag and Adhesive Fasteners - X-Large",
+    "@id": "https://www.monoprice.com/product?p_id=625869",
+    "url": "https://www.monoprice.com/product?p_id=625869",
+    "description": "SPB guitar pedal boards are made of aluminum and come in 4 different sizes (small, medium, large, and X-large). Made with musicians in mind, Stage Right\u2122 pedal boards combine affordability and durability, with a simple and portable design. These are no-frills boards for the gigging musician.Featuring a universal design, SPB pedal boards include hook and loop adhesive fasteners that securely mount any size and shape guitar pedal. This means you won't need anything besides board and pedals to assemble. In addition, all SPB models and sizes include a carrying bag for easy and secure transportation.Features: Lightweight and durable aluminum construction, made with the gigging musicians in mindIncludes hook and loop adhesive fasteners for universal and easy pedal mountingSPB pedal boards feature a portable design and include a carrying bag for easy transportStage Right\u2122 pedal boards come in small, medium, large, and X-large sizesMeasures 24.0\" x 12.0\" x 2.8\"Includes a carrying bag and hook and loop adhesive fastenersBlack finishStage Right\u2122 and the Stage Right logo are trademarks of Monoprice Inc. Updated Apr 23, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6258691.jpg\",\"https://images.monoprice.com/productlargeimages/6258692.jpg\",\"https://images.monoprice.com/productlargeimages/6258693.jpg\",\"https://images.monoprice.com/productlargeimages/6258694.jpg\",\"https://images.monoprice.com/productlargeimages/6258695.jpg\",\"https://images.monoprice.com/productlargeimages/6258696.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 89.99,
+      "sku": "625869",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625869",
+      "gtin14": "889028151518"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice SPB-100 24in x 12in Adjustable Guitar Pedal Board w/ Carry Bag and Adhesive Fasteners - X-Large",
+      "ratingCount": "20",
+      "reviewCount": "20",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories"
+    },
+    {
+      "name": "625869",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories/625869"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

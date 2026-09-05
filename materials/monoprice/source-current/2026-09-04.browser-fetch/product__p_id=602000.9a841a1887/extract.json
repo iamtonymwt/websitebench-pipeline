@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Screw Thread Adapter for Microphone Stand (5/8in Male to 3/8in Female)",
+    "@id": "https://www.monoprice.com/product?p_id=602000",
+    "url": "https://www.monoprice.com/product?p_id=602000",
+    "description": "While many things are different between Europe and the US, the difference between microphone stands can be vexing for the traveling musician. While the US uses 5/8\" threads for mic stand accessories, they use 3/8\" in the EU.This little adapter solves the problem by adapting 3/8\" stands to accept 5/8\" stand accessories (i.e. mic clips & shock mounts). Get a couple and throw them into your gig bag, so you'll have them when you need them.                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6020001.jpg\",\"https://images.monoprice.com/productlargeimages/6020002.jpg\",\"https://images.monoprice.com/productlargeimages/6020003.jpg\",\"https://images.monoprice.com/productlargeimages/6020004.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "602000",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=602000",
+      "gtin14": "670541337363"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Screw Thread Adapter for Microphone Stand (5/8in Male to 3/8in Female)",
+      "ratingCount": "22",
+      "reviewCount": "22",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Instrument Stands & Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories"
+    },
+    {
+      "name": "Stand Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/stand-accessories"
+    },
+    {
+      "name": "602000",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/stand-accessories/602000"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

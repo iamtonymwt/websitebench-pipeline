@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
+    "@id": "https://www.monoprice.com/product?p_id=21913",
+    "url": "https://www.monoprice.com/product?p_id=21913",
+    "description": "Right angle banana plugs make speaker installations easy. They are designed for use with amplifiers or speakers that use binding posts in spaces where a traditional banana plug will not fit. The right angle nature of these banana plugs minimizes the risk of cross terminal contact that may cause shorts.These high quality plugs are the closed screw type and can accept bare speaker wire from 12 to 18 AWG. Each pair comes with one plug color coded red and the other coded black, for easy polarity identification.The plug body is made of copper fitted with a ferromanganese tip. The entire plug is then plated with gold to help prevent corrosion.Features: Can accept bare wire and spadesColor coded black/red rings for maintaining proper polaritySecure, positive contact with binding postsCorrosion resistant, 24K gold plated finishCopper body construction and ferromanganese tips\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/219131.jpg\",\"https://images.monoprice.com/productlargeimages/219132.jpg\",\"https://images.monoprice.com/productlargeimages/219133.jpg\",\"https://images.monoprice.com/productlargeimages/219134.jpg\",\"https://images.monoprice.com/productlargeimages/219135.jpg\",\"https://images.monoprice.com/productlargeimages/219136.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "21913",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=21913",
+      "gtin14": "889028052099"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
+      "ratingCount": "89",
+      "reviewCount": "20",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Banana Plugs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs"
+    },
+    {
+      "name": "21913",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs/21913"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

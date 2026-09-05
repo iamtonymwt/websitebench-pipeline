@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 6FT Pop Up Privacy Tent Instant Shower Tent Portable Outdoor Rain Shelter Tent for Camp Toilet Dressing Changing Room with Carry Bag",
+    "@id": "https://www.monoprice.com/product?p_id=42712",
+    "url": "https://www.monoprice.com/product?p_id=42712",
+    "description": "Do you or someone you know suffer from frequent bathroom needs\uff1fThis is a must while traveling the open roads.It is compact, lightweight, and goes up easily.It dries quickly, folds up flat and stores easy.It has stakes that come with it to stake down.It comes with a cool carry bag that keeps it neat and together with a shoulder strap.Simply line the pot with disposable plastic bag and go. When done remove bag tie it closed place it outside and fold potty and collapse tent and store for next time.Dimensions:\u00a0Full Size : 48.82*48.82*75.98in Carry Size : \u03c622.83*2.36in Net Weight: 4.3lbPackage Includes1 x Pop Up Privacy Tent1 x Carrying Bag4 x Metal Mounting Stakes4 x Fixed Ropes\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0Warning: This product can expose you to Tris(1,3-dichloro-2-propyl) Phosphate (TDCPP), which is known to the State of California to cause cancer. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/427121.jpg\",\"https://images.monoprice.com/productlargeimages/427122.jpg\",\"https://images.monoprice.com/productlargeimages/427123.jpg\",\"https://images.monoprice.com/productlargeimages/427124.jpg\",\"https://images.monoprice.com/productlargeimages/427125.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 27.99,
+      "sku": "42712",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=42712",
+      "gtin14": "889028169193"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 6FT Pop Up Privacy Tent Instant Shower Tent Portable Outdoor Rain Shelter Tent for Camp Toilet Dressing Changing Room with Carry Bag",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "42712",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/42712"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

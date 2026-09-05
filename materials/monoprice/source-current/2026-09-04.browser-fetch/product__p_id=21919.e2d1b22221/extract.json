@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10 Pair Affinity Series 24k Gold Speaker Banana Plug",
+    "@id": "https://www.monoprice.com/product?p_id=21919",
+    "url": "https://www.monoprice.com/product?p_id=21919",
+    "description": "Monoprice Affinity\u2122 Series Banana plugs make speaker installations easy. They are designed for use with amplifiers or speakers that use binding posts.These high quality plugs feature a dual screw fastening system that can accept bare speaker wire from 10 to 18 AWG. Each pair comes with one plug color coded red and the other coded black, for easy polarity identification.The plug body is made of copper fitted with a ferromanganese tip. The entire plug is then plated with gold to help prevent corrosion.Features: Can accept bare wire and spadesColor coded black/red rings for maintaining proper polaritySecure, positive contact with binding postsCorrosion resistant, 24K gold plated finishCopper body construction and ferromanganese tipsAffinity\u2122 is a trademark of Monoprice Inc. \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/219191.jpg\",\"https://images.monoprice.com/productlargeimages/219192.jpg\",\"https://images.monoprice.com/productlargeimages/219193.jpg\",\"https://images.monoprice.com/productlargeimages/219194.jpg\",\"https://images.monoprice.com/productlargeimages/219195.jpg\",\"https://images.monoprice.com/productlargeimages/219196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 47.99,
+      "sku": "21919",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21919",
+      "gtin14": "889028052150"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10 Pair Affinity Series 24k Gold Speaker Banana Plug",
+      "ratingCount": "139",
+      "reviewCount": "52",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Banana Plugs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs"
+    },
+    {
+      "name": "21919",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs/21919"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB-C to 4x USB-A 3.0 Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=15248",
+    "url": "https://www.monoprice.com/product?p_id=15248",
+    "description": "Expand the capabilities of your USB\u2011C\u00ae equipped laptop using this 4\u2011port USB 3.0 Hub. Featuring four SuperSpeed USB 3.0 ports, you can connect external USB 1.1, 2.0, or 3.0 peripherals, such as a USB keyboard, mouse, flash drive, external hard drive, printer, USB display adapter, etc. It supports data transfer speeds up to 5Gbps and can provide USB power for charging mobile devices.4\u2011Port USB HubReversible DesignPortable4\u2011Port USB Hub: Adds four USB 3.0 Type\u2011A ports, each capable of delivering data speeds up to 5Gbps, for connecting high speed external peripherals and charging mobile devices.Reversible Design: The reversible Type\u2011C\u00ae connector is always properly oriented, eliminating a common source of frustration from trying to plug in improperly oriented Type\u2011A connectors.Portable: Small and portable, you can easily slip this adapter into your laptop case and have it ready for use wherever and whenever the need arises.Compatible with USB\u2011C equipped laptops, such as the Apple MacBook\u00ae and Google Chromebook\u2122.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB Type\u2011C\u00ae and USB\u2011C\u00ae are trademarks of USB Implementers Forum, Inc. Apple\u00ae, Mac\u00ae, and macOS\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Chromebook\u2122 is a trademark of Google Inc. Updated Oct 21, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/152481.jpg\",\"https://images.monoprice.com/productlargeimages/152482.jpg\",\"https://images.monoprice.com/productlargeimages/152483.jpg\",\"https://images.monoprice.com/productlargeimages/152484.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.99,
+      "sku": "15248",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15248",
+      "gtin14": "889028033333"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB-C to 4x USB-A 3.0 Adapter",
+      "ratingCount": "40",
+      "reviewCount": "40",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "15248",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/15248"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

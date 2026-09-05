@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Multizone Source with Bluetooth Receiver",
+    "@id": "https://www.monoprice.com/product?p_id=13358",
+    "url": "https://www.monoprice.com/product?p_id=13358",
+    "description": "The Multizone Source with Bluetooth Receiver plus the 13356 RJR\u20112 Multizone RJ45 to RCA Converter allows you to stream audio from your Bluetooth\u2011equipped device to any home or business audio system with an RCA audio input. The remote design of this Bluetooth receiver allows mounting in a convenient location near your Bluetooth audio source, and then run Cat5e/Cat6 Ethernet cable to the RJR-2 at your amplifier which eliminates interference and noise that can compromise analog audio signals over long cable runs.The Multizone Source with Bluetooth Receiver and the RJR\u20112 Multizone RJ45 to RCA Converter are perfect for use with the 10761 Monoprice 6-Zone Home Audio Multizone Controller and Amplifier Kit or other audio system. Installation is simple using a standard single\u2011gang electrical box, and the front panel fits standard decora style trim plates.The Multizone Source Keypad with Bluetooth Receiver (13358), Multizone Source with Wi-Fi Receiver and Line Input (39262) and RJR\u20112 Multizone RJ45 to RCA Converter (13356) components present an ideal opportunity for installers to add convenience to any multiroom system. The NO LOGO design increases confidence that end users will not simply look up a make and model to find it cheaper somewhere else.Features: Safely run audio long distances throughout homes or officesInterface with any brand audio systemEasy to install with standard building materialsMoney making add\u2011on opportunity for installersBluetooth 3.0+EDR compliantBuilt\u2011in high\u2011performance stereo audio codecRequires the 13356 RJR\u20112 Multizone RJ45 to RCA Converter for most audio systemsSupport Files: Installation Guide (Oct 26, 2023)Sales Sheet (May 26, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. The Bluetooth\u00ae word mark and logos are registered trademarks of Bluetooth SIG, Inc. Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/133581.jpg\",\"https://images.monoprice.com/productlargeimages/133582.jpg\",\"https://images.monoprice.com/productlargeimages/133583.jpg\",\"https://images.monoprice.com/productlargeimages/133584.jpg\",\"https://images.monoprice.com/productlargeimages/133585.jpg\",\"https://images.monoprice.com/productlargeimages/133586.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "13358",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13358",
+      "gtin14": "889028014066"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Multizone Source with Bluetooth Receiver",
+      "ratingCount": "12",
+      "reviewCount": "12",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "13358",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/13358"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

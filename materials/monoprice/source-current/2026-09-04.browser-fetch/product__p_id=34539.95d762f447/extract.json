@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Computer Case CPU Holder Thin Client Mini PC Multi-Mount",
+    "@id": "https://www.monoprice.com/product?p_id=34539",
+    "url": "https://www.monoprice.com/product?p_id=34539",
+    "description": "Free up valuable desk space and get a clutter\u2011free workstation by moving your mini PC out of the way! Attach it under your desk, secure it on your monitor mount, or bolt it directly to your monitor's VESA\u00ae attachment with the help of this computer mount.This mount gives your computer case a home that is secure, out of the way, but still within easy reach. It works particularly well with sit\u2011stand desks, allowing the computer case to move with your height\u2011adjustable workstation while keeping cables and connections attached and organized. And although your computer case is now out of the way, this mount still keeps ports accessible and within easy reach.Features: Recover desk real estateDesigned for use with sit\u2011stand desksOut of the way but within easy reachEasy access for ports and connectionsSafe and secureRated for up to 11 lbs.Works with mini PCs up to 2.9 inches thickSupport Files: Quick Install Guide (Jul 24, 2018)Dimensions Diagram (Sep 10, 2018)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a trademark owned by the Video Electronics Standards Association (VESA\u00ae) in the United States and other countries. Updated Feb 22, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/345391.jpg\",\"https://images.monoprice.com/productlargeimages/345392.jpg\",\"https://images.monoprice.com/productlargeimages/345393.jpg\",\"https://images.monoprice.com/productlargeimages/345394.jpg\",\"https://images.monoprice.com/productlargeimages/345395.jpg\",\"https://images.monoprice.com/productlargeimages/345396.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 21.99,
+      "sku": "34539",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=34539",
+      "gtin14": "889028097236"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Computer Case CPU Holder Thin Client Mini PC Multi-Mount",
+      "ratingCount": "10",
+      "reviewCount": "10",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Desk Monitor Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts"
+    },
+    {
+      "name": "34539",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts/34539"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "url": "https://www.monoprice.com/product?p_id=42839",
+  "final_url": "https://www.monoprice.com/product?p_id=42839",
+  "upstream_status": 200,
+  "classification": "content",
+  "bytes": 444444,
+  "sha256": "1903f49638aa01676a27b28bdfce123cafd9d2bb36eb8e88c3410cccdc6dc2a8",
+  "fetched_at": "2026-09-05T01:03:42+00:00",
+  "fetch_ms": 11755,
+  "mode": "raw-served-html",
+  "body_retained": false,
+  "extract": "schema.org Product + BreadcrumbList"
+}

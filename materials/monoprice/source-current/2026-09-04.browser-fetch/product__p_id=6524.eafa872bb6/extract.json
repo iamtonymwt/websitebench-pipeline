@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Essential Tilt TV Wall Mount Bracket For 10 To 26 TVs up to 30lbs Max VESA 100x100 Heavy Duty Works with Concrete and Brick",
+    "@id": "https://www.monoprice.com/product?p_id=6524",
+    "url": "https://www.monoprice.com/product?p_id=6524",
+    "description": " \u00a0Don't leave your flat panel TV on a table or stand where it can be knocked over and damaged, or even worse injure a child or pet. Instead, mount it securely and safely to the wall using this Adjustable Tilting Wall Mount Bracket from Monoprice\u2122!This bracket is designed to easily mount on the wall. It features a low profile form factor, which puts the back of the TV within 1.7\" of the wall. It has the ability to tilt up to 15 degrees downward, making it ideal for overhead displays in a commercial setting or for keeping the TV out of reach of little hands at home.This bracket is designed to mount an LCD, LED, or Plasma display with a VESA\u00ae mounting pattern of either 75x75 or 100x100, which includes most 10\" to 26\" TVs*. It can be mounted to any brick, masonry, or concrete type wall and can safely hold up to 30 lbs. (including the weight of the mount itself). Mounting hardware is included.*Note that the display screen size is only an approximation. Your TV is compatible with this mount as long as your display has a VESA\u00ae mounting pattern and weight that fit within the size and weight limits listed above.Support Files: User's Manual (Jan 15, 2010)Dimensions Diagram (Sep 10, 2009)Monoprice\u2122, EZ\u2122, and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Sep 29, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/65241.jpg\",\"https://images.monoprice.com/productlargeimages/65242.jpg\",\"https://images.monoprice.com/productlargeimages/65243.jpg\",\"https://images.monoprice.com/productlargeimages/65244.jpg\",\"https://images.monoprice.com/productlargeimages/65245.jpg\",\"https://images.monoprice.com/productlargeimages/65246.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 27.99,
+      "sku": "6524",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6524",
+      "gtin14": "844660065241"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Essential Tilt TV Wall Mount Bracket For 10 To 26 TVs up to 30lbs Max VESA 100x100 Heavy Duty Works with Concrete and Brick",
+      "ratingCount": "81",
+      "reviewCount": "81",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Tilt TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tilt-tv-wall-mounts"
+    },
+    {
+      "name": "6524",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tilt-tv-wall-mounts/6524"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

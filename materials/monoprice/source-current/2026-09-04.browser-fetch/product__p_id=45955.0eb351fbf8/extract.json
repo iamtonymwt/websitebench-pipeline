@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Multi-Mode OM3 Fiber Optic Cable - LC-LC UL 2mm 50/125 OFNP Duplex Aqua 3m",
+    "@id": "https://www.monoprice.com/product?p_id=45955",
+    "url": "https://www.monoprice.com/product?p_id=45955",
+    "description": "*To offer the best prices to our customers, this item is not kept in inventory and has an extended processing time of 10-14 days. If you require this item sooner, please get in touch with our Sales team at Sales@monoprice.com or upgrade to a free Business Account here. Monoprice\u2122OM3 Fiber Optic Cable, LC/LC UPC, 10Gb, Duplex Multi-Mode 50/125 Type, UL\u00ae, OFNP, Corning\u00ae, AquaUpgrade your network with the OM3 Multi-mode Fiber Optic Patch Cable, designed for reliable data transmission and durability. Monoprice OM3 Multi-mode Fiber Optic Patch Cable is ideal for network administrators and installation professionals seeking a dependable, high-speed connectivity solution for their network infrastructure. Perfect for data centers, enterprise networks, and high-density installations, this OM3 patch cable delivers high bandwidth and reduced signal loss. Engineered for optimal performance in various environments, the OM3 Multi-mode Fiber Optic Patch Cable ensures stable and efficient connectivity.Supports 10 Gb Ethernet for fast data transferMulti-mode OM3 fiber with a 50-micron core providing high bandwidth over medium distancesOptimized for LED and VCSEL laser transmission at 850 nm and 1300 nm wavelengthsExcellent signal integrity with minimal attenuation and crosstalkHigh-quality connectors ensuring secure and stable connectionsDurable construction with a robust jacket for long-term useBroad compatibility with diverse networking equipment and devicesUL\u00ae certified\u00a0UL CERTIFIED OFNPTested and certified for in-wallplenum applications. CORNING GLASS OPTICAL FIBERWe use high-quality materials fromindustry leaders to ensure consistentquality, low-loss, durable cabling. LIFETIME WARRANTYAt Monoprice, we've stood behindour cable solutions for over 20 yearsand offer a lifetime warranty. \u00a0Physical DifferenceTransmit Distance at Different Data RatesMMF Cable TypeDiameterJacket ColorOptical SourceBandwidth1GbE10GbE40GbE100GbEOM162.5/125 OrangeLED200MHz*km275m33m--OM250/125 OrangeLED700MHz*km750m150m--OM350/125 AquaVCSEL1500MHz*km1000m300m100m100mOM450/125 AquaVCSEL3500MHz*km1100m500m150m150mOM550/125 Lime GreenVCSEL3500MHz*km-550m440m440m\u00a0Fiber TypeMulti-mode OM3 (50/125\u00b5m)\u00a0\u00a0Fiber CountDuplex\u00a0\u00a0Fiber ManufacturerCorning\u00ae\u00a0\u00a0Jacket MaterialOFNP Rated\u00a0\u00a0Connector TypeLC to LC\u00a0\u00a0Polish TypeUPC to UPC\u00a0\u00a0Cable Diameter2.0mm\u00a0\u00a0Insertion Standard Loss\u2264 0.30dB\u00a0\u00a0Return Loss\u2265 25dB\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Linecard (Aug 28, 2024)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.UL\u00ae and the UL logo are registered trademarks of UL LLC. Corning\u00ae is a registered trademark of Corning Incorporated. Updated Jun 13, 2024 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/459551.jpg\",\"https://images.monoprice.com/productlargeimages/459552.jpg\",\"https://images.monoprice.com/productlargeimages/459553.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.39,
+      "sku": "45955",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=45955",
+      "gtin14": "889028201008"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Multi-Mode OM3 Fiber Optic Cable - LC-LC UL 2mm 50/125 OFNP Duplex Aqua 3m",
+      "ratingCount": "1",
+      "reviewCount": "0",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Fiber Optic Cables",
+      "url": "https://www.monoprice.com/category/cables/fiber-optic-cables"
+    },
+    {
+      "name": "Multi Mode Cables",
+      "url": "https://www.monoprice.com/category/cables/fiber-optic-cables/multi-mode-cables"
+    },
+    {
+      "name": "45955",
+      "url": "https://www.monoprice.com/category/cables/fiber-optic-cables/multi-mode-cables/45955"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

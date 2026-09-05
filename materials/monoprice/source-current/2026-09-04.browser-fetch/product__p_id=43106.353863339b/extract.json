@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Multi-Mode OM3 Fiber Optic Cable - Reverse Polarity LC-LC Uniboot UL 50/125 OFNR Aqua 5m",
+    "@id": "https://www.monoprice.com/product?p_id=43106",
+    "url": "https://www.monoprice.com/product?p_id=43106",
+    "description": "This UL\u00ae listed 50/125\u00b5m OM3 fiber optic cable features an extremely high bandwidth, making it suitable for high\u2011throughput enterprise network, telecomm room, server farm, and cloud storage network applications. The LC Uniboot connector design allows two fibers to be carried in one jacket with modified LC duplex connectors. Compared to traditional LC duplex jumpers, the uniboot connector effectively reduces installation volume by 50%, which reduces the surface area of the cable and optimizes airflow in data centers and wiring closets.Normally, there is a transmitting signal terminal (Tx) and a receiving signal terminal (Rx). The Uniboot connector is an innovative design that allows the fiber polarity to be switched without the need for special tools.Features: Uniboot design allows two fibers to be carried inside a single jacket, improving airflow and cable management in tight spacesEasily reverse the polarity without any toolsHigh quality OM3 multi\u2011mode fiber cable with LC/LC connectors is perfect for high\u2011throughput applicationsSupports 10Gb to distances up to 300 meters, and 40Gb and 100Gb up to 100 metersEffective Modal Bandwidth (EMB) of 2000 MHz/km at 850nmOFNR (riser) rated fiber cable is ideal for use in upright shafts that run between floors in commercial class buildingsThe small LC connector is perfect for high density network applicationsUse with LED and VCSEL laser light sourcesBackward compatible with LED\u2011based 50/125 multi\u2011mode fiber applications\u00a0Support Files: Linecard (Feb 14, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Comtop\u00ae is a registered trademark of Comtop Connectivity Solutions Inc. Corning\u00ae is a registered trademark of Corning Incorporated. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Feb 22, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/431061.jpg\",\"https://images.monoprice.com/productlargeimages/431062.jpg\",\"https://images.monoprice.com/productlargeimages/431063.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.99,
+      "sku": "43106",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43106",
+      "gtin14": "889028173060"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Multi-Mode OM3 Fiber Optic Cable - Reverse Polarity LC-LC Uniboot UL 50/125 OFNR Aqua 5m",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Fiber Optic Cables",
+      "url": "https://www.monoprice.com/category/networking/fiber-optic-cables"
+    },
+    {
+      "name": "Multi Mode Cables",
+      "url": "https://www.monoprice.com/category/cables/fiber-optic-cables/multi-mode-cables"
+    },
+    {
+      "name": "43106",
+      "url": "https://www.monoprice.com/category/cables/fiber-optic-cables/multi-mode-cables/43106"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 65ft DMX Lighting Cable w/ 3-pin XLR Connectors",
+    "@id": "https://www.monoprice.com/product?p_id=601620",
+    "url": "https://www.monoprice.com/product?p_id=601620",
+    "description": "Distribute digital DMX or AES/EBU (aka AES3) data signals safely and reliably using this 3-pin DMX Lighting & AES/EBU Cable from Monoprice!This cable is designed for accurate transmission of digital audio and DMX lighting control data. It features a twisted pair of 22AWG conductors wrapped in a double layer shielding composed of copper braid and aluminum foil. The two shield layers combine to provide 100% shield coverage for the conductors.The input end of the cable is terminated in a 3-pin male XLR connector, while the output end terminates in 3-pin female XLR connector. The cable has a nominal impedance of 110-120 ohms.Updated Apr 13, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6016201.jpg\",\"https://images.monoprice.com/productlargeimages/6016202.jpg\",\"https://images.monoprice.com/productlargeimages/6016203.jpg\",\"https://images.monoprice.com/productlargeimages/6016204.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "601620",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601620",
+      "gtin14": "757901809934"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 65ft DMX Lighting Cable w/ 3-pin XLR Connectors",
+      "ratingCount": "129",
+      "reviewCount": "10",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "DMX Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/dmx-cables"
+    },
+    {
+      "name": "601620",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/dmx-cables/601620"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

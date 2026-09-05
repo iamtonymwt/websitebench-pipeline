@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft Gray Hospital-Grade Computer Power Cord with Clear Plugs 15A/1875W 14AWG SJT (NEMA 5-15PHG to IEC 60320 C13)",
+    "@id": "https://www.monoprice.com/product?p_id=33671",
+    "url": "https://www.monoprice.com/product?p_id=33671",
+    "description": "Power cords used in hospitals and other medical settings must conform to strict standards for grounding reliability, assembly integrity, strength, and durability, as well as regulatory standards such as the NEMA\u00ae and IEC specifications. These standards are in place to ensure that power cords are safe and reliable for use in demanding hospital environments.The female C13 connector plugs directly into the device while the male hospital grade 5\u201115P connector plugs into a hospital grade supply outlet. The clear connectors work with almost any environment or hospital standard. Easily recognizable with the Green Dot mark, this hospital grade power cord ensures compliance and delivers maximum performance.This 14 AWG cable is designed to carry up to a 15 amp/1875 watt, 125 volt load.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. Updated Jul 13, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/336711.jpg\",\"https://images.monoprice.com/productlargeimages/336712.jpg\",\"https://images.monoprice.com/productlargeimages/336713.jpg\",\"https://images.monoprice.com/productlargeimages/336714.jpg\",\"https://images.monoprice.com/productlargeimages/336715.jpg\",\"https://images.monoprice.com/productlargeimages/336716.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "33671",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33671",
+      "gtin14": "889028088531"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft Gray Hospital-Grade Computer Power Cord with Clear Plugs 15A/1875W 14AWG SJT (NEMA 5-15PHG to IEC 60320 C13)",
+      "ratingCount": "5",
+      "reviewCount": "2",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Hospital Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/hospital-power-cords"
+    },
+    {
+      "name": "33671",
+      "url": "https://www.monoprice.com/category/cables/power-cords/hospital-power-cords/33671"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

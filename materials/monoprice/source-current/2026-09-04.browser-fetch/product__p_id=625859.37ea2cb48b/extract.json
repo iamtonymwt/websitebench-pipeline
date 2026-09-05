@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice White Lighting Truss Scrim Stretch Fabric Cover for 8in 2m (6.56ft) Straight Truss Section ",
+    "@id": "https://www.monoprice.com/product?p_id=625859",
+    "url": "https://www.monoprice.com/product?p_id=625859",
+    "description": "Our Stage Right\u2122 truss scrims will cover your truss set up and give it a professional look at weddings, trade shows, or mobile DJ gigs. Made out of Lycra\u00ae, these scrims will provide the perfect amount of stretch for a tight and refined look. Our truss scrims come in black or white, and sizes to match all of our segments of 8\" boxed truss: 1M, 1.5M, and 2M. They are ideal for using on truss totems or towers.Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. LYCRA\u00ae is a trademark of INVISTA. Updated Nov 18, 2021 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6258591.jpg\",\"https://images.monoprice.com/productlargeimages/6258592.jpg\",\"https://images.monoprice.com/productlargeimages/6258593.jpg\",\"https://images.monoprice.com/productlargeimages/6258594.jpg\",\"https://images.monoprice.com/productlargeimages/6258595.jpg\",\"https://images.monoprice.com/productlargeimages/6258596.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "625859",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625859",
+      "gtin14": "889028149607"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice White Lighting Truss Scrim Stretch Fabric Cover for 8in 2m (6.56ft) Straight Truss Section ",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Lighting Stands & Trusses",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses"
+    },
+    {
+      "name": "625859",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses/625859"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13 18AWG 10A/1250W 3-Prong SVT Black 6ft 6-Pack",
+    "@id": "https://www.monoprice.com/product?p_id=39776",
+    "url": "https://www.monoprice.com/product?p_id=39776",
+    "description": "Extend the reach of your AC powered device using this AC power extension cord to energize equipment from a distant power outlet. This cable features a standard, grounded IEC 60320 C14 plug on one end and an IEC 60320 C13 receptacle on the other. IEC 60320 C14 to C13 power cords are commonly used between rack mounted equipment and the PDU in a data cabinet. This cable is designed to carry up to a 10 amp/1250 watt, 125 volt load.Features: Recommended for powering computers, monitors, and other essential peripheralsExtend the length of an existing power cord for more flexibilityConnect devices, such as computers, servers, and monitors to a PDU or UPS in data centerColored cord is designed for easy identification in a high-density data environment\u00a0Plug\u00a0TypeIEC 60320 C14Receptacle\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialSVT, SJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18 AWGMaximum\u00a0Current10 ampsCertificationsUL\u00ae, cUL, CSA\u00ae, RoHS.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Tech Drawing (Jan 19, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jul 14, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/397761.jpg\",\"https://images.monoprice.com/productlargeimages/397762.jpg\",\"https://images.monoprice.com/productlargeimages/397763.jpg\",\"https://images.monoprice.com/productlargeimages/397764.jpg\",\"https://images.monoprice.com/productlargeimages/397765.jpg\",\"https://images.monoprice.com/productlargeimages/397766.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 35.29,
+      "sku": "39776",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39776",
+      "gtin14": "889028139486"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13 18AWG 10A/1250W 3-Prong SVT Black 6ft 6-Pack",
+      "ratingCount": "61",
+      "reviewCount": "0",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "39776",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/39776"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

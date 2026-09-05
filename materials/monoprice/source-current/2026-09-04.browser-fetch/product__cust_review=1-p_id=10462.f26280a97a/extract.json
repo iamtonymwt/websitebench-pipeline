@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Full Motion TV Wall Mount Bracket For 23 To 42 TVs up to 55lbs Max VESA 200x200 UL Certified Heavy Duty Works with Concrete and Brick",
+    "@id": "https://www.monoprice.com/product?p_id=10462",
+    "url": "https://www.monoprice.com/product?p_id=10462",
+    "description": " \u00a0\u00a0Don't leave your flat panel TV on a table or stand where it can be knocked over and damaged, or even worse injure a child or pet. Instead, mount it securely and safely to the wall using this Adjustable Tilting/Swiveling Wall Mount Bracket from Monoprice\u2122!This mount bracket supports adjustments in three dimensions. It can be swiveled \u00b125\u00b0, can be tilted \u00b115\u00b0, and can be rotated \u00b14\u00b0, allowing you to ensure that the display is leveled.This bracket is designed to mount an LCD, LED, or Plasma display with a VESA\u00ae mounting pattern of 100x100, 200x100, or 200x200, which includes most 23\" to 42\" TVs*. It can be mounted to any brick, concrete, or wood stud and and can safely hold up to 55 lbs. (including the weight of the mount itself). Mounting hardware is included.Note that the manual incorrectly states that the mount supports 360\u00b0 rotation. We apologize for the error and will update the manual as soon as possible. *Note that the display screen size is only an approximation. Your TV is compatible with this mount as long as your display has a VESA\u00ae mounting pattern and weight that fit within the size and weight limits listed above. Support Files: User's Manual (May 20, 2013)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jan 25, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/104621.jpg\",\"https://images.monoprice.com/productlargeimages/104622.jpg\",\"https://images.monoprice.com/productlargeimages/104623.jpg\",\"https://images.monoprice.com/productlargeimages/104624.jpg\",\"https://images.monoprice.com/productlargeimages/104625.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 21.99,
+      "sku": "10462",
+      "availability": "https://schema.org/Discontinued",
+      "url": "https://www.monoprice.com/product?p_id=10462",
+      "gtin14": "757901802683"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Full Motion TV Wall Mount Bracket For 23 To 42 TVs up to 55lbs Max VESA 200x200 UL Certified Heavy Duty Works with Concrete and Brick",
+      "ratingCount": "31",
+      "reviewCount": "31",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Full Motion TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts"
+    },
+    {
+      "name": "10462",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts/10462"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1/4in (6.35mm) TRS Stereo Plug to 2x 1/4in (6.35mm) TRS Stereo Jack Splitter Adapter Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=7221",
+    "url": "https://www.monoprice.com/product?p_id=7221",
+    "description": "6.35mm (1/4 Inch) Stereo Plug to 2 x 6.35mm (1/4 Inch) Stereo Jack Splitter Adaptor - Gold PlatedWarning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72211.jpg\",\"https://images.monoprice.com/productlargeimages/72212.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "7221",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7221",
+      "gtin14": "844660072218"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1/4in (6.35mm) TRS Stereo Plug to 2x 1/4in (6.35mm) TRS Stereo Jack Splitter Adapter Gold Plated",
+      "ratingCount": "17",
+      "reviewCount": "17",
+      "ratingValue": "3.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Plug Adapter",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter"
+    },
+    {
+      "name": "7221",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter/7221"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

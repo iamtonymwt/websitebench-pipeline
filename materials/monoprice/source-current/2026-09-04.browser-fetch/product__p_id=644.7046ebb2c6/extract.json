@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft 3.5mm Stereo Plug/Plug M/M Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=644",
+    "url": "https://www.monoprice.com/product?p_id=644",
+    "description": "The Monoprice 3.5mm Stereo Plug/Plug M/M Cable is a versatile audio accessory that brings convenience and compatibility to your audio setup. This cable is designed to seamlessly connect devices with a 3.5mm (1/8\") stereo TRS connector, commonly known as the Headphone Jack, found on portable MP3 players and mobile phones.Featuring a male 3.5mm stereo (TRS) plug on each end, this cable ensures a secure and reliable connection. The plugs are equipped with durable molded connector housings, providing excellent protection against wear and tear. Additionally, the strain relief boots add an extra layer of reinforcement, safeguarding the cable from potential damage caused by bending or pulling.The Monoprice 3.5mm Stereo Plug/Plug M/M Cable is perfect for various audio applications. Whether you want to enjoy your favorite tunes on a pair of headphones or connect your MP3 player or phone to a car stereo system, this cable has you covered. It enables you to connect a stereo audio output from your device to a stereo audio input, such as the auxiliary input on a car stereo, allowing you to enjoy your music with enhanced sound quality.With its compact and portable design, this cable is highly convenient for on\u2011the\u2011go use. You can easily carry it in your bag or pocket, ensuring you have it whenever you need to connect your audio devices. Its versatility makes it an essential accessory for music lovers, travelers, and anyone who enjoys a seamless audio experience.The Monoprice 3.5mm Stereo Plug/Plug M/M Cable combines quality construction, reliable performance, and broad compatibility, making it an excellent choice for all your audio connectivity needs. It offers a simple yet effective solution for connecting your devices, allowing you to enjoy your music, podcasts, and other audio content with ease. Upgrade your audio setup with this reliable and versatile cable and unlock a world of immersive sound experiences.Support Files: Diagram (May 11, 2018)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Apr 29, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6441.jpg\",\"https://images.monoprice.com/productlargeimages/6442.jpg\",\"https://images.monoprice.com/productlargeimages/6443.jpg\",\"https://images.monoprice.com/productlargeimages/6444.jpg\",\"https://images.monoprice.com/productlargeimages/6445.jpg\",\"https://images.monoprice.com/productlargeimages/6446.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.59,
+      "sku": "644",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=644",
+      "gtin14": "844660006442"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft 3.5mm Stereo Plug/Plug M/M Cable - Black",
+      "ratingCount": "929",
+      "reviewCount": "516",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "644",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/644"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 15ft Premier Series 1/4-inch (TRS) Right Angle Male to Male Right Angle 16AWG Cable (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=9443",
+    "url": "https://www.monoprice.com/product?p_id=9443",
+    "description": "Connect sound components and other audio equipment with this Premium 1/4\" TRS Patch Cable with 90-degree connectors from Monoprice!This cable features 90-degree TRS/Stereo plugs on each end. It uses 16 AWG stranded, pure copper conductors and employs copper braid shielding with 97.5% coverage to ensure that stray radio frequency and electromagnetic signals do not degrade the audio quality of your performance. The plugs are gold plated to provide smooth, corrosion-free connections as well as maximum electrical conductivity.With two separate conductors and the common shield ground, this cable can be used as an unbalanced stereo patch cable or as a balanced mono patch cable.Note that this cable is intended for general audio use. For high-end, low-noise performance and recording use we recommend our Cloth Series cables, PIDs 601410, 601415, and 601420. ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/94431.jpg\",\"https://images.monoprice.com/productlargeimages/94432.jpg\",\"https://images.monoprice.com/productlargeimages/94433.jpg\",\"https://images.monoprice.com/productlargeimages/94434.jpg\",\"https://images.monoprice.com/productlargeimages/94435.jpg\",\"https://images.monoprice.com/productlargeimages/94436.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "9443",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9443",
+      "gtin14": "844660094432"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 15ft Premier Series 1/4-inch (TRS) Right Angle Male to Male Right Angle 16AWG Cable (Gold Plated)",
+      "ratingCount": "145",
+      "reviewCount": "13",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "9443",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/9443"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

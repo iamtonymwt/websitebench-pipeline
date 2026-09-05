@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3-Outlet Flat Plug Household Extension Cord 16AWG 13A  SPT-2 White 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=44316",
+    "url": "https://www.monoprice.com/product?p_id=44316",
+    "description": "Monoprice\u21223-Outlet Flat Plug Household Extension Cord16AWG, 13A, SPT-2, White, 6ftThe low-profile Flat Plug extension cords allow furniture to be placed against a wall, and avoid dislodging or damage to the plug. Allowing the use of up to three items from one outlet, the 3-Outlet Flat Plug Household Extension Cord gives you a safe and compact space for all your plugging needs.A Flat Profile Plug3 Grounded OutletsETL-Listed\u00a0Lengths: 6ft. 10ft..gte-ctr .row{margin:0;}Colors: Black White.gte-ctr .row{margin:0;}.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Dec 08, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/443161.jpg\",\"https://images.monoprice.com/productlargeimages/443162.jpg\",\"https://images.monoprice.com/productlargeimages/443163.jpg\",\"https://images.monoprice.com/productlargeimages/443164.jpg\",\"https://images.monoprice.com/productlargeimages/443165.jpg\",\"https://images.monoprice.com/productlargeimages/443166.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.79,
+      "sku": "44316",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44316",
+      "gtin14": "889028187685"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3-Outlet Flat Plug Household Extension Cord 16AWG 13A  SPT-2 White 6ft",
+      "ratingCount": "4",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "44316",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/44316"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

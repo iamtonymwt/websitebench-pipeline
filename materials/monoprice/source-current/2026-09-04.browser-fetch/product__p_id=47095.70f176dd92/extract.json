@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A 1ft Black U/UTP Ethernet Extension Cable RJ45 Male to Female (with PCB Jack 3\u03bc) 24AWG Stranded Bare Copper CM PVC Jacket",
+    "@id": "https://www.monoprice.com/product?p_id=47095",
+    "url": "https://www.monoprice.com/product?p_id=47095",
+    "description": "Monoprice\u2122Cat6A U/UTP Ethernet Extension Cable RJ45 Male to Female (with PCB Jack 3\u00b5), 24AWG, Stranded Bare Copper, CM PVC JacketEffortlessly Extend and Protect Your Ethernet ConnectionsThe Monoprice Cat6A Ethernet Extension Cable offers a simple, effective way to extend your wired network connection without compromising performance. Featuring a male\u2011to\u2011female RJ45 design, this extension cable helps reduce wear on primary Ethernet ports while adding flexibility to tight or hard\u2011to\u2011reach spaces. Built with 24AWG stranded bare copper conductors and a durable CM\u2011rated PVC jacket, it delivers reliable signal transmission for demanding data applications. The unshielded U/UTP construction provides excellent performance in environments with minimal interference, while the integrated PCB\u2011mounted female jack with 3\u00b5 gold\u2011plated contacts ensures long\u2011term durability and secure connectivity. Supporting bandwidths up to 500MHz and speeds up to 10Gbps, this Cat6A extension cable is an ideal choice for home offices, IT setups, and everyday networking needs.Extends Ethernet connectivity with a compact male\u2011to\u2011female design for added reach and easy port accessSupports up to 10Gbps speeds and 500MHz bandwidth for high\u2011performance networkingIdeal for everyday use in home offices, desks, and low\u2011interference environments24AWG stranded bare copper conductors ensure solid signal transmission and dependable performanceUnshielded twisted pair (U/UTP) design offers flexibility and ease of installation3\u00b5 gold\u2011plated contacts on PCB jack deliver corrosion resistance and secure, long\u2011lasting connectionsDurable CM\u2011rated PVC jacket stands up to daily wear and resists tangling or kinkingCompatible with standard RJ45 Ethernet ports for easy integration with existing network setups\u00a0ESSENTIAL EXTENSION FOR EVERYDAY NETWORKSEasily extend your Ethernet connection in desktop or low\u2011interference environments with a compact cable designed for accessibility and convenience.\u00a0FAST AND RELIABLE DATA TRANSMISSIONSupports 10Gbps network speeds and 500MHz bandwidth to handle high\u2011speed data needs in home, office, or light commercial applications.\u00a0QUALITY CONSTRUCTION FOR EVERYDAY USEBuilt with 24AWG stranded bare copper conductors and a CM\u2011rated PVC jacket, this cable delivers consistent performance while remaining flexible and easy to route.\u00a0DURABLE PCB JACK WITH GOLD\u2011PLATED CONTACTSA PCB\u2011mounted female RJ45 jack with 3\u00b5 gold\u2011plated contacts provides long\u2011term reliability and a secure connection for frequent plug\u2011ins.\u00a0PACKAGE CONTENTS\u2022 1 x Cat6A U/FTP Ethernet Extension Cable RJ45 Male to Female (with PCB Jack 3\u00b5), 26AWG, Stranded Bare Copper, CM PVC Jacket\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Technical Drawing (Jun 16, 2025)Sales Sheet (Jun 17, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated May 30, 2025 WARNING: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/470951.jpg\",\"https://images.monoprice.com/productlargeimages/470952.jpg\",\"https://images.monoprice.com/productlargeimages/470953.jpg\",\"https://images.monoprice.com/productlargeimages/470954.jpg\",\"https://images.monoprice.com/productlargeimages/470955.jpg\",\"https://images.monoprice.com/productlargeimages/470956.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.89,
+      "sku": "47095",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=47095",
+      "gtin14": "889028207215"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A 1ft Black U/UTP Ethernet Extension Cable RJ45 Male to Female (with PCB Jack 3\u03bc) 24AWG Stranded Bare Copper CM PVC Jacket",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6A Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6a-ethernet-cables"
+    },
+    {
+      "name": "47095",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6a-ethernet-cables/47095"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

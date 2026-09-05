@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3-Pin Female DMX Connector",
+    "@id": "https://www.monoprice.com/product?p_id=601652",
+    "url": "https://www.monoprice.com/product?p_id=601652",
+    "description": "Build custom DMX cables to the exact length you need using bulk cable and this 3-Pin Female DMX Connector from Monoprice!This DMX connector is made of black, anodized aluminum with a plastic cap, rubber strain relief boot, and lock release button. It features three solder cup connectors for the conductors and a solder post connector for the shield. This connector is designed for use with 2-Conductor DMX Lighting and AES/EBU Bulk Cable.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6016521.jpg\",\"https://images.monoprice.com/productlargeimages/6016522.jpg\",\"https://images.monoprice.com/productlargeimages/6016523.jpg\",\"https://images.monoprice.com/productlargeimages/6016524.jpg\",\"https://images.monoprice.com/productlargeimages/6016525.jpg\",\"https://images.monoprice.com/productlargeimages/6016526.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "601652",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601652",
+      "gtin14": "757901817724"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3-Pin Female DMX Connector",
+      "ratingCount": "6",
+      "reviewCount": "6",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "DMX Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/dmx-cables"
+    },
+    {
+      "name": "601652",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/dmx-cables/601652"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

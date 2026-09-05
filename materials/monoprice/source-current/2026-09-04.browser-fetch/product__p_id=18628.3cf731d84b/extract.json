@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-C Male to Micro B Female Adapter Black",
+    "@id": "https://www.monoprice.com/product?p_id=18628",
+    "url": "https://www.monoprice.com/product?p_id=18628",
+    "description": "This USB-C\u2122 to Micro USB Adapter allows you to use the more common, and generally less expensive, Micro USB cables and chargers with your USB Type-C\u2122 enabled mobile device. It measures a scant 0.9\" x 0.4\" x 0.2\" (21.7 x 11.0 x 5.5 mm) and has gold plated contacts for smooth, corrosion-free connections.USB Type-C\u2122 and USB-C\u2122 are trademarks of USB Implementers Forum, Inc. \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/186281.jpg\",\"https://images.monoprice.com/productlargeimages/186282.jpg\",\"https://images.monoprice.com/productlargeimages/186283.jpg\",\"https://images.monoprice.com/productlargeimages/186284.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.99,
+      "sku": "18628",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18628",
+      "gtin14": "889028046500"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-C Male to Micro B Female Adapter Black",
+      "ratingCount": "101",
+      "reviewCount": "101",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "18628",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/18628"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF Digital Coax Subwoofer & Composite Video)",
+    "@id": "https://www.monoprice.com/product?p_id=2680",
+    "url": "https://www.monoprice.com/product?p_id=2680",
+    "description": "This Digital Coax Cable is made from premium quality RG-6/U with double copper braid shielding to prevent signal degradation caused by EMI and RFI interference. This cable is ideal for conducting S/PDIF digital audio signals and other high-bandwidth content, but it can also be used for composite video and other line level RCA signals.The CL2 rating on this cable indicates that the jacket has been treated so that it complies with fire safety regulations, making it safe for use through or within the walls of residential class buildings.Features: Gold plated RCA male connectorsRubber-covered, molded connector housings97% pure oxygen-free copper conductorDouble shielded with copper braiding22 pF per foot capacitance75 ohm impedanceSupport Files: Diagram (Nov 18, 2022)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/26801.jpg\",\"https://images.monoprice.com/productlargeimages/26802.jpg\",\"https://images.monoprice.com/productlargeimages/26803.jpg\",\"https://images.monoprice.com/productlargeimages/26804.jpg\",\"https://images.monoprice.com/productlargeimages/26805.jpg\",\"https://images.monoprice.com/productlargeimages/26806.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.99,
+      "sku": "2680",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2680",
+      "gtin14": "844660026808"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF Digital Coax Subwoofer & Composite Video)",
+      "ratingCount": "1495",
+      "reviewCount": "323",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Digital Coaxial Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/digital-coaxial-cables"
+    },
+    {
+      "name": "2680",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/digital-coaxial-cables/2680"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

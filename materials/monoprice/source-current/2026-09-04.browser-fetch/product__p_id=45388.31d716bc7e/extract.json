@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 12 Drawer Plastic Parts Storage Cabinet Stackable Organizer Multiple Compartment Container For Hardware Crafts Beads Sewing Supplies",
+    "@id": "https://www.monoprice.com/product?p_id=45388",
+    "url": "https://www.monoprice.com/product?p_id=45388",
+    "description": "This 12 Drawer Storage Cabinet is a versatile storage solution for home, office, garage, playroom, or workshop. You can store accessories or small parts such as stationaries, beads, screws, sewing supplies, toy bricks, and many more. Cabinet are stackable and can be wall mounted with keyhole slots on the rear. Drawers are see through and finger grip drawer pulls that makes it easy to access. Dividable drawers offer easy identification and categorization of the item you are looking for!Stackable or Wall Mount: Cabinet stacks securely or can be wall mounted with keyhole slots on the rear.Dividable Drawers: Allows to sort and store items by category to easily identify the items you are looking for.Easy Access: Drawers are see through and finger grip drawer pulls forward that makes it easy to access.Secure Storage: Rear stop tabs prevent the drawer and content from falling out.Small Parts Storage: You can store accessories or small parts such as stationaries, beads, screws, sewing supplies, toy bricks, and many more.Specifications:Product Dimension: 10.2 x 6.3 x 10.2 Inches\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/453881.jpg\",\"https://images.monoprice.com/productlargeimages/453882.jpg\",\"https://images.monoprice.com/productlargeimages/453883.jpg\",\"https://images.monoprice.com/productlargeimages/453884.jpg\",\"https://images.monoprice.com/productlargeimages/453885.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "45388",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=45388",
+      "gtin14": "889028195406"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 12 Drawer Plastic Parts Storage Cabinet Stackable Organizer Multiple Compartment Container For Hardware Crafts Beads Sewing Supplies",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "45388",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/45388"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

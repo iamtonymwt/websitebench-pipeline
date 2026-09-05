@@ -1,0 +1,15 @@
+INFO:     Started server process [62220]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8412 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55854 - "GET /__websitebench/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55855 - "GET /definitely-not-real HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55856 - "GET /search/index?keyword=hdmi+cable HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55857 - "GET /search/index?keyword=zzzqqqnope HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55858 - "POST /cart HTTP/1.1" 303 See Other
+INFO:     127.0.0.1:55859 - "GET /cart HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55860 - "POST /checkout HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55861 - "GET /cart HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55862 - "POST /checkout HTTP/1.1" 303 See Other
+INFO:     127.0.0.1:55863 - "GET /order/MP4450B4FFE8B95D50 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55864 - "GET /cart HTTP/1.1" 200 OK

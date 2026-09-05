@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Universal Floating Soundbar Mount Bracket for Freestanding or Wall Mounted 23in to 55in TVs VESA Patterns from 200x200 to 600x400 Max Weight 22lbs",
+    "@id": "https://www.monoprice.com/product?p_id=15265",
+    "url": "https://www.monoprice.com/product?p_id=15265",
+    "description": "Universal Sound Bar BracketThe Monoprice\u2122 Universal Floating Sound Bar Bracket allows almost any sound bar to be custom mounted above or below your flat panel TV. VESA\u00ae compliant and designed to fit almost any TV and sound bar, the Universal Sound Bar Bracket can be used with either a freestanding or wall\u2011mounted TV. High quality steel construction and easy installation make this bracket the right choice for sound bar mounting.Customize Your AudioLife's too short for audio that doesn't sound great. Whether you're watching a movie or a game, great sound enhances the experience exponentially. A sound bar can add amazing audio to a TV without running speaker wires or complex systems. For best results, the sound bar should be located close to the TV without blocking it. The Monoprice Universal Floating Sound Bar Bracket is the perfect solution for a custom installation that looks as great as your sound bar sounds.Easy InstallationThe Monoprice Universal Floating Sound Bar Bracket comes with all the hardware needed to mount your sound bar to almost any freestanding or wall\u2011mounted TV using its VESA\u00ae compliant mounting pattern from 200x200 to 600x400. And as long as it has mounting screw posts, you can mount any sound bar up to 22 lbs.Support Files: Dimensions Diagram (Jan 23, 2016)Installation Guide (Mar 14, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Sep 29, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/152651.jpg\",\"https://images.monoprice.com/productlargeimages/152652.jpg\",\"https://images.monoprice.com/productlargeimages/152653.jpg\",\"https://images.monoprice.com/productlargeimages/152654.jpg\",\"https://images.monoprice.com/productlargeimages/152655.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 20.99,
+      "sku": "15265",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15265",
+      "gtin14": "889028033555"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Universal Floating Soundbar Mount Bracket for Freestanding or Wall Mounted 23in to 55in TVs VESA Patterns from 200x200 to 600x400 Max Weight 22lbs",
+      "ratingCount": "71",
+      "reviewCount": "71",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "TV Mount Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-mount-accessories"
+    },
+    {
+      "name": "15265",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-mount-accessories/15265"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

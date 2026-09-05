@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 Pro 1x2 Ultra Slim Video Splitter with HDMI Supports HDR 18Gbps YCbCr 444 HDCP 2.2",
+    "@id": "https://www.monoprice.com/product?p_id=21612",
+    "url": "https://www.monoprice.com/product?p_id=21612",
+    "description": "This Blackbird\u2122 4K Pro 1x2 Ultra Slim HDMI\u00ae Splitter allows you to distribute a single HDMI signal to two displays. It is compliant with the HDMI 2.0 and HDCP\u2122 2.3 standards and delivers up to 18Gbps of bandwidth. It supports video resolutions up to 4K@60Hz with the YCbCr 4:4:4 color space, including all 3D modes, and can automatically downscale 4K video for use with 1080p displays. It supports automatic EDID\u00ae detection and includes DIP switches for fixed EDID settings. The HDMI output ports provide 5 VDC, 200mA to power Active Optical Cables (AOC).Features: Distributes a single HDMI\u00ae video signal to two displaysSupports video resolutions up to 4K@60Hz with YCbCr 4:4:4 color space, including all 3D modesDelivers up to 18Gbps video bandwidthComplies with the HDMI 2.0 and HDCP\u2122 2.3/1.4 standardsCan automatically detect the EDID\u00ae from the displays and includes DIP switches for fixed EDID settingsSupports automatic downscaling of 4K video for use with 1080p displaysSupports HDCP Active and HDCP Passive modesHDMI output ports provide 5 VDC, 200mA to power Active Optical Cables (AOC)Built\u2011in equalizer to allow the use of longer than normal HDMI cablesSupports Consumer Electronic Control (CEC) pass\u2011throughFirmware can be upgraded using the built\u2011in Micro USB portSample Connection Diagram\u00a0Support Files: User's Manual (Oct 8, 2020)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. Blu\u2011ray Disc\u2122, Blu\u2011ray\u2122, and the logos are trademarks of the Blu\u2011ray Disc Association. DTS\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc. Dolby\u00ae, Dolby Audio\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. Updated Feb 4, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/216121.jpg\",\"https://images.monoprice.com/productlargeimages/216122.jpg\",\"https://images.monoprice.com/productlargeimages/216123.jpg\",\"https://images.monoprice.com/productlargeimages/216124.jpg\",\"https://images.monoprice.com/productlargeimages/216125.jpg\",\"https://images.monoprice.com/productlargeimages/216126.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 69.99,
+      "sku": "21612",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21612",
+      "gtin14": "889028049341"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 Pro 1x2 Ultra Slim Video Splitter with HDMI Supports HDR 18Gbps YCbCr 444 HDCP 2.2",
+      "ratingCount": "26",
+      "reviewCount": "26",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Splitters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters"
+    },
+    {
+      "name": "21612",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters/21612"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

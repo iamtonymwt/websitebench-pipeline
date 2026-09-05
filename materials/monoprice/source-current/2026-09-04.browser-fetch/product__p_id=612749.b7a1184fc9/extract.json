@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 9x10W Quad LED Flat PAR RGBW Stage Wash Light 90W Output",
+    "@id": "https://www.monoprice.com/product?p_id=612749",
+    "url": "https://www.monoprice.com/product?p_id=612749",
+    "description": "                    Enjoy bright and colorful stage lighting using this Flat PAR Stage Light from Monoprice\u2122!              This light uses nine 10\u2011watt RGBW LEDs with an almost unlimited number of color variations. It can be controlled using basic 8\u2011channel DMX or using one of the built\u2011in programs. The Strobe Follow mode allows you to have multiple fixtures strobe in sequence, rather than all at once.              Features:                         8\u2011channel DMX control option                  Smooth color blending and dimming does not look \"glitchy\" on video                  Strobe follow mode for up to 32 devices                  DMX, sound activated, strobe, and jumping change modes                                                                                                                                      Support Files:             User's Manual (Nov 1, 2022)            Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.           Updated Mar 21, 2022                                                             Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6127491.jpg\",\"https://images.monoprice.com/productlargeimages/6127492.jpg\",\"https://images.monoprice.com/productlargeimages/6127493.jpg\",\"https://images.monoprice.com/productlargeimages/6127494.jpg\",\"https://images.monoprice.com/productlargeimages/6127495.jpg\",\"https://images.monoprice.com/productlargeimages/6127496.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 74.99,
+      "sku": "612749",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612749",
+      "gtin14": "889028013656"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 9x10W Quad LED Flat PAR RGBW Stage Wash Light 90W Output",
+      "ratingCount": "51",
+      "reviewCount": "51",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "LED Wash Lights",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights"
+    },
+    {
+      "name": "612749",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights/612749"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

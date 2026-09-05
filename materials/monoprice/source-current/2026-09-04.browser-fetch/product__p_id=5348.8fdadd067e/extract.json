@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=5348",
+    "url": "https://www.monoprice.com/product?p_id=5348",
+    "description": "Despite the introduction of more advanced audio and video signal cables, such as HDMI\u00ae and Toslink, most audio and a large number of video connections still use the common RCA connector.This is a premium two-channel audio cable made of RG-59 75 ohm coaxial cable. The cable uses a 22AWG conductor and is shielded to prevent EMI or RFI interference from entering your audio system. The connectors are gold plated, for smooth connections and to prevent corrosion. Each connector head features embedded, color-coded rubber rings to ensure a firm grip when installing or removing the cable.HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.govEnable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[\"https://images.monoprice.com/productlargeimages/53481.jpg\",\"https://images.monoprice.com/productlargeimages/53482.jpg\",\"https://images.monoprice.com/productlargeimages/53483.jpg\",\"https://images.monoprice.com/productlargeimages/53484.jpg\",\"https://images.monoprice.com/productlargeimages/53485.jpg\",\"https://images.monoprice.com/productlargeimages/53486.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.59,
+      "sku": "5348",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5348",
+      "gtin14": "844660053484"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
+      "ratingCount": "1328",
+      "reviewCount": "81",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "5348",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/5348"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

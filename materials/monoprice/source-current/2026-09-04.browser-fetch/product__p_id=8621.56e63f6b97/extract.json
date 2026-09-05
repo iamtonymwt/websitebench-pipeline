@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10/32 19mm Screw for Rack 50 pcs Carbon Steel Black",
+    "@id": "https://www.monoprice.com/product?p_id=8621",
+    "url": "https://www.monoprice.com/product?p_id=8621",
+    "description": "These screws are for use with equipment/relay racks that are tapped for 10/32 screws. Each order includes 50 screws.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 24, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/86211.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.99,
+      "sku": "8621",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8621",
+      "gtin14": "844660086215"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10/32 19mm Screw for Rack 50 pcs Carbon Steel Black",
+      "ratingCount": "19",
+      "reviewCount": "19",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Components & Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/components-&-accessories"
+    },
+    {
+      "name": "8621",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/components-&-accessories/8621"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

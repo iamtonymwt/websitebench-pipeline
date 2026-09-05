@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Stage Wash 360W LED DMX Moving Head RGBW Stage Light with Zoom",
+    "@id": "https://www.monoprice.com/product?p_id=612812",
+    "url": "https://www.monoprice.com/product?p_id=612812",
+    "description": "                    Is it a spot light or a wash light? You decide. This thirty\u2011six 10\u2011watt LED moving head stage light is ready for any medium to large stage. Four color, RGBW LEDs and a 10\u00b0 ~ 50\u00b0 zoom will give you a huge amount of flexibility when you need to illuminate your stage. Super\u2011fast servo motors and 16\u2011bit fine tuners direct light where you want when, you want. If programming is not your speed, then take it out of DMX mode and activate the auto programs or sound active mode with internal mic. With one unit serving as the master, up to 32 additional units can slaved together for an incredible light show all night long.                              Features:                            Uses thirty\u2011six (36) 10\u2011watt 4\u2011in\u20111 RGBW LEDs        8 built\u2011in programs        12\u2011channel and 16\u2011channel DMX control modes        540\u00b0 of pan movement, 240\u00b0 of tilt movement        Variable beam angle from 10\u00b0 to 50\u00b0        Reversible Pan and Tilt control for inverted or mirrored operation        Touch screen menu and controls        Accepts 110 ~ 245 VAC, 50/60 Hz input power                                                                                                                                                                        Support Files:        User's Manual (Mar 7, 2016)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 21, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6128121.jpg\",\"https://images.monoprice.com/productlargeimages/6128122.jpg\",\"https://images.monoprice.com/productlargeimages/6128123.jpg\",\"https://images.monoprice.com/productlargeimages/6128124.jpg\",\"https://images.monoprice.com/productlargeimages/6128125.jpg\",\"https://images.monoprice.com/productlargeimages/6128126.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 619.99,
+      "sku": "612812",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612812",
+      "gtin14": "889028033395"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Stage Wash 360W LED DMX Moving Head RGBW Stage Light with Zoom",
+      "ratingCount": "17",
+      "reviewCount": "17",
+      "ratingValue": "3.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "LED Moving Heads",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-moving-heads"
+    },
+    {
+      "name": "612812",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-moving-heads/612812"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

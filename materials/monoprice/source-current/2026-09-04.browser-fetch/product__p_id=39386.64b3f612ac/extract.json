@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Combo Function Cable Tester and PoE Finder",
+    "@id": "https://www.monoprice.com/product?p_id=39386",
+    "url": "https://www.monoprice.com/product?p_id=39386",
+    "description": "                    This combination cable tester and Power over Ethernet (PoE) finder allows you to quickly and easily check for cable continuity, miswiring, open circuits, short circuits, straight-through pinning, or cross pinning, whether the cable was installed or not. The PoE Finder is easy to use for identifying the existence of PoE in seconds.                              Features:                            Cable tester and Power over Ethernet (PoE) finder        Easy to use for identify cables in any condition        Identifies the type of PSE with 12-36 (end span) or 45-78 (mid span)        Detects IEEE802.3af or IEEE802.3at Power over Ethernet (PoE)        Identifies the pass, open, or short condition of RJ45, RJ11, RJ12, and coaxial cables        Nine LEDs for indicating the cable conditions        CE and RoHS certified                    Updated Sep 20, 2019                           Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/393861.jpg\",\"https://images.monoprice.com/productlargeimages/393862.jpg\",\"https://images.monoprice.com/productlargeimages/393863.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 26.99,
+      "sku": "39386",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39386",
+      "gtin14": "889028135556"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Combo Function Cable Tester and PoE Finder",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "3.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Tests & Tone Generators",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/tests-&-tone-generators"
+    },
+    {
+      "name": "39386",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/tests-&-tone-generators/39386"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

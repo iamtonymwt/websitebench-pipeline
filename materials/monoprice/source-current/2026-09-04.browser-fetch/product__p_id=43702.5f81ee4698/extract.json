@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 CMP Bulk Ethernet Cable - UL TAA Solid (w/spine) UTP 23AWG 550MHz Pure Bare Copper Pull Box 500ft Blue",
+    "@id": "https://www.monoprice.com/product?p_id=43702",
+    "url": "https://www.monoprice.com/product?p_id=43702",
+    "description": "This 500\u2011foot roll of high\u2011performance bulk Cat6 Ethernet cable from Monoprice\u2122 is made with solid, 23AWG, 100% pure bare copper conductors and is UL\u00ae listed. It has a CMP plenum fire safety rating, allowing to be safely used in the plenum air spaces of commercial buildings. It is fully compliant with UL Code 444 and National Electrical Code\u00ae TIA\u2011568.2\u2011D fire and safety standards, which require pure bare copper wire in communications cables.Tested to perform to speeds up to 550MHz, it guarantees high\u2011speed data transfers for server applications, cloud computing, video surveillance, and online high\u2011definition video streaming. This TAA and RoHS compliant cable features Reelex\u00ae packaging to ensure it dispenses easily, without twists, tangles, snags, or overruns. The cable jacketing features length markings, allowing you to easily cut to the desired length and to know exactly how much cable is left in the box.Features: Unshielded Twisted Pair (UTP) Category 6 Ethernet cable23AWG solid, pure bare copper conductorsCMP (Plenum) fire safety ratingIEEE 802.3af (PoE) / IEEE 802.3at (PoE+) Power over Ethernet compliantTest up to 550MHz bandwidth500\u2011foot roll with length markings in Reelex\u00ae II packagingTAA CompliantANSI\u00ae/TIA\u2011568.2\u2011D compliantRoHS compliantLifetime warrantyCertifications: ANSI\u00ae/TIA\u2011568.2.D (2018)ISO/IES 11801\u20111IEC 61156\u20115 (Edition 2.1)NFPA 262 (CMP) fire safetyUL\u00ae 444CSA\u00ae 22.2 No.214EU Directive 2011/65/EU and 2015/863/EUEU Directive 2006/95/EC (LVD)CategoryCat5eCat6Cat6ACat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyMaximum Cable Distance100m100m100m (50m @ 10Gbps)30mNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-T or 40GBase-TCertification (Monoprice)ULUL or ETLUL or ETLULCostLowFairFair/ModeratePremiumDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. REELEX\u00ae and the REELEX logo are registered trademarks of REELEX PACKAGING SOLUTIONS, INC. ANSI\u00ae, the ANSI logo, and numerous other identifiers containing \"ANSI\" are registered trademarks, service marks, and accreditation marks of the American National Standards Institute (ANSI). CSA\u00ae is a registered trademark of the CSA Group. Updated Nov 2, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/437021.jpg\",\"https://images.monoprice.com/productlargeimages/437022.jpg\",\"https://images.monoprice.com/productlargeimages/437023.jpg\",\"https://images.monoprice.com/productlargeimages/437024.jpg\",\"https://images.monoprice.com/productlargeimages/437025.jpg\",\"https://images.monoprice.com/productlargeimages/437026.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 199.99,
+      "sku": "43702",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43702",
+      "gtin14": "889028180679"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 CMP Bulk Ethernet Cable - UL TAA Solid (w/spine) UTP 23AWG 550MHz Pure Bare Copper Pull Box 500ft Blue",
+      "ratingCount": "16",
+      "reviewCount": "1",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Networking Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables"
+    },
+    {
+      "name": "Cat6 Bulk Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables"
+    },
+    {
+      "name": "43702",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables/43702"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Mini 4-port USB 3.0 Travel Hub",
+    "@id": "https://www.monoprice.com/product?p_id=24260",
+    "url": "https://www.monoprice.com/product?p_id=24260",
+    "description": "Add extra USB 3.0 ports to your computer by using this compact 4-port hub. The travel-size works great with portable computer sleeve pockets and laptop bags. The USB port orientation ensures maximum compatibility, even with thicker USB connectors, while maintaining a compact form factor.Use with a laptop or desktop computer to easily connect external hard drives, flash drives, mobile devices, keyboards, mice, and other USB peripherals. This hub is powered directly from a computer for use with most USB peripherals. It is capable of data transfer speeds up to 5Gbps via USB 3.0, but is also backwards compatible with USB 2.0 and 1.1 computers and devices. No drivers or complicated configurations are required - just plug it in and start using it right away!Features: 4x USB 3.0 ports for SuperSpeed connectivity up to 5.0Gbps data transfer ratePlug-and-play and bus-powered, works with most computers and peripheralsTravel-friendly size goes well with portable computersOptimized layout provides enough space between USB ports\u00a0Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/242601.jpg\",\"https://images.monoprice.com/productlargeimages/242602.jpg\",\"https://images.monoprice.com/productlargeimages/242603.jpg\",\"https://images.monoprice.com/productlargeimages/242604.jpg\",\"https://images.monoprice.com/productlargeimages/242605.jpg\",\"https://images.monoprice.com/productlargeimages/242606.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.99,
+      "sku": "24260",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24260",
+      "gtin14": "889028053904"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Mini 4-port USB 3.0 Travel Hub",
+      "ratingCount": "79",
+      "reviewCount": "52",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Hubs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs"
+    },
+    {
+      "name": "24260",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs/24260"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

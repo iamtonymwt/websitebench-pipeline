@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 100-Watt Electric Soldering Gun",
+    "@id": "https://www.monoprice.com/product?p_id=39394",
+    "url": "https://www.monoprice.com/product?p_id=39394",
+    "description": "This 100-watt instant heat, double insulated soldering gun features a lightweight and balanced pistol grip, suitable for fast soldering jobs. It is RoHS certified.Updated Sep 20, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/393941.jpg\",\"https://images.monoprice.com/productlargeimages/393942.jpg\",\"https://images.monoprice.com/productlargeimages/393943.jpg\",\"https://images.monoprice.com/productlargeimages/393944.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 16.99,
+      "sku": "39394",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39394",
+      "gtin14": "889028135631"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 100-Watt Electric Soldering Gun",
+      "ratingCount": "8",
+      "reviewCount": "8",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Toolkits",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/toolkits"
+    },
+    {
+      "name": "39394",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/toolkits/39394"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

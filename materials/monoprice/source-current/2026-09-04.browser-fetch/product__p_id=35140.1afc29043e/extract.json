@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Splitter Power Cord - NEMA 5-15P to 2x NEMA 5-15R 16AWG 13A/1625W SJT 120V Black 1.5ft",
+    "@id": "https://www.monoprice.com/product?p_id=35140",
+    "url": "https://www.monoprice.com/product?p_id=35140",
+    "description": "This Y\u2011splitter power cord allows you to easily and conveniently plug two devices into a single power outlet. It provides more flexibility than a power strip, with just the right amount of connections. The three\u2011prong NEMA\u00ae 5\u201115 design makes it safe for your grounded power connections. This 16 AWG cable is designed to carry up to a 13 amp/1625 watt, 125 volt load.Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0Type2x NEMA 5\u201115RJacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge16AWGMaximum\u00a0Current13 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. CSA\u00ae is a registered trademark of the CSA Group. Updated Sep 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/351401.jpg\",\"https://images.monoprice.com/productlargeimages/351402.jpg\",\"https://images.monoprice.com/productlargeimages/351403.jpg\",\"https://images.monoprice.com/productlargeimages/351404.jpg\",\"https://images.monoprice.com/productlargeimages/351405.jpg\",\"https://images.monoprice.com/productlargeimages/351406.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.19,
+      "sku": "35140",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35140",
+      "gtin14": "889028103289"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Splitter Power Cord - NEMA 5-15P to 2x NEMA 5-15R 16AWG 13A/1625W SJT 120V Black 1.5ft",
+      "ratingCount": "122",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Splitter Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords"
+    },
+    {
+      "name": "35140",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords/35140"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

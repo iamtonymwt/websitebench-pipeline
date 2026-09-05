@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Studio Monitor Speaker Isolation Pads (pair)",
+    "@id": "https://www.monoprice.com/product?p_id=625871",
+    "url": "https://www.monoprice.com/product?p_id=625871",
+    "description": "Acoustic treatment can be costly and intimidating, often leading to making rooms more \"dead\" without creating a good mixing environment. Studio monitor isolation pads are a different story. They will provide an improvement to your monitoring, regardless of room or acoustic characteristics. Stage Right\u2122 studio monitor isolation pads are the safest, easiest, and most affordable way to improve the sonic accuracy of your monitors.Stage Right\u2122 studio monitor isolation pads are made of high-density foam, which provides the ideal amount of separation between your monitors and the desk or stands. They measure 11.4\" x 7.5\" and are able to support most common studio monitors (with up to 8\" woofer). Their two-piece construction provides additional flexibility, with 3 different monitor angles for placement on stands of different heights.Features: Made of high-density foamMeasures 11.4\" x 7.5\" x 2.0\"Supports 0\u00b0, 5\u00b0, and 10\u00b0 monitor anglesStage Right\u2122 and the Stage Right logo are trademarks of Monoprice Inc. Updated Apr 23, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6258711.jpg\",\"https://images.monoprice.com/productlargeimages/6258712.jpg\",\"https://images.monoprice.com/productlargeimages/6258713.jpg\",\"https://images.monoprice.com/productlargeimages/6258714.jpg\",\"https://images.monoprice.com/productlargeimages/6258715.jpg\",\"https://images.monoprice.com/productlargeimages/6258716.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "625871",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625871",
+      "gtin14": "889028151532"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Studio Monitor Speaker Isolation Pads (pair)",
+      "ratingCount": "20",
+      "reviewCount": "20",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Studio Sound & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories"
+    },
+    {
+      "name": "Studio Acoustic Treatment & Foam",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-acoustic-treatment-&-foam"
+    },
+    {
+      "name": "625871",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-acoustic-treatment-&-foam/625871"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

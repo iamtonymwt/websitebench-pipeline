@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HPDB50 M/CN50 M SCSI Cable  25PR -10ft",
+    "@id": "https://www.monoprice.com/product?p_id=742",
+    "url": "https://www.monoprice.com/product?p_id=742",
+    "description": "Half Pitch, D Subminiature (HPDB50) to Regular Centronics Style, 50 pin (CN50) SCSI cable. 25 Twisted Pairs.High quality interconnect cable for SCSI devices.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/7421.jpg\",\"https://images.monoprice.com/productlargeimages/7422.jpg\",\"https://images.monoprice.com/productlargeimages/7423.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.59,
+      "sku": "742",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=742",
+      "gtin14": "844660007425"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HPDB50 M/CN50 M SCSI Cable  25PR -10ft",
+      "ratingCount": "2",
+      "reviewCount": "0",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SCSI & SAS Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/scsi-&-sas-cables"
+    },
+    {
+      "name": "742",
+      "url": "https://www.monoprice.com/category/cables/data-cables/scsi-&-sas-cables/742"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

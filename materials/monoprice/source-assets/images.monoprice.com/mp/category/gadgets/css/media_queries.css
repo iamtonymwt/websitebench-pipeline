@@ -1,0 +1,355 @@
+@media screen and (max-width: 1200px) {
+
+
+.main_banner_caption {
+	
+	position: absolute;
+	left: 50px;
+	top:8%;
+	color: #fff;
+	text-align: left;
+	font-weight: 300; 
+	text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+	
+	
+}
+
+.main_banner_caption h1 {
+	font-size: 44px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 100;
+	line-height: 40px;
+	
+}
+
+.main_banner_caption h1 span {
+	font-size: 44px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 500;
+
+}
+
+.main_banner_caption p {
+	
+	font-size: 18px;
+	color: #07A6BB;
+	font-weight: 100;
+	
+}
+
+.first_choice {
+	width: 100%;
+    height: 300px;
+    background-color: #e8e8e8;
+    padding: 80px 80px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 992px) {
+
+
+.main_banner_caption {
+	font-size: 42px;
+	position: absolute;
+	left: 50px;
+	top: 5%;
+	color: #fff;
+	text-align: left;
+	font-weight: 300; 
+	text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+	
+	
+}
+
+.main_banner_caption h1 {
+	font-size: 38px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 100;
+	
+}
+
+.main_banner_caption h1 span {
+	font-size: 38px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 500;
+
+}
+
+.main_banner_caption p {
+	
+	font-size: 20px;
+	color: #07A6BB;
+	font-weight: 100;
+	
+}
+
+.description {
+	width:100%;
+	height: 800px;
+	background-color: #ffffff;
+	padding-top: 5px;
+	border-bottom:none;
+}
+.description figure {
+	background-color: #ffffff;
+	height: auto;
+	padding: 20px;
+
+
+}
+
+.description figure img {
+	width: 169px;
+	height: 167px;
+	margin: 0 auto;
+	display: block;
+}
+
+
+.description figure h1 {
+	font-weight: 600;
+	font-size: 20px;
+	color: #07a6bb;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+
+.description figure p{
+	font-size: 14px;
+	padding-bottom: 2px;
+	padding: 0 10px;
+	text-align: center;
+	color: #5c5c5c;
+	
+}
+
+.description_header {
+	background-color: #ffffff;
+	height: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	
+}
+
+.first_choice {
+	width: 100%;
+    height: 300px;
+    background-color: #e8e8e8;
+    padding: 50px 20px;
+}
+
+.first_choice h2{
+	font-size: 25px;
+    
+}
+
+}
+
+/* Description Information */
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+.main_banner_caption {
+	font-size: 28px;
+	position: absolute;
+	left: 20px;
+	top: 2%;
+	color: #fff;
+	text-align: left;
+	font-weight: 300; 
+	text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+	
+	
+}
+
+.main_banner_caption h1 {
+	font-size: 28px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 100;
+	line-height: 30px;
+	
+}
+
+.main_banner_caption h1 span {
+	font-size: 28px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 500;
+
+}
+
+.main_banner_caption h3 {
+	
+	font-size: 14px;
+    color: #ffffff;
+    font-weight: 100;
+    padding-top: 10px;
+	
+}
+
+
+/* Description Information */
+
+
+}
+
+@media screen and (max-width: 480px){
+
+.main_banner_caption {
+	font-size: 24px;
+	position: absolute;
+	left: 20px;
+	top: 2%;
+	color: #fff;
+	text-align: left;
+	font-weight: 300; 
+	text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+	
+	
+}
+
+.main_banner_caption h1 {
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 100;
+	line-height: 30px;
+	
+}
+
+.main_banner_caption h1 span {
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 500;
+
+}
+
+.main_banner_caption h3 {
+	display:none;
+	
+}
+
+
+
+/* Monitor White*/
+
+.description {
+	width:100%;
+	height: 900px;
+	background-color: #ffffff;
+	padding-top: 5px;
+	border-bottom:none;
+}
+
+.first_choice {
+	width: 100%;
+    height: 360px;
+    background-color: #e8e8e8;
+    padding: 50px 20px;
+}
+
+
+
+}
+
+
+
+@media screen and (max-width: 320px){
+
+.main_banner_caption {
+	font-size: 24px;
+	position: absolute;
+	left: 20px;
+	top: 2%;
+	color: #fff;
+	text-align: left;
+	font-weight: 300; 
+	text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+	
+	
+}
+
+.main_banner_caption h1 {
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 100;
+	line-height: 30px;
+	
+}
+
+.main_banner_caption h1 span {
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 500;
+
+}
+
+.main_banner_caption h3 {
+	display:none;
+	
+}
+
+
+
+/* Monitor White*/
+
+.description {
+	width:100%;
+	height: 900px;
+	background-color: #ffffff;
+	padding-top: 5px;
+	border-bottom:none;
+}
+
+.first_choice {
+	width: 100%;
+    height: 360px;
+    background-color: #e8e8e8;
+    padding: 50px 20px;
+}
+
+
+
+}
+
+

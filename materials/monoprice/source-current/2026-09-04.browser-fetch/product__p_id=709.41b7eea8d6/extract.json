@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 0.8 mm/0.8 mm VHDCI 0.8mm SCSI Cable - 6ft  Offset",
+    "@id": "https://www.monoprice.com/product?p_id=709",
+    "url": "https://www.monoprice.com/product?p_id=709",
+    "description": "VHDCI SCSI cables with\u00a068-pin 0.8mm\u00a0offset connectors\u00a0for connecting Ultra SCSI storage devices and other compatible devices.\u00a0 VHDCI stands for Very High Density Cable Interconnect.\u00a0 This cable features an assembly type offset connector which means that the connector has a two piece shell that is held together by screws and the connector is not centered on the face of the connector housing.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/7091.jpg\",\"https://images.monoprice.com/productlargeimages/7092.jpg\",\"https://images.monoprice.com/productlargeimages/7093.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 73.49,
+      "sku": "709",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=709",
+      "gtin14": "844660007098"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 0.8 mm/0.8 mm VHDCI 0.8mm SCSI Cable - 6ft  Offset",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SCSI & SAS Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/scsi-&-sas-cables"
+    },
+    {
+      "name": "709",
+      "url": "https://www.monoprice.com/category/cables/data-cables/scsi-&-sas-cables/709"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium Full Motion TV Wall Mount Bracket For 37 To 70 TVs up to 77lbs Max VESA 600x400",
+    "@id": "https://www.monoprice.com/product?p_id=21950",
+    "url": "https://www.monoprice.com/product?p_id=21950",
+    "description": " \u00a0The Monoprice\u2122 Full Motion Articulating TV Wall Mount Bracket focuses on a minimal footprint on the wall. Minimizing the amount of space required for mounting allows for optimal mounting positioning. The single arm design allows for a greater range of side to side motion. The large TV plate design accommodates a large variety of screen sizes including large format, lightweight displays.\u00a0*Note that the display screen size is only an approximation. Your display is compatible with this mount as long as it has a VESA\u00ae mounting pattern and weight that fit within the size and weight limits listed above.\u00a0Support Files: User's Manual (Mar 06, 2022)Diagram (May 21, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Feb 4, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/219501.jpg\",\"https://images.monoprice.com/productlargeimages/219502.jpg\",\"https://images.monoprice.com/productlargeimages/219503.jpg\",\"https://images.monoprice.com/productlargeimages/219504.jpg\",\"https://images.monoprice.com/productlargeimages/219505.jpg\",\"https://images.monoprice.com/productlargeimages/219506.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 42.99,
+      "sku": "21950",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21950",
+      "gtin14": "889028052464"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium Full Motion TV Wall Mount Bracket For 37 To 70 TVs up to 77lbs Max VESA 600x400",
+      "ratingCount": "33",
+      "reviewCount": "33",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Full Motion TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts"
+    },
+    {
+      "name": "21950",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts/21950"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

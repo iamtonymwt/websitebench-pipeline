@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Ellipsoidal Aluminum Replacement Gobo Holder B Size Metal or Glass",
+    "@id": "https://www.monoprice.com/product?p_id=612100",
+    "url": "https://www.monoprice.com/product?p_id=612100",
+    "description": "Type \"B\" Sandwich Gobo HolderMaterial: AluminumColor: BlackSize: Length 3.66\" x 8.58\" (93 x 218 mm)Diameter for hold: 2.75\" (70mm)Use with: 612751 or 612752Safe to use with Metal, Glass, or 3D printed Gobos. 3D printed gobos are only safe to use with LED ellipsoidal fixtures such as our Stage Right 612751 and 612752.\u00a0Support Files: Quick Setup Guide (Dec 11, 2025)Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6121001.jpg\",\"https://images.monoprice.com/productlargeimages/6121002.jpg\",\"https://images.monoprice.com/productlargeimages/6121003.jpg\",\"https://images.monoprice.com/productlargeimages/6121004.jpg\",\"https://images.monoprice.com/productlargeimages/6121005.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.99,
+      "sku": "612100",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=612100",
+      "gtin14": "889028054260"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Ellipsoidal Aluminum Replacement Gobo Holder B Size Metal or Glass",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Spotlights & Ellipsoidals",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals"
+    },
+    {
+      "name": "612100",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals/612100"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

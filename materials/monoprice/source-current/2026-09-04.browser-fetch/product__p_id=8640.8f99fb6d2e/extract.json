@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to Micro B 2.0 Cable - 5-Pin 28/24AWG Gold Plated White 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=8640",
+    "url": "https://www.monoprice.com/product?p_id=8640",
+    "description": "The USB micro B connector has become the new universal standard connector used on most smartphones and tablets. This USB 2.0 cable features a USB A male plug on one end and a USB micro B male plug on the other end. The connectors are gold plated to ensure smooth, corrosion-free connections. It uses 28 AWG conductors for data and 24 AWG conductors for power. It is shielded and features a single ferrite core to protect against signal interference and data loss.Features: 100% compliant with USB 2.0 specifications28 AWG data conductors and 24 AWG power conductorsGold plated connectors ensure a smooth, corrosion-free connectionMolded connector heads with molded strain relief bootsShielded to protect against external signal interferenceIncludes a ferrite core to prevent RF and electromagnetic interference                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/86401.jpg\",\"https://images.monoprice.com/productlargeimages/86402.jpg\",\"https://images.monoprice.com/productlargeimages/86403.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.79,
+      "sku": "8640",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8640",
+      "gtin14": "844660086406"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to Micro B 2.0 Cable - 5-Pin 28/24AWG Gold Plated White 3ft",
+      "ratingCount": "2586",
+      "reviewCount": "132",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "Micro USB Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables"
+    },
+    {
+      "name": "8640",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/micro-usb-cables/8640"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

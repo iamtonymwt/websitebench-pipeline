@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A Component Level Ethernet Patch Cable - Pure Bare Copper UTP 24AWG 500MHz Snagless RJ45 25ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=44655",
+    "url": "https://www.monoprice.com/product?p_id=44655",
+    "description": "Monoprice\u2122CAT6A Black Component Level Ethernet Patch CableUTP, 24 AWG, 500 MHz, Pure Bare Copper, Snagless RJ45Designed for high-density data environments, the Monoprice\u2122 CAT6A Ethernet Network Patch Cables provide exceptional frequency characteristics and data transfer speeds in a standard 24 AWG form factor. These CAT6A cables passed the DSX-8000 Fluke Patch Test @ 500MHz, which provides optimized performance over in-wall rated CM patch cables. Their ultra-short snagless and narrow boot design reduces congestion in high-density spaces, making them ideal for data centers and server rooms.Component level in-wall rated CM\u00a0for server-grade applications24 AWG UTP stranded pure bare copper conductorsSupports the IEEE 802 standard for 10 Gb Ethernet over UTP cableUltra short boot promotes shorter installed bend radius, ideal for limited depth applicationsStrain-relief of the 50u gold-plated plug ensures long-term network performance\u00a0COMPONENT LEVELCompliant with TIA 568.2-D & ISO 11801, 100% transmission tested to component level.\u00a0CM-RATED BARE COPPERIn-wall-rated Ethernet cables meet UL\u00ae safety standards with fire-resistant jackets, ensuring secure and reliable performance for residential or commercial installations.\u00a0COMPONENT TESTEDComponent\u2011tested Ethernet cables ensure every part meets strict standards, supporting 1 to 10 Gigabit speeds for reliability in data centers, video editing, VOIP, and more. For consumers, they boost network reliability, reduce latency, and improve performance for gaming, streaming, and home offices.\u00a0ULTRA SHORT BOOTPromotes a shorter installed bend radius, ideal for limited-depth applications.\u00a050U GOLD-PLATED PLUGStrain relief ensures long-term network performance.\u00a0CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important..gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Testing Report (Jul 03, 2023)Linecard (Jul 29, 2026)Tech Drawing (Mar 05, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Aug 08, 2023 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/446551.jpg\",\"https://images.monoprice.com/productlargeimages/446552.jpg\",\"https://images.monoprice.com/productlargeimages/446553.jpg\",\"https://images.monoprice.com/productlargeimages/446554.jpg\",\"https://images.monoprice.com/productlargeimages/446555.jpg\",\"https://images.monoprice.com/productlargeimages/446556.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.69,
+      "sku": "44655",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44655",
+      "gtin14": "889028191262"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A Component Level Ethernet Patch Cable - Pure Bare Copper UTP 24AWG 500MHz Snagless RJ45 25ft Black",
+      "ratingCount": "5",
+      "reviewCount": "0",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6A Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6a-ethernet-cables"
+    },
+    {
+      "name": "44655",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6a-ethernet-cables/44655"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

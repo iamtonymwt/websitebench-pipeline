@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Small Multimedia Desktop Monitor Stand 22in x 9.5in Clear Glass Max Weight Capacity 66lbs",
+    "@id": "https://www.monoprice.com/product?p_id=9434",
+    "url": "https://www.monoprice.com/product?p_id=9434",
+    "description": "Give yourself an extra shelf with this Glass Multi Media Stand from Monoprice\u2122!This stackable glass shelf provides an additional horizonal surface on which to place a computer monitor, laptop computer, home audio equipment, or anything else that needs a flat surface. The shelf is made of 3/8\" plate glass and measures 22\" wide and 9.5\" deep. The shelf is stabilized with four 1\" diameter aluminum legs with a nominal height of 2.75\". The feet can be extended up to 1\" at each corner, allowing the shelf to perfectly leveled on slightly uneven surfaces. It has a maximum weight capacity of 66 lbs. (30 kg).Support Files: User's Manual (Sep 18, 2017)Dimensions Diagram (Sep 18, 2017)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 25, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/94341.jpg\",\"https://images.monoprice.com/productlargeimages/94342.jpg\",\"https://images.monoprice.com/productlargeimages/94343.jpg\",\"https://images.monoprice.com/productlargeimages/94344.jpg\",\"https://images.monoprice.com/productlargeimages/94345.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 38.99,
+      "sku": "9434",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9434",
+      "gtin14": "844660094340"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Small Multimedia Desktop Monitor Stand 22in x 9.5in Clear Glass Max Weight Capacity 66lbs",
+      "ratingCount": "745",
+      "reviewCount": "251",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Monitor Stand & Shelves",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves"
+    },
+    {
+      "name": "9434",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves/9434"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

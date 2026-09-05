@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C19 14AWG 15A/1875W SJT 100-250V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=35134",
+    "url": "https://www.monoprice.com/product?p_id=35134",
+    "description": "IEC 60320 C14 to IEC 60320 C19 power cords are commonly used between Cisco\u00ae or Juniper\u00ae Networks rack mounted equipment and the PDU in a data cabinet. Extend the reach of your AC powered device using this AC power extension cord to energize equipment from a distant power outlet. This cable features a standard, grounded IEC 60320 C14 plug on one end and an IEC 60320 C19 receptacle on the other. This cable is designed to carry up to a 15 amp/1875 watt, 125 volt load.Features: Heavy duty 14 AWG power cord is fully molded for PDU or UPS in data centerRecommended for powering computers, monitors, and other essential peripheralsExtend the length of an existing power cord for more flexibilityColored cord is designed for easy identification in a high density data environment\u00a0Plug\u00a0TypeIEC 60320 C14Receptacle\u00a0TypeIEC 60320 C19Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge14 AWGMaximum\u00a0Current15 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Cisco\u00ae is a registered trademark or trademark of Cisco Systems, Inc. and/or its affiliates in the United States and certain other countries. Juniper\u00ae is a registered trademark of Juniper Networks, Inc. in the United States and other countries. CSA\u00ae is a registered trademark of the CSA Group. Updated Sep 30, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/351341.jpg\",\"https://images.monoprice.com/productlargeimages/351342.jpg\",\"https://images.monoprice.com/productlargeimages/351343.jpg\",\"https://images.monoprice.com/productlargeimages/351344.jpg\",\"https://images.monoprice.com/productlargeimages/351345.jpg\",\"https://images.monoprice.com/productlargeimages/351346.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.99,
+      "sku": "35134",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35134",
+      "gtin14": "889028103227"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C19 14AWG 15A/1875W SJT 100-250V Black 6ft",
+      "ratingCount": "1",
+      "reviewCount": "0",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "35134",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/35134"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

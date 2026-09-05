@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice Amplifier/Component Stand XL Espresso",
+    "@id": "https://www.monoprice.com/product?p_id=39163",
+    "url": "https://www.monoprice.com/product?p_id=39163",
+    "description": "The Monolith\u2122 Amplifier/Component Stand XL is a single shelf AV stand for your home theater or entertainment system. Its satin finished shelf is large in size, sturdy, and durable, while its open air design allows for maximum airflow and easy access to connections. Sturdy, tubular steel pillars provide incredible strength and rigidity to support even the heaviest of components. An additional support bar can be utilized for extra rigidity. The Monolith Amplifier Stand XL is the perfect way to organize and display your Monolith amplifier or other audio/video components.\u00a0    1 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 45 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.45 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 45 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122, Monolith\u2122, the Monolith logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Apr 6, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/391631.jpg\",\"https://images.monoprice.com/productlargeimages/391632.jpg\",\"https://images.monoprice.com/productlargeimages/391633.jpg\",\"https://images.monoprice.com/productlargeimages/391634.jpg\",\"https://images.monoprice.com/productlargeimages/391635.jpg\",\"https://images.monoprice.com/productlargeimages/391636.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 69.99,
+      "sku": "39163",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39163",
+      "gtin14": "889028133255"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice Amplifier/Component Stand XL Espresso",
+      "ratingCount": "60",
+      "reviewCount": "18",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "TV & Component Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-&-component-stands"
+    },
+    {
+      "name": "39163",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/tv-&-component-stands/39163"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

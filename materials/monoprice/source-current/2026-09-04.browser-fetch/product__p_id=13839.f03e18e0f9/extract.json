@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R 16AWG 13A/1625W SJTW White 12ft",
+    "@id": "https://www.monoprice.com/product?p_id=13839",
+    "url": "https://www.monoprice.com/product?p_id=13839",
+    "description": "This white 12\u2011foot outdoor extension cord is ideal for lawn, garden, and landscaping uses, as well as holiday lighting and other electrical yard decorations. It features a grounded NEMA\u00ae 5\u201115 plug on one end and a grounded NEMA 5\u201115 outlet on the other end.This outdoor extension cord is water and abrasion resistant and features a flame retardant SJTW jacket. It has nickel\u2011coated brass blades, which resist corrosion, and it remains flexible in temperatures from \u201140 ~ +140\u00b0F. This ETL certified extension cord features 16 AWG stranded copper conductors and is rated for 13 amps/1625 watts at 125 VAC.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. PRIME\u00ae and the PRIME logo are registered trademarks of Prime Wire & Cable, Inc. Updated Jul 27, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/138391.jpg\",\"https://images.monoprice.com/productlargeimages/138392.jpg\",\"https://images.monoprice.com/productlargeimages/138393.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 24.99,
+      "sku": "13839",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13839",
+      "gtin14": "889028018989"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R 16AWG 13A/1625W SJTW White 12ft",
+      "ratingCount": "17",
+      "reviewCount": "2",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "13839",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/13839"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

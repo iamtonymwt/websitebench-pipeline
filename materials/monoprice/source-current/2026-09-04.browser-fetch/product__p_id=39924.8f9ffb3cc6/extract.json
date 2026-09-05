@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to USB-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 3ft  5-Pack",
+    "@id": "https://www.monoprice.com/product?p_id=39924",
+    "url": "https://www.monoprice.com/product?p_id=39924",
+    "description": "    Extend your USB 2.0 connection with this USB 2.0 USB-A Male to USB-A Female Extension cable from Monoprice!    This cable features a standard USB-A Male connector on one end and a USB-A Female connector on the other and is particularly useful for extending the reach of a USB cable with a proprietary connector or fixed device (such as an AC adapter) on one end. The cable uses 28 AWG conductors for the data lines and 24 AWG conductors for the power lines. The connectors are gold plated to ensure smooth, corrosion free connections.      Note that other than color, the physical appearance of this cable may not exactly match the images, particularly in regard to the molding on the female end. Regardless of appearance, all cables have the same level of performance and include our standard Limited Lifetime warranty.        Updated Feb 7, 2020          \u00a0   ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/399241.jpg\",\"https://images.monoprice.com/productlargeimages/399242.jpg\",\"https://images.monoprice.com/productlargeimages/399243.jpg\",\"https://images.monoprice.com/productlargeimages/399244.jpg\",\"https://images.monoprice.com/productlargeimages/399245.jpg\",\"https://images.monoprice.com/productlargeimages/399246.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.59,
+      "sku": "39924",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39924",
+      "gtin14": "889028140796"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to USB-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 3ft  5-Pack",
+      "ratingCount": "1609",
+      "reviewCount": "6",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables"
+    },
+    {
+      "name": "39924",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables/39924"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3-Gang 7.1 Surround Sound Distribution Wall Plate with HDMI",
+    "@id": "https://www.monoprice.com/product?p_id=6907",
+    "url": "https://www.monoprice.com/product?p_id=6907",
+    "description": "This home theater plate provides all the flexibility that\u00a0a professional installer or experienced do-it-yourselfer needs to create a sophisticated media environment. The plates are easy to terminate and contribute to a neat looking and\u00a0finished installation. Clear labeling also simplifies room set up and configuration.Please Note: The subwoofer connection is an RCA connection on the front and an\u00a0RCA connector on the back.\u00a0This product can either be used with banana plugs (product ID 2801 or 2943) or it can accept bare wire connections on both the front and rear of the plate.\u00a0Note:\u00a0 Not compatible with\u00a0DUAL banana plugs like PID# 2944 & 2945.\u00a0 Works fine with individual single banana plugs.\u00a0 \u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/69071.jpg\",\"https://images.monoprice.com/productlargeimages/69072.jpg\",\"https://images.monoprice.com/productlargeimages/69073.jpg\",\"https://images.monoprice.com/productlargeimages/69074.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "6907",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6907",
+      "gtin14": "844660069072"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3-Gang 7.1 Surround Sound Distribution Wall Plate with HDMI",
+      "ratingCount": "76",
+      "reviewCount": "76",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "6907",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/6907"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

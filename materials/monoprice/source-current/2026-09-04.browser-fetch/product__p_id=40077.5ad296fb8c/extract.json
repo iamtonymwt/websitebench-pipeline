@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Power Cord - NEMA 6-15P to IEC 60320 C13 14AWG 15A/3750W SJT 250V Black 8ft",
+    "@id": "https://www.monoprice.com/product?p_id=40077",
+    "url": "https://www.monoprice.com/product?p_id=40077",
+    "description": "Connect your computer, monitor, power adapter, or other device with a male IEC 60320 C14 panel connector to a UPS or other AC power source. This power cord features a standard, grounded NEMA\u00ae 6\u201115P plug on one end and an IEC 60320 C13 connector on the other end. Simply mate the female C13 connector with the male C14 connector on your device or power adapter, then plug the NEMA connector into a nearby UPS or other AC power source. This cable is designed to carry a 15 amp/3750 watt, 250 volt load.Features: Recommended for powering computers, printers, scanners, sound systems, and other devicesExtend the length of an existing power cord for more flexibilityConnect commercial equipment requiring high voltage, such as computers, servers, and monitors to a PDU or UPS in a data centerDesigned for high\u2011density data environments\u00a0Plug\u00a0TypeNEMA\u00ae 6\u201115PReceptacle\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge14 AWGMaximum\u00a0Current15 ampsCertificationsUL\u00ae, cUL, RoHS, REACHMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Aug 20, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/400771.jpg\",\"https://images.monoprice.com/productlargeimages/400772.jpg\",\"https://images.monoprice.com/productlargeimages/400773.jpg\",\"https://images.monoprice.com/productlargeimages/400774.jpg\",\"https://images.monoprice.com/productlargeimages/400775.jpg\",\"https://images.monoprice.com/productlargeimages/400776.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.19,
+      "sku": "40077",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40077",
+      "gtin14": "889028142332"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Power Cord - NEMA 6-15P to IEC 60320 C13 14AWG 15A/3750W SJT 250V Black 8ft",
+      "ratingCount": "5",
+      "reviewCount": "1",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "40077",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/40077"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

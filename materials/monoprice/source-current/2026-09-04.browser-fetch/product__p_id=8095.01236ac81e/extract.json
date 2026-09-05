@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Full Motion TV Wall Mount Bracket Long Extension Range to 3.9 For 13 To 27 TVs up to 33lbs Max VESA 100x100 UL Certified ",
+    "@id": "https://www.monoprice.com/product?p_id=8095",
+    "url": "https://www.monoprice.com/product?p_id=8095",
+    "description": " \u00a0Don't leave your flat panel TV on a table or stand where it can be knocked over and damaged, or even worse injure a child or pet. Instead, mount it securely and safely to the wall using this Adjustable Tilting/Swiveling Wall Mount Bracket from Monoprice\u2122!This mount bracket supports adjustments in three dimensions; it can be swiveled \u00b190\u00b0, can be tilted \u00b120\u00b0, and can be rotated \u00b110\u00b0. It also features cable management clips to help keep your installation clean and professional looking. It has undergone extensive safety testing and has been certified by Underwriters Laboratories\u00ae (UL\u00ae), which ensures that it will perform safely and reliably.This bracket is designed to mount an LCD, LED, or Plasma display with a VESA\u00ae mounting pattern of 75x75 or 100x100, which includes most 13\" to 27\" displays*. It can be mounted to any brick, concrete, or wood stud wall and can safely hold up to 33 lbs. (including the weight of the mount itself). Mounting hardware is included.*The minimum and maximum display sizes are only approximations. Your TV will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight.Support Files: User's Manual (Sep 18, 2017)Dimensions Diagram (Sep 18, 2017)Mounting Template (Jul 22, 2024)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a trademark owned by the Video Electronics Standards Association (VESA\u00ae) in the United States and other countries. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jan 20, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/80951.jpg\",\"https://images.monoprice.com/productlargeimages/80952.jpg\",\"https://images.monoprice.com/productlargeimages/80953.jpg\",\"https://images.monoprice.com/productlargeimages/80954.jpg\",\"https://images.monoprice.com/productlargeimages/80955.jpg\",\"https://images.monoprice.com/productlargeimages/80956.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 27.99,
+      "sku": "8095",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8095",
+      "gtin14": "844660080954"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Full Motion TV Wall Mount Bracket Long Extension Range to 3.9 For 13 To 27 TVs up to 33lbs Max VESA 100x100 UL Certified ",
+      "ratingCount": "142",
+      "reviewCount": "35",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Full Motion TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts"
+    },
+    {
+      "name": "8095",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts/8095"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

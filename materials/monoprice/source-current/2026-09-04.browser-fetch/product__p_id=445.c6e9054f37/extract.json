@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 25ft DB 9 M/F Molded Cable",
+    "@id": "https://www.monoprice.com/product?p_id=445",
+    "url": "https://www.monoprice.com/product?p_id=445",
+    "description": "High quality, high value, Serial (DB9) Straight, Extension Cables.A reliable and economical solution for extending your pre-existing serial cables.High quality molded connectors.Beige color.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.govEnable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[\"https://images.monoprice.com/productlargeimages/4451.jpg\",\"https://images.monoprice.com/productlargeimages/4452.jpg\",\"https://images.monoprice.com/productlargeimages/4453.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.59,
+      "sku": "445",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=445",
+      "gtin14": "844660004455"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 25ft DB 9 M/F Molded Cable",
+      "ratingCount": "45",
+      "reviewCount": "10",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Computer & Printer Cables",
+      "url": "https://www.monoprice.com/category/cables/computer-&-printer-cables"
+    },
+    {
+      "name": "Printer Cables",
+      "url": "https://www.monoprice.com/category/cables/computer-&-printer-cables/printer-cables"
+    },
+    {
+      "name": "445",
+      "url": "https://www.monoprice.com/category/cables/computer-&-printer-cables/printer-cables/445"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

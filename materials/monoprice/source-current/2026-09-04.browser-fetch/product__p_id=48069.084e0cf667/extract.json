@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A Ethernet Patch Cable - Slim Flat U/FTP 30AWG Molded Boot 5ft Blue",
+    "@id": "https://www.monoprice.com/product?p_id=48069",
+    "url": "https://www.monoprice.com/product?p_id=48069",
+    "description": "Monoprice\u2122Cat6A Ethernet Patch Cable \u2011 Slim, Flat, U/FTP, 30AWG,Molded BootHigh\u2011Speed 10G Networking in a Slim, Space\u2011Saving DesignThe Monoprice Cat6A Slim Flat Ethernet Patch Cable delivers high\u2011performance 10 Gigabit networking in a compact, space\u2011saving design. Engineered with 30AWG stranded pure bare copper conductors and U/FTP (Unshielded Foiled Twisted Pair) shielding, it supports bandwidths up to 550MHz and ensures stable, interference\u2011free data transmission. Its ultra\u2011slim, flat profile is perfect for tight spaces, under carpets, or behind equipment\u2011reducing clutter without compromising speed or reliability. A molded strain\u2011relief boot adds durability and protects the RJ45 connectors during frequent plugging and unplugging, while the flexible design simplifies routing and installation. Ideal for home, office, or data center setups, this cable meets TIA/EIA\u2011568\u2011C.2 standards and provide a dependable solution for streaming, gaming, and high-bandwidth applications.Supports 10 Gigabit Ethernet and 550MHz bandwidth for reliable high\u2011speed networking and data\u2011intensive applicationsConstructed with 30AWG stranded pure bare copper conductors to ensure superior conductivity and consistent signal qualityU/FTP shielding design minimizes electromagnetic interference and crosstalk for cleaner, more stable connectionsUltra\u2011slim, flat profile allows easy routing under carpets, along walls, or behind furniture without adding bulkMolded strain\u2011relief boot enhances durability and protects the RJ45 connectors from bending or cable stressFlexible design simplifies installation in tight spaces and helps with clean, professional cable managementComplies with TIA/EIA\u2011568\u2011C.2 standards for performance and compatibility in residential, office, and data center environmentsAvailable in multiple lengths and colors to accommodate various network setups and aesthetic preferences\u00a0HIGH\u2011SPEED 10G NETWORK PERFORMANCEAchieve reliable 10 Gigabit Ethernet speeds with 550MHz bandwidth, powered by 30AWG stranded pure bare copper conductors for consistent, high\u2011quality signal transmission.\u00a0SLIM, FLAT DESIGN FOR EASY ROUTINGThe ultra\u2011slim, flat profile reduces clutter and easily fits under carpets, along baseboards, or behind furniture\u2011perfect for clean, space\u2011saving installations.\u00a0SHIELDED FOR STABLE, INTERFERENCE\u2011FREE SIGNALSU/FTP shielding minimizes electromagnetic interference and crosstalk, ensuring stable connections for streaming, gaming, and other high-bandwidth applications.\u00a0DURABLE MOLDED BOOT CONSTRUCTIONA molded strain\u2011relief boot protects the RJ45 connectors from bending and wear, delivering long\u2011lasting reliability even with frequent plug\u2011and\u2011play use.\u00a0PACKAGE CONTENTS\u2022 Monoprice Cat6A Ethernet Patch Cable \u2011 Slim, Flat, U/FTP, 30AWG, Molded Boot\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Sales Sheet (Nov 12, 2025)Tech Drawing (Sep 23, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 11, 2025 WARNING: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/480691.jpg\",\"https://images.monoprice.com/productlargeimages/480692.jpg\",\"https://images.monoprice.com/productlargeimages/480693.jpg\",\"https://images.monoprice.com/productlargeimages/480694.jpg\",\"https://images.monoprice.com/productlargeimages/480695.jpg\",\"https://images.monoprice.com/productlargeimages/480696.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.19,
+      "sku": "48069",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=48069",
+      "gtin14": "889028215975"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A Ethernet Patch Cable - Slim Flat U/FTP 30AWG Molded Boot 5ft Blue",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6A Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6a-ethernet-cables"
+    },
+    {
+      "name": "48069",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6a-ethernet-cables/48069"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

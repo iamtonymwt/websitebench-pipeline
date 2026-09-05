@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice S/PDIF Digital Optical Audio Cable Toslink to Mini Toslink 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=1557",
+    "url": "https://www.monoprice.com/product?p_id=1557",
+    "description": "Experience superb sonic clarity and accurate musical reproduction with this S/PDIF (Toslink) Digital Optical Audio Cable from Monoprice\u2122!The Sony\u00ae/Philips\u00ae Digital Interface Format (S/PDIF) provides for a Digital Optical Audio signal, commonly referred to as Toslink\u00ae. Toslink allows for the distribution of uncompressed 2-channel PCM audio or compressed multichannel audio, such as DTS\u00ae or Dolby\u00ae 5.1 or 7.1. Being an optical signal, Toslink is immune to problems that can plague electrical signals, such as crosstalk, magnetic interference, or radio frequency interference.Many laptop and small computers, including the Apple MacBook\u00ae and Mac\u00ae mini, feature a combination 3.5mm TRS stereo audio and S/PDIF Digital Optical Audio output port. This port can accept a standard 3.5mm headphone plug or a Mini Toslink plug.This cable features a 3.5mm Mini Toslink connector on one end and a full-sized Toslink connector on the other end, with molded connector heads and strain relief boots.Features: Full-sized male Digital Optical Audio (Toslink\u00ae) connector on one end3.5mm male Mini Toslink connector on one end5.0 mm outside diameterMolded strain relief boots reduce strain where the cable and connectors meetGold plated ferrule resists corrosion and provides maximum protection for the connector tipPrecision polished fiber tips for maximum signal transferPlastic tip protectors attached to each end to protect the optical cable when not in use\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Specification Sheet (Mar 27, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. TOSLINK\u00ae is a registered trademark of Toshiba Corporation. Sony\u00ae is a registered trademark of Sony Corporation. Philips\u00ae is a registered trademark of Koninklijke Philips Electronics N.V. DTS\u00ae is a registered trademark of DTS, Inc. Dolby\u00ae and the double-D symbol are registered trademarks of Dolby Laboratories. Apple\u00ae, Mac\u00ae, and MacBook\u00ae are trademarks of Apple Inc, registered in the U.S. and other countries. Updated Jul 20, 2023 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/15571.jpg\",\"https://images.monoprice.com/productlargeimages/15572.jpg\",\"https://images.monoprice.com/productlargeimages/15573.jpg\",\"https://images.monoprice.com/productlargeimages/15574.jpg\",\"https://images.monoprice.com/productlargeimages/15575.jpg\",\"https://images.monoprice.com/productlargeimages/15576.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "1557",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1557",
+      "gtin14": "844660015574"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice S/PDIF Digital Optical Audio Cable Toslink to Mini Toslink 6ft",
+      "ratingCount": "373",
+      "reviewCount": "171",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Optical Toslink Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/optical-toslink-cables"
+    },
+    {
+      "name": "1557",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/optical-toslink-cables/1557"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

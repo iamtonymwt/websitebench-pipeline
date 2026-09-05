@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HDMI Male to DVI-D Single Link Female Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=2080",
+    "url": "https://www.monoprice.com/product?p_id=2080",
+    "description": "This adapter converts a DVI\u00e2\u201e\u00a2 female connector to an HDMI\u00ae male connector, or an HDMI female connector to a DVI female connector. It can be connected to the HDMI output of a computer's video card, DVD player, Blu-ray Disc\u2122 player, etc.. and then a DVI cable can be attached to the output and connected to your computer monitor or older television with DVI input.DVI\u00e2\u201e\u00a2 is a trademark of the Digital Display Working Group. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Blu-ray Disc\u2122, Blu-ray\u2122, and the logos are trademarks of the Blu-ray Disc Association. Updated Sep 3, 2019 \u00a0Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/20801.jpg\",\"https://images.monoprice.com/productlargeimages/20802.jpg\",\"https://images.monoprice.com/productlargeimages/20803.jpg\",\"https://images.monoprice.com/productlargeimages/20804.jpg\",\"https://images.monoprice.com/productlargeimages/20805.jpg\",\"https://images.monoprice.com/productlargeimages/20806.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "2080",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2080",
+      "gtin14": "844660020806"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HDMI Male to DVI-D Single Link Female Adapter",
+      "ratingCount": "213",
+      "reviewCount": "213",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DVI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters"
+    },
+    {
+      "name": "2080",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters/2080"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

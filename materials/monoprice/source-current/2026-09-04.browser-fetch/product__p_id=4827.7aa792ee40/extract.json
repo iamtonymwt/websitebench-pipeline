@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DisplayPort Male to DVI-D Female Adapter (Single-Link)",
+    "@id": "https://www.monoprice.com/product?p_id=4827",
+    "url": "https://www.monoprice.com/product?p_id=4827",
+    "description": "The Monoprice DisplayPort Male to DVI\u2011D Female Single Link Adapter offers a simple and cost\u2011effective solution for extending the life of your older DVI-enabled displays. This adapter supports both digital video and audio, allowing you to connect the DisplayPort output from your PC or laptop to an existing DVI monitor using DVI\u2011D cables. With a maximum supported resolution of 1920x1200 (250MHz) and full support for 1080p (1920x1080) resolution, this adapter ensures seamless connectivity and efficient format conversion for your devices.This adapter connects DisplayPort equipped computers and laptops to DVI equipped display devices, using standard DVI\u2011D cablesThe format supports both digital video and audioMax Supported Resolution \u2011 1920x1200 (250MHz) Supports 1080p (1920x1080) resolutionThis device is NOT bi\u2011directional and does NOT convert DVI equipped computers to DisplayPort equipped monitors\u00a0Note: This passive DP adapter is compatible with all DisplayPort enabled computers and docking station that support DP++ Mode (most devices). If your device does not support DP++, you will need an Active DisplayPort to DVI adapter instead.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/48271.jpg\",\"https://images.monoprice.com/productlargeimages/48272.jpg\",\"https://images.monoprice.com/productlargeimages/48273.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "4827",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4827",
+      "gtin14": "844660048275"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DisplayPort Male to DVI-D Female Adapter (Single-Link)",
+      "ratingCount": "77",
+      "reviewCount": "77",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters"
+    },
+    {
+      "name": "4827",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters/4827"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

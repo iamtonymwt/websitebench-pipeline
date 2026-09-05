@@ -40,12 +40,26 @@ import urllib.request
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from browser_session import attach  # noqa: E402
-from capture_pages import read_body  # noqa: E402
+from capture_pages import decode_image_field, read_body  # noqa: E402
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
 
-OPEN_HOSTS = {"images.monoprice.com"}
+# `/p/shop/` and `/p/resources/` -- 3,328 pages of this site -- are a Webflow
+# build. Their stylesheets, their scripts and 5,019 of their product photographs
+# are served from Webflow's CDN, and nothing of theirs is on monoprice.com at
+# all. Treating those hosts as third parties would have frozen every one of
+# those pages as unstyled HTML with no images, and no closure gate would have
+# said a word: a page with no stylesheet makes no request.
+#
+# These are approved external *resource* origins -- origins the page itself
+# requests for static assets. They are not trackers and nothing is sent to them.
+WEBFLOW_HOSTS = {
+    "cdn.prod.website-files.com",     # Webflow assets: css, js, images
+    "d3e54v103j8qbb.cloudfront.net",  # Webflow's jQuery build
+    "cdnjs.cloudflare.com",           # font-awesome, linked by those pages
+}
+OPEN_HOSTS = {"images.monoprice.com"} | WEBFLOW_HOSTS
 CHALLENGED_HOSTS = {"www.monoprice.com", "monoprice.com"}
 
 # Media only. Stylesheets, scripts and fonts are never capped -- see the module
@@ -90,8 +104,10 @@ def asset_target(url: str) -> tuple[str, str] | None:
     path = u.path
     if host in CHALLENGED_HOSTS:
         # Only real asset trees. HTML routes are captured by capture_pages.py.
-        if not re.match(r"^/(assets|Scripts|Content|cf-fonts|CommissionJunction)/",
-                        path, re.I):
+        # `/CommissionJunction/` is deliberately absent: it is a first-party path
+        # that exists only to carry a third-party affiliate tag, and fetching it
+        # would put a tracker in the asset tree under a first-party name.
+        if not re.match(r"^/(assets|Scripts|src|Content|cf-fonts)/", path, re.I):
             return None
     if not path or path.endswith("/"):
         return None
@@ -100,12 +116,24 @@ def asset_target(url: str) -> tuple[str, str] | None:
     # the browser re-encodes on its own.
     local = urllib.parse.unquote(path.lstrip("/"))
     if u.query:
-        # Cache-buster queries (?v=6.5.12.18) name the same byte. Keep one file.
+        # Cache-buster queries name the same byte. Keep one file. `bust` was
+        # missing from this list and RequireJS appends it to every module it
+        # loads, so the runtime pass planned a second copy of a dozen scripts
+        # already on disk -- same bytes, different filename, and the frozen
+        # pages would then reference whichever one the rewrite happened to pick.
         keep = [(k, v) for k, v in urllib.parse.parse_qsl(u.query)
-                if k.lower() not in {"v", "ver", "version", "_", "cb", "t"}]
+                if k.lower() not in {"v", "ver", "version", "_", "cb", "t",
+                                     "bust", "rev", "cachebust"}]
         if keep:
-            local += "__" + re.sub(r"[^A-Za-z0-9._=-]+", "-",
+            # The suffix goes *before* the extension. Appending it after gave
+            # `jquery-3.5.1.min.js__site=6807...`, whose suffix is no longer
+            # `.js` -- so the app would serve it as octet-stream and the browser
+            # would refuse to execute it. Webflow's jQuery, on 3,328 pages,
+            # would simply not run, and nothing would report a failure.
+            stem, dot, extension = local.rpartition(".")
+            marker = "__" + re.sub(r"[^A-Za-z0-9._=-]+", "-",
                                    urllib.parse.urlencode(keep))[:60]
+            local = f"{stem}{marker}{dot}{extension}" if dot else local + marker
     local = re.sub(r"[<>:\"|?*]", "_", local)
     return host, local
 
@@ -113,16 +141,39 @@ def asset_target(url: str) -> tuple[str, str] | None:
 def build_plan(capture_dir: pathlib.Path, out: pathlib.Path) -> int:
     refs: dict[str, dict] = {}
     pages = 0
+    extracts = 0
     unparsable = 0
     for page_dir in sorted(capture_dir.glob("*/*")):
         if not page_dir.is_dir():
             continue
+        meta_path = page_dir / "fetch.json"
+        base = json.loads(meta_path.read_text())["url"] if meta_path.exists() else None
+
+        # Product pages past the body sample keep only a structured extract, and
+        # their image URLs live in it. Reading bodies alone would have planned
+        # 5,291 images for a catalogue of 5,600 products -- the clone would then
+        # serve product pages referencing pictures nobody fetched. What the plan
+        # must cover is what the clone will *reference*, not what happens to
+        # still have a body on disk.
+        extract_path = page_dir / "extract.json"
+        if extract_path.exists():
+            extracts += 1
+            record = json.loads(extract_path.read_text(encoding="utf-8"))
+            for image_url in decode_image_field(
+                    (record.get("product") or {}).get("image")):
+                target = asset_target(image_url)
+                if target is None:
+                    continue
+                host, local = target
+                rec = refs.setdefault(f"{host}/{local}",
+                                      {"url": image_url, "host": host,
+                                       "local": local, "referrers": 0})
+                rec["referrers"] += 1
+
         html = read_body(page_dir)
         if html is None:
             continue
         pages += 1
-        meta_path = page_dir / "fetch.json"
-        base = json.loads(meta_path.read_text())["url"] if meta_path.exists() else None
         for raw in iter_refs(html):
             raw = raw.strip()
             if not raw or raw.startswith(("data:", "javascript:", "mailto:", "tel:", "#")):
@@ -174,7 +225,19 @@ def _fetch_plain(entry: dict, assets_dir: pathlib.Path, timeout: float) -> dict:
     if dest.exists() and dest.stat().st_size > 0:
         return {"key": f"{entry['host']}/{entry['local']}", "status": "cached",
                 "bytes": dest.stat().st_size}
-    req = urllib.request.Request(entry["url"], headers={"User-Agent": UA})
+    # The source publishes image URLs with literal spaces and other unescaped
+    # characters ("cms_images/US Coast Guard.png"). urllib raises on those in
+    # putrequest -- and that is not a network error, so the retry and backoff
+    # logic never sees it; it propagates and kills the worker. Encode the path
+    # before asking, while the file on disk keeps its decoded name.
+    split = urllib.parse.urlsplit(entry["url"])
+    safe_url = urllib.parse.urlunsplit((
+        split.scheme, split.netloc,
+        urllib.parse.quote(split.path, safe="/%~!$&'()*+,;=:@"),
+        urllib.parse.quote(split.query, safe="/%~!$&'()*+,;=:@?"),
+        "",
+    ))
+    req = urllib.request.Request(safe_url, headers={"User-Agent": UA})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             declared = resp.headers.get("Content-Length")

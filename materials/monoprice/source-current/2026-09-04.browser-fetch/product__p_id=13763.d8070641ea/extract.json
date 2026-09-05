@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 4K High Speed HDMI Cable - Braided - 4K@30Hz 10.2 Gbps CL3 In-Wall Rated Active 100ft Grey",
+    "@id": "https://www.monoprice.com/product?p_id=13763",
+    "url": "https://www.monoprice.com/product?p_id=13763",
+    "description": "Monoprice\u2122 4K Braided High Speed HDMI\u00ae Cables feature the next generation of active HDMI cable technology. It delivers 10.2 Gbps bandwidth and supports Ultra HD HDMI video transmissions with video resolutions up to 4K@30Hz with YCbCr 4:2:0 chroma sampling. These cables now support the latest in high resolution performance and HDCP\u2122 2.2 compliance.This cable supports the following general features: Supports 4K@30Hz: This cable supports HDMI\u00ae video resolutions up to 4K@30Hz, with YCbCr 4:2:0 chroma samplingUp to 10.2 Gbps Bandwidth: This cable delivers up to 10.2 Gbps bandwidth, which allows it to support all of the features in the latest HDMI\u00ae specificationIt supports the following HDMI features: HDCP\u2122 2.2 Compliant: High\u2011bandwidth Digital Content Protection (HDCP) is a copy prevention technology that's been used on HDMI\u00ae connections for over ten years. Compliance with the latest HDCP 2.2 format ensures that the cable will not cause any unwanted dropouts or compatibility issues.Delivers up to 10.2 Gbps data bandwidthCompliant with HDCP 2.2CL3 fire safety ratingFeatures Spectra7\u00ae (formerly RedMere\u00ae) HT8181 Active Chipset TechnologyEMI verified for minimal interference with wireless signalsSupports up to 32 audio channels with ARC for an immersive audio experienceSupport for wide angle theatrical 21:9 aspect ratioDeep Color up to 16 bits per channelAuto equalizationFuture proofs 4K Ultra HD environments\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Dolby\u00ae, Dolby Vision\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. Spectra7\u00ae and RedMere\u00ae are registered trademarks of Spectra7 Microsystems, Inc. Updated Mar 2, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/137631.jpg\",\"https://images.monoprice.com/productlargeimages/137632.jpg\",\"https://images.monoprice.com/productlargeimages/137633.jpg\",\"https://images.monoprice.com/productlargeimages/137634.jpg\",\"https://images.monoprice.com/productlargeimages/137635.jpg\",\"https://images.monoprice.com/productlargeimages/137636.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 165.39,
+      "sku": "13763",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13763",
+      "gtin14": "889028018170"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 4K High Speed HDMI Cable - Braided - 4K@30Hz 10.2 Gbps CL3 In-Wall Rated Active 100ft Grey",
+      "ratingCount": "42",
+      "reviewCount": "16",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables"
+    },
+    {
+      "name": "13763",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables/13763"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

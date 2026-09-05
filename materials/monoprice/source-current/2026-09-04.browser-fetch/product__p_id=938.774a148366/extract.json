@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Phone Cable RJ12 (6P6C) Straight for Data - 7ft",
+    "@id": "https://www.monoprice.com/product?p_id=938",
+    "url": "https://www.monoprice.com/product?p_id=938",
+    "description": "This telephone patch cable allows you to replace a shorter cable with an extended length version. It features RJ12 (6P6C) connectors on each end with straight through wiring and is intended for use as a data line.Features: RJ12 (6P6C) connectors on each endStraight wire connection on each endIntended for use as a data lineFlat cable with silver satin finishMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated 30 Jun 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/9381.jpg\",\"https://images.monoprice.com/productlargeimages/9382.jpg\",\"https://images.monoprice.com/productlargeimages/9383.jpg\",\"https://images.monoprice.com/productlargeimages/9384.jpg\",\"https://images.monoprice.com/productlargeimages/9385.jpg\",\"https://images.monoprice.com/productlargeimages/9386.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.79,
+      "sku": "938",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=938",
+      "gtin14": "844660009382"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Phone Cable RJ12 (6P6C) Straight for Data - 7ft",
+      "ratingCount": "23",
+      "reviewCount": "9",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "Phone Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/phone-cables"
+    },
+    {
+      "name": "938",
+      "url": "https://www.monoprice.com/category/cables/data-cables/phone-cables/938"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

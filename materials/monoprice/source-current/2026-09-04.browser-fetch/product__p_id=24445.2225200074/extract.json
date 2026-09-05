@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-C to DisplayPort Cable - 32.4Gbps 8K@60Hz Thunderbolt 4/3 Compatible Black 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=24445",
+    "url": "https://www.monoprice.com/product?p_id=24445",
+    "description": "Connect a DisplayPort\u00ae display at resolutions up to 7680x4320p @60Hz to mirror your laptop's display or to expand your system's desktop area. This cable is truly Plug & Play, with no need for drivers or software installations of any kind. Just plug the reversible USB-C\u2122 connector into your computer's video output and connect to your DisplayPort display. USB-C\u2122 compatible with Thunderbolt\u2122 3 and Thunderbolt\u2122 4.USB-C\u2122 and USB-C\u2122 is a trademark of USB Implementers Forum, Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. Thunderbolt\u2122, Thunderbolt\u2122 3, and the Thunderbolt logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/244451.jpg\",\"https://images.monoprice.com/productlargeimages/244452.jpg\",\"https://images.monoprice.com/productlargeimages/244453.jpg\",\"https://images.monoprice.com/productlargeimages/244454.jpg\",\"https://images.monoprice.com/productlargeimages/244455.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "24445",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24445",
+      "gtin14": "889028055830"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-C to DisplayPort Cable - 32.4Gbps 8K@60Hz Thunderbolt 4/3 Compatible Black 10ft",
+      "ratingCount": "26",
+      "reviewCount": "2",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "24445",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/24445"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

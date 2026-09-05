@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 Outdoor Bulk Ethernet Cable - ETL Verified to TIA/EIA 568.2-E TAA Gel-filled Direct Burial Solid (w/spine) UTP 23AWG 550MHz Pure Bare Copper Spool No Logo 1000ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=15398",
+    "url": "https://www.monoprice.com/product?p_id=15398",
+    "description": "Avoid having excess Ethernet cable lying around by building your own cables to the exact length needed using this Bulk Ethernet Copper Cable from Monoprice\u2122!Features: Unshielded Twisted Pair (UTP) Category 6 Ethernet cable23AWG solid, pure bare copper conductorsOutdoor gel\u2011filled direct burial rated550MHz bandwidthTAA compliantRoHS compliant1000 foot rollMonoprice\u2122 Ethernet cables are made of 100% pure bare copper wire, and this cable is also ETL-verified to ANSI/TIA\u2011568.2-E and ISO/IEC 11801-1\u00a0standards.CategoryCat5eCat6Cat6ACat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyMaximum Cable Distance100m100m100m (50m @ 10Gbps)30mNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-T or 40GBase-TCertification (Monoprice)ULUL or ETLUL or ETLULCostLowFairFair/ModeratePremiumDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Support Files: Specification Sheet (Sep 20, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. PRIME\u00ae and the PRIME logo are registered trademarks of Prime Wire & Cable, Inc. Updated Sep 20, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/153981.jpg\",\"https://images.monoprice.com/productlargeimages/153982.jpg\",\"https://images.monoprice.com/productlargeimages/153983.jpg\",\"https://images.monoprice.com/productlargeimages/153984.jpg\",\"https://images.monoprice.com/productlargeimages/153985.jpg\",\"https://images.monoprice.com/productlargeimages/153986.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 349.99,
+      "sku": "15398",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15398",
+      "gtin14": "889028034989"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 Outdoor Bulk Ethernet Cable - ETL Verified to TIA/EIA 568.2-E TAA Gel-filled Direct Burial Solid (w/spine) UTP 23AWG 550MHz Pure Bare Copper Spool No Logo 1000ft Black",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Networking Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables"
+    },
+    {
+      "name": "Cat6 Bulk Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables"
+    },
+    {
+      "name": "15398",
+      "url": "https://www.monoprice.com/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables/15398"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

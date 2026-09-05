@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 200W DMX COB LED Ellipsoidal Stage Light White 3200K 26-degree Spotlight",
+    "@id": "https://www.monoprice.com/product?p_id=612751",
+    "url": "https://www.monoprice.com/product?p_id=612751",
+    "description": "                    A single 200\u2011watt Warm White Ultra Bright LED provides the light output of a 750\u2011watt halogen bulb with less fan noise, heat on performers and audience, and power consumption. The COB design improves light distribution, whether it's used via DMX as part of a stage lighting grid or with onboard control of brightness and strobe for set\u2011and\u2011forget operation.                    This ellipsoidal's heavy duty housing supports rigorous road use, with manual focus and frame shutters for versatile light placement. This is a professional\u2011grade lighting fixture for churches, theaters, clubs, artistic installations, video productions, and other events where crisp bright, lighting is needed with low power draw. Even multiple units won't disrupt intimate venues with its near\u2011silent internal fans.                    The 612751 stage light provides support for standard size \"B\" Gobo holders as well as standard beam angle lenses. The 612751 Ellipsoidal is a great way to reduce operating costs for your facility without making all of your peripherals obsolete.                              Features:                            Use just like a traditional incandescent fixture        3200\u00b0K color temperature give look and feel of tungsten stage light        200\u2011watt LED puts out equivalent of a 750\u2011watt conventional bulb        Use simple 3\u2011channel DMX or easy to use manual control        Smooth fade and dimming curves        4 DMX controlled dimming curves for fast or slow fade and dimming        Puts light where it is needed, keeps light off areas that need to stay dark        4 external manual framing shutters, left, right, top, and bottom        Manual focus        Daisy chain up to 10 units on one 20 amp breaker        NAC3 in and out        Meager 200\u2011watt power consumption        Excellent in low noise environments with its near\u2011silent cooling fan        Size \"B\" Gobo        Interchangeable lens                                                                                                                                                                            Support Files:            User's Manual (Oct 19, 2015)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 21, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6127511.jpg\",\"https://images.monoprice.com/productlargeimages/6127512.jpg\",\"https://images.monoprice.com/productlargeimages/6127513.jpg\",\"https://images.monoprice.com/productlargeimages/6127514.jpg\",\"https://images.monoprice.com/productlargeimages/6127515.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 599.99,
+      "sku": "612751",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612751",
+      "gtin14": "889028024133"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 200W DMX COB LED Ellipsoidal Stage Light White 3200K 26-degree Spotlight",
+      "ratingCount": "28",
+      "reviewCount": "21",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Spotlights & Ellipsoidals",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals"
+    },
+    {
+      "name": "612751",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals/612751"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

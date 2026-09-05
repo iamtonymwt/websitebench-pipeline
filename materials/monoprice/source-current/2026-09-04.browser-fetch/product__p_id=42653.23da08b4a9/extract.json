@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8FE+2 Combo-Port Gigabit Ethernet SNMP Switch (open box)",
+    "@id": "https://www.monoprice.com/product?p_id=42653",
+    "url": "https://www.monoprice.com/product?p_id=42653",
+    "description": "Open Box merchandise are products that have been purchased and delivered to other customers, and then returned to Monoprice. Due to the varying quality of products returned, we make every attempt to supply the original accessories for Open Box products. However, Monoprice only guarantees that you will receive the product itself, accessories may or may not be included. Bear in mind that your open box product may not contain cables, adaptors, manuals, CDs, drivers, etc. Additionally, the product may exhibit cosmetic imperfections as a result of its having been previously opened. This Open Box product comes with a 90-day Limited Product WarrantyCombine traditional copper Fast Ethernet with fiber optic Gigabit Ethernet in your small business or enterprise using this 8FE+2 Combo-Port Gigabit Ethernet SNMP Switch from Monoprice!This switch is fully compliant with the IEEE 802.3, 802.3u, and 802.3z standards for 10Base-T, 100Base-TX, and 1000Base-X communications. It features eight 10/100 Mbps RJ45 Fast Ethernet ports, plus two ports that are designed to accept both standard copper Ethernet cable as well as fiber optic connections with speeds up to 1000Mbps. The switch supports powerful management functions, including 802.1p (QoS), DiffServ (QoS), IGMP Snooping, 802.1w (Rapid Spanning Tree), Link Aggregation, 802.1q (VLANs), 802.1x and more.Features: 8 10/100Mbps Ethernet ports, 2 Combo Gigabit ports supporting both copper and SFP connections5.6 Gbps switching fabric capacityIEEE 802.3x compliant Flow Control support for full duplexSupports IEEE 802.1Q VLANSupports Spanning Tree ProtocolSupports Port Mirroring, Flow mirroringSupports LLDP, DLDPSupports DHCP Snooping, Relay and Option 82Supports IGMP Snooping v1/v2/v3Supports powerful security functions like ACL, dynamic ARP inspection and moreProvides high performance of Store-and-Forward architecture, broadcast storm controlSupports SNMP v1/v2c/v3 , SSH v1/v2 switch management",
+    "image": "[\"https://images.monoprice.com/productlargeimages/426531.jpg\",\"https://images.monoprice.com/productlargeimages/426532.jpg\",\"https://images.monoprice.com/productlargeimages/426533.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 104.99,
+      "sku": "42653",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=42653",
+      "gtin14": "889028168448"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8FE+2 Combo-Port Gigabit Ethernet SNMP Switch (open box)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Wired Networking",
+      "url": "https://www.monoprice.com/category/networking/wired-networking"
+    },
+    {
+      "name": "SNMP Switches",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/snmp-switches"
+    },
+    {
+      "name": "42653",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/snmp-switches/42653"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

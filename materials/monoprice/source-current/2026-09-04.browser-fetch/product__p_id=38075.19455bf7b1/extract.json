@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Onix Series - Male RCA to 2 Male RCA Pigtail Cable 6ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=38075",
+    "url": "https://www.monoprice.com/product?p_id=38075",
+    "description": "Monoprice Onix Series Cable is made from premium quality RG-6/U with double copper braid shielding to prevent signal degradation caused by EMI and RFI interference. Featuring a single gold plated male RCA connector on one end and two gold plated RCA male connectors on the other, this cable is ideal for splitting line level RCA audio signals from a CD player, record player, or analog media device to an AV receiver or amplifier.The plastic cable jacket has been encased within braided nylon, which resists nicks and cuts without reducing cable flexibility. Additionally, the braided jacket gives a premium appearance over that of ordinary plastic jackets. The CL2 rating on this cable indicates that the jacket has been treated so that it complies with fire safety regulations, making it safe for use in or through the walls of residential class buildings.Backed by Monoprice's Lifetime Warranty, Onix Series Digital Coax Cable is the ultimate digital audio cable for home theater installations.Features: Gold plated RCA male connectorsTwo channels for audio on left and right speakers97% pure oxygen-free copper conductorDouble shielded with copper braiding22 pF per foot capacitance75 ohm impedanceUpdated Apr 15, 2019 \u00a0Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/380751.jpg\",\"https://images.monoprice.com/productlargeimages/380752.jpg\",\"https://images.monoprice.com/productlargeimages/380753.jpg\",\"https://images.monoprice.com/productlargeimages/380754.jpg\",\"https://images.monoprice.com/productlargeimages/380755.jpg\",\"https://images.monoprice.com/productlargeimages/380756.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.39,
+      "sku": "38075",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38075",
+      "gtin14": "889028122136"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Onix Series - Male RCA to 2 Male RCA Pigtail Cable 6ft Black",
+      "ratingCount": "14",
+      "reviewCount": "11",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "38075",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/38075"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

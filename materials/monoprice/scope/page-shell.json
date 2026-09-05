@@ -1,0 +1,19 @@
+{
+  "schema_version": "monoprice.page-shell.v1",
+  "donor_page": "clone/static/frozen/about-us.html.gz",
+  "checks": {
+    "content_region_located": true,
+    "head_has_doctype": true,
+    "head_has_header": true,
+    "head_has_search_form": true,
+    "head_has_title_tag": true,
+    "tail_has_footer_element": true,
+    "tail_has_footer_data": true,
+    "tail_closes_html": true,
+    "tail_not_absurdly_short": true
+  },
+  "failed_checks": [],
+  "head_bytes": 346606,
+  "tail_bytes": 26876,
+  "written": true
+}

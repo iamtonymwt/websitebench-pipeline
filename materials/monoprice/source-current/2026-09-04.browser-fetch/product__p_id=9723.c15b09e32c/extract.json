@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 12in 150-Watt Powered Subwoofer Black",
+    "@id": "https://www.monoprice.com/product?p_id=9723",
+    "url": "https://www.monoprice.com/product?p_id=9723",
+    "description": "When you want your bass down low, you need a subwoofer as part of your home audio/theater system. Monoprice\u2122 has the basses covered with this 12 inch, 150 watt (RMS) Powered Subwoofer model!This 12\" sub is capable of producing 150 watts RMS (200 watts peak) output. It has a frequency response range of 25 to 250 Hz with a low\u2011pass crossover filter, which can be adjusted through the full range. Gain and frequency knobs on the control panel allow you to adjust the crossover filter and the power output for the optimum blend and balance of bass output with your stereo or surround speakers.The subwoofer has multiple input options, which allow it to be used with any existing stereo or 5.1 (or greater) amplifier system. For each input there is a corresponding output.High\u2011level inputs accept a full\u2011range signal from the amplifier's stereo speaker outputs. When connecting the unit as part of a 5.1 system, these would be taken off the Front Left and Front Right outputs in parallel to the standard pair of front speakers. The subwoofer provides its own power and includes impedance matching circuitry, so this will not reduce the power output to the front speakers or affect the overall impedance load on the amplifier. The High\u2011Level output can be used to connect to your stereo/front speakers or you can connect them in parallel at the amplifier.Additionally, the subwoofer has a set of right/left Line Level inputs. If using a standard stereo system, without a special subwoofer output, you can connect these to the left and right line level outputs on the amp. The subwoofer will then combine the signals to process the mono bass signal it needs to drive the speaker. If you are using an amplifier with a single mono subwoofer line level output, simply use an RCA \"Y\" cable to split the output and send it to the two line level inputs on the subwoofer. The Line Level outputs can be used to daisy chain additional subwoofers to provide even more room\u2011filling bass!The subwoofer is housed in an attractive wooden cabinet, with a black finish, and measures 17.0\" x 17.3\" x 17.5\". The driver fires out the front and is covered by a black cloth grill. A 3 1/2\" sound port is positioned underneath the enclosure.An optional \"Auto\u2011On\" function puts the subwoofer system into power\u2011saving standby mode after about 2 minutes of no audio input detected. Alternatively, the \"Auto\u2011On\" function can be disabled, allowing the unit to be on whenever the power switch is in the \"on\" position. A 2 amp/250 volt fuse protects the system from short circuits or power overloads.Support Files: User Manual (Oct 2, 2023)Updated Dec 1, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/97231.jpg\",\"https://images.monoprice.com/productlargeimages/97232.jpg\",\"https://images.monoprice.com/productlargeimages/97233.jpg\",\"https://images.monoprice.com/productlargeimages/97234.jpg\",\"https://images.monoprice.com/productlargeimages/97235.jpg\",\"https://images.monoprice.com/productlargeimages/97236.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 239.99,
+      "sku": "9723",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9723",
+      "gtin14": "844660097235"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 12in 150-Watt Powered Subwoofer Black",
+      "ratingCount": "506",
+      "reviewCount": "506",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Subwoofers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers"
+    },
+    {
+      "name": "9723",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/subwoofers/9723"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

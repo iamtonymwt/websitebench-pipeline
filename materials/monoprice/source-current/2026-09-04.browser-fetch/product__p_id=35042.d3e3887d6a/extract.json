@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Desktop Computer Power Cord - IEC 60320 C14 to NEMA 5-15R 18AWG 10A/1250W SVT 125V Black 2ft",
+    "@id": "https://www.monoprice.com/product?p_id=35042",
+    "url": "https://www.monoprice.com/product?p_id=35042",
+    "description": "This cable features a grounded IEC 60320 C14 plug on one end and a NEMA\u00ae 5\u201115R receptacle on the other. It is perfect for extending a standard NEMA 5\u201115 to IEC 60320 C13 power cable. It has 18 AWG conductors, making it suitable for general use. This cable is designed to carry up to a 10 amp/1250 watt, 125 volt load.\u00a0Plug\u00a0TypeIEC 60320 C14Receptacle\u00a0TypeNEMA\u00ae 5\u201115RJacket\u00a0MaterialSVT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18 AWGMaximum\u00a0Current10 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jul 29, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/350421.jpg\",\"https://images.monoprice.com/productlargeimages/350422.jpg\",\"https://images.monoprice.com/productlargeimages/350423.jpg\",\"https://images.monoprice.com/productlargeimages/350424.jpg\",\"https://images.monoprice.com/productlargeimages/350425.jpg\",\"https://images.monoprice.com/productlargeimages/350426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.09,
+      "sku": "35042",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=35042",
+      "gtin14": "889028102305"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Desktop Computer Power Cord - IEC 60320 C14 to NEMA 5-15R 18AWG 10A/1250W SVT 125V Black 2ft",
+      "ratingCount": "43",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "35042",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/35042"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

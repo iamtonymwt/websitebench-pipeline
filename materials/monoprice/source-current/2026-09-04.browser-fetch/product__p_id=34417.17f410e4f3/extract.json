@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A RJ45 Shielded Modular Plugs w/Inserts for Round Solid/Stranded Cable 50u 3 Prongs Clear 25-Pk",
+    "@id": "https://www.monoprice.com/product?p_id=34417",
+    "url": "https://www.monoprice.com/product?p_id=34417",
+    "description": "Features: Shielded RJ45 connectors with inserts for Cat6a cablesCat6 connectors are made to higher standards that help reduce noise caused by crosstalk and system noiseThese connectors feature a metal overlay to provide shielding from external interferenceInserts provided to allow for better conductor organization for easier installationGold plated contactsClear plastic inner housing\u00a0\u00a0\u00a0 Support Files: Tech Drawing (Nov 11, 2025)Installation Guide (Jan 19, 2026)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/344171.jpg\",\"https://images.monoprice.com/productlargeimages/344172.jpg\",\"https://images.monoprice.com/productlargeimages/344173.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 23.99,
+      "sku": "34417",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34417",
+      "gtin14": "889028096017"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A RJ45 Shielded Modular Plugs w/Inserts for Round Solid/Stranded Cable 50u 3 Prongs Clear 25-Pk",
+      "ratingCount": "82",
+      "reviewCount": "3",
+      "ratingValue": "3.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Modular Plugs",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs"
+    },
+    {
+      "name": "34417",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs/34417"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

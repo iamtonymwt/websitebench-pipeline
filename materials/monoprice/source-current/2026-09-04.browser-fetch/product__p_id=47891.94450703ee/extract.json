@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 4K Certified High Speed HDMI Cable - 4K60Hz 18Gbps HDR VW-1 Rated 6ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=47891",
+    "url": "https://www.monoprice.com/product?p_id=47891",
+    "description": "Monoprice\u21224K Certified High-Speed HDMI\u00ae Cable \u2013 VW-1 RatedCertified 4K Resolution and High-Speed Connectivity for Everyday AV UseGet reliable, high-performance video and audio with the Monoprice 4K Certified High Speed HDMI Cable \u2013 VW-1 Rated. Designed for everyday use in home theater, office, and AV installations, this cable supports up to 4K@60Hz resolution with HDR, delivering crisp visuals and vibrant color across TVs, monitors, and projectors. Officially certified by HDMI\u00ae Licensing, it ensures full compliance with HDMI 2.0 specifications and supports advanced features like Audio Return Channel (ARC), 3D video, and Deep Color.With a bandwidth of up to 18Gbps, this cable is ideal for streaming, gaming, and Blu-ray playback\u2014delivering smooth, lag-free performance for today's entertainment systems. The durable outer jacket is VW-1 flame-rated for added safety, making it suitable for in-wall installations or demanding environments. Whether you\u2019re upgrading your home setup or building out a commercial AV solution, this HDMI cable delivers dependable 4K connectivity backed by Monoprice quality.Officially Certified High Speed HDMI\u00ae Cable ensures full compliance with HDMI 2.0 specifications.Supports 4K@60Hz resolution with HDR for sharp images, smooth motion, and vibrant color.Provides up to 18Gbps of bandwidth for reliable high-performance video and audio transmission.Compatible with Audio Return Channel (ARC), 3D video, Deep Color, and Consumer Electronics Control (CEC).VW-1 flame-retardant jacket provides added safety for in-wall and custom AV installation.Backward compatible with HDMI 1.4 and earlier for use with legacy devices and displays.Triple shielding reduces electromagnetic interference for clean, uninterrupted signal quality.Ideal for streaming devices, Blu-ray players, game consoles, TVs, projectors, and AV receivers.\u00a0Certified 4K Performance You Can TrustDelivers reliable 4K@60Hz resolution with HDR and up to 18Gbps bandwidth, fully certified to meet HDMI 2.0 standards for smooth, high-quality video playback.\u00a0Safe for In-Wall InstallationsThe VW-1 flame-retardant jacket adds a layer of safety, making this cable a solid choice for home theater builds, office setups, and custom AV installations.\u00a0Broad Compatibility with Advanced FeaturesSupports essential HDMI features like Audio Return Channel (ARC), 3D video, Deep Color, and CEC, ensuring seamless integration with a wide range of modern devices.\u00a0Built for Clean, Consistent Signal QualityTriple shielding and gold-plated connectors reduce interference and resist corrosion, providing long-term performance and signal integrity.\u00a0Package Contents\u2022 1x 4K Certified High Speed HDMI VW-1 Rated Cable\u00a0.gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Tech Drawing (Nov 17, 2025)Sales Sheet (Nov 17, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.HDMI\u00ae, HDMI High-Definition Multimedia Interface\u00ae, HDMI Trade Dress\u00ae, and the HDMI\u00ae Logos are trademarks or registered trademarks of HDMI Licensing Administrator, Inc. Updated Nov 17, 2025 Warning: This product can expose you to chemicals including Pthalates, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/478911.jpg\",\"https://images.monoprice.com/productlargeimages/478912.jpg\",\"https://images.monoprice.com/productlargeimages/478913.jpg\",\"https://images.monoprice.com/productlargeimages/478914.jpg\",\"https://images.monoprice.com/productlargeimages/478915.jpg\",\"https://images.monoprice.com/productlargeimages/478916.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.19,
+      "sku": "47891",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=47891",
+      "gtin14": "889028214374"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 4K Certified High Speed HDMI Cable - 4K60Hz 18Gbps HDR VW-1 Rated 6ft Black",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables"
+    },
+    {
+      "name": "47891",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables/47891"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

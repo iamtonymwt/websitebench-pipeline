@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice HDMI Female to DVI-D Single Link Female Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=2081",
+    "url": "https://www.monoprice.com/product?p_id=2081",
+    "description": "This adapter converts an HDMI\u00ae male connector to a DVI\u2122 female connector, or a DVI male connector to an HDMI female connector.Features: DVI\u2122-D single link Female to HDMI\u00ae Female24k gold contacts provide accurate signal transfer and maximum corrosion resistanceLifetime warrantyDVI\u2122 is a trademark of the Digital Display Working Group. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Support Files: Tech Drawing (Jul 29, 2025)Updated Sep 3, 2019 \u00a0Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/20811.jpg\",\"https://images.monoprice.com/productlargeimages/20812.jpg\",\"https://images.monoprice.com/productlargeimages/20813.jpg\",\"https://images.monoprice.com/productlargeimages/20814.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "2081",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2081",
+      "gtin14": "844660020813"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice HDMI Female to DVI-D Single Link Female Adapter",
+      "ratingCount": "65",
+      "reviewCount": "65",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DVI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters"
+    },
+    {
+      "name": "2081",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters/2081"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

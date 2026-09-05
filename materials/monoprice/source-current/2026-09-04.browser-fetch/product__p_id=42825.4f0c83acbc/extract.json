@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice M6 x 16mm Rack Mount Cage Nuts Screws and Washers 50 sets Zinc Plated Black",
+    "@id": "https://www.monoprice.com/product?p_id=42825",
+    "url": "https://www.monoprice.com/product?p_id=42825",
+    "description": "This high quality rackmount zinc plated cage nut hardware kit is for use with equipment/relay racks that are tapped with 12/24 universal square hole rails, allowing you to mount standard rack mountable equipment into a server rack or cabinet. Each order includes 50 count of nuts, screws, and washers.Features: High quality zinc plated cage nutsDesigned for racks that are tapped with 12/24 universal square hole railsWorks with standard rack mountable equipment and server racks or cabinetsIncludes 50 nuts, screws, and washersRoHS compliant\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 19, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/428251.jpg\",\"https://images.monoprice.com/productlargeimages/428252.jpg\",\"https://images.monoprice.com/productlargeimages/428253.jpg\",\"https://images.monoprice.com/productlargeimages/428254.jpg\",\"https://images.monoprice.com/productlargeimages/428255.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "42825",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=42825",
+      "gtin14": "889028170182"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice M6 x 16mm Rack Mount Cage Nuts Screws and Washers 50 sets Zinc Plated Black",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Components & Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/components-&-accessories"
+    },
+    {
+      "name": "42825",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/components-&-accessories/42825"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

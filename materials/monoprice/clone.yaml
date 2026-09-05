@@ -7,9 +7,9 @@ source:
   - https://www.monoprice.com
   baseline:
     locale: en-US
-    currency: null
-    delivery_region: null
-    timezone: null
+    currency: USD
+    delivery_region: US
+    timezone: Etc/UTC
     auth_state: anonymous
     tenant: null
     workspace: null
@@ -17,7 +17,7 @@ source:
     capabilities: []
     feature_flags: []
     user_agent: null
-    viewport: null
+    viewport: 1440x900
     capture_id: null
   capture_policy:
     safe_methods:

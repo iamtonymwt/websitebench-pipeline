@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Volume Controller RMS 50W (Slide Type) - White",
+    "@id": "https://www.monoprice.com/product?p_id=8244",
+    "url": "https://www.monoprice.com/product?p_id=8244",
+    "description": "This is a slider\u2011type wall plate volume control for speaker systems with power ratings of up to 50 watts per channel and impedance ratings of 4 ~ 16 ohms. This slider control can be set to one of twelve positions, including the minimum (off) and maximum volume settings.The wall plate mounts into a standard single\u2011gang, low\u2011voltage wall bracket (not included) and has inputs and outputs for one pair of stereo speaker wires (4 input connections and 4 output connections). It can accept speaker wire in sizes from 14 ~ 16 gauge and provides a frequency response range of 35Hz ~ 20kHz (+0/\u20112db) at the full power rating of 50 watts per channel.Please note: This volume control does not include a wall mounting bracket. When setting up the speaker volume controls, it is important to match the impedance of your speaker system with the load rating of your amplifier. This is done by setting the jumpers on the volume control to compensate for the number of speakers you have in a parallel configuration and the impedance level of the speakers.If using a single pair of speakers rated at the same load level as your amplifier, you don't need to make any changes \u2011 just leave the jumper in the default x1 position. However, if your speakers are of a different impedance level and/or you have more than one set of speakers in parallel, please refer to the following chart as a guide for setting the jumpers on the speaker volume control.Note that for any speakers wired in series, the overall impedance level is the sum of each speaker. So two 4\u2011ohm speakers wired in series is the same impedance as a single 8\u2011ohm speaker. Impedance Correction ChartSpeakerImpedanceAmplifierRatingJumper Setting /# of Speaker Pairsx1x2x4x84\u2011ohm Speakers2 ohms2 pairs4 pairs8 pairs16 pairs4 ohms1 pair2 pairs4 pairs8 pairs8 ohmsn/a1 pair2 pairs4 pairs8\u2011ohm Speakers2 ohms4 pairs8 pairs16 pairs32 pairs4 ohms2 pairs4 pairs8 pairs16 pairs8 ohms1 pair2 pairs4 pairs8 pairs16\u2011ohm Speakers2 ohms8 pairs16 pairs32 pairs64 pairs4 ohms4 pairs8 pairs16 pairs32 pairs8 ohms2 pairs4 pairs8 pairs16 pairsSupport Files: User's Manual (Aug 11, 2011)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 24, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/82441.jpg\",\"https://images.monoprice.com/productlargeimages/82442.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "8244",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=8244",
+      "gtin14": "844660082446"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Volume Controller RMS 50W (Slide Type) - White",
+      "ratingCount": "65",
+      "reviewCount": "12",
+      "ratingValue": "3.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "8244",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/8244"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

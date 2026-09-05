@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series DisplayPort 1.2a to HDTV Cable 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=13371",
+    "url": "https://www.monoprice.com/product?p_id=13371",
+    "description": "                                            The Select Series DisplayPort\u00ae / Mini DisplayPort 1.2a to HDTV Cable allows you to connect your DisplayPort-enabled computer to an HDTV display or other HDMI\u00ae ready device. This DisplayPort 1.2a compliant cable is up to twice as fast as DisplayPort 1.1 and is backwards compatible.                          Select Series DisplayPort 1.2a to HDTV Cable                                                                                                                                    Twice as Fast                          DisplayPort 1.2a Compliant                          HDTV                                             Twice as Fast: DisplayPort\u00ae 1.2a is up to twice as fast as DisplayPort 1.1, transmitting both audio and video from computers or tablets to an HDTV display. It supports video resolutions up to 1920 x 1200 and 1080p (Full HD), plus flawless audio pass-through for uncompressed digital audio with 7.1, 5.1, or 2 channels.                    Displayport 1.2a Compliant: Compliant with the DisplayPort 1.2a specification, this cable is also backwards compatible with DisplayPort 1.1/1.1a. Supporting data speeds up to 21.6Gbps, this cable transmits uncompressed audio and deep color depth twice as fast as the previous specification.                    HDTV: Broad compatibility with computers, phones, and tablets with DisplayPort or Mini DisplayPort video output and high-resolution HDMI\u00ae enabled displays.                          Select Series DisplayPort 1.2a enables high resolution                          Connect a DisplayPort\u00ae-enabled computer to an HDMI\u00ae enabled high definition display or projector        Supports up to 4K resolution and 3D video        High Bit Rate 2 (HBR2) bandwidth of up to 21.6 Gbps        Supports DPCP (Displayport Content Protection) and HDCP\u2122 (High-bandwidth Digital Content Protection)        Broad compatibility with MacBooks\u00ae PCs, phones, and tablets with DisplayPort or Mini DisplayPort video out and high-resolution HDMI enabled displays        Backwards compatible with DisplayPort 1.1/1.1a                                                            DisplayPort 1.2a to HDTV Cable                        3 and 6 feet                                                                                                        Buy with Confidence                                With Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.                                                                                                    Quality at a Fair Price                                Monoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.                                                                                                    Hassle Free Packaging                                Monoprice\u2122 exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.                                                                                                    Service & Support                                You're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!                                                      Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.        DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association.        HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.        Apple\u00ae and MacBook\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries.        HDCP\u2122 is a trademark of Digital Content Protection LLC.          Updated Dec 9, 2020                           Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/133711.jpg\",\"https://images.monoprice.com/productlargeimages/133712.jpg\",\"https://images.monoprice.com/productlargeimages/133713.jpg\",\"https://images.monoprice.com/productlargeimages/133714.jpg\",\"https://images.monoprice.com/productlargeimages/133715.jpg\",\"https://images.monoprice.com/productlargeimages/133716.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 26.19,
+      "sku": "13371",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13371",
+      "gtin14": "889028014196"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series DisplayPort 1.2a to HDTV Cable 6ft",
+      "ratingCount": "85",
+      "reviewCount": "57",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "13371",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/13371"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

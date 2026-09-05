@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG Gold Plated Black 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=5444",
+    "url": "https://www.monoprice.com/product?p_id=5444",
+    "description": "A great value on high performance, USB 2.0 compliant cables.\u00a0 These reliable cables feature Gold Plated Connectors for corrosion resistance and heavy gauge wires for years of reliable use.Compatible with both PC and Apple systems.\u00a0Support Files: Tech Drawing (Nov 25, 2025)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/54441.jpg\",\"https://images.monoprice.com/productlargeimages/54442.jpg\",\"https://images.monoprice.com/productlargeimages/54443.jpg\",\"https://images.monoprice.com/productlargeimages/54444.jpg\",\"https://images.monoprice.com/productlargeimages/54445.jpg\",\"https://images.monoprice.com/productlargeimages/54446.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.29,
+      "sku": "5444",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=5444",
+      "gtin14": "844660054443"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG Gold Plated Black 10ft",
+      "ratingCount": "334",
+      "reviewCount": "46",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-cables"
+    },
+    {
+      "name": "5444",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-cables/5444"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

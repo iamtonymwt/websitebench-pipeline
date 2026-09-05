@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 1x4 Video Splitter and Extender with HDMI over Cat6/6a/7 Includes 4 Receivers and Supports HDR HDCP 2.2 YCbCr 444 IR",
+    "@id": "https://www.monoprice.com/product?p_id=42271",
+    "url": "https://www.monoprice.com/product?p_id=42271",
+    "description": "This 4K HDMI\u00ae 1x4 Splitter/Extender allows you to distribute a single HDMI video source to up to four distant displays. It can extend 4K@60Hz signals to distances up to 114 feet (35 meters), 4K@30Hz signals to distances up to 164 feet (50 meters), and 1080p@60Hz signals to distances up to 196 feet (60 meters) over a single Cat6/6a/7 Ethernet cable. It supports up to 7.1\u2011channel audio pass\u2011through, can extract the audio for separate amplification, and features advanced EDID\u00ae management. It supports the Power over Cable (PoC) feature, allowing the receivers to be powered by the transmitter over the Ethernet cable.Features: Supports video resolutions up to 4K@60Hz with YCbCr 4:4:4 color spaceDistributes a single HDMI\u00ae video source to four distant displaysCompliant with the HDMI 2.0b and HDCP\u2122 2.2/1.x standardsProvides up to 18Gbps video bandwidthCan extend 4K@60Hz signals to distances up to 114 feet (35 meters), 4K@30Hz signals to distances up to 164 feet (50 meters), and 1080p@60Hz signals to distances up to 196 feet (60 meters) over a single Cat6/6a/7 Ethernet cableSupports HDR10, HDR10+, Dolby Vision\u2122, and Hyper Log\u2011Gamma (HLG)Supports 7.1 high definition audio pass\u2011throughCan extract audio from the HDMI signal for distribution to digital coaxial and 3.5mm stereo analog audio outputsSupports one\u2011way IR control signal passthroughSupports the Power over Cable (PoC) feature, allowing the receivers to be powered by the transmitter over the Ethernet cableIncludes advanced EDID\u00ae management\u00a0Sample Connection DiagramSupport Files: User's Manual (Sep 14, 2020)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. HDCP\u2122 is a trademark of Digital Content Protection LLC. Dolby\u00ae, Dolby Vision\u2122, Dolby Digital\u2122, Dolby Digital Plus\u2122, Dolby TrueHD\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. DTS\u00ae, DTS\u2011ES\u00ae, DTS:X\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc. DTS\u2011HD\u2122 and DTS\u2011HD Master Audio\u2122 are trademarks of DTS, Inc. Blu\u2011ray Disc\u2122, Blu\u2011ray\u2122, and the logos are trademarks of the Blu\u2011ray Disc Association. Updated Mar 14, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/422711.jpg\",\"https://images.monoprice.com/productlargeimages/422712.jpg\",\"https://images.monoprice.com/productlargeimages/422713.jpg\",\"https://images.monoprice.com/productlargeimages/422714.jpg\",\"https://images.monoprice.com/productlargeimages/422715.jpg\",\"https://images.monoprice.com/productlargeimages/422716.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 319.99,
+      "sku": "42271",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=42271",
+      "gtin14": "889028165713"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 1x4 Video Splitter and Extender with HDMI over Cat6/6a/7 Includes 4 Receivers and Supports HDR HDCP 2.2 YCbCr 444 IR",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Splitters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters"
+    },
+    {
+      "name": "42271",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters/42271"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 2 Pack Under Sink Shelf Kitchen Organizers 2 Tier Bathroom Cabinet Drawer Multi-purpose Storage with 4 Hooks",
+    "@id": "https://www.monoprice.com/product?p_id=44627",
+    "url": "https://www.monoprice.com/product?p_id=44627",
+    "description": "These 2 tiers under sink shelf is a storage solution to maximize the space under your kitchen or bathroom sink area. A perfect organizer that helps keep your cleaning and laundry supplies, toiletries, and other kitchen or bathroom essentials neatly arranged and easily accessible. The bottom sliding drawer can be pulled which makes it even more convenient to reach items at the back of the shelf with ease. It helps maintain a tidy and organized under sink area and excellent addition to optimize storage space.\u00a0Space-Saving:\u00a0 Storage solution to maximize the space under your kitchen or bathroom sink area. It helps maintain a tidy and organized under sink area and excellent addition to optimize storage space.Easy Installation: Can be installed with no tools required!Two Layer Design: Consists of two layers. Both top and bottom sliding layer can be pulled which makes it even more convenient to reach items at the back of the shelf with ease.Easy to Clean: Hollow design can prevent water accumulation. Just wipe it with clean damp cloth for cleaning.Multi-use: Perfect for kitchen, bathroom, garage, office, utility room, laundry room, and many more.\u00a0SpecificationsProduct Dimensions: 9 x 3.3 x 16 inchesMaterial: Plastic + carbon steel\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0WARNING: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/446271.jpg\",\"https://images.monoprice.com/productlargeimages/446272.jpg\",\"https://images.monoprice.com/productlargeimages/446273.jpg\",\"https://images.monoprice.com/productlargeimages/446274.jpg\",\"https://images.monoprice.com/productlargeimages/446275.jpg\",\"https://images.monoprice.com/productlargeimages/446276.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 26.99,
+      "sku": "44627",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44627",
+      "gtin14": "889028190982"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 2 Pack Under Sink Shelf Kitchen Organizers 2 Tier Bathroom Cabinet Drawer Multi-purpose Storage with 4 Hooks",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "44627",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/44627"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

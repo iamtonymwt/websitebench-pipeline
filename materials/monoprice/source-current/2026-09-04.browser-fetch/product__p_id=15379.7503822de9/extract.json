@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K30 1x2 Amplified Video Splitter with HDMI supports 48-bit Deep Color 3D Video ",
+    "@id": "https://www.monoprice.com/product?p_id=15379",
+    "url": "https://www.monoprice.com/product?p_id=15379",
+    "description": "This Blackbird\u2122 4K HDMI\u00ae splitter distributes a single HDMI source to two HDMI displays.Features: 1 HDMI\u00ae input splits to 2 HDMI sink devicesHDCP\u2122 1.4 protocol compliant3D video support including frame packing for all 3D formats up to a 297MHz TMDS clockSupport display resolutions up to 4K@30Hz, 1080p@120Hz, and 3D\u20111080p@60HzSupports 48\u2011bit Deep ColorSupports digital audio formats, including DTS\u2011HD\u2122, Dolby TrueHD\u2122, 7.1\u2011channel LPCM, DTS\u00ae, Dolby AC3\u2122, and DSDSupport Files: User's Manual (Apr 22, 2014)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Dolby\u00ae and the double\u2011D symbol are registered trademarks of Dolby Laboratories. Dolby AC3\u2122 and Dolby TrueHD\u2122 are trademarks of Dolby Laboratories. DTS\u00ae, the Symbol, and DTS + the Symbol together are registered trademarks and DTS\u2011HD\u2122 is a trademark of DTS, Inc. Updated Jan 27, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/153791.jpg\",\"https://images.monoprice.com/productlargeimages/153792.jpg\",\"https://images.monoprice.com/productlargeimages/153793.jpg\",\"https://images.monoprice.com/productlargeimages/153794.jpg\",\"https://images.monoprice.com/productlargeimages/153795.jpg\",\"https://images.monoprice.com/productlargeimages/153796.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "15379",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15379",
+      "gtin14": "889028034798"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K30 1x2 Amplified Video Splitter with HDMI supports 48-bit Deep Color 3D Video ",
+      "ratingCount": "98",
+      "reviewCount": "98",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Splitters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters"
+    },
+    {
+      "name": "15379",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters/15379"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

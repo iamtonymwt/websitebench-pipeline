@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Audio 60W 3ch 100/70V Mixer Amp (No Logo)",
+    "@id": "https://www.monoprice.com/product?p_id=18800",
+    "url": "https://www.monoprice.com/product?p_id=18800",
+    "description": "This amplifier is designed to drive a conventional 4\u2011ohm or 8\u2011ohm speaker system as well as 70\u2011volt and 100\u2011volt constant voltage speaker systems. It features three unbalanced 1/4\" microphone inputs, two of which can be switched to unbalanced RCA and 1/4\" auxiliary jacks instead of microphone level inputs.Features: Three 1/4\" microphone inputsOne RCA and one 1/4\" auxiliary inputsThree separate mixing/volume controls for MIC 1, MIC 2/AUX 1, and MIC 3/AUX 2Treble and bass controlsMIC 1 input has priority4\u2011ohm and 8\u2011ohm constant resistance output options70\u2011volt and 100\u2011volt constant voltage output options100 ~ 240 VAC, 50/60 Hz input voltage rangeSupport Files: User's Manual (Jan 9, 2017)Small Restaurant Sales Sheet (Apr 24, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 3, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/188001.jpg\",\"https://images.monoprice.com/productlargeimages/188002.jpg\",\"https://images.monoprice.com/productlargeimages/188003.jpg\",\"https://images.monoprice.com/productlargeimages/188004.jpg\",\"https://images.monoprice.com/productlargeimages/188005.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 219.99,
+      "sku": "18800",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18800",
+      "gtin14": "889028047866"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Audio 60W 3ch 100/70V Mixer Amp (No Logo)",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Commercial Audio & Digital Signage",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage"
+    },
+    {
+      "name": "Mixers & Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers"
+    },
+    {
+      "name": "18800",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers/18800"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

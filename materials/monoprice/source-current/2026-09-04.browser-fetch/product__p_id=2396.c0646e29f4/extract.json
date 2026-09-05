@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DVI-A Dual Link Male to HD15 (VGA) Female Adapter (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=2396",
+    "url": "https://www.monoprice.com/product?p_id=2396",
+    "description": "So you've got a video card with a DVI\u00e2\u201e\u00a2-A or DVI-I connector and your only monitor has a VGA input? No problem! Just get this DVI-A Dual Link to VGA Adapter from Monoprice and you'll be up and running in no time at all!This adapter connects to a Dual Link DVI-A or DVI-I connection on a video card. It produces a standard VGA/SVGA output signal for use with standard analog VGA monitors.Note that this adapter will not convert DVI-D digital signals to analog VGA. Your video card must output an analog DVI signal if this adapter is to be used. Also note that this does not convert VGA signals to DVI-A or DVI-I. This adapter can only be used in the DVI to VGA direction. DVI\u00e2\u201e\u00a2 is a trademark of the Digital Display Working Group. Updated Sep 3, 2019 \u00a0Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/23961.jpg\",\"https://images.monoprice.com/productlargeimages/23962.jpg\",\"https://images.monoprice.com/productlargeimages/23963.jpg\",\"https://images.monoprice.com/productlargeimages/23964.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 4.99,
+      "sku": "2396",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2396",
+      "gtin14": "844660023968"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DVI-A Dual Link Male to HD15 (VGA) Female Adapter (Gold Plated)",
+      "ratingCount": "156",
+      "reviewCount": "156",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DVI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters"
+    },
+    {
+      "name": "2396",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters/2396"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

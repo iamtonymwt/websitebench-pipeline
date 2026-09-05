@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 Outdoor Rated Ethernet Patch Cable - Molded RJ45 Connectors Stranded 550MHz UTP Pure Bare Copper Wire 24AWG 7ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=36210",
+    "url": "https://www.monoprice.com/product?p_id=36210",
+    "description": "Save the time and hassle of building Ethernet cables by using fixed length UTP Cat6 Ethernet Network Cables from Monoprice\u2122!Monoprice Cat6 Outdoor Rated Ethernet Patch Cables are designed for IT and data center professionals who need to run interconnect cables that will be exposed to the elements. The fully molded connectors protect the inner conductors from moisture and contaminants that may cause corrosion or signal degradation. The connectors feature snagless cable boots that protect the plug retaining clip from breakage.Features: Unshielded Twisted Pair (UTP) Category 6 Ethernet cable24AWG stranded, pure bare copper conductors550MHz bandwidthSnagless cable boots protect the plug retaining clipsUV resistant jacket protects from premature degradation from exposure to the sun and elementsFully molded and sealed connectors for maximum protection and durabilityMonoprice\u2122 Ethernet cables are made of 100% pure bare copper wire, as opposed to copper clad aluminum (CCA) wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Support Files: Specification Sheet (Apr 2, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated Aug 03, 2023\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/362101.jpg\",\"https://images.monoprice.com/productlargeimages/362102.jpg\",\"https://images.monoprice.com/productlargeimages/362103.jpg\",\"https://images.monoprice.com/productlargeimages/362104.jpg\",\"https://images.monoprice.com/productlargeimages/362105.jpg\",\"https://images.monoprice.com/productlargeimages/362106.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.09,
+      "sku": "36210",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=36210",
+      "gtin14": "889028114551"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 Outdoor Rated Ethernet Patch Cable - Molded RJ45 Connectors Stranded 550MHz UTP Pure Bare Copper Wire 24AWG 7ft Black",
+      "ratingCount": "19",
+      "reviewCount": "1",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6 Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables"
+    },
+    {
+      "name": "36210",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables/36210"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

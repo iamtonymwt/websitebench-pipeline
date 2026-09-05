@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Extra Large Multimedia Desktop Monitor Stand 30.8in x 11in Max Weight Capacity 80lbs Clear Tempered Glass",
+    "@id": "https://www.monoprice.com/product?p_id=16356",
+    "url": "https://www.monoprice.com/product?p_id=16356",
+    "description": "Give yourself an extra shelf or raise your monitor to a comfortable height with this stackable glass shelf for a computer monitor, laptop computer, home audio equipment, or anything else that needs a flat surface. This beautiful 8mm clear glass shelf measures 30.8\" x 11.0\" (780 x 280 mm), and matches any decor. It has a maximum weight capacity of 80 lbs. (36.2kg).Support Files: Quick Install Guide (Apr 21, 2023)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 3, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/163561.jpg\",\"https://images.monoprice.com/productlargeimages/163562.jpg\",\"https://images.monoprice.com/productlargeimages/163563.jpg\",\"https://images.monoprice.com/productlargeimages/163564.jpg\",\"https://images.monoprice.com/productlargeimages/163565.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 47.99,
+      "sku": "16356",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=16356",
+      "gtin14": "889028044865"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Extra Large Multimedia Desktop Monitor Stand 30.8in x 11in Max Weight Capacity 80lbs Clear Tempered Glass",
+      "ratingCount": "745",
+      "reviewCount": "42",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Monitor Stand & Shelves",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves"
+    },
+    {
+      "name": "16356",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves/16356"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

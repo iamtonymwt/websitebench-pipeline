@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RJ11 and RJ45 Modular Plug Tester",
+    "@id": "https://www.monoprice.com/product?p_id=8138",
+    "url": "https://www.monoprice.com/product?p_id=8138",
+    "description": "This Monoprice RJ11/RJ45 tester is a simple, yet powerful, tool that helps troubleshoot network and telephone cables for broken wires and crossed connections.The tester consists of a main Master unit and a detachable Remote unit, each of which have an RJ11 and an RJ45 jack. The unit is powered with a 9\u2011volt battery (not included) and can be stored in the included, zippered, synthetic leather case.The Master and Remote unit each have a series of 9 LEDs that show the status of each line on the attached cable. The tester supports both a fast automatic and a slow automatic mode.The following operating instructions supercede the instructions contained in the enclosed operator's manual.To test a cable: 1. Insert one end in the appropriate jack on the Master unit and the other in the same type jack on the Remote unit. IMPORTANT! DO NOT CONNECT TO A CABLE THAT IS PLUGGED IN TO A LIVE CIRCUIT AS THIS MAY CAUSE DAMAGE TO THE TESTER OR OTHER EQUIPMENT ON THE CIRCUIT!2. Move the tester power switch to the \"On\" or \"S\" position. For best results, use the Slow Automatic mode (S position) to perform the test, as this gives time to watch the light sequence and ensure that the same LEDs illuminate on the Master and Remote simultaneously.3. Watch the LEDS on both the Master and Remote units. Under normal conditions, using a straight\u2011through RJ45 cable in good condition, the LEDs will simultaneously illuminate in the sequence 1\u20112\u20113\u20114\u20115\u20116\u20117\u20118\u2011G on both the Master and Remote units.4. A faulty or miswired connection will produce a different result, as follows:A. If there a wire is broken or otherwise not connected, the LED on the Master unit will illuminate, but no LED will illuminate on the Remote unit.B. If a wire is crossed, different LEDs will illuminate on the Master and Remote units. For example, if the 3rd LED on the Master unit and the 5th LED on the Remote unit both illuminate then the wire is crossed between pin 3 on the Master side and pin 5 on the Remote side.C. If there is a short circuit between two or more wires, no LEDs will illuminate on either the Master or Remote unit.Note that when testing RJ11 or RJ12 cables with a 6P6C connection, only the LEDs 1\u20116 will illuminate. If using a 4P4C connection, only the LEDs 2\u20115 will illuminate. This product requires a 9 volt battery, which is not included! Support Files: User's Manual (Jul 14, 2011)Manual de Usuario (Espa\u00f1ol) (Apr 24, 2015)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 20, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/81381.jpg\",\"https://images.monoprice.com/productlargeimages/81382.jpg\",\"https://images.monoprice.com/productlargeimages/81383.jpg\",\"https://images.monoprice.com/productlargeimages/81384.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "8138",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8138",
+      "gtin14": "844660081388"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RJ11 and RJ45 Modular Plug Tester",
+      "ratingCount": "166",
+      "reviewCount": "166",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Tests & Tone Generators",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/tests-&-tone-generators"
+    },
+    {
+      "name": "8138",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/tests-&-tone-generators/8138"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SuperSpeed 4-Port USB-C Hub Gray",
+    "@id": "https://www.monoprice.com/product?p_id=14908",
+    "url": "https://www.monoprice.com/product?p_id=14908",
+    "description": "Expand your laptop's USB capabilities by adding four SuperSpeed USB 3.0 ports. Designed to connect to a laptop or PC with a USB-C\u00ae port, this hub allows you to connect external hard drives, flash drives, mobile devices, USB display adapters, and more. Fully capable as a bus-powered hub, it also features a DC power jack for use with an optional AC power adapter (not included). Capable of data transfer speeds up to 5Gbps, this hub is also backwards compatible with USB 2.0 and 1.1 devices. No drivers or complicated configurations are required - just plug it in and start using it right away!SuperSpeed Transfer RatesReversible DesignPremium Housing4-Port USB HubSuperSpeed Transfer Rates: This SuperSpeed USB 3.0 hub features data transfer rates up to 5Gbps, which means that your external hard drives and other devices can operate at speeds approaching that of internal SATA III drives!Reversible Design: The reversible design of the new USB Type-C\u00ae connector is always properly oriented, eliminating a common source of frustration from trying to connect improperly oriented Type-A plugs.Premium Housing: The unibody aluminum design ensures maximum strength with minimum weight, while the brushed aluminum finish is an attractive complement to a new MacBook\u00ae or Chromebook\u2122.4-Port USB Hub: Get more mileage from your single USB-C port by expanding it to four USB 3.0 ports, so you can connect external hard drives, keyboards, mice, flash drives, and any of a myriad of USB 1.1, 2.0, and 3.0 compatible devices.\u00a0Compatible with USB-C\u00ae equipped laptops, such as the Apple MacBook\u00ae and Google Chromebook\u2122WarrantyMonoprice not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB Type-C\u00ae and USB-C\u00ae are trademarks of USB Implementers Forum, Inc. Apple\u00ae, Mac\u00ae, and MacBook\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122 amd Chromebook\u2122 are trademarks of Google LLC. Updated Dec 9, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/149081.jpg\",\"https://images.monoprice.com/productlargeimages/149082.jpg\",\"https://images.monoprice.com/productlargeimages/149083.jpg\",\"https://images.monoprice.com/productlargeimages/149084.jpg\",\"https://images.monoprice.com/productlargeimages/149085.jpg\",\"https://images.monoprice.com/productlargeimages/149086.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "14908",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=14908",
+      "gtin14": "889028029886"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SuperSpeed 4-Port USB-C Hub Gray",
+      "ratingCount": "23",
+      "reviewCount": "23",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "14908",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/14908"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

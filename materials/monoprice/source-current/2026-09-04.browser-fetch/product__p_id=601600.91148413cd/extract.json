@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3-Pin DMX Terminator",
+    "@id": "https://www.monoprice.com/product?p_id=601600",
+    "url": "https://www.monoprice.com/product?p_id=601600",
+    "description": "Terminate your DMX daisy chain using this 3-Pin DMX Terminator from Monoprice!This terminator consists of an anodized aluminum locking XLR body, with plastic cap and rubber boot. A 120-ohm resistor has been soldered between pins 2 and 3, allowing it to terminate DMX daisy chains.                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6016001.jpg\",\"https://images.monoprice.com/productlargeimages/6016002.jpg\",\"https://images.monoprice.com/productlargeimages/6016003.jpg\",\"https://images.monoprice.com/productlargeimages/6016004.jpg\",\"https://images.monoprice.com/productlargeimages/6016005.jpg\",\"https://images.monoprice.com/productlargeimages/6016006.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "601600",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601600",
+      "gtin14": "757901811111"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3-Pin DMX Terminator",
+      "ratingCount": "23",
+      "reviewCount": "23",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "DMX Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/dmx-cables"
+    },
+    {
+      "name": "601600",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/dmx-cables/601600"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

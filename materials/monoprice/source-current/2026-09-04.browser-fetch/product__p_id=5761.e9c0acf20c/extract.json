@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cable Tie 8in 40 lbs 100 pcs/pack Black",
+    "@id": "https://www.monoprice.com/product?p_id=5761",
+    "url": "https://www.monoprice.com/product?p_id=5761",
+    "description": "Organize that tangled mess behind your computer desk or home theater rack with these simple nylon zip cords. Just zip and snip. Easy and economical. Sold in 100 piece bulk packs, each cable tie can hold up to 40 lbs.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 25, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/57611.jpg\",\"https://images.monoprice.com/productlargeimages/57612.jpg\",\"https://images.monoprice.com/productlargeimages/57613.jpg\",\"https://images.monoprice.com/productlargeimages/57614.jpg\",\"https://images.monoprice.com/productlargeimages/57615.jpg\",\"https://images.monoprice.com/productlargeimages/57616.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.99,
+      "sku": "5761",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5761",
+      "gtin14": "844660057611"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cable Tie 8in 40 lbs 100 pcs/pack Black",
+      "ratingCount": "374",
+      "reviewCount": "93",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Cable Management",
+      "url": "https://www.monoprice.com/category/networking/cable-management"
+    },
+    {
+      "name": "Cable Ties",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-ties"
+    },
+    {
+      "name": "5761",
+      "url": "https://www.monoprice.com/category/networking/cable-management/cable-ties/5761"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

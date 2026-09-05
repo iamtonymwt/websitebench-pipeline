@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice IEEE-1394 FireWire i.LINK DV Cable 6P-6P M/M 3ft (Clear)",
+    "@id": "https://www.monoprice.com/product?p_id=34",
+    "url": "https://www.monoprice.com/product?p_id=34",
+    "description": "The IEEE 1394 serial interface is better known as FireWire\u00ae, FireWire 400, and i.LINK\u00ae, and is found on most Apple\u00ae Mac\u00ae computers since 1995. It is also commonly found on portable video cameras by companies such as Sony\u00ae.This cable features male 6-pin \"alpha\" connectors on each end and supports data transfer rates up to 400Mbps.Apple, Mac, and FireWire are trademarks of Apple Inc, registered in the U.S. and other countries. Sony and i.LINK are registered trademarks of Sony Corporation. ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/341.jpg\",\"https://images.monoprice.com/productlargeimages/342.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.89,
+      "sku": "34",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34",
+      "gtin14": "844660000341"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice IEEE-1394 FireWire i.LINK DV Cable 6P-6P M/M 3ft (Clear)",
+      "ratingCount": "71",
+      "reviewCount": "6",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "Firewire Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/firewire-cables"
+    },
+    {
+      "name": "34",
+      "url": "https://www.monoprice.com/category/cables/data-cables/firewire-cables/34"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

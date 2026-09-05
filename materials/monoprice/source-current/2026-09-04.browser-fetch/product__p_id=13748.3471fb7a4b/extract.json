@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB 3.0 USB-A to USB-B Cable  Black  6ft",
+    "@id": "https://www.monoprice.com/product?p_id=13748",
+    "url": "https://www.monoprice.com/product?p_id=13748",
+    "description": "Connect your SuperSpeed USB 3.0 devices using this USB 3.0 A Male to B Male Cable from Monoprice!This cable features a USB 3.0 A male connector on one end and a USB 3.0 B male connector on the other end. The USB 3.0 B connector differs from the traditional USB 2.0 B connector in that it has 5 additional pins, which carry SuperSpeed data.\u00a0Support Files: Technical Specs (May 28, 2025)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/137481.jpg\",\"https://images.monoprice.com/productlargeimages/137482.jpg\",\"https://images.monoprice.com/productlargeimages/137483.jpg\",\"https://images.monoprice.com/productlargeimages/137484.jpg\",\"https://images.monoprice.com/productlargeimages/137485.jpg\",\"https://images.monoprice.com/productlargeimages/137486.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.79,
+      "sku": "13748",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13748",
+      "gtin14": "889028018019"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB 3.0 USB-A to USB-B Cable  Black  6ft",
+      "ratingCount": "34",
+      "reviewCount": "11",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB B Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-b-cables"
+    },
+    {
+      "name": "13748",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-b-cables/13748"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

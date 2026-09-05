@@ -1,0 +1,204 @@
+﻿.btn-notifyme {
+    border: 1px solid #888 !important;
+    font-size: 14px !important;
+    padding: 5.5px 12px !important;
+}
+
+.mp-nav {
+    z-index: initial !important;
+}
+
+    .mp-nav .nav-wrap .shop-nav .shop-dropdown.active {
+        z-index: 9999999 !important;
+    }
+
+    .mp-nav .nav-wrap .user-links .active {
+        z-index: 9999999 !important;
+    }
+
+.quick-order {
+    z-index: 16 !important;
+}
+
+.mp-nav .nav-wrap .user-links .my-cart .mycart-dropdown.open {
+    z-index: 16 !important;
+}
+
+.mp-nav .nav-wrap .brands-nav.active {
+    z-index: 16 !important;
+}
+.fti-rating-wrapper {
+    min-height: 40px !important;
+}
+.fti-prod-inner {
+    height: 400px !important;
+    text-align: center;
+}
+.fti-prod-price, .add-to-cart, form.cart-form, .bs-prod-rating {
+    text-align: center;
+}
+del.bs-actual-price {
+    color: #8D8D8D !important;
+}
+
+.bs-prod-rating-wrapper, .bs-prod-desc, .bs-prod-price {
+    text-align: center !important;
+}
+@media only screen and (min-width :767px ) and (max-width:992px) {
+    .fti-prod-inner {
+        height: 350px !important;
+    }
+        .fti-prod-inner figure {
+            min-height: 150px !important;
+        }
+}
+@media only screen and (min-width :400px ) and (max-width:480px) {
+    .fti-prod-inner {
+        height: 430px !important;
+    }
+}
+@media only screen and (min-width :370px ) and (max-width:400px) {
+    .fti-prod-inner {
+        height: 420px !important;
+    }
+}
+@media only screen and (min-width : 992px) {
+    #notifyme {
+        position: fixed !important;
+        top: 0% !important;
+        left: 50% !important;
+        margin-top: 0px !important;
+        margin-left: -400px !important;
+        width: 800px !important;
+        z-index: 999999 !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .navigation-bar {
+        display: none !important;
+    }
+
+    .row {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+
+    .ft-cat-title {
+        text-align: center !important;
+    }
+
+    .fti-prod-price {
+        text-align: center !important;
+    }
+
+    .fti-rating-wrapper {
+        text-align: center !important;
+    }
+
+    .add-to-cart {
+        text-align: center !important;
+    }
+
+    p.bs-prod-desc {
+        text-align: center !important;
+    }
+
+    .fti-prod-inner {
+        text-align: center !important;
+    }
+
+    .ft-cat-block {
+        margin-bottom: 10px;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    .cat-slider .carousel-caption h2 {
+        text-align: center !important;
+        font-size: 16px !important;
+    }
+
+    .cat-slider .carousel-caption p {
+        text-align: center !important;
+        font-size: 14px !important;
+    }
+
+    .cart-form {
+        text-align: center !important;
+    }
+
+    .cat-block-title {
+        font-size: 24px !important;
+    }
+
+    .ft-cat-row {
+        margin-bottom: 0px !important;
+    }
+
+    .carousel-caption.text-right {
+        height: auto !important;
+        text-align: center !important;
+    }
+
+    .carousel-caption.text-left {
+        height: auto !important;
+        text-align: center !important;
+    }
+}
+@media only screen and (min-width :700px ) and (max-width:767px) {
+    .fti-prod-inner {
+        height: 430px !important;
+    }
+}
+.cat-bread a {
+    font-size: 12px;
+    color: #A1A1A1;
+    font-weight: 500;
+}
+
+.cat-bread > li > a:hover {
+    color: #000;
+}
+
+.cat-bread > li.active > a {
+    color: #000 !important;    
+}
+
+@media screen and (min-width: 100px) and (max-width: 720px) {
+    .cat-breadcrumb-mobile > .cat-bread > li.active > a,
+    .cat-breadcrumb-mobile > .cat-bread > li > a:hover
+    {
+        color: #000 !important;        
+    }
+}
+.cat-breadcrumb {
+    margin: 15px 0 20px;    
+}
+
+.cat-bread {
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.cat-bread > li {
+    padding: 0;
+}
+
+.cat-bread > li + li:before {
+    padding: 0 2px;
+    content: "\002F";
+}
+
+@media screen and (min-width: 100px) and (max-width: 720px) {
+    .cat-breadcrumb {
+        display: none !important;
+    }
+}
+
+@media screen and (min-width: 720px) {
+    .cat-breadcrumb-mobile {
+        display: none !important;
+    }
+}

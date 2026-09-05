@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 25ft MIDI Cable with 5 Pin DIN Plugs - Black",
+    "@id": "https://www.monoprice.com/product?p_id=8536",
+    "url": "https://www.monoprice.com/product?p_id=8536",
+    "description": "High quality MIDI cables don't need to cost an arm and a leg. Monoprice can help you stretch your gig money with these low-cost, high-quality MIDI cables!These RoHS Compliant MIDI cables feature a standard, keyed 5-pin DIN connector on each end with molded connector shells. The cable jacket is soft, but durable, and will last a lifetime. We guarantee it!",
+    "image": "[\"https://images.monoprice.com/productlargeimages/85361.jpg\",\"https://images.monoprice.com/productlargeimages/85362.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "8536",
+      "availability": "https://schema.org/Discontinued",
+      "url": "https://www.monoprice.com/product?p_id=8536",
+      "gtin14": "844660085362"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 25ft MIDI Cable with 5 Pin DIN Plugs - Black",
+      "ratingCount": "122",
+      "reviewCount": "14",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "MIDI Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/midi-cables"
+    },
+    {
+      "name": "8536",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/midi-cables/8536"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SS-Pro 8 High Power Dual Source 300 Watt 8 Pair Impedance Matching Speaker Selector",
+    "@id": "https://www.monoprice.com/product?p_id=39068",
+    "url": "https://www.monoprice.com/product?p_id=39068",
+    "description": "Monoprice\u2122SS-Pro 8 High Power Dual Source 300 Watt Peak 8 Pair Impedance Matching Speaker SelectorThe Monoprice SS-Pro 8 is a powerful and efficient dual source, audiophile grade speaker selector for up to 8 pairs of speakers. Featuring robust transformers, the SS-Pro 8 allows you to play all 8 pairs of speakers at once without damaging the amplifier, able to withstand up to 300 watts peak of power per channel. A front panel A/B switch allows you to choose between two amplifier sources, and easily removeable snap in connectors make installation easy. A rotary switch located on the rear panel can be used to set the appropriate impedance based on the number of pair of speakers connected.Connect and control up to 8 pairs of speakers or zones with front panel push-buttonsAudiophile-grade impedance-matching transformers ensure safe, high-power distributionEasily switch between audio sources using the front panel selectorCompatible with both 4-ohm and 8-ohm speaker systemsBuilt-in protection circuit safeguards your amplifier from overload\u00a0.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Manual (Oct 29, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Oct 29, 2025 Warning: This product can expose you to chemicals, including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/390681.jpg\",\"https://images.monoprice.com/productlargeimages/390682.jpg\",\"https://images.monoprice.com/productlargeimages/390683.jpg\",\"https://images.monoprice.com/productlargeimages/390684.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 184.99,
+      "sku": "39068",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=39068",
+      "gtin14": "889028132302"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SS-Pro 8 High Power Dual Source 300 Watt 8 Pair Impedance Matching Speaker Selector",
+      "ratingCount": "6",
+      "reviewCount": "6",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "39068",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/39068"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

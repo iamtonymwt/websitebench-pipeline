@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 12-port Vertical Cat6 Mini Patch Panel 110 Type (568A/B Compatible) (UL)",
+    "@id": "https://www.monoprice.com/product?p_id=7304",
+    "url": "https://www.monoprice.com/product?p_id=7304",
+    "description": "Features: Compact vertical rack mountable 12\u2011port Cat6 patch panelSmall footprint saves space and allows optimum use of valuable rack spaceConveniently numbered and writeable port labels on the front panelCompatible with both 568A and B standards with easy to read color code diagrams in backUL\u00ae Listed, meets Cat6 standardsTakes standard 110 blade punchdownProvides tight, secure, positive contact and transfer of signalsBracket frame with screw eyelets for easy attachment to rack frameUnshielded180 degree typeMeasures only 10\" x 2.25\"Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Aug 25, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/73041.jpg\",\"https://images.monoprice.com/productlargeimages/73042.jpg\",\"https://images.monoprice.com/productlargeimages/73043.jpg\",\"https://images.monoprice.com/productlargeimages/73044.jpg\",\"https://images.monoprice.com/productlargeimages/73045.jpg\",\"https://images.monoprice.com/productlargeimages/73046.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 27.99,
+      "sku": "7304",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7304",
+      "gtin14": "844660073048"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 12-port Vertical Cat6 Mini Patch Panel 110 Type (568A/B Compatible) (UL)",
+      "ratingCount": "135",
+      "reviewCount": "81",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels"
+    },
+    {
+      "name": "Networking Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/networking-patch-panels"
+    },
+    {
+      "name": "7304",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/networking-patch-panels/7304"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

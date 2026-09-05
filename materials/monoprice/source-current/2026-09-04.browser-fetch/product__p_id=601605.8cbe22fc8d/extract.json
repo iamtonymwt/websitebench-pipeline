@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 5-Pin Male to 3-Pin Female DMX Converter",
+    "@id": "https://www.monoprice.com/product?p_id=601605",
+    "url": "https://www.monoprice.com/product?p_id=601605",
+    "description": "Connect your 3-pin and 5-pin DMX cables and equipment together using this 3-Pin Female to 5-Pin Male DMX Converter from Monoprice!This anodized aluminum adapter features a female 3-pin DMX connector with a lock release button and a male 5-pin DMX connector on the opposite end. It transmits the signal ground on pin 1 and the DMX data signals on pins 2 and 3. Please note that any auxiliary data on pins 4 and 5 will not be carried through.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6016051.jpg\",\"https://images.monoprice.com/productlargeimages/6016052.jpg\",\"https://images.monoprice.com/productlargeimages/6016053.jpg\",\"https://images.monoprice.com/productlargeimages/6016054.jpg\",\"https://images.monoprice.com/productlargeimages/6016055.jpg\",\"https://images.monoprice.com/productlargeimages/6016056.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "601605",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601605",
+      "gtin14": "757901817731"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 5-Pin Male to 3-Pin Female DMX Converter",
+      "ratingCount": "13",
+      "reviewCount": "13",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "DMX Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/dmx-cables"
+    },
+    {
+      "name": "601605",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/dmx-cables/601605"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

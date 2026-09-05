@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RJ11 6P4C Modular T-Adapter Male to 2x Female Straight White",
+    "@id": "https://www.monoprice.com/product?p_id=7292",
+    "url": "https://www.monoprice.com/product?p_id=7292",
+    "description": "Phone Jack Splitter.For plugging two telecommunications device via RJ11 to a single jack.4 conductor type.White.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72921.jpg\",\"https://images.monoprice.com/productlargeimages/72922.jpg\",\"https://images.monoprice.com/productlargeimages/72923.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "7292",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7292",
+      "gtin14": "844660072928"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RJ11 6P4C Modular T-Adapter Male to 2x Female Straight White",
+      "ratingCount": "10",
+      "reviewCount": "10",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Network Adapters",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/network-adapters"
+    },
+    {
+      "name": "7292",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/network-adapters/7292"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

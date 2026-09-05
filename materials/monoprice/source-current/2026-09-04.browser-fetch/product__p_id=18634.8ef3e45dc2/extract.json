@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Onyx Series Auxiliary 3.5mm TRRS Audio & Microphone Cable 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=18634",
+    "url": "https://www.monoprice.com/product?p_id=18634",
+    "description": "                                            Connect your smartphone to your headphones with microphone using the Onyx Series Auxiliary 3.5mm TRRS Audio & Microphone Cable. The TRRS (tip-ring-ring-sleeve) plug provides an extra conductor over the stereo TRS plug, allowing you to carry both stereo audio and voice over the single cable. Unlike many 3.5mm cables, the connector heads are very thin, allowing you to plug into a smartphone with the case installed. Bend tested over 5,000 times for proven long-term durability, it features aluminum connectors for an extra measure of durability.                                                                                                                                                            Slim Design                          Durable                          Gold Plated                                              Slim Design: Our beveled stepdown design creates a secure connection, while the connector heads are thin enough to plug into a smartphone with a protective case installed.                    Durable: We bend tested this cable over 5,000 times with no damage to the cable or change in performance. The premium aluminum connectors provide an extra measure of durability.                    Gold Plated: Gold plated plugs ensure smooth, corrosion-free connections every time.                                      Stereo Audio with Microphone                          TRRS (tip-ring-ring-sleeve) plugs provide four conductors for the ground/return, for transmitting left and right channel audio data, and for transmitting voice data from a microphone.                                      Lengths:1, 3, 6, 10, and 15 feet                                                                                                                                Buy with Confidence                                With Monoprice's Lifetime Warranty you can rest assured we stand behind our products and our customers. Additionally, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.                                                                                                    Quality at a Fair Price                                Monoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.                                                                                                    Hassle Free Packaging                                Monoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.                                                                                                    Service & Support                                You're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!                                                      Updated Jan 23, 2020                           Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/186341.jpg\",\"https://images.monoprice.com/productlargeimages/186342.jpg\",\"https://images.monoprice.com/productlargeimages/186343.jpg\",\"https://images.monoprice.com/productlargeimages/186344.jpg\",\"https://images.monoprice.com/productlargeimages/186345.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.69,
+      "sku": "18634",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18634",
+      "gtin14": "889028046562"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Onyx Series Auxiliary 3.5mm TRRS Audio & Microphone Cable 10ft",
+      "ratingCount": "93",
+      "reviewCount": "12",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "18634",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/18634"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

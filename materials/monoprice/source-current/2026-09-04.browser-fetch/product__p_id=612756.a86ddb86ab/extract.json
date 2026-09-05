@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 60W White COB LED DMX Ellipsoidal Stage Light with 13 ~ 35-degree Beam Manual Zoom 3200k",
+    "@id": "https://www.monoprice.com/product?p_id=612756",
+    "url": "https://www.monoprice.com/product?p_id=612756",
+    "description": "                    This light fixture features a single, 60\u2011watt 3200K white LED and a 13\u00b0 ~ 35\u00b0 adjustable beam angle. It allows for manual control over the beam size, using four independently adjustable shutters, focus, and zoom, as well as 3\u2011channel DMX512 control for the dimmers and built\u2011in programs. It includes built in Strobe, Fade, and Auto programs and can be configured as a DMX Slave light.                              Features:                            60\u2011watt 3200K white LED        Produces 3300 Lux at 2 meters        13\u00b0 ~ 35\u00b0 adjustable beam angle        Adjustable beam size using four independently adjustable shutters        Manual focus control        Manual zoom control        3\u2011channel DMX control        Built\u2011in Strobe, Fade, and Auto programs                                                                                                                                                                        Support Files:        User's Manual (Jun 13, 2017)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 21, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6127561.jpg\",\"https://images.monoprice.com/productlargeimages/6127562.jpg\",\"https://images.monoprice.com/productlargeimages/6127563.jpg\",\"https://images.monoprice.com/productlargeimages/6127564.jpg\",\"https://images.monoprice.com/productlargeimages/6127565.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 289.99,
+      "sku": "612756",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612756",
+      "gtin14": "889028054277"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 60W White COB LED DMX Ellipsoidal Stage Light with 13 ~ 35-degree Beam Manual Zoom 3200k",
+      "ratingCount": "6",
+      "reviewCount": "6",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Spotlights & Ellipsoidals",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals"
+    },
+    {
+      "name": "612756",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals/612756"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

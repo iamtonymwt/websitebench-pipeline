@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13 16AWG 13A/1625W 3-Prong SJT Black 15ft",
+    "@id": "https://www.monoprice.com/product?p_id=6455",
+    "url": "https://www.monoprice.com/product?p_id=6455",
+    "description": "Extend the reach of your AC powered device using this AC power extension cord to energize equipment from a distant power outlet. This cable features a standard, grounded IEC 60320 C14 plug on one end and an IEC 60320 C13 receptacle on the other. IEC 60320 C14 to C13 power cords are commonly used between rack mounted equipment and the PDU in a data cabinet. This cable is designed to carry up to a 13 amp/1625 watt, 125 volt load.Features: Recommended for powering computers, monitors, and other essential peripheralsExtend the length of an existing power cord for more flexibilityConnect devices, such as computers, servers, and monitors to a PDU or UPS in data centerColored cord is designed for easy identification in a high\u2011density data environment\u00a0Plug\u00a0TypeIEC 60320 C14Receptacle\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge16 AWGMaximum\u00a0Current13 ampsCertificationsUL\u00ae, cUL, CSA\u00ae, RoHSSupport Files: Technical Drawing (Sep 2, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jul 14, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/64551.jpg\",\"https://images.monoprice.com/productlargeimages/64552.jpg\",\"https://images.monoprice.com/productlargeimages/64553.jpg\",\"https://images.monoprice.com/productlargeimages/64554.jpg\",\"https://images.monoprice.com/productlargeimages/64555.jpg\",\"https://images.monoprice.com/productlargeimages/64556.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.99,
+      "sku": "6455",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=6455",
+      "gtin14": "844660064558"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13 16AWG 13A/1625W 3-Prong SJT Black 15ft",
+      "ratingCount": "39",
+      "reviewCount": "1",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "6455",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/6455"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

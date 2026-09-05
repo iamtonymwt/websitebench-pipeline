@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB4 USB-C Gen 3x2 Cable 40Gbps 100W  Black  1m (3.28ft)",
+    "@id": "https://www.monoprice.com/product?p_id=43325",
+    "url": "https://www.monoprice.com/product?p_id=43325",
+    "description": "Monoprice\u2122USB4\u2122-C\u00ae Gen 3x2 1m (3.28ft) CableMaximum speed of 40Gbps and up to 100W of Power Delivery (PD)USB4\u2122 is the latest in the evolution of USB technology, offering faster transfer speeds, improved video content management, and compatibility with Thunderbolt\u2122 3 and previous USB versions back to USB 2.0. This Monoprice\u2122 USB4 cable has a maximum speed of 40Gbps, which is the same as that of Thunderbolt 3 and is 8 times faster than USB 3.0. Our USB4 cable is compatible with all Thunderbolt 3 and USB-C\u00ae devices, is backwards compatible with USB 3.0 and USB 2.0 devices, and supports the USB Power Delivery standard up to 100W. USB4 cables have improved bandwidth sharing between video and data signals, efficiently allocating resources as needed, and even support DisplayPort\u00ae Alt Mode 2.0 for DisplayPort and PCIe\u00ae protocols.Maximum speed of 40Gbps8 times faster than USB 3.0Up to 100W of Power Delivery (PD)Compatible with all Thunderbolt\u2122 3 and USB-C\u00ae devicesBackwards compatible with USB 3.0 and 2.0 devices\u00a08X FASTER THAN USB 3.0With a maximum data transfer rate of 40Gbps, USB4\u2122 cables can deliver up to 8x the speed of USB 3.0 cables.\u00a0100W POWER DELIVERYThis cable supports the USB Power Delivery standard up to 100W. This allows you to charge faster and power even the most power hungry devices.\u00a0IMPROVED BANDWIDTHUSB4\u2122 cables have improved bandwidth sharing between video and data signals, efficiently allocating resources as needed.\u00a0THUNDERBOLT\u2122 3 COMPATIBLEOur USB4\u2122 cable is not only compatible with all Thunderbolt\u2122 3 and USB-C\u00ae devices, it also boasts the same 40Gbps transfer rates as Thunderbolt 3 and is backwards compatible with USB 3.0 and USB 2.0 devices.\u00a0DISPLAYPORT\u00ae ALT MODE 2.0USB4\u2122 supports DisplayPort\u00ae Alt Mode 2.0, which allows you to directly connect a USB-C\u00ae equipped source to a similarly equipped monitor or display. Note that this requires a compatible USB-C\u00ae port on both the source device and display.\u00a0\u00a030 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB-C\u00ae and USB-C\u00ae are registered trademarks of USB Implementers Forum. USB4\u2122 is a trademark of USB Implementers Forum. Thunderbolt\u2122, Thunderbolt\u2122 3, and the Thunderbolt logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. PCI-SIG\u00ae, PCI Express\u00ae, and PCIe\u00ae are registered trademarks of PCI-SIG. Updated Oct 11, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/433251.jpg\",\"https://images.monoprice.com/productlargeimages/433252.jpg\",\"https://images.monoprice.com/productlargeimages/433253.jpg\",\"https://images.monoprice.com/productlargeimages/433254.jpg\",\"https://images.monoprice.com/productlargeimages/433255.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 22.09,
+      "sku": "43325",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43325",
+      "gtin14": "889028175446"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB4 USB-C Gen 3x2 Cable 40Gbps 100W  Black  1m (3.28ft)",
+      "ratingCount": "3",
+      "reviewCount": "3",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "43325",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/43325"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

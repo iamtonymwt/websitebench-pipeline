@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A 10G Shielded RJ45 Inline Coupler Type Feedthrough Keystone Jack Silver",
+    "@id": "https://www.monoprice.com/product?p_id=33869",
+    "url": "https://www.monoprice.com/product?p_id=33869",
+    "description": "This high-quality, shielded RJ45 8P8C keystone coupler is used to connect two Cat6A RJ45 patch network cables to make a single, longer patch cable through a keystone plate.\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/338691.jpg\",\"https://images.monoprice.com/productlargeimages/338692.jpg\",\"https://images.monoprice.com/productlargeimages/338693.jpg\",\"https://images.monoprice.com/productlargeimages/338694.jpg\",\"https://images.monoprice.com/productlargeimages/338695.jpg\",\"https://images.monoprice.com/productlargeimages/338696.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "33869",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=33869",
+      "gtin14": "889028090527"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A 10G Shielded RJ45 Inline Coupler Type Feedthrough Keystone Jack Silver",
+      "ratingCount": "203",
+      "reviewCount": "5",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "33869",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/33869"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

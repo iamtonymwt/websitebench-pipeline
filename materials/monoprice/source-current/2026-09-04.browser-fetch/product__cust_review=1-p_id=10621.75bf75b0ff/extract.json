@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam 19 x 16 x 6 in",
+    "@id": "https://www.monoprice.com/product?p_id=10621",
+    "url": "https://www.monoprice.com/product?p_id=10621",
+    "description": "Provide IP67 level dust and water protection for laptops, audio mixers, microphones, action cameras, or video displays using this customizable briefcase style Weatherproof Hard Case from Monoprice\u2122!The IP, or Ingress Protection, rating is a two digit value that indicates the level of protection provided by the cases. The IP67 rating of this case means that it provides complete protection against dust and other solid particles and that it can withstand up to 30 minutes of submersion in water at up to 1 meter depth.The case is constructed of impact and ultraviolet resistant polypropylene and has a fully customizable foam interior for superior shock protection. A pressure relief valve allows you to slowly and safely equalize the pressure inside and out.Features: Designed and developed to the comply with the highest safety protection standardsWaterproof up to 1 meter depth for 30 minutesShockproof design with fully customizable foam interiorTotal protection against dust and other solid materialUltraviolet and impact resistant materialPressure relief valve allows for gradual pressure equalizationSeal design provides IP67 level protectionErgonomic, rubber covered handle\u20114 ~ +194\u00b0F (\u201120 ~ +90\u00b0C) operating temperature1147 cu in (18.8 liter) internal volume50.5 lbs. (22.92 kg) maximum buoyancy18.9\" x 16.3\" x 5.9\" (479 x 415 x 150 mm) external dimensions17.64\" x 13.58\" x 4.76\" (448 x 345 x 121 mm) internal dimensionsWeighs only 9.6 lbs. (4.34 kg)Support Files: Dimensions Diagram (Sep 4, 2018)Monoprice\u2122, PURE OUTDOOR\u2122, all Monoprice logos, and the PURE OUTDOOR logo are trademarks of Monoprice Inc. Updated Jun 10, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/106211.jpg\",\"https://images.monoprice.com/productlargeimages/106212.jpg\",\"https://images.monoprice.com/productlargeimages/106213.jpg\",\"https://images.monoprice.com/productlargeimages/106214.jpg\",\"https://images.monoprice.com/productlargeimages/106215.jpg\",\"https://images.monoprice.com/productlargeimages/106216.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 84.99,
+      "sku": "10621",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=10621",
+      "gtin14": "757901805196"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam 19 x 16 x 6 in",
+      "ratingCount": "66",
+      "reviewCount": "59",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Outdoor",
+      "url": "https://www.monoprice.com/category/pages/14"
+    },
+    {
+      "name": "Weatherproof Cases & Containers",
+      "url": "https://www.monoprice.com/category/outdoor/weatherproof-cases-&-containers"
+    },
+    {
+      "name": "Weatherproof Cases",
+      "url": "https://www.monoprice.com/category/audio-video/weatherproof-cases-&-containers/weatherproof-cases"
+    },
+    {
+      "name": "10621",
+      "url": "https://www.monoprice.com/category/audio-video/weatherproof-cases-&-containers/weatherproof-cases/10621"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

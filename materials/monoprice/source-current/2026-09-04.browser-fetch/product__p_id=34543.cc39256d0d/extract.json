@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Workstation Wall Mount for Keyboard and Monitor",
+    "@id": "https://www.monoprice.com/product?p_id=34543",
+    "url": "https://www.monoprice.com/product?p_id=34543",
+    "description": "This computer wall mount is a good solution for setting up workstations in tight, busy, or nontraditional work spaces.This is ideal for computer workstations that support non\u2011computer based work, like in shops, labs, warehouses, garages, production floors, stores, and other applications. The mount securely attaches computer workstations to a wall and takes little space. Computers are kept off the floor and out of the way to fit busy work environments.This monitor mount fits standard 75x75 and 100x100 VESA\u00ae compatible monitors, and is designed to support up to 55 pound loads. The keyboard tray is adjustable for height, offset, and angle, so it can fit multiple users. There is ample space for a full keyboard and mouse setup, so users can stay productive with familiar computer peripherals.Made of quality steel parts, this mount keeps computers safe and secure. Hardware to mount securely to concrete walls or wood studs is included, or use with appropriate hardware (not included) for other mounting applications.Features: Monitor mount supports up to 55 lbs.Recommended for up to 32\" screensMonitor mount is compatible with 75x75 and 100x100 VESA\u00ae monitorsKeyboard tray supports up to 4.4 lbs., with ample room for a full keyboard and mouseA fitted mouse pad is includedPair with PID 34544 for a fully wall\u2011mounted computer setupSupport Files: User's Manual (Jul 16, 2018)Dimensions Diagram (Sep 6, 2018)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Feb 23, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/345431.jpg\",\"https://images.monoprice.com/productlargeimages/345432.jpg\",\"https://images.monoprice.com/productlargeimages/345433.jpg\",\"https://images.monoprice.com/productlargeimages/345434.jpg\",\"https://images.monoprice.com/productlargeimages/345435.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 47.99,
+      "sku": "34543",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34543",
+      "gtin14": "889028097274"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Workstation Wall Mount for Keyboard and Monitor",
+      "ratingCount": "7",
+      "reviewCount": "7",
+      "ratingValue": "3.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Desk Monitor Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts"
+    },
+    {
+      "name": "34543",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts/34543"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

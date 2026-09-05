@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 12/24 19mm Screw for Rack 50 pcs Carbon Steel Black",
+    "@id": "https://www.monoprice.com/product?p_id=8622",
+    "url": "https://www.monoprice.com/product?p_id=8622",
+    "description": "These screws are for use with equipment/relay racks that are tapped for 12/24 screws. Each order includes 50 screws.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 24, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/86221.jpg\",\"https://images.monoprice.com/productlargeimages/86222.jpg\",\"https://images.monoprice.com/productlargeimages/86223.jpg\",\"https://images.monoprice.com/productlargeimages/86224.jpg\",\"https://images.monoprice.com/productlargeimages/86225.jpg\",\"https://images.monoprice.com/productlargeimages/86226.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "8622",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8622",
+      "gtin14": "844660086222"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 12/24 19mm Screw for Rack 50 pcs Carbon Steel Black",
+      "ratingCount": "18",
+      "reviewCount": "18",
+      "ratingValue": "3.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Components & Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/components-&-accessories"
+    },
+    {
+      "name": "8622",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/components-&-accessories/8622"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8-Zone Single Input Speaker Distribution Hub",
+    "@id": "https://www.monoprice.com/product?p_id=38161",
+    "url": "https://www.monoprice.com/product?p_id=38161",
+    "description": "This 8\u2011Channel Speaker Zone Hub is designed to connect up to eight pairs of speakers to a single amplifier or receiver. It uses removable terminal blocks for easy connection for the speaker wires. Note that this speaker selector does not include impedance matching circuitry, so the use of impedance matching volume controls are highly recommended to prevent damage to the amplifier caused by low impedance loads.Support Files: Quick Install Guide (Jul 3, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 9, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381611.jpg\",\"https://images.monoprice.com/productlargeimages/381612.jpg\",\"https://images.monoprice.com/productlargeimages/381613.jpg\",\"https://images.monoprice.com/productlargeimages/381614.jpg\",\"https://images.monoprice.com/productlargeimages/381615.jpg\",\"https://images.monoprice.com/productlargeimages/381616.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 33.99,
+      "sku": "38161",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38161",
+      "gtin14": "889028123119"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8-Zone Single Input Speaker Distribution Hub",
+      "ratingCount": "6",
+      "reviewCount": "6",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38161",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38161"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

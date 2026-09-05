@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice IDE to Compact Flash CF Adapter w/PCI Bracket",
+    "@id": "https://www.monoprice.com/product?p_id=2785",
+    "url": "https://www.monoprice.com/product?p_id=2785",
+    "description": "The SD-CF-IDE-BR is an adapter for connecting a compact flash memory card to a 3.5\u201d IDE host interface, aiming at educational sectors, IT development, and the embedded technology enthusiast to enable the use of a compact flash card as an IDE hard drive.Features:No external power needed when used on VIA\u2019s EPIA series motherboardOn-board LED indicators for power-on and compact flash accessVoltage selection for +3.3V / 5V compact flashMaster / Slave mode selectionFully compatible with CF Type I, II & Micro Drive40-2ay ( 2.54mm ) standard IDE connectorPower input: +5V, floppy disk Drive power connectorBoard Size: 61 X 52 X 0.8mmApplications:Linux-based set-top boxes, routers, firewallsDiskless network clientsIndustrial computersSystem Requirements:PC or Mac with one IDE connectorMS Windows, Mac OS, Linux operating systemAny other device requiring rugged solid-state storage",
+    "image": "[\"https://images.monoprice.com/productlargeimages/27851.jpg\",\"https://images.monoprice.com/productlargeimages/27852.jpg\",\"https://images.monoprice.com/productlargeimages/27853.jpg\",\"https://images.monoprice.com/productlargeimages/27854.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.99,
+      "sku": "2785",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2785",
+      "gtin14": "844660027850"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice IDE to Compact Flash CF Adapter w/PCI Bracket",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "Drive Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/drive-adapters"
+    },
+    {
+      "name": "2785",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/drive-adapters/2785"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

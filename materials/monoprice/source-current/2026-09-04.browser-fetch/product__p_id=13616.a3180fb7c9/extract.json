@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Alpha In-Wall Speaker Center Channel Dual 5.25in Carbon Fiber 2-way (single)",
+    "@id": "https://www.monoprice.com/product?p_id=13616",
+    "url": "https://www.monoprice.com/product?p_id=13616",
+    "description": "This carbon fiber in-wall speaker is the perfect combination of performance and style. The use of carbon fiber for the woofers means that the speaker can hit harder, go lower, and handle more power with significantly less distortion than conventional drivers. The silk dome tweeter produces clean, crisp, and clear highs and mids. You can fine tune the blend of sound using the built-in high frequency attenuator in case the sound is too bright. The metal grille can be painted to match your walls and attaches easily using magnets.Louder with Less Power | Higher Power Handling with Less DistortionControl High Frequencies | Easy to Install | Use up to 10AWG CableDual 5.25-inch Carbon Fiber 2-way In-Wall Speaker with Magnetic GrilleSound QualityStyleSimplicitySound Quality: Life is too short for speakers that don't sound great! We believe that the whole point of listening to music is to hear it as the artist intended. Our engineers and audio experts have spent countless hours listening to and comparing various speakers until we were satisfied we had found models that fit our demanding standards.Style: While Monoprice believes in function over form, there is nothing wrong with having speakers that look good, too. This in-wall speaker helps reduce clutter by getting your speakers off the floor or bookshelves, and the magnetic metal grille can be painted to match your wall, so it virtually disappears from view.Simplicity: Installation is as easy as it can get. Use the included cutout template to mark your wall, make the cut, then using only a screwdriver, secure the speaker to the wall with the easy install mounting tabs.Carbon fiber gives you higher sensitivity, deeper bass, and higher power handling.Carbon fiber woofers are lighter and stiffer than conventional materials used in speaker manufacturing. The speaker cones are more sensitive to power, which means that you get more volume using less power. Additionally, the stiffer material means deeper bass and higher power handling, with significantly less distortion.100 watts maximum input power2x 5.25\" carbon fiber woofers1\" silk dome tweeter70Hz ~ 20kHz frequency responseBuilt-in high frequency attenuatorPaintable magnetic grilleTools Recommended for InstallationStud finderCarpenter's levelMarking pen or pencilElectric drill14AWG CL2 in-wall rated speaker wire (SKU 2821)Wire strippersPhillips screwdriverWarrantyMonoprice not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service & SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0                       Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/136161.jpg\",\"https://images.monoprice.com/productlargeimages/136162.jpg\",\"https://images.monoprice.com/productlargeimages/136163.jpg\",\"https://images.monoprice.com/productlargeimages/136164.jpg\",\"https://images.monoprice.com/productlargeimages/136165.jpg\",\"https://images.monoprice.com/productlargeimages/136166.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 139.99,
+      "sku": "13616",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=13616",
+      "gtin14": "889028016640"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Alpha In-Wall Speaker Center Channel Dual 5.25in Carbon Fiber 2-way (single)",
+      "ratingCount": "52",
+      "reviewCount": "52",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "In Wall Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers"
+    },
+    {
+      "name": "13616",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers/13616"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

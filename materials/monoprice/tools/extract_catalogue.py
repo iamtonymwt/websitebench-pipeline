@@ -35,7 +35,7 @@ import sys
 import urllib.parse
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from capture_pages import read_body  # noqa: E402
+from capture_pages import decode_image_field, read_body  # noqa: E402
 
 
 def display_text(value: object) -> str:
@@ -55,31 +55,41 @@ def display_text(value: object) -> str:
     return re.sub(r"\s+", " ", text.replace(" ", " ")).strip()
 
 
-def decode_image_field(value: object) -> list[str]:
-    """schema.org `image` here is a string containing a JSON array."""
-    if value is None:
-        return []
-    if isinstance(value, list):
-        return [str(v) for v in value if v]
-    text = str(value).strip()
-    if text.startswith("["):
-        try:
-            parsed = json.loads(text)
-            if isinstance(parsed, list):
-                return [str(v) for v in parsed if v]
-        except (json.JSONDecodeError, ValueError):
-            pass
-    return [text] if text else []
-
-
 def pid_of(url: str) -> str | None:
+    """The product id, with surrounding whitespace removed.
+
+    Two source links carry a stray space -- `p_id= 24285` and `p_id=24288 ` --
+    and both name products that also exist without it. Kept raw, they became two
+    extra catalogue rows whose url_path was `/product?p_id= 24285`: a product the
+    clone would advertise, and a URL nothing would ever request.
+    """
     q = dict(urllib.parse.parse_qsl(urllib.parse.urlsplit(url).query))
-    return q.get("p_id")
+    pid = q.get("p_id")
+    return pid.strip() if pid else None
 
 
 def category_path_of(url: str) -> str | None:
+    """A taxonomy path, the kind a breadcrumb names."""
     path = urllib.parse.urlsplit(url).path
     return path if path.startswith(("/category/", "/p/cat")) else None
+
+
+def listing_path_of(url: str) -> tuple[str, str] | None:
+    """(path, kind) for any page that lists products, else None.
+
+    `/p/shop/<slug>` is a second, separate storefront -- 2,622 captured pages
+    titled "Shop Cat5 6 Cable | Monoprice" and carrying up to 33 product links
+    each. Reading only `/category/` would have left every one of them as an
+    unread capture: 2,622 pages fetched, stored, and never asked a question. A
+    listing page is the only place a product-to-collection relationship is
+    written down, so skipping these would silently drop that whole relation.
+    """
+    path = urllib.parse.urlsplit(url).path
+    if path.startswith(("/category/", "/p/cat")):
+        return path, "taxonomy"
+    if path.startswith("/p/shop"):
+        return path, "shop-collection"
+    return None
 
 
 def parse_price(offers: object) -> tuple[float | None, str | None, str | None,
@@ -116,6 +126,7 @@ def main() -> int:
     memberships: set[tuple[str, str, str]] = set()
     listing_positions: dict[tuple[str, str], int] = {}
     stats = collections.Counter()
+    other_shapes: collections.Counter = collections.Counter()
     problems: dict[str, list[str]] = collections.defaultdict(list)
 
     page_dirs = [d for d in capture_dir.glob("*/*") if d.is_dir()]
@@ -181,22 +192,26 @@ def main() -> int:
             continue
 
         # ---- listings: the only place membership is written down ----------- #
-        cpath = category_path_of(url)
-        if cpath is None:
+        listing = listing_path_of(url)
+        if listing is None:
             stats["other_pages"] += 1
+            other_shapes[urllib.parse.urlsplit(url).path.split("/")[1] or "(root)"] += 1
             continue
+        cpath, ckind = listing
         body = read_body(page_dir)
         if body is None:
             # A listing whose body we did not keep would silently contribute no
             # memberships, and its category would come out empty.
             problems["listing_body_missing"].append(url)
             continue
-        stats["listings"] += 1
+        stats[f"listings_{ckind}"] += 1
         title = re.search(r"<title[^>]*>(.*?)</title>", body, re.I | re.S)
-        name = display_text(title.group(1).split(" - ")[0]) if title else ""
-        categories.setdefault(cpath, {"path": cpath, "name": name})
+        raw_title = display_text(title.group(1)) if title else ""
+        name = display_text(raw_title.split(" - ")[0].split(" | ")[0])
+        categories.setdefault(cpath, {"path": cpath, "name": name, "kind": ckind})
         if name and not categories[cpath].get("name"):
             categories[cpath]["name"] = name
+        categories[cpath].setdefault("kind", ckind)
         seen_here: set[str] = set()
         for pid in TILE_RE.findall(body):
             if pid in seen_here:
@@ -208,8 +223,14 @@ def main() -> int:
         if not seen_here:
             problems["listing_with_no_tiles"].append(url)
 
-    # Category tree from the paths themselves.
+    # Category tree from the paths themselves. Shop collections are flat: their
+    # slugs are marketing phrases, not a hierarchy, so inferring a parent from
+    # the path would invent a structure the source does not have.
     for cpath in list(categories):
+        if categories[cpath].get("kind") == "shop-collection":
+            categories[cpath]["level"] = 0
+            categories[cpath]["parent"] = None
+            continue
         segs = [s for s in cpath.split("/") if s]
         categories[cpath]["level"] = max(0, len(segs) - 1)
         parent = "/" + "/".join(segs[:-1]) if len(segs) > 2 else None
@@ -252,6 +273,10 @@ def main() -> int:
             "categories_with_no_products": len(empty_categories),
         },
         "pages": dict(stats),
+        # Which captured evidence this tool never asked a question of. A page
+        # fetched, stored and never read is invisible unless it is counted --
+        # /p/shop was 2,622 such pages until this line existed.
+        "captured_but_not_read_by_this_tool": dict(other_shapes.most_common()),
         "problems": {k: {"count": len(v), "examples": v[:8]}
                      for k, v in sorted(problems.items())},
         "dangling_examples": dangling[:10],

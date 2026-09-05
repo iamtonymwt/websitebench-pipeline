@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Cat6 24AWG UTP Ethernet Network Patch Cable - Snagless Boot 5ft Gray",
+    "@id": "https://www.monoprice.com/product?p_id=50543",
+    "url": "https://www.monoprice.com/product?p_id=50543",
+    "description": "Cat6 24AWG UTP Ethernet Network Patch Cable - Snagless Boot, 5ft, GrayBring fast, reliable Gigabit connectivity to any device with this 5ft Gray Cat6 24AWG UTP Ethernet\u00ae Network Patch Cable. Built with four twisted pairs of 24AWG stranded bare copper, this cable supports bandwidth up to 250MHz and delivers the headroom you need for streaming, gaming, large file transfers, and PoE+ powered devices like access points, IP cameras, and VoIP phones. Each end is terminated with a precision-molded RJ45 plug featuring 50-micron gold-plated contacts that resist corrosion and preserve signal integrity over the life of the cable, while the signature clear, snagless strain-relief boot shields the locking tab from breakage when you plug, unplug, or pull the cable through a tight wall plate. A 5-foot run gives you the flexibility to reach a wall outlet from a desk, console, or shelf-mounted device with room to route the cable cleanly. Wired to the T-568B standard and verified to ANSI/TIA-568.2-D by both UL\u00ae and ETL, this gray patch cable is a clean, professional-grade choice for home networks, offices, server rooms, and structured-cabling installs alike.5 ft Gray Cat6 24AWG UTP Ethernet\u00ae patch cable with a clear snagless strain-relief boot that protects the RJ45 locking tab when plugging and unplugging.RJ45 plugs feature 50-micron gold-plated contacts that resist corrosion and maintain a clean electrical connection over thousands of mating cycles.Wired to the T-568B standard and verified to meet ANSI/TIA-568.2-D Cat6 performance requirements by both UL\u00ae and ETL for dependable, in-spec performance.Four twisted pairs of 24AWG stranded bare copper conductors deliver consistent signal quality and bandwidth up to 250MHz \u2014 ample headroom for full Gigabit Ethernet\u00ae performance.Supports Gigabit Ethernet\u00ae (1000BASE-T), 10/100BASE-T, and PoE+ per IEEE\u00ae 802.3at Type 2 \u2014 powers and connects access points, IP cameras, VoIP phones, and other PoE devices over a single cable.RoHS compliant and built to professional-grade quality \u2014 a dependable gray patch cable for home, office, data-closet, and structured-cabling runs.\u00a0CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Sheilded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important..gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated May 5, 2026 Warning: This product can expose you to chemicals, including Phthalates, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/505431.jpg\",\"https://images.monoprice.com/productlargeimages/505432.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 4.99,
+      "sku": "50543",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=50543",
+      "gtin14": "889028239667"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Cat6 24AWG UTP Ethernet Network Patch Cable - Snagless Boot 5ft Gray",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6 Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables"
+    },
+    {
+      "name": "50543",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables/50543"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

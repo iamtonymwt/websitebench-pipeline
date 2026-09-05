@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - NEMA 5-15P to Right Angle IEC 60320 C13 18AWG 10A/1250W 125V SVT 15ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=7678",
+    "url": "https://www.monoprice.com/product?p_id=7678",
+    "description": "The North America NEMA\u00ae 5\u201115 plug to IEC 60320 C13 female connector power cord works with most PCs, monitors, scanners, and printers. The angled power cord features a 90 degree C13 connector (PC side), which allows for better placement in tight situations. They are made to the same stringent standards as are standard PC power cables with the convenience of an angled connector.Connect your computer, monitor, power adapter, or other device with a male IEC 60320 C14 panel connector to a standard US AC wall outlet. The power cord features a standard, grounded NEMA 5\u201115P plug on one end and an IEC 60320 C13 connector on the other end. Simply mate the female C13 connector with the male C14 connector on your device or power adapter, then plug the NEMA connector into a nearby AC power outlet, UPS, or other AC power source. 18AWG is a standard gauge cable and will work perfectly in most applications. These cables are designed to carry up to a 10 amp/1250 watt, 125 volt load.\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201115PReceptacle\u00a0TypeIEC 60320 C13 Angled 90\u00b0Jacket\u00a0MaterialSVT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18 AWGMaximum\u00a0Current10 ampsCertificationsUL\u00ae, cUL, CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jul 29, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76781.jpg\",\"https://images.monoprice.com/productlargeimages/76782.jpg\",\"https://images.monoprice.com/productlargeimages/76783.jpg\",\"https://images.monoprice.com/productlargeimages/76784.jpg\",\"https://images.monoprice.com/productlargeimages/76785.jpg\",\"https://images.monoprice.com/productlargeimages/76786.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.19,
+      "sku": "7678",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=7678",
+      "gtin14": "844660076780"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - NEMA 5-15P to Right Angle IEC 60320 C13 18AWG 10A/1250W 125V SVT 15ft Black",
+      "ratingCount": "87",
+      "reviewCount": "11",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "7678",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/7678"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

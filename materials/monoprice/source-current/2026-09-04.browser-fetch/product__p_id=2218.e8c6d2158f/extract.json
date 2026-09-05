@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice High Speed HDMI to DVI Adapter Cable with Net Jacket 24AWG CL2 6ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=2218",
+    "url": "https://www.monoprice.com/product?p_id=2218",
+    "description": "*** !!! WARNING !!! *** Note that this cable is NOT an ordinary HDMI\u00ae cable. This is specifically for connecting a device with an HDMI connector to another device equipped with a Single Link DVI\u2122-D connector, typically found on PCs, projectors, and older video equipment before the HDMI standard became widespread. These cables can NOT carry audio. They carry video signals only!If you are looking for a High Speed HDMI Cable or a Standard HDMI Cable to connect equipment with HDMI connectors, please look at one of the following categories instead:HDMI CablesHDMI Cables With Ethernet*** !!! WARNING !!! *** This HDMI to DVI Adapter Cable is capable of video performance equivalent to a High Speed HDMI Cable.The CL2 rating on this cable indicates that its outer jacket has been designed to burn more slowly, thereby making it safe for use inside or through the walls of residential classed buildings. The CL2 rating ensures that your cable installation complies with fire safety codes and insurance requirements.TIP: It is a good idea to test cables and connections before installing them inside a wall. If there are any issues or problems, we can help you resolve them before you spend the time, effort, and expense of installing them inside the walls.The Net Jacket on this cable is an additional mesh jacket outside the normal cable jacket. It provides an additional layer of protection for the cable jacket to keep it safe from nicks and cuts that otherwise might penetrate the jacket and render the cable useless.This cable is capable of the following HDMI video features:1080p Resolution - The High Speed HDMI Cable has sufficient bandwidth to transfer 1080p video signals between 1080p rated source and sink (display) devices.3D - 3D is the latest rage for both home theater and gaming. A High Speed HDMI Cable is capable of handling the high bandwidth requirements of 3D signals.4K - The 4K resolution is 3840 x 2160 pixels @ 24 Hz, which is four times that of a 1080p display and the same resolution used by state-of-the-art Digital Cinema systems. A High Speed HDMI Cable is capable of handling the high bandwidth required for 4K support.Deep Color - The Deep Color feature provides a minimum of 8-bits per color element (24-bits total), providing for a total of over 16 million color variations. Other versions of Deep Color allow for up to 16-bits per element, for a total of 48-bits and over 281 trillion color variations, which really makes your video images come to life!x.v.Color\u2122 - x.v.Color is a promotion name given to the products that have the capability to realize a wide color space based on the xvYCC specifications and is a trademark of Sony Corporation. Currently, only AVCHD\u2122 and PlayStation\u00ae 3 devices support x.v.Color.HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. DVI\u2122 is a trademark of the Digital Display Working Group. x.v.Color\u2122 is a trademark of Sony Corporation. AVCHD\u2122 and AVCHD Related Logos are trademarks of Panasonic Corporation and Sony Corporation. PlayStation\u00ae is a registered trademark of Sony Interactive Entertainment Inc. HDCP\u2122 is a trademark of Digital Content Protection LLC. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Feb 12, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.govEnable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[\"https://images.monoprice.com/productlargeimages/22181.jpg\",\"https://images.monoprice.com/productlargeimages/22182.jpg\",\"https://images.monoprice.com/productlargeimages/22183.jpg\",\"https://images.monoprice.com/productlargeimages/22184.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 20.49,
+      "sku": "2218",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2218",
+      "gtin14": "844660022183"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice High Speed HDMI to DVI Adapter Cable with Net Jacket 24AWG CL2 6ft Black",
+      "ratingCount": "333",
+      "reviewCount": "157",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DVI Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables"
+    },
+    {
+      "name": "2218",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables/2218"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

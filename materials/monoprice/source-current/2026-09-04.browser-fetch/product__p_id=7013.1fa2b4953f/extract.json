@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1-Gang Low Voltage Mounting Bracket",
+    "@id": "https://www.monoprice.com/product?p_id=7013",
+    "url": "https://www.monoprice.com/product?p_id=7013",
+    "description": "Install wall plates without the need for a full in-wall electrical box using this 1-Gang Low Voltage Mounting Bracket from Monoprice\u2122!This mounting bracket allows you to install a wall plate for use with low-voltage cables, such as audio, video, and network cable connections. The bracket can be adjusted to fit drywall/paneling from 1/4\" to 1\" thick. The bracket measures 2.2\" x 3.6\" and is both UL\u00ae and CSA\u00ae certified.Note: The color indicated can vary in tone and/or hue between production runs and manufacturing facilities. The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor. Individual pieces may also vary slightly in color from one another. \u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Sep 22, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/70131.jpg\",\"https://images.monoprice.com/productlargeimages/70132.jpg\",\"https://images.monoprice.com/productlargeimages/70133.jpg\",\"https://images.monoprice.com/productlargeimages/70134.jpg\",\"https://images.monoprice.com/productlargeimages/70135.jpg\",\"https://images.monoprice.com/productlargeimages/70136.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "7013",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7013",
+      "gtin14": "844660070139"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1-Gang Low Voltage Mounting Bracket",
+      "ratingCount": "399",
+      "reviewCount": "303",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "7013",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/7013"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

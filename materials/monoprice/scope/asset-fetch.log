@@ -1,0 +1,140 @@
+29524 assets over plain HTTP, 158 through the browser
+  plain 250/29524 ok=248 40/s
+  plain 500/29524 ok=498 42/s
+  plain 750/29524 ok=748 42/s
+  plain 1000/29524 ok=998 45/s
+  plain 1250/29524 ok=1248 48/s
+  plain 1500/29524 ok=1498 50/s
+  plain 1750/29524 ok=1748 55/s
+  plain 2000/29524 ok=1998 58/s
+  plain 2250/29524 ok=2248 60/s
+  plain 2500/29524 ok=2498 62/s
+  plain 2750/29524 ok=2748 65/s
+  plain 3000/29524 ok=2998 71/s
+  plain 3250/29524 ok=3248 67/s
+  plain 3500/29524 ok=3498 52/s
+  plain 3750/29524 ok=3748 51/s
+  plain 4000/29524 ok=3998 54/s
+  plain 4250/29524 ok=4247 57/s
+  plain 4500/29524 ok=4497 50/s
+  plain 4750/29524 ok=4747 52/s
+  plain 5000/29524 ok=4997 55/s
+  plain 5250/29524 ok=5247 58/s
+  plain 5500/29524 ok=5497 61/s
+  plain 5750/29524 ok=5747 63/s
+  plain 6000/29524 ok=5989 63/s
+  plain 6250/29524 ok=6239 60/s
+  plain 6500/29524 ok=6489 59/s
+  plain 6750/29524 ok=6739 57/s
+  plain 7000/29524 ok=6989 56/s
+  plain 7250/29524 ok=7239 54/s
+  plain 7500/29524 ok=7489 53/s
+  plain 7750/29524 ok=7739 52/s
+  plain 8000/29524 ok=7989 52/s
+  plain 8250/29524 ok=8239 51/s
+  plain 8500/29524 ok=8489 50/s
+  plain 8750/29524 ok=8730 51/s
+  plain 9000/29524 ok=8980 53/s
+  plain 9250/29524 ok=9227 54/s
+  plain 9500/29524 ok=9477 56/s
+  plain 9750/29524 ok=9727 57/s
+  plain 10000/29524 ok=9977 59/s
+  plain 10250/29524 ok=10227 60/s
+  plain 10500/29524 ok=10476 62/s
+  plain 10750/29524 ok=10726 63/s
+  plain 11000/29524 ok=10975 65/s
+  plain 11250/29524 ok=11224 66/s
+  plain 11500/29524 ok=11473 67/s
+  plain 11750/29524 ok=11721 69/s
+  plain 12000/29524 ok=11970 70/s
+  plain 12250/29524 ok=12220 72/s
+  plain 12500/29524 ok=12469 73/s
+  plain 12750/29524 ok=12719 75/s
+  plain 13000/29524 ok=12969 76/s
+  plain 13250/29524 ok=13219 78/s
+  plain 13500/29524 ok=13469 79/s
+  plain 13750/29524 ok=13719 81/s
+  plain 14000/29524 ok=13969 82/s
+  plain 14250/29524 ok=14219 84/s
+  plain 14500/29524 ok=14469 85/s
+  plain 14750/29524 ok=14719 87/s
+  plain 15000/29524 ok=14969 88/s
+  plain 15250/29524 ok=15219 89/s
+  plain 15500/29524 ok=15469 91/s
+  plain 15750/29524 ok=15719 92/s
+  plain 16000/29524 ok=15969 94/s
+  plain 16250/29524 ok=16218 95/s
+  plain 16500/29524 ok=16468 97/s
+  plain 16750/29524 ok=16718 98/s
+  plain 17000/29524 ok=16968 100/s
+  plain 17250/29524 ok=17218 101/s
+  plain 17500/29524 ok=17468 103/s
+  plain 17750/29524 ok=17718 104/s
+  plain 18000/29524 ok=17968 106/s
+  plain 18250/29524 ok=18218 107/s
+  plain 18500/29524 ok=18468 108/s
+  plain 18750/29524 ok=18718 110/s
+  plain 19000/29524 ok=18968 111/s
+  plain 19250/29524 ok=19218 113/s
+  plain 19500/29524 ok=19468 114/s
+  plain 19750/29524 ok=19718 116/s
+  plain 20000/29524 ok=19968 117/s
+  plain 20250/29524 ok=20218 119/s
+  plain 20500/29524 ok=20468 120/s
+  plain 20750/29524 ok=20718 122/s
+  plain 21000/29524 ok=20965 123/s
+  plain 21250/29524 ok=21215 124/s
+  plain 21500/29524 ok=21465 126/s
+  plain 21750/29524 ok=21715 127/s
+  plain 22000/29524 ok=21965 129/s
+  plain 22250/29524 ok=22215 130/s
+  plain 22500/29524 ok=22465 132/s
+  plain 22750/29524 ok=22715 133/s
+  plain 23000/29524 ok=22965 135/s
+  plain 23250/29524 ok=23215 136/s
+  plain 23500/29524 ok=23465 138/s
+  plain 23750/29524 ok=23713 139/s
+  plain 24000/29524 ok=23960 141/s
+  plain 24250/29524 ok=24210 142/s
+  plain 24500/29524 ok=24460 143/s
+  plain 24750/29524 ok=24710 145/s
+  plain 25000/29524 ok=24959 146/s
+  plain 25250/29524 ok=25209 148/s
+  plain 25500/29524 ok=25459 149/s
+  plain 25750/29524 ok=25709 151/s
+  plain 26000/29524 ok=25959 152/s
+  plain 26250/29524 ok=26208 154/s
+  plain 26500/29524 ok=26458 155/s
+  plain 26750/29524 ok=26708 157/s
+  plain 27000/29524 ok=26958 158/s
+  plain 27250/29524 ok=27208 159/s
+  plain 27500/29524 ok=27458 161/s
+  plain 27750/29524 ok=27708 162/s
+  plain 28000/29524 ok=27958 164/s
+  plain 28250/29524 ok=28208 165/s
+  plain 28500/29524 ok=28457 167/s
+  plain 28750/29524 ok=28707 168/s
+  plain 29000/29524 ok=28956 170/s
+  plain 29250/29524 ok=29206 171/s
+  plain 29500/29524 ok=29456 173/s
+  browser assets 12/38
+  browser assets 24/38
+  browser assets 36/38
+  browser assets 38/38
+{
+  "schema_version": "monoprice.asset-fetch.v1",
+  "plan": "scope/asset-plan.json",
+  "assets_dir": "source-assets",
+  "requested": 29682,
+  "status_tally": {
+    "cached": 24456,
+    "fetched": 5156,
+    "http-403": 2,
+    "http-404": 57,
+    "over-limit": 3,
+    "http-406": 8
+  },
+  "bytes_written": 1291091922,
+  "seconds": 173.6,
+  "failures_total": 70
+}

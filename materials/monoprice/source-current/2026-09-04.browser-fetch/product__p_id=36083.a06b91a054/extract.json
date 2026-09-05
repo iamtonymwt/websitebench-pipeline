@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Easy Height-Adjustable Free Standing Single Monitor Desk Mount for Monitors Up To 27in",
+    "@id": "https://www.monoprice.com/product?p_id=36083",
+    "url": "https://www.monoprice.com/product?p_id=36083",
+    "description": "\u00a0This free standing monitor mount features easy vertical height adjustment for computer displays. Instantly raise your monitor to add extra height, handy for changing positions throughout the day to stay comfortable. It is extra useful for use with sit\u2011stand desks for quick monitor adjustments when you change desk height settings. Just lift your monitor upwards and the ratcheting mechanism automatically locks the height setting. No cumbersome screws or locks need to be set. To lower the monitor, raise it all the way up to unlock the ratchet to allow it to be lowered all the way down.Aside from easy height adjustment, it is also easy to move the monitor on your desk, thanks to the free standing base. No clamping or drilling is needed. The base is a solid steel platform, that ensures stability while providing flexibility.Features: Easy height adjustmentPlace your monitor anywhere on your deskNo need to clamp or drill holesWorks with any desk and computer setupWorks great with sit\u2011stand desksWorks with most monitors up to 27\" and weighing up to 13.2 lbs.*Supports 75x75 and 100x100 VESA\u00ae patternsThe solid, powder\u2011coated steel base provides stabilityQuality metal structural parts ensure durabilityFeatures quick release VESA plate*The minimum and maximum display sizes are only approximations. Your TV will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight. Support Files: User's Manual (Oct 30, 2018)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Feb 24, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/360831.jpg\",\"https://images.monoprice.com/productlargeimages/360832.jpg\",\"https://images.monoprice.com/productlargeimages/360833.jpg\",\"https://images.monoprice.com/productlargeimages/360834.jpg\",\"https://images.monoprice.com/productlargeimages/360835.jpg\",\"https://images.monoprice.com/productlargeimages/360836.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 38.99,
+      "sku": "36083",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=36083",
+      "gtin14": "889028113295"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Easy Height-Adjustable Free Standing Single Monitor Desk Mount for Monitors Up To 27in",
+      "ratingCount": "73",
+      "reviewCount": "73",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Freestanding Monitor Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/freestanding-monitor-mounts"
+    },
+    {
+      "name": "36083",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/freestanding-monitor-mounts/36083"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

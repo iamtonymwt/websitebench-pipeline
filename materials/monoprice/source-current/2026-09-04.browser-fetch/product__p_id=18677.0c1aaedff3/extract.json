@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 50ft XLR Male to XLR Female 16AWG Microphone Cable w/ Gold Plated Connectors",
+    "@id": "https://www.monoprice.com/product?p_id=18677",
+    "url": "https://www.monoprice.com/product?p_id=18677",
+    "description": "Monoprice's Stage Right line of professional audio cables brings you high performance cables at rock bottom prices. Whether you're connecting broadcast equipment, instruments for your band, or your high end entertainment system, Monoprice has the interconnect cables for you.Balanced audio cables utilize impedance balanced lines that reduce EM and RF noise and extend the effective range of the cable run. Additionally, unlike standard unbalanced RCA interconnects that utilize their braid as a signal return, balanced cables have a separate braided shield to provide additional resistance to interference without modulating the interference into the signal. This prevents ground loop issues.Our XLR male-to-female cables continue our tradition of bringing the highest quality cables at the best prices. These cables feature thick, heavy gauge wires, gold plated connectors, and sturdy connector housings.Features: 16AWG stranded copper wire conductorsGold plated connectorsMolded strain relief bootsNo tools needed for service\u00a0Warning: This product can expose you to chemicals including Phthalates, which is/are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/186771.jpg\",\"https://images.monoprice.com/productlargeimages/186772.jpg\",\"https://images.monoprice.com/productlargeimages/186773.jpg\",\"https://images.monoprice.com/productlargeimages/186774.jpg\",\"https://images.monoprice.com/productlargeimages/186775.jpg\",\"https://images.monoprice.com/productlargeimages/186776.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "18677",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18677",
+      "gtin14": "889028047569"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 50ft XLR Male to XLR Female 16AWG Microphone Cable w/ Gold Plated Connectors",
+      "ratingCount": "138",
+      "reviewCount": "6",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Microphone Cables (XLR Cables)",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/microphone-cables-(xlr-cables)"
+    },
+    {
+      "name": "18677",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/microphone-cables-(xlr-cables)/18677"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

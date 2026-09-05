@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 180W RGBW COB LED DMX Ellipsoidal Stage Light Spotlight with Adjustable Manual Zoom and 17 ~ 50-degree Beam Angle",
+    "@id": "https://www.monoprice.com/product?p_id=612754",
+    "url": "https://www.monoprice.com/product?p_id=612754",
+    "description": "                    Enjoy incredibly bright and colorful light output with minimal power draw and less heat for the performer and audience. Easily put light where you want, how you want, with manual focus plus zoom and frame shutters. Set\u2011and\u2011forget with onboard function control of brightness, color, and strobe or use 9\u2011channel DMX control as part of a stage lighting grid. There are no color gels to wear out or require climbing the rafters to change. Even multiple units in an intimate theater or church will not disrupt the audience thanks to the near silent\u2011running internal cooling fan.                    The 612754 stage light provides support for standard size \"B\" Gobo holders. The 612754 RGBW Ellipsoidal is a great way to reduce operating costs for your facility without making all of your peripherals obsolete.                              Features:                            Incredibly bright and colorful        180\u2011watt RGBW LED eliminates the need for color gels and provides bright, colorful lighting with reduced power consumption        Smooth fade and dimming curves        4 DMX controlled dimming curves for fast or slow fade and dimming        Puts light where it is needed, keeps light off areas that need to stay dark        4 external manual framing shutters, left, right, top, and bottom        Manual focus and zoom        Daisy chain up to 10 units on one 20A breaker        NAC3 in and out        Meager 200\u2011watt power consumption        Manual control allows beam angles from 17\u00b0 to 50\u00b0        Excellent in low noise environments with its near\u2011silent cooling fan        Supports size \"B\" Gobo holders (not included)                                                                                                                                                                             Support Files:            User's Manual (Oct 19, 2015)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 21, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6127541.jpg\",\"https://images.monoprice.com/productlargeimages/6127542.jpg\",\"https://images.monoprice.com/productlargeimages/6127543.jpg\",\"https://images.monoprice.com/productlargeimages/6127544.jpg\",\"https://images.monoprice.com/productlargeimages/6127545.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 669.99,
+      "sku": "612754",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612754",
+      "gtin14": "889028024089"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 180W RGBW COB LED DMX Ellipsoidal Stage Light Spotlight with Adjustable Manual Zoom and 17 ~ 50-degree Beam Angle",
+      "ratingCount": "10",
+      "reviewCount": "10",
+      "ratingValue": "3.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "Spotlights & Ellipsoidals",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals"
+    },
+    {
+      "name": "612754",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals/612754"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

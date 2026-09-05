@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 4-Channel Speaker Selector - Multi-Zone Home Audio Distribution Up to 140W Per Channel Impedance Protection",
+    "@id": "https://www.monoprice.com/product?p_id=9995",
+    "url": "https://www.monoprice.com/product?p_id=9995",
+    "description": "Distribute your music to every room in your home with this 4\u2011Channel Speaker Selector from Monoprice\u2122!This 4\u2011channel speaker selector allows you to distribute your audio signals to up to four different speaker \"zones\". An optional impedance protection circuit ensures that impedance seen by your amplifier remains constant, no matter how many speakers are in use. This switch can support up to 70 watts per channel with the protection circuit enabled or up to 140 watts per channel without the protection circuit in place.Support Files: User's Manual (Jan 3, 2013)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 25, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/99951.jpg\",\"https://images.monoprice.com/productlargeimages/99952.jpg\",\"https://images.monoprice.com/productlargeimages/99953.jpg\",\"https://images.monoprice.com/productlargeimages/99954.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "9995",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9995",
+      "gtin14": "844660099956"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 4-Channel Speaker Selector - Multi-Zone Home Audio Distribution Up to 140W Per Channel Impedance Protection",
+      "ratingCount": "118",
+      "reviewCount": "118",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "9995",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/9995"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

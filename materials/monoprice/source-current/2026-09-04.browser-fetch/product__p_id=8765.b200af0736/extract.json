@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10ft 4-Channel XLR Male to XLR Female Snake Cable",
+    "@id": "https://www.monoprice.com/product?p_id=8765",
+    "url": "https://www.monoprice.com/product?p_id=8765",
+    "description": "Get 4-channel, professional, balanced audio XLR cable snakes from Monoprice for less than you're used to paying for each XLR cable alone!These XLR cable snakes feature four sets of male-to-female XLR cables assembled into a single, soft and durable, cable jacket. Each XLR connector has a silver metal housing and is connected with a color coded wire, so you can quickly and easily make the right connections the first time, every time.The cables are colored red, blue, white, and yellow. The connector housings are metal with plastic and rubber cable boots to reduce strain on the physical connection. Each cable carries a lifetime guarantee, so you can trust you'll always have a properly working cable, when you buy them from Monoprice!",
+    "image": "[\"https://images.monoprice.com/productlargeimages/87651.jpg\",\"https://images.monoprice.com/productlargeimages/87652.jpg\",\"https://images.monoprice.com/productlargeimages/87653.jpg\",\"https://images.monoprice.com/productlargeimages/87654.jpg\",\"https://images.monoprice.com/productlargeimages/87655.jpg\",\"https://images.monoprice.com/productlargeimages/87656.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 34.99,
+      "sku": "8765",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8765",
+      "gtin14": "844660087656"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10ft 4-Channel XLR Male to XLR Female Snake Cable",
+      "ratingCount": "162",
+      "reviewCount": "33",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Snake Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables"
+    },
+    {
+      "name": "8765",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables/8765"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 4 Ft Outdoor Folding Portable Picnic Camping Table Aluminum Roll-up Table with Easy Carrying Bag for Indoor Outdoor Camping Beach Backyard BBQ Party Patio Picnic",
+    "@id": "https://www.monoprice.com/product?p_id=42871",
+    "url": "https://www.monoprice.com/product?p_id=42871",
+    "description": "Product description\u00a0Focusing on the development of outdoor and camping products,our vision is put wings for your travel and camping\u00a01.The Folding Table Features:\u00b7Premium\u00a0 aluminium materials\u00a0\u00a0\u00b7No tools required, easy to setup\u00b7Super durable & stable\u00b7Compact design\u00b7Unique storage\u00a0design\u00a02.Specification:\u00a0\u00b7Surface area:47'' x 21.65''\u00a0\u00b7Height:26.7''\u00a0\u00b7Weight:13.2lb\u00a0\u00b7Package size:26.2''x10''x6.9''\u00b7Max Load (approximate):225\u00a0lbs\u00a03.Package Includes:\u00b7Aluminum Table Top\u00a0\u00b7Main Legs Frame\u00b7Carrying bag\u00b7Instruction manual\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0Support Files: User's Manual (May 24, 2023)\u00a0Warning: This product can expose you to Phthalates, Cadmium and Lead, which is known to the State of California to cause cancer and reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/428711.jpg\",\"https://images.monoprice.com/productlargeimages/428712.jpg\",\"https://images.monoprice.com/productlargeimages/428713.jpg\",\"https://images.monoprice.com/productlargeimages/428714.jpg\",\"https://images.monoprice.com/productlargeimages/428715.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "42871",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=42871",
+      "gtin14": "889028170649"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 4 Ft Outdoor Folding Portable Picnic Camping Table Aluminum Roll-up Table with Easy Carrying Bag for Indoor Outdoor Camping Beach Backyard BBQ Party Patio Picnic",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Outdoor",
+      "url": "https://www.monoprice.com/category/pages/14"
+    },
+    {
+      "name": "Furniture",
+      "url": "https://www.monoprice.com/category/outdoor/furniture"
+    },
+    {
+      "name": "Tables",
+      "url": "https://www.monoprice.com/category/outdoor/furniture/tables"
+    },
+    {
+      "name": "42871",
+      "url": "https://www.monoprice.com/category/outdoor/furniture/tables/42871"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

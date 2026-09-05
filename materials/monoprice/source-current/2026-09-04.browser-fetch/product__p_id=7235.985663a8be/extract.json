@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RCA Jack to RCA Jack Adapter Gold Plated",
+    "@id": "https://www.monoprice.com/product?p_id=7235",
+    "url": "https://www.monoprice.com/product?p_id=7235",
+    "description": "RCA Jack to Jack Adaptor - Gold PlatedWarning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72351.jpg\",\"https://images.monoprice.com/productlargeimages/72352.jpg\",\"https://images.monoprice.com/productlargeimages/72353.jpg\",\"https://images.monoprice.com/productlargeimages/72354.jpg\",\"https://images.monoprice.com/productlargeimages/72355.jpg\",\"https://images.monoprice.com/productlargeimages/72356.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "7235",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7235",
+      "gtin14": "844660072355"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RCA Jack to RCA Jack Adapter Gold Plated",
+      "ratingCount": "50",
+      "reviewCount": "50",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Plug Adapter",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter"
+    },
+    {
+      "name": "7235",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter/7235"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

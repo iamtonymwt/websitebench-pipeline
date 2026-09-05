@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Speaker Wire Select 2-Conductor 14AWG 50ft",
+    "@id": "https://www.monoprice.com/product?p_id=14917",
+    "url": "https://www.monoprice.com/product?p_id=14917",
+    "description": "Monoprice Select Speaker Wire features a durable plastic jacket with a color coded conductor to distinguish polarity. The high strand count 14 AWG conductors will easily route though entertainment centers and speaker stands.Monoprice Select speaker wire, available in 50 and 100 foot spools, is the best cost-effective solution for your sound system. Backed by Monoprice's lifetime warranty, rest assured that you have picked the best cable for your home theater system.Features: Cost effective and easy to set up with quality soundHigh-strand count (0.254mm x 41 strands) copper clad aluminum 14 AWG conductors easily route though entertainment centers and speaker standsCompatible with High-Quality Gold Plated Speaker Banana PlugsClear insulated jacket is market with a stripe on one side for easy polarity identificationComes wrapped around a hard plastic spool that makes dispensing convenient and easyLifetime Warranty\u00a0                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/149171.jpg\",\"https://images.monoprice.com/productlargeimages/149172.jpg\",\"https://images.monoprice.com/productlargeimages/149173.jpg\",\"https://images.monoprice.com/productlargeimages/149174.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 23.19,
+      "sku": "14917",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=14917",
+      "gtin14": "889028029978"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Speaker Wire Select 2-Conductor 14AWG 50ft",
+      "ratingCount": "73",
+      "reviewCount": "19",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Speaker Wire",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire"
+    },
+    {
+      "name": "14917",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/speaker-wire/14917"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

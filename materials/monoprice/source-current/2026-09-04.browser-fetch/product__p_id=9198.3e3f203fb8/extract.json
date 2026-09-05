@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6 Outlet Slim Surge Protector Power Strip - 540 Joules Clamping Voltage 500V 3ft Cord",
+    "@id": "https://www.monoprice.com/product?p_id=9198",
+    "url": "https://www.monoprice.com/product?p_id=9198",
+    "description": "Protect your electronic equipment from damaging voltage and current spikes with this Monoprice surge protector!This model includes six protected power outlets, a 3 foot power cord, and a 2-in-1 power/circuit breaker switch. The green LED atop the unit illuminates to indicate when the surge protector is providing protection to your equipment. When the protection circuitry has been fully consumed by power and current spikes, the protection light will no longer illuminate, indicating that the surge protector should be replaced.The surge strip has 4 keyholes on the back, allowing it to be secured to a wall or other surface.Features: 6 protected power outlets540 joules of protection3 foot power cord2-in-1 power/circuit breaker switchBuilt-in EMI/RFI filter15A, 1800 watts capacityUL\u00ae/cUL ratedWarning: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.govMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jun 19, 2020 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/91981.jpg\",\"https://images.monoprice.com/productlargeimages/91982.jpg\",\"https://images.monoprice.com/productlargeimages/91983.jpg\",\"https://images.monoprice.com/productlargeimages/91984.jpg\",\"https://images.monoprice.com/productlargeimages/91985.jpg\",\"https://images.monoprice.com/productlargeimages/91986.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.99,
+      "sku": "9198",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9198",
+      "gtin14": "844660091981"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6 Outlet Slim Surge Protector Power Strip - 540 Joules Clamping Voltage 500V 3ft Cord",
+      "ratingCount": "52",
+      "reviewCount": "52",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Strip Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors"
+    },
+    {
+      "name": "9198",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors/9198"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

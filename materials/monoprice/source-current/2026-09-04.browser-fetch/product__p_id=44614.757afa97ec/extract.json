@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Spinning Spice Rack Acrylic Turntable Holder Rotating Spices Organizer Countertop Pantry Spinner Shelf for Kitchen Cabinet Fridge",
+    "@id": "https://www.monoprice.com/product?p_id=44614",
+    "url": "https://www.monoprice.com/product?p_id=44614",
+    "description": "This Spice Roulette is a perfect tool in organizing and storing your spices and herbs used for cooking in your kitchen. It helps to make your spices easily accessible and organized when looking for specific spices when cooking. Also helps to keep your kitchen tidy and maximize space while enhances your kitchen\u2019s aesthetic appeal.360 Degree Rotating: The spinning design is ideal for deep cabinets, corner pantry or under the sink storage, make it easy to reach what you need without knocking over any bottle.Space Saving: \u00a0The compact design makes your spices easily accessible and organized and helps in saving space in your countertops.Easy to Install: Easy to assemble and no tools required!Placement: Can be placed on kitchen countertop, pantry, refrigerator, bathroom, inside the cabinet, or kept inside the drawer. It is also suitable for bathroom, refrigerator, office, bedroom, living room, laundry room. The holder can be widely used to organize seasoning bottles, food jars, cosmetics, bath supplies, skincare products, nail polish, or drinks.Modern Design: Helps to keep your kitchen tidy and maximize space while enhances the aesthetic appeal of your room.\u00a0Dimension: 9 x 9 x 3.3 inches\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/446141.jpg\",\"https://images.monoprice.com/productlargeimages/446142.jpg\",\"https://images.monoprice.com/productlargeimages/446143.jpg\",\"https://images.monoprice.com/productlargeimages/446144.jpg\",\"https://images.monoprice.com/productlargeimages/446145.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "44614",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=44614",
+      "gtin14": "889028190852"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Spinning Spice Rack Acrylic Turntable Holder Rotating Spices Organizer Countertop Pantry Spinner Shelf for Kitchen Cabinet Fridge",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "44614",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/44614"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

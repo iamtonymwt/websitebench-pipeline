@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Clip-On Guitar and Bass Tuner with LCD Screen",
+    "@id": "https://www.monoprice.com/product?p_id=611211",
+    "url": "https://www.monoprice.com/product?p_id=611211",
+    "description": "This tuner is designed to clip to the headstock of your guitar or other stringed instrument. It operates by picking up the vibrations of the instrument as the strings are plucked, which means you don't have to be in a quiet environment to get the perfect tune.The tuner has specialized modes for tuning a Guitar, Bass, Violin, or Ukulele. Each instrument mode identifies the string position of the tune, making it perfect for beginners. It also features a Chromatic mode, which simply identifies the note being tuned, including sharp and flat tones, which is more suited for experienced players.The tuner operates in the B0 to B7 tuning range in concert A440 tuning. The tuner is powered by a CR2032 battery (included) and features a color LCD display.Features: Five Tuning Modes: Guitar, Bass, Violin, Ukulele, and ChromaticWide Tuning Range: B0 ~ B7 Tuning RangeBattery Saver: Auto Standby after 5 min. pauseSupport Files: Quick User Guide (May 30, 2019)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 17, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6112111.jpg\",\"https://images.monoprice.com/productlargeimages/6112112.jpg\",\"https://images.monoprice.com/productlargeimages/6112113.jpg\",\"https://images.monoprice.com/productlargeimages/6112114.jpg\",\"https://images.monoprice.com/productlargeimages/6112115.jpg\",\"https://images.monoprice.com/productlargeimages/6112116.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "611211",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=611211",
+      "gtin14": "889028131879"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Clip-On Guitar and Bass Tuner with LCD Screen",
+      "ratingCount": "59",
+      "reviewCount": "59",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories"
+    },
+    {
+      "name": "611211",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories/611211"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Power Cord - Locking NEMA L6-20P to IEC 60320 C13 14AWG 15A/1800W SJT 250V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=40095",
+    "url": "https://www.monoprice.com/product?p_id=40095",
+    "description": "Connect network servers and other peripherals with a PDU, UPS, or other AC power source with a NEMA\u00ae L6\u201120R locking outlet. Locking plugs have the pins arrayed in a circular manner and is inserted and twisted to lock in place.This cable features a female IEC 60320 C13 connector on one end and a male NEMA L6\u201120P connector on the other end. Simply mate the female C13 connector with the male C14 connector on your device or power adapter, then plug the NEMA connector into a nearby UPS or other AC power source. This cable is designed to carry up to a 15 amp/1800 watt, 250 volt load.Features: The NEMA\u00ae L6\u201120P locking connector allows it to be securely plugged into the power outlet for important equipmentExtend the length of an existing power cord for more flexibilityDesigned for high\u2011density data environments\u00a0Plug\u00a0TypeNEMA\u00ae L6\u201120PReceptacle\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge14 AWGMaximum\u00a0Current15 ampsCertificationsUL\u00ae, cUL, RoHS, REACHMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Aug 20, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/400951.jpg\",\"https://images.monoprice.com/productlargeimages/400952.jpg\",\"https://images.monoprice.com/productlargeimages/400953.jpg\",\"https://images.monoprice.com/productlargeimages/400954.jpg\",\"https://images.monoprice.com/productlargeimages/400955.jpg\",\"https://images.monoprice.com/productlargeimages/400956.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.29,
+      "sku": "40095",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40095",
+      "gtin14": "889028142516"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Power Cord - Locking NEMA L6-20P to IEC 60320 C13 14AWG 15A/1800W SJT 250V Black 6ft",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "40095",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/40095"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

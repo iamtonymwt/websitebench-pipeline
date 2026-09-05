@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Pure Outdoor by Monoprice Hook and Ring Toss Game",
+    "@id": "https://www.monoprice.com/product?p_id=43359",
+    "url": "https://www.monoprice.com/product?p_id=43359",
+    "description": "Pure Outdoor\u2122 by Monoprice\u2122Hook and Ring Toss GamePerfect for tailgating, BBQs, camping, outdoor events, parties, and much morePure Outdoor\u2122 games are here for all to play! Be the life of the party with this outdoor ring toss game. It is perfect for tailgating, BBQs, camping, outdoor events, parties, and much more. Have yourself a literal Block Party!Easy, tool\u2011free assemblyBuilt with high\u2011quality materialsOutdoor fun for the entire family\u00a0SIMPLE FUN FOR EVERYONEA classic game for the whole family.\u00a0EASY ASSEMBLYThis game is assembled in seconds, with no tools required.\u00a0HIGH\u2011QUALITY BUILDThis game features a high build quality that is both safe and healthy for kids.\u00a0FUN OUTDOOR GAMESThis game is perfect for family fun or kids' parties.\u00a0.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Game Guide (Jul 15, 2021)Monoprice\u2122, Pure Outdoor\u2122, the Pure Outdoor logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 29, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/433591.jpg\",\"https://images.monoprice.com/productlargeimages/433592.jpg\",\"https://images.monoprice.com/productlargeimages/433593.jpg\",\"https://images.monoprice.com/productlargeimages/433594.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 27.99,
+      "sku": "43359",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43359",
+      "gtin14": "889028175811"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Pure Outdoor by Monoprice Hook and Ring Toss Game",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Outdoor",
+      "url": "https://www.monoprice.com/category/pages/14"
+    },
+    {
+      "name": "Games & Leisure",
+      "url": "https://www.monoprice.com/category/outdoor/games-&-leisure"
+    },
+    {
+      "name": "Outdoor Games",
+      "url": "https://www.monoprice.com/category/outdoor/games-&-leisure/outdoor-games"
+    },
+    {
+      "name": "43359",
+      "url": "https://www.monoprice.com/category/outdoor/games-&-leisure/outdoor-games/43359"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

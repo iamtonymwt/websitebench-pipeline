@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Desktop Microphone Stand with Gooseneck and Solid Base",
+    "@id": "https://www.monoprice.com/product?p_id=602500",
+    "url": "https://www.monoprice.com/product?p_id=602500",
+    "description": "Convenient for easy placement on desks, tables, or podiums, Monoprice's Desktop Microphone Stand is ideal for conference, recording, podcast, and streaming applications.This desktop stand firmly rests in place even while it is being adjusted as it is made of cast iron. The base also has a diameter of 6.25\" for stable positioning and features three rubber feet to protect the surface of any table or desk you may place it on.The stand has a removable 11.5\" gooseneck that can support the weight of a variety of microphones.Updated Mar 24, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6025001.jpg\",\"https://images.monoprice.com/productlargeimages/6025002.jpg\",\"https://images.monoprice.com/productlargeimages/6025003.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "602500",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=602500",
+      "gtin14": "757901804410"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Desktop Microphone Stand with Gooseneck and Solid Base",
+      "ratingCount": "37",
+      "reviewCount": "37",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Instrument Stands & Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories"
+    },
+    {
+      "name": "Microphone Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands"
+    },
+    {
+      "name": "602500",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands/602500"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

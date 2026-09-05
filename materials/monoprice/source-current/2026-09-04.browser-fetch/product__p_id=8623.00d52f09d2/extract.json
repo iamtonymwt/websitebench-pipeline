@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1U Wall Mount Rack 19-inch Bracket for Patch Panels Network Switches Servers and IT Equipment 1.75in x 19in x 4in",
+    "@id": "https://www.monoprice.com/product?p_id=8623",
+    "url": "https://www.monoprice.com/product?p_id=8623",
+    "description": "This Wall Mount Bracket is ideal for situations when you want to mount a single piece of equipment, but don't want use an entire relay rack. This bracket mounts to a wall using standard 16\" spaced studs or to a brick/cement wall. This bracket is tapped for 10/32 screws and includes 6 such screws.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 24, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/86231.jpg\",\"https://images.monoprice.com/productlargeimages/86232.jpg\",\"https://images.monoprice.com/productlargeimages/86233.jpg\",\"https://images.monoprice.com/productlargeimages/86234.jpg\",\"https://images.monoprice.com/productlargeimages/86235.jpg\",\"https://images.monoprice.com/productlargeimages/86236.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "8623",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8623",
+      "gtin14": "844660086239"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1U Wall Mount Rack 19-inch Bracket for Patch Panels Network Switches Servers and IT Equipment 1.75in x 19in x 4in",
+      "ratingCount": "56",
+      "reviewCount": "27",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Wallmount Server Cabinets & Brackets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/wallmount-server-cabinets-&-brackets"
+    },
+    {
+      "name": "8623",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/wallmount-server-cabinets-&-brackets/8623"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

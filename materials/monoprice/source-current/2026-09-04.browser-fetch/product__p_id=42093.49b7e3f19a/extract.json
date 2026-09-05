@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord - BS 1363 (UK) to IEC 60320 C13 18AWG 10A 250V with 13A fuse 3-Prong Black 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=42093",
+    "url": "https://www.monoprice.com/product?p_id=42093",
+    "description": "This AC power cord is designed to connect a computer or other device to an electrical outlet that conforms to the British BS 1363 standard. The BS 1363 standard is used in over 50 countries, including the UK, Ireland, Malaysia, Malta, Singapore, Bahrain, Sri Lanka, and Saudi Arabia. It features a grounded and fused BS1363 plug on one end and an IEC 60320 C13 receptacle on the other end. This 18 AWG cable is rated to carry up to a 5 amp/1250 watt, 250 volt load.\u00a0Wall\u00a0Plug\u00a0TypeBS 1363 (UK)Equipment\u00a0Plug\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialH05VV\u2011F 3G#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18AWGMaximum\u00a0Current5 ampsCertifications+S, KEMA, OVE, SEMKO, NEMKO, DEMKO, FIMKO, CEBEC, VDEMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jul 13, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/420931.jpg\",\"https://images.monoprice.com/productlargeimages/420932.jpg\",\"https://images.monoprice.com/productlargeimages/420933.jpg\",\"https://images.monoprice.com/productlargeimages/420934.jpg\",\"https://images.monoprice.com/productlargeimages/420935.jpg\",\"https://images.monoprice.com/productlargeimages/420936.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "42093",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=42093",
+      "gtin14": "889028163962"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord - BS 1363 (UK) to IEC 60320 C13 18AWG 10A 250V with 13A fuse 3-Prong Black 3ft",
+      "ratingCount": "1",
+      "reviewCount": "0",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "International Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords"
+    },
+    {
+      "name": "42093",
+      "url": "https://www.monoprice.com/category/cables/power-cords/international-power-cords/42093"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB-C to Mini DisplayPort & USB-C (F) Dual Port Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=24274",
+    "url": "https://www.monoprice.com/product?p_id=24274",
+    "description": "Connect a Mini DisplayPort\u00ae display at resolutions up to 3840x2160p @60Hz to mirror your laptop's display or to expand your system's desktop area.The USB Type-C\u2122 charging port allows you to connect your original USB-C\u2122 charger, so you can charge your laptop's battery rather than draining it, while using this adapter up to 60W (20V/3A).Small and portable, you can slip the adapter into your laptop case and have it ready for use wherever and whenever the need arises.This adapter is a true Plug & Play device, with no need for drivers or software installations of any kind. Just plug the reversible USB-C connector into your computer's video output and connect to your DisplayPort display using a DisplayPort cable (not included).USB Type-C\u2122 and USB-C\u2122 are trademarks of USB Implementers Forum, Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/242741.jpg\",\"https://images.monoprice.com/productlargeimages/242742.jpg\",\"https://images.monoprice.com/productlargeimages/242743.jpg\",\"https://images.monoprice.com/productlargeimages/242744.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 23.99,
+      "sku": "24274",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24274",
+      "gtin14": "889028054048"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB-C to Mini DisplayPort & USB-C (F) Dual Port Adapter",
+      "ratingCount": "11",
+      "reviewCount": "11",
+      "ratingValue": "2.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "24274",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/24274"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

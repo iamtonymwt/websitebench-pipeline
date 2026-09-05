@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft 32AWG Mini DisplayPort Cable White",
+    "@id": "https://www.monoprice.com/product?p_id=5991",
+    "url": "https://www.monoprice.com/product?p_id=5991",
+    "description": "Monoprice\u00e2\u201e\u00a2 brings you high performance DisplayPort\u00c2\u00ae cables with the legendary quality that has made us famous. These cables have pure copper conductors, gold plated connectors, and shielding from EM and RF interference. DisplayPort is based on a micro packet data transmission protocol that allows for feature additions in the future.This cable supports the DisplayPort\u00c2\u00ae 1.1 standard, which provides data rates up to 8.64Gbps. DisplayPort 1.1 does NOT support audio.Monoprice\u00e2\u201e\u00a2 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00c2\u00ae and the DisplayPort\u00c2\u00ae logo are registered trademarks of the Video Electronics Standards Association. Updated Apr 29, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/59911.jpg\",\"https://images.monoprice.com/productlargeimages/59912.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.19,
+      "sku": "5991",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5991",
+      "gtin14": "844660059912"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft 32AWG Mini DisplayPort Cable White",
+      "ratingCount": "61",
+      "reviewCount": "29",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "5991",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/5991"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Universal Tripod Microphone Stand with 30in Boom Arm",
+    "@id": "https://www.monoprice.com/product?p_id=602520",
+    "url": "https://www.monoprice.com/product?p_id=602520",
+    "description": "Whether you need a mic stand for the studio or for the stage, this Microphone Stand with Boom from Monoprice is the ideal choice!This stand features a heavy-duty folding tripod base with a base width of about 25\". The stand can be adjusted for height and the boom can be adjusted for both angle and extension, so you can place your mic exactly where you want it. The stand uses ergonomic plastic clutches to secure the base and boom in place, plus a traditional twist clutch for height adjustment. It includes a pair of cable management clips, which helps reduce clutter in a crowded studio or on a crowded stage.Microphone clip sold separatelyStage Right\u2122 and the Stage Right logo are trademarks of Monoprice Inc. Updated Feb 20, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6025201.jpg\",\"https://images.monoprice.com/productlargeimages/6025202.jpg\",\"https://images.monoprice.com/productlargeimages/6025203.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 30.99,
+      "sku": "602520",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=602520",
+      "gtin14": "670541337196"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Universal Tripod Microphone Stand with 30in Boom Arm",
+      "ratingCount": "84",
+      "reviewCount": "84",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Instrument Stands & Accessories",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories"
+    },
+    {
+      "name": "Microphone Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands"
+    },
+    {
+      "name": "602520",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands/602520"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 16 AWG NEMA 5-15P to powerCON Connector 1.5FT",
+    "@id": "https://www.monoprice.com/product?p_id=14557",
+    "url": "https://www.monoprice.com/product?p_id=14557",
+    "description": "The Stage Right\u2122 powerCON\u00ae Cable is the ideal power cable for powering many professional audio devices. The Neutrik\u00ae powerCON (NAC3FCA) connector is a 3-conductor, locking power connector, which provides a safer power connection than the IEC 60320 C13/C14 connectors commonly found on consumer audio components, computers, power adapters, and other devices. The twist connector mates the ground contact before connecting the neutral and line contacts, ensuring an electrically safe connection. It carries an IP65 ingress protection rating, which means that it is completely dust-tight. It can also withstand at least 3 minutes of a 1/4\" direct water jet at a pressure of 4.3 psi (30 kPa), which means that it can withstand dripping water from light to medium rain for a short period of time.Features: 16 AWG pure, bare copper conductorsGenuine Neutrik\u00ae powerCON\u00ae (NAC3FCA) connectorSJT-rated jacketFast and easy twist lock latching system for additional safetyExtremely robust and reliableUL\u00ae and cUL tested componentsIP65 dust/water protection ratingStage Right\u2122 and the Stage Right logo are trademarks of Monoprice Inc. Neutrik\u00ae and powerCON\u00ae are registered trademarks of Neutrik AG. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Feb 11, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/145571.jpg\",\"https://images.monoprice.com/productlargeimages/145572.jpg\",\"https://images.monoprice.com/productlargeimages/145573.jpg\",\"https://images.monoprice.com/productlargeimages/145574.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 20.99,
+      "sku": "14557",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=14557",
+      "gtin14": "889028026373"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 16 AWG NEMA 5-15P to powerCON Connector 1.5FT",
+      "ratingCount": "15",
+      "reviewCount": "1",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Pro Power Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/pro-power-cables"
+    },
+    {
+      "name": "14557",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/pro-power-cables/14557"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

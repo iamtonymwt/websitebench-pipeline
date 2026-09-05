@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "StarTech 8-Outlet Horizontal Rack Mount PDU 1U Power Strip On/Off Switches",
+    "@id": "https://www.monoprice.com/product?p_id=50672",
+    "url": "https://www.monoprice.com/product?p_id=50672",
+    "description": "This 1U 8-Outlet Rack Mount Horizontal PDU features a built-in 8ft. (2.4m) NEMA 5-15P power cord and 8x NEMA 5-15R outlets, delivering 125V maximum input/output. With a 15A circuit breaker, this unit ensures the protection and stable operation of your critical equipment.Individual On/Off Outlet SwitchesEach outlet on the PDU is equipped with an independent/individual illuminated rocker switch, allowing for precise power management and control. The clearly enumerated switch labels make it easy to identify the switch to manage each connected device. Safety covers on the switches prevent accidental power cycling, adding an extra layer of security to the setup. This feature is particularly valuable in environments where uptime and equipment protection are paramount.15A circuit BreakerThe 1U 8-Outlet Rack Mount PDU features a robust 15 amp circuit breaker, designed to provide unparalleled protection for your connected equipment. This self-tripping and resettable breaker ensures that in the event of an overload or electrical fault, power is immediately cut off to prevent damage to your valuable devices. The 15A trip-point is precisely calibrated to handle the power demands of server rooms, data centers, and other professional IT environments, offering peace of mind and reliable operation. By swiftly interrupting the power supply in adverse conditions, this circuit breaker not only safeguards your equipment but also minimizes downtime and maintenance efforts, making it an essential component for any high-performance power distribution setup.1U Rack Mount DesignEngineered for compatibility, the 1U rack design easily installs into any 19-inch server rack that is four inches or deeper, utilizing just 1U of rack space. Adhering to ANSI/EIA RS-310-D standards, this horizontal-mount PDU is a perfect fit for any network rack, ensuring a streamlined and organized power distribution system.The PDU features an optimized design with heavy-duty steel housing and rear-facing outlets, maximizing space efficiency and durability, making it a reliable addition to any professional IT environment. Additionally, the attached 8 ft. (2.4m) power cord provides the flexibility and reach needed to accommodate various rack configurations, simplifying the setup process.\u00a0Provide circuit protection and easy configuration for trouble-free accessRemotely control individual outlets for rebooting of locked equipment with switched PDUsNEMA 5-15R receptacle type to ensure maximum productivity with added feasibilityNEMA 5-15P plug/connector type for reliable, productive connectivity and optimal power output120 V AC input voltage for better reliance and maximum dependability125 V AC output voltage for maximum dependability and added productivity\u00a0ManagementRemote Outlet SwitchingYesEnvironmental ConditionsMinimum Operating Temperature23\u00b0F (-5\u00b0C)Maximum Operating Temperature104\u00b0F (40\u00b0C)Minimum Storage Temperature14\u00b0F (-10\u00b0C)Maximum Storage Temperature122\u00b0F (50\u00b0C)Minimum Operating Humidity5%Maximum Operating Humidity95%Power DescriptionCircuit BreakerYesInput Voltage120 V ACOutput Voltage120 V AC\u00a0125 V ACInput Current15 APower Rating (VA)1800 VAGeneral InformationProduct TypePDUManufacturer Part Number8NS8-RACK-MOUNT-PDUManufacturer Website Addresshttp://www.startech.comPackaged Quantity1ManufacturerStarTech.comProduct Name8NS8-RACK-MOUNT-PDUBrand NameStarTech.com\u00a0Application/UsageIT Equipment\u00a0Server Rack/Cabinet\u00a0Data CenterPackage Contents8NS8-RACK-MOUNT-PDU1 x Quick-Start GuideCertifications & StandardsANSI/EIA RS-310-DcULusTAA CompliantYesEnvironmental ComplianceRestriction of Hazardous Substances (RoHS)\u00a0Waste Electrical and Electronic Equipment Directive (WEEE)Technical InformationProtection TypeOverload Protection\u00a0Circuit BreakerPlug/Connector TypeNEMA 5-15PReceptacle TypeNEMA 5-15RLoad Capacity (VA)1800 WPDU TypeSwitchedReceptacle Detail8 x NEMA 5-15RPlug/Connector Detail1 x NEMA 5-15PPhysical CharacteristicsWeight (Approximate)4.40 lbLength17.3\"Mount TypeRack-mountableRack Height1UCord Length8 ftHeight17.7\"Width37.4\"Mounting OrientationHorizontalProduct ColorBlackColor FamilyBlack\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/506721.jpg\",\"https://images.monoprice.com/productlargeimages/506722.jpg\",\"https://images.monoprice.com/productlargeimages/506723.jpg\",\"https://images.monoprice.com/productlargeimages/506724.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 103.99,
+      "sku": "50672",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=50672",
+      "gtin14": "889028240908"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "StarTech 8-Outlet Horizontal Rack Mount PDU 1U Power Strip On/Off Switches",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Strip Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors"
+    },
+    {
+      "name": "50672",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors/50672"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

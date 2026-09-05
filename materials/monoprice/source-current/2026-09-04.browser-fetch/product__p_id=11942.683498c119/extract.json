@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice ABS Back Enclosure (Pair) for PID 4104 8in Ceiling Speaker",
+    "@id": "https://www.monoprice.com/product?p_id=11942",
+    "url": "https://www.monoprice.com/product?p_id=11942",
+    "description": "Improve the sound quality of your in-ceiling speakers using these In-Ceiling Back Enclosure from Monoprice!This flame-resistant ABS enclosure is designed for use with the Monoprice 8-inch Fiber 2-Way In-Ceiling Speakers (PID 4104) or other speakers with the same dimensions. Using an enclosure improves bass response and the overall sound quality will be tighter and more focused.The enclosure has pre-stripped and tinned wires inside for connecting to the speaker. On the outside it features 10mm push terminals to connect the speaker wires from the amp. It measures 9.6\" in diameter and is 6.5\" deep. It includes four speaker mounting screws and a piece of acoustic stuffing.\u00a0Support Files: Diagram (Apr 10, 2020)Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/119421.jpg\",\"https://images.monoprice.com/productlargeimages/119422.jpg\",\"https://images.monoprice.com/productlargeimages/119423.jpg\",\"https://images.monoprice.com/productlargeimages/119424.jpg\",\"https://images.monoprice.com/productlargeimages/119425.jpg\",\"https://images.monoprice.com/productlargeimages/119426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "11942",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=11942",
+      "gtin14": "757901819964"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice ABS Back Enclosure (Pair) for PID 4104 8in Ceiling Speaker",
+      "ratingCount": "54",
+      "reviewCount": "31",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "In Ceiling Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-ceiling-speakers"
+    },
+    {
+      "name": "11942",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-ceiling-speakers/11942"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Universal Monitor Riser Shelf 22 x 8.25 in",
+    "@id": "https://www.monoprice.com/product?p_id=15724",
+    "url": "https://www.monoprice.com/product?p_id=15724",
+    "description": "Give yourself an extra shelf or raise your monitor to a comfortable height with this stackable glass shelf for a computer monitor, laptop computer, home audio equipment, or anything else that needs a flat surface. This beautiful glass shelf measures 22\" wide and 8.25\" deep, and matches any decor with tasteful black feet.Features: Simple, contemporary style complements any decorRaise your monitor to a comfortable height or add additional shelf space for improved ergonomics and convenienceSuper simple assembly - simply attach the legs and you're done\u00a0Support Files: Dimensions Diagram (Sep 18, 2017)\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/157241.jpg\",\"https://images.monoprice.com/productlargeimages/157242.jpg\",\"https://images.monoprice.com/productlargeimages/157243.jpg\",\"https://images.monoprice.com/productlargeimages/157244.jpg\",\"https://images.monoprice.com/productlargeimages/157245.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 38.99,
+      "sku": "15724",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15724",
+      "gtin14": "889028038338"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Universal Monitor Riser Shelf 22 x 8.25 in",
+      "ratingCount": "85",
+      "reviewCount": "85",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Monitor Stand & Shelves",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves"
+    },
+    {
+      "name": "15724",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves/15724"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

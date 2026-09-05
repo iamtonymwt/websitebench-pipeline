@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 8 PC Packing Cube Luggage Organizers Set Travel Packing Bags Suitcase Bag Set Travel Accessories Essentials Packing Organizer Blue",
+    "@id": "https://www.monoprice.com/product?p_id=44562",
+    "url": "https://www.monoprice.com/product?p_id=44562",
+    "description": "This packing cube set is a perfect travel accessory organized and compactly pack your clothing, and other travel essentials inside a suitcase or travel bag. It helps in utilizing your interior luggage space and keeps closet organized. Fit perfectly in most luggage. Packing cubes are not limited to clothing only, it can also be used to pack cables, electronics, makeup, toiletries, and other travel essentials.Zipper Closure: Zipper closure makes opening or closing easy and fast while securely holds your items.Multiple Sizes: Different sizes holds all your travel accessories like clothes (T-shirts, sweaters, jackets, blouses, jeans, pants, underwear, etc.), shoes, makeups, electronics, and more.Lightweight: Light fabric ensures organizing and packing your items without adding extra weight. Great for especially when you want to minimize weight as much as possible within your suitcase or luggage.Durable and Premium Quality: Made from high quality material that is durable and long lasting.Easy Packing and Unpacking: Neatly fold or roll your clothes and place them inside the cubes, keeping them organized and minimizing wrinkles.Package include:Large mesh bag (40x30x12cm / 16x12x5 inches)Medium mesh bag (30x28x12 cm / 12x11x5 inches)Small mesh bag (30x20x12 cm / 12x8x5 inches)Drawstring bag (36x27 cm / 14x11 inches)Underwear bag (28x20x12 cm / 11x8x5 inches)Flat bag (27x12 cm / 11x5 inches)Shoe bag (36x21 cm / 14x8 inches)Toiletries bag (26x15x9 cm / 10x6x3.5 inches)\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/445621.jpg\",\"https://images.monoprice.com/productlargeimages/445622.jpg\",\"https://images.monoprice.com/productlargeimages/445623.jpg\",\"https://images.monoprice.com/productlargeimages/445624.jpg\",\"https://images.monoprice.com/productlargeimages/445625.jpg\",\"https://images.monoprice.com/productlargeimages/445626.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 16.99,
+      "sku": "44562",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44562",
+      "gtin14": "889028190296"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 8 PC Packing Cube Luggage Organizers Set Travel Packing Bags Suitcase Bag Set Travel Accessories Essentials Packing Organizer Blue",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "44562",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/44562"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

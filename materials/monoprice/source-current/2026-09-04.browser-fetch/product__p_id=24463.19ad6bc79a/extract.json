@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Headphone Stand (Black)",
+    "@id": "https://www.monoprice.com/product?p_id=24463",
+    "url": "https://www.monoprice.com/product?p_id=24463",
+    "description": "Full aluminum constructionFits most headphonesSolid and stableNo assembly tools requiredIncludes rubber feet for surface protection9.5 inches tall 5.5 inches wide 3 inches deep\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/244631.jpg\",\"https://images.monoprice.com/productlargeimages/244632.jpg\",\"https://images.monoprice.com/productlargeimages/244633.jpg\",\"https://images.monoprice.com/productlargeimages/244634.jpg\",\"https://images.monoprice.com/productlargeimages/244635.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "24463",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24463",
+      "gtin14": "889028056011"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Headphone Stand (Black)",
+      "ratingCount": "44",
+      "reviewCount": "31",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones"
+    },
+    {
+      "name": "Headphone Stands",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/headphone-stands"
+    },
+    {
+      "name": "24463",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/headphone-stands/24463"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

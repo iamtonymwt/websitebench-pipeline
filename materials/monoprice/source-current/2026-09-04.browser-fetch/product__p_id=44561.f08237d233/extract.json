@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Extra Long 4 pack Drawer Divider Adjustable Drawer Organizer Expandable 15-21 in Separator for Kitchen Drawer Dresser Closet Kitchen Utensils Office Bathroom Bedroom",
+    "@id": "https://www.monoprice.com/product?p_id=44561",
+    "url": "https://www.monoprice.com/product?p_id=44561",
+    "description": "Our MPM drawer divider is designed to fit inside a drawer that helps in keeping things neat and organized. The divider is expandable an adjustable that fits most drawers. It can be installed in any drawers in your house or office. The end of dividers has foam edges so it won\u2019t damage or scratch your drawer.Expandable: Expands to easily adjust the size and arrangement of the compartments of your drawer.Easy Accessibility: Using this drawer divider, you can easily locate your items and access items.Prevents Clutter: Provides a neat and organized arrangement of items, reduces clutter and visually appealing arrangement.Versatile: Can be used in different types of drawers, such as bedroom dressers, kitchen cabinets, office desks, or bathroom vanities.Easy to Install: Easy assembly with no tools required!Specification:15 inches long before expand, or 21 inches long after expansion x 4 inches width, 4pcs/box\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0\u00a0Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/445611.jpg\",\"https://images.monoprice.com/productlargeimages/445612.jpg\",\"https://images.monoprice.com/productlargeimages/445613.jpg\",\"https://images.monoprice.com/productlargeimages/445614.jpg\",\"https://images.monoprice.com/productlargeimages/445615.jpg\",\"https://images.monoprice.com/productlargeimages/445616.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 25.99,
+      "sku": "44561",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44561",
+      "gtin14": "889028190289"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Extra Long 4 pack Drawer Divider Adjustable Drawer Organizer Expandable 15-21 in Separator for Kitchen Drawer Dresser Closet Kitchen Utensils Office Bathroom Bedroom",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "44561",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/44561"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

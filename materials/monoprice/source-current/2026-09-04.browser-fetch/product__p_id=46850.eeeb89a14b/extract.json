@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3-Outlet SnugPlug Household Extension Cord 16/3AWG 13A/1625W SPT-2 Black 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=46850",
+    "url": "https://www.monoprice.com/product?p_id=46850",
+    "description": "",
+    "image": "[]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.14,
+      "sku": "46850",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=46850",
+      "gtin14": "889028204610"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3-Outlet SnugPlug Household Extension Cord 16/3AWG 13A/1625W SPT-2 Black 10ft",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "46850",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/46850"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

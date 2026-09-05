@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Remote Control Holder with 5 Divided Compartments Desk Accessories Storage Desktop Organizer Container For Remote Control Pen Office Supplies Cosmetics",
+    "@id": "https://www.monoprice.com/product?p_id=47035",
+    "url": "https://www.monoprice.com/product?p_id=47035",
+    "description": "This decorative remote control holder is the perfect office essential for keeping your remotes organized and easily accessible. Its compact size holds universal remotes for your TV, air conditioner, soundbars, fan, and more, preventing them from getting lost in your couch or around the house. This versatile holder also helps organize mobile phones, makeup brushes, pens, small electronics, and office supplies, keeping your desk or table neat. The lightweight, portable design allows you to move it easily from room to room. With a sleek, modern look, this remote control holder blends seamlessly with your d\u00e9cor and saves space on coffee tables, desks, or dressers. A stylish and functional addition to any home or office, combining organization with a decorative touch.Convenient: No more lost remotes. Keep them in one accessible place.Multifunctional: Holds remotes, phones, makeup, pens, and more.Modern Design: Complements any home d\u00e9cor.Space-Saving: Fits in any room without taking up too much space.Portable: Easy to move and take with you anywhere.Product Dimensions:7in (L) x 5.6in (W) x 3.5in (H).gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0\u00a0\u00a0Updated Jan 26, 2022 Warning: This product may contain Phthalates, Lead, BPA, and Wood Dust, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/470351.jpg\",\"https://images.monoprice.com/productlargeimages/470352.jpg\",\"https://images.monoprice.com/productlargeimages/470353.jpg\",\"https://images.monoprice.com/productlargeimages/470354.jpg\",\"https://images.monoprice.com/productlargeimages/470355.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "47035",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=47035",
+      "gtin14": "889028206737"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Remote Control Holder with 5 Divided Compartments Desk Accessories Storage Desktop Organizer Container For Remote Control Pen Office Supplies Cosmetics",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "47035",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/47035"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

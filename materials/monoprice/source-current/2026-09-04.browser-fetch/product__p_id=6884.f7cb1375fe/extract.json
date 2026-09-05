@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Digital to Analog Audio Converter",
+    "@id": "https://www.monoprice.com/product?p_id=6884",
+    "url": "https://www.monoprice.com/product?p_id=6884",
+    "description": "This Digital to Analog Audio Converter converts Digital Coaxial or Digital Optical (Toslink\u00ae) audio signals into stereo analog audio signals for connection to an external device, such as an amplifier, using standard RCA audio cables.Features: Converts Coaxial or Optical (Toslink\u00ae) digital stereo audio signals to analog stereo audioSupports sampling rates at 32, 44.1, 48, and 96 kHz24\u2011bit S/PDIF incoming bit stream on left and right channelsProvides electromagnetic\u2011noise\u2011free transmissionEasy to install and simple to operateSupports 2\u2011channel PCM (stereo) audio input signals onlyIMPORTANT NOTE! This device will NOT decode 5.1\u2011channel signals. It will ONLY convert 2\u2011channel digital stereo (PCM) input signals to analog stereo output. This will not work with TVs that only output 5.1\u2011channel digital signals! Support Files: User's Manual (Sep 8, 2011)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. TOSLINK\u00ae is a registered trademark of Toshiba Corporation. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Jan 19, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/68841.jpg\",\"https://images.monoprice.com/productlargeimages/68842.jpg\",\"https://images.monoprice.com/productlargeimages/68843.jpg\",\"https://images.monoprice.com/productlargeimages/68844.jpg\",\"https://images.monoprice.com/productlargeimages/68845.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 22.99,
+      "sku": "6884",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6884",
+      "gtin14": "844660068846"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Digital to Analog Audio Converter",
+      "ratingCount": "503",
+      "reviewCount": "503",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Audio Converters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-converters"
+    },
+    {
+      "name": "6884",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/audio-converters/6884"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

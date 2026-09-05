@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Premium Full Motion TV Wall Mount Bracket Outdoor Waterproof Corrosion Resistant For 32 To 100 TVs up to 110lbs Max VESA 400x400",
+    "@id": "https://www.monoprice.com/product?p_id=38291",
+    "url": "https://www.monoprice.com/product?p_id=38291",
+    "description": " \u00a0This outdoor TV wall mount has a waterproof, corrosion resistant finish and is ideal for both indoor and outdoor use in a variety of locations, such as spas, waterparks, or your own backyard. It is designed to easily mount on the wall. A hook and hang design allows hassle free installation. This all\u2011weather outdoor TV wall mount supports up to 100\" flat panel screens with adjustments that always give you the optimal viewing angle. Tamperproof installation hardware reduces the risk of theft and vandalism. Pair with a padlock (not included) for additional security.   *The minimum and maximum display sizes are only approximations. Your TV will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight..gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Sept 27, 2019)Monoprice\u2122, EZ\u2122, and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a trademark owned by the Video Electronics Standards Association (VESA\u00ae) in the United States and other countries. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Mar 8, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/382911.jpg\",\"https://images.monoprice.com/productlargeimages/382912.jpg\",\"https://images.monoprice.com/productlargeimages/382913.jpg\",\"https://images.monoprice.com/productlargeimages/382914.jpg\",\"https://images.monoprice.com/productlargeimages/382915.jpg\",\"https://images.monoprice.com/productlargeimages/382916.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 96.99,
+      "sku": "38291",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38291",
+      "gtin14": "889028124420"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Premium Full Motion TV Wall Mount Bracket Outdoor Waterproof Corrosion Resistant For 32 To 100 TVs up to 110lbs Max VESA 400x400",
+      "ratingCount": "26",
+      "reviewCount": "26",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Full Motion TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts"
+    },
+    {
+      "name": "38291",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts/38291"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

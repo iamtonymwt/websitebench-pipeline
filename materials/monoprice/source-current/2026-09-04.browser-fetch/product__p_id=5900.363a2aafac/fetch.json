@@ -1,0 +1,13 @@
+{
+  "url": "https://www.monoprice.com/product?p_id=5900",
+  "final_url": "https://www.monoprice.com/product?p_id=5900",
+  "upstream_status": 200,
+  "classification": "content",
+  "bytes": 449873,
+  "sha256": "46810d72be498895c504aec4ac257ca12f60bbb28f4ac683ea3a886d9eb90c8d",
+  "fetched_at": "2026-09-05T01:20:24+00:00",
+  "fetch_ms": 363,
+  "mode": "raw-served-html",
+  "body_retained": false,
+  "extract": "schema.org Product + BreadcrumbList"
+}

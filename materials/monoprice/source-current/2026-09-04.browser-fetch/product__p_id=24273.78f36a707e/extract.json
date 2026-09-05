@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB-C to Mini DisplayPort Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=24273",
+    "url": "https://www.monoprice.com/product?p_id=24273",
+    "description": "Connect a Mini DisplayPort\u00ae display at resolutions up to 3840x2160p @60Hz to mirror your laptop's display or to expand your system's desktop area.Small and portable, you can slip the adapter into your laptop case and have it ready for use wherever and whenever the need arises.This adapter is a true Plug and Play device, with no need for drivers or software installations of any kind. Just plug the reversible USB-C\u2122 connector into your computer's video output and connect to your DisplayPort display using DisplayPort cable (not included).This adapter is compatible with USB-C equipped laptops, such as the Apple MacBook\u00ae and Google Chromebook\u2122.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB Type-C\u2122 and USB-C\u2122 are trademarks of USB Implementers Forum, Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. Apple\u00ae and MacBook\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122 and Chromebook\u2122 are trademarks of Google Inc. Updated Mar 12, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/242731.jpg\",\"https://images.monoprice.com/productlargeimages/242732.jpg\",\"https://images.monoprice.com/productlargeimages/242733.jpg\",\"https://images.monoprice.com/productlargeimages/242734.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "24273",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24273",
+      "gtin14": "889028054031"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB-C to Mini DisplayPort Adapter",
+      "ratingCount": "32",
+      "reviewCount": "32",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "24273",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/24273"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Folding Pet Dog Stairs Steps for high Bed Indoor Outdoor with Siderails Non-Slip Pads Foldable Plastic for Small Dog & Cats",
+    "@id": "https://www.monoprice.com/product?p_id=43685",
+    "url": "https://www.monoprice.com/product?p_id=43685",
+    "description": "Helps your pet to get on or off their favorite spots more easily! It is a perfect stair for kittens, small puppies, older pets and the ones with injuries.\u00a0Perfect Gift for your Pet: The step is ideal for most small and medium sized pets, especially ones recovering from an injury or illness. With the help of dog ramp, your furry friends can easily climb up to their favorite places, like couches, beds and vehicles.Durable & Easy to Clean: The step is made of tough and durable plastic which are made to last and can support pets up to 100lbs. It can be cleaned easily with a damp cloth and mild soap.\u00a0 \u00a0Added Safety Features: The side rails can keep your pet secure while the non-slip pads protect your pet from sliding. \u00a0It comes with snap lock that keeps the steps from collapsing when in use.Lightweight & Easy to store: With foldable design, you may easily store it under your bed or inside a closet or in the trunk of your car. With weigh only 5lbs, you can move it from room to room without any hassle.No assembly required. Dimensions: Set up size: 23.8\u201d (Length) x 15.5\u201d (Width) x 19.29\u201d (Height), Collapsed size: 30.5\u201d (Length) x 15.5\u201d (Width) x 5.12\u201d (Height)\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/436851.jpg\",\"https://images.monoprice.com/productlargeimages/436852.jpg\",\"https://images.monoprice.com/productlargeimages/436853.jpg\",\"https://images.monoprice.com/productlargeimages/436854.jpg\",\"https://images.monoprice.com/productlargeimages/436855.jpg\",\"https://images.monoprice.com/productlargeimages/436856.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "43685",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43685",
+      "gtin14": "889028180518"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Folding Pet Dog Stairs Steps for high Bed Indoor Outdoor with Siderails Non-Slip Pads Foldable Plastic for Small Dog & Cats",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "43685",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/43685"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

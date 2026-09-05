@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 7U 700mm Depth Audio/Video Rackmount Cabinet - GSA Approved",
+    "@id": "https://www.monoprice.com/product?p_id=10663",
+    "url": "https://www.monoprice.com/product?p_id=10663",
+    "description": "Keep your professional audio and video equipment cool and secure using this 7U 700mm Depth Audio/Video Rackmount Cabinet from Monoprice!This stylish cabinet is perfectly suited for use in both home and professional audio/video studios. The mounting posts are constructed of 2.0mm cold rolled SPCC steel and can be adjusted horizontally, while the main frame is made of 1.6mm cold rolled SPCC steel. Lockable casters allow it to be easily moved as needed, while extendable landing gear can be used for more permanent installations. The cabinet can support up to 660 lbs (299.4 Kg).The rack features a lockable, vented front door and removable side panels. It has 7U of rack space and can mount equipment up to 22\" (55.9cm) deep. The rack is tapped for and comes with M5 mounting screws. It is RoHS compliant and GSA approved.Features: 7U form factor660 lb (299.4 Kg) weight capacityConstructed of 1.6 to 2.0 mm SPCC cold rolled steelFront door made of 1.2mm SPCC steel with side panels made of 2.0mm aluminumEquipped with locking casters for easy mobilityEquipped with extendable landing gear for more permanent installations22\" (55.9cm) maximum chassis depthDimensions (WxHxD): 22.4\" x 19.1\" x 27.6\" (569 x 485 x 701 mm)Excellent airflow through vented front and open rearTapped for and comes with M5 mounting screwsRoHS compliantGSA approvedWarning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/106631.jpg\",\"https://images.monoprice.com/productlargeimages/106632.jpg\",\"https://images.monoprice.com/productlargeimages/106633.jpg\",\"https://images.monoprice.com/productlargeimages/106634.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1239.99,
+      "sku": "10663",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=10663",
+      "gtin14": "757901805615"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 7U 700mm Depth Audio/Video Rackmount Cabinet - GSA Approved",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Wallmount Server Cabinets & Brackets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/wallmount-server-cabinets-&-brackets"
+    },
+    {
+      "name": "10663",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/wallmount-server-cabinets-&-brackets/10663"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

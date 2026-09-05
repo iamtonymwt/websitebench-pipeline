@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 20-Watt 1x8 Practice Combo Bass Amplifier with 3-band EQ and Headphone Output",
+    "@id": "https://www.monoprice.com/product?p_id=611920",
+    "url": "https://www.monoprice.com/product?p_id=611920",
+    "description": "This bass guitar amplifier features a 20\u2011watt amplifier and an 8\u2011inch driver. It reproduces frequencies from 70Hz ~ 10kHz with a total harmonic distortion of 0.5% (typical). It also includes a built\u2011in, switchable active compressor.It features a 3\u2011band EQ, with the bass EQ centered at 100Hz, mid\u2011range EQ at 800Hz, and a treble EQ at 6kHz. It includes a 3.5mm line output, with an impedance of 1 kilohm, for directing the output signal to a mixer, recorder, or another amp. The 3.5mm stereo headphone output will defeat the internal speaker for quiet practicing.Features: 8\u2011inch, 4\u2011ohm speaker for deeper low frequenciesReproduces frequencies from 70Hz ? 10kHz3\u2011band EQ for custom tailoring of musical tonesSwitchable compressor to get more punch out of your soundSupport Files: User's Manual (Jun 6, 2018)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 18, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6119201.jpg\",\"https://images.monoprice.com/productlargeimages/6119202.jpg\",\"https://images.monoprice.com/productlargeimages/6119203.jpg\",\"https://images.monoprice.com/productlargeimages/6119204.jpg\",\"https://images.monoprice.com/productlargeimages/6119205.jpg\",\"https://images.monoprice.com/productlargeimages/6119206.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 135.99,
+      "sku": "611920",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=611920",
+      "gtin14": "757901809279"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 20-Watt 1x8 Practice Combo Bass Amplifier with 3-band EQ and Headphone Output",
+      "ratingCount": "43",
+      "reviewCount": "43",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Guitars & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+    },
+    {
+      "name": "Guitar Amplifiers",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers"
+    },
+    {
+      "name": "611920",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers/611920"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

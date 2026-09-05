@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB 3.0 USB-A to USB-A Female Extension Cable  Black  3ft",
+    "@id": "https://www.monoprice.com/product?p_id=13750",
+    "url": "https://www.monoprice.com/product?p_id=13750",
+    "description": "Connect your SuperSpeed USB 3.0 cable using this USB 3.0 A Male to A Female Extension Cable from Monoprice!This cable features a USB 3.0 A male connector on one end and a USB 3.0 A female connector on the other end. This allows you to extend the reach of your existing USB 3.0 cables.\u00a0      \u00a0   ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/137501.jpg\",\"https://images.monoprice.com/productlargeimages/137502.jpg\",\"https://images.monoprice.com/productlargeimages/137503.jpg\",\"https://images.monoprice.com/productlargeimages/137504.jpg\",\"https://images.monoprice.com/productlargeimages/137505.jpg\",\"https://images.monoprice.com/productlargeimages/137506.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.29,
+      "sku": "13750",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13750",
+      "gtin14": "889028018033"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB 3.0 USB-A to USB-A Female Extension Cable  Black  3ft",
+      "ratingCount": "117",
+      "reviewCount": "40",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables"
+    },
+    {
+      "name": "13750",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables/13750"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

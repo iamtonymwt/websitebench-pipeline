@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Standard HDMI Cable to DVI Adapter Cable 25ft - CL2 In Wall Rated with Ferrite Cores Black",
+    "@id": "https://www.monoprice.com/product?p_id=2842",
+    "url": "https://www.monoprice.com/product?p_id=2842",
+    "description": "*** !!! WARNING !!! *** Note that this cable is NOT an ordinary HDMI\u00ae cable. This is specifically for connecting a device with an HDMI connector to another device equipped with a Single Link DVI-D connector, typically found on PCs, projectors, and older video equipment before the HDMI standard became widespread. These cables can NOT carry audio. They carry video signals only!If you are looking for a High Speed HDMI Cable or a Standard HDMI Cable to connect equipment with HDMI connectors, please look at one of the following categories instead:HDMI CablesHDMI Cables With Ethernet*** !!! WARNING !!! *** This HDMI to DVI\u2122 Adapter Cable is capable of video performance equivalent to a Standard HDMI Cable.The CL2 rating on this cable indicates that its outer jacket has been designed to burn more slowly, thereby making it safe for use inside or through the walls of residential classed buildings. The CL2 rating ensures that your cable installation complies with fire safety codes and insurance requirements.TIP: It is a good idea to test cables and connections before installing them inside a wall. If there are any issues or problems, we can help you resolve them before you spend the time, effort, and expense of installing them inside the walls.This cable is capable of the following HDMI video features:720p/1080i Resolution - The Standard HDMI Cable has sufficient bandwidth to transfer 720p/1080i video signals between 720p/1080i rated source and sink (display) devices.Deep Color - The Deep Color feature provides a minimum of 8-bits per color element (24-bits total), providing for a total of over 16 million color variations. Other versions of Deep Color allow for up to 16-bits per element, for a total of 48-bits and over 281 trillion color variations, which really makes your video images come to life!x.v.Color\u2122 - x.v.Color is a promotion name given to the products that have the capability to realize a wide color space based on the xvYCC specifications and is a trademark of Sony Corporation. Currently, only AVCHD\u2122 and PlayStation\u00ae 3 devices support x.v.Color.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. DVI\u2122 is a trademark of the Digital Display Working Group. x.v.Color\u2122 is a trademark of Sony Corporation. AVCHD\u2122 and AVCHD Related Logos are trademarks of Panasonic Corporation and Sony Corporation. PlayStation\u00ae is a registered trademark of Sony Interactive Entertainment Inc. HDCP\u2122 is a trademark of Digital Content Protection LLC. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Apr 29, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/28421.jpg\",\"https://images.monoprice.com/productlargeimages/28422.jpg\",\"https://images.monoprice.com/productlargeimages/28423.jpg\",\"https://images.monoprice.com/productlargeimages/28424.jpg\",\"https://images.monoprice.com/productlargeimages/28425.jpg\",\"https://images.monoprice.com/productlargeimages/28426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 30.89,
+      "sku": "2842",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2842",
+      "gtin14": "844660028420"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Standard HDMI Cable to DVI Adapter Cable 25ft - CL2 In Wall Rated with Ferrite Cores Black",
+      "ratingCount": "128",
+      "reviewCount": "18",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DVI Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables"
+    },
+    {
+      "name": "2842",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables/2842"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

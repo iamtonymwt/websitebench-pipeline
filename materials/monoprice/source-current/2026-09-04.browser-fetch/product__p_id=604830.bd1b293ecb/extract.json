@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 15A Power Conditioner and Sequencer with 8 Outlets and 3 Zones",
+    "@id": "https://www.monoprice.com/product?p_id=604830",
+    "url": "https://www.monoprice.com/product?p_id=604830",
+    "description": "Most sound reinforcement professionals realize the majority of equipment damage occurs while devices are either powered up or powered down. Power sequencing allows A/V equipment to be powered up in stages, which gives equipment time to idle before the next stage of equipment is engaged. When powering down, the sequence order is reversed, which results in a soft landing for your expensive AV equipment. Power sequencing can also prevent breaker trips caused by power surges during power\u2011on.This device provides two groups of three AC power outlets for low\u2011powered devices and one group of two AC power outlets for high\u2011powered devices. Each of these groups constitute a \"zone\", which is sequentially powered on when power is applied. The sequence is reversed when the sequencer is switched off. Zones are activated with 5 seconds of delay between each to prevent excessive surges to sensitive equipment and circuit breaker failure. It also minimized the annoying \"pops\" that can be audible through speaker systems.In addition to the EMI and RFI filtering on all three zones, the conditioner checks for wiring faults and illuminates an LED indicator when the connected AC circuit is improperly wired. It is rated for 15 amps and has a front panel circuit breaker, two front panel unswitched and unfiltered AC power outlets, and LED fault indicators.Features: Two groups of three switched low\u2011power AC outlets and one group of two switched high\u2011power AC outletsTwo unswitched and unfiltered front panel AC outletsEach group constitutes a Zone, which is powered on sequentially, from Zone 1 to Zone 3Zones are powered off in reverse sequence, from Zone 3 to Zone 1EMI and RFI filtering for all switched outletsFront panel 15 amp circuit breakerRemovable rack mount ears and 1U rack heightSupport Files: User's Manual (Aug 18, 2016)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. Updated Mar 15, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6048301.jpg\",\"https://images.monoprice.com/productlargeimages/6048302.jpg\",\"https://images.monoprice.com/productlargeimages/6048303.jpg\",\"https://images.monoprice.com/productlargeimages/6048304.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 199.99,
+      "sku": "604830",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=604830",
+      "gtin14": "889028043134"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 15A Power Conditioner and Sequencer with 8 Outlets and 3 Zones",
+      "ratingCount": "23",
+      "reviewCount": "23",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Commercial Audio & Digital Signage",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage"
+    },
+    {
+      "name": "Mixers & Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers"
+    },
+    {
+      "name": "604830",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers/604830"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

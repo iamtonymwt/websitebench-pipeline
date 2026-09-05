@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Viper Series HD-SDI RG-6 BNC Cable 100ft",
+    "@id": "https://www.monoprice.com/product?p_id=16189",
+    "url": "https://www.monoprice.com/product?p_id=16189",
+    "description": "The Monoprice\u00e2\u201e\u00a2 Viper Series HD-SDI RG-6 Cable is a precision serial digital video coaxial cable for transmit HD-SDI video signals used in professional broadcast applications. The cable is a BNC-terminated, high-performance RG-6 coaxial cable with dual aluminum and copper braided shields, making the cable flexible and strong. It is great for use in HD-serial digital video transfer, mobile apps, HDTV upgrades, broadband facilities, and other applications with HD-SDI video.Features: Transfers HD-SDI video signals over RG6 digital video coaxial cableConnector A and B: True 75-ohm BNC Male connectors handle 3 Gbps bandwidthDual copper and aluminum shielding18 AWG pure copper conductorRG-6 digital spec coaxial cable75-ohm impedanceDiameter: 0.303 inches100% sweep testedMonoprice\u00e2\u201e\u00a2 lifetime warranty on all cablesMonoprice\u00e2\u201e\u00a2 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jul 10, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/161891.jpg\",\"https://images.monoprice.com/productlargeimages/161892.jpg\",\"https://images.monoprice.com/productlargeimages/161893.jpg\",\"https://images.monoprice.com/productlargeimages/161894.jpg\",\"https://images.monoprice.com/productlargeimages/161895.jpg\",\"https://images.monoprice.com/productlargeimages/161896.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 112.09,
+      "sku": "16189",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=16189",
+      "gtin14": "889028043035"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Viper Series HD-SDI RG-6 BNC Cable 100ft",
+      "ratingCount": "66",
+      "reviewCount": "4",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "SDI Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/sdi-cables"
+    },
+    {
+      "name": "16189",
+      "url": "https://www.monoprice.com/category/cables/video-cables/sdi-cables/16189"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

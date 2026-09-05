@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Single Sided Shelf 3.5(H) x 14.5(D) x 19(W) 50 lbs.",
+    "@id": "https://www.monoprice.com/product?p_id=8629",
+    "url": "https://www.monoprice.com/product?p_id=8629",
+    "description": "This rack shelf supports objects weighing up to 50 lbs. It is compatible with standard 19\" racks and is 2U in height..gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 24, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/86291.jpg\",\"https://images.monoprice.com/productlargeimages/86292.jpg\",\"https://images.monoprice.com/productlargeimages/86293.jpg\",\"https://images.monoprice.com/productlargeimages/86294.jpg\",\"https://images.monoprice.com/productlargeimages/86295.jpg\",\"https://images.monoprice.com/productlargeimages/86296.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 28.99,
+      "sku": "8629",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8629",
+      "gtin14": "844660086291"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Single Sided Shelf 3.5(H) x 14.5(D) x 19(W) 50 lbs.",
+      "ratingCount": "117",
+      "reviewCount": "79",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Racks & Rack Trays",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/racks-&-rack-trays"
+    },
+    {
+      "name": "8629",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/racks-&-rack-trays/8629"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

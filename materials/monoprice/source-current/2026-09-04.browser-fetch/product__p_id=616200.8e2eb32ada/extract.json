@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Metal Kazoo",
+    "@id": "https://www.monoprice.com/product?p_id=616200",
+    "url": "https://www.monoprice.com/product?p_id=616200",
+    "description": "Fun to playRobust metalPerfect for large groupsTake it everywhereKazoos are played through the human voice humming sound, relying on its own diaphragm and resonance tube for sound amplification. It creates a hoarse tone, somewhat similar to the saxophone. If you like to sing, you can play kazoo, even if you are not a good singer. You don't have to learn music theory or score. You don't even have to practice. In just one minute you can play the tone of your dreams with a kazoo.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Sep 27, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6162001.jpg\",\"https://images.monoprice.com/productlargeimages/6162002.jpg\",\"https://images.monoprice.com/productlargeimages/6162003.jpg\",\"https://images.monoprice.com/productlargeimages/6162004.jpg\",\"https://images.monoprice.com/productlargeimages/6162005.jpg\",\"https://images.monoprice.com/productlargeimages/6162006.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "616200",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=616200",
+      "gtin14": "889028018644"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Metal Kazoo",
+      "ratingCount": "37",
+      "reviewCount": "37",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Drums & Percussion",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/drums-&-percussion"
+    },
+    {
+      "name": "Drum & Percussion Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/drums-&-percussion/drum-&-percussion-accessories"
+    },
+    {
+      "name": "616200",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/drums-&-percussion/drum-&-percussion-accessories/616200"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

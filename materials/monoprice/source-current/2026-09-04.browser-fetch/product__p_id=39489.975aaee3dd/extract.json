@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Universal Soundbar Bracket with Adjustable Arms  Fits Displays 23in to 75in Soundbars up to 33 lbs.",
+    "@id": "https://www.monoprice.com/product?p_id=39489",
+    "url": "https://www.monoprice.com/product?p_id=39489",
+    "description": "The Monoprice Universal Soundbar Bracket is made from high\u2011quality steel to hold soundbars weighing up to 33 lbs. (15 kg). It attaches to the back of most brands or styles of TVs and most soundbars. It can be easily attached to an existing TV wall mount and hangs a sound bar below the TV, without putting holes in the wall. The mount is ideal for hanging on a corner or on an articulating mount where the sound can face the same direction as the TV to make for a perfect auditory and visual experience. It supports VESA\u00ae mounting patters from 75X75 ~ 600X400.Features: Universal Design: TV soundbar mount easily connects to the back of the TV. It can be attached to existing TV wall brackets or directly to TVs on stands. It is ideal for corner installations.Mount Above or Below: This speaker bar mount fits almost any TV and soundbar or home theater system center speaker due to its adjustable bolt hole slots, as well as the rotating joint design. Easy to install, hardware and installation instructions are included. PLEASE NOTE, THE MOUNTING HOLES SHOULD BE BEHIND THE SOUNDBAR. THE HOLES ON TOP AND BOTTOM OF THE SOUNDBAR WILL NOT WORK WITH THIS MOUNT.VESA Compliant: This bracket fits VESA\u00ae mounting patterns from 75x75 ~ 600x400.Measures 20.1\" x 1.4\" x 0.4\".Constructed from powder\u2011coated steel.Supports up to 33 lbs. (15 kg).Support Files: User's Manual (Nov 25, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Mar 9, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/394891.jpg\",\"https://images.monoprice.com/productlargeimages/394892.jpg\",\"https://images.monoprice.com/productlargeimages/394893.jpg\",\"https://images.monoprice.com/productlargeimages/394894.jpg\",\"https://images.monoprice.com/productlargeimages/394895.jpg\",\"https://images.monoprice.com/productlargeimages/394896.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.99,
+      "sku": "39489",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39489",
+      "gtin14": "889028136645"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Universal Soundbar Bracket with Adjustable Arms  Fits Displays 23in to 75in Soundbars up to 33 lbs.",
+      "ratingCount": "25",
+      "reviewCount": "25",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Speaker Mounts & Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands"
+    },
+    {
+      "name": "Speaker Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts"
+    },
+    {
+      "name": "39489",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts/39489"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

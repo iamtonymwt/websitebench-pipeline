@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Series Hidden Motorized Recessed Ceiling Projector Lift Mount (Max 44 lbs.)",
+    "@id": "https://www.monoprice.com/product?p_id=15495",
+    "url": "https://www.monoprice.com/product?p_id=15495",
+    "description": "Easily fits into 2' x 2' ceiling opening and drop ceilings. Exceptionally smooth and quiet movement, these are excellent in\u2011ceiling LCD projector mount choices for homes and corporate offices. Bottom plates are easily finished with materials to blend with any decor.Fits most installation requirements, needing only 12\" of clearance above the ceiling. User defined descending limit to 36\". All metal construction means years of solid reliability.Preinstalled cable loom protects and keeps cables neat and clean for a professional look. Accommodates any small to mid\u2011sized projector up to 44 lbs. (20 kg).Features: Replaceable ceiling decoration board allows you to match ceiling texture and material for seamless installElectric positioning preset for max dissentionIntegrated cable management keeps cables neat and clean and out of the way of moving partsUse with large scale projectors up to 44 lbs. (20 kg)Support Files: User Manual (Nov 11, 2024)Remote Kit Manual (Dec 16, 2024)Dimensions Diagram (Jan 24, 2018)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. VESA\u00ae is a trademark owned by the Video Electronics Standards Association (VESA\u00ae) in the United States and other countries. Updated Jan 27, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/154951.jpg\",\"https://images.monoprice.com/productlargeimages/154952.jpg\",\"https://images.monoprice.com/productlargeimages/154953.jpg\",\"https://images.monoprice.com/productlargeimages/154954.jpg\",\"https://images.monoprice.com/productlargeimages/154955.jpg\",\"https://images.monoprice.com/productlargeimages/154956.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 824.99,
+      "sku": "15495",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15495",
+      "gtin14": "889028035955"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Series Hidden Motorized Recessed Ceiling Projector Lift Mount (Max 44 lbs.)",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Projectors & Screens",
+      "url": "https://www.monoprice.com/category/audio-video/projectors-&-screens"
+    },
+    {
+      "name": "Projector Mounts",
+      "url": "https://www.monoprice.com/category/audio-video/projectors-&-screens/projector-mounts"
+    },
+    {
+      "name": "15495",
+      "url": "https://www.monoprice.com/category/audio-video/projectors-&-screens/projector-mounts/15495"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

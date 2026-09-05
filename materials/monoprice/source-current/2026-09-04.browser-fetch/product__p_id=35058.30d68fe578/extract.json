@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Power Cord - NEMA 5-20P to IEC 60320 C19 12AWG 20A/2500W SJT 125V Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=35058",
+    "url": "https://www.monoprice.com/product?p_id=35058",
+    "description": "This 12 AWG power cord features a North America NEMA\u00ae 5\u201120 plug on one end and an IEC 60320 C19 female connector on the other end. The C19 coupler is used for supplying power in IT and medical applications where higher currents are required. These include high\u2011power workstations and servers, uninterruptible power supplies, power distribution units, large network routers, switches, and blade enclosures, as well as high\u2011current medical equipment. This cable is rated for a 20 amp/2500 watt, 125 volt load.Features: NEMA 5\u201120P to IEC 60320 C19 power cords connect devices with C20 and NEMA 5\u201120R power connectorsRecommended for powering computers, servers, and other network devicesHeavy\u2011duty computer power cord replaces or upgrades a cord provided by the manufacturer\u00a0Plug\u00a0TypeNEMA\u00ae 5\u201120PReceptacle\u00a0TypeIEC 60320 C19Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge12 AWGMaximum\u00a0Current20 ampsCertificationsETL, cETL,\u00a0CSA\u00ae, RoHSMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. CSA\u00ae is a registered trademark of the CSA Group. Updated sEP 30, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/350581.jpg\",\"https://images.monoprice.com/productlargeimages/350582.jpg\",\"https://images.monoprice.com/productlargeimages/350583.jpg\",\"https://images.monoprice.com/productlargeimages/350584.jpg\",\"https://images.monoprice.com/productlargeimages/350585.jpg\",\"https://images.monoprice.com/productlargeimages/350586.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "35058",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35058",
+      "gtin14": "889028102466"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Power Cord - NEMA 5-20P to IEC 60320 C19 12AWG 20A/2500W SJT 125V Black 6ft",
+      "ratingCount": "5",
+      "reviewCount": "5",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "35058",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/35058"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

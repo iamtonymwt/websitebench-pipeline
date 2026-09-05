@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2-port 2-piece Inset Wall Plate with 4in Built-in Flexible High Speed HDMI Cable With Ethernet White",
+    "@id": "https://www.monoprice.com/product?p_id=7332",
+    "url": "https://www.monoprice.com/product?p_id=7332",
+    "description": "This is a white dual port HDMI\u00ae wall plate with support for the HDMI\u00ae Ethernet channel, which delivers Ethernet data interconnectivity through the 4 inch coupler cable on the rear of the plate. This convenient wall plate has a female connector on the front and in back for easy installation. Eliminate cable clutter by hiding your cables in-wall. This clean looking wall plate will give your home theater a professionally installed look. Complies with optional HDMI\u00ae Ethernet Channel specification.The HDMI cable lead is 28 AWG.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.\u00a0\u00a0\u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.**Requires a low voltage mounting bracket - not included**HDMI, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/73321.jpg\",\"https://images.monoprice.com/productlargeimages/73322.jpg\",\"https://images.monoprice.com/productlargeimages/73323.jpg\",\"https://images.monoprice.com/productlargeimages/73324.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "7332",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7332",
+      "gtin14": "844660073321"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2-port 2-piece Inset Wall Plate with 4in Built-in Flexible High Speed HDMI Cable With Ethernet White",
+      "ratingCount": "164",
+      "reviewCount": "164",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "7332",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/7332"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Series High Speed HDMI Extension Cable - 4K@60Hz HDR 18Gbps YCbCr 444 24AWG CL2 10ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=3343",
+    "url": "https://www.monoprice.com/product?p_id=3343",
+    "description": "Extend the reach of your HDMI\u00ae connection using this Commercial Series Premium High Speed HDMI Extension Cable from Monoprice!This High Speed HDMI Cable supports the following general features:18Gbps data throughputCL2 in-wall fire safety rating24AWG copper conductorsGold plated connectorsIt supports the following HDMI features:1080p resolution at 120Hz4K resolution at 60Hz3D videoAudio Return ChannelDeep Color up to 16-bits per channelx.v.Color\u2122High Definition Audio, including SA-CD, DVD-Audio, DTS-HD Master Audio\u2122, and Dolby TrueHD\u2122NOTE: The High Speed rating of this cable is contingent on the total length and gauge of the cable as a whole, including both the extension and the original cable. As long as both the extension and the original are at least 24 AWG and the total length is 15 feet or less, the High Speed rating can be maintained. With thinner cables and/or longer runs, the cable can be rated only as a Standard HDMI Cable.TIP: It is a good idea to test cables and connections before installing them inside a wall. If there are any issues or problems, we can help you resolve them before you spend the time, effort, and expense of installing them inside the walls.Support Files: Diagram (Oct 29, 2024)HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. x.v.Color\u2122 is a trademark of Sony Corporation. DTS\u00ae is a registered trademark and the DTS logos, Symbol, DTS-HD\u2122, and DTS-HD Master Audio\u2122 are trademarks of DTS, Inc. Dolby\u00ae and the double-D symbol are registered trademarks of Dolby Laboratories. Dolby TrueHD\u2122 is a trademark of Dolby Laboratories. \u00a0Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/33431.jpg\",\"https://images.monoprice.com/productlargeimages/33432.jpg\",\"https://images.monoprice.com/productlargeimages/33433.jpg\",\"https://images.monoprice.com/productlargeimages/33434.jpg\",\"https://images.monoprice.com/productlargeimages/33435.jpg\",\"https://images.monoprice.com/productlargeimages/33436.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 16.09,
+      "sku": "3343",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3343",
+      "gtin14": "844660033431"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Series High Speed HDMI Extension Cable - 4K@60Hz HDR 18Gbps YCbCr 444 24AWG CL2 10ft Black",
+      "ratingCount": "238",
+      "reviewCount": "26",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "HDMI Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-extension-cables"
+    },
+    {
+      "name": "3343",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-extension-cables/3343"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

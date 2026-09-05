@@ -1,0 +1,51 @@
+{
+  "schema_version": "monoprice.frozen-pages.v1",
+  "pages_written": 5980,
+  "stored_bytes": 222961810,
+  "uncompressed_bytes": 1826602368,
+  "route_collisions": 0,
+  "route_collision_examples": [],
+  "by_kind": {
+    "skipped:absent-product": 1906,
+    "skipped:asset-not-a-page": 48,
+    "skipped:body-not-retained": 3289,
+    "skipped:not-found": 23,
+    "written:content": 5936,
+    "written:empty-listing": 44
+  },
+  "rewrites": {
+    "asset_localised": 313157,
+    "asset_missing_on_disk": 280,
+    "attribute_removed_rather_than_blanked": 82323,
+    "css_url_removed": 1,
+    "iframe_removed": 5265,
+    "link_removed": 3798,
+    "offsite_reference_removed": 55697,
+    "route_localised": 6511974,
+    "route_product_not_served": 7144,
+    "same_host_absolute_made_relative": 30,
+    "script_removed": 53425,
+    "third_party_reference_removed": 19483
+  },
+  "unresolved_examples": [
+    "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/680935acc40a1f5374b33f6f_Placeholder%20Image%20-%20Landscape.svg",
+    "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+    "https://images.monoprice.com/cms_images/250307_B2B_Homepage_.jpg",
+    "https://images.monoprice.com/cms_images/260113_BackInStock_.jpg",
+    "https://images.monoprice.com/cms_images/260701_cables_.jpg",
+    "https://images.monoprice.com/cms_images/260708_best_seller_.jpg",
+    "https://images.monoprice.com/cms_images/260901_great_finds_.jpg",
+    "https://images.monoprice.com/cms_images/Educator_Setup_4.jpg",
+    "https://images.monoprice.com/cms_images/Office_Setup_2.jpg",
+    "https://images.monoprice.com/cms_images/ethernet_technologists.jpg",
+    "https://images.monoprice.com/productmediumimages/382081.jpg",
+    "https://images.monoprice.com/productmediumimages/445271.jpg",
+    "https://images.monoprice.com/productmediumimages/445281.jpg",
+    "https://images.monoprice.com/productmediumimages/445301.jpg",
+    "https://images.monoprice.com/productmediumimages/445351.jpg",
+    "https://images.monoprice.com/productmediumimages/445361.jpg",
+    "https://images.monoprice.com/productmediumimages/497571.jpg"
+  ],
+  "unresolved_total": 280,
+  "note": "`asset_missing_on_disk` is the number of references left pointing at bytes that are not in the asset tree. They are counted, not silently skipped: an unmatched reference that is not counted is how a page keeps calling a CDN while the closure report reads clean."
+}

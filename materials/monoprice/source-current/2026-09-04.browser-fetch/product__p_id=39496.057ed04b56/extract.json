@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Elements 18-inch Speaker Stand with Cable Management Tempered Glass Base with Floor Spikes Black Pair",
+    "@id": "https://www.monoprice.com/product?p_id=39496",
+    "url": "https://www.monoprice.com/product?p_id=39496",
+    "description": "The Elements speaker stand series from Monoprice\u2122 will complement your room decor while also improving the sound of your bookshelf speakers. Each stand features a strong tempered glass base with floor spikes for added stability, an MDF wood veneer for a touch of elegant design, and a strap to secure the speaker to the stand for extra security in case it gets bumped.Each stand supports up to 22 lbs. (10 kg) weight and are 18\" tall. The upper glass plate is 0.2\" (6mm) thick and measures 7.9\" x 7.9\" (200 x 200 mm), while the lower plate is 0.3\" (8mm) thick and measures 9.8\" x 9.8\" (250 x 250 mm). Each order includes two (2) speaker stands.Support Files: User's Manual (Nov 25, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 9, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/394961.jpg\",\"https://images.monoprice.com/productlargeimages/394962.jpg\",\"https://images.monoprice.com/productlargeimages/394963.jpg\",\"https://images.monoprice.com/productlargeimages/394964.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 93.99,
+      "sku": "39496",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39496",
+      "gtin14": "889028136713"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Elements 18-inch Speaker Stand with Cable Management Tempered Glass Base with Floor Spikes Black Pair",
+      "ratingCount": "29",
+      "reviewCount": "29",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "Speaker Mounts & Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands"
+    },
+    {
+      "name": "Speaker Stands",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-stands"
+    },
+    {
+      "name": "39496",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/speaker-mounts-&-stands/speaker-stands/39496"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

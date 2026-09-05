@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6P6C RJ12 Modular Plugs for Round Solid/Stranded Cable 1u 3 Prongs Clear 50-Pk",
+    "@id": "https://www.monoprice.com/product?p_id=7271",
+    "url": "https://www.monoprice.com/product?p_id=7271",
+    "description": "RJ12 connectors for 6 Conductor, Solid Wire, Round Phone Cables.Crimp on RJ12 connectors.6 conductor type.Clear plastic housing.For Solid wire round cables.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72711.jpg\",\"https://images.monoprice.com/productlargeimages/72712.jpg\",\"https://images.monoprice.com/productlargeimages/72713.jpg\",\"https://images.monoprice.com/productlargeimages/72714.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "7271",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7271",
+      "gtin14": "844660072713"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6P6C RJ12 Modular Plugs for Round Solid/Stranded Cable 1u 3 Prongs Clear 50-Pk",
+      "ratingCount": "15",
+      "reviewCount": "4",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Modular Plugs",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs"
+    },
+    {
+      "name": "7271",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs/7271"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

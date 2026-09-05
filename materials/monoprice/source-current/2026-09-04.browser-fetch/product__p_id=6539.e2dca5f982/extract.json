@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Snap-In Blank Keystone Insert For Wall Plate White 10 Pack",
+    "@id": "https://www.monoprice.com/product?p_id=6539",
+    "url": "https://www.monoprice.com/product?p_id=6539",
+    "description": "Blank insert for keystone wall plates. Use to cover unused holes and remove when ready for expansion.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.\u00a0\u00a0The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.\u00a0Support Files: Diagram (Oct 28, 2019)Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/65391.jpg\",\"https://images.monoprice.com/productlargeimages/65392.jpg\",\"https://images.monoprice.com/productlargeimages/65393.jpg\",\"https://images.monoprice.com/productlargeimages/65394.jpg\",\"https://images.monoprice.com/productlargeimages/65395.jpg\",\"https://images.monoprice.com/productlargeimages/65396.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "6539",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6539",
+      "gtin14": "844660065395"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Snap-In Blank Keystone Insert For Wall Plate White 10 Pack",
+      "ratingCount": "89",
+      "reviewCount": "79",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystone Wall Plates",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates"
+    },
+    {
+      "name": "6539",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates/6539"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

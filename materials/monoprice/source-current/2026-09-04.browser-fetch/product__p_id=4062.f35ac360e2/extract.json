@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice RG6 Coaxial Cable with F Type Connector - CL2 Quad Shielded 18AWG 75Ohm 100ft White",
+    "@id": "https://www.monoprice.com/product?p_id=4062",
+    "url": "https://www.monoprice.com/product?p_id=4062",
+    "description": "- Heavy-Duty Quad Shielded RG-6/UL 18AWG Coaxial Cable- 75 Ohm 2200 MHz Coaxial Cables for Maximum Signal Transfer and Minimize Interference.- Lifetime Warranty",
+    "image": "[\"https://images.monoprice.com/productlargeimages/40621.jpg\",\"https://images.monoprice.com/productlargeimages/40622.jpg\",\"https://images.monoprice.com/productlargeimages/40623.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 54.39,
+      "sku": "4062",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4062",
+      "gtin14": "844660040620"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice RG6 Coaxial Cable with F Type Connector - CL2 Quad Shielded 18AWG 75Ohm 100ft White",
+      "ratingCount": "963",
+      "reviewCount": "28",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "Coaxial & BNC Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/coaxial-&-bnc-cables"
+    },
+    {
+      "name": "4062",
+      "url": "https://www.monoprice.com/category/cables/video-cables/coaxial-&-bnc-cables/4062"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 50ft. Cloth Series 1/4 inch T/S Male 20AWG Instrument Cable - Black & Gold",
+    "@id": "https://www.monoprice.com/product?p_id=601450",
+    "url": "https://www.monoprice.com/product?p_id=601450",
+    "description": "Get a great sounding, no-noise guitar/studio recording instrument cable when you use this Cloth Series 1/4\" TS Male 20AWG Instrument Cable from Monoprice!This cable is constructed using a 20AWG solid conductor, surrounded by two layers of copper braid shielding, that produce 99% shield coverage. The cable features gold-plated connectors for smooth, corrosion-free connections every time. The black and gold braided cloth jacket provides superior durability to traditional plastic jackets.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6014501.jpg\",\"https://images.monoprice.com/productlargeimages/6014502.jpg\",\"https://images.monoprice.com/productlargeimages/6014503.jpg\",\"https://images.monoprice.com/productlargeimages/6014504.jpg\",\"https://images.monoprice.com/productlargeimages/6014505.jpg\",\"https://images.monoprice.com/productlargeimages/6014506.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 37.99,
+      "sku": "601450",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601450",
+      "gtin14": "757901811142"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 50ft. Cloth Series 1/4 inch T/S Male 20AWG Instrument Cable - Black & Gold",
+      "ratingCount": "268",
+      "reviewCount": "8",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Guitar Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/guitar-cables"
+    },
+    {
+      "name": "601450",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/guitar-cables/601450"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

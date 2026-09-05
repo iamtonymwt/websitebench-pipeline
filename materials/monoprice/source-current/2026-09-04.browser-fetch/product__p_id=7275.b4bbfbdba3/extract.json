@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat5e/Cat6 RJ45 Strain Relief Boots fit 6.0mm OD CM/CMR/CMP Cables White 50-Pk",
+    "@id": "https://www.monoprice.com/product?p_id=7275",
+    "url": "https://www.monoprice.com/product?p_id=7275",
+    "description": "Monoprice\u2122Cat5e/Cat6 RJ45 Strain Relief Boots, White, 50-PackFits CM/CMR/CMP Ethernet Cables with 6.0mm Outer DiameterSoft, pliable strain relief boots to cover and protect crimped-on RJ-45 connectors. Relieves stress on the wire connections. Clip hood creates snagless feature. Comes in various colors to match your color coding scheme.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.Support Files: Tech Drawing (Oct 30, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Oct 30, 2025 Warning: This product can expose you to chemicals, including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72751.jpg\",\"https://images.monoprice.com/productlargeimages/72752.jpg\",\"https://images.monoprice.com/productlargeimages/72753.jpg\",\"https://images.monoprice.com/productlargeimages/72754.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "7275",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7275",
+      "gtin14": "844660072751"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat5e/Cat6 RJ45 Strain Relief Boots fit 6.0mm OD CM/CMR/CMP Cables White 50-Pk",
+      "ratingCount": "131",
+      "reviewCount": "16",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Modular Plugs",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs"
+    },
+    {
+      "name": "7275",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs/7275"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Aria In-Wall Speaker 10in Passive Subwoofer 200 watts max (single)",
+    "@id": "https://www.monoprice.com/product?p_id=4928",
+    "url": "https://www.monoprice.com/product?p_id=4928",
+    "description": "This in\u2011wall bridge speaker transforms your smaller 2\u2011way in\u2011wall or satellite speakers into full range monitors. This compact, non\u2011powered sub is not for replacing a decent powered LFE subwoofer, but to bridge the frequency gap often found when trying to pair smaller speakers to a high powered subwoofer.While typical compact 2\u2011way speakers do a fine job of covering the high and mid frequency audio, they tend to taper off at the upper end of the low frequencies leaving a sonic gap between the highs and lows. You can adjust the upper end of your powered subs crossover to compensate, but that ends up sacrificing sound staging and depth of field as the directional upper low end frequencies start to collapse onto the location of your sub. Pair these with each of your main speakers for clearer, more well defined audio and wider sound staging. Bi\u2011amp them with a capable amp or receiver to get the ultimate audio experience. It will be like having massive full range tower speakers without sacrificing any living space.Please note that the video on this page shows the specific instructions for installation of PID 6317. While this speaker mounts into the wall much differently than the one in the video, the video shows the basic steps, tools, and types of procedures that would be used for the installation of any in\u2011wall or in\u2011ceiling speaker, and is included on this page for reference purposes only. Please refer to the specific installation instructions of the in\u2011wall or in\u2011ceiling speaker you have for the specific dimensions and installation procedures. Support Files: User's Manual (Jan 24, 2012)Patio Sales Sheet (Apr 24, 2017)Subwoofer Sales Sheet (Apr 24, 2017)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 18, 2022 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/49281.jpg\",\"https://images.monoprice.com/productlargeimages/49282.jpg\",\"https://images.monoprice.com/productlargeimages/49283.jpg\",\"https://images.monoprice.com/productlargeimages/49284.jpg\",\"https://images.monoprice.com/productlargeimages/49285.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 94.99,
+      "sku": "4928",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4928",
+      "gtin14": "844660049289"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Aria In-Wall Speaker 10in Passive Subwoofer 200 watts max (single)",
+      "ratingCount": "49",
+      "reviewCount": "44",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "In Wall Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers"
+    },
+    {
+      "name": "4928",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/in-wall-speakers/4928"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

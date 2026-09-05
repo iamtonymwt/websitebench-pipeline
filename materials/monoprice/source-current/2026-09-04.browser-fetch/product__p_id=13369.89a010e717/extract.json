@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series Mini DisplayPort to HDTV Cable 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=13369",
+    "url": "https://www.monoprice.com/product?p_id=13369",
+    "description": "The Select Series DisplayPort\u00ae / Mini DisplayPort to HDTV Cable allows you to connect your DisplayPort-enabled computer to an HDTV display or other HDMI\u00ae ready device.Select Series DisplayPort / Mini DisplayPort to HDTV Cable\u00a0High SpeedDisplayPort CompliantHDTVHigh Speed: Select Series DisplayPort\u00ae transmits both audio and video from computers or tablets to an HDTV display. It supports video resolutions up to 1920 x 1200 and 1080p (Full HD), plus flawless audio pass-through for uncompressed digital audio with 7.1, 5.1, or 2 channels.DisplayPort Compliant: Compliant with the DisplayPort specification, this cable supports data speeds up to 10.2Gbps.HDTV: Broad compatibility with computers, phones, and tablets with DisplayPort or Mini DisplayPort video output and high-resolution HDMI\u00ae enabled displays.\u00a0Select Series DisplayPort / Mini DisplayPort Enables High ResolutionConnect a DisplayPort\u00ae-enabled computer to an HDMI\u00ae enabled high definition display or projectorSupports up to Full HD 1080P resolution and 3D videoBandwidth up to 10.2 GbpsSupports DPCP (DisplayPort Content Protection) and HDCP\u2122 (High-bandwidth Digital Content Protection)Broad compatibility with MacBooks\u00ae, PCs, phones, and tablets with DisplayPort or Mini DisplayPort video out and high-resolution HDMI\u00ae enabled displays\u00a0Mini DisplayPort to HDTV Cable3, 6, 10, and 15 feetDisplayPort to HDTV Cable3 and 6 feetMonoprice\u2122 Lifetime Warranty on ALL CablesWith Monoprice's Lifetime Warranty you can rest assured we stand behind our products and our customers.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. DisplayPort\u00ae and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Apple\u00ae and MacBook\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Updated Dec 9, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.govEnable GingerCannot connect to Ginger Check your internet connectionor reload the browserDisable GingerRephraseRephrase with Ginger (Ctrl+Alt+E)Edit in GingerGinger is checking your text for mistakes...Disable Ginger in this text fieldDisable Ginger on this website\u00d7",
+    "image": "[\"https://images.monoprice.com/productlargeimages/133691.jpg\",\"https://images.monoprice.com/productlargeimages/133692.jpg\",\"https://images.monoprice.com/productlargeimages/133693.jpg\",\"https://images.monoprice.com/productlargeimages/133694.jpg\",\"https://images.monoprice.com/productlargeimages/133695.jpg\",\"https://images.monoprice.com/productlargeimages/133696.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 5.99,
+      "sku": "13369",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=13369",
+      "gtin14": "889028014172"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series Mini DisplayPort to HDTV Cable 6ft",
+      "ratingCount": "90",
+      "reviewCount": "30",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DisplayPort & Mini DisplayPort Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables"
+    },
+    {
+      "name": "13369",
+      "url": "https://www.monoprice.com/category/cables/video-cables/displayport-&-mini-displayport-cables/13369"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

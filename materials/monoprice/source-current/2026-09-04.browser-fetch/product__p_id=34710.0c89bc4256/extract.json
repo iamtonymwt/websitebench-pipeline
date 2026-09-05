@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SB-100 2.1-ch 36in Soundbar with Built-In Subwoofer Bluetooth Optical Input and Remote Control",
+    "@id": "https://www.monoprice.com/product?p_id=34710",
+    "url": "https://www.monoprice.com/product?p_id=34710",
+    "description": "                                            Enhance your home entertainment system with the Monoprice\u2122 SB\u2011100 2.1\u2011channel Soundbar. This 36\" soundbar features 80 watts of power driving two dynamic drivers and two integrated bass drivers to deliver superior audio and room filling sound. The SB\u2011100 design allows it to fit easily beneath your TV or mounted on the wall. A host of connectivity options make the SB\u2011100 versatile and compatible with most home theater equipment and television sets.                                                                              .gte-ctr .row{margin:0;}                                                                                                              1 Year Replacement Warranty                                      Monoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.                                                                                                                                  30 Day Money Back Guarantee                                      Monoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.                                                                                                                                  Quality at a Fair Price                                      Monoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.                                                                                                                                  Hassle Free Packaging                                      Monoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.                                                                                                                                 Service and Support                                      You're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!                                                                        Support Files:      User's Manual (Aug 2, 2018)          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.        The Bluetooth\u00ae word mark and logos are registered trademarks of Bluetooth SIG, Inc.          Updated Feb 23, 2022                                                                Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/347101.jpg\",\"https://images.monoprice.com/productlargeimages/347102.jpg\",\"https://images.monoprice.com/productlargeimages/347103.jpg\",\"https://images.monoprice.com/productlargeimages/347104.jpg\",\"https://images.monoprice.com/productlargeimages/347105.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 69.99,
+      "sku": "34710",
+      "availability": "https://schema.org/Discontinued",
+      "url": "https://www.monoprice.com/product?p_id=34710",
+      "gtin14": "889028098981"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SB-100 2.1-ch 36in Soundbar with Built-In Subwoofer Bluetooth Optical Input and Remote Control",
+      "ratingCount": "211",
+      "reviewCount": "211",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Sound Bars",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/sound-bars"
+    },
+    {
+      "name": "34710",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/sound-bars/34710"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

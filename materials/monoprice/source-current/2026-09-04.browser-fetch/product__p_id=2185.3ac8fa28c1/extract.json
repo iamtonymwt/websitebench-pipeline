@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 50ft 24AWG CL2 Dual Link DVI-D Cable - Black",
+    "@id": "https://www.monoprice.com/product?p_id=2185",
+    "url": "https://www.monoprice.com/product?p_id=2185",
+    "description": "Digital Visual Interface (DVI) is the standard interface for a high-performance connection between PCs and flat panel displays, digital CRT displays, projectors, and HDTV. The DVI-D Digital Cable delivers the high-performance, high-bandwidth interface needed for video displays of today while leaving headroom for the products of tomorrow. These precision-engineered cables are fully compliant with the DVI standard defined by DDWG (Digital Display Working Group). The DVI-D dual link configuration provides enough bandwidth for resolutions up to 2048 x 1536 and allows high speed digital transmission up to 9.9 Gbps.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/21851.jpg\",\"https://images.monoprice.com/productlargeimages/21852.jpg\",\"https://images.monoprice.com/productlargeimages/21853.jpg\",\"https://images.monoprice.com/productlargeimages/21854.jpg\",\"https://images.monoprice.com/productlargeimages/21855.jpg\",\"https://images.monoprice.com/productlargeimages/21856.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 134.59,
+      "sku": "2185",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2185",
+      "gtin14": "844660021858"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 50ft 24AWG CL2 Dual Link DVI-D Cable - Black",
+      "ratingCount": "881",
+      "reviewCount": "25",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DVI Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables"
+    },
+    {
+      "name": "2185",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables/2185"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

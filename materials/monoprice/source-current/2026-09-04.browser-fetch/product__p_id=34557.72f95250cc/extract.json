@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Blackbird 4K 8x8 HDMI Matrix Switch with HDMI 2.0 Support HDR 18Gbps 8 SPDIF Outputs HDCP2.2 EDID IR RS232 TCP/IP Web based GUI (Open Box)",
+    "@id": "https://www.monoprice.com/product?p_id=34557",
+    "url": "https://www.monoprice.com/product?p_id=34557",
+    "description": "\u00a0Open Box merchandise are products that have been purchased and delivered to other customers, and then returned to Monoprice. Due to the varying quality of products returned, we make every attempt to supply the original accessories for Open Box products. However, Monoprice only guarantees that you will receive the product itself, accessories may or may not be included. Bear in mind that your open box product may not contain cables, adaptors, manuals, CDs, drivers, etc. Additionally, the product may exhibit cosmetic imperfections as a result of its having been previously opened.\u00a0This Blackbird\u2122 4K 8x8 HDMI\u00ae Matrix Switch allows you to independently distribute any of eight HDMI inputs to any of eight displays. It includes an IR remote control and allows for front panel, IR, RS232, and TCP/IP control using the web-based GUI. The LCD screen on the front panel shows the real-time connection status. Rear panel DIP switches allow for manual control of the EDID information sent to the source devices. It features a maximum video resolution of 4K@60Hz 4:4:4, including 1080p 3D video. It is fully compliant with the HDMI 2.0 and HDCP 2.2 standards.Features: Independently distributes any of eight HDMI\u00ae sources to any of eight HDMI displaysIncludes four digital coaxial S/PDIF outputsSupports video resolutions up to 4K@60Hz 4:4:4, including 1080p 3D videoIncludes an IR remote control and allows for front panel, IR, RS232, and TCP/IP control using the web-based GUIFeatures DIP switches for manual EDID managementFront panel LCD screen shows real-time connection informationSupport Files: User's Manual (May 16, 2017)Blackbird\u2122 is a trademark of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/345571.jpg\",\"https://images.monoprice.com/productlargeimages/345572.jpg\",\"https://images.monoprice.com/productlargeimages/345573.jpg\",\"https://images.monoprice.com/productlargeimages/345574.jpg\",\"https://images.monoprice.com/productlargeimages/345575.jpg\",\"https://images.monoprice.com/productlargeimages/345576.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 599.99,
+      "sku": "34557",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=34557",
+      "gtin14": "889028097410"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Blackbird 4K 8x8 HDMI Matrix Switch with HDMI 2.0 Support HDR 18Gbps 8 SPDIF Outputs HDCP2.2 EDID IR RS232 TCP/IP Web based GUI (Open Box)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Matrix",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix"
+    },
+    {
+      "name": "34557",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix/34557"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

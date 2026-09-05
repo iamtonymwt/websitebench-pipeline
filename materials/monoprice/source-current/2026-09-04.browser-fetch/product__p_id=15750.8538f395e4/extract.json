@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 4x4 Video Matrix Switcher with HDMI Supports HDR HDCP 2.2 18Gbps YCbCr 444 ",
+    "@id": "https://www.monoprice.com/product?p_id=15750",
+    "url": "https://www.monoprice.com/product?p_id=15750",
+    "description": "This 4K 4x4 HDMI\u00ae Matrix allows you to distribute any of up to four HDMI video sources to any or all of up to four displays. It complies with the HDMI 2.0 and HDCP\u2122 2.2 specifications, delivers up to 18Gbps video bandwidth, and supports video resolutions up to 4K@60Hz with the YCbCr 4:4:4 color space, including all HDMI 3D video modes. Each output can be individually downscaled to 1080p and each output has a digital coaxial and stereo analog audio output for connecting an external amplifier or powered speakers. It supports the Audio Return Channel (ARC) HDMI feature, which allows audio from the display to be redirected to the digital coaxial output. It includes advanced EDID\u00ae management and can be controlled using the front panel controls, the included IR remote control, or with a computer using RS\u2011232 commands or the built\u2011in Web GUI.Features: Complies with the HDMI\u00ae 2.0, HDCP\u2122 2.2/1.4, and DVI\u2122 1.0 specificationsSupports up to 18Gbps video bandwidthSupports video resolutions up to 4K@60Hz with the YCbCr 4:4:4 color space, including all 3D HDMI video modesEach output can be individually downscaled to 1080pEach output de\u2011embeds the audio from the HDMI signal and directs it to an independent digital coaxial and stereo analog audio outputsSupport the Audio Return Channel (ARC) feature, which directs audio from the connected display to the digital coaxial audio outputSupports advanced EDID\u00ae managementCan be controlled using the front panel controls, the included IR remote control, or with a computer using RS\u2011232 commands or the built\u2011in Web GUI\u00a0Sample Connection DiagramSupport Files: User's Manual (Apr 09, 2024)RS\u2011232 Guide (Feb 10, 2021)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Dolby\u00ae, Dolby Vision\u2122, Dolby Digital\u2122, Dolby Digital Plus\u2122, Dolby TrueHD\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. DVI\u2122 is a trademark of the Digital Display Working Group. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. DTS\u00ae, the Symbol, and DTS and the Symbol together are registered trademarks of DTS, Inc. DTS\u2011HD\u2122 and DTS\u2011HD Master Audio\u2122 are trademarks of DTS, Inc. Updated Feb 2, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/157501.jpg\",\"https://images.monoprice.com/productlargeimages/157502.jpg\",\"https://images.monoprice.com/productlargeimages/157503.jpg\",\"https://images.monoprice.com/productlargeimages/157504.jpg\",\"https://images.monoprice.com/productlargeimages/157505.jpg\",\"https://images.monoprice.com/productlargeimages/157506.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 369.99,
+      "sku": "15750",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15750",
+      "gtin14": "889028038598"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 4x4 Video Matrix Switcher with HDMI Supports HDR HDCP 2.2 18Gbps YCbCr 444 ",
+      "ratingCount": "7",
+      "reviewCount": "7",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Matrix",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix"
+    },
+    {
+      "name": "15750",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix/15750"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

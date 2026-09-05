@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 7x 8W LED PAR RGBW Wash Stage Light with DMX",
+    "@id": "https://www.monoprice.com/product?p_id=612740",
+    "url": "https://www.monoprice.com/product?p_id=612740",
+    "description": "                    Light up your stage performance using this Bright, 8\u2011watt x7 LED, PAR\u2011575 Stage Light (RGBW) from Monoprice\u2122!                    This light features an aluminum shell and seven 8\u2011watt 4\u2011in\u20111 LEDs, which are capable of producing Red, Green, Blue, and White light. Each LED can be independently dimmed, faded, and mixed. The light features built\u2011in programs for dimming and strobe effect. Additionally, it supports standard DMX512 control signals for use as part of a larger light production.                    The light supports master/slave mode, whereby a bank of identical lights can perform the same operation using a single control signal or source.                    The light produces a total of 2625 lumens of lighting power. The following table shows the brightness levels for the different colors at different distances:                                                                      Color                                      Lux Levels at Distance                                                          1m                                      3m                                      5m                                      10m                                                          R                                      2526                                      288                                      88                                      24                                                          G                                      2937                                      412                                      124                                      42                                                          B                                      448                                      70                                      22                                      6.5                                                          W                                      3568                                      608                                      208                                      64                                                          RGBW                                      8400                                      1520                                      420                                      124                                                                                                                                                                                              Support Files:            User's Manual (Mar 17, 2014)          Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 21, 2022                                                                Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6127401.jpg\",\"https://images.monoprice.com/productlargeimages/6127402.jpg\",\"https://images.monoprice.com/productlargeimages/6127403.jpg\",\"https://images.monoprice.com/productlargeimages/6127404.jpg\",\"https://images.monoprice.com/productlargeimages/6127405.jpg\",\"https://images.monoprice.com/productlargeimages/6127406.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 129.99,
+      "sku": "612740",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612740",
+      "gtin14": "757901814358"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 7x 8W LED PAR RGBW Wash Stage Light with DMX",
+      "ratingCount": "32",
+      "reviewCount": "32",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "LED Wash Lights",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights"
+    },
+    {
+      "name": "612740",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights/612740"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 24inch SATA 6Gbps Cable w/Locking Latch - Black",
+    "@id": "https://www.monoprice.com/product?p_id=8779",
+    "url": "https://www.monoprice.com/product?p_id=8779",
+    "description": "Each major revision of the Serial ATA interface specification has doubled the maximum data transfer rate. The latest SATA Revision 3.0 allows for data transfer speeds of up to 6 Gbps.While the cables for all three revisions appear to be similar and will physically fit into the connectors on all SATA drives and controllers, the higher data transfer rate of SATA 6 Gbps requires higher quality materials and closer tolerances than the previous two revisions required.Monoprice SATA 6 Gbps cables are certified to provide maximum speeds from your SATA system, up to 6 Gbps when used with equivalent devices and controllers.Each end of this internal cable features a straight connector with an attached locking latch, to ensure that your connections do not come loose due to movement or vibration.Note that SATA 6 Gbps cables are backwards compatible and can be used with SATA 3 Gbps and SATA 1.5 Gbps devices. However, the data transfer of the SATA subsystem will be limited to that of the slowest device. So, for example, if a SATA 6 Gbps cable is connected to a SATA 3 Gbps drive and a SATA 1.5 Gbps controller, the drive will be limited to a transfer rate of 1.5 Gbps. ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/87791.jpg\",\"https://images.monoprice.com/productlargeimages/87792.jpg\",\"https://images.monoprice.com/productlargeimages/87793.jpg\",\"https://images.monoprice.com/productlargeimages/87794.jpg\",\"https://images.monoprice.com/productlargeimages/87795.jpg\",\"https://images.monoprice.com/productlargeimages/87796.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2.19,
+      "sku": "8779",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8779",
+      "gtin14": "844660087793"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 24inch SATA 6Gbps Cable w/Locking Latch - Black",
+      "ratingCount": "258",
+      "reviewCount": "19",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "SATA Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables"
+    },
+    {
+      "name": "8779",
+      "url": "https://www.monoprice.com/category/cables/data-cables/sata-cables/8779"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

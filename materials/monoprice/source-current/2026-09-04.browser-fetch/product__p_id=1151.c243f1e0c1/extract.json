@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DB-9M/RJ45 Modular Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=1151",
+    "url": "https://www.monoprice.com/product?p_id=1151",
+    "description": "Features:DIY solution for using 8 conductor Cat5 cables to extend your Serial (DB9)* connections8 pin adapter*DB9 (common name)\u00a0a.k.a DE9 (proper designation)Support Files: Pinout and Dimensions Diagram (Dec 21, 2010)\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/11511.jpg\",\"https://images.monoprice.com/productlargeimages/11512.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "1151",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1151",
+      "gtin14": "844660011514"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DB-9M/RJ45 Modular Adapter",
+      "ratingCount": "14",
+      "reviewCount": "14",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Gender Changers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers"
+    },
+    {
+      "name": "1151",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers/1151"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

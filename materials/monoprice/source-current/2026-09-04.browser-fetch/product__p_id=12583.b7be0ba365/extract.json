@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cable Plate with Flexible Opening 2-Gang Black",
+    "@id": "https://www.monoprice.com/product?p_id=12583",
+    "url": "https://www.monoprice.com/product?p_id=12583",
+    "description": "Keep your low-voltage cable runs looking neat and tidy using this 2-Gang Cable plate with Flexible Openings from Monoprice!This low-voltage wall plate features two flexible openings, which allow you to neatly route up to twelve (12) low-voltage signal cables through your wall. It includes mounting wings, so you can attach it directly to drywall without requiring the use of a separate low-voltage mounting bracket.Features: Low profile design fits behind the industry's thinnest mounts and TVsConceal multiple low voltage cables behind your flat panel TVEasily holds up to 12 cablesAvailable in 4 colors: black, ivory, lite almond, whiteQuick and easy to installMounting wings are molded into the media plate and fasten tightly against the back of the drywallNo low voltage mounting plate or old work ring requiredNo additional parts necessaryNote that for safety purposes, you must use cable rated for in-wall, riser, or plenum use when running cables inside your wall. Failure to do so could result in a fire hazard and invalidate any fire insurance claims. Support Files: Quick Installation Guide (Aug 25, 2025)Sales Sheet (Aug 25, 2025)Tech Drawing (Aug 25, 2025)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/125831.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "12583",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12583",
+      "gtin14": "889028005774"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cable Plate with Flexible Opening 2-Gang Black",
+      "ratingCount": "19",
+      "reviewCount": "0",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "12583",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/12583"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

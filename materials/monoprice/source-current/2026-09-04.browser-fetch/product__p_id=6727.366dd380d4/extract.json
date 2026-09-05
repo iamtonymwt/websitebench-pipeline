@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1-Gang Wall Plate for Keystone 2-Port White  4.5x2.75x0.2 w/Screws (White Coated Screw Head)",
+    "@id": "https://www.monoprice.com/product?p_id=6727",
+    "url": "https://www.monoprice.com/product?p_id=6727",
+    "description": "Wall plate for use in conjunction with gang box and keystones. Use appropriate keystones to create a nicely finished, professionally installed look for Ethernet networks or Home Theater interconnects. Eliminate that cluster of wires and hide them behind a wall.*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/67271.jpg\",\"https://images.monoprice.com/productlargeimages/67272.jpg\",\"https://images.monoprice.com/productlargeimages/67273.jpg\",\"https://images.monoprice.com/productlargeimages/67274.jpg\",\"https://images.monoprice.com/productlargeimages/67275.jpg\",\"https://images.monoprice.com/productlargeimages/67276.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 0.99,
+      "sku": "6727",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6727",
+      "gtin14": "844660067276"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1-Gang Wall Plate for Keystone 2-Port White  4.5x2.75x0.2 w/Screws (White Coated Screw Head)",
+      "ratingCount": "481",
+      "reviewCount": "135",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystone Wall Plates",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates"
+    },
+    {
+      "name": "6727",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystone-wall-plates/6727"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

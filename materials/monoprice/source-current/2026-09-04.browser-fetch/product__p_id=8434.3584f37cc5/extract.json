@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Keystone Jack - Banana Jack w/Black Ring (Screw Type) - White",
+    "@id": "https://www.monoprice.com/product?p_id=8434",
+    "url": "https://www.monoprice.com/product?p_id=8434",
+    "description": "Keystone jack to be used with keystone wall plates or panels.Matches white wall plates.Black plastic color code ring.Front accepts banana plugs, spades or bare wire.Keystone jacks and wall plates are used when you desire to run wiring in-wall to create a cleaner, less cluttered media room.Banana plugs and jacks are used to terminate speaker wires.\u00a0\u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.\u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/84341.jpg\",\"https://images.monoprice.com/productlargeimages/84342.jpg\",\"https://images.monoprice.com/productlargeimages/84343.jpg\",\"https://images.monoprice.com/productlargeimages/84344.jpg\",\"https://images.monoprice.com/productlargeimages/84345.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "8434",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8434",
+      "gtin14": "844660084341"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Keystone Jack - Banana Jack w/Black Ring (Screw Type) - White",
+      "ratingCount": "19",
+      "reviewCount": "19",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-keystones"
+    },
+    {
+      "name": "8434",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-keystones/8434"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

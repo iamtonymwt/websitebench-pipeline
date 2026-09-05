@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6 Meter (20ft) 4-Channel (2 upstream & 2 downstream) XLR Male to XLR Female Snake Cable",
+    "@id": "https://www.monoprice.com/product?p_id=601394",
+    "url": "https://www.monoprice.com/product?p_id=601394",
+    "description": "Connect two upstream and two downstream channels of audio between equipment with XLR jacks using this 4-Channel (2 Upstream, 2 Downstream) XLR Male to XLR Female Snake Cable from Monoprice!This snake cable features four balanced mono or unbalanced stereo lines with color coded wires (red, white, green, and blue). Each wire is constructed of a pair of 26 AWG conductors with aluminum foil shielding to protect from stray EM and RF interference.Two of the XLR connectors at each end are male and the other two are female. This allows to cable to carry two upstream and two downstream channels of audio material.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6013941.jpg\",\"https://images.monoprice.com/productlargeimages/6013942.jpg\",\"https://images.monoprice.com/productlargeimages/6013943.jpg\",\"https://images.monoprice.com/productlargeimages/6013944.jpg\",\"https://images.monoprice.com/productlargeimages/6013945.jpg\",\"https://images.monoprice.com/productlargeimages/6013946.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "601394",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=601394",
+      "gtin14": "757901810084"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6 Meter (20ft) 4-Channel (2 upstream & 2 downstream) XLR Male to XLR Female Snake Cable",
+      "ratingCount": "19",
+      "reviewCount": "12",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Snake Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables"
+    },
+    {
+      "name": "601394",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables/601394"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SSVC-4.1 Single Input 4-Channel Speaker Selector with Volume Control",
+    "@id": "https://www.monoprice.com/product?p_id=38159",
+    "url": "https://www.monoprice.com/product?p_id=38159",
+    "description": "                    The SSVC\u20114.1 Speaker Selector is a resistor\u2011based, impedance matching speaker selector used for connecting up to four pairs of 4\u2011ohm or 8\u2011ohm speakers, while maintaining a safe impedance load for your amplifier or receiver. Each pair of speakers can be independently turned on or off using push buttons on the front panel, with no need for worrying about amplifier loading. Each zone features an independent volume control.                              Features:                            Connect and safely control multiple speaker pairs with a single amplifier        Automatic impedance protection circuitry        100 watts/channel continuous power handling capacity, 200 watts/channel peak        5\u2011ohm minimum amplifier impedance with four 4\u2011ohm speakers selected, 6\u2011ohm minimum with 8\u2011ohm speakers        Individual zone on/off buttons and volume controls        Heavy\u2011duty screw\u2011type connectors supporting 12\u201118 AWG speaker wire        Isolated left/right circuit grounds provide safe connection for amplifiers with floating grounds or bridged configurations        Accurate, noise\u2011free switching                                                                                                                                                          Support Files:      Quick Install Guide (Jul 3, 2019)          Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.          Updated Mar 9, 2022                                                                Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381591.jpg\",\"https://images.monoprice.com/productlargeimages/381592.jpg\",\"https://images.monoprice.com/productlargeimages/381593.jpg\",\"https://images.monoprice.com/productlargeimages/381594.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 179.99,
+      "sku": "38159",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38159",
+      "gtin14": "889028123096"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SSVC-4.1 Single Input 4-Channel Speaker Selector with Volume Control",
+      "ratingCount": "21",
+      "reviewCount": "21",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38159",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38159"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

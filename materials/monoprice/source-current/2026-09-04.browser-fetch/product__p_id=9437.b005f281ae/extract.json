@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 5 PAIRS OF High-Quality Gold Plated Speaker Banana Plugs Open Screw Type",
+    "@id": "https://www.monoprice.com/product?p_id=9437",
+    "url": "https://www.monoprice.com/product?p_id=9437",
+    "description": "Banana plugs revolutionize the process of speaker installation, offering a convenient solution for connecting amplifiers or speakers equipped with traditional binding posts. These Monoprice High-Quality Gold Plated Speaker Banana Plugs, Open Screw Type, provide an array of benefits that simplify and enhance your audio setup.Gone are the days of struggling to make connections on the rear panel of your amplifier. With these banana plugs, you can effortlessly establish a secure and reliable link between your audio components. Their open screw design eliminates the risk of stray wire strands causing a short circuit and ensures a cleaner, more efficient connection.Versatility is a key feature of these high-quality banana plugs. They can accommodate a variety of wiring options, accepting bare wires, spades, or other banana plugs. No matter your preferred connection method, these plugs have got you covered. They are specifically designed to fit speaker wires ranging from 12 to 18 AWG, accommodating a wide range of speaker setups.Maintaining proper polarity is crucial for achieving optimal sound reproduction. To make this task effortless, each pair of plugs is color coded with one plug featuring a red ring and the other a black ring. This simple yet effective system allows for easy identification of positive and negative terminals, ensuring correct alignment and eliminating any confusion during installation.Durability and reliability are paramount when it comes to audio connections. These banana plugs feature a sturdy brass body, which is further enhanced with a 24K gold plating. This gold plating not only enhances the aesthetic appeal of the plugs but also serves as a barrier against corrosion. By preventing oxidation and ensuring smooth connections, the gold plating guarantees a long-lasting, high-performance audio experience.When you purchase these Monoprice High-Quality Gold Plated Speaker Banana Plugs, you receive five pairs, amounting to a total of ten plugs. This generous quantity allows you to outfit multiple speakers or amplifiers in your setup, providing consistency and convenience across your entire audio system.In conclusion, these banana plugs offer a seamless and safe solution for connecting speakers and amplifiers with traditional binding posts. With their open screw design, versatility in accepting various wire types, color-coded polarity identification, corrosion-resistant gold plating, and ample quantity per order, these Monoprice High-Quality Gold Plated Speaker Banana Plugs are a reliable and indispensable addition to any audio enthusiast's toolkit.Features: Can accept bare wire, spades, or other banana plugsCan accept 12 to 18 AWG speaker wiresColor coded black/red rings for maintaining proper polaritySecure, positive contact with binding postsCorrosion resistant, 24K gold plated brass plugEach order includes FIVE pairs (10 plugs total)Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/94371.jpg\",\"https://images.monoprice.com/productlargeimages/94372.jpg\",\"https://images.monoprice.com/productlargeimages/94373.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 13.99,
+      "sku": "9437",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9437",
+      "gtin14": "844660094371"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 5 PAIRS OF High-Quality Gold Plated Speaker Banana Plugs Open Screw Type",
+      "ratingCount": "627",
+      "reviewCount": "208",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Banana Plugs",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs"
+    },
+    {
+      "name": "9437",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs/9437"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

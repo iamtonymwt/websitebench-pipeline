@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Expandable Media Box with Duplex Receptacle White",
+    "@id": "https://www.monoprice.com/product?p_id=12595",
+    "url": "https://www.monoprice.com/product?p_id=12595",
+    "description": "Manage your power and signal cables behind your flat screen TV using this Expandable Media Box with Duplex Receptacle from Monoprice\u2122!This commercial grade media box features a NEMA\u00ae 5\u201115 duplex power outlet, which is rated for 15 amps and 125 VAC. The box has an opening opposite the power outlet, which can be used for multiple cable pass\u2011through or for a keystone installation. The kit includes a Flexible Opening plate for cable pass\u2011through, a 6\u2011port Keystone plate, and a Blank plate in case you don't want to use that section. It also features openings in the top and bottom for running low\u2011voltage signal cables. It includes metal mounting wings, so you can attach it directly to drywall without requiring the use of a separate low\u2011voltage mounting bracket.Features: Low profile design fits behind the industry's thinnest mounts and TVsConceal multiple AV cables and accessories behind your HDTV or other display deviceWall box storage capacity increases by 75% when the expandable portion is extended into the wallIncludes openings in the top and in the bottomThree (3) interchangeable plates are included to cover these openings, allowing for multiple configuration optionsThree (3) plates included: Flexible Opening Plate, 6\u2011Port Keystone Plate, and Blank Plate15 Amp/125 Volt Tamper\u2011resistant Duplex ReceptacleOutlet box includedMetal mounting wings are attached to the media plate and fasten tightly against the back of the drywallQuick and easy to installNote that for safety purposes, you must use cable rated for in\u2011wall, riser, or plenum use when running cables inside your wall. Failure to do so could result in a fire hazard and invalidate any fire insurance claims. Support Files: Quick Installation Guide (Sep 7, 2025)Sales Sheet (Aug 25, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. Updated Jan 26, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/125951.jpg\",\"https://images.monoprice.com/productlargeimages/125952.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 47.99,
+      "sku": "12595",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=12595",
+      "gtin14": "889028005897"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Expandable Media Box with Duplex Receptacle White",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "12595",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/12595"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Standard HDMI Cable with HDMI Mini Connector - 1080i@60Hz 4.95Gbps 30AWG 10ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=7648",
+    "url": "https://www.monoprice.com/product?p_id=7648",
+    "description": "Connect your HD camcorder directly to your television using this Standard HDMI\u00ae Cable with HDMI Mini Connector from Monoprice!This Standard HDMI Cable features an HDMI Mini Connector (Type C) on the source end and a regular HDMI Connector (Type A) on the other end. It supports the following general features:HDMI Mini Connector at source end4.95Gbps data throughput30AWG copper conductorsFull size HDMI connector head measures only 16.5mm thick and 25.0mm wideHDMI Mini connector head measures only 13.7mm thick and 19.0mm wideGold plated connectorsIt supports the following HDMI features:720p/1080i resolution at 60HzDeep Color up to 16-bits per channelx.v.Color\u2122High Definition Audio, including SA-CD, DVD-Audio, DTS-HD Master Audio\u2122, and Dolby TrueHD\u2122Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. x.v.Color\u2122 is a trademark of Sony Corporation. DTS\u00ae is a registered trademark and the DTS logos, Symbol, DTS-HD\u2122, and DTS-HD Master Audio\u2122 are trademarks of DTS, Inc. Dolby\u00ae and the double-D symbol are registered trademarks of Dolby Laboratories. Dolby TrueHD\u2122 is a trademark of Dolby Laboratories. Updated Sep 2, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/76481.jpg\",\"https://images.monoprice.com/productlargeimages/76482.jpg\",\"https://images.monoprice.com/productlargeimages/76483.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "7648",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7648",
+      "gtin14": "844660076483"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Standard HDMI Cable with HDMI Mini Connector - 1080i@60Hz 4.95Gbps 30AWG 10ft Black",
+      "ratingCount": "184",
+      "reviewCount": "98",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "Micro & Mini HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/micro-&-mini-hdmi-cables"
+    },
+    {
+      "name": "7648",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/micro-&-mini-hdmi-cables/7648"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

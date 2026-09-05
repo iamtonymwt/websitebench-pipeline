@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3ft SVGA Super VGA M/M Monitor Cable with Ferrites (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=2898",
+    "url": "https://www.monoprice.com/product?p_id=2898",
+    "description": "Despite the introduction of DVI\u00e2\u201e\u00a2 and HDMI\u00ae, the common VGA connection is still the primary connection for most computer monitors.This double-shielded cable is designed to handle analog VGA and extended VGA resolutions. It features gold-plated male DE-15 (aka HD-15 or DB-15) connectors on each end for smooth, corrosion-free connections. It includes ferrite cores at each end, which ensure that EMI and RFI interference will not enter your video system.DVI\u00e2\u201e\u00a2 is a trademark of the Digital Display Working Group. HDMI\u00c2\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Updated Sep 4, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/28981.jpg\",\"https://images.monoprice.com/productlargeimages/28982.jpg\",\"https://images.monoprice.com/productlargeimages/28983.jpg\",\"https://images.monoprice.com/productlargeimages/28984.jpg\",\"https://images.monoprice.com/productlargeimages/28985.jpg\",\"https://images.monoprice.com/productlargeimages/28986.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.89,
+      "sku": "2898",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2898",
+      "gtin14": "844660028987"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3ft SVGA Super VGA M/M Monitor Cable with Ferrites (Gold Plated)",
+      "ratingCount": "572",
+      "reviewCount": "78",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "VGA & SVGA Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables"
+    },
+    {
+      "name": "2898",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables/2898"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

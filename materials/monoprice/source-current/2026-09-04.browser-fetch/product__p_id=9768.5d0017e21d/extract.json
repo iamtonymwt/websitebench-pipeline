@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6ft Designed for Mobile 3.5mm Stereo Male to RCA Stereo Male (Gold Plated) - Black",
+    "@id": "https://www.monoprice.com/product?p_id=9768",
+    "url": "https://www.monoprice.com/product?p_id=9768",
+    "description": "So you've got a smartphone filled with your favorite tunes. You put a case on your phone to protect it from scratches, but now your 3.5 mm audio cable won't fit into the headphone jack. Now what?Now you get one of these 3.5 mm cables designed for mobile devices! The 3.5 mm connectors on this cable are designed with a 3 mm long by 6 mm diameter shank between the electrical connection and the connector housing. The 3 mm shank length is sufficient to penetrate through the thickness of any protective case, while the 6 mm diameter is thin enough to fit into the hole of any case. The connectors are gold plated for smooth, corrosion-free connections.This cable has a 3.5 mm stereo male plug on one end and a pair of stereo RCA plugs on the other, allowing you to connect your mobile device to your home audio system.                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/97681.jpg\",\"https://images.monoprice.com/productlargeimages/97682.jpg\",\"https://images.monoprice.com/productlargeimages/97683.jpg\",\"https://images.monoprice.com/productlargeimages/97684.jpg\",\"https://images.monoprice.com/productlargeimages/97685.jpg\",\"https://images.monoprice.com/productlargeimages/97686.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.99,
+      "sku": "9768",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=9768",
+      "gtin14": "844660097686"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6ft Designed for Mobile 3.5mm Stereo Male to RCA Stereo Male (Gold Plated) - Black",
+      "ratingCount": "402",
+      "reviewCount": "118",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "9768",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/9768"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 8x8 Video Matrix Switcher with HDMI plus Web based GUI IR and RS-232 Control",
+    "@id": "https://www.monoprice.com/product?p_id=24180",
+    "url": "https://www.monoprice.com/product?p_id=24180",
+    "description": "This Blackbird\u2122 4K 8x8 HDMI\u00ae Matrix allows you to independently distribute any of up to eight HDMI sources to any or all of eight HDMI displays. It is compliant with the HDMI 2.0 and HDCP\u2122 2.3 standards and supports video resolutions up to 4K@60Hz with YCbCr 4:4:4 color space with support for HDR10 and Dolby Vision\u2122. Four of the eight outputs support video downscaling to 1080p and all 16 HDMI ports can provide 5 VDC, 500mA of power for use with Active Optical Cables (AOC).It features eight sets of audio outputs, each of which has a digital optical S/PDIF connector and a stereo pair of RCA jacks. Each audio output channel can be independently assigned to output audio de\u2011embedded from any of the HDMI inputs or outputs. It has advanced EDID\u00ae management and advanced HDCP handling for broader compatibility with a wide range of video source devices and output displays. It can be controlled using the front panel buttons, the included IR remote control, or with a computer using the built\u2011in web GUI or with RS\u2011232 control commands.Features: Independently distributes any of eight HDMI\u00ae inputs to any of eight HDMI outputsCompliant with the HDMI 2.0 and HDCP\u2122 2.3 standardsSupports input and output video resolutions up to 4K@60Hz with YCbCr 4:4:4 color spaceSupports up to 18 Gbps video bandwidthSupports HDR10 and Dolby Vision\u2122Includes eight audio output channels, each of which has a digital optical S/PDIF connector and a stereo pair of RCA jacksEach audio output channel can be independently assigned to output audio de\u2011embedded from any of the HDMI inputs or outputsIt has advanced EDID\u00ae management and advanced HDCP handlingFour of the eight outputs support video downscaling to 1080p@60HzEach HDMI input and output port provides 5 VDC, 500mA of power for use with Active Optical Cables (AOC)It can be controlled using the front panel buttons, the included IR remote control, or with a computer using the built\u2011in web GUI or with RS\u2011232 control commands\u00a0\u00a0Support Files: User's Manual (Oct 14, 2020)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. Dolby\u00ae, Dolby Vision\u2122, and the double\u2011D symbol are trademarks of Dolby Laboratories. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. Blu\u2011ray Disc\u2122, Blu\u2011ray\u2122, and the logos are trademarks of the Blu\u2011ray Disc Association. Updated Feb 4, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/241801.jpg\",\"https://images.monoprice.com/productlargeimages/241802.jpg\",\"https://images.monoprice.com/productlargeimages/241803.jpg\",\"https://images.monoprice.com/productlargeimages/241804.jpg\",\"https://images.monoprice.com/productlargeimages/241805.jpg\",\"https://images.monoprice.com/productlargeimages/241806.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 988.99,
+      "sku": "24180",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24180",
+      "gtin14": "889028053140"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 8x8 Video Matrix Switcher with HDMI plus Web based GUI IR and RS-232 Control",
+      "ratingCount": "11",
+      "reviewCount": "11",
+      "ratingValue": "3.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Matrix",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix"
+    },
+    {
+      "name": "24180",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix/24180"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

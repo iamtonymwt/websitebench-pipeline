@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 8x8 Video Matrix with HDMI Includes 6 Extenders over HDBaseT up to 70m Supports RS-232 HDR HDCP2.2 YCbCr 444",
+    "@id": "https://www.monoprice.com/product?p_id=39670",
+    "url": "https://www.monoprice.com/product?p_id=39670",
+    "description": "This Blackbird\u2122 4K 8x8 HDBaseT\u2122 Matrix features 8 HDMI\u00ae inputs, 2 HDMI outputs, 6 HDBaseT outputs, and 4 digital optical S/PDIF audio outputs. It supports video resolutions up to 4K@60Hz with YCbCr 4:4:4 and can transmit 4K video to distances up to 131 feet (40 meters) and 1080p video to distances up to 229 feet (70 meters) over a single Cat5e/6 Ethernet cable. Audio extracted from the HDMI inputs, HDBaseT outputs, and Audio Return Channel (ARC) output from the HDBaseT receivers can be output using the 4 digital optical S/PDIF audio connectors. It supports bidirectional IR extension and features front panel buttons, IR remote control, RS\u2011232, and Web GUI control options. It supports the Power over Cable (PoC) feature, which allows the receivers to draw their power from the matrix over the Ethernet cable. It includes smart EDID\u00ae management using the 4\u2011pin DIP switch on the rear panel.Features: Supports HDMI\u00ae resolutions up to 4K@60Hz with YCbCr 4:4:4 HDR, including 1080p@60Hz and 3D videoFully compliant with the HDMI 2.0 and HDCP\u2122 2.2 specificationsCan transmit 4K signals to distances up to 131 feet (40 meters) and 1080p signals to distances up to 229 feet (70 meters) over a single Cat5e/6 Ethernet cableFeatures 6 HDBaseT\u2122 outputs and includes 6 receiversSupports the 24V Power over Cable (PoC) feature, allowing the receivers to draw their power from the matrix over the Ethernet cableIncludes two HDMI outputs for connecting local displaysAudio from the HDMI inputs, HDBaseT and HDMI outputs, and Audio Return Channel (ARC) audio from the receivers can be output to 4 digital optical S/PDIF audio outputsIncludes smart EDID\u00ae management using the 4\u2011pin DIP switch on the rear panelCan be controlled using the front panel controls, the included IR remote control, or with a computer using an RS\u2011232 or Ethernet connectionSample Connection Diagram\u00a0Support Files: User's Manual (Jan 9, 2020)RS\u2011232 Guide (Feb 10, 2021)House of Worship Comparison Matrix (Mar 18, 2021)Restaurants and Hospitalities Comparison Matrix (Mar 18, 2021)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDBaseT\u2122 and the HDBaseT Alliance logo are trademarks of the HDBaseT Alliance. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. HDCP\u2122 is a trademark of Digital Content Protection LLC. Blu\u2011ray Disc\u2122, Blu\u2011ray\u2122, and the logos are trademarks of the Blu\u2011ray Disc Association. Updated Mar 10 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/396701.jpg\",\"https://images.monoprice.com/productlargeimages/396702.jpg\",\"https://images.monoprice.com/productlargeimages/396703.jpg\",\"https://images.monoprice.com/productlargeimages/396704.jpg\",\"https://images.monoprice.com/productlargeimages/396705.jpg\",\"https://images.monoprice.com/productlargeimages/396706.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 2033.99,
+      "sku": "39670",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39670",
+      "gtin14": "889028138533"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 8x8 Video Matrix with HDMI Includes 6 Extenders over HDBaseT up to 70m Supports RS-232 HDR HDCP2.2 YCbCr 444",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "HDBaseT",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset"
+    },
+    {
+      "name": "39670",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset/39670"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

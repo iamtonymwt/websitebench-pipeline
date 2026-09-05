@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice Adjustable 27 - 45in Studio Monitor Speaker Stands w/ Antislip Pads & 130lbs Weight Capacity (pair)",
+    "@id": "https://www.monoprice.com/product?p_id=625870",
+    "url": "https://www.monoprice.com/product?p_id=625870",
+    "description": "Getting a good mix, or being able to mix accurately, depends not just on your monitors, but their placement as well. Finding the room sweet spot can make your mixes and a good set of stands can be the most affordable way to doing so. Stage Right\u2122 studio monitor stands provide the placement flexibility to help you find your room's listening and mixing sweet spot.Stage Right\u2122 studio monitor stands feature a 9\"x9\" platform that is large enough for all common studio monitors with (up to 8\" woofer). Additionally, they can extend up to 45\" in height, providing the most flexibility of any monitor placement option. With a 15\" triangular base, these monitor stands provide sufficient stability to support up to a 130 lbs. of weight. Stage Right studio monitor stands will keep your monitors safe and in the right place.Features: Supports up to 130 lbs. of weightTop plate measures 9\"x9\"Adjustable height from 27\" ~ 45\"15\" triangular baseStage Right\u2122 and the Stage Right logo are trademarks of Monoprice Inc. Updated Apr 23, 2020 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6258701.jpg\",\"https://images.monoprice.com/productlargeimages/6258702.jpg\",\"https://images.monoprice.com/productlargeimages/6258703.jpg\",\"https://images.monoprice.com/productlargeimages/6258704.jpg\",\"https://images.monoprice.com/productlargeimages/6258705.jpg\",\"https://images.monoprice.com/productlargeimages/6258706.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 58.99,
+      "sku": "625870",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=625870",
+      "gtin14": "889028151525"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice Adjustable 27 - 45in Studio Monitor Speaker Stands w/ Antislip Pads & 130lbs Weight Capacity (pair)",
+      "ratingCount": "40",
+      "reviewCount": "40",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Studio Sound & Accessories",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories"
+    },
+    {
+      "name": "Studio Stands",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-stands"
+    },
+    {
+      "name": "625870",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-stands/625870"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

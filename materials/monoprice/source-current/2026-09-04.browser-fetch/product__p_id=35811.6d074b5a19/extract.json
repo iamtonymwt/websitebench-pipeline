@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice On Tour Cables - XLR Male to RCA Male 24AWG Black 1ft",
+    "@id": "https://www.monoprice.com/product?p_id=35811",
+    "url": "https://www.monoprice.com/product?p_id=35811",
+    "description": "Monoprice's Stage Right\u00e2\u201e\u00a2 line of professional audio cables brings you high performance cables at rock bottom prices. Whether you're connecting broadcast equipment, instruments for your band, or your high end entertainment system, Monoprice has the interconnect cables for you.Stage Right by Monoprice On Tour Cables continue our tradition of bringing the highest quality cables at the best prices. These cables feature thick, heavy gauge wires, gold plated connectors, and sturdy connector housings meant to be taken on the road.Features: Featuring robust and professional quality connectors and pure bare copper conductorsIdeal for connecting audio devices with the XLR audio port to AV receiver, amplifier, hi-fi stereo audio system, home theater system, computer sound, and other recording equipmentBacked by Monoprice's lifetime warrantyStage Right\u00e2\u201e\u00a2 and the Stage Right logo are trademarks of Monoprice Inc. Updated Oct 14, 2019 \u00a0                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/358111.jpg\",\"https://images.monoprice.com/productlargeimages/358112.jpg\",\"https://images.monoprice.com/productlargeimages/358113.jpg\",\"https://images.monoprice.com/productlargeimages/358114.jpg\",\"https://images.monoprice.com/productlargeimages/358115.jpg\",\"https://images.monoprice.com/productlargeimages/358116.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "35811",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35811",
+      "gtin14": "889028110225"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice On Tour Cables - XLR Male to RCA Male 24AWG Black 1ft",
+      "ratingCount": "3",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "35811",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/35811"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-C Car Charger 45W 2-port PD White Power Delivery for MacBook Pro/Air iPad Pro iPhone 16/15/14/Plus/Pro/Pro Max Pixel Galaxy and More",
+    "@id": "https://www.monoprice.com/product?p_id=41989",
+    "url": "https://www.monoprice.com/product?p_id=41989",
+    "description": "Rid yourself of outdated chargers along with their single ports and slow charging speeds. Upgrade to an efficient, safe, and powerful Dual USB Type-C\u00ae car charger with Power Delivery technology from Monoprice\u2122!Featuring a total of 45W of Power Delivery (PD), this car charger provides the fastest and most efficient charging for Apple\u00ae iPhone\u00ae and iPad\u00ae, Samsung\u00ae Galaxy S\u00ae and Galaxy Tab\u00ae, other Android\u2122 phones and tablets, MacBook Air, MacBook Pro, and other laptops.USB Type-C\u00ae outputCombined total of 45W Power Delivery (PD)Can charge phones, tablets, and USB-C\u00ae laptopsCan charge 2 devices simultaneously\u00a0   1 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB Type-C\u00ae and USB-C\u00ae are registered trademarks of USB Implementers Forum. Apple\u00ae, iPhone\u00ae, iPad\u00ae, iPad Pro\u00ae, Mac\u00ae, MacBook\u00ae, MacBook Pro\u00ae, and MacBook Air\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Samsung\u00ae, Galaxy S\u00ae, and Galaxy Tab\u00ae are registered trademarks of Samsung Electronics Co., Ltd. Google\u2122, Pixel\u2122, and Android\u2122 are trademarks of Google LLC. Updated Apr 6, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/419891.jpg\",\"https://images.monoprice.com/productlargeimages/419892.jpg\",\"https://images.monoprice.com/productlargeimages/419893.jpg\",\"https://images.monoprice.com/productlargeimages/419894.jpg\",\"https://images.monoprice.com/productlargeimages/419895.jpg\",\"https://images.monoprice.com/productlargeimages/419896.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 18.99,
+      "sku": "41989",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41989",
+      "gtin14": "889028162644"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-C Car Charger 45W 2-port PD White Power Delivery for MacBook Pro/Air iPad Pro iPhone 16/15/14/Plus/Pro/Pro Max Pixel Galaxy and More",
+      "ratingCount": "22",
+      "reviewCount": "22",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mobile",
+      "url": "https://www.monoprice.com/category/pages/9"
+    },
+    {
+      "name": "Charging",
+      "url": "https://www.monoprice.com/category/mobile/charging"
+    },
+    {
+      "name": "USB Car Chargers",
+      "url": "https://www.monoprice.com/category/mobile/charging/usb-car-chargers"
+    },
+    {
+      "name": "41989",
+      "url": "https://www.monoprice.com/category/mobile/charging/usb-car-chargers/41989"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

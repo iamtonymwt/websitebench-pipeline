@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K60 Video Extender with HDMI over Cat6/6a up to 60m",
+    "@id": "https://www.monoprice.com/product?p_id=24281",
+    "url": "https://www.monoprice.com/product?p_id=24281",
+    "description": "This Blackbird\u2122 4K HDMI\u00ae Extender can extend HDMI signals to distances up to 164 feet (50 meters) over a single Cat6 Ethernet cable. It supports video resolutions up to 4K@60Hz YCbCr 4:4:4 with support for HDCP\u2122 2.2/1.4. It features 18Gbps bandwidth and supports all the features of the HDMI 2.0 specification. It also features one\u2011way IR pass\u2011through, which allows for video source control from the remote location. The transmitter has an HDMI loop\u2011through output, so you can connect a local display.Features: Compliant with the HDMI\u00ae 2.0, HDCP\u2122 2.2/1.4, and DVI\u2122 1.0 specificationsSupports 18Gbps bandwidthSupports input and output video resolution up to 4K@60Hz YCbCr 4:4:4Extends HDMI signals to distances up to 229 feet (70 meters) over a single Ethernet cableIncludes an HDMI loop\u2011through outputSupports one\u2011way IR pass\u2011throughSupports IR signals in the 20 ~ 60 kHz rangeSupports HDR videoSupports the Power over Cable (PoC) feature, allowing the transmitter or receiver to get its power over the Ethernet cableSupports automatic EDID\u00ae copy from the connected displaySupport Files: User's Manual (Jul 17, 2020)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. DVI\u2122 is a trademark of the Digital Display Working Group. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. Blu\u2011ray Disc\u2122 and Blu\u2011ray\u2122 are trademarks of the Blu\u2011ray Disc Association. Updated Feb 10, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/242811.jpg\",\"https://images.monoprice.com/productlargeimages/242812.jpg\",\"https://images.monoprice.com/productlargeimages/242813.jpg\",\"https://images.monoprice.com/productlargeimages/242814.jpg\",\"https://images.monoprice.com/productlargeimages/242815.jpg\",\"https://images.monoprice.com/productlargeimages/242816.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 124.99,
+      "sku": "24281",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24281",
+      "gtin14": "889028054116"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K60 Video Extender with HDMI over Cat6/6a up to 60m",
+      "ratingCount": "16",
+      "reviewCount": "16",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Extenders",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders"
+    },
+    {
+      "name": "24281",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders/24281"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

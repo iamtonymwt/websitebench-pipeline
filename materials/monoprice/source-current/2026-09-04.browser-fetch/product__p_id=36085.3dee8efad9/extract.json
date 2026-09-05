@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "USB Type C to HDMI 3.1 Cable - 5Gbps 4K@30Hz Black 9ft",
+    "@id": "https://www.monoprice.com/product?p_id=36085",
+    "url": "https://www.monoprice.com/product?p_id=36085",
+    "description": "Connect an HDMI\u00ae display at resolutions up to 3840x2160p @30Hz to mirror your laptop's display or to expand your system's desktop area. This cable is truly Plug & Play, with no need for drivers or software installations of any kind. Just plug the reversible USB-C\u2122 connector into your computer's video output and connect to your HDMI display.HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. USB Type-C\u2122 and USB-C\u2122 is a trademark of USB Implementers Forum, Inc. ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/360851.jpg\",\"https://images.monoprice.com/productlargeimages/360852.jpg\",\"https://images.monoprice.com/productlargeimages/360853.jpg\",\"https://images.monoprice.com/productlargeimages/360854.jpg\",\"https://images.monoprice.com/productlargeimages/360855.jpg\",\"https://images.monoprice.com/productlargeimages/360856.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.09,
+      "sku": "36085",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=36085",
+      "gtin14": "889028113318"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "USB Type C to HDMI 3.1 Cable - 5Gbps 4K@30Hz Black 9ft",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "36085",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/36085"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

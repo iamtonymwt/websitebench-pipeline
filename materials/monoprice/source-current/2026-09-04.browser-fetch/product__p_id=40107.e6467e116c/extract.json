@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Essential Full Motion TV Wall Mount Bracket For 42 To 75 TVs up to 110lbs Max VESA 400x400 Enabled for Portrait Mode",
+    "@id": "https://www.monoprice.com/product?p_id=40107",
+    "url": "https://www.monoprice.com/product?p_id=40107",
+    "description": "Easily mount on the wall and position your TV in either landscape or portrait orientation using this Landscape/Portrait TV Wall Mount. It supports TVs between 42\" ~ 75\" and weighing up to 110 pounds. It supports displays with VESA\u00ae mounting pattern from 100x100 to 400x400. It is a fully articulating mount, which means that it can swivel 60\u00b0 to either side, tilt from +10\u00b0 to \u20115\u00b0, and rotate \u00b15\u00b0. Additionally, you can push the display in to the wall so it extends only 3.3\" or pull it out to the full 31.5\" extension, so you can use the full swivel range.\u00a0         *The minimum and maximum display sizes are only approximations. Your TV will work with this mount as long as it has a compatible VESA\u00ae pattern and maximum weight. .gte-ctr .row{margin:0;}Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Jun 10, 2021)Dimensions Diagram (Oct 10, 2019)3D Diagram (Oct 1, 2019)Sales Sheet (Jun 15, 2021)Monoprice\u2122, EZ\u2122, and all Monoprice logos are trademarks of Monoprice Inc. VESA\u00ae is a registered trademark of the Video Electronics Standards Association. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Dec 1, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/401071.jpg\",\"https://images.monoprice.com/productlargeimages/401072.jpg\",\"https://images.monoprice.com/productlargeimages/401073.jpg\",\"https://images.monoprice.com/productlargeimages/401074.jpg\",\"https://images.monoprice.com/productlargeimages/401075.jpg\",\"https://images.monoprice.com/productlargeimages/401076.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 139.99,
+      "sku": "40107",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40107",
+      "gtin14": "889028142639"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Essential Full Motion TV Wall Mount Bracket For 42 To 75 TVs up to 110lbs Max VESA 400x400 Enabled for Portrait Mode",
+      "ratingCount": "77",
+      "reviewCount": "77",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Mounts & Stands",
+      "url": "https://www.monoprice.com/category/pages/5"
+    },
+    {
+      "name": "TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts"
+    },
+    {
+      "name": "Full Motion TV Wall Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts"
+    },
+    {
+      "name": "40107",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts/40107"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

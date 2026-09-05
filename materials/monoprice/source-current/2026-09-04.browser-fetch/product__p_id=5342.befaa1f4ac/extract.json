@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB 2.0 Print Server - Share One USB Printer Across Your Network 10/100 Ethernet Auto-Sensing DHCP Client Telnet/Web Management",
+    "@id": "https://www.monoprice.com/product?p_id=5342",
+    "url": "https://www.monoprice.com/product?p_id=5342",
+    "description": "This palm sized 1\u2011port USB 2.0 Print Server allows any networked computer to share a USB printer. It complies with USB 2.0 specification (backward compatible with USB 1.1 specification), and provides users with an auto\u2011sensing Ethernet port that works with either 10Base\u2011T or 100Base\u2011TX networks. This unit also supports multiple protocols and multiple operating systems.The built\u2011in web management feature provides more convenience by allowing you to configure, monitor, and even reset the print server via a web browser. This eliminates the need to place the printer right next to the computer. Print jobs can be sent to a printer in another country just as easily as to a printer in the same office. Why bother sending a degraded fax image while you can print an original at the destination?Features: Easily connect your USB printer to a networkAllows multiple computers to share one USB printer on the networkPrint from any computer on your networkSupports DHCP Client and multiple network protocols10Base\u2011T / 100Base\u2011TX auto\u2011sensingSupports Telnet and Web Management softwareNOTE: While the print functions on a compatible multifunction printer may work, other functions such as scanning may not. Compatible Operating Systems: Windows\u00ae XP/Vista\u00ae/7 (32\u2011bit and 64\u2011bit)Support Files: User's Manual (Jul 16, 2010)List of Supported Devices (Feb 20, 2013)Drivers for Windows\u00ae XP/Vista\u00ae/7 ver 1.29 (Oct 23, 2012)Network Printer Wizard for Windows XP/Vista/7 (Mar 20, 2012)Network Printer Wizard for Windows ver 2.0.1.4 (Jan 11, 2011)Distribution disc (Apr 28, 2010)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Microsoft\u00ae, Windows\u00ae, and Vista\u00ae are registered trademarks of Microsoft Corporation in the United States and/or other countries. Updated Jan 18, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/53421.jpg\",\"https://images.monoprice.com/productlargeimages/53422.jpg\",\"https://images.monoprice.com/productlargeimages/53423.jpg\",\"https://images.monoprice.com/productlargeimages/53424.jpg\",\"https://images.monoprice.com/productlargeimages/53425.jpg\",\"https://images.monoprice.com/productlargeimages/53426.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 59.99,
+      "sku": "5342",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5342",
+      "gtin14": "844660053422"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB 2.0 Print Server - Share One USB Printer Across Your Network 10/100 Ethernet Auto-Sensing DHCP Client Telnet/Web Management",
+      "ratingCount": "101",
+      "reviewCount": "101",
+      "ratingValue": "3.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Network Adapters",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/network-adapters"
+    },
+    {
+      "name": "5342",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/network-adapters/5342"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

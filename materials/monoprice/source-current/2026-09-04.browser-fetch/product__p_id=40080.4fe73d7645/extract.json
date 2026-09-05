@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Heavy Duty Power Cord - NEMA 6-20P to IEC 60320 C13 14AWG 15A/3750W SJT 250V Black 3ft",
+    "@id": "https://www.monoprice.com/product?p_id=40080",
+    "url": "https://www.monoprice.com/product?p_id=40080",
+    "description": "                    Connect your computer, monitor, power adapter, or other device with a male IEC 60320 C14 panel connector to a UPS or other AC power source. This power cord features a standard, grounded NEMA\u00ae 6\u201120P plug on one end and an IEC 60320 C13 connector on the other end. Simply mate the female C13 connector with the male C14 connector on your device or power adapter, then plug the NEMA connector into a nearby AC power outlet, UPS, or other AC power source. This cable is designed to carry a 15 amp/3750 watt, 250 volt load.                              Features:                            Recommended for high\u2011performance computers and network devices        Extend the length of an existing power cord for more flexibility        Connect commercial equipment requiring high voltage, such as computers, servers, and monitors to a PDU or UPS in a data center        Designed for high\u2011density data environments                                                                          Plug\u00a0Type                                      NEMA\u00ae 6\u201120P                                                          Receptacle\u00a0Type                                      IEC 60320 C13                                                          Jacket\u00a0Material                                      SJT                                                          #\u00a0of\u00a0Conductors                                      3                                                          Wire\u00a0Gauge                                      14 AWG                                                          Maximum\u00a0Current                                      15 amps                                                          Certifications                                      UL\u00ae, cUL, RoHS, REACH                                                                                                                                                                                        Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc.        NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association.        UL\u00ae and the UL logo are registered trademarks of UL LLC.          Updated May 10, 2022                                                                Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov                      ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/400801.jpg\",\"https://images.monoprice.com/productlargeimages/400802.jpg\",\"https://images.monoprice.com/productlargeimages/400803.jpg\",\"https://images.monoprice.com/productlargeimages/400804.jpg\",\"https://images.monoprice.com/productlargeimages/400805.jpg\",\"https://images.monoprice.com/productlargeimages/400806.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.99,
+      "sku": "40080",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40080",
+      "gtin14": "889028142363"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Heavy Duty Power Cord - NEMA 6-20P to IEC 60320 C13 14AWG 15A/3750W SJT 250V Black 3ft",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords"
+    },
+    {
+      "name": "40080",
+      "url": "https://www.monoprice.com/category/cables/power-cords/power-cords/40080"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

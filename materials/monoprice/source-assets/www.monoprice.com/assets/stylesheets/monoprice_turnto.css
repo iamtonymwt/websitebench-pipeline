@@ -1,0 +1,1230 @@
+.TTdialog textarea,
+#TurnToContent textarea,
+#TTtraWindow textarea,
+#TTtraWindow #TTwriteRevForm input,
+#TTwriteRevForm textarea {
+    padding: 4px;
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    border-radius: 0
+}
+.TTdefaultInput {
+    color: #c8c8c8;
+    font-size: 13px;
+}
+.TTdialog {
+    list-style: url("//images.monoprice.com/images/ttmatchdetail-bullet.png");
+    margin-left: 20px;
+    font-size: 16px;
+}
+#TT2footer {
+    color: #fff;
+    clear: both;
+    text-align: right;
+    height: 40px;
+    padding: .5em 10px .3em 1em;
+    background: url("//images.monoprice.com/images/mainbot1.png") no-repeat
+}
+#TTmainContent {
+    background: url("//images.monoprice.com/images/mainstretch1.png") repeat-y left top;
+    border: 0;
+    padding: 13px 20px 0 20px;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    margin-left: 0
+}
+.TTui-widget-overlay {
+    background: #fff url("//images.monoprice.com/images/overlay.png") 50% 50% repeat-x;
+    opacity: .00;
+    filter: Alpha(Opacity 00)
+}
+.TTsub-ui-widget-overlay {
+    background: #aaa url("//images.monoprice.com/images/overlay.png") 50% 50% repeat-x;
+    opacity: .40;
+    filter: Alpha(Opacity 40)
+}
+#TTtraDialogTitleBar {
+    padding: .5em .2em .3em 1em;
+    position: relative;
+    color: #000;
+    height: 21px;
+    background: url("//images.monoprice.com/images/maintop1.png") no-repeat top;
+    box-sizing: content-box
+}
+#TTtraDialogTitleBar2 {
+    position: relative;
+    color: #000;
+    height: 47px;
+    background: url("//images.monoprice.com/images/maintop1.png") no-repeat
+}
+#TTtrasubtop {
+    background: transparent url("//images.monoprice.com/images/subbaktop.png") no-repeat;
+    width: 100%;
+    height: 38px;
+    float: left
+}
+#TTtrasubmid {
+    background: transparent url("//images.monoprice.com/images/subbakmid.png");
+    margin: 0;
+    float: left;
+    width: 575px
+}
+#TTtrasubbot {
+    background: transparent url("//images.monoprice.com/images/subbakbot.png");
+    margin: 0;
+    width: 100%;
+    height: 27px;
+    float: left
+}
+#TT-spinner {
+    background: #fff center url("//images.monoprice.com/images/traspin.gif") no-repeat scroll;
+    width: 620px;
+    height: 32px
+}
+.TTspinner {
+    background: url("//images.monoprice.com/images/traspin.gif") no-repeat scroll;
+    width: 32px;
+    height: 32px
+}
+#TTreviewsWrapper .TTspinner {
+    margin-left: 10px
+}
+.TTtransSpinner {
+    background: url("//images.monoprice.com/images/trans_spinner.gif") no-repeat scroll;
+    width: 25px;
+    height: 25px
+}
+/*#TTcommentCapture*/
+#tt-comment-capture {
+    width: 100%;
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 12px;
+    color: #212121;
+    z-index: 99999 !important;
+}
+.TTccItemImage {
+    position: absolute;
+    top: 0;
+    right: 1px;
+    margin-top:10px;
+}
+.TTccItemImage img {
+    width: 70px !important;
+    height: 70px !important;
+    margin-top:15px !important;
+}
+
+.TTccSectionHeader {
+    margin-left: 20px !important;
+}
+/*TTcommentCaptureBlock*/
+.tt-comment-capture {
+    width: auto;
+    overflow: hidden;
+    position: relative;
+    min-height: 120px !important;
+    padding: 30px 20px 30px 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+    border-right: 1px solid rgba(0, 0, 0, 0.12)
+}
+input.TT2doneSub {
+    background: url("//images.monoprice.com/images/donebttn.png") no-repeat scroll left center #fff;
+    cursor: pointer;
+    width: 77px;
+    height: 25px
+}
+#TurnToContent .TT3linkLine a,
+#TTtraWindow .TT3linkLine a,
+#TurnToReviewsContent .TT3linkLine a {
+    color: #025da7;
+    font-size: 14px;
+    font-weight: 300 !important;
+}
+#TTSubDialogSection .TT8 {
+    background-color: #00a7bb;
+    color: #fff;
+}
+#TurnToContent,
+#TurnToReviewsContent,
+#TTtraWindow {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-spacing: .5em;
+    color: #383838;
+}
+.TT4questSqv {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-spacing: .5em;
+    color: #58595b
+}
+.TT3tabClose {
+    background-image: url("//images.monoprice.com/images/tabClose.gif");
+    background-size: 12px 12px;
+    background-repeat: no-repeat;
+    display: block;
+    height: 12px;
+    width: 12px;
+    float: right;
+    margin-left: 5px
+}
+#TT3RightLinks {
+    float: right;
+    text-align: right;
+    padding-top: 8px;
+    font-size: 13px;
+}
+#TurnToContent .TT3aboutLine a,
+#TTtraWindow .TT3aboutLine a,
+#TurnToReviewsContent .TT3aboutLine a {
+    font-style: italic;
+    color: #383838;
+    font-weight: bold;
+}
+#TurnToContent .TT3SearchTermMiqa,
+#TTtraWindow .TT3SearchTermMiqa {
+    border: medium none;
+    outline: medium none transparent;
+    vertical-align: top;
+    height: 27px;
+    width: 90%;
+    font-family: 'Hind', Helvetica, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 1px 4px
+}
+.TT3inlineAnswer {
+    width: 100%;
+    font-family: 'Hind', Helvetica, Verdana, Arial, Helvetica, sans-serif;
+    border-color: #999;
+    border-radius: 0
+}
+#TurnToContent textarea#TT2questionText,
+#TTtraWindow textarea#TT2questionText {
+    font-family: 'Hind', Helvetica, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0 20px 0 0;
+    width: 91%;
+    height: 22px;
+    min-height: 22px;
+    resize: none;
+    border: 0;
+    overflow: hidden;
+    outline: 0
+}
+a#readQuestions {
+    font-size: 14px;
+}
+#TurnToReviewsContent {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.TTratingBoxBorder {
+    border: none !important;
+    padding: 2px 5px;
+    background-color: #f7f7f7 !important;
+    width: 88px;
+    margin-bottom: 18px;
+    box-sizing: content-box;
+}
+.TTratingBox {
+    display: inline-block !important;
+}
+#TTUPReviewSec .TTratingBox {
+    float: right;
+    margin-top: 100px;
+    margin-right: 18px;
+}
+img.TTcatImg {
+    margin-top: 20px;
+    height: 80px !important;
+    width: 80px !important;
+    margin-top:40px !important;
+}
+div.TT4QProductImg.TTrespDesktopLandscapeDisp {
+    width: 80px;
+    height: 80px;
+    top: 0px;
+}
+
+
+.TurnToReviewsTeaser {
+    font-size: 14px;
+    font-family: 'Hind', Helvetica, Verdana, Arial, Helvetica, sans-serif
+}
+.TTavgRate {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-left: 10px;
+    vertical-align: top;
+}
+.TTreviewBody {
+    margin-top: 5px;
+    margin-bottom: 14px;
+    line-height: 25px;
+    word-wrap: break-word;
+    margin-top: 20px;
+    line-height: 20px;
+}
+.TTreview {
+    background-color: #f7f7f7;
+    border-color: #ebebeb #ebebeb #ebebeb #00a7bb;
+    border-left: 2px solid #383838;
+    border-style: solid;
+    border-width: 1px 1px 1px 2px;
+    margin: 10px 0 20px 0;
+    padding: 15px;
+    position: relative;
+}
+#TTreviewSearchTerm {
+    border: medium none;
+    float: left;
+    height: 19px;
+    outline: medium none;
+    padding: 2px;
+    margin-left: 2px;
+    width: 87%;
+    font-size: 13px;
+}
+#TT4UPtabs {
+    border-bottom: 3px solid #00a7bb;
+}
+#TTprofileTabs {
+    color: #383838;
+    display: table;
+    margin: 0 auto;
+    list-style: none;
+}
+#TTprofileTabs li.TTactiveTab {
+    background-color: #00a7bb;
+    color: #fff;
+    cursor: default;
+}
+#TurnToContent .TTrevLinkLine,
+#TurnToContent .TTrevLinkLine a,
+#TurnToReviewsContent .TTrevLinkLine a {
+    color: #383838;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.TTrevLinkLine a:hover,
+#TTtraWindow .TTrevLinkLine a:hover,
+#TurnToReviewsContent .TTrevLinkLine a:hover {
+    color: #00a7bb;
+    font-size: 12px;
+    margin-left: 5px;
+}
+.TTreviewSummary {
+    background: none repeat scroll 0 0 #ffffff;
+    border: 1px solid #ebebeb;
+    padding: 16px;
+    margin-top: 20px;
+}
+#TTpollingConfirm {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 14px;
+    margin: 10px 10px
+}
+#TTrateItScreen {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 14px;
+    position: relative
+}
+
+#TTmoreFeedback {
+    font-family:   'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+#TTshareMediaScreen,
+#TTwriteRevHeader {
+    position: relative;
+    width: 640px;
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+#TTshareMediaScreen .TTcancelLink,
+#TTshareMediaScreen .TTskipLink,
+#TTrateItScreen .TTcancelLink,
+#TTrateItScreen .TTskipLink,
+#TTwriteReviewScreen .TTskipLink,
+#TTwriteReviewScreen .TTrevGuidelineLink,
+#TTrateItScreen .TTrevGuidelineLink,
+#TTpollingConfirm a {
+    font-size: 10px;
+    color: #00a7bb;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    white-space: nowrap;
+}
+
+
+ #TT-spinner {
+        background: #fff center url("//images.monoprice.com/images/traspin.gif") no-repeat scroll;
+        width: 100%;
+        height: 32px
+}
+.TT4chatIcon,
+.TT4thumb,
+.TT4pen,
+.TT4expand,
+.TT4collapse,
+.TT3carouselLeft,
+.TT3carouselRight,
+.TT3clearSearchMiqa,
+.TT4miqaScrollL,
+.TT4miqaScrollR,
+.TT4answVoteCallArrow,
+.TT4showMoreSmallImg,
+.TT4closeIcon,
+.TT3removeAttachedItem,
+.TTclearRevSearch,
+.TT4searchIcon,
+.TTinputTeaserBubble1,
+input[type=checkbox].TTcheckbox+label.TTlabel,
+.TT3addedText,
+.TT4miqAdd,
+.TT4showMoreImg,
+.TTsmallSubmitBtn,
+.TTdoneBtn,
+.TTupdateBtn,
+.TT4writeReviewBtn,
+.TTcancelBtn,
+.TTconfirmDupBtn,
+.TTsqvBack,
+.TTsqvForward,
+.TTcancelDupBtn,
+.TTblankBtn,
+.TTcloseBtn,
+.TTsaveBtn,
+.TTsearchBtn,
+.TTbigSubmitBtn,
+.TT4instAnswNext,
+.TT3yesVote,
+.TTrating-0-0,
+.TTrating-0-5,
+.TTrating-1-0,
+.TTrating-1-5,
+.TTrating-2-0,
+.TTrating-2-5,
+.TTrating-3-0,
+.TTrating-3-5,
+.TTrating-4-0,
+.TTrating-4-5,
+.TTrating-5-0,
+.TTcustom-0-0,
+.TTcustom-0-5,
+.TTcustom-1-0,
+.TTcustom-1-5,
+.TTcustom-2-0,
+.TTcustom-2-5,
+.TTcustom-3-0,
+.TTcustom-3-5,
+.TTcustom-4-0,
+.TTcustom-4-5,
+.TTcustom-5-0,
+.TT4breakdown,
+.TT4breakdownPercent,
+.TT4reviewRange,
+.TT4reviewRangeSmall,
+.TT4reviewRangeDot,
+.TTcustomSmall-0-0,
+.TTcustomSmall-0-5,
+.TTcustomSmall-1-0,
+.TTcustomSmall-1-5,
+.TTcustomSmall-2-0,
+.TTcustomSmall-2-5,
+.TTcustomSmall-3-0,
+.TTcustomSmall-3-5,
+.TTcustomSmall-4-0,
+.TTcustomSmall-4-5,
+.TTcustomSmall-5-0,
+.TTfacebookDelAuth,
+.TTtwitterDelAuth,
+.TTgmailDelAuth,
+.TTfacebookShare,
+.TTfacebookNoShare,
+.TTtwitterShare,
+.TTtwitterNoShare,
+.TTvc-question,
+.TTvc-settings,
+.TTvc-next,
+.TTvc-next-disabled,
+.TTvc-back,
+.TTvc-back-disabled,
+.TTvc-clear,
+.TTvc-delete,
+.TTvc-like,
+.TTvc-like-on,
+.TTvc-flag,
+.TTvc-flag-on,
+.TTvc-share,
+.TTvc-share-on,
+.TTvc-facebook,
+.TTvc-pinterest,
+.TTvc-twitter,
+.TTvc-link,
+.TTvc-like-md,
+.TTvc-flag-md,
+.TTvc-phone-md,
+.TTvc-star-md-empty,
+.TTvc-star-md-half,
+.TTvc-star-md-filled,
+.TTvc-radio-off,
+.TTvc-radio-on,
+.TTvc-star-lg-empty,
+.TTvc-star-lg-half,
+.TTvc-star-lg-filled,
+.TTvc-icon-lg-video,
+.TTvc-btn-fab-top,
+.TTvc-bar-media-md-video,
+.TTvc-bar-media-md-photo,
+.TTvc-bar-media-lg-photo,
+.TTvc-bar-media-lg-video,
+.TTvc-bar-media-lg-photo-on,
+.TTvc-bar-media-lg-video-on,
+.TTvc-slider-bg,
+.TTvc-slider-dot,
+.TTvc-btn-submit-new-question,
+.TTvc-btn-submit-question,
+.TTvc-share-a-photo,
+.TTvc-edit-profile,
+.TTvc-submit,
+.TTvc-add-take-photo,
+.TTvc-submit-disabled,
+.TTvc-slider-dot-off,
+.TTvc-checkbox-off,
+.TTvc-checkbox-on,
+.TTvc-x-media,
+.TTvc-tag-media,
+.TTvc-share-photo-alt,
+.TTvc-add-new-photo,
+.TTvc-add-new-video,
+.TTvc-add-video-disabled,
+.TTvc-add-video,
+.TTvc-share-media,
+.TTvc-x-media-sm,
+.TTvc-icon-md-video,
+.TTvc-continue {
+    background-image: url("//images.monoprice.com/images/monoprice_sprites.png");
+    background-repeat: no-repeat;
+    /* margin:5px auto; */
+}
+.TTrating-0-0 {
+    background-position: 0 -1377px;
+    margin: 0 10px 0 0;
+}
+.TTrating-0-5 {
+    background-position: 0 -1396px;
+    margin: 0 10px 0 0;
+}
+.TTrating-1-0 {
+    background-position: 0 -1415px;
+    margin: 0 10px 0 0;
+}
+.TTrating-1-5 {
+    background-position: 0 -1434px;
+    margin: 0 10px 0 0;
+}
+.TTrating-2-0 {
+    background-position: 0 -1453px;
+    margin: 0 10px 0 0;
+}
+.TTrating-2-5 {
+    background-position: 0 -1472px;
+    margin: 0 10px 0 0;
+}
+.TTrating-3-0 {
+    background-position: 0 -1491px;
+    margin: 0 10px 0 0;
+}
+.TTrating-3-5 {
+    background-position: 0 -1510px;
+    margin: 0 10px 0 0;
+}
+.TTrating-4-0 {
+    background-position: 0 -1529px;
+    margin: 0 10px 0 0;
+}
+.TTrating-4-5 {
+    background-position: 0 -1548px;
+    margin: 0 10px 0 0;
+}
+.TTrating-5-0 {
+    background-position: 0 -1567px;
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+    .TT4chatIcon,
+    .TT4thumb,
+    .TT4pen,
+    .TT4expand,
+    .TT4collapse,
+    .TT3carouselLeft,
+    .TT3carouselRight,
+    .TT3clearSearchMiqa,
+    .TT4miqaScrollL,
+    .TT4miqaScrollR,
+    .TT4answVoteCallArrow,
+    .TT4showMoreSmallImg,
+    .TT4closeIcon,
+    .TT3removeAttachedItem,
+    .TTclearRevSearch,
+    .TT4searchIcon,
+    .TTinputTeaserBubble1,
+    input[type=checkbox].TTcheckbox+label.TTlabel,
+    .TT3addedText,
+    .TT4miqAdd,
+    .TT4showMoreImg,
+    .TTsmallSubmitBtn,
+    .TTdoneBtn,
+    .TTupdateBtn,
+    .TT4writeReviewBtn,
+    .TTcancelBtn,
+    .TTsqvBack,
+    .TTsqvForward,
+    .TTconfirmDupBtn,
+    .TTcancelDupBtn,
+    .TTblankBtn,
+    .TTcloseBtn,
+    .TTsaveBtn,
+    .TTsearchBtn,
+    .TTbigSubmitBtn,
+    .TT4instAnswNext,
+    .TT3yesVote,
+    .TTrating-0-0,
+    .TTrating-0-5,
+    .TTrating-1-0,
+    .TTrating-1-5,
+    .TTrating-2-0,
+    .TTrating-2-5,
+    .TTrating-3-0,
+    .TTrating-3-5,
+    .TTrating-4-0,
+    .TTrating-4-5,
+    .TTrating-5-0,
+    .TTcustom-0-0,
+    .TTcustom-0-5,
+    .TTcustom-1-0,
+    .TTcustom-1-5,
+    .TTcustom-2-0,
+    .TTcustom-2-5,
+    .TTcustom-3-0,
+    .TTcustom-3-5,
+    .TTcustom-4-0,
+    .TTcustom-4-5,
+    .TTcustom-5-0,
+    .TT4breakdown,
+    .TT4breakdownPercent,
+    .TT4reviewRange,
+    .TT4reviewRangeSmall,
+    .TT4reviewRangeDot,
+    .TTcustomSmall-0-0,
+    .TTcustomSmall-0-5,
+    .TTcustomSmall-1-0,
+    .TTcustomSmall-1-5,
+    .TTcustomSmall-2-0,
+    .TTcustomSmall-2-5,
+    .TTcustomSmall-3-0,
+    .TTcustomSmall-3-5,
+    .TTcustomSmall-4-0,
+    .TTcustomSmall-4-5,
+    .TTcustomSmall-5-0,
+    .TTfacebookDelAuth,
+    .TTtwitterDelAuth,
+    .TTgmailDelAuth,
+    .TTfacebookShare,
+    .TTfacebookNoShare,
+    .TTtwitterShare,
+    .TTtwitterNoShare,
+    .TTvc-question,
+    .TTvc-settings,
+    .TTvc-next,
+    .TTvc-next-disabled,
+    .TTvc-back,
+    .TTvc-back-disabled,
+    .TTvc-clear,
+    .TTvc-delete,
+    .TTvc-like,
+    .TTvc-like-on,
+    .TTvc-flag,
+    .TTvc-flag-on,
+    .TTvc-share,
+    .TTvc-share-on,
+    .TTvc-facebook,
+    .TTvc-pinterest,
+    .TTvc-twitter,
+    .TTvc-link,
+    .TTvc-like-md,
+    .TTvc-flag-md,
+    .TTvc-phone-md,
+    .TTvc-star-md-empty,
+    .TTvc-star-md-half,
+    .TTvc-star-md-filled,
+    .TTvc-radio-off,
+    .TTvc-radio-on,
+    .TTvc-star-lg-empty,
+    .TTvc-star-lg-half,
+    .TTvc-star-lg-filled,
+    .TTvc-icon-lg-video,
+    .TTvc-btn-fab-top,
+    .TTvc-bar-media-md-video,
+    .TTvc-bar-media-md-photo,
+    .TTvc-bar-media-lg-photo,
+    .TTvc-bar-media-lg-video,
+    .TTvc-bar-media-lg-photo-on,
+    .TTvc-bar-media-lg-video-on,
+    .TTvc-slider-bg,
+    .TTvc-slider-dot,
+    .TTvc-btn-submit-new-question,
+    .TTvc-btn-submit-question,
+    .TTvc-share-a-photo,
+    .TTvc-edit-profile,
+    .TTvc-submit,
+    .TTvc-add-take-photo,
+    .TTvc-submit-disabled,
+    .TTvc-slider-dot-off,
+    .TTvc-checkbox-off,
+    .TTvc-checkbox-on,
+    .TTvc-x-media,
+    .TTvc-tag-media,
+    .TTvc-share-photo-alt,
+    .TTvc-add-new-photo,
+    .TTvc-add-new-video,
+    .TTvc-add-video-disabled,
+    .TTvc-add-video,
+    .TTvc-share-media,
+    .TTvc-x-media-sm,
+    .TTvc-icon-md-video,
+    .TTvc-continue {
+        background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+        background-repeat: no-repeat;
+        background-size: 298px 4152px;
+        margin-top: 5px;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+    .TTsqvBack {
+        background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+        background-position: 0 -673px;
+        background-size: 298px 4152px
+    }
+    .TTsqvBack:hover {
+        background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+        background-position: 0 -705px;
+        background-size: 298px 4152px
+    }
+}
+#TT-vc-modal {
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    text-align: left;
+    font-family: "Hind", "Open Sans", Verdana, sans-serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+.TTccSectionHeader {
+    margin-left: 20px;
+}
+/*.TT-close-icon,
+.TT-icon-thumbs-up,
+.TT-icon-flag,
+.TT-icon-pinterest,
+.TT-icon-facebook,
+.TT-icon-twitter,
+.TT-submit-btn,
+.TT-shop-now-button,
+.TT-vc-carousel__back,
+.TT-vc-carousel__next,
+.TT-vc-carousel__back--small,
+.TT-vc-carousel__next--small {
+    background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+    background-repeat: no-repeat
+}*/
+
+.TT-vc-caption__text{
+
+    text-overflow:ellipsis;
+    overflow:hidden;
+}
+.TT-icon-thumbs-up, .TT-icon-pinterest, .TT-icon-facebook, .TT-icon-twitter, .TT-icon-flag {
+    height: 15px;
+    width: 36px;
+}
+
+.TT-icon-thumbs-up.TT-is-off {
+    background-position: 10px -2304px !important;
+}
+.TT-icon-pinterest {
+    background-position: 6px -4025px;
+}
+
+.TT-icon-facebook {
+    background-position: 8px -4042px;
+}
+.TT-icon-twitter {
+    background-position: 6px -4061px;
+}
+
+.TT-icon-flag.TT-is-off {
+    background-position: 10px -2336px !important;
+}
+
+a#askQuestion {
+    font-size: 14px !important;
+}
+.TT2left.TTratingBox.TTrating-0-0 {
+    position: relative !important;
+    float: initial !important;
+}
+#TurnToReviewsContent {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px !important;
+}
+.TT4breakdownPercent {
+    background-position: 0 -1741px;
+    height: 11px;
+    margin-left: 0px;
+}
+.TT4QProductImg.TTrespDesktopLandscapeDisp img {
+    width: 80px !important;
+    height: 80px !important;
+    margin-top: 0px !important;
+}
+.TT4commentArea {
+    background-color: #f7f7f7;
+    border-color: #ebebeb #ebebeb #ebebeb #383838;
+    border-style: solid;
+    border-width: 1px 1px 1px 3px;
+    margin: 25px 0 20px;
+    padding: 15px;
+    position: relative;
+    height: 120px;
+}
+.TT3youBadge {
+    color: #fff;
+    padding: 0 6px;
+    margin: 0 0 0 4px;
+    font-weight: normal;
+    font-size: 10px;
+    background-color: #00a7bb;
+}
+#TurnToContent a img.TTcatImg, #TTtraWindow a img.TTcatImg, #TurnToReviewsContent a img.TTcatImg {
+    border: 1px solid #e6e7e8;
+    margin-top: 20px;
+}
+p.TTmediaSmallDesc {
+    padding-right: 80px !important;
+}
+.TT3qText {
+    font-weight: bold;
+    font-size: 14px;
+    color: #383838;
+    cursor: pointer;
+    word-wrap: break-word;
+}
+ul.TT3questionLinkLine {
+    margin-top: 10px;
+    padding-top: 0;
+    border-top: 1px solid #f7f7f7;
+    margin-left: 20px;
+}
+.TT3itemBox {
+    margin: 0;
+    padding: 30px 15px;
+    border-left: 2px solid #383838;
+    border-top: 1px solid #ebebeb;
+    border-right: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    background-color: #f7f7f7;
+    overflow: hidden;
+    position: relative;
+}
+.TT3staffBadge {
+    font-weight: normal;
+    background-color: #00a7bb;
+    color: #fff;
+    padding: 0 6px;
+    margin: 0 0 0 4px;
+    font-size: 10px;
+}
+#TurnToContent .TT3linkLine a {
+    color: #383838;
+    font-weight: 500;
+}
+#TurnToContent .TT3ansArea .TT3linkLine a {
+    margin-left: 0;
+    color: #383838;
+}
+.TT3storeBadge {
+    font-weight: normal;
+    background-color: #383838;
+    color: #fff;
+    padding: 0 6px;
+    margin: 0 4px;
+    font-size: 10px;
+}
+
+.TT4thumb {
+    display: none;
+}
+
+.TT4pen {
+    display: none;
+}
+.TTbestAnswer {
+    color: #000;
+    font-weight:bold;
+
+}
+.TT3ansArea .TT3linkLine, #TTtraWindow .TT3ansArea .TT3linkLine, .TT3rplyCntr .TT3linkLine, #TTtraWindow .TT3rplyCntr .TT3linkLine {
+    margin-left: 0;
+    font-size: 11px;
+    font-weight: normal;
+    margin-top: 0;
+    color: #000000;
+}
+
+.TTccItemImage img {
+    width: 70px !important;
+    height: 70px !important;
+    margin-top: 20px;
+}
+
+.TTccSectionHeader {
+    margin-left: 20px;
+}
+
+#TurnToContent .TT3linkLine a {
+    color: #00a7bb;
+    font-weight: 500;
+}
+
+.TT3aText {
+    word-wrap: break-word;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#TT4questionTextWrap {
+    padding: 10px 10px 20px 5px;
+}
+
+.TT3itemBox2 {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #efefef;
+}
+
+.TT4purchaseText {
+    font-style: none !important;
+}
+
+
+
+ul.TTrevLinkLine li {
+    padding-top: 5px !important;
+}
+
+.TTreviewResponses {
+    border-top: none !important;
+    margin-top: 0 !important;
+
+}
+
+textarea#TT2questionText {
+    height: auto !important;
+}
+
+.TT4quote-body {
+    display: block;
+    margin: 0 0 10px;
+    font-size: 11px;
+    line-height: 14px;
+}
+
+.TT4miqaContainer .TT4miqaScrollLContainer {
+    display: none;
+}
+
+.TT3miqaSection {
+    height: auto;
+}
+
+.TT3miqaQuestionItem {
+    margin: 0 10px 0 0;
+    min-height: 150px;
+}
+
+.TT4ansWidth {
+    width: 100%;
+}
+
+.TT8 {
+    padding: 0 !important;
+}
+
+#TurnToContent textarea#TT2questionText,
+#TTtraWindow textarea#TT2questionText {
+    margin: 0;
+    width: 90%;
+}
+
+@media only screen and (max-width: 736px) and (min-width: 480px) {
+    .TT4respAnsWidth {
+        width: 90%;
+        float: right;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .TT3miqaQuestionItem {
+        width: 46%;
+    }
+
+    /* turnto mobile dropdown fix */
+    #TTsearchTermGrp,
+    #TTreviewSort {
+        width: 100% !important;
+    }
+
+    #TTsearchTermGrp .TTclearRevSearch {
+        margin: 2px 2px 0 0 !important;
+    }
+
+    #TTreviewSearchTerm {
+        width: 85% !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    #TTreviewSearchTerm {
+        width: 83% !important;
+    }
+}
+
+
+@media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+    .TT-close-icon,
+    .TT-icon-thumbs-up,
+    .TT-icon-flag,
+    .TT-icon-pinterest,
+    .TT-icon-facebook,
+    .TT-icon-twitter,
+    .TT-submit-btn,
+    .TT-shop-now-button,
+    .TT-vc-carousel__back,
+    .TT-vc-carousel__next,
+    .TT-vc-carousel__back--small,
+    .TT-vc-carousel__next--small {
+        background-image: url("//images.monoprice.com/images/monoprice_sprites_retina.png");
+        background-size: 298px 4152px;
+    }
+}
+div#TT4breakdownBox {
+    overflow: initial !important;
+}
+div#TTsearchSort {
+    overflow: initial !important;
+}
+
+ul.TT3linkLine li:after {
+    content: "\00b7" !important;
+    padding: 0 10px !important;
+    font-weight: bold !important;
+}
+
+/* ── V5 widget overrides ──────────────────────────────────────────── */
+
+/* Font family across all v5 widgets */
+#tt-chatter-widget,
+#tt-instant-answers-widget,
+#tt-qa-list {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    color: #383838;
+}
+
+/* "Why I chose this:" heading */
+.tt-w-chatter__heading {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #383838;
+    margin-bottom: 20px;
+}
+
+/* Slightly round the chatter speech-bubble cards */
+.tt-c-callout-comment {
+    border-radius: 3px;
+}
+
+.tt-c-callout-comment__author,
+.tt-c-callout-comment__date {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+/* "Have a question about this?" heading */
+.tt-c-ask__label-text {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #383838;
+}
+
+/* Hint text under the search field */
+.tt-o-hint__text {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 12px;
+    color: #666;
+}
+
+/* "No results" + submit row */
+.tt-c-ask-results__text {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    color: #666;
+}
+
+/* Submit New Question / primary button */
+.tt-o-button--primary {
+    background-color: #00a7bb !important;
+    border-color: #00a7bb !important;
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+/* "14 Questions" count and sort toolbar */
+.tt-c-questions__total {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #383838;
+}
+
+.tt-c-questions__sort-text {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    color: #00a7bb;
+    font-size: 13px;
+}
+
+/* Question title */
+.tt-c-question__title {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #383838;
+}
+
+/* Byline metadata (author, date, dot separators) */
+.tt-o-byline__item,
+.tt-o-byline__dot {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 12px;
+    color: #666;
+}
+
+.tt-o-byline__author {
+    color: #383838;
+    font-weight: 600;
+}
+
+/* "Best Answer:" label */
+.tt-c-answer__best-answer-label {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    color: #00a7bb;
+    font-weight: 600;
+}
+
+.tt-c-answer__best-answer-text {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    color: #383838;
+}
+
+/* Staff / verified badge */
+.tt-o-badge--staff {
+    background-color: #00a7bb;
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+}
+
+/* Inline action links (Reply, Inaccurate) */
+.tt-o-byline__action {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 12px;
+    color: #00a7bb;
+}
+
+/* See N answers / Answer toolbar buttons */
+.tt-c-question__actions .tt-o-button {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 13px;
+    color: #00a7bb;
+}
+
+/* "Questions for Similar Products" section heading */
+.tt-c-related-questions-list__heading {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #383838;
+}
+
+/* Product "About" label in cross-product questions */
+.tt-c-product-about__about {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 11px;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.tt-c-product-about__link {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 13px;
+    color: #025da7;
+}
+
+/* Pagination */
+.tt-o-page-list__link {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 13px;
+}
+
+.tt-o-page-list__number.tt-is-active .tt-o-page-list__link {
+    background-color: #00a7bb;
+    color: #fff;
+    border-color: #00a7bb;
+}
+
+/* Reply text */
+.tt-c-reply__text {
+    font-family: 'Hind', 'Open Sans', Helvetica, Verdana, sans-serif;
+    font-size: 14px;
+    color: #383838;
+}

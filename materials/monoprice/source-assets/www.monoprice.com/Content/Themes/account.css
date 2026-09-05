@@ -1,0 +1,874 @@
+.contentTable {
+    /*width: 745px;*/
+    /* form */
+}
+    /*.contentTable .row {
+    float: left;
+    margin-bottom: 3px; }*/
+    .contentTable .panel-left {
+        float: left;
+        width: 175px;
+    }
+
+        .contentTable .panel-left .p1 {
+            height: 355px;
+        }
+
+        .contentTable .panel-left .p2 {
+            background-color: #f2f2f2;
+            height: 15px;
+        }
+
+        .contentTable .panel-left .secure-img {
+            background: url(/images/images_main/img_subsecurebg.gif);
+            height: 212px;
+            text-align: center;
+        }
+
+            .contentTable .panel-left .secure-img .row {
+                text-align: center;
+                width: 170px;
+            }
+
+    .contentTable .panel-leftsmall {
+        float: left;
+        width: 175px;
+    }
+
+        .contentTable .panel-leftsmall .acc-img {
+            background: url(/images/images_main/img_subsecurebg.gif);
+            height: 90px;
+            text-align: center;
+        }
+
+            .contentTable .panel-leftsmall .acc-img .row {
+                text-align: center;
+                width: 170px;
+            }
+
+    .contentTable .panel-right {
+        float: left;
+        padding: 0 0 0 10px;
+        width: 550px;
+    }
+
+    .contentTable .contentBox {
+        float: left;
+        border: 1px solid #E0E0E0;
+    }
+
+    .contentTable .grayBox {
+        background-color: #EEEEEE;
+        height: 25px;
+        border-radius: 5px;
+    }
+
+    .contentTable .label {
+        float: left;
+        height: 20px;
+        margin-right: 3px;
+    }
+
+        .contentTable .label .text {
+            padding-left: 4px;
+            padding-top: 3px;
+            color: #989898;
+            font-weight: bold;
+        }
+
+    .contentTable .label1 {
+        float: left;
+        height: 15px;
+        margin-right: 3px;
+    }
+
+        .contentTable .label1 .text {
+            padding-left: 4px;
+            padding-top: 2px;
+            color: #222;
+            font-family: helvetica,arial,sans-serif;
+            font-size: 9pt;
+            font-style: normal;
+            white-space: normal;
+            text-align: left;
+        }
+
+        .contentTable .label1 .text1 {
+            padding-left: 4px;
+            padding-top: 3px;
+            font-weight: bold;
+            font-family: helvetica,arial,sans-serif;
+            font-size: 9pt;
+            color: #222;
+            font-style: normal;
+        }
+
+        .contentTable .label1 .blacktext {
+            padding-left: 4px;
+            padding-top: 3px;
+            font-family: helvetica,arial,sans-serif;
+            font-size: 10pt;
+            font-style: normal;
+            text-align: center;
+        }
+
+        .contentTable .label1 .redboldtext {
+            padding-left: 4px;
+            padding-top: 3px;
+            font-weight: bold;
+            font-family: helvetica,arial,sans-serif;
+            font-size: 10pt;
+            color: #C00;
+            font-style: normal;
+            text-align: left;
+        }
+
+        .contentTable .label1 .redtext {
+            padding-left: 4px;
+            padding-top: 3px;
+            font-family: helvetica,arial,sans-serif;
+            font-size: 8pt;
+            color: #C00;
+            font-style: normal;
+            text-align: center;
+        }
+
+        .contentTable .label1 .errortext {
+            padding-left: 4px;
+            padding-top: 3px;
+            font-weight: bold;
+            font-family: helvetica,arial,sans-serif;
+            font-size: 9pt;
+            color: #C00;
+            font-style: normal;
+        }
+
+        .contentTable .label1 .bluetext {
+            padding-left: 4px;
+            padding-top: 3px;
+            font-weight: bold;
+            font-family: helvetica,arial,sans-serif;
+            font-size: 9pt;
+            color: #0000FF;
+            font-style: normal;
+        }
+
+    .contentTable .label2 {
+        float: left;
+        height: 25px;
+        background-color: #EBE7E4;
+        margin-right: 3px;
+    }
+
+        .contentTable .label2 .text {
+            padding-left: 4px;
+            padding-top: 5px;
+            color: #222;
+            font-weight: bold;
+        }
+
+    .contentTable .errorbox {
+        float: left;
+        border: 1px solid #C00;
+        padding: 3px;
+        font-weight: bold;
+        width: 757px;
+    }
+
+    .contentTable .cell {
+        float: left;
+        height: 23px;
+        background-color: #F7F5F4;
+        margin-right: 3px;
+    }
+
+        .contentTable .cell .text {
+            padding-left: 5px;
+            padding-top: 3px;
+        }
+
+    .contentTable .cellalt {
+        float: left;
+        height: 23px;
+        margin-right: 3px;
+    }
+
+.text {
+    padding-left: 5px;
+    padding-top: 3px;
+    width: 200px;
+}
+
+.star {
+    color: #ff6600;
+}
+
+.optional {
+    color: #ff6600;
+    font-size: 10px;
+}
+
+.field {
+    float: left;
+    width: 500px;
+}
+
+.contentTable .cellalt1 {
+    float: left;
+    height: 23px;
+    background-color: #FEE86E;
+    margin-right: 3px;
+}
+
+    .contentTable .cellalt1 .text {
+        padding-left: 5px;
+        padding-top: 3px;
+    }
+
+.contentTable .cellyellow {
+    float: left;
+    height: 45px;
+    background-color: #FBEC5D;
+    margin-right: 3px;
+}
+
+    .contentTable .cellyellow .text {
+        padding-left: 5px;
+        padding-top: 3px;
+    }
+
+.contentTable form {
+    border: 0;
+    font-family: helvetica,arial,sans-serif;
+    font-size: 9pt;
+    margin-top: 15px;
+}
+
+.contentTable .FormTitle {
+    width: 680px;
+    height: 25px;
+    background-color: #EBE7E4;
+    margin-bottom: 10px;
+}
+
+    .contentTable .FormTitle .text {
+        padding-left: 4px;
+        padding-top: 2px;
+        font: bold 13.5pt Helvetica,Arial;
+        color: #989898;
+    }
+
+.contentTable .FormLabel {
+    float: left;
+    width: 150px;
+    height: 25px;
+    padding: 3px 1px 3px 3px;
+}
+
+    .contentTable .FormLabel .text {
+        padding: 3px 3px 3px 25px;
+        font-style: normal;
+        font-weight: bold;
+        text-align: left;
+    }
+
+.contentTable .FormField {
+    float: left;
+    width: 600px;
+    height: 25px;
+    padding: 3px 1px 3px 3px;
+}
+
+    .contentTable .FormField .text {
+        padding: 3px 3px 3px 25px;
+        font-style: normal;
+        text-align: left;
+    }
+
+.contentTable .FormField1 {
+    float: left;
+    height: 25px;
+    padding: 3px 3px 3px 3px;
+}
+
+    .contentTable .FormField1 .text {
+        padding: 5px 3px 3px 3px;
+    }
+
+.contentTable .FormTextField {
+    float: left;
+    padding-left: 2px;
+}
+
+    .contentTable .FormTextField .text {
+        padding: 3px 3px 3px 5px;
+    }
+
+.contentTable .FormButton {
+    background-color: #356198;
+    width: 150px;
+    height: 20px;
+}
+
+    .contentTable .FormButton .text {
+        padding-left: 4px;
+        padding-top: 2px;
+        color: #ffffff;
+        font: 10px verdana;
+    }
+
+    .contentTable .FormButton a:link, .contentTable .FormButton .formButton a:hover, .contentTable .FormButton .formButton a:visited, .contentTable .FormButton .formButton a:active {
+        font-weight: bold;
+        color: #ffffff;
+    }
+
+.contentTable .FormTextBox250 {
+    width: 250px;
+    height: 20px;
+    background-color: #F7F5F4;
+    font: 10px verdana;
+}
+
+.contentTable .FormTextFieldInactive {
+    height: 20px;
+    font: 10px verdana;
+    border: 1px #989898 solid;
+    color: #333333;
+    background-color: #f7f5f4;
+    padding-top: 2px;
+    padding-left: 2px;
+}
+
+.contentTable .FormButtonInactive {
+    background-color: #989898;
+    border: 1px solid #989898;
+    width: 150px;
+    height: 20px;
+    padding-left: 4px;
+    color: #ebe7e4;
+    font: bold 10px verdana;
+    text-align: left;
+}
+
+.contentTable .FormButtonRed {
+    background-color: #ff0000;
+    border: 1px solid #ff0000;
+    width: 150px;
+    height: 20px;
+    padding-left: 4px;
+    color: #333333;
+    font: bold 10px verdana;
+    text-align: left;
+}
+
+.contentTable .text a:link, .contentTable .text a:hover, .contentTable .text a:visited, .contentTable .text a:active {
+    text-decoration: none;
+}
+
+.cartAlert {
+    border: 1px solid #E0E0E0;
+    padding: 10px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    background: #f2f2f2 url(//images.monoprice.com/icons/ico_cart_15x15.png) 12px center no-repeat;
+    padding-left: 50px;
+}
+
+.reorder, reorder a {
+    margin-left: 20px;
+}
+
+.cartAlertsl {
+    border: 1px solid #E0E0E0;
+    padding: 10px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    background: #f2f2f2 url(//images.monoprice.com/icons/ico_cart_15x15.png) 48px 12px no-repeat;
+    padding-left: 50px;
+}
+
+.creditHistory {
+    border: thin solid #eeeeee;
+}
+.credit {
+    padding-left: 0px !important;
+}
+.creditrow {
+    margin: 0 5px 5px 5px;
+    height: 40px;
+    margin-left: 5px;
+    height: 40px;
+    border-bottom: dotted thin #cccccc;
+}
+.creditheader {
+    font-weight: bold;
+    height:40px;
+}
+.creditPmtConfirmation {
+
+ width: 800px; 
+}
+.creditPmtConfirmationRow {
+    margin: 0 5px 5px 5px;
+    height:25px;
+    margin-left: 5px;      
+}
+.creditPmtConfirmationRowGrey {
+    margin: 0 5px 5px 5px;
+    height:25px;
+    margin-left: 5px;  
+    background-color: #f2f2f2 ;        
+}
+.creditPmtConfirmationHeader {
+    font-weight: bold;
+    height:40px;
+}
+.creditTranhd, .creditAmthd, .creditUserhd, .creditDatehd, .creditShipDatehd, .creditStatushd, .creditPay,.creditPayhd,.creditAppliedCredit, .creditBalhd, .creditChkPay, .creditChkPayhd, .creditAppAmt, .creditBalAmt, .creditChkhd {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+.creditPmtConfirmationHd1 {
+    width: 40%;
+    display: inline-block;
+    text-align: left;
+}
+.creditPmtConfirmationHd2 {
+    width: 60%;
+    display: inline;
+    text-align: left;
+}
+.creditPmtConfirmationHdpad {    
+    display: inline;    
+}
+.creditPmtConfirmationHd3 {
+    width: 41%;
+    display: inline-block;
+    font-weight: bold;
+    text-align: left;
+}
+.creditPmtConfirmationHd4 {
+    width: 59%;
+    display: inline-block;
+    font-weight: bold;
+    text-align: left;
+}
+.creditPmtConfirmationHd5 {
+    width: 150px;
+    display: inline-block;
+    font-weight: bold;
+    text-align: right;
+}
+.creditPmtConfirmation3 {
+    width: 41%;
+    display: inline-block;
+    text-align: left;
+}
+.creditPmtConfirmation4 {
+    width: 10%;
+    display: inline-block;
+    text-align: right;
+}
+.creditPmtConfirmation5 {
+    width: 49%;
+    display: inline-block;
+    text-align: right;
+}
+
+.creditAppliedCredit {
+    margin-left: 11px;
+}
+
+.creditUserhd {
+    margin-left: 13px;
+}
+
+.creditDatehd {
+    margin-left: 45px;
+}
+
+.creditShipDatehd {
+    margin-left: 6px;
+}
+
+.creditStatushd {
+    margin-left: 3px;
+}
+.creditStatusPaypal {
+    color: #d32f2f !important;
+    margin-left: 6px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.creditBalhd {
+    margin-left: 5px;
+}
+
+
+.creditPayhd {
+    margin-left: 5px;    
+    width: 110px;
+    text-align: right;
+}
+.creditChkhd {
+    margin-left: 42px;
+    margin-top: 10px;    
+}
+
+.creditChkPayhd {
+    margin-left: 5px;
+    width: 4px;
+    width: 104px;
+    text-align: right;
+}
+.creditDate {
+    display: inline-block;
+*display: inline;
+zoom: 1;
+    width: 7%;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.creditShipDate{
+    display: inline-block;
+*display: inline;
+zoom: 1;
+    width: 9%;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.creditTran{
+    display: inline-block;
+    *display: inline;
+zoom: 1;
+    vertical-align: middle;
+    width: 8%;
+}
+.creditUser{
+    display: inline-block;
+    *display: inline;
+zoom: 1;
+    width: 14%;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 12px;
+}
+
+.creditStatus {
+    display: inline-block;
+    *display: inline;
+zoom: 1;
+    width: 9%;
+     vertical-align: middle;
+    text-align: left;    
+     margin-left: 2px;
+}
+
+.creditAmt {
+    display: inline-block;
+    *display: inline;
+zoom: 1;
+    width: 8%;
+    text-align: right;
+    vertical-align: middle;
+}
+.creditAppAmt {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    width: 11%;
+    text-align: right;
+     vertical-align: middle;
+}
+.creditBalAmt {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    width: 8%;
+    text-align: right;
+    vertical-align: middle;
+}
+.creditPay {
+    display: inline-block;
+    *display: inline;
+zoom: 1;
+    width: 15%;
+     vertical-align: middle;
+    text-align: left;
+    margin-left: 5px;
+}
+.creditChkPay {    
+    display: inline-block;
+    *display: inline;
+    zoom: 1;    
+    vertical-align: middle;
+    text-align: right;
+    width: 125px;
+    margin-left: 6px;
+}
+.creditBalDue {
+    display: inline-block;    
+    *display: inline;
+    zoom: 1;    
+    text-align: right;
+    vertical-align: middle;
+    width: 80%;
+}
+.creditBalPay {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;    
+    text-align: right;
+    vertical-align: middle;
+    width: 70px;
+}
+.creditPayNow {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;        
+    vertical-align: middle;
+    font: normal 8px/16px Arial, Helvetica, sans-serif;
+    width: 15px;
+}
+.creditpayoption {
+color: #555;
+    width: 100%;
+border: 1px solid #e5e5e5;
+background: #fbfbfb;
+outline: 0;
+-webkit-box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+font: normal 12px/24px Arial, Helvetica, sans-serif;
+background: url('https://images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -moz-linear-gradient(top, #FBFBFB 0%, #E9E9E9 100%);
+background: url('https://images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FBFBFB), color-stop(100%, #E9E9E9));
+    //-webkit-appearance: none;
+-moz-appearance: none;
+text-indent: 0.01px;
+text-overflow: '';
+}
+.creditpayhdoption {
+    color: #555;
+    width: 100%;    
+    border: 1px solid #e5e5e5;
+    background: #fbfbfb;
+    outline: 0;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+    box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+    font: normal 12px/24px Arial, Helvetica, sans-serif;
+    background: url('https://images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -moz-linear-gradient(top, #FBFBFB 0%, #E9E9E9 100%);
+    background: url('https://images.monoprice.com/assets/images/down-arrow.png') no-repeat right, -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FBFBFB), color-stop(100%, #E9E9E9));
+    //-webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+    height: 30px;
+}
+
+
+.showCreditHistory {
+    display:inline-block;
+    *display: inline;
+    zoom: 1;
+    width:38%;
+    background: url(//images.monoprice.com/b2bimages/arrow-down.jpg) 1px 1px no-repeat;
+    color: #d32f2f;
+    cursor:pointer;
+    padding-left: 20px;
+    margin-top: 5px;
+}
+.creditPrintStatement {
+     display:inline-block;     
+     *display: inline;
+    zoom: 1;    
+    width: 150px;
+    cursor: pointer;
+    font-weight: normal;
+    margin-top: 5px;
+}
+.creditPrintConfirmation {
+     display:inline-block;     
+     *display: inline;
+    zoom: 1;    
+    width: 150px;
+    cursor: pointer;
+    font-weight: normal;
+    margin-top: 5px;
+}
+.btn-pay {
+    width:65px; 
+    text-align: center;
+    height: 25px;
+    font-size: 12px;
+}
+.registeredUserLink {
+    display:inline-block;
+    *display: inline;
+    zoom: 1;
+    width:38%;
+    background: url(//images.monoprice.com/b2bimages/arrow-down.jpg) 1px 1px no-repeat;
+    color: #d32f2f;
+    cursor:pointer;
+    padding-left: 20px;
+    margin-top: 5px;
+}
+ul.accountPayableEmail li{
+    width: 250px;
+display: inline-block;
+*display: inline;
+zoom: 1;
+margin: 5px 0;
+}
+
+ul.registeredUser li {
+ width: 30%;
+display: inline-block;
+*display: inline;
+zoom: 1;
+margin: 8px 0;
+}
+
+.paymentDetails {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #F5F5F5;
+    border: thin solid #cccccc;
+}
+
+.creditDetailLeft {
+    display:inline-block;
+    *display: inline;
+zoom: 1;
+    width:38%;
+}
+
+.creditDetailRight {
+     display:inline-block;     
+     *display: inline;
+    zoom: 1;    
+    width: 80px;
+}
+
+.balanceDiv {
+border-top:thin solid #333333;
+padding-right:5px;
+text-align:left;
+min-height: 30px;
+padding-top: 5px;
+}
+
+.balanceDiv strong{
+    margin-right:10px;
+}
+
+.yellow.awesome, .yellow.awesome:visited {
+background-color: #ffb515;
+}
+.large.awesome, .large.awesome:visited {
+font-size: 14px;
+padding: 6px;
+}
+.awesome, .awesome:visited, .medium.awesome, .medium.awesome:visited {
+font-size: 13px;
+font-weight: bold;
+line-height: 1;
+text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+}
+    .awesome, .awesome:visited {
+        background: #222 url(alert-overlay.png) repeat-x;
+        display: inline-block;
+        *display: inline;
+zoom: 1;
+        padding: 5px 10px 6px;
+        color: #fff;
+        text-decoration: none;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+        -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+        text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+        border-bottom: 1px solid rgba(0,0,0,0.25);
+        position: relative;
+        cursor: pointer;
+    }
+
+.creditBal {
+    display: inline-block;
+    *display: inline;
+zoom: 1;
+    text-align:right;
+}
+
+
+span#closeCreditTransaction {
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.change a {
+    text-decoration: underline;
+    margin-right: 60px;
+}
+
+.accountLink {
+    color: #d32f2f !important;
+    text-decoration: underline;
+}
+
+.actleft {
+    width: 270px;
+}
+
+.actright {
+    float: right;
+    width: 108px;
+    text-align: right;
+}
+
+.rowsl {
+    display: inline-block;
+    *display: inline;
+zoom: 1;
+    clear: both;
+    margin-bottom: 0;
+    width: 100%;
+}
+
+
+  .black_overlay {
+            display: none;
+            position: fixed;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            z-index: 1001;
+            -moz-opacity: 0.5;
+            opacity: .50;
+            filter: alpha(opacity=80);
+        }
+
+        .white_content {
+            display: none;
+            position: absolute;
+            background: #ffffff;
+            top: 5%;
+            left: 25%;
+            width: 600px;
+            height: 200px;
+            padding: 30px 50px;
+            border: 2px solid #ffb8b8;
+            -moz-border-radius: 5px;
+            border-radius: 5px;
+            z-index: 1111;
+            color: #cc0000;
+            font-weight: bold;
+        }
+
+
+a.show {
+color:#d32f2f;
+}

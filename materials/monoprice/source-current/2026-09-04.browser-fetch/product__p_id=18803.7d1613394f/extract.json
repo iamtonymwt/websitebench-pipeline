@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Audio 60W 5ch 100/70V Mixer Amp with Microphone Priority (NO LOGO)",
+    "@id": "https://www.monoprice.com/product?p_id=18803",
+    "url": "https://www.monoprice.com/product?p_id=18803",
+    "description": "Simplify the task of running distributed audio for restaurants, hotels, or anywhere large areas need background music and/or paging address systems. Connect hundreds of speakers covering acres of area without the need for large equipment racks.A constant voltage speaker system differs from a traditional 8\u2011ohm speaker system in that it uses a step\u2011up transformer at the audio source to raise the voltage and lower the current on the transmission line. At the speaker end, a step\u2011down transformer converts the signal back to a normal speaker level voltage. This reduces power loss during transmission, which allows for the use of longer speaker wire runs using smaller gauge wire.Additionally, a constant voltage speaker system allows for the use of multiple speakers on each channel, without the need for complicated impedance calculations and configurations. In a constant voltage system, all speakers on a given channel are connected in parallel and the complicated impedance calculations are replaced by simple wattage calculations.For example, if you want to connect two speakers per channel in a traditional 8\u2011ohm speaker system, you must either connect them in series, which results in an overall 16\u2011ohm impedance, or in parallel, which results in an overall 4\u2011ohm impedance. In the first case, the 16\u2011ohms impedance effectively halves the output power of your amplifier, resulting in lower overall volume levels. In the latter case, the 4\u2011ohms impedance means that your amplifier will have to work harder and must be rated as stable at 4 ohms. Adding a third speaker to the mix would complicate it further, producing either a 24\u2011ohm or 2\u2011ohm overall impedance. Note that very few amplifiers are stable under 2\u2011ohm loads, so that is usually not an option.On the other hand, with a constant voltage system, you consider first the RMS output wattage of the amplifier. This should be reduced by 20% to compensate for insertion loss. For example, if using a 100\u2011watt amplifier, the total load from speakers should not exceed 80 watts.This amplifier features three microphone inputs and two auxiliary inputs, each of which is active and mixed into the line and speaker level outputs. When an EMC input trigger is detected, all outputs except MIC 1 are muted, allowing for the clear broadcast of important messages. The amplifier can drive a speaker array consisting of one or more speakers presenting a 4~16 ohm load or to one or more 70V or 100V speakers connected in parallel as part of a large public address system.Features: 5\u2011channel (3 microphone and 2 line) mixer/amplifierAmplifier rated for 60 watts70V, 100V, and low impedance 4~16 ohm speaker output optionsBuilt\u2011in rack mount ears and 2U height for mounting in a standard 19\" equipment rackUnbalanced front panel input for MIC 1Both balanced XLR and unbalanced TRS and RCA rear panel inputs for MIC 2 and MIC 3Phantom power option for MIC 2 and MIC 3Two unbalanced RCA auxiliary/line inputsOne EMC priority inputMaster volume, bass, and treble controlsFront panel level controls for all inputs0\u201130dB variable muting for all channels except MIC 1 when MIC 1 is in useBuilt\u2011in short circuit, over\u2011current, and high temperature protection circuitsLine level output of mixed signal for connection to other devicesSupport Files: User's Manual (Jan 9, 2017)Restaurant/Bar Sales Sheet (Apr 24, 2017)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 3, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/188031.jpg\",\"https://images.monoprice.com/productlargeimages/188032.jpg\",\"https://images.monoprice.com/productlargeimages/188033.jpg\",\"https://images.monoprice.com/productlargeimages/188034.jpg\",\"https://images.monoprice.com/productlargeimages/188035.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 399.99,
+      "sku": "18803",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=18803",
+      "gtin14": "889028047897"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Audio 60W 5ch 100/70V Mixer Amp with Microphone Priority (NO LOGO)",
+      "ratingCount": "29",
+      "reviewCount": "8",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Commercial Audio & Digital Signage",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage"
+    },
+    {
+      "name": "Mixers & Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers"
+    },
+    {
+      "name": "18803",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers/18803"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

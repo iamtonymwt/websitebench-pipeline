@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Standard HDMI Cable to DVI Adapter Cable 15ft - with Ferrite Cores Black",
+    "@id": "https://www.monoprice.com/product?p_id=2505",
+    "url": "https://www.monoprice.com/product?p_id=2505",
+    "description": "*** !!! WARNING !!! *** Note that this cable is NOT an ordinary HDMI\u00ae cable. This is specifically for connecting a device with an HDMI connector to another device equipped with a Single Link DVI\u2011D connector, typically found on PCs, projectors, and older video equipment before the HDMI standard became widespread. These cables can NOT carry audio. They carry video signals only!If you are looking for a High Speed HDMI Cable or a Standard HDMI Cable to connect equipment with HDMI connectors, please look at one of the following categories instead:HDMI Cables*** !!! WARNING !!! *** Enhance your multimedia connectivity with the Monoprice Standard HDMI Cable to DVI Adapter Cable with Ferrite Cores, a versatile solution designed to seamlessly bridge the gap between HDMI and DVI\u2011D interfaces. Engineered for reliability and performance, this adapter cable offers exceptional video quality, making it an indispensable accessory for various home entertainment and professional applications.Equipped with advanced technology, this HDMI to DVI\u2011D Adapter Cable delivers video performance equivalent to a Standard HDMI Cable, ensuring pristine image reproduction and optimal signal transmission. Whether you're connecting your gaming console, Blu\u2011ray player, or computer to a monitor or display with DVI input, this cable ensures seamless compatibility and exceptional visual fidelity.Safety is paramount, and the CL2 rating of this cable underscores its commitment to compliance with stringent safety standards. Designed with a fire\u2011resistant outer jacket, this cable is certified for in\u2011wall installation in residential settings, providing peace of mind and ensuring adherence to fire safety codes and insurance requirements. Whether you're setting up a home theater system or integrating multimedia equipment into your living space, you can trust the reliability and safety of this cable.Unlock the full potential of your HDMI\u2011enabled devices with the capabilities offered by this adapter cable. Supporting resolutions of up to 720p/1080i, it facilitates the seamless transmission of high\u2011definition video signals between compatible source and display devices, ensuring an immersive viewing experience with exceptional clarity and detail.Experience the richness of color with the Deep Color feature, which provides a minimum of 8\u2011bits per color element, enabling over 16 million color variations for lifelike imagery and vibrant visuals. With support for x.v.Color\u2122 technology, this cable further enhances color accuracy and depth, elevating your viewing experience to new heights of realism and immersion.The inclusion of ferrite cores helps minimize electromagnetic interference, ensuring stable signal transmission and reducing the risk of signal degradation or loss. Whether you're gaming, streaming content, or editing multimedia projects, you can rely on the consistent performance and reliability of this adapter cable to deliver optimal results.In summary, the Monoprice Standard HDMI Cable to DVI Adapter Cable with Ferrite Cores offers a reliable, high\u2011performance solution for connecting HDMI and DVI\u2011D devices. With its robust construction, advanced features, and safety certifications, it provides the perfect combination of functionality, versatility, and peace of mind for all your multimedia connectivity needs. Whether you're a home theater enthusiast, a professional content creator, or a multimedia aficionado, this adapter cable is the ideal companion for unlocking the full potential of your audiovisual equipment.This cable is capable of the following HDMI video features:720p/1080i Resolution - The Standard HDMI Cable has sufficient bandwidth to transfer 720p/1080i video signals between 720p/1080i rated source and sink (display) devices.Deep Color - The Deep Color feature provides a minimum of 8-bits per color element (24-bits total), providing for a total of over 16 million color variations. Other versions of Deep Color allow for up to 16-bits per element, for a total of 48-bits and over 281 trillion color variations, which really makes your video images come to life!x.v.Color\u2122 - x.v.Color is a promotion name given to the products that have the capability to realize a wide color space based on the xvYCC specifications and is a trademark of Sony Corporation. Currently, only AVCHD\u2122 and PlayStation\u00ae 3 devices support x.v.Color.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. DVI\u2122 is a trademark of the Digital Display Working Group. x.v.Color\u2122 is a trademark of Sony Corporation. AVCHD\u2122 and AVCHD Related Logos are trademarks of Panasonic Corporation and Sony Corporation. PlayStation\u00ae is a registered trademark of Sony Interactive Entertainment Inc. HDCP\u2122 is a trademark of Digital Content Protection LLC. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Apr 29, 2020 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/25051.jpg\",\"https://images.monoprice.com/productlargeimages/25052.jpg\",\"https://images.monoprice.com/productlargeimages/25053.jpg\",\"https://images.monoprice.com/productlargeimages/25054.jpg\",\"https://images.monoprice.com/productlargeimages/25055.jpg\",\"https://images.monoprice.com/productlargeimages/25056.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.49,
+      "sku": "2505",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2505",
+      "gtin14": "844660025054"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Standard HDMI Cable to DVI Adapter Cable 15ft - with Ferrite Cores Black",
+      "ratingCount": "1104",
+      "reviewCount": "151",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "DVI Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables"
+    },
+    {
+      "name": "2505",
+      "url": "https://www.monoprice.com/category/cables/video-cables/dvi-cables/2505"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

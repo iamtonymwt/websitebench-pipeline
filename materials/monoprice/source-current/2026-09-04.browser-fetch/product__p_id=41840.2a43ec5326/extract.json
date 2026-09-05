@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice BT-205 Bluetooth Over Ear Headphone",
+    "@id": "https://www.monoprice.com/product?p_id=41840",
+    "url": "https://www.monoprice.com/product?p_id=41840",
+    "description": "The Monoprice\u2122 BT\u2011205 Over Ear Bluetooth\u00ae Headphones offer great sound, a lightweight design, and clear, natural audio across the entire sonic spectrum. A softly padded headband and plush, padded ear cushions stay comfortable, no matter how long your listening session lasts. Connect your headphones using the wireless Bluetooth radio or using a traditional 3.5mm audio cable. Take phone calls with the push of a button and use the convenient on ear controls to change the volume level or to skip tracks. The Monoprice BT\u2011205 Bluetooth Over Ear Headphones are everyday, comfortable headphone that are perfect for the home or office.Bluetooth\u00ae 5 wireless connectionSupports the SBC and AAC audio codecs40mm drivers32 ohms nominal impedanceUp to 8 hours playback timeLightweight and comfortable\u00a0     1 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Nov 09, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. The Bluetooth\u00ae word mark and logos are registered trademarks of Bluetooth SIG, Inc. microSD\u2122 is a trademark of SD\u20113C, LLC. Updated Mar 14, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/418401.jpg\",\"https://images.monoprice.com/productlargeimages/418402.jpg\",\"https://images.monoprice.com/productlargeimages/418403.jpg\",\"https://images.monoprice.com/productlargeimages/418404.jpg\",\"https://images.monoprice.com/productlargeimages/418405.jpg\",\"https://images.monoprice.com/productlargeimages/418406.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 55.99,
+      "sku": "41840",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41840",
+      "gtin14": "889028160534"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice BT-205 Bluetooth Over Ear Headphone",
+      "ratingCount": "63",
+      "reviewCount": "63",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones"
+    },
+    {
+      "name": "Bluetooth Headphones",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/bluetooth-headphones"
+    },
+    {
+      "name": "41840",
+      "url": "https://www.monoprice.com/category/audio-video/headphones/bluetooth-headphones/41840"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

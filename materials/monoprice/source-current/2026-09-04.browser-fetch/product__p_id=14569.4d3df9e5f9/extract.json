@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Choice Series NL4FC Speaker Cable with Four 12 AWG Conductors 10ft",
+    "@id": "https://www.monoprice.com/product?p_id=14569",
+    "url": "https://www.monoprice.com/product?p_id=14569",
+    "description": "You can rely on Monoprice as the source for your high-performance, high-quality speaker cables with NL4FC connectors!These 4-conductor speaker cables are made with high-purity, 100% pure, bare copper 12 AWG conductors for maximum current handling capability. The 4-conductor design is great for bi-amping only a single cable. The cable features durable nickel female NL4FC connectors at each end, with spring-loaded lock release latches that make these connectors less prone to disconnecting during concerts or just playing your tunes.                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/145691.jpg\",\"https://images.monoprice.com/productlargeimages/145692.jpg\",\"https://images.monoprice.com/productlargeimages/145693.jpg\",\"https://images.monoprice.com/productlargeimages/145694.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "14569",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=14569",
+      "gtin14": "889028026496"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Choice Series NL4FC Speaker Cable with Four 12 AWG Conductors 10ft",
+      "ratingCount": "13",
+      "reviewCount": "2",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Speaker Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/speaker-cables"
+    },
+    {
+      "name": "14569",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/speaker-cables/14569"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

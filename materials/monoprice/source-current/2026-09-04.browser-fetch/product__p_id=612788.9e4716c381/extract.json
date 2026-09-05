@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Stage Right by Monoprice 18x 18W HEX LED PAR RGBAW+UV DMX Stage Wash Light",
+    "@id": "https://www.monoprice.com/product?p_id=612788",
+    "url": "https://www.monoprice.com/product?p_id=612788",
+    "description": "At home on medium to large stages, the addition of Amber and UV diodes give these new PAR cans a deeper, richer color hue on par (pun intended) with traditional halogen and tungsten elements. The low power requirement means that you can safely use 2\u20113 times as many fixtures on one breaker than with incandescent bulbs.Enjoy smooth fades and color changes with the 1.3kHz, flicker\u2011free, dimming. Suitable for schools, houses of worship, event production, and rental houses, the all metal housing make these units robust and roadworthy. Easily useable as a plug and play stand\u2011alone light with user defined colors and memory at power off or as a master/slave running color jump, gradient, or pulse. Fully DMX512 capable.Features: Uses eighteen 18\u2011watt LEDs6\u2011in\u20111 LEDs produce Red, Green, Blue, White, Amber, and Ultraviolet light (RGBAW\u2011UV)6\u2011channel and 10\u2011channel DMX modesBuilt\u2011in strobe functionalityIncludes sound\u2011responsive color\u2011changing programAccepts 90 ~ 240 VAC, 50/60 Hz input powerSupport Files: User's Manual (Mar 7, 2016)Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Mar 21, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6127881.jpg\",\"https://images.monoprice.com/productlargeimages/6127882.jpg\",\"https://images.monoprice.com/productlargeimages/6127883.jpg\",\"https://images.monoprice.com/productlargeimages/6127884.jpg\",\"https://images.monoprice.com/productlargeimages/6127885.jpg\",\"https://images.monoprice.com/productlargeimages/6127886.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 269.99,
+      "sku": "612788",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=612788",
+      "gtin14": "889028033319"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Stage Right by Monoprice 18x 18W HEX LED PAR RGBAW+UV DMX Stage Wash Light",
+      "ratingCount": "16",
+      "reviewCount": "16",
+      "ratingValue": "3.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Pro Audio & Musical Instruments",
+      "url": "https://www.monoprice.com/category/pages/13"
+    },
+    {
+      "name": "Stage Lighting",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting"
+    },
+    {
+      "name": "LED Wash Lights",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights"
+    },
+    {
+      "name": "612788",
+      "url": "https://www.monoprice.com/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights/612788"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

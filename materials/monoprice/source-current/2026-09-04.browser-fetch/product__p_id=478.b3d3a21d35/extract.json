@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10ft Null Modem DB9 F/F Molded Cable",
+    "@id": "https://www.monoprice.com/product?p_id=478",
+    "url": "https://www.monoprice.com/product?p_id=478",
+    "description": "A NULL MODEM SERIAL CABLE enables two DTE or DCE devices to communicate with no conflict in data transmission.- Connects two PC serial ports.- The transmit and receive signals are crossed to ensure proper data transmission.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/4781.jpg\",\"https://images.monoprice.com/productlargeimages/4782.jpg\",\"https://images.monoprice.com/productlargeimages/4783.jpg\",\"https://images.monoprice.com/productlargeimages/4784.jpg\",\"https://images.monoprice.com/productlargeimages/4785.jpg\",\"https://images.monoprice.com/productlargeimages/4786.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.89,
+      "sku": "478",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=478",
+      "gtin14": "844660004783"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10ft Null Modem DB9 F/F Molded Cable",
+      "ratingCount": "38",
+      "reviewCount": "10",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Data Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables"
+    },
+    {
+      "name": "Serial Cables",
+      "url": "https://www.monoprice.com/category/cables/data-cables/serial-cables"
+    },
+    {
+      "name": "478",
+      "url": "https://www.monoprice.com/category/cables/data-cables/serial-cables/478"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

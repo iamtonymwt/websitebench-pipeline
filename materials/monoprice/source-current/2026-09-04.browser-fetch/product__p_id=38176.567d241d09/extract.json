@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 60W Volume Control with A/B Switch",
+    "@id": "https://www.monoprice.com/product?p_id=38176",
+    "url": "https://www.monoprice.com/product?p_id=38176",
+    "description": "This Impedance Matching Volume Control allows you to connect multiple speaker pairs to a single power amplifier or receiver. It increases (or decreases) the impedance of the connected speaker pair to ensure that the overall impedance level presented to the amplifier is high enough to prevent damage to the amplifier. It can support amplifiers with up to 60 watts of output power and fits into standard single-gang low-voltage junction boxes or mounting brackets.A/B switching allows you to connect two sets of speakers and one source, either in the same or in different rooms. You would then use the A/B switch to choose between the zones.Support Files: Quick Start Guide (Sept 23, 2025)\u00a0Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/381761.jpg\",\"https://images.monoprice.com/productlargeimages/381762.jpg\",\"https://images.monoprice.com/productlargeimages/381763.jpg\",\"https://images.monoprice.com/productlargeimages/381764.jpg\",\"https://images.monoprice.com/productlargeimages/381765.jpg\",\"https://images.monoprice.com/productlargeimages/381766.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 27.99,
+      "sku": "38176",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38176",
+      "gtin14": "889028123263"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 60W Volume Control with A/B Switch",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "38176",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/38176"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

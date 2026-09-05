@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Dual Source 4-Channel A/B Speaker Selector with Volume Control - Multi-Room Home Audio Switch",
+    "@id": "https://www.monoprice.com/product?p_id=8232",
+    "url": "https://www.monoprice.com/product?p_id=8232",
+    "description": "Spread Your Music Everywhere.\u00a0One of the most popular trends in Home Audio is whole house audio distribution.\u00a0 Unfortunately, true multi-zone distribution systems are normally built into only the higher end receivers or require an expensive audio distribution network.\u00a0 Monoprice brings everything within reach of the average homeowner by offering a wide selection of Home Audio Distribution accessories.\u00a0A Key element of any home audio distribution system is a speaker selector.\u00a0 The speaker selector allows you to distribute your source signals to several sets of speakers distributed throughout your home.\u00a0 Additionally, a good speaker selector like our 4-channel A/B selector listed here, will allow you to have different source audio sent to different rooms so that someone in one room can be listening to something different in another room.\u00a0 Most importantly, a speaker selector provides impedance matching, which ensures that the additional speakers do not overload or damage your amps.\u00a0The Monoprice MSV-4 is a dual source\u00a04 zone speaker selector with built in independent volume controls for each source.\u00a0 This device can handle up to 100 watts per channel.\u00a0 It supports a frequency range of 20Hz to 20kHz.\u00a0 Accepts wire gauges up to 14AWG and maintains load at 8 Ohms.\u00a0Installation is straight forward and simple.\u00a0 This is part of making your dream sound system into a reality.Support Files: Manual (Nov 14, 2023)Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/82321.jpg\",\"https://images.monoprice.com/productlargeimages/82322.jpg\",\"https://images.monoprice.com/productlargeimages/82323.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 199.99,
+      "sku": "8232",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8232",
+      "gtin14": "844660082323"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Dual Source 4-Channel A/B Speaker Selector with Volume Control - Multi-Room Home Audio Switch",
+      "ratingCount": "67",
+      "reviewCount": "67",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters"
+    },
+    {
+      "name": "Speaker Selectors & Volume Controllers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers"
+    },
+    {
+      "name": "8232",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers/8232"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

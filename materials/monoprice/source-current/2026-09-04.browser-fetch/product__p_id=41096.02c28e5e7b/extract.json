@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Power Cord Splitter - IEC 60320 C14 to 2x IEC 60320 C13 16AWG 13A/1625W SJT Black 6ft",
+    "@id": "https://www.monoprice.com/product?p_id=41096",
+    "url": "https://www.monoprice.com/product?p_id=41096",
+    "description": "The Monoprice\u2122 universal AC Power Extension Cord Splitter, allows you to connect two devices with C14 connections, such as computers, to one power outlet. It cuts down on cabling, as well as frees up space on UPSs, surge protectors, wall outlets, etc. It is an ideal solution for eliminating extra bulky cords and reducing clutter in a data center. This 16 AWG cable is designed to carry up to a 13 amp/1625 watt, 125 volt load.Features: 16AWG conductorsUp to 13 amps maximum currentUsable for 100 ~ 250 VAC applicationsY\u2011splitter, powers two devices from one outletPlug\u00a0TypeIEC 60320 C14Receptacle\u00a0Type2x IEC 60320 C13Jacket\u00a0MaterialSJT#\u00a0of\u00a0Conductors3Wire\u00a0Gauge16AWGMaximum\u00a0Current13 ampsCertificationsUL\u00ae, cUL, CSA\u00ae, RoHS, REACHMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. CSA\u00ae is a registered trademark of the CSA Group. Updated Jul 13, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/410961.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 10.99,
+      "sku": "41096",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41096",
+      "gtin14": "889028152942"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Power Cord Splitter - IEC 60320 C14 to 2x IEC 60320 C13 16AWG 13A/1625W SJT Black 6ft",
+      "ratingCount": "8",
+      "reviewCount": "2",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Splitter Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords"
+    },
+    {
+      "name": "41096",
+      "url": "https://www.monoprice.com/category/cables/power-cords/splitter-power-cords/41096"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

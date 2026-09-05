@@ -1,0 +1,32 @@
+{
+  "schema_version": "monoprice.search-template.v1",
+  "candidates": 437,
+  "donor_page": "search/index/q__Number_of_Channels_uFilter=2&TotalProducts=224&keyword=clearance%2Foverstock.8f45340f.html.gz",
+  "product_links_in_donor": 115,
+  "tile_candidates": 25,
+  "best_donor_distinct_products": 25,
+  "tiles_after_median_filter": 24,
+  "substitutions": {
+    "name": 4,
+    "name_truncated_at": 58,
+    "pid": 22,
+    "price": 2
+  },
+  "tile_bytes": 13449,
+  "checks": {
+    "tile_has_name": true,
+    "tile_has_pid": true,
+    "tile_has_price": true,
+    "tile_not_absurdly_large": true,
+    "repeating_yields_two_links": true
+  },
+  "failed_checks": [],
+  "query_substitutions": {
+    "@@WB_QUERY@@": 24,
+    "@@WB_QUERY@@_UPPER": 1,
+    "@@WB_QUERY@@_ENC": 284
+  },
+  "result_count_not_substituted": true,
+  "written": true,
+  "page_bytes": 1102015
+}

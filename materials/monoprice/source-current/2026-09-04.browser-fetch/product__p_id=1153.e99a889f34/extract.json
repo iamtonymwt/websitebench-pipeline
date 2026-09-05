@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DB9F/RJ-45 Modular Adapter - Black",
+    "@id": "https://www.monoprice.com/product?p_id=1153",
+    "url": "https://www.monoprice.com/product?p_id=1153",
+    "description": "DIY solution for using 8 conductor CAT5 cables to extend your Serial (DB9)* connections.8 pin adapter.*DB9 (common name)\u00a0a.k.a DE9 (proper designation)*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/11531.jpg\",\"https://images.monoprice.com/productlargeimages/11532.jpg\",\"https://images.monoprice.com/productlargeimages/11533.jpg\",\"https://images.monoprice.com/productlargeimages/11534.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "1153",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=1153",
+      "gtin14": "844660011538"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DB9F/RJ-45 Modular Adapter - Black",
+      "ratingCount": "14",
+      "reviewCount": "14",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Gender Changers",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers"
+    },
+    {
+      "name": "1153",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers/1153"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

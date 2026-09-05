@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice DVI-D Dual Link Male to HDMI Female Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=2029",
+    "url": "https://www.monoprice.com/product?p_id=2029",
+    "description": "The Monoprice DVI\u2011D Dual Link Male to HDMI Female Adapter is a versatile accessory that allows you to connect devices with different video connector types. Designed to convert an HDMI\u00ae male connector to a DVI male connector, this adapter enables seamless compatibility between HDMI\u00ae and DVI devices.With this adapter, you can conveniently convert the male connector on your existing HDMI\u00ae cable to a male DVI connector. Simply plug your HDMI\u00ae cable into the female HDMI\u00ae connector on the adapter, and your cable will now have a male DVI connector at the other end. This flexibility allows you to make use of your HDMI\u00ae cables with devices that feature DVI inputs.One of the primary applications of the Monoprice DVI\u2011D Dual Link Male to HDMI Female Adapter is connecting HDMI\u00ae cables to DVI monitors. If you have a monitor with a DVI input, you can connect your HDMI\u00ae source device, such as a computer or media player, to the monitor using this adapter. This enables you to enjoy high\u2011quality video output from your HDMI\u00ae device on a DVI monitor without any loss in signal quality.Additionally, this adapter also facilitates the connection between HDMI\u00ae cables and older televisions that feature DVI inputs. If you have an older TV that lacks HDMI\u00ae ports but has a DVI input, this adapter allows you to connect your HDMI\u00ae source devices, such as gaming consoles or DVD players, to the television and enjoy your favorite content.It's worth noting that the adapter features a female HDMI\u00ae connector, but the metal cage of the connector is exposed rather than covered, similar to the back of a piece of equipment. You can identify it as a female connector by the presence of locking tabs on the top instead of the divots that the tabs go into, as seen on the male connector. This design ensures a secure and reliable connection between the adapter and your HDMI\u00ae cable.In conclusion, the Monoprice DVI-D Dual Link Male to HDMI Female Adapter provides a practical solution for connecting HDMI\u00ae devices to DVI monitors or older televisions with DVI inputs. Its versatile functionality, easy\u2011to\u2011use design, and high\u2011quality construction make it a reliable choice for anyone needing to bridge the gap between HDMI\u00ae and DVI connectors.Note: The photo of the HDMI\u00ae side is a female connector, but the metal cage of the connector is exposed instead of covered like it would be on the back of a piece of equipment. You can tell it is female because it has the locking tabs on the top instead of the divots that the tabs go into on the male connector.\u00a0\u00a0Monoprice\u2122, DynamicView\u2122, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/20291.jpg\",\"https://images.monoprice.com/productlargeimages/20292.jpg\",\"https://images.monoprice.com/productlargeimages/20293.jpg\",\"https://images.monoprice.com/productlargeimages/20294.jpg\",\"https://images.monoprice.com/productlargeimages/20295.jpg\",\"https://images.monoprice.com/productlargeimages/20296.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "2029",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2029",
+      "gtin14": "844660020295"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice DVI-D Dual Link Male to HDMI Female Adapter",
+      "ratingCount": "597",
+      "reviewCount": "597",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "DVI Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters"
+    },
+    {
+      "name": "2029",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters/2029"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

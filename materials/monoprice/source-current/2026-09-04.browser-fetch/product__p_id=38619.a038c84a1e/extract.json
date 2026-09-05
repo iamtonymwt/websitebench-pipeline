@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monolith by Monoprice MM-5 Powered Multimedia Desktop Speakers with Bluetooth with Qualcomm aptX HD Audio USB DAC Optical Inputs Subwoofer Output and Remote Control (Pair) Black",
+    "@id": "https://www.monoprice.com/product?p_id=38619",
+    "url": "https://www.monoprice.com/product?p_id=38619",
+    "description": "The Monolith\u2122 MM\u20115 Powered Multimedia Speakers deliver audiophile performance to your desktop! Compact and mighty, these speakers feature exceptional sonic clarity, punchy bass, and present a spacious musical soundstage. The multiple connection options include RCA and 3.5mm stereo analog inputs, optical S/PDIF and USB digital inputs, as well as a wireless connection using the Bluetooth\u00ae radio with the Qualcomm\u00ae aptX\u2122 HD Audio codec. A headphone jack adorns the front, allowing you to easily switch between the speakers and headphones. The Monolith MM\u20115 powered multimedia speakers are a perfect, great sounding addition to a home office or bedroom.\u00a0        5 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 5 year replacement warranty, we offer a 45 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.45 Day Money Back GuaranteeMonoprice stands behind the Monolith line of products we sell with a 45 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: User's Manual (Jan 31, 2020)Monoprice\u2122, Monolith\u2122, the Monolith logo, and all Monoprice logos are trademarks of Monoprice Inc. The Bluetooth\u00ae word mark and logos are registered trademarks of Bluetooth SIG, Inc. Qualcomm\u00ae is a trademark of Qualcomm Incorporated, registered in the United States and other countries. Qualcomm\u00ae aptX\u2122 Audio and the aptX logo are trademarks of Qualcomm Technologies International, Ltd., registered in the United States and other countries. Qualcomm\u00ae aptX\u2122 Audio is a product of Qualcomm Technologies International, Ltd. Updated Nov 30, 2021 Warning: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/386191.jpg\",\"https://images.monoprice.com/productlargeimages/386192.jpg\",\"https://images.monoprice.com/productlargeimages/386193.jpg\",\"https://images.monoprice.com/productlargeimages/386194.jpg\",\"https://images.monoprice.com/productlargeimages/386195.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 399.99,
+      "sku": "38619",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38619",
+      "gtin14": "889028127704"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monolith by Monoprice MM-5 Powered Multimedia Desktop Speakers with Bluetooth with Qualcomm aptX HD Audio USB DAC Optical Inputs Subwoofer Output and Remote Control (Pair) Black",
+      "ratingCount": "24",
+      "reviewCount": "24",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers"
+    },
+    {
+      "name": "Powered Desktop Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/powered-desktop-speakers"
+    },
+    {
+      "name": "38619",
+      "url": "https://www.monoprice.com/category/audio-video/speakers/powered-desktop-speakers/38619"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

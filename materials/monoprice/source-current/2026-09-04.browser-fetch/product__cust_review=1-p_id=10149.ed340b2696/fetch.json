@@ -1,0 +1,13 @@
+{
+  "url": "https://www.monoprice.com/product?cust_review=1&p_id=10149",
+  "final_url": "https://www.monoprice.com/product?cust_review=1&p_id=10149",
+  "upstream_status": 200,
+  "classification": "content",
+  "bytes": 435912,
+  "sha256": "6db6c49ef3e94926ea7f95e457b246f0ae4e861ba419afa06274cc6c21755464",
+  "fetched_at": "2026-09-05T01:27:19+00:00",
+  "fetch_ms": 514,
+  "mode": "raw-served-html",
+  "body_retained": false,
+  "extract": "schema.org Product + BreadcrumbList"
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6in RCA Plug to 2 RCA Jack Cable Black",
+    "@id": "https://www.monoprice.com/product?p_id=663",
+    "url": "https://www.monoprice.com/product?p_id=663",
+    "description": "This cable is the perfect solution to connecting a mono source to a stereo system. The cable has a single RCA male plug on one end and a pair of female RCA jacks, each with molded connector housings and strain relief boots.Warning: This cable is intended as a splitter only. Attempting to use it to combine a stereo signal into a mono signal can cause damage to your equipment. The only proper way to combine two audio signals is by using a mixing board.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6631.jpg\",\"https://images.monoprice.com/productlargeimages/6632.jpg\",\"https://images.monoprice.com/productlargeimages/6633.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.19,
+      "sku": "663",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=663",
+      "gtin14": "844660006633"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6in RCA Plug to 2 RCA Jack Cable Black",
+      "ratingCount": "123",
+      "reviewCount": "123",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "RCA Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables"
+    },
+    {
+      "name": "663",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/rca-cables/663"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

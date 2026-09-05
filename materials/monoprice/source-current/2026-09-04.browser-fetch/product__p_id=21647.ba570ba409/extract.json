@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Workstream by Monoprice Laptop Holder Attachment for LCD Desk Mounts",
+    "@id": "https://www.monoprice.com/product?p_id=21647",
+    "url": "https://www.monoprice.com/product?p_id=21647",
+    "description": "Increase your productivity and comfort by using your portable computer with this Laptop Holder for Monitor Desk Mounts. Set your laptop at a more comfortable viewing height and angle to reduce eye and neck strain. It is perfect when using external keyboards, mice, and monitors with your portable computer. Attached to any monitor mount, this accessory allows for full adjustability to get the perfect position and fit. Adjustable clips securely hold laptops up to 16.5 inches wide.Features: Mount and adjust your laptop for better ergonomics when using external mice, keyboards, and monitorsWorks with Monoprice LCD Monitor Mounts, choose the right mount for your needsAdjustable side clips fit laptops up to 16.5 inches wideMade of steel for strength and durabilitySupport Files: User's Manual (Oct 31, 2017)Dimensions Diagram (Oct 31, 2017)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Updated Feb 4, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/216471.jpg\",\"https://images.monoprice.com/productlargeimages/216472.jpg\",\"https://images.monoprice.com/productlargeimages/216473.jpg\",\"https://images.monoprice.com/productlargeimages/216474.jpg\",\"https://images.monoprice.com/productlargeimages/216475.jpg\",\"https://images.monoprice.com/productlargeimages/216476.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 21.99,
+      "sku": "21647",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=21647",
+      "gtin14": "889028049693"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Workstream by Monoprice Laptop Holder Attachment for LCD Desk Mounts",
+      "ratingCount": "19",
+      "reviewCount": "19",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Monitor Mounts",
+      "url": "https://www.monoprice.com/category/home-&-office/monitor-mounts"
+    },
+    {
+      "name": "Desk Monitor Mounts",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts"
+    },
+    {
+      "name": "21647",
+      "url": "https://www.monoprice.com/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts/21647"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

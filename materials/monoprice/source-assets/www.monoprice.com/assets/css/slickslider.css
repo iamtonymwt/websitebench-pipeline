@@ -1,0 +1,121 @@
+﻿   .carocss:hover {
+            border-bottom: 1px solid #00a7bb;
+}
+    h3.overlap-hidedatatas {
+       /* hide text if it more than N lines  */
+  overflow: hidden;
+  /* for set '...' in absolute position */
+  position: relative; 
+  /* use this value to count block height */
+  line-height: 1.2em;
+  /* max-height = line-height (1.2) * lines max number (3) */
+  max-height: 3.5em; 
+  /* fix problem when last visible word doesn't adjoin right side  */
+  text-align: justify;  
+  /* place for '...' */
+  margin-right: -1em;
+  padding-right: 1em;
+      height: 50px;
+    }
+    .overlap-hidedatatas:after {
+   /* points in the end */
+  content: '';
+  /* absolute position */
+  position: absolute;
+  /* set position to right bottom corner of text */
+  right: 0;
+  /* set width and height */
+  width: 1em;
+  height: 1em;
+  margin-top: 0.2em;
+  /* bg color = bg color under block */
+  background: white;
+}
+    .overlap-hidedatatas:before {
+  /* points in the end */
+  content: '...';
+  /* absolute position */
+  position: absolute;
+  /* set position to right bottom corner of block */
+  right: 0;
+  bottom: 0;
+}
+    .slick-dotted.slick-slider {
+        margin-top: 25px;
+    }
+
+    .carocss {
+        padding: 13px;
+        margin-bottom: 10px;
+        height: 290px;
+            border-bottom: 1px solid #ffffff;
+    }
+
+    .slick-slide {
+        margin: 0px 20px;
+    }
+
+    strong.pricedisplay {
+        font-size: 20px;
+    }
+
+    .slick-slide img {
+        width: 100%;
+    }
+
+    /*.slick-prev:before,
+    .slick-next:before {
+        color: black;
+    }*/
+
+
+    .slick-slide {
+        transition: all ease-in-out .3s;
+        opacity: .2;
+    }
+
+    .slick-active {
+        opacity: 1;
+    }
+
+    .slick-current {
+        opacity: 1;
+    }
+
+
+  
+    .slick-arrow {
+   position: absolute;
+    border: 0px;
+    width: 45px;
+    height: 100%;
+    font-size: 15px;
+    background: #e4e0e03d;
+    color: dimgrey;
+    right: 0;
+    display: none !important;
+    }
+        .slick-arrow i {
+            font-size: 50px;
+            color: #90909075;
+        }
+    .slicks-prev {
+        left: 0%;
+              z-index: 99999;
+    }
+   .slicks-next {
+    top: 0%;
+}
+    .slick-prev:before, .slick-next:before {
+        color: #cac4c4;
+    }
+    .slick-slider:hover .slick-arrow
+    {
+        display:block !important;
+    }
+    h3.relatcate {
+    font-size: 20px;
+}
+    span.categorylinks a {
+    color: #00a7bb;
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Essentials USB-C to USB-A 3.1 Gen 2 Cable  10Gbps  3A  30AWG  Black  1m (3.3ft)",
+    "@id": "https://www.monoprice.com/product?p_id=24287",
+    "url": "https://www.monoprice.com/product?p_id=24287",
+    "description": "Connect your USB-C\u00ae phone, tablet, laptop, or other device to devices equipped with the standard USB-A connector. This USB 3.1 Gen 2 compatible cable features a USB-C connector on one end and a legacy USB-A connector on the other end. It can deliver up to 3 amps of charging power and has 10 Gbps data bandwidth.\u00a0Fast ChargingSuperSpeed+Reversible DesignFast Charging: The cable can deliver up to 3 amps of charging power, providing for fast charging of phones, tablets, and other mobile devices.SuperSpeed+: Transfer music, photos, video, or data to and from a USB-C equipped laptop at speeds up to 10 Gbps.Reversible Design: The reversible USB-C\u00ae connector is always properly oriented, eliminating a common source of frustration from trying to plug in improperly oriented USB-A connectors.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Support Files: Tech Drawing (Jun 17, 2026)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB?C\u00ae, USB?C\u00ae, and The SuperSpeed USB 10 Gbps Trident Logo are registered trademarks of USB Implementers Forum, Inc. USB?IF\u2122 is a trademark of USB Implementers Forum, Inc. Updated Jan 26, 2022 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/242871.jpg\",\"https://images.monoprice.com/productlargeimages/242872.jpg\",\"https://images.monoprice.com/productlargeimages/242873.jpg\",\"https://images.monoprice.com/productlargeimages/242874.jpg\",\"https://images.monoprice.com/productlargeimages/242875.jpg\",\"https://images.monoprice.com/productlargeimages/242876.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.29,
+      "sku": "24287",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24287",
+      "gtin14": "889028054178"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Essentials USB-C to USB-A 3.1 Gen 2 Cable  10Gbps  3A  30AWG  Black  1m (3.3ft)",
+      "ratingCount": "160",
+      "reviewCount": "123",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "24287",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/24287"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

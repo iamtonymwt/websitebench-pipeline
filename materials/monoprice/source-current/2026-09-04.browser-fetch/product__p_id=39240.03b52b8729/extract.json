@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Bidirectional USB-C to DisplayPort Cable - 4K@60Hz Thunderbolt 4/3 Compatible Black  6ft",
+    "@id": "https://www.monoprice.com/product?p_id=39240",
+    "url": "https://www.monoprice.com/product?p_id=39240",
+    "description": "No longer will you be limited by the direction of your cable! This Bidirectional USB-C\u00ae to DisplayPort\u00ae Cable allows you to connect your legacy DisplayPort devices to your newest USB-C enabled display or between a new USB-C enabled device to a DisplayPort display. USB-C\u2122 compatible with Thunderbolt\u2122 3 and Thunderbolt\u2122 4.\u00a0   Lifetime WarrantyWith Monoprice's Lifetime Warranty, you can rest assured we stand behind our products and our customers. Additionally, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice\u2122 exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0USB-C\u00ae and USB-C\u00ae are registered trademarks of USB Implementers Forum, Inc. VESA\u00ae, DisplayPort\u00ae, and the DisplayPort\u00ae logo are registered trademarks of the Video Electronics Standards Association. Thunderbolt\u2122, Thunderbolt\u2122 3, and the Thunderbolt logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.Updated Mar 31, 2021 Warning: This product can expose you to chemicals including Phthalates, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/392401.jpg\",\"https://images.monoprice.com/productlargeimages/392402.jpg\",\"https://images.monoprice.com/productlargeimages/392403.jpg\",\"https://images.monoprice.com/productlargeimages/392404.jpg\",\"https://images.monoprice.com/productlargeimages/392405.jpg\",\"https://images.monoprice.com/productlargeimages/392406.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 14.99,
+      "sku": "39240",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=39240",
+      "gtin14": "889028134092"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Bidirectional USB-C to DisplayPort Cable - 4K@60Hz Thunderbolt 4/3 Compatible Black  6ft",
+      "ratingCount": "21",
+      "reviewCount": "21",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "39240",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/39240"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

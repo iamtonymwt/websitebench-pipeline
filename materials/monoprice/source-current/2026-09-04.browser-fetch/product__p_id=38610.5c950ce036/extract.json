@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select USB 3.0 USB-C to USB-A Cable  6ft  Black",
+    "@id": "https://www.monoprice.com/product?p_id=38610",
+    "url": "https://www.monoprice.com/product?p_id=38610",
+    "description": "Connect your SuperSpeed USB 3.0 devices using this USB 3.0 cable from Monoprice! This cable boasts thinner 32AWG conductors and TPE jacket, making it more flexible and easier to connect.This cable features a USB 3.0 USB-C\u2122 connector on one end and a USB 3.0 USB-A connector on the other end.The SuperSpeed USB Trident Logo is a registered trademark of USB Implementers Forum, Inc. USB-C\u2122 and USB-C\u2122 are trademarks of USB Implementers Forum, Inc. Updated Jul 10, 2019 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/386101.jpg\",\"https://images.monoprice.com/productlargeimages/386102.jpg\",\"https://images.monoprice.com/productlargeimages/386103.jpg\",\"https://images.monoprice.com/productlargeimages/386104.jpg\",\"https://images.monoprice.com/productlargeimages/386105.jpg\",\"https://images.monoprice.com/productlargeimages/386106.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "38610",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=38610",
+      "gtin14": "889028127612"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select USB 3.0 USB-C to USB-A Cable  6ft  Black",
+      "ratingCount": "59",
+      "reviewCount": "32",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB C Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables"
+    },
+    {
+      "name": "38610",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-c-cables/38610"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

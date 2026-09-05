@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 2-Port Cat6 RJ45 Surface Mount Box - UL Dual IDC 50u TAA No Logo White",
+    "@id": "https://www.monoprice.com/product?p_id=7093",
+    "url": "https://www.monoprice.com/product?p_id=7093",
+    "description": "This white plastic box is a surface\u2011mounted dual Cat6 keystone box intended for use when in\u2011wall or other installations are not possible. The cover can be easily removed to allow access to the wire connections. Use a 110D or Krone type impact to crimp and connect the wires. It can be used with stranded or solid Cat6 cable of any gauge. It includes double\u2011sided tape and two screws, allowing you to choose the mounting method that best fits your needs. Installation instructions are included.Support Files: User's Manual (Aug 14, 2012)Diagram (Feb 02, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Oct 26, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/70931.jpg\",\"https://images.monoprice.com/productlargeimages/70932.jpg\",\"https://images.monoprice.com/productlargeimages/70933.jpg\",\"https://images.monoprice.com/productlargeimages/70934.jpg\",\"https://images.monoprice.com/productlargeimages/70935.jpg\",\"https://images.monoprice.com/productlargeimages/70936.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "7093",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7093",
+      "gtin14": "844660070931"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 2-Port Cat6 RJ45 Surface Mount Box - UL Dual IDC 50u TAA No Logo White",
+      "ratingCount": "41",
+      "reviewCount": "18",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Surface Mount Boxes",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/surface-mount-boxes"
+    },
+    {
+      "name": "7093",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/surface-mount-boxes/7093"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

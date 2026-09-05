@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 14 Outlet Metal 1U Rackmount PDU Power Distribution Unit Surge Protector - 1050 Joules 6ft Cord",
+    "@id": "https://www.monoprice.com/product?p_id=40002",
+    "url": "https://www.monoprice.com/product?p_id=40002",
+    "description": "This Metal 1U Rackmount PDU Power Distribution Unit provides 14 surge protected NEMA\u00ae 5\u201115 outlets, 6 on the front panel and 8 on the rear panel. It is designed to fit into a standard 19\" equipment rack and is 1U high. It features 1050 joules of protection and is rated for 120 VAC, 12A/1440W. The heavy duty powder coated steel housing provides for a long lasting sturdy construction. Parallel circuitry enables it to continue functioning as a power strip after surge suppression is disabled by a surge or spike. It features a 15A circuit breaker, surge protection status LED on the front panel, and a 6 foot power cord with NEMA 5\u201115 plug.Features: 14 NEMA\u00ae 5\u201115 surge protected outlets6 front panel and 8 rear panel outletsDesigned for use in 19\" equipment racks1U heightRated for 120 VAC, 12A, 1440W15A circuit breaker1050 joules of protectionHeavy duty powder coated steel housing14 AWG 6 foot power cord with NEMA 5\u201115 plugUL\u00ae/cUL ratedRoHS and REACH compliantSupport Files: Specification Sheet (Oct 14, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Oct 25, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/400021.jpg\",\"https://images.monoprice.com/productlargeimages/400022.jpg\",\"https://images.monoprice.com/productlargeimages/400023.jpg\",\"https://images.monoprice.com/productlargeimages/400024.jpg\",\"https://images.monoprice.com/productlargeimages/400025.jpg\",\"https://images.monoprice.com/productlargeimages/400026.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 88.19,
+      "sku": "40002",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=40002",
+      "gtin14": "889028141588"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 14 Outlet Metal 1U Rackmount PDU Power Distribution Unit Surge Protector - 1050 Joules 6ft Cord",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Strip Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors"
+    },
+    {
+      "name": "40002",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors/40002"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

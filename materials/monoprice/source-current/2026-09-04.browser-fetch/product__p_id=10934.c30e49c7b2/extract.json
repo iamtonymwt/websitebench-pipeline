@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice PS/2 Keyboard/Mouse to USB Converter Adapter Black",
+    "@id": "https://www.monoprice.com/product?p_id=10934",
+    "url": "https://www.monoprice.com/product?p_id=10934",
+    "description": "Use your legacy PS/2 keyboards and mice with modern USB, equipped systems using this PS/2 Keyboard/Mouse to USB Converter Adapter from Monoprice!This adapter cable allows you to connect a PS/2 keyboard and/or PS/2 mouse to any USB equipped PC. This can be particularly useful if you have a specialty keyboard or mouse device and a PC without PS/2 ports. It is also useful in a KVM (keyboard/video/mouse) extender situation, allowing PS/2 keyboards/mice to be used with USB KVMs.No software or special drivers are required. Just plug it in and it works!",
+    "image": "[\"https://images.monoprice.com/productlargeimages/109341.jpg\",\"https://images.monoprice.com/productlargeimages/109342.jpg\",\"https://images.monoprice.com/productlargeimages/109343.jpg\",\"https://images.monoprice.com/productlargeimages/109344.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "10934",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=10934",
+      "gtin14": "757901808647"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice PS/2 Keyboard/Mouse to USB Converter Adapter Black",
+      "ratingCount": "121",
+      "reviewCount": "121",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "10934",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/10934"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

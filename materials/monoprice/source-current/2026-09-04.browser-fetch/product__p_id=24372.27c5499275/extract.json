@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45 550MHz STP Pure Bare Copper Wire 10G 26AWG 14ft Green",
+    "@id": "https://www.monoprice.com/product?p_id=24372",
+    "url": "https://www.monoprice.com/product?p_id=24372",
+    "description": "Save the time and hassle of building Ethernet cables by using fixed length STP Cat6A Ethernet Network Cables from Monoprice\u2122!Features: Shielded Twisted Pair (STP) Category 6A Ethernet cable26AWG stranded, pure bare copper conductors550MHz bandwidthSnagless cable boot protects the plug retaining clip50\u00b5m gold plated contactsBend radius of 23.2mm for flexible installation routingMonoprice\u2122 Ethernet cables are made of 100% pure bare copper wire and are fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper conductors in communications cables.CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Support Files: Specification Sheet (Apr 2, 2019)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. ANSI\u00ae, the ANSI logo, and numerous other identifiers containing \"ANSI\" are registered trademarks, service marks, and accreditation marks of the American National Standards Institute (ANSI). UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated Jun 2, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/243721.jpg\",\"https://images.monoprice.com/productlargeimages/243722.jpg\",\"https://images.monoprice.com/productlargeimages/243723.jpg\",\"https://images.monoprice.com/productlargeimages/243724.jpg\",\"https://images.monoprice.com/productlargeimages/243725.jpg\",\"https://images.monoprice.com/productlargeimages/243726.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.99,
+      "sku": "24372",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=24372",
+      "gtin14": "889028055106"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45 550MHz STP Pure Bare Copper Wire 10G 26AWG 14ft Green",
+      "ratingCount": "522",
+      "reviewCount": "0",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6A Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6a-ethernet-cables"
+    },
+    {
+      "name": "24372",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6a-ethernet-cables/24372"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

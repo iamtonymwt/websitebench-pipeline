@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Select Series USB-C to HDMI and USB-C (F) Dual Port Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=15244",
+    "url": "https://www.monoprice.com/product?p_id=15244",
+    "description": "The versatility of the USB\u2011C\u00ae port means that it can perform several functions, including video output and power input. But what if you need to use a second display for extended periods of time beyond what you can expect from your laptop's battery life? With the Select Series Dual Port Adapter there is no need to choose between the two! This adapter allows you to connect an HDMI\u00ae display to mirror your laptop's display or expand your system's desktop area, with support for resolutions up to 3840x2160p @30Hz. It also features a USB\u2011C port, which you can connect to your original USB\u2011C charger, so you can charge the battery while simultaneously using a second display!\u00a0USB\u2011C Power PortExpand Your ViewPortableUSB\u2011C Power Port: The USB Type\u2011C\u00ae charging port supports up to 60 watts (20V/3A) of power pass\u2011through, allowing you to connect a compatible USB\u2011C\u00ae charger and charge your laptop's battery, rather than draining it while using this adapter.Expand Your View: Connect an HDMI\u00ae display at resolutions up to 3840x2160p @30Hz to mirror your laptop's display or to expand your system's desktop area.Portable: Small and portable, you can easily slip this adapter into your laptop case and have it ready for use wherever and whenever the need arises.\u00a0\u00a0Compatible with USB\u2011C equipped laptops, such as the Apple MacBook\u00ae and Google Chromebook\u2122.gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB Type\u2011C\u00ae and USB\u2011C\u00ae are trademarks of USB Implementers Forum, Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Apple\u00ae, Mac\u00ae, MacBook\u00ae, and macOS\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122 and Chromebook\u2122 are trademarks of Google Inc. Updated Oct 21, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/152441.jpg\",\"https://images.monoprice.com/productlargeimages/152442.jpg\",\"https://images.monoprice.com/productlargeimages/152443.jpg\",\"https://images.monoprice.com/productlargeimages/152444.jpg\",\"https://images.monoprice.com/productlargeimages/152445.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 19.99,
+      "sku": "15244",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15244",
+      "gtin14": "889028033289"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Select Series USB-C to HDMI and USB-C (F) Dual Port Adapter",
+      "ratingCount": "30",
+      "reviewCount": "30",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "15244",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/15244"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

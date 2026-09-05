@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam Mic and Speaker 1080p",
+    "@id": "https://www.monoprice.com/product?p_id=35519",
+    "url": "https://www.monoprice.com/product?p_id=35519",
+    "description": "\u00a0This All\u2011In\u2011One Conferencing Camera, Mic, and Speaker is designed for ease of use in small meetings and huddle rooms and is perfect for 1\u20116 users. It works with computer\u2011based video conferencing apps and cloud services.This camera is easy to setup for use with computers. It uses a standard USB 2.0 connection, so it readily works with most laptops and desktops. There is only one cable to plug in. No separate power, audio, or video cables are needed. It is plug and play, so it easy to setup and use, no drivers are needed for Windows\u00ae, macOS\u00ae, Chrome OS\u2122, and Linux\u00ae. Just enable the camera through your operating system or conferencing app to use.The camera's video capabilities are specifically designed for meetings, with the 105 degree wide angle lens framing multiple meeting participants in the picture, while preventing fisheye distortion. The sensor is spec'd to use ambient office lighting, while the 1080p video resolution balances HD resolution with data bandwidth requirements.Audio is likewise tuned for small meeting room settings. Echo cancellation ensures clear audio, while the omnidirectional mic is designed to pick up audio from within a 10 foot diameter to minimize background noise.All this in one compact package that can be easily installed in meetings rooms. It is also portable enough to be packed and used with laptops when on the go.Features: Designed for small teams and small meetingsUSB 2.0 connection for power, video, and audioNo drivers required for Windows\u00ae, macOS\u00ae, Chrome OS\u2122, or Linux\u00aeUse with popular internet-based video conferencing softwareVideo and audio optimized for web meetingsPerfect for use with laptops, even on the goSupport Files: User's Manual (Dec 28, 2018)Dimensions Diagram (Dec 4, 2018)Monoprice\u2122, WORKSTREAM\u2122, the WORKSTREAM logo, and all Monoprice logos are trademarks of Monoprice Inc. Microsoft\u00ae and Windows\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Apple\u00ae Mac\u00ae, and macOS\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Chrome\u2122 and Chrome OS\u2122 are trademarks of Google LLC. Linux\u00ae is the registered trademark of Linus Torvalds in the U.S. and other countries. Updated Nov 2, 2021 Warning: This product can expose you to Bisphenol A (BPA), which is known to the State of California to cause cancer. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/355191.jpg\",\"https://images.monoprice.com/productlargeimages/355192.jpg\",\"https://images.monoprice.com/productlargeimages/355193.jpg\",\"https://images.monoprice.com/productlargeimages/355194.jpg\",\"https://images.monoprice.com/productlargeimages/355195.jpg\",\"https://images.monoprice.com/productlargeimages/355196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 299.99,
+      "sku": "35519",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35519",
+      "gtin14": "889028107201"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam Mic and Speaker 1080p",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Conferencing Devices",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/conferencing-devices"
+    },
+    {
+      "name": "35519",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/conferencing-devices/35519"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SuperSpeed 7-Port USB-C Hub Gray",
+    "@id": "https://www.monoprice.com/product?p_id=14909",
+    "url": "https://www.monoprice.com/product?p_id=14909",
+    "description": "Expand your laptop's USB capabilities by adding seven SuperSpeed USB 3.0 ports. Designed to connect to a laptop or PC with a USB\u2011C\u00ae port, this hub allows you to connect external hard drives, flash drives, mobile devices, USB display adapters, and more. While it gets all the power it needs from the USB bus, it also features a DC power jack for use with an optional AC power adapter (not included). Capable of data transfer speeds up to 5Gbps, this hub is also backwards compatible with USB 2.0 and 1.1 devices. No drivers or complicated configurations are required \u2011 just plug it in and start using it right away!\u00a0SuperSpeed Transfer RatesReversible DesignPremium Housing7\u2011Port USB HubSuperSpeed Transfer Rates: This SuperSpeed USB 3.0 hub features data transfer rates up to 5Gbps, which means that your external hard drives and other devices can operate at speeds approaching that of internal SATA III drives!Reversible Design: The reversible design of the new USB Type\u2011C\u00ae connector is always properly oriented, eliminating a common source of frustration from trying to connect improperly oriented Type\u2011A plugs.Premium Housing: The unibody aluminum design ensures maximum strength with minimum weight, while the brushed aluminum finish is an attractive complement to a new MacBook\u00ae or Chromebook\u2122.7\u2011Port USB Hub: Get more mileage from your single USB\u2011C port by expanding it to seven USB 3.0 ports, so you can connect external hard drives, keyboards, mice, flash drives, and any of a myriad of USB 1.1, 2.0, and 3.0 compatible devices.\u00a0Compatible with USB\u2011C\u00ae equipped laptops, such as the Apple MacBook\u00ae and Google Chromebook\u21221 Year Replacement WarrantyMonoprice\u2122 not only stands behind this product with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. USB Type\u2011C\u00ae and USB\u2011C\u00ae are trademarks of USB Implementers Forum, Inc. Apple\u00ae, Mac\u00ae, and MacBook\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Google\u2122 and Chromebook\u2122 are trademarks of Google LLC. Updated Mar 29, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/149091.jpg\",\"https://images.monoprice.com/productlargeimages/149092.jpg\",\"https://images.monoprice.com/productlargeimages/149093.jpg\",\"https://images.monoprice.com/productlargeimages/149094.jpg\",\"https://images.monoprice.com/productlargeimages/149095.jpg\",\"https://images.monoprice.com/productlargeimages/149096.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 57.99,
+      "sku": "14909",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=14909",
+      "gtin14": "889028029893"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SuperSpeed 7-Port USB-C Hub Gray",
+      "ratingCount": "53",
+      "reviewCount": "53",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "14909",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/14909"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice OM1 Fiber Optic Cable ST/ST UPC Duplex Multi-Mode 62.5/125 Type UL OFNR Orange 1m",
+    "@id": "https://www.monoprice.com/product?p_id=2601",
+    "url": "https://www.monoprice.com/product?p_id=2601",
+    "description": "Because of its immunity to electronic interference and its greater speeds over longer distances, fiber optic cabling has become the conduit of choice for high speed network communications. Monoprice\u2122 is proud to offer a full line of high\u2011quality Single\u2011mode and Multi\u2011mode duplex cables using optical fibers.This is an OM1 \"Orange\" multi\u2011mode cable with a 62.5\u00b5m core and 125\u00b5m cladding diameter. The cable has a pair of color\u2011coded ST connectors on each end.The cable jacket is OFNR (Optical Fiber, Nonconductive, Riser) rated by UL\u00ae, which means that it complies with fire safety and insurance requirements and is safe for use within the walls, and between the floors, of commercial class buildings.\u00a0Fiber\u00a0TypeMulti\u2011mode OM1 (62.5/125\u00b5m)Fiber\u00a0CountDuplexJacket\u00a0MaterialPVCJacket\u00a0ColorOrangeFire\u00a0Safety\u00a0RatingOFNRConnector\u00a0TypeST to STPolish\u00a0TypeUPC to UPCCable\u00a0Diameter2.0mmInsertion\u00a0Loss\u2264 0.30dBReturn\u00a0Loss\u2265 20dBRepeatability1000 times typical change value \u2264 0.20dBInterchangeability\u2264 0.20dBMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Sep 14, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/26011.jpg\",\"https://images.monoprice.com/productlargeimages/26012.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "2601",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=2601",
+      "gtin14": "844660026013"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice OM1 Fiber Optic Cable ST/ST UPC Duplex Multi-Mode 62.5/125 Type UL OFNR Orange 1m",
+      "ratingCount": "7",
+      "reviewCount": "2",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Fiber Optic Cables",
+      "url": "https://www.monoprice.com/category/cables/fiber-optic-cables"
+    },
+    {
+      "name": "Multi Mode Cables",
+      "url": "https://www.monoprice.com/category/cables/fiber-optic-cables/multi-mode-cables"
+    },
+    {
+      "name": "2601",
+      "url": "https://www.monoprice.com/category/cables/fiber-optic-cables/multi-mode-cables/2601"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

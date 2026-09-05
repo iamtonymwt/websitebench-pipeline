@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Tripp Lite by Eaton UPS SmartPro 120V 2200VA 1920W Line-Interactive Sine Wave UPS 2U Extended Run Network Card Options LCD USB DB9 - 2U Rack/Tower",
+    "@id": "https://www.monoprice.com/product?p_id=50876",
+    "url": "https://www.monoprice.com/product?p_id=50876",
+    "description": "Tripp Lite SmartPro Line Interactive UPS with enhanced LCD interface offers network-grade power protection for critical server, network and telecommunications equipment. Line Interactive Uninterruptible Power Supply(UPS) with built-in Auto-Voltage Regulation(AVR) actively corrects brownouts and overvoltages back to usable levels while maintaining a full battery charge in case of power failure. Tripp Lite's unique configuration excels in exceptionally poor-power environments with two separate levels of voltage boost to correct both slight undervoltages and severe brownout conditions. Interactive LCD interface reports UPS operating mode, detailed UPS and site-power data, plus enables a variety of UPS setup and configuration options. Super-fast switchover from line to battery power occurs within milliseconds to maintain operation of connected equipment without interruption or reboot. 96% line-mode efficiency offers reduced heat emissions and operating costs. Network management interfaces support communications via USB, RS-232 and optional SNMPWEBCARD network interface. HID-compliant USB port enables integration with built-in power management and auto shutdown features of Windows and Mac OS X. Network communications ports enable detailed monitoring of equipment load levels, self-test data and utility power conditions. Includes PowerAlert monitoring software and complete cabling. Switched output load banks enable scheduled and real-time remote reboot and load shedding of select outlets. Emergency Power Off(EPO) interface. LCD display panel easily rotates for viewing in rackmount or tower configurations. Audible alarm with push-button momentary alarm-cancel and silent-mode configuration options. Programmable self-test. Field-replaceable, hot-swappable battery modules.\u00a02.2kVA / 2200VA / 1920W line interactive 2U rack/tower UPS, Sine Wave120V output, Corrects brownouts and overvoltages from 83V to 145V0.9 Power Factor, Interactive LCD interfaceExtended runtime options up to 1920W4 post compatible mounting accessories96% line-mode efficiency, 2 switched load banksUSB, RS232, EPO and slot for SNMPWEBCARD option120V NEMA 5-20P input, 4 NEMA 5-15R & 4 NEMA 5-15/20R outletsManagementNetwork ManagementSNMP ManageableInterfaces/PortsUSBYesSerial PortYesBattery InformationHot SwappableYesBackup/Run Time (Half Load)13 MinuteBackup/Run Time (Full Load)4.50 MinuteTypical Battery Recharge Time4.50 HourPower DescriptionInput Voltage120 V ACOutput Voltage120 V ACInput Current16 ALoad Capacity (VA)2200 VALoad Capacity (Watt)1920 WMiscellaneousPackage ContentsSmartPro SM2200RMXL2UP 2200 VA Tower/Rack Mountable UPS4 Post 19 inch Rackmount Mounting Rail KitPowerAlert Software CDUSB CableSerial CableEPO CableSoftware IncludedPowerAlert SoftwareCertifications & StandardsUL1778FCC Part 15 Category A (EMI)Country of OriginTaiwan\u00a0Environmentally FriendlyYesEnvironmental ComplianceRestriction of Hazardous Substances (RoHS)Physical CharacteristicsWeight (Approximate)64 lbForm FactorRack/TowerRack Height2UHeight3.50\"Width17.50\"Depth19\"Technical InformationEmergency Power OFFYesPlug/Connector TypeNEMA 5-20PReceptacle TypeNEMA 5-15/20R\u00a0NEMA 5-15RTransfer Time5 msReceptacle Detail4 x NEMA 5-15R\u00a04 x NEMA 5-15/20RGeneral InformationProduct TypeLine-interactive UPSManufacturer Part NumberSM2200RMXL2UPManufacturer Website Addresshttp://www.eaton.comManufacturerEaton CorporationProduct ModelSM2200RMXL2UPProduct NameSmartPro SM2200RMXL2UP 2200 VA Tower/Rack Mountable UPSProduct LineSmartProBrand NameTripp Lite series\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/508761.jpg\",\"https://images.monoprice.com/productlargeimages/508762.jpg\",\"https://images.monoprice.com/productlargeimages/508763.jpg\",\"https://images.monoprice.com/productlargeimages/508764.jpg\",\"https://images.monoprice.com/productlargeimages/508765.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1620.99,
+      "sku": "50876",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=50876",
+      "gtin14": "889028242865"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Tripp Lite by Eaton UPS SmartPro 120V 2200VA 1920W Line-Interactive Sine Wave UPS 2U Extended Run Network Card Options LCD USB DB9 - 2U Rack/Tower",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/power-&-surge"
+    },
+    {
+      "name": "UPS Battery Backups",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/ups-battery-backups"
+    },
+    {
+      "name": "50876",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/ups-battery-backups/50876"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

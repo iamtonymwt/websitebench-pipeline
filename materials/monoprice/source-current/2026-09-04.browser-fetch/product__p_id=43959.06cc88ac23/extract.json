@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Blackbird 4K30 Video Extender over Ethernet with HDMI over CAT5e/6/7 70m HDMI Loop Out Smart EDID Power over Cable (PoC)",
+    "@id": "https://www.monoprice.com/product?p_id=43959",
+    "url": "https://www.monoprice.com/product?p_id=43959",
+    "description": "This Blackbird 4K HDMI\u00ae Extender Over Ethernet allows you to extend an HDMI signal over a single Cat5e/Cat6 Ethernet cable. It supports resolutions up to 4K@30Hz with YCbCr 4:4:4, including 1080p@60Hz with YCbCr 4:4:4. It can extend 4K signals to distances up to 164 feet (50 meters) and 1080p signals to distances up to 229 feet (70 meters). It is fully compliant with the HDMI 1.4 and HDCP\u2122 1.4 specifications and features smart EDID\u00ae management.Features: Supports resolutions up to 4K@30Hz with YCbCr 4:4:4, including 1080p@60Hz with YCbCr 4:4:4Complies with the HDMI\u00ae 1.4 and HDCP\u2122 1.4 specificationsExtends a 4K signal to distances up to 164 feet (50 meters) and a 1080p signal to distances up to 229 feet (70 meters) over a single Cat5e/Cat6 Ethernet cableHDMI loop\u2011out connection on the transmitter for use with a local displaySupports the Power over Cable (PoC) feature, which allows the receiver to be powered by the transmitter over the Ethernet cableSupports bidirectional IR passthroughSupport Files: Quick User Guide (Mar 4, 2022)Technical Drawing (Jun 10, 2026)Monoprice\u2122, Blackbird\u2122, the Blackbird logo, and all Monoprice logos are trademarks of Monoprice Inc. HDMI\u00ae, the HDMI Logo, and High\u2011Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. HDCP\u2122 is a trademark of Digital Content Protection LLC. EDID\u00ae is a registered trademark of the Video Electronics Standards Association. Updated Mar 4, 2022 Warning: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/439591.jpg\",\"https://images.monoprice.com/productlargeimages/439592.jpg\",\"https://images.monoprice.com/productlargeimages/439593.jpg\",\"https://images.monoprice.com/productlargeimages/439594.jpg\",\"https://images.monoprice.com/productlargeimages/439595.jpg\",\"https://images.monoprice.com/productlargeimages/439596.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 71.99,
+      "sku": "43959",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43959",
+      "gtin14": "889028183670"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Blackbird 4K30 Video Extender over Ethernet with HDMI over CAT5e/6/7 70m HDMI Loop Out Smart EDID Power over Cable (PoC)",
+      "ratingCount": "4",
+      "reviewCount": "4",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Audio Video Distribution",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution"
+    },
+    {
+      "name": "Audio Video Extenders",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders"
+    },
+    {
+      "name": "43959",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders/43959"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM Foldable Hand Truck and Dolly Cart Aluminum Luggage Trolley Lightweight Folding Hand Cart Multipurpose Use For Office Travel Moving and Indoor Outdoor Home",
+    "@id": "https://www.monoprice.com/product?p_id=44419",
+    "url": "https://www.monoprice.com/product?p_id=44419",
+    "description": "MPM Foldable Hand Truck and Dolly Cart is a convenient tool for transporting heavy items. Made of high-quality aluminum alloy material for a lightweight yet durable design. Perfect for moving boxes, luggage, and groceries for home, office, travel, and more.Made of high-quality aluminum alloy material, providing strength and durability while keeping the weight to a minimum.Perfect for moving items such as boxes, luggage, groceries, and more.Lightweight yet durable design. Easy to carry and can be folded after use.Easy to assemble and no additional tools required.Perfect tool for anyone who needs to transport items with ease.\u00a0Specification:Product size: 24-39 L x 15W x 2 D inchesMaterial: Aluminum alloyHandle Material: PlasticWheels Material: PVCMaximum Weight Capacity: 165lbs\u00a0\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0\u00a0\u00a0WARNING: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/444191.jpg\",\"https://images.monoprice.com/productlargeimages/444192.jpg\",\"https://images.monoprice.com/productlargeimages/444193.jpg\",\"https://images.monoprice.com/productlargeimages/444194.jpg\",\"https://images.monoprice.com/productlargeimages/444195.jpg\",\"https://images.monoprice.com/productlargeimages/444196.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 39.99,
+      "sku": "44419",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=44419",
+      "gtin14": "889028188828"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM Foldable Hand Truck and Dolly Cart Aluminum Luggage Trolley Lightweight Folding Hand Cart Multipurpose Use For Office Travel Moving and Indoor Outdoor Home",
+      "ratingCount": "1",
+      "reviewCount": "1",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "44419",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/44419"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

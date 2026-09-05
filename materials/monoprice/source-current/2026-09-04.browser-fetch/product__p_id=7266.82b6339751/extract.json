@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 RJ45 Modular Plugs w/Inserts for Round Solid/Stranded Cable 50u Clear 100-Pk",
+    "@id": "https://www.monoprice.com/product?p_id=7266",
+    "url": "https://www.monoprice.com/product?p_id=7266",
+    "description": "This is a pack of 100 crimp on RJ45 connectors for Cat6 solid cables. Cat6 connectors are made to higher standards, that help reduce noise caused by crosstalk and system noise. These connectors feature inserts for holding the wires in place, gold plated contacts, and a clear plastic housing.Features: Crimp on plug for use with Cat6 solid Ethernet cableIncludes insert to hold wires in placeGold plated contactsClear plastic housingSupport Files: Usage Instructions (Mar 27, 2009)Updated Jan 19, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72661.jpg\",\"https://images.monoprice.com/productlargeimages/72662.jpg\",\"https://images.monoprice.com/productlargeimages/72663.jpg\",\"https://images.monoprice.com/productlargeimages/72664.jpg\",\"https://images.monoprice.com/productlargeimages/72665.jpg\",\"https://images.monoprice.com/productlargeimages/72666.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 17.99,
+      "sku": "7266",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7266",
+      "gtin14": "844660072669"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 RJ45 Modular Plugs w/Inserts for Round Solid/Stranded Cable 50u Clear 100-Pk",
+      "ratingCount": "384",
+      "reviewCount": "234",
+      "ratingValue": "3.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Modular Plugs",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs"
+    },
+    {
+      "name": "7266",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs/7266"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

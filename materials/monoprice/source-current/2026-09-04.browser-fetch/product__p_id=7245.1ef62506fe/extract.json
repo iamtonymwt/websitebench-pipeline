@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat5e RJ45 Modular Plugs for Round Solid/Stranded Cable 50u 3 Prongs Clear 100-Pk",
+    "@id": "https://www.monoprice.com/product?p_id=7245",
+    "url": "https://www.monoprice.com/product?p_id=7245",
+    "description": "OEM Pack of 100 Qty. RJ45 8P8C Network Cable HeadsFor UTP Cat5, Cat5e - Designed for Solid cableCrimp on RJ45 connectors.Gold plated contactsClear plastic housing.For Solid wire cables.Click the following link for an installation guide:https://www.monoprice.com/manual/How%20to%20crimp%20RJ45%20wo%20inserts.pdf*Monoprice continually strives to improve its product line to bring our customers the best products available. Therefore, improvements and physical design changes may be made to listed specifications without prior notice. Item received may not match photo or specs shown.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72451.jpg\",\"https://images.monoprice.com/productlargeimages/72452.jpg\",\"https://images.monoprice.com/productlargeimages/72453.jpg\",\"https://images.monoprice.com/productlargeimages/72454.jpg\",\"https://images.monoprice.com/productlargeimages/72455.jpg\",\"https://images.monoprice.com/productlargeimages/72456.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 11.99,
+      "sku": "7245",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=7245",
+      "gtin14": "844660072454"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat5e RJ45 Modular Plugs for Round Solid/Stranded Cable 50u 3 Prongs Clear 100-Pk",
+      "ratingCount": "384",
+      "reviewCount": "149",
+      "ratingValue": "3.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Modular Plugs",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs"
+    },
+    {
+      "name": "7245",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/modular-plugs/7245"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

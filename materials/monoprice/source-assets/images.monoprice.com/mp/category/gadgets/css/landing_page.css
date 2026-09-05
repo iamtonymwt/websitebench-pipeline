@@ -1,0 +1,178 @@
+.mp-main-content{
+	width:100%;
+	
+}
+.landing-content img {
+	width:100%;
+	
+}
+
+
+
+
+/*main_banner_caption text position*/
+.main_banner_caption {
+	position: absolute;
+	left: 115px;
+	top: 10%;
+	color: #fff;
+	text-align: left;
+	font-weight: 300; 
+	text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+	
+	
+}
+
+.main_banner_caption h1 {
+	font-size: 32px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 100;
+	
+}
+
+.main_banner_caption h1 span {
+	font-size: 60px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 600;
+
+}
+
+.main_banner_caption h3 {
+	
+	font-size: 18px;
+    color: #ffffff;
+    font-weight: 100;
+    padding-top: 10px;
+	
+}
+
+/*main_banner_caption text position*/
+
+
+
+
+
+/*Your First Choice*/
+
+.first_choice {
+	width: 100%;
+    height: 300px;
+    background-color: #e8e8e8;
+    padding: 80px 120px;
+}
+
+.first_choice h2{
+	font-size: 32px;
+    color: #00a7bb;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.first_choice p {
+	font-size: 16px;
+	color: #000000;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+/*Your First Choice*/
+
+
+
+
+
+/* Description Information */
+.description {
+	width:100%;
+	height: auto;
+	background-color: #ffffff;
+	border-bottom: 1px solid #efefef;
+	padding: 10px
+
+}
+
+.description figure {
+	background-color: #ffffff;
+	height: auto;
+	padding: 20px;
+
+
+}
+
+.description figure img {
+	width: 169px;
+	height: 167px;
+	margin: 0 auto;
+	display: block;
+}
+
+
+.description figure h1 {
+	font-weight: 100;
+    font-size: 32px;
+    text-align: center;
+    color: #00a7bb;
+    padding-top: 20px;
+    line-height:30px;
+
+}
+
+.description figure p{
+	font-size: 16px;
+    padding-bottom: 2px;
+    padding: 0 10px;
+    text-align: center;
+    color: #000000;
+    padding: 0px 10px;
+    font-weight: 100;
+	
+}
+
+.description_header {
+	background-color: #ffffff;
+	height: 300px;
+	padding-top: 10%;
+	padding-bottom: 25px;
+	
+}
+
+
+
+
+/* Button*/
+
+.ghost_btn {
+	text-align: center;
+    padding: 5px 30px;
+    height: 30px;
+    width: 150px;
+    border-radius: 2px;
+    border: 1px solid #00a7bb;
+    margin: 0px auto;
+}
+
+
+.ghost_btn:hover {
+	background-color:#00a7bb;
+	color:#ffffff;
+	-webkit-transition: background 1s;
+}
+/* Button*/
+
+
+
+
+
+
+
+
+
+
+
+
+

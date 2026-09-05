@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@60Hz HDR 18Gbps YCbCr 444 34AWG 15ft Black",
+    "@id": "https://www.monoprice.com/product?p_id=7559",
+    "url": "https://www.monoprice.com/product?p_id=7559",
+    "description": "Connect your HDMI\u00ae equipped mobile device directly to your television using this Standard HDMI Cable and HDMI Micro Connector from Monoprice!This Standard HDMI Cable features an HDMI Micro Connector (Type D) on the source end and a regular HDMI Connector (Type A) on the other end. It supports the following general features:18Gbps data throughput34AWG copper conductorsFerrite core helps protect against RFI/EMIFull size HDMI connector head measures only 15.7mm thick and 24.0mm wideHDMI Micro connector head measures only 13.0mm thick and 16.2mm wideGold plated connectorsIt supports the following HDMI features:4K resolution at 60HzDeep Color up to 16-bits per channelx.v.Color\u2122High Definition Audio, including SA-CD, DVD-Audio, DTS-HD Master Audio\u2122, and Dolby TrueHD\u2122HDMI\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. x.v.Color\u2122 is a trademark of Sony Corporation. DTS\u00ae is a registered trademark and the DTS logos, Symbol, DTS-HD\u2122, and DTS-HD Master Audio\u2122 are trademarks of DTS, Inc. Dolby\u00ae and the double-D symbol are registered trademarks of Dolby Laboratories. Dolby TrueHD\u2122 is a trademark of Dolby Laboratories. \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/75591.jpg\",\"https://images.monoprice.com/productlargeimages/75592.jpg\",\"https://images.monoprice.com/productlargeimages/75593.jpg\",\"https://images.monoprice.com/productlargeimages/75594.jpg\",\"https://images.monoprice.com/productlargeimages/75595.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.19,
+      "sku": "7559",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=7559",
+      "gtin14": "844660075592"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@60Hz HDR 18Gbps YCbCr 444 34AWG 15ft Black",
+      "ratingCount": "152",
+      "reviewCount": "86",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables"
+    },
+    {
+      "name": "Micro & Mini HDMI Cables",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/micro-&-mini-hdmi-cables"
+    },
+    {
+      "name": "7559",
+      "url": "https://www.monoprice.com/category/cables/hdmi-cables/micro-&-mini-hdmi-cables/7559"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

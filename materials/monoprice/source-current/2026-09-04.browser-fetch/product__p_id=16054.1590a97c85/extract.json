@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45 550MHz UTP CMP Plenum Pure Bare Copper 23AWG 35ft Blue",
+    "@id": "https://www.monoprice.com/product?p_id=16054",
+    "url": "https://www.monoprice.com/product?p_id=16054",
+    "description": "Save the time and hassle of building Ethernet cables by using fixed-length UTP Cat6 Ethernet Network Cables from Monoprice\u2122!Features: Unshielded Twisted Pair (UTP) Category 6 Ethernet cable23AWG solid, pure bare copper conductors550MHz bandwidthSnagless cable boot protects the plug retaining clipCMP (Plenum) fire safety ratingWired to the TIA/EIA\u2011568\u2011B standard50\u00b5m gold plated contactsMonoprice\u2122 Ethernet cables are made of 100% pure bare copper wire, and are therefore fully compliant with UL\u00ae Code 444 and National Electrical Code\u00ae TIA\u2011568\u2011C.2 fire and safety standards, which require pure bare copper wire in communications cables.CategoryCat5eCat6Cat6aCat8/8.2Standard Bandwidth/Frequency100MHz (Up to 350MHz)250MHz (up to 550MHz)350MHz (up to 550MHz)2000MHzMaximum Data Rate1000Mbps1Gbps10Gbps25GbpsShielding TypeUTP or STP (F/UTP)UTP or STP (F/UTP)UTP or STP (F/UTP)Shielded (S/FTP) OnlyNetworks Supported1000Base-T1000Base-T10GBase-T25GBase-TDetailed ImageIdeal UseEnhanced features with the best pricing for residential and commercial networkingA good budget option for new network builds with a bandwidth that can handle most small to medium-sized businessesA good budget option for long network builds with a bandwidth that can handle most small to medium-sized businesses, best performance for servers & data centersShould only be considered coppered in-network environments where speed is very important.Monoprice\u2122, Entegrade\u2122, and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. NEC\u00ae and National Electrical Code\u00ae are registered trademarks of the National Fire Protection Association. Updated May 20, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/160541.jpg\",\"https://images.monoprice.com/productlargeimages/160542.jpg\",\"https://images.monoprice.com/productlargeimages/160543.jpg\",\"https://images.monoprice.com/productlargeimages/160544.jpg\",\"https://images.monoprice.com/productlargeimages/160545.jpg\",\"https://images.monoprice.com/productlargeimages/160546.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 41.59,
+      "sku": "16054",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=16054",
+      "gtin14": "889028041659"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45 550MHz UTP CMP Plenum Pure Bare Copper 23AWG 35ft Blue",
+      "ratingCount": "16",
+      "reviewCount": "4",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Networking Patch Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables"
+    },
+    {
+      "name": "Cat6 Ethernet Cables",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables"
+    },
+    {
+      "name": "16054",
+      "url": "https://www.monoprice.com/category/cables/networking-patch-cables/cat6-ethernet-cables/16054"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

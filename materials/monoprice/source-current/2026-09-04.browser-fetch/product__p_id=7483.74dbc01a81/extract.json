@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 1000ft CL2-rated Quad-Shielded 18AWG RG-6/U Bulk Coaxial Cable Black",
+    "@id": "https://www.monoprice.com/product?p_id=7483",
+    "url": "https://www.monoprice.com/product?p_id=7483",
+    "description": "RG\u20116/U Quad Shielded Coaxial Cable is great for high bandwidth applications, including antenna connections, cable television and satellite installations, and interference free speaker wire runs. The durable 18 AWG copper\u2011clad steel center conductor is surrounded by a foam polyethylene dielectric, with two active shield layers of Mylar\u00ae polyester film foil, which provides 99~100% coverage, and two layers of aluminum braid shielding, with 95% coverage. Sweep testing ensures 3.0GHz performance at applicable frequencies.Features: 75 ohm impedance18 AWG solid 0.040\" copper\u2011clad steel center conductorTwo layers of Mylar\u00ae foil shielding with 99\u2011100% coverageTwo layers of aluminum braid shielding with 95% coverageCM/CL2 in\u2011wall ratedMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Mylar\u00ae is a registered trademark of DuPont Teijin Films. Updated Jul 12, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/74831.jpg\",\"https://images.monoprice.com/productlargeimages/74832.jpg\",\"https://images.monoprice.com/productlargeimages/74833.jpg\",\"https://images.monoprice.com/productlargeimages/74834.jpg\",\"https://images.monoprice.com/productlargeimages/74835.jpg\",\"https://images.monoprice.com/productlargeimages/74836.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 366.09,
+      "sku": "7483",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7483",
+      "gtin14": "844660074830"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 1000ft CL2-rated Quad-Shielded 18AWG RG-6/U Bulk Coaxial Cable Black",
+      "ratingCount": "8",
+      "reviewCount": "5",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Bulk Cables",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables"
+    },
+    {
+      "name": "Bulk Coaxial Cable",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-coaxial-cable"
+    },
+    {
+      "name": "7483",
+      "url": "https://www.monoprice.com/category/cables/bulk-cables/bulk-coaxial-cable/7483"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

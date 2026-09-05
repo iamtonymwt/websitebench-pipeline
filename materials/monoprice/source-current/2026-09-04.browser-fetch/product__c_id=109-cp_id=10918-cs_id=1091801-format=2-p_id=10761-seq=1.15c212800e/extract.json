@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6-Zone Home Audio Multizone Controller and Amplifier Kit NO LOGO",
+    "@id": "https://www.monoprice.com/product?p_id=10761",
+    "url": "https://www.monoprice.com/product?p_id=10761",
+    "description": "Distribute and control music and other audio material to up to six stereo speaker zones using this 6\u2011Zone Home Audio Multizone Controller and Amplifier.This multizone controller is a 6x6 matrix with six stereo audio inputs and six outputs. Each input channel can be independently directed to any of the output channels using the included remote control or the keypad controllers installed in each zone.The six inputs are 2\u2011channel stereo, with four line level inputs using RCA jacks, one input on a 3.5mm TRS jack, and a Toslink\u00ae digital optical input. A separate PA input allows you to override selected audio material and broadcast a single audio source to each connected zone. Additionally, a mute input allows you to mute each output channel using a single source trigger.Each output channel features an amplifier that is capable of delivering 50 watts/channel into a 4\u2011ohm load or 25 watts/channel into an 8\u2011ohm load. Each amplifier can be individually bridged to produce 100 watts into an 8\u2011ohm load. The amp uses Euroblock connectors for the speaker level outputs, which takes less space than push\u2011grip connector terminals. The Euroblock connectors can accept speaker wire up to 12AWG and can be removed from the amplifier for easier installation.Each output channel also features RCA line\u2011level output jacks, allowing you to use a separate, more powerful amplifier in any output zone or to send the audio to a self\u2011amplified component, such as a television display.Each zone is independently controlled at the zone using a wallplate keypad with lighted, soft\u2011touch buttons. The keypads connect to the main unit using Cat5e or Cat6 Ethernet cable. Each keypad features an infrared \"eye\", which can propagate single\u2011band IR remote control signals to individual IR transmitters connected to the master controller. This allows you to control the source devices from each zone using their native remote controls.The controller features 12 volt trigger outputs for each distribution zone, plus a master trigger for the entire system. This allows you to activate automated devices, such as lowering a projection screen or dimming the lights whenever the system as a whole, or an individual zone, is activated.Up to three master controllers can be connected together to provide a massive 6x18 matrix, with audio source and control information passed between master controllers using the included 18\u2011pin ribbon cable. The master controller can accept 115V and 230V inputs. The voltage selector switch is covered to prevent it from being accidentally changed.The master controller features an RS\u2011232 serial input, which lets you program a computer for automated control. A complete list of RS\u2011232 commands and codes, including status reporting commands, is included in the manual. The package includes a 19\" rack mount kit.You can easily add Bluetooth audio and Wi-Fi audio inputs with the 13358 Monoprice Multizone Source with Bluetooth Receiver and the 39262 Monoprice Multizone Source with Wi-Fi Receiver and Line Input. Both of these audio inputs require the 13356 Monoprice RJR-2 Multizone RJ45 to RCA Converter which provides two RCA outputs that can then connect to two inputs on the back of the amplifier.Support Files: User's Manual (Dec 9, 2013)Fuse Replacement Guide (Oct 15, 2019)Specification Sheet (Jul 25, 2014)Manual de Usuario (Espa\u00f1ol) (Apr 08, 2015)Sales Sheet (May 26, 2025)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. TOSLINK\u00ae is a registered trademark of Toshiba Corporation. Updated Jun 27, 2022 Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/107611.jpg\",\"https://images.monoprice.com/productlargeimages/107612.jpg\",\"https://images.monoprice.com/productlargeimages/107613.jpg\",\"https://images.monoprice.com/productlargeimages/107614.jpg\",\"https://images.monoprice.com/productlargeimages/107615.jpg\",\"https://images.monoprice.com/productlargeimages/107616.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1099.99,
+      "sku": "10761",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=10761",
+      "gtin14": "757901806841"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6-Zone Home Audio Multizone Controller and Amplifier Kit NO LOGO",
+      "ratingCount": "161",
+      "reviewCount": "159",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Amplifiers & Receivers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers"
+    },
+    {
+      "name": "Audio Amplifiers",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers"
+    },
+    {
+      "name": "10761",
+      "url": "https://www.monoprice.com/category/audio-video/amplifiers-&-receivers/audio-amplifiers/10761"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

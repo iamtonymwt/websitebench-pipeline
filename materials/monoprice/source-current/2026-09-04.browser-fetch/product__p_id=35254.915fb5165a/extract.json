@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB-C Female to USB-A Male 3.1 Gen 2 Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=35254",
+    "url": "https://www.monoprice.com/product?p_id=35254",
+    "description": "\u00a0Do you have all new USB Type-C\u2122 devices, but no more USB-C\u2122 ports? With this Monoprice USB-C to USB-A 3.1 Gen 2 Adapter, you can connect your USB Type-C device to a compatible USB Type-A port. With the ability to identify the orientation of the Type-C connector, you don't have to worry about losing any data speeds if connected the wrong way. Supporting the USB 3.1 Gen 2 standard, this adapter can connector and transfer data at speeds up to 10Gbps through a compatible connection.Features: Up to 10Gbps data transfer speeds when connected to a supported deviceProvides Power Deliver (PD) through a compatible USB Type-A portUSB Type-C\u2122 and USB-C\u2122 are trademarks of USB Implementers Forum, Inc. \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/352541.jpg\",\"https://images.monoprice.com/productlargeimages/352542.jpg\",\"https://images.monoprice.com/productlargeimages/352543.jpg\",\"https://images.monoprice.com/productlargeimages/352544.jpg\",\"https://images.monoprice.com/productlargeimages/352545.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 7.99,
+      "sku": "35254",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=35254",
+      "gtin14": "889028104439"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB-C Female to USB-A Male 3.1 Gen 2 Adapter",
+      "ratingCount": "45",
+      "reviewCount": "45",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "35254",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/35254"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Cat6A RJ45 Inline Coupler Type Feedthrough Keystone Jack for 22-24AWG Solid Wire Permanent Link White",
+    "@id": "https://www.monoprice.com/product?p_id=15696",
+    "url": "https://www.monoprice.com/product?p_id=15696",
+    "description": "Straight Through Cat6A RJ45 Keystone In-Line Coupler. High Quality RJ45 8P8C coupler is to connect two RJ45 patch network cables to make a longer patch cable.Support Files: Tech Drawing (Feb 27, 2026)Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/156961.jpg\",\"https://images.monoprice.com/productlargeimages/156962.jpg\",\"https://images.monoprice.com/productlargeimages/156963.jpg\",\"https://images.monoprice.com/productlargeimages/156964.jpg\",\"https://images.monoprice.com/productlargeimages/156965.jpg\",\"https://images.monoprice.com/productlargeimages/156966.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "15696",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15696",
+      "gtin14": "889028038017"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Cat6A RJ45 Inline Coupler Type Feedthrough Keystone Jack for 22-24AWG Solid Wire Permanent Link White",
+      "ratingCount": "203",
+      "reviewCount": "17",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Networking Keystones",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones"
+    },
+    {
+      "name": "15696",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/networking-keystones/15696"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

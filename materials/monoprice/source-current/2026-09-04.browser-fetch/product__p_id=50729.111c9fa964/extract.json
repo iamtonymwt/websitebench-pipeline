@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Eaton Tripp Lite Series UPS Replacement Battery Cartridge for APC Belkin Best Powerware Liebert & Other UPS",
+    "@id": "https://www.monoprice.com/product?p_id=50729",
+    "url": "https://www.monoprice.com/product?p_id=50729",
+    "description": "These premium UPS replacement battery cartridges breathe new life into UPS systems suffering from expired or weak internal batteries. Each replacement battery cartridge is carefully screened and certified to meet or exceed original manufacturer specifications and ships ready for installation into your UPS system. Reusable packaging holds expired batteries for recycling center delivery. Compatible with a wide variety UPS brands and models. See the UPS replacement battery web page to confirm compatibility and quantity required.FeaturesRestores UPS runtime performance to its original runtime specificationsReusable packaging contains expired batteries for recycling center deliveryCompatible with a variety of UPS brandsSolution for a battery that is about to expire, so you can replace it whenever neededOperates in any position without the need to add waterIn terms of cost per watt hours, it is an inexpensive choice providing efficient powerPhysical CharacteristicsWeight (Approximate)5.80 lbHeight3.7\"Width2.5\"Depth5.9\"MiscellaneousPackage ContentsRBC51 Battery UnitOwner's ManualCompatibilityCompability UPS Brands:APCBelkinBestPowerwareLiebertOther UPSCountry of OriginVietnamEnvironmentally FriendlyYesEnvironmental ComplianceRestriction of Hazardous Substances (RoHS)Technical InformationBattery ChemistryLead Acid\u00a0Input Voltage12 V DCBattery SizeProprietary Battery SizeBattery Capacity9000 mAhBattery CharacteristicsSealedMaximum Battery Life5 YearMinimum Battery Life3 YearGeneral InformationProduct TypeBattery UnitManufacturer Part NumberRBC51Manufacturer Website Addresshttp://www.eaton.comPackaged Quantity1ManufacturerEaton CorporationProduct ModelRBC51Product NameRBC51 Battery UnitBrand NameTripp Lite series\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/507291.jpg\",\"https://images.monoprice.com/productlargeimages/507292.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 80.99,
+      "sku": "50729",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=50729",
+      "gtin14": "889028241424"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Eaton Tripp Lite Series UPS Replacement Battery Cartridge for APC Belkin Best Powerware Liebert & Other UPS",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Computers & Gaming",
+      "url": "https://www.monoprice.com/category/pages/7"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/computers-&-gaming/power-&-surge"
+    },
+    {
+      "name": "UPS Battery Backups",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/ups-battery-backups"
+    },
+    {
+      "name": "50729",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/ups-battery-backups/50729"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "USB to Serial Converter Cable (DB-9M / USB-A Male)  3ft",
+    "@id": "https://www.monoprice.com/product?p_id=3726",
+    "url": "https://www.monoprice.com/product?p_id=3726",
+    "description": "A USB to Serial Converter Cable (DB\u20119M / USB\u2011A Male), 3ft is a cable that allows you to connect a device with a DB\u20119 (also known as RS\u2011232) serial port to a computer or other device with a USB\u2011A port.The cable has a DB\u20119 male connector on one end, which is the standard connector for serial communication, and a USB\u2011A male connector on the other end, which is the common USB connector found on most computers and devices.By using this cable, you can connect devices such as modems, routers, serial consoles, industrial equipment, or other devices with a DB\u20119 serial port to your computer's USB port. This enables you to communicate and transfer data between your computer and the serial device.The cable is typically 3 feet (approximately 91 centimeters) in length, providing a convenient distance for connecting devices that are in close proximity to each other. However, different cable lengths may be available depending on the manufacturer and product options.When using this cable, it's important to install the necessary drivers or software provided by the manufacturer, as it emulates a serial port over USB. This allows your computer to recognize and communicate with the serial device as if it were directly connected to a physical serial port.Overall, a USB to Serial Converter Cable (DB\u20119M / USB\u2011A Male), 3ft is a useful tool for connecting legacy serial devices to modern computers or devices that lack a native serial port.Features: Uses the Prolific\u00ae PL\u20112303 chipsetSupports automatic handshake modeWorks with cellular phones, PDAs, digital cameras, modems, and ISDN terminal adaptersSupports Windows\u00ae 98/98SE/ME/2000/XP/Windows 7 (32 and 64 bit), macOS\u00ae 8.6 and higher, and Linux\u00ae (NOT compatible with Windows 8)Supports remote wakeup and power managementFrees your RS\u2011232 ports for other uses or provides an RS\u2011232 connector for PCs without a serial portNOT COMPATIBLE WITH WINDOWS 8!! Note that, although the packaging indicates that there is a manual included with this device, there is no manual included. We will get this discrepancy corrected as soon as possible. Note that the drivers on the CD are contained in the \\Prolific\\PL\u20112303 directory. However, newer drivers have been released. Click here to download the latest drivers.\u00a0Support Files: Drivers for Windows 2000/XP/Server 2003/Vista\u00ae/Server 2008/7 ver 3.4.25.218 (Oct 21, 2011)Drivers for Windows 98/ME/2000/XP/Server 2003/Vista/Server 2008/7 ver 3.3.11.152 (Jul 15, 2010)Drivers for macOS\u00ae 10.6\u201110.7 ver 1.4.0 (Sep 2, 2010)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Prolific\u00ae is a trademark of Prolific Technology Inc. Microsoft\u00ae, Windows\u00ae, and Vista\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Apple\u00ae, Mac\u00ae, and macOS\u00ae are trademarks of Apple Inc., registered in the U.S. and other countries. Linux\u00ae is the registered trademark of Linus Torvalds in the U.S. and other countries. Updated Oct 21, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/37261.jpg\",\"https://images.monoprice.com/productlargeimages/37262.jpg\",\"https://images.monoprice.com/productlargeimages/37263.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "3726",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3726",
+      "gtin14": "844660037262"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "USB to Serial Converter Cable (DB-9M / USB-A Male)  3ft",
+      "ratingCount": "162",
+      "reviewCount": "162",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "AV & Computer Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+    },
+    {
+      "name": "USB Adapters",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters"
+    },
+    {
+      "name": "3726",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters/3726"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

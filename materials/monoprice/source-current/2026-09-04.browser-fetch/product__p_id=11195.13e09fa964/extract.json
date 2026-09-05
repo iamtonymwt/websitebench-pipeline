@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice USB 3.0 to Gigabit Ethernet Adapter",
+    "@id": "https://www.monoprice.com/product?p_id=11195",
+    "url": "https://www.monoprice.com/product?p_id=11195",
+    "description": "Speed up your wired internet connection using this USB 3.0 Gigabit Ethernet Adapter from Monoprice\u2122!This adapter allows you to get improved network speeds on any laptop or on a desktop without having to install a new network card. It features 1000 Mbps Gigabit Ethernet speeds and is backwards compatible with 10/100 Mbps connections. The SuperSpeed USB 3.0 interface means that the USB port will not slow down your Gigabit Ethernet speed.The adapter draws all the power it needs from the USB port it is plugged into and therefore needs no external power supply or source. It also contains all the drivers it needs for Plug and Play installation on Windows\u00ae (XP, Vista\u00ae, 7, 8, 8.1, 10, and 11), macOS\u00ae, Linux\u00ae, and Android\u2122 systems. The USB 3.0 connector head features a slim design so that it won't block other adjacent or stacked ports.\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Microsoft\u00ae, Windows\u00ae, and Vista\u00ae are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Apple\u00ae, Mac\u00ae, and macOS\u00ae are trademarks of Apple Inc, registered in the U.S. and other countries. Linux\u00ae is the registered trademark of Linus Torvalds in the U.S. and other countries. Android\u2122 is a trademark of Google LLC. Updated OCt 21, 2021 \u00a0\u00a0Support Files: Technical Drawing (Jun 12, 2025)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/111951.jpg\",\"https://images.monoprice.com/productlargeimages/111952.jpg\",\"https://images.monoprice.com/productlargeimages/111953.jpg\",\"https://images.monoprice.com/productlargeimages/111954.jpg\",\"https://images.monoprice.com/productlargeimages/111955.jpg\",\"https://images.monoprice.com/productlargeimages/111956.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "11195",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=11195",
+      "gtin14": "757901811685"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice USB 3.0 to Gigabit Ethernet Adapter",
+      "ratingCount": "121",
+      "reviewCount": "121",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Wired Networking",
+      "url": "https://www.monoprice.com/category/networking/wired-networking"
+    },
+    {
+      "name": "USB to Ethernet Converters",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/usb-to-ethernet-converters"
+    },
+    {
+      "name": "11195",
+      "url": "https://www.monoprice.com/category/networking/wired-networking/usb-to-ethernet-converters/11195"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

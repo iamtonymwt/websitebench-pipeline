@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "42U 1100mm Open Frame Adjustable Rack Flat Pack GSA Approved",
+    "@id": "https://www.monoprice.com/product?p_id=42359",
+    "url": "https://www.monoprice.com/product?p_id=42359",
+    "description": "This 4\u2011post adjustable server rack is constructed with high\u2011quality SPCC cold\u2011rolled steel. Featuring an adjustable depth, this rack is designed to fit all types of standard 19\" equipment up to 43\" deep. This open frame server rack is a flexible and cost\u2011effective solution for rackmount devices and is optimized for SOHOs, small and big businesses, research institutions, etc. The open frame rack design has higher thermal manageability using room or central air conditioning.Features: Sturdy and rugged frame structureAdjustable depth up to 43\"Suitable for a wide variety of rackmount equipmentUniversal fit for most rackmount chassis and equipmentConstructed of high\u2011quality SPCC cold\u2011rolled steelOpen frame construction allows quick access to the rackmount systemEasy to assemble and disassembleShips unassembled\u00a0Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Dec 22, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/423591.jpg\",\"https://images.monoprice.com/productlargeimages/423592.jpg\",\"https://images.monoprice.com/productlargeimages/423593.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 463.99,
+      "sku": "42359",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=42359",
+      "gtin14": "889028166635"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "42U 1100mm Open Frame Adjustable Rack Flat Pack GSA Approved",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Racks & Cabinets",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets"
+    },
+    {
+      "name": "Network Racks",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/network-racks"
+    },
+    {
+      "name": "42359",
+      "url": "https://www.monoprice.com/category/networking/network-racks-&-cabinets/network-racks/42359"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

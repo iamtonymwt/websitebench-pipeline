@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 20-Channel Snake & 16 XLR x 4 TRS Stage Box - 100 feet",
+    "@id": "https://www.monoprice.com/product?p_id=604135",
+    "url": "https://www.monoprice.com/product?p_id=604135",
+    "description": "Monoprice\u212220\u2011Channel Snake & 16 XLR x 4 TRS Stage Box \u2011 100 feet25AWG Conductors and Features 16 Downstream and 4 Upstream ConnectionsConnect your mixing board to your stage performers with this 100 foot 20\u2011channel XLR/TRS Snake with 16x4 Stage Box from Monoprice\u2122!This professional audio snake uses 25AWG conductors and features 16 downstream and 4 upstream connections. The heavy duty stage box measures 12.6\" x 6.9\" x 2.9\". It has 16 female XLR and 4 female TRS connectors, a convenient handle on one end, and mounting holes so it can be secured to a wall or floor position.The XLR connectors have metal bodies with plastic sleeves and rubber strain relief boots. The 16 downstream connectors have white numbers (1\u201116) and the upstream connectors have white letters (A\u2011D), making it easy to distinguish upstream and downstream connections. Additionally, the jacket of each cable is labeled with a number or letter at the connector end.The main cable has an outside diameter of about 0.8\"..gte-ctr .row{margin:0;}1 Year Replacement WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30 day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.30 Day Money Back GuaranteeMonoprice\u2122 stands behind every product we sell with a 30 day money back guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0Monoprice\u2122, Stage Right\u2122, the Stage Right logo, and all Monoprice logos are trademarks of Monoprice Inc Updated Oct 30, 2023 WARNING: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/6041351.jpg\",\"https://images.monoprice.com/productlargeimages/6041352.jpg\",\"https://images.monoprice.com/productlargeimages/6041353.jpg\",\"https://images.monoprice.com/productlargeimages/6041354.jpg\",\"https://images.monoprice.com/productlargeimages/6041355.jpg\",\"https://images.monoprice.com/productlargeimages/6041356.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 599.99,
+      "sku": "604135",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=604135",
+      "gtin14": "889028001691"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 20-Channel Snake & 16 XLR x 4 TRS Stage Box - 100 feet",
+      "ratingCount": "9",
+      "reviewCount": "9",
+      "ratingValue": "4.1",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Snake Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables"
+    },
+    {
+      "name": "604135",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables/604135"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

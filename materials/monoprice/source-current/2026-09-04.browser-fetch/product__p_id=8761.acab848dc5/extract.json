@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10ft 4-Channel TRS Male to XLR Female Snake Cable",
+    "@id": "https://www.monoprice.com/product?p_id=8761",
+    "url": "https://www.monoprice.com/product?p_id=8761",
+    "description": "Make your XLR to 1/4\" balanced connections with confidence when you use these professional quality audio cables from Monoprice!These 4-channel cable snakes feature four individual XLR female to 1/4\" male balanced TRS cable sets. The 1/4\" male connectors feature a slim, molded connector housing. The XLR female connectors feature a black, plastic shell with metal retaining clips and plastic and rubber, screw-on cable boots. The cables utilize 25 AWG conductors.Each cable connector is color coded (blue, white, orange, and yellow) to ensure that you make the right connection the first time, every time. The four cables are bound together into a single snake with a soft and durable outer jacket. The Monoprice lifetime guarantee on cables means you can trust these cables to withstand the rigors of professional audio applications!Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/87611.jpg\",\"https://images.monoprice.com/productlargeimages/87612.jpg\",\"https://images.monoprice.com/productlargeimages/87613.jpg\",\"https://images.monoprice.com/productlargeimages/87614.jpg\",\"https://images.monoprice.com/productlargeimages/87615.jpg\",\"https://images.monoprice.com/productlargeimages/87616.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 25.99,
+      "sku": "8761",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=8761",
+      "gtin14": "844660087618"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10ft 4-Channel TRS Male to XLR Female Snake Cable",
+      "ratingCount": "61",
+      "reviewCount": "22",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Snake Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables"
+    },
+    {
+      "name": "8761",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/snake-cables/8761"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

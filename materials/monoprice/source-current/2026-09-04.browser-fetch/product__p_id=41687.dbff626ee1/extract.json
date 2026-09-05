@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13 H05VV-F 3G 0.75 mmsup2/sup 10A/2500W 250V Black 1M",
+    "@id": "https://www.monoprice.com/product?p_id=41687",
+    "url": "https://www.monoprice.com/product?p_id=41687",
+    "description": "Extend the reach of your AC powered device using this AC power extension cord to energize equipment from a distant power outlet. This cable features a standard, grounded IEC 60320 C14 plug on one end and an IEC 60320 C13 receptacle on the other. IEC 60320 C14 to C13 power cords are commonly used between rack mounted equipment and the PDU in a data cabinet. This cable is designed to carry up to a 10 amp/2500 watt, 250 volt load.Features: Recommended for powering computers, monitors, and other essential peripheralsExtend the length of an existing power cord for more flexibilityConnect devices, such as computers, servers, and monitors to a PDU or UPS in data center\u00a0Plug\u00a0TypeIEC 60320 C14Receptacle\u00a0TypeIEC 60320 C13Jacket\u00a0MaterialH05VV\u2011F 3G 0,75 mm2#\u00a0of\u00a0Conductors3Wire\u00a0Gauge18 AWGMaximum\u00a0Current10 ampsCertificationsETL, cETL, RoHSSupport Files: Diagram (Apr 29, 2020)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Sep 15, 2021 \u00a0\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/416871.jpg\",\"https://images.monoprice.com/productlargeimages/416872.jpg\",\"https://images.monoprice.com/productlargeimages/416873.jpg\",\"https://images.monoprice.com/productlargeimages/416874.jpg\",\"https://images.monoprice.com/productlargeimages/416875.jpg\",\"https://images.monoprice.com/productlargeimages/416876.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 8.59,
+      "sku": "41687",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41687",
+      "gtin14": "889028158906"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13 H05VV-F 3G 0.75 mmsup2/sup 10A/2500W 250V Black 1M",
+      "ratingCount": "61",
+      "reviewCount": "0",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Power Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "41687",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/41687"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

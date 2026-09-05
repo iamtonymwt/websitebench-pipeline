@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Easy Mount Low Voltage Cable Recessed Wall Plate - Black",
+    "@id": "https://www.monoprice.com/product?p_id=6622",
+    "url": "https://www.monoprice.com/product?p_id=6622",
+    "description": "Monoprice is proud to\u00a0carry a\u00a0line of low voltage cable pass through wall plates with an \"easy mount\" design that does not require a work ring or low voltage gang box inside of the wall for installation. The wall plates feature a unique design with tabs\u00a0on the sides that fasten tightly against the back of a drywall mounting surface providing a clean looking installation without the hassle of installing a gang box or work ring. The design also allows for additional versatility as the wall plates can either be installed vertically or horizontally on the wall. \u00a0Recessed low voltage pass through wall plates give your installation a finished appearance but allows you the versatility of using the cable types of your choice. Multiple lines can be passed through a single plate allowing you to mix and match, eliminating the need to have multiple plates spread out across your wall.\u00a0\u00a0With these new plates you can install low voltage cables behind your flat panel TV, your amplifier, or other audio/video devices with ease.Total dimensions: 4.9\" (L) x 3.25\" (W) x 2.25\" (D)Cable pass through dimensions: 2.5\" (L) x 1.5\" (W) x 2.25\" (D)Maximum wall thickness for installation: 1 inchMinimum wall thickness for installation: .25 inch\u00a0\u00a0*The color indicated can vary in tone and/or hue between production runs and manufacturing facilities.\u00a0 The color of this item may not be an exact match to any other product, even if they are indicated as being the same color, whether sold by Monoprice or any other vendor.\u00a0 Individual pieces may also vary very slightly in color from each other.",
+    "image": "[\"https://images.monoprice.com/productlargeimages/66221.jpg\",\"https://images.monoprice.com/productlargeimages/66222.jpg\",\"https://images.monoprice.com/productlargeimages/66223.jpg\",\"https://images.monoprice.com/productlargeimages/66224.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 3.99,
+      "sku": "6622",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6622",
+      "gtin14": "844660066224"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Easy Mount Low Voltage Cable Recessed Wall Plate - Black",
+      "ratingCount": "65",
+      "reviewCount": "6",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Adapters, Switches, & Splitters",
+      "url": "https://www.monoprice.com/category/pages/2"
+    },
+    {
+      "name": "Wall Plates & Keystones",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+    },
+    {
+      "name": "Audio Video Wall Plates & Boxes",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes"
+    },
+    {
+      "name": "6622",
+      "url": "https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes/6622"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

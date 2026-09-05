@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 6.5in Indoor/Outdoor Weather Resistant 70V/100V/8-Ohm Pendant Speaker (Pair)",
+    "@id": "https://www.monoprice.com/product?p_id=41843",
+    "url": "https://www.monoprice.com/product?p_id=41843",
+    "description": "If you're looking for a great sounding speaker that has the ability to mount virtually anywhere and in any way, whether you want to suspend it from the ceiling, mount it, or stand it on the floor, you just found it! The PS Series offers versatility and performance that rivals speakers costing much more. Perfect for both residential or commercial audio applications, the PS Series provides a wide listening field with exceptional sound quality. The optimized audio design uses a 6.5\" polypropylene cone woofer that provides deep, clear bass that is paired with a 1\" silk dome tweeter that produces balanced, lifelike tone and musical reproduction. The IP rated weather and dust resistant enclosure is finished with an eye\u2011pleasing matte texture that fits perfectly into any home or commercial setting. The PS Series is the most versatile, affordable speaker solution you will find. (Note: For Landscape Speakers, see our GSP Series.)Features: The 6.5\" polypropylene woofer maintains a uniform dispersion pattern at all frequencies in its range and produces a cleaner sound to the listenerThe 1\" silk dome tweeter produces smooth treble, wide dispersion, and accurate imagingFour 70V and four 100V transformer taps, as well as NC and 8\u2126 taps40 watts maximum RMS power capacity in an 8\u2126 speaker systemIP66 weather resistant ratingFantastic full\u2011range sound that offers an excellent listening experienceDustproof and water\u2011resistant, IP\u2011rated enclosure is perfect for high humidity areas, such as bathrooms and outdoor patiosSwivels and positions easily for optimal listening experienceAudiophile quality matte finish enclosure for a high tech look and feelThe shielded grille offers additional protection from dust and damageSupport Files: User's Manual (Aug 20, 2020)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Nov 2, 2021 Warning: This product can expose you to Pentaerythritol Dibromide, which is known to the State of California to cause cancer. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/418431.jpg\",\"https://images.monoprice.com/productlargeimages/418432.jpg\",\"https://images.monoprice.com/productlargeimages/418433.jpg\",\"https://images.monoprice.com/productlargeimages/418434.jpg\",\"https://images.monoprice.com/productlargeimages/418435.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 269.99,
+      "sku": "41843",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=41843",
+      "gtin14": "889028160565"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 6.5in Indoor/Outdoor Weather Resistant 70V/100V/8-Ohm Pendant Speaker (Pair)",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Commercial Audio & Digital Signage",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage"
+    },
+    {
+      "name": "Speakers",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/speakers"
+    },
+    {
+      "name": "41843",
+      "url": "https://www.monoprice.com/category/audio-video/commercial-audio-&-digital-signage/speakers/41843"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Universal Cable Jacket Stripper",
+    "@id": "https://www.monoprice.com/product?p_id=3354",
+    "url": "https://www.monoprice.com/product?p_id=3354",
+    "description": "Light weight, compact, cost-effective stripper, simple to operate.Adjustable stripping blade for different insulation thickness, prevents damage of shielding and conductors.The cassette can be reversed to change different coaxial cable.Easily to adjust with thumb screw.With cable cutter.Support Files: User Manual (Apr 04, 2023)",
+    "image": "[\"https://images.monoprice.com/productlargeimages/33541.jpg\",\"https://images.monoprice.com/productlargeimages/33542.jpg\",\"https://images.monoprice.com/productlargeimages/33543.jpg\",\"https://images.monoprice.com/productlargeimages/33544.jpg\",\"https://images.monoprice.com/productlargeimages/33545.jpg\",\"https://images.monoprice.com/productlargeimages/33546.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "3354",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=3354",
+      "gtin14": "844660033547"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Universal Cable Jacket Stripper",
+      "ratingCount": "60",
+      "reviewCount": "60",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Tools & Testers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers"
+    },
+    {
+      "name": "Cable Jacket Strippers",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/cable-jacket-strippers"
+    },
+    {
+      "name": "3354",
+      "url": "https://www.monoprice.com/category/networking/tools-&-testers/cable-jacket-strippers/3354"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3ft Premier Series XLR Male to RCA Male Cable 16AWG (Gold Plated)",
+    "@id": "https://www.monoprice.com/product?p_id=4776",
+    "url": "https://www.monoprice.com/product?p_id=4776",
+    "description": "An XLR to RCA cable converts a balanced audio signal into an unbalanced signal. This is good for sending audio signals from an XLR source to an RCA input, or vice versa. Regardless of direction, the result will be an unbalanced signal.This is a premium quality cable with gold plated connectors at each end. The cable is made with two 16 AWG oxygen-free copper conductors, in a twisted\u2011pair arrangement, and is shielded along the full length using copper braid with 97.5% coverage.This cable uses the standard pinout with pins 1 and 3 of the XLR connector wired to the shield of the RCA plug and pin 2 of the XLR connector wired to the tip of the RCA plug.Features: 16AWG stranded copper wire conduits97.5% shielded balanced connectionsGold plated connectorsMetallic graphite colored connector housingsMolded strain relief bootsMonoprice\u2122 and all Monoprice logos are trademarks of Monoprice. Updated Jun 16, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/47761.jpg\",\"https://images.monoprice.com/productlargeimages/47762.jpg\",\"https://images.monoprice.com/productlargeimages/47763.jpg\",\"https://images.monoprice.com/productlargeimages/47764.jpg\",\"https://images.monoprice.com/productlargeimages/47765.jpg\",\"https://images.monoprice.com/productlargeimages/47766.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 12.99,
+      "sku": "4776",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=4776",
+      "gtin14": "844660047766"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3ft Premier Series XLR Male to RCA Male Cable 16AWG (Gold Plated)",
+      "ratingCount": "214",
+      "reviewCount": "45",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Pro Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables"
+    },
+    {
+      "name": "Interconnect Cables",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables"
+    },
+    {
+      "name": "4776",
+      "url": "https://www.monoprice.com/category/cables/pro-audio-cables/interconnect-cables/4776"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

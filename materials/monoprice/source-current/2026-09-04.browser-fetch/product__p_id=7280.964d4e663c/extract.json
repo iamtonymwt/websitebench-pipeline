@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 8P8C RJ45 Straight Inline Coupler Beige",
+    "@id": "https://www.monoprice.com/product?p_id=7280",
+    "url": "https://www.monoprice.com/product?p_id=7280",
+    "description": "Straight Through RJ45 In-Line CouplerHigh Quality RJ45 8P8C coupler is to connect two RJ45 patch network cables to make a longer patch cable.Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/72801.jpg\",\"https://images.monoprice.com/productlargeimages/72802.jpg\",\"https://images.monoprice.com/productlargeimages/72803.jpg\",\"https://images.monoprice.com/productlargeimages/72804.jpg\",\"https://images.monoprice.com/productlargeimages/72805.jpg\",\"https://images.monoprice.com/productlargeimages/72806.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 1.99,
+      "sku": "7280",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=7280",
+      "gtin14": "844660072805"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 8P8C RJ45 Straight Inline Coupler Beige",
+      "ratingCount": "89",
+      "reviewCount": "89",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Network Installation Accessories",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories"
+    },
+    {
+      "name": "Inline Couplers",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/inline-couplers"
+    },
+    {
+      "name": "7280",
+      "url": "https://www.monoprice.com/category/networking/network-installation-accessories/inline-couplers/7280"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

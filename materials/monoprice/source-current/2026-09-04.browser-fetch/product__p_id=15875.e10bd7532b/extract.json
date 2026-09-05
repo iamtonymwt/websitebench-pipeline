@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 10 Outlet Rotating Power Strip Surge Protector Block - 2880 Joules Clamping Voltage 330V 8ft Cord",
+    "@id": "https://www.monoprice.com/product?p_id=15875",
+    "url": "https://www.monoprice.com/product?p_id=15875",
+    "description": "Obsidian\u2122 Series Rotating Surge Protectors safeguard your electronic devices from power surges and spikes. Patented rotating outlet design allows you to plug in bulky adapters without blocking adjacent outlets. This 2880 Joule surge protector features 10 surge protected outlets that provide reliable protection for your workstations, printers, broadband modems, home theater systems, and everyday household electronics. Simply plug the surge protector into any AC wall outlet and connect your device to keep it safe from surges, lightning strikes, and AC contamination.\u00a0Heavy-Duty Power CordProtection IndicationHeavy-Duty Power Cord: The heavy-duty 8-foot power cord uses 14AWG copper conductors, so it can handle the full 15-amp / 1800-watt capacity of the NEMA\u00ae 5-15 standard.Protection Indication: LED indicators let you know when the surge protector is plugged into a properly grounded AC outlet and the surge protection status.\u00a0\u00a0WarrantyMonoprice\u2122 not only stands behind every product we sell with a 1 year replacement warranty, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.Quality at a Fair PriceMonoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.Hassle Free PackagingMonoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.Service and SupportYou're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!\u00a0\u00a0Support Files: Tech Drawing (Feb 4, 2026)Monoprice\u2122, Obsidian\u2122, and all Monoprice logos are trademarks of Monoprice Inc. NEMA\u00ae is a registered trademark of National Electrical Manufacturers Association. Updated Nov 25, 2020 \u00a0Warning: This product can expose you to Lead, which is known to the State of California to cause cancer and reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/158751.jpg\",\"https://images.monoprice.com/productlargeimages/158752.jpg\",\"https://images.monoprice.com/productlargeimages/158753.jpg\",\"https://images.monoprice.com/productlargeimages/158754.jpg\",\"https://images.monoprice.com/productlargeimages/158755.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 47.79,
+      "sku": "15875",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=15875",
+      "gtin14": "889028039847"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 10 Outlet Rotating Power Strip Surge Protector Block - 2880 Joules Clamping Voltage 330V 8ft Cord",
+      "ratingCount": "35",
+      "reviewCount": "35",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Power Strip Surge Protectors",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors"
+    },
+    {
+      "name": "15875",
+      "url": "https://www.monoprice.com/category/audio-video/surge-protection/power-strip-surge-protectors/15875"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

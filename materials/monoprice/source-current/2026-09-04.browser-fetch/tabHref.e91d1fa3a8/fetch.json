@@ -1,0 +1,13 @@
+{
+  "url": "https://www.monoprice.com/' + tabHref + '",
+  "final_url": "https://www.monoprice.com/'%20+%20tabHref%20+%20'",
+  "upstream_status": 404,
+  "classification": "not-found",
+  "bytes": 5909,
+  "sha256": "a32edd64a955771bcad28adf43e7be816b1bac547c37c76f5aee12156a2ad182",
+  "fetched_at": "2026-09-05T01:31:30+00:00",
+  "fetch_ms": 42,
+  "mode": "raw-served-html",
+  "body_retained": true,
+  "stored_bytes": 2333
+}

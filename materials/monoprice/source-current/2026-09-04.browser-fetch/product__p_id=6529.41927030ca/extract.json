@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Commercial Series Extendable Pole Ceiling Mount Bracket for Projector (Max 50 lbs.)",
+    "@id": "https://www.monoprice.com/product?p_id=6529",
+    "url": "https://www.monoprice.com/product?p_id=6529",
+    "description": "This high quality ceiling mount fits most home theater projectors and features a design that allows for quick and easy installation, easy adjustment of pitch and roll, and a full 360 degree rotation.Features: Supports up to 50 lbs.Quick release for easy maintenanceQuick and easy installation\u00b130 degrees pan and tilt adjustment360 degrees rotation26\" minimum pole extension36\" maximum pole extension6.69\" (170mm) minimum hole spacing12.59\" (320mm) maximum hole spacingConcealed cable managementSupport Files: User's Manual (Mar 17, 2010)Dimensions Diagram (Nov 03, 2023)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Jan 19, 2022 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/65291.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 49.99,
+      "sku": "6529",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6529",
+      "gtin14": "844660065296"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Commercial Series Extendable Pole Ceiling Mount Bracket for Projector (Max 50 lbs.)",
+      "ratingCount": "22",
+      "reviewCount": "22",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Audio Video",
+      "url": "https://www.monoprice.com/category/pages/4"
+    },
+    {
+      "name": "Projectors & Screens",
+      "url": "https://www.monoprice.com/category/audio-video/projectors-&-screens"
+    },
+    {
+      "name": "Projector Mounts",
+      "url": "https://www.monoprice.com/category/audio-video/projectors-&-screens/projector-mounts"
+    },
+    {
+      "name": "6529",
+      "url": "https://www.monoprice.com/category/audio-video/projectors-&-screens/projector-mounts/6529"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

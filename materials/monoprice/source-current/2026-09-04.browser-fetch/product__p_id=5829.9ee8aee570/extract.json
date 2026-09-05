@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Hook and Loop Fastening Tape 5 yards/roll 0.75in White",
+    "@id": "https://www.monoprice.com/product?p_id=5829",
+    "url": "https://www.monoprice.com/product?p_id=5829",
+    "description": "Self\u2011attaching hook and loop material, popularized by the NASA space program, is a \"miracle\" fastener with thousands of uses, from hanging a picture on a wall to replacing a traditional zipper on a jacket to almost anything you can imagine. This roll of hook and loop material is just what you need for that special project. The roll measures 3/4\" wide and 15 feet long with hook material on one side and loop material on the other.Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. Updated Aug 25, 2021 \u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/58291.jpg\",\"https://images.monoprice.com/productlargeimages/58292.jpg\",\"https://images.monoprice.com/productlargeimages/58293.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 9.99,
+      "sku": "5829",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=5829",
+      "gtin14": "844660058298"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Hook and Loop Fastening Tape 5 yards/roll 0.75in White",
+      "ratingCount": "322",
+      "reviewCount": "26",
+      "ratingValue": "4.7",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Cable Management",
+      "url": "https://www.monoprice.com/category/networking/cable-management"
+    },
+    {
+      "name": "Hook & Loop",
+      "url": "https://www.monoprice.com/category/networking/cable-management/hook-&-loop"
+    },
+    {
+      "name": "5829",
+      "url": "https://www.monoprice.com/category/networking/cable-management/hook-&-loop/5829"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

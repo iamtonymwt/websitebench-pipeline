@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Tripp Lite by Eaton PDU 2.9kW Single-Phase Switched PDU",
+    "@id": "https://www.monoprice.com/product?p_id=50699",
+    "url": "https://www.monoprice.com/product?p_id=50699",
+    "description": "The PDUMV30NETLX 2.9kW Single-Phase Switched PDU provides advanced network control and remote power monitoring with the ability to turn on, turn off, reboot or lock out power to each outlet. Recommended for any IT or industrial application, it features 24 switched NEMA 5-15/20R outlets with included cord retention brackets to prevent cables from becoming accidentally disconnected. A 10-foot cord with NEMA L5-30P plug connects the PDU to a compatible AC power source, generator or protected UPS.The built-in Java-free HTML5-based LX Platform network interface enables full remote access for PDU status monitoring and email notifications via secure web browser, SNMP, telnet or SSH. It supports 10/100 Mbps auto-sensing for optimum communication with an Ethernet network. Optional EnviroSense2 modules (sold separately) provide a variety of environmental monitoring capabilities. Protocols supported include HTTP, HTTPS, SMTP, SNMPv1, SNMPv2, SNMPv3, telnet, SSH, FTP, DHCP and NTP.A digital ammeter allows you to monitor each bank's load in real time to ensure it remains well below maximum capacity with no danger of overload. The vertical PDU mounts in 0U of space in EIA-standard 19-inch racks using the included toolless mounting buttons or the included rack-mounting brackets. Use the included PDUMVROTATEBRKT kit to install the unit with outlets facing the rear for better airflow or equipment access.FeaturesDistributes Network-Grade Single-Phase Power2.9kW 120V switched PDURecommended for network applications requiring individual outlet control, load shedding and remote monitoring of critical network componentsNEMA L5-30P plug with 10 ft. cord connects to compatible AC power sourceFirmware upgrades support future product enhancements24 Switched Outlets Distribute AC Power24 NEMA 5-15/20R outlets split into 2 separately breakered load banksIndividual outlets can be remotely controlled to power up, power down, reboot or lock out devicesCord retention brackets prevent cables from becoming accidentally disconnectedDigital AmmeterReports load level on each bank and total PDU outputSupports IP-address self-IDRotates 180\u00b0 for easy reading at either angleBuilt-In LX Platform InterfaceAllows full remote access for power monitoring with email notifications via secure web browser, SNMP, telnet or SSHSupports 10/100 Mbps auto-sensing for communication with an Ethernet networkOptional EnviroSense2 modules (sold separately) provide a variety of environmental monitoring capabilitiesNo Java requiredBroad Communications CompatibilitySupports HTTP, HTTPS, SMTP, SNMPv1, SNMPv2, SNMPv3, telnet, SSH, FTP, DHCP and NTPSupports automatic and manual assignment of IP addressEasy 0U Installation in EIA-Standard 19 in. RacksMounts vertically using included toolless buttons or rack-mounting bracketsIncluded PDUMVROTATEBRKT allows mounting with rear-facing outletsTAA-CompliantCompliant with the Federal Trade Agreements Act (TAA) for GSA Schedule purchases2.9kW 120V switched PDU24 individually controllable NEMA 5-15/20R outletsBuilt-in LX Platform interface for 24/7 remote accessDigital ammeter for on-site load monitoring in real timeNEMA L5-30P input with 10 ft. AC power cord\u00a0Interfaces/PortsNetwork (RJ-45)YesManagementManagementHTTPHTTPSSMTPSNMPv1SNMPv2SNMPv3telnetSSHFTPDHCPNTPRemote Outlet SwitchingYesPower DescriptionInput Voltage120 V ACOutput Voltage120 V ACInput Current30 APower Rating (Watt)2880 WMiscellaneousPackage ContentsPDUMV30NETLX 2.9kW Single-Phase Switched PDUBuilt-in LX Platform InterfaceConfiguration Cable24 x Cable Ties2 x Cord Retention BracketsRack-mounting HardwarePDUMVROTATEBRKT Mounting Bracket AccessoryOwner's ManualCountry of OriginTaiwanEnvironmentally FriendlyYesTAA CompliantYesEnvironmental ComplianceRestriction of Hazardous Substances (RoHS)General InformationProduct TypePDU\u00a0Manufacturer Part NumberPDUMV30NETLXManufacturer Website Addresshttp://www.eaton.comManufacturerEaton CorporationProduct ModelPDUMV30NETLXProduct NamePDUMV30NETLX 2.9kW Single-Phase Switched PDUBrand NameEatonPhysical CharacteristicsWeight (Approximate)14.10 lbMount TypeRack-mountableRack Height0UHeight70\"Width2.2\"Depth2.6\"Mounting OrientationVerticalTechnical InformationProtection TypeOverload ProtectionPlug/Connector TypeNEMA L5-30PPhaseSingle PhaseReceptacle TypeNEMA 5-15/20RDesignModularPDU TypeSwitchedReceptacle Detail24 x NEMA 5-15/20R\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeAt Monoprice\u2122, your satisfaction is our priority. This product includes a 14\u2011day return policy\u2011if it doesn't meet your needs, return it within that period for a refund, minus a 15% restocking fee.\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/506991.jpg\",\"https://images.monoprice.com/productlargeimages/506992.jpg\",\"https://images.monoprice.com/productlargeimages/506993.jpg\",\"https://images.monoprice.com/productlargeimages/506994.jpg\",\"https://images.monoprice.com/productlargeimages/506995.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 999.99,
+      "sku": "50699",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=50699",
+      "gtin14": "889028241141"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Tripp Lite by Eaton PDU 2.9kW Single-Phase Switched PDU",
+      "ratingCount": "0",
+      "reviewCount": "0",
+      "ratingValue": "0",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Power & Surge",
+      "url": "https://www.monoprice.com/category/home-&-office/power-&-surge"
+    },
+    {
+      "name": "Extension Cords",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords"
+    },
+    {
+      "name": "50699",
+      "url": "https://www.monoprice.com/category/cables/power-cords/extension-cords/50699"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

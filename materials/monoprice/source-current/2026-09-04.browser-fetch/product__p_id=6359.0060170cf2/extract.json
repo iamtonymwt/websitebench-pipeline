@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 3ft Ultra Slim SVGA Super VGA 30/32AWG M/M Monitor Cable with Ferrites (Gold Plated Connector)",
+    "@id": "https://www.monoprice.com/product?p_id=6359",
+    "url": "https://www.monoprice.com/product?p_id=6359",
+    "description": "Despite the introduction of DVI\u00e2\u201e\u00a2 and HDMI\u00ae, the common VGA connection is still the primary connection for most computer monitors.This ultra slim cable is designed to handle analog VGA and extended VGA resolutions. The conductors for the three color lines are 30AWG coaxial, while the remaining conductors are 32AWG stranded wire.The cable features gold-plated male DE-15 (aka HD-15 or DB-15) connectors on each end for smooth, corrosion-free connections. It includes ferrite cores at each end, which ensure that EMI and RFI interference will not enter your video system.DVI\u00e2\u201e\u00a2 is a trademark of the Digital Display Working Group. HDMI\u00c2\u00ae, the HDMI Logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. Updated Sep 5, 2019 \u00a0Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/63591.jpg\",\"https://images.monoprice.com/productlargeimages/63592.jpg\",\"https://images.monoprice.com/productlargeimages/63593.jpg\",\"https://images.monoprice.com/productlargeimages/63594.jpg\",\"https://images.monoprice.com/productlargeimages/63595.jpg\",\"https://images.monoprice.com/productlargeimages/63596.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 6.69,
+      "sku": "6359",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=6359",
+      "gtin14": "844660063599"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 3ft Ultra Slim SVGA Super VGA 30/32AWG M/M Monitor Cable with Ferrites (Gold Plated Connector)",
+      "ratingCount": "202",
+      "reviewCount": "14",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Video Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables"
+    },
+    {
+      "name": "VGA & SVGA Cables",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables"
+    },
+    {
+      "name": "6359",
+      "url": "https://www.monoprice.com/category/cables/video-cables/vga-&-svga-cables/6359"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "MPM 75 Foot Garden Hose Stainless Steel Metal Water Hose Tough & Flexible Lightweight Crush Resistant Aluminum Fittings Kink & Tangle Free Rust Proof Easy to Use & Store",
+    "@id": "https://www.monoprice.com/product?p_id=42865",
+    "url": "https://www.monoprice.com/product?p_id=42865",
+    "description": "ULTRA DURABLE \u2013 Our hoses are made from high-quality stainless steel, designed to be exceptionally durable and withstand high-stress conditions. They are rust-proof, leak-resistant, pet-proof, and resistant to punctures, even when dragged across rough surfaces.FLEXIBLE & LIGHTWEIGHT \u2013This hose is highly flexible, making it easy to maneuver around corners, trees, and obstacles. It\u2019s also lighter than most commercial hoses, reducing user fatigue.WEATHERPROOF \u2013 Built to handle extreme weather, this steel hose performs reliably in a wide range of temperatures without losing flexibility or durability.MAXIMUM PERFORMANCE \u2013 With a large inner diameter, this hose delivers a powerful water stream and superior burst strength, ensuring consistent performance and longevity.KINK-FREE DESIGN \u2013 Encased in a sturdy stainless-steel outer layer, this hose resists kinks, lays flat, coils easily, and provides a steady, high-pressure water flow, making storage hassle-free.CONNECTABLE \u2013 Need a longer reach? Simply connect two hoses to extend your coverage.RECOMMENDED PRESSURE \u2013 Suitable for applications up to 80 psi.\u00a0Specification:Pipe inner diameter: 14mm / 0.55\u201dConnector diameter: 30 mm / 1.18\u201dProduct weight: 5 lbs\u00a0\u00a0\u00a0.gte-ctr .row{margin:0;}14 Day Return GuaranteeMonoprice\u2122 stands behind every product we sell with a 14 day return guarantee! If the product you purchase does not satisfy your needs, send it back for a full refund.\u00a0WARNING: This product can expose you to Phthalates, which is known to the State of California to cause cancer and reproductive harm. For more information go to www.P65Warnings.ca.gov",
+    "image": "[\"https://images.monoprice.com/productlargeimages/428651.jpg\",\"https://images.monoprice.com/productlargeimages/428652.jpg\",\"https://images.monoprice.com/productlargeimages/428653.jpg\",\"https://images.monoprice.com/productlargeimages/428654.jpg\",\"https://images.monoprice.com/productlargeimages/428655.jpg\",\"https://images.monoprice.com/productlargeimages/428656.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 29.99,
+      "sku": "42865",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.monoprice.com/product?p_id=42865",
+      "gtin14": "889028170588"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "MPM 75 Foot Garden Hose Stainless Steel Metal Water Hose Tough & Flexible Lightweight Crush Resistant Aluminum Fittings Kink & Tangle Free Rust Proof Easy to Use & Store",
+      "ratingCount": "5",
+      "reviewCount": "2",
+      "ratingValue": "4.4",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home & Office",
+      "url": "https://www.monoprice.com/category/pages/home-and-office"
+    },
+    {
+      "name": "Office Supplies & Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets"
+    },
+    {
+      "name": "Office Gadgets",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets"
+    },
+    {
+      "name": "42865",
+      "url": "https://www.monoprice.com/category/home-&-office/office-supplies-&-gadgets/office-gadgets/42865"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

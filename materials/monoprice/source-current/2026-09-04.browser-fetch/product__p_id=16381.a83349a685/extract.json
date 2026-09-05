@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice SlimRun USB-A to USB-A Female 3.0 Extension Cable - Fiber Optic  Silver  164.0ft",
+    "@id": "https://www.monoprice.com/product?p_id=16381",
+    "url": "https://www.monoprice.com/product?p_id=16381",
+    "description": "            SlimRun\u2122 USB 3.0 is an active optical cable system designed to connect two USB-enabled devices with high performance, low power consumption, and low cost. Using optical fiber to replace copper wire as the high-speed signal transmission medium, SlimRun can perfectly transmit USB 3.0 (5Gbps) and USB 2.0 (480Mbps) to distances up to 150 feet. Compared with traditional copper wire cables, SlimRun USB is not only longer, softer, and slimmer, but also offers better signal quality without the need for external power for USB 3.0 speeds. Compared with other optical fiber transmission solutions, SlimRun USB 3.0 is easier to use and is backwards compatible with USB 2.0, with no need for converters.                              Extend USB 3.0 up to 150ft  Plug and Play  Optional External Power  Thinner and Softer          Extend USB 3.0 up to 150ft: SlimRun\u2122 USB 3.0 can perfectly transmit 5Gbps of bandwidth to distances up to 150 feet (45 meters) without extenders, using optical fiber to replace copper wire as the high-speed signal transmission medium.    Plug and Play: Other USB extender solutions require multiple sets of wires, cables, transmitters, receivers, and screws to mount boxes. SlimRun\u2122 USB 3.0 combines the benefits of traditional extension solutions into a single optical cable.    Optional External Power: Power is optional but not necessary for meeting the high speed standards of USB 3.0.    Thinner and Softer: SlimRun\u2122 USB 3.0 is thinner and softer than traditional glass fiber optic cables. Flexible polymer optical cable has a tighter bend radius and is much more resistant to damage and abuse than traditional fiber optic cables made of glass.                                      Lengths:33, 45, 60, 100, and 150 feet                  Buy with Confidence    With Monoprice's Lifetime Warranty you can rest assured we stand behind our products and our customers. Additionally, we offer a 30-day money back guarantee as well! If the product you purchase does not satisfy your needs, send it back for a full refund.                Quality at a Fair Price    Monoprice's rugged design and rigid quality control standards deliver high quality products at fair prices.                Hassle Free Packaging    Monoprice exists to bring simplicity, fairness, and confidence to technology choices. This product features recyclable packaging that is simple to open, cost effective, with minimal waste, and fully protective as it travels to you.                Service & Support    You're never on your own with Monoprice products! We have a full team of friendly and knowledgeable technicians available to answer your questions, both before and after the sale. Contact our technical support team for questions about our products, troubleshooting, or even suggestions for products to fit your particular needs. Not to be outdone, our friendly and helpful customer service team is here to make your ordering, delivery, and any possible returns a quick and painless operation, from start to finish!              SlimRun\u2122 is a trademark of Monoprice Inc.      Updated Feb 4, 2020          \u00a0   ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/163811.jpg\",\"https://images.monoprice.com/productlargeimages/163812.jpg\",\"https://images.monoprice.com/productlargeimages/163813.jpg\",\"https://images.monoprice.com/productlargeimages/163814.jpg\",\"https://images.monoprice.com/productlargeimages/163815.jpg\",\"https://images.monoprice.com/productlargeimages/163816.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 503.99,
+      "sku": "16381",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=16381",
+      "gtin14": "889028045114"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice SlimRun USB-A to USB-A Female 3.0 Extension Cable - Fiber Optic  Silver  164.0ft",
+      "ratingCount": "11",
+      "reviewCount": "1",
+      "ratingValue": "4.2",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "USB & Lightning Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables"
+    },
+    {
+      "name": "USB Extension Cables",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables"
+    },
+    {
+      "name": "16381",
+      "url": "https://www.monoprice.com/category/cables/usb-&-lightning-cables/usb-extension-cables/16381"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

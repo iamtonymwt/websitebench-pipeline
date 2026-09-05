@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice Designed for Mobile 12ft 3.5mm Extension Cable",
+    "@id": "https://www.monoprice.com/product?p_id=10149",
+    "url": "https://www.monoprice.com/product?p_id=10149",
+    "description": "Extend your 3.5mm stereo audio cable using this Designed for Mobile 3.5mm Extension Cable from Monoprice!This extension cable features a male 3.5mm plug on one end and a female 3.5mm jack on the other. The Designed for Mobile cables feature ultra-thin connector heads, which are designed to fit through a phone case. Each connector is gold plated for smooth, corrosion free connections.                       Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov                       \u00a0       ",
+    "image": "[\"https://images.monoprice.com/productlargeimages/101491.jpg\",\"https://images.monoprice.com/productlargeimages/101492.jpg\",\"https://images.monoprice.com/productlargeimages/101493.jpg\",\"https://images.monoprice.com/productlargeimages/101494.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 4.99,
+      "sku": "10149",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=10149",
+      "gtin14": "670541338216"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice Designed for Mobile 12ft 3.5mm Extension Cable",
+      "ratingCount": "162",
+      "reviewCount": "30",
+      "ratingValue": "4.5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Cables",
+      "url": "https://www.monoprice.com/category/pages/1"
+    },
+    {
+      "name": "Audio Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables"
+    },
+    {
+      "name": "Auxiliary Cables",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables"
+    },
+    {
+      "name": "10149",
+      "url": "https://www.monoprice.com/category/cables/audio-cables/auxiliary-cables/10149"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}

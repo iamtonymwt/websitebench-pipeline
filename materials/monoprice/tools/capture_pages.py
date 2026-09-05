@@ -160,6 +160,30 @@ _LD_RE = re.compile(
     re.I | re.S)
 
 
+def decode_image_field(value: object) -> list[str]:
+    """schema.org `image` on this site is a *string* holding a JSON array.
+
+    This lives here, in the module that produces the field, because both the
+    catalogue builder and the asset planner need it and an awkward field parsed
+    in two places diverges: the last site had `specifications` read as an object
+    array by one tool and a pair array by another, and both returned zero rows
+    while printing success.
+    """
+    if value is None:
+        return []
+    if isinstance(value, list):
+        return [str(v) for v in value if v]
+    text = str(value).strip()
+    if text.startswith("["):
+        try:
+            parsed = json.loads(text)
+        except (json.JSONDecodeError, ValueError):
+            return [text]
+        if isinstance(parsed, list):
+            return [str(v) for v in parsed if v]
+    return [text] if text else []
+
+
 def extract_product(html: str) -> dict | None:
     """Pull the structured record a product page publishes about itself.
 
@@ -194,6 +218,22 @@ def extract_product(html: str) -> dict | None:
 # --------------------------------------------------------------------------- #
 
 def disallowed(path: str) -> bool:
+    """True when any segment of the path is a robots-disallowed name.
+
+    The first version only tested the path *prefix*, which is what the robots
+    rules literally say. It was not enough: the site links its wishlist writer as
+    `/product/ProductSavedListUpdate?p_id=...&p_quantity=1`, which does not start
+    with `/ProductSavedListUpdate` but plainly is it. Harvest queued 3,745 of
+    them. None were fetched -- the queue drained the sitemap first -- but only by
+    luck of ordering, and a rerun would have gone straight to them.
+
+    So the test is per segment. The cost of being too broad here is capturing
+    less; the cost of being too narrow is requesting a page we said we would not.
+    """
+    segments = {s.lower() for s in path.split("/") if s}
+    names = {d.strip("/").lower() for d in ROBOTS_DISALLOW}
+    if segments & names:
+        return True
     p = path.lower()
     return any(p == d or p.startswith(d.rstrip("/") + "/") or p.startswith(d)
                for d in ROBOTS_DISALLOW)
@@ -220,7 +260,17 @@ def canonical(url: str) -> str | None:
     if lowered.startswith(("/product", "/category", "/myaccount", "/cart",
                            "/search", "/pages", "/home", "/p/")):
         path = lowered
+    # /product/index and /product serve the same page. Verified: both answer
+    # identically for the same p_id, byte for byte.
+    if path == "/product/index":
+        path = "/product"
     if disallowed(path):
+        return None
+    # Asset trees are the asset fetcher's job. Harvest pulled 46 stylesheets in
+    # as "pages" because a <link href> is a reference like any other; they were
+    # then classified `content` and would have been frozen and served as HTML.
+    if re.match(r"^/(assets|Scripts|Content|cf-fonts|CommissionJunction)/",
+                path, re.I):
         return None
     keep = [(k, v) for k, v in urllib.parse.parse_qsl(u.query, keep_blank_values=False)
             if k.lower() not in DROP_PARAMS]

@@ -1,0 +1,53 @@
+{
+  "product": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "brand": "Monoprice",
+    "name": "Monoprice 24-port Blank Keystone UTP Patch Panel - UL TAA Half-U with Wire Support Bar",
+    "@id": "https://www.monoprice.com/product?p_id=43543",
+    "url": "https://www.monoprice.com/product?p_id=43543",
+    "description": "This high\u2011density Monoprice\u2122 space saving, 19\" half\u2011U, UTP 24\u2011port blank keystone patch panel makes the most out of your limited rack space. It fits into a standard 19\" wide equipment rack and measures half\u2011U tall (0.87\"). This model features a support bar for easy wire management. The panel is constructed of black painted steel and each port is individually numbered. The package includes four rack mount screw sets to make your installation faster and easier.Features: Half\u2011U 19\" 24\u2011port blank keystone patch panelPorts clearly labeled on the frontUL\u00ae listed black painted steel panelMeets and exceeds T568A and T568B standardsTAA compliantSupport Files: Dimensions Diagram (Oct 27, 2021)Monoprice\u2122 and all Monoprice logos are trademarks of Monoprice Inc. UL\u00ae and the UL logo are registered trademarks of UL LLC. Updated Oct 27, 2021 Warning: This product may contain a chemical known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, go to www.P65Warnings.ca.gov\u00a0",
+    "image": "[\"https://images.monoprice.com/productlargeimages/435431.jpg\",\"https://images.monoprice.com/productlargeimages/435432.jpg\",\"https://images.monoprice.com/productlargeimages/435433.jpg\",\"https://images.monoprice.com/productlargeimages/435434.jpg\",\"https://images.monoprice.com/productlargeimages/435435.jpg\",\"https://images.monoprice.com/productlargeimages/435436.jpg\"]",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": 15.99,
+      "sku": "43543",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.monoprice.com/product?p_id=43543",
+      "gtin14": "889028179086"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "name": "Monoprice 24-port Blank Keystone UTP Patch Panel - UL TAA Half-U with Wire Support Bar",
+      "ratingCount": "2",
+      "reviewCount": "2",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Networking",
+      "url": "https://www.monoprice.com/category/pages/3"
+    },
+    {
+      "name": "Patch Panels",
+      "url": "https://www.monoprice.com/category/networking/patch-panels"
+    },
+    {
+      "name": "Keystone Jack Panel",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/keystone-jack-panel"
+    },
+    {
+      "name": "43543",
+      "url": "https://www.monoprice.com/category/networking/patch-panels/keystone-jack-panel/43543"
+    }
+  ],
+  "jsonld_types": [
+    "Product",
+    "BreadcrumbList",
+    "Organization"
+  ]
+}
