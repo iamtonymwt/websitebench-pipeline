@@ -1,0 +1,59 @@
+{
+  "schema_version": "monoprice.channel-preflight.v1",
+  "target": "https://www.monoprice.com/",
+  "channels": [
+    {
+      "channel": "plain-http-urllib",
+      "session": true,
+      "real_page": false,
+      "rendered_text": false,
+      "interactive": false,
+      "notes": [],
+      "status": 403,
+      "verdict": "challenge-shell"
+    },
+    {
+      "channel": "browserbase",
+      "session": false,
+      "real_page": false,
+      "rendered_text": false,
+      "interactive": false,
+      "verdict": "not-attempted",
+      "notes": [
+        "BROWSERBASE_API_KEY / BROWSERBASE_PROJECT_ID are not exported in this environment; the channel cannot be created."
+      ]
+    },
+    {
+      "channel": "local-playwright-headless",
+      "session": true,
+      "real_page": false,
+      "rendered_text": false,
+      "interactive": false,
+      "notes": [],
+      "verdict": "challenge-shell",
+      "title": "Just a moment...",
+      "elapsed_seconds": 20.5
+    },
+    {
+      "channel": "local-playwright-headed",
+      "session": true,
+      "real_page": true,
+      "rendered_text": true,
+      "interactive": true,
+      "notes": [],
+      "verdict": "real-page",
+      "title": "HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch,",
+      "rendered_text_bytes": 3792,
+      "typed_value": "hdmi",
+      "bulk_fetch": {
+        "pages": 8,
+        "ok": 0,
+        "challenged": 8,
+        "seconds": 0.1
+      },
+      "elapsed_seconds": 3.4
+    }
+  ],
+  "selected": "local-playwright-headed",
+  "selection_reason": "only channel that returned the real page AND drove the site's own search input"
+}

@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "id": "home",
+      "local_destination": true,
+      "priority": "p0",
+      "purpose_edge": "primary",
+      "route_pattern": "/",
+      "states": [
+        "loaded"
+      ]
+    }
+  ],
+  "schema_version": "offline-clone.routes.v1"
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": "monoprice.catalogue-extract.v1",
+  "capture_dir": "source-current",
+  "counts": {
+    "products": 0,
+    "categories": 416,
+    "memberships_resolved": 0,
+    "memberships_dangling": 4356,
+    "memberships_by_evidence": {},
+    "categories_with_no_products": 416
+  },
+  "pages": {
+    "page_dirs": 1280,
+    "other_pages": 828,
+    "skipped_empty-listing": 36,
+    "listings": 416,
+    "listing_tiles": 4356
+  },
+  "problems": {},
+  "dangling_examples": [
+    [
+      "10145",
+      "/category/cables/audio-cables/auxiliary-cables",
+      "listing"
+    ],
+    [
+      "10146",
+      "/category/cables/audio-cables/auxiliary-cables",
+      "listing"
+    ],
+    [
+      "10149",
+      "/category/cables/audio-cables/auxiliary-cables",
+      "listing"
+    ],
+    [
+      "10462",
+      "/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts",
+      "listing"
+    ],
+    [
+      "10472",
+      "/category/mounts-&-stands/tv-wall-mounts",
+      "listing"
+    ],
+    [
+      "10472",
+      "/category/mounts-&-stands/tv-wall-mounts/fixed-tv-wall-mounts",
+      "listing"
+    ],
+    [
+      "10482",
+      "/category/mounts-&-stands/tv-wall-mounts",
+      "listing"
+    ],
+    [
+      "10482",
+      "/category/mounts-&-stands/tv-wall-mounts/tilt-tv-wall-mounts",
+      "listing"
+    ],
+    [
+      "10565",
+      "/category/audio-video/speakers/home-theater-speakers-systems",
+      "listing"
+    ],
+    [
+      "10620",
+      "/category/audio-video/weatherproof-cases-&-containers",
+      "listing"
+    ]
+  ],
+  "empty_category_examples": [
+    "/category/3d-printing-&-hobbies/3d-printers-&-accessories",
+    "/category/3d-printing-&-hobbies/3d-printers-&-accessories/3d-printer-replacement-parts-&-accessories",
+    "/category/3d-printing-&-hobbies/craft-cutters-&-accessories",
+    "/category/3d-printing-&-hobbies/craft-cutters-&-accessories/craft-cutters-",
+    "/category/adapters,-switches,-&-splitters/audio-adapters",
+    "/category/adapters,-switches,-&-splitters/audio-adapters/audio-converters",
+    "/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter",
+    "/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs",
+    "/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers",
+    "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  ],
+  "note": "`memberships_dangling` names products that a listing links to but that were never captured. They are reported rather than dropped: a category that looks empty because its products were not captured is a capture gap, and a category the source itself renders empty is a source fact. Only the first is a defect."
+}

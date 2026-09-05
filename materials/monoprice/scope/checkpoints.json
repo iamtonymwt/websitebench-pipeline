@@ -1,0 +1,22 @@
+{
+  "checkpoints": [
+    {
+      "acceptance_eligible": false,
+      "evidence_kind": "unavailable",
+      "id": "home.loaded.desktop",
+      "priority": "p0",
+      "route_id": "home",
+      "state": "loaded",
+      "verification_kind": "scaffold-local-diagnostic",
+      "viewport": "desktop"
+    }
+  ],
+  "schema_version": "offline-clone.checkpoints.v1",
+  "status": "draft",
+  "viewports": {
+    "desktop": {
+      "height": 800,
+      "width": 1280
+    }
+  }
+}

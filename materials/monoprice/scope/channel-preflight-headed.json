@@ -1,0 +1,19 @@
+{
+  "schema_version": "monoprice.channel-preflight.v1",
+  "target": "https://www.monoprice.com/",
+  "channels": [
+    {
+      "channel": "local-playwright-headed",
+      "session": true,
+      "real_page": false,
+      "rendered_text": false,
+      "interactive": false,
+      "notes": [],
+      "verdict": "challenge-shell",
+      "title": "HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch,",
+      "elapsed_seconds": 25.3
+    }
+  ],
+  "selected": null,
+  "selection_reason": "no channel satisfied all four preflight items"
+}

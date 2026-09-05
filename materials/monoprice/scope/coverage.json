@@ -1,0 +1,19 @@
+{
+  "dimensions": [
+    {
+      "category": "reachability",
+      "id": "public-home",
+      "label": "Public home route-state",
+      "required_evidence_kinds": [
+        "browser"
+      ],
+      "required_items": [
+        "home.loaded.desktop"
+      ],
+      "satisfied_items": [],
+      "unit": "route-state"
+    }
+  ],
+  "schema_version": "offline-clone.coverage.v1",
+  "status": "draft"
+}

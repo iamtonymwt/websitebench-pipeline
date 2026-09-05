@@ -1,0 +1,309 @@
+{
+  "schema_version": "prompt.websitebench-clone-task-brief.v1",
+  "observed_at": "2026-09-05T00:18:41Z",
+  "source": {
+    "input_url": "https://monoprice.com",
+    "canonical_url": "https://www.monoprice.com/",
+    "canonical_origin": "https://www.monoprice.com",
+    "approved_discovery_origins": [
+      "https://www.monoprice.com",
+      "https://monoprice.com",
+      "https://images.monoprice.com"
+    ],
+    "proposed_additional_origins": [
+      "https://monopricesupport.kayako.com",
+      "https://b2b.monoprice.com",
+      "https://downloads.monoprice.com",
+      "https://a183607.sitemaphosting.com"
+    ]
+  },
+  "site": {
+    "site_id": "monoprice",
+    "display_name": "Monoprice",
+    "existing_site": false,
+    "site_dir": "materials/monoprice",
+    "target_origin": "https://monoprice.website-bench.com",
+    "worker_name": "websitebench-monoprice-demo",
+    "purpose": "Help consumers and small businesses find and buy cables, connectivity hardware and consumer electronics directly from the manufacturer, and receive an order confirmation."
+  },
+  "baseline": {
+    "locale": "en-US",
+    "timezone": "Etc/UTC",
+    "timezone_policy": "temporary deterministic default; the source shows no account, regional or entity timezone on public pages. Re-freeze from capture evidence if a dated element appears in scope.",
+    "viewports": [
+      {"id": "desktop", "width": 1440, "height": 900},
+      {"id": "mobile", "width": 390, "height": 844}
+    ]
+  },
+  "scope": {
+    "roles": [
+      {
+        "id": "anonymous",
+        "display_name": "Anonymous shopper",
+        "authentication_required": false,
+        "evidence_grade": "directly-observed",
+        "evidence_urls": [
+          "https://www.monoprice.com/",
+          "https://www.monoprice.com/product?p_id=44627",
+          "https://www.monoprice.com/search/index?keyword=hdmi+cable"
+        ],
+        "changes": "Full catalogue browse, search, product detail and the add-to-cart form are all available without authentication; the add-to-cart control is a plain POST form present on the anonymous product page.",
+        "live_view_required": false,
+        "entitlement_required": false
+      },
+      {
+        "id": "registered-customer",
+        "display_name": "Registered customer",
+        "authentication_required": true,
+        "evidence_grade": "structural-only",
+        "evidence_urls": [
+          "https://www.monoprice.com/myaccount/myaccount"
+        ],
+        "changes": "The header exposes a single 'Login / Register' entry point and an 'Order Status' link. Every /myaccount path is under a robots Disallow rule, so no page behind it has been or will be requested. Whether this role changes the storefront experience is not established.",
+        "live_view_required": true,
+        "entitlement_required": false
+      }
+    ],
+    "core_journeys": [
+      {
+        "id": "j-browse-to-product",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Reach a product detail page from the department taxonomy.",
+        "preconditions": ["none"],
+        "start_url": "https://www.monoprice.com/",
+        "steps": [
+          "open the home page",
+          "follow a department link into a level-3 category listing",
+          "open a product from the listing grid"
+        ],
+        "expected_result": "A product detail page showing name, price, image gallery, description, specifications and an Add to Cart control.",
+        "failure_variant": "An absent product id answers HTTP 200 with the title 'Products no longer Available'.",
+        "recovery_variant": "Navigation and search remain available from the absent-product page.",
+        "source_mutation_required": false,
+        "evidence_kind": "directly-observed",
+        "evidence_urls": [
+          "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables",
+          "https://www.monoprice.com/product?p_id=44627",
+          "https://www.monoprice.com/product?p_id=99999999"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "j-search",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Find products by keyword.",
+        "preconditions": ["none"],
+        "start_url": "https://www.monoprice.com/",
+        "steps": [
+          "type a keyword into the header search input (name=keyword)",
+          "submit the GET form to /search/index",
+          "open a result"
+        ],
+        "expected_result": "A server-rendered result page listing matching products with prices and images.",
+        "failure_variant": "Not yet established: no zero-result query has been observed.",
+        "recovery_variant": "Not yet established.",
+        "source_mutation_required": false,
+        "evidence_kind": "directly-observed",
+        "evidence_urls": ["https://www.monoprice.com/search/index?keyword=hdmi+cable"],
+        "confidence": "high"
+      },
+      {
+        "id": "j-add-to-cart",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Put a product in the cart.",
+        "preconditions": ["a product detail page is open"],
+        "start_url": "https://www.monoprice.com/product?p_id=44627",
+        "steps": [
+          "set quantity",
+          "submit the product page's POST form to /cart with p_id and qty"
+        ],
+        "expected_result": "The cart holds the product; the header cart indicator reflects it.",
+        "failure_variant": "Not established.",
+        "recovery_variant": "Not established.",
+        "source_mutation_required": false,
+        "evidence_kind": "structural-only",
+        "evidence_urls": ["https://www.monoprice.com/product?p_id=44627"],
+        "confidence": "medium",
+        "note": "The form and its field names are directly observed in the product page markup. The resulting cart page is NOT observed and will not be: /cart is under a robots Disallow rule."
+      },
+      {
+        "id": "j-checkout",
+        "priority": "P0",
+        "role": "anonymous",
+        "purpose": "Complete a purchase and receive an order confirmation.",
+        "preconditions": ["the cart holds at least one product"],
+        "start_url": "https://www.monoprice.com/cart/index",
+        "steps": ["review the cart", "supply shipping details", "pay", "read the confirmation"],
+        "expected_result": "An order confirmation identifying the purchased items and the amount paid.",
+        "failure_variant": "A declined payment places no order and leaves the cart holding the goods.",
+        "recovery_variant": "Retry payment from the same cart.",
+        "source_mutation_required": true,
+        "evidence_kind": "unavailable",
+        "evidence_urls": [],
+        "confidence": "low",
+        "note": "/cart/* , /Checkout and /sslchkout are all under robots Disallow rules. No page in this journey has been or will be requested. The clone implements checkout in the source's own page shell against the vendored local payment sandbox, and says so on the page. This is a declared known difference, not an inference about the source."
+      },
+      {
+        "id": "j-order-status",
+        "priority": "P1",
+        "role": "anonymous",
+        "purpose": "Look up an existing order.",
+        "preconditions": ["an order reference"],
+        "start_url": "https://www.monoprice.com/myaccount/checkorderstatus",
+        "steps": ["not observed"],
+        "expected_result": "not observed",
+        "failure_variant": "not observed",
+        "recovery_variant": "not observed",
+        "source_mutation_required": false,
+        "evidence_kind": "unavailable",
+        "evidence_urls": [],
+        "confidence": "low",
+        "note": "Link text observed in the header. The target is under the /myaccount Disallow rule and was not requested."
+      }
+    ],
+    "page_families": [
+      {"id": "home", "kind": "public/marketing", "sample": "/", "evidence": "directly-observed"},
+      {"id": "category-hub", "kind": "discovery/list", "sample": "/category/pages/1", "evidence": "directly-observed"},
+      {"id": "category-listing", "kind": "discovery/list", "sample": "/category/cables/hdmi-cables/hdmi-cables", "evidence": "directly-observed", "note": "observed at path depth 3 and 4"},
+      {"id": "category-alt", "kind": "discovery/list", "sample": "/p/cat/audio-video", "evidence": "structural-only", "note": "a second category URL form, 2131 distinct paths in the sitemap"},
+      {"id": "search-results", "kind": "discovery/search", "sample": "/search/index?keyword=hdmi+cable", "evidence": "directly-observed"},
+      {"id": "product", "kind": "entity detail", "sample": "/product?p_id=44627", "evidence": "directly-observed"},
+      {"id": "static-page", "kind": "public/marketing", "sample": "/pages/newproducts", "evidence": "directly-observed"},
+      {"id": "newsroom", "kind": "public/marketing", "sample": "/home/newsroom", "evidence": "directly-observed"},
+      {"id": "about", "kind": "public/marketing", "sample": "/about-us", "evidence": "directly-observed"},
+      {"id": "error", "kind": "error/recovery", "sample": "/this-route-does-not-exist-websitebench", "evidence": "directly-observed", "note": "true 404, title HttpError404"},
+      {"id": "product-absent", "kind": "error/recovery", "sample": "/product?p_id=99999999", "evidence": "directly-observed", "note": "soft 404: HTTP 200, title 'Products no longer Available'"},
+      {"id": "cart", "kind": "account/commerce", "sample": "/cart/index", "evidence": "unavailable", "note": "robots Disallow; clone-authored"},
+      {"id": "checkout", "kind": "account/commerce", "sample": "/Checkout", "evidence": "unavailable", "note": "robots Disallow; clone-authored against the local payment sandbox"},
+      {"id": "account", "kind": "account/auth", "sample": "/myaccount/myaccount", "evidence": "unavailable", "note": "robots Disallow; not requested"}
+    ],
+    "deterministic_seed_plan": {
+      "roles": ["anonymous shopper"],
+      "entities": [
+        "products carrying id, name, brand, price, description, specifications, images and a category path, extracted from each product page's schema.org Product and BreadcrumbList blocks",
+        "a category tree of 10 departments with level-2 and level-3 children",
+        "carts and cart lines",
+        "orders and order lines"
+      ],
+      "states": [
+        "populated category listing",
+        "empty search result",
+        "absent product (soft 404)",
+        "true 404",
+        "empty cart",
+        "cart with one item",
+        "cart with two items",
+        "order placed",
+        "payment declined, cart retained",
+        "retry after decline"
+      ],
+      "isolation_actor": "a second browser context whose cart must not observe the first context's lines",
+      "density": "enough products per category for the listing grid and pagination to behave as observed",
+      "probes": ["reset", "restart", "duplicate submission of the add-to-cart form"],
+      "note": "All values are synthetic or come from public product pages. No real user data of any kind enters the seed."
+    },
+    "external_services": [
+      {"name": "Cloudflare bot management", "kind": "security", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true, "note": "managed challenge in front of every www path including /assets; determines the capture channel"},
+      {"name": "PerimeterX / HUMAN", "kind": "security", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true},
+      {"name": "HawkSearch", "kind": "search", "evidence": "directly-observed", "local_adapter": true, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true, "note": "runs server-side; results arrive in the served HTML, so the clone answers /search/index from its own catalogue"},
+      {"name": "Unbxd", "kind": "search type-ahead and analytics", "evidence": "directly-observed", "local_adapter": true, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true, "note": "client-side; fires on keystroke, which no page-load audit can see. The clone must answer the suggest call locally."},
+      {"name": "Affirm", "kind": "payment financing", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": true, "user_authorization_required": true, "runtime_must_be_zero_remote": true},
+      {"name": "Five9", "kind": "support chat", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": true, "user_authorization_required": true, "runtime_must_be_zero_remote": true, "note": "cross-origin iframe; per the handoff rules its interactions cannot be recorded"},
+      {"name": "Kayako", "kind": "support knowledge base", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true, "note": "monopricesupport.kayako.com, linked from the footer"},
+      {"name": "OneTrust", "kind": "consent", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true},
+      {"name": "Google Tag Manager / Analytics / Ads", "kind": "analytics", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true, "note": "served through the FIRST-PARTY path /securemetrics/, so a remote-request audit is blind to it and the same-origin failure census must catch it instead"},
+      {"name": "Adobe Analytics", "kind": "analytics", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true},
+      {"name": "Listrak", "kind": "email marketing", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": true, "user_authorization_required": true, "runtime_must_be_zero_remote": true},
+      {"name": "HubSpot", "kind": "marketing and chat", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": true, "user_authorization_required": true, "runtime_must_be_zero_remote": true},
+      {"name": "Hotjar", "kind": "session replay", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true},
+      {"name": "Meta / Bing / Reddit / LinkedIn / Criteo / Amazon ad pixels", "kind": "advertising", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true, "note": "the Criteo host no longer resolves; the source itself fails this request"},
+      {"name": "Google reCAPTCHA", "kind": "security", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true},
+      {"name": "Nagich accessibility widget", "kind": "accessibility", "evidence": "directly-observed", "local_adapter": false, "external_side_effect": false, "user_authorization_required": false, "runtime_must_be_zero_remote": true}
+    ]
+  },
+  "authority": {
+    "authentication_access": "request-human-live-view",
+    "credentials_persisted": false,
+    "authorized_source_mutations": [],
+    "requested_source_mutations": [],
+    "real_email_authorized": false,
+    "stripe_test_authorized": false,
+    "live_payment_authorized": false,
+    "push_authorized": false,
+    "pr_authorized": false,
+    "public_deployment_authorized": false,
+    "rights_or_redistribution_status": "unknown"
+  },
+  "trace_acquisition": {
+    "mode": "adaptive",
+    "agent_must_initiate": true,
+    "text_ownership": "human-only",
+    "human_trace_texts": [],
+    "trace_candidates": [
+      {
+        "id": "tc-001",
+        "covers": ["j-add-to-cart", "j-checkout"],
+        "why": "The cart and checkout pages are the only part of the core purchase journey that public capture cannot reach: /cart/*, /Checkout and /sslchkout are all under robots Disallow rules. Their layout, field set, step order and confirmation copy are therefore unestablished.",
+        "criticality": "high",
+        "uncertainty": "high",
+        "information_gain": "high",
+        "what_it_would_establish": ["step-order", "form-actions", "selectors", "routes"],
+        "what_it_would_not_establish": ["pixels", "copy", "network-closure"],
+        "human_action_required": "a demonstration through an authenticated cart and checkout on the operator's own Chrome",
+        "blocked_by_policy": true,
+        "policy_note": "Requesting this trace would require capturing robots-disallowed paths. Not requested. The clone authors these pages instead and declares the difference."
+      },
+      {
+        "id": "tc-002",
+        "covers": ["j-order-status"],
+        "why": "Order lookup is linked from the header but sits under /myaccount, which is disallowed.",
+        "criticality": "low",
+        "uncertainty": "high",
+        "information_gain": "low",
+        "human_action_required": "none requested",
+        "blocked_by_policy": true
+      }
+    ],
+    "requested_traces": [],
+    "completed_traces": [],
+    "remaining_material_uncertainties": [
+      "Cart and checkout page structure and copy (robots-disallowed; will be clone-authored and declared).",
+      "Whether an authenticated storefront differs from the anonymous one (not established; no login performed).",
+      "Zero-result search behaviour (no such query observed yet; capture will include one).",
+      "Category listing pagination and facet behaviour beyond the first page."
+    ]
+  },
+  "trajectory_recording": {
+    "channel": "not-used",
+    "recordings": [],
+    "clone_side_recordings": [],
+    "two_sided_findings": [],
+    "note": "No human trace has been requested. Every journey reachable without a robots-disallowed path is directly observable anonymously, and the two journeys that are not reachable are blocked by policy rather than by the absence of a human."
+  },
+  "field_evidence": [
+    {"field": "canonical_url", "value": "https://www.monoprice.com/", "evidence_urls": ["https://monoprice.com"], "observation": "monoprice.com and www.monoprice.com both answer; the site links to itself as https://www.monoprice.com.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "display_name", "value": "Monoprice", "evidence_urls": ["https://www.monoprice.com/about-us"], "observation": "No og:site_name is present. The About page title is 'About Us - Monoprice' and the schema.org Organization block names 'Monoprice,Inc'.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "locale", "value": "en-US", "evidence_urls": ["https://www.monoprice.com/"], "observation": "<html lang=\"en\"> and USD prices throughout ($11.55, $2,013.99).", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "timezone", "value": "Etc/UTC", "evidence_urls": [], "observation": "No account, regional or entity timezone appears on any public page examined.", "grade": "inferred", "confidence": "low", "refreeze_required": true, "unresolved_reason": "deterministic default"},
+    {"field": "purpose", "value": "direct-to-consumer electronics and cable retail", "evidence_urls": ["https://www.monoprice.com/", "https://www.monoprice.com/about-us"], "observation": "The home page's primary calls to action are department entries and product promotions; the taxonomy is ten hardware departments.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "page_families", "value": "12 families", "evidence_urls": ["https://a183607.sitemaphosting.com/4119210/sitemap_4119210.xml"], "observation": "The sitemap named in robots.txt carries 10,175 URLs: 5,593 distinct product ids under /product?p_id=, 2,131 category paths under /p/cat/, 444 under /category/, 732 newsroom pages and 141 static pages, plus 90 capital-P /Product ids.", "grade": "directly-observed", "confidence": "high", "refreeze_required": true, "unresolved_reason": "a sitemap is a claim about the source's own inventory, not proof that each URL serves content; capture corrects it"},
+    {"field": "route_grammar", "value": "four product/category URL forms", "evidence_urls": ["https://www.monoprice.com/"], "observation": "The home page alone links to /category (1024), /product (121), /pages (71), /search (57), /cart (5) and the capital-case /Category (4) and /MyAccount (1). Product URLs carry tracking parameters (page_type, location_type, start_date, promo_type) alongside p_id.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "soft_404", "value": "HTTP 200 for absent products and absent category paths", "evidence_urls": ["https://www.monoprice.com/product?p_id=99999999", "https://www.monoprice.com/category/nope/nope/nope"], "observation": "An absent product answers 200 with the title 'Products no longer Available' and a fixed 380,458-byte body. An absent category answers 200 with a 516KB page whose title is built from the requested slug and which contains zero product links. Only an unknown root path answers a true 404.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "rendering", "value": "server-rendered", "evidence_urls": ["https://www.monoprice.com/product?p_id=44627", "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables", "https://www.monoprice.com/search/index?keyword=hdmi+cable"], "observation": "The raw HTML of the product page already contains the title, the price and the Add to Cart control. The category listing's raw HTML carries 111 product links and the search page 117. No React, Next, Nuxt or Angular global is defined; the stack is jQuery, Bootstrap, slick and smartmenus.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "add_to_cart_contract", "value": "POST /cart with p_id, qty, quickbuy", "evidence_urls": ["https://www.monoprice.com/product?p_id=44627"], "observation": "The product page carries a real HTML form, not an XHR-only control.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "asset_hosts", "value": "www.monoprice.com/assets + images.monoprice.com", "evidence_urls": ["https://www.monoprice.com/", "https://images.monoprice.com/productmediumimages/312301.jpg"], "observation": "Stylesheets and scripts are served from /assets/ on the challenged www host; product imagery is on images.monoprice.com, which is not challenged and answers plain HTTP clients with 200. /assets/ is NOT under the robots-disallowed /StaticContent prefix, so the stylesheets are in scope.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false},
+    {"field": "capture_channel", "value": "local headed Chromium over CDP, single long-lived instance", "evidence_urls": [], "observation": "Preflight table in scope/channel-preflight.json: plain HTTP is answered 403 with a challenge shell; headless Chromium never clears the challenge (title stays 'Just a moment...'); headed Chromium clears it, reads rendered text and drives the site's own search input. Browserbase could not be attempted because its credentials are not exported in this environment. In a warmed headed context, in-page fetch of product HTML runs at 2.4 pages/second at concurrency 4 with zero challenges; higher concurrency does not help.", "grade": "directly-observed", "confidence": "high", "refreeze_required": false}
+  ],
+  "unresolved": [
+    {"id": "u-001", "issue": "Cart, checkout and account pages are under robots Disallow rules and will not be captured.", "impact": "The single most valuable journey has no source-side visual or copy evidence.", "disposition": "The clone authors these pages inside the source's own page shell and declares the difference in scope/claims.jsonl. Not a candidate defect."},
+    {"id": "u-002", "issue": "Browserbase could not be preflighted: BROWSERBASE_API_KEY and BROWSERBASE_PROJECT_ID are not exported.", "impact": "Only one working channel is available, so a channel failure has no fallback.", "disposition": "Proceed on local headed Chromium. If it fails three consecutive times in the same way, rerun the preflight table before switching rather than retrying."},
+    {"id": "u-003", "issue": "Headless capture is impossible; every page must come through a headed browser.", "impact": "Capture cost is bounded by one browser rather than by parallel workers.", "disposition": "Measured at 2.4 pages/second, so the full 10,175-URL frontier is roughly 70 minutes of wall clock. Accepted."},
+    {"id": "u-004", "issue": "A sitemap URL count is not a page count. /p/cat/ paths and /category/ paths may overlap, and the sitemap may name URLs the site no longer serves.", "impact": "Scope numbers derived from the sitemap alone would be wrong.", "disposition": "Capture records the served status and content of every URL; the frontier is corrected from what actually served, and absent pages are classified by the soft-404 content rule rather than by status code."},
+    {"id": "u-005", "issue": "Google Analytics and Tag Manager are proxied through the first-party path /securemetrics/.", "impact": "A remote-request audit is structurally blind to them: the requests never leave the origin.", "disposition": "The same-origin failure census, not the remote-request audit, is the gate that must account for them."},
+    {"id": "u-006", "issue": "Search type-ahead is a client-side Unbxd call that fires on every keystroke.", "impact": "No page-load audit can observe it; on the last site in this family the identical defect was found only when case generation refused to build search cases.", "disposition": "Implement the suggest endpoint locally against the clone's own catalogue, and let the case generator reject any candidate that leaves loopback."},
+    {"id": "u-007", "issue": "The source itself fails one request: dynamic.criteo.net no longer resolves.", "impact": "A faithful clone would reproduce a broken request.", "disposition": "Record as a source property; the clone strips the tag rather than reproducing the failure."}
+  ]
+}

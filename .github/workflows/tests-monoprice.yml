@@ -1,0 +1,22 @@
+name: diagnostics (monoprice)
+on:
+  pull_request:
+    paths:
+      - materials/monoprice/**
+      - .github/workflows/tests-monoprice.yml
+      - .github/workflows/clone-diagnostics.yml
+  push:
+    paths:
+      - materials/monoprice/**
+      - .github/workflows/tests-monoprice.yml
+      - .github/workflows/clone-diagnostics.yml
+permissions:
+  contents: read
+concurrency:
+  group: diagnostics-monoprice-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  diagnostics:
+    uses: ./.github/workflows/clone-diagnostics.yml
+    with:
+      site: monoprice

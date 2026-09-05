@@ -1,0 +1,2504 @@
+{
+ "schema_version": "monoprice.catalogue.v1",
+ "source": "schema.org Product blocks and captured listing pages",
+ "products": [],
+ "categories": [
+  {
+   "path": "/category/3d-printing-&-hobbies/3d-printers-&-accessories",
+   "name": "3D PRINTERS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/3d-printing-&-hobbies/3d-printers-&-accessories/3d-printer-replacement-parts-&-accessories",
+   "name": "3D PRINTER REPLACEMENT PARTS & ACCESSORIES",
+   "level": 3,
+   "parent": "/category/3d-printing-&-hobbies/3d-printers-&-accessories"
+  },
+  {
+   "path": "/category/3d-printing-&-hobbies/craft-cutters-&-accessories",
+   "name": "CRAFT CUTTERS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/3d-printing-&-hobbies/craft-cutters-&-accessories/craft-cutters-",
+   "name": "CRAFT CUTTERS",
+   "level": 3,
+   "parent": "/category/3d-printing-&-hobbies/craft-cutters-&-accessories"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-adapters",
+   "name": "AUDIO ADAPTERS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-adapters/audio-converters",
+   "name": "AUDIO CONVERTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-adapters/audio-plug-adapter",
+   "name": "AUDIO PLUG ADAPTER",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-adapters/banana-plugs",
+   "name": "BANANA PLUGS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers",
+   "name": "SPEAKER SELECTORS & VOLUME CONTROLLERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution",
+   "name": "AUDIO VIDEO DISTRIBUTION",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-adapters",
+   "name": "AUDIO VIDEO ADAPTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-converters",
+   "name": "AUDIO VIDEO CONVERTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-extenders",
+   "name": "AUDIO VIDEO EXTENDERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix",
+   "name": "AUDIO VIDEO MATRIX",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-splitters",
+   "name": "AUDIO VIDEO SPLITTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-switches",
+   "name": "AUDIO VIDEO SWITCHES",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers",
+   "name": "GENDER CHANGERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset",
+   "name": "HDBASET",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/audio-video-distribution/sdi-adapters",
+   "name": "SDI ADAPTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/audio-video-distribution"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters",
+   "name": "AV & COMPUTER ADAPTERS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/db-adapters",
+   "name": "DB ADAPTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters",
+   "name": "DISPLAYPORT & MINI DISPLAYPORT ADAPTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/drive-adapters",
+   "name": "DRIVE ADAPTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/dvi-adapters",
+   "name": "DVI ADAPTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/hdmi-adapters",
+   "name": "HDMI ADAPTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/monitor-&-computer-splitters",
+   "name": "MONITOR & COMPUTER SPLITTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/monitor-&-computer-switches",
+   "name": "MONITOR & COMPUTER SWITCHES",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters",
+   "name": "USB ADAPTERS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-hubs",
+   "name": "USB HUBS",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/av-&-computer-adapters"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/wall-plates-&-keystones",
+   "name": "WALL PLATES & KEYSTONES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-keystones",
+   "name": "AUDIO VIDEO KEYSTONES",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+  },
+  {
+   "path": "/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes",
+   "name": "AUDIO VIDEO WALL PLATES & BOXES",
+   "level": 3,
+   "parent": "/category/adapters,-switches,-&-splitters/wall-plates-&-keystones"
+  },
+  {
+   "path": "/category/audio-video/amplifiers-&-receivers",
+   "name": "AMPLIFIERS & RECEIVERS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/amplifiers-&-receivers/audio-amplifiers",
+   "name": "AUDIO AMPLIFIERS",
+   "level": 3,
+   "parent": "/category/audio-video/amplifiers-&-receivers"
+  },
+  {
+   "path": "/category/audio-video/amplifiers-&-receivers/home-theater-receivers",
+   "name": "HOME THEATER RECEIVERS",
+   "level": 3,
+   "parent": "/category/audio-video/amplifiers-&-receivers"
+  },
+  {
+   "path": "/category/audio-video/amplifiers-&-receivers/tube-amplifiers",
+   "name": "TUBE AMPLIFIERS",
+   "level": 3,
+   "parent": "/category/audio-video/amplifiers-&-receivers"
+  },
+  {
+   "path": "/category/audio-video/audio-&-video-accessories",
+   "name": "AUDIO & VIDEO ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/audio-&-video-accessories/remote-controls",
+   "name": "REMOTE CONTROLS",
+   "level": 3,
+   "parent": "/category/audio-video/audio-&-video-accessories"
+  },
+  {
+   "path": "/category/audio-video/audio-&-video-accessories/tools-&-cleaning-kits",
+   "name": "TOOLS & CLEANING KITS",
+   "level": 3,
+   "parent": "/category/audio-video/audio-&-video-accessories"
+  },
+  {
+   "path": "/category/audio-video/audio-&-video-components",
+   "name": "AUDIO & VIDEO COMPONENTS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/audio-&-video-components/bluetooth-receivers",
+   "name": "BLUETOOTH RECEIVERS",
+   "level": 3,
+   "parent": "/category/audio-video/audio-&-video-components"
+  },
+  {
+   "path": "/category/audio-video/cameras-&-accessories",
+   "name": "CAMERAS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/cameras-&-accessories/camera-accessories",
+   "name": "CAMERA ACCESSORIES",
+   "level": 3,
+   "parent": "/category/audio-video/cameras-&-accessories"
+  },
+  {
+   "path": "/category/audio-video/cameras-&-accessories/cameras-&-lenses",
+   "name": "CAMERAS & LENSES",
+   "level": 3,
+   "parent": "/category/audio-video/cameras-&-accessories"
+  },
+  {
+   "path": "/category/audio-video/commercial-audio-&-digital-signage",
+   "name": "COMMERCIAL AUDIO & DIGITAL SIGNAGE",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/commercial-audio-&-digital-signage/digital-signage",
+   "name": "DIGITAL SIGNAGE",
+   "level": 3,
+   "parent": "/category/audio-video/commercial-audio-&-digital-signage"
+  },
+  {
+   "path": "/category/audio-video/commercial-audio-&-digital-signage/dynamic-microphones",
+   "name": "DYNAMIC MICROPHONES",
+   "level": 3,
+   "parent": "/category/audio-video/commercial-audio-&-digital-signage"
+  },
+  {
+   "path": "/category/audio-video/commercial-audio-&-digital-signage/mixers-&-amplifiers",
+   "name": "MIXERS & AMPLIFIERS",
+   "level": 3,
+   "parent": "/category/audio-video/commercial-audio-&-digital-signage"
+  },
+  {
+   "path": "/category/audio-video/commercial-audio-&-digital-signage/speakers",
+   "name": "SPEAKERS",
+   "level": 3,
+   "parent": "/category/audio-video/commercial-audio-&-digital-signage"
+  },
+  {
+   "path": "/category/audio-video/headphones/bluetooth-earphones",
+   "name": "BLUETOOTH EARPHONES",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/headphones/bluetooth-headphones",
+   "name": "BLUETOOTH HEADPHONES",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/headphones/headphone-amplifiers",
+   "name": "HEADPHONE AMPLIFIERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/headphones/headphone-stands",
+   "name": "HEADPHONE STANDS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/headphones/in-ear-headphones",
+   "name": "IN EAR HEADPHONES",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/headphones/on-ear-headphones",
+   "name": "ON EAR HEADPHONES",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/headphones/over-ear-headphones",
+   "name": "OVER EAR HEADPHONES",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/projectors-&-screens",
+   "name": "PROJECTORS & SCREENS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/projectors-&-screens/projector-mounts",
+   "name": "PROJECTOR MOUNTS",
+   "level": 3,
+   "parent": "/category/audio-video/projectors-&-screens"
+  },
+  {
+   "path": "/category/audio-video/projectors-&-screens/projectors",
+   "name": "PROJECTORS",
+   "level": 3,
+   "parent": "/category/audio-video/projectors-&-screens"
+  },
+  {
+   "path": "/category/audio-video/speakers/bookshelf-speakers",
+   "name": "BOOKSHELF SPEAKERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/center-channel-speakers",
+   "name": "CENTER CHANNEL SPEAKERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/home-theater-speakers-systems",
+   "name": "HOME THEATER SPEAKERS SYSTEMS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/in-ceiling-speakers",
+   "name": "IN CEILING SPEAKERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/in-wall-speakers",
+   "name": "IN WALL SPEAKERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/outdoor-speakers",
+   "name": "OUTDOOR SPEAKERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/powered-desktop-speakers",
+   "name": "POWERED DESKTOP SPEAKERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/sound-bars",
+   "name": "SOUND BARS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/subwoofers",
+   "name": "SUBWOOFERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/speakers/tower-speakers",
+   "name": "TOWER SPEAKERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/surge-protection",
+   "name": "SURGE PROTECTION",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/surge-protection/extension-cords",
+   "name": "EXTENSION CORDS",
+   "level": 3,
+   "parent": "/category/audio-video/surge-protection"
+  },
+  {
+   "path": "/category/audio-video/surge-protection/power-adapters",
+   "name": "POWER ADAPTERS",
+   "level": 3,
+   "parent": "/category/audio-video/surge-protection"
+  },
+  {
+   "path": "/category/audio-video/surge-protection/power-cords",
+   "name": "POWER CORDS",
+   "level": 3,
+   "parent": "/category/audio-video/surge-protection"
+  },
+  {
+   "path": "/category/audio-video/surge-protection/power-inverters",
+   "name": "POWER INVERTERS",
+   "level": 3,
+   "parent": "/category/audio-video/surge-protection"
+  },
+  {
+   "path": "/category/audio-video/surge-protection/power-strip-surge-protectors",
+   "name": "POWER STRIP SURGE PROTECTORS",
+   "level": 3,
+   "parent": "/category/audio-video/surge-protection"
+  },
+  {
+   "path": "/category/audio-video/surge-protection/ups-battery-backups",
+   "name": "UPS BATTERY BACKUPS",
+   "level": 3,
+   "parent": "/category/audio-video/surge-protection"
+  },
+  {
+   "path": "/category/audio-video/surge-protection/wall-tap-surge-protectors",
+   "name": "WALL TAP SURGE PROTECTORS",
+   "level": 3,
+   "parent": "/category/audio-video/surge-protection"
+  },
+  {
+   "path": "/category/audio-video/televisions",
+   "name": "TELEVISIONS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/televisions/televisions",
+   "name": "TELEVISIONS",
+   "level": 3,
+   "parent": "/category/audio-video/televisions"
+  },
+  {
+   "path": "/category/audio-video/weatherproof-cases-&-containers",
+   "name": "WEATHERPROOF CASES & CONTAINERS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/audio-video/weatherproof-cases-&-containers/weatherproof-cases",
+   "name": "WEATHERPROOF CASES",
+   "level": 3,
+   "parent": "/category/audio-video/weatherproof-cases-&-containers"
+  },
+  {
+   "path": "/category/cables/audio-cables",
+   "name": "AUDIO CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/audio-cables/auxiliary-cables",
+   "name": "AUXILIARY CABLES",
+   "level": 3,
+   "parent": "/category/cables/audio-cables"
+  },
+  {
+   "path": "/category/cables/audio-cables/digital-coaxial-cables",
+   "name": "DIGITAL COAXIAL CABLES",
+   "level": 3,
+   "parent": "/category/cables/audio-cables"
+  },
+  {
+   "path": "/category/cables/audio-cables/optical-toslink-cables",
+   "name": "OPTICAL TOSLINK CABLES",
+   "level": 3,
+   "parent": "/category/cables/audio-cables"
+  },
+  {
+   "path": "/category/cables/audio-cables/rca-cables",
+   "name": "RCA CABLES",
+   "level": 3,
+   "parent": "/category/cables/audio-cables"
+  },
+  {
+   "path": "/category/cables/audio-cables/speaker-wire",
+   "name": "SPEAKER WIRE",
+   "level": 3,
+   "parent": "/category/cables/audio-cables"
+  },
+  {
+   "path": "/category/cables/bulk-cables",
+   "name": "BULK CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/bulk-cables/bulk-access-control-cables",
+   "name": "BULK ACCESS CONTROL CABLES",
+   "level": 3,
+   "parent": "/category/cables/bulk-cables"
+  },
+  {
+   "path": "/category/cables/bulk-cables/bulk-coaxial-cable",
+   "name": "BULK COAXIAL CABLE",
+   "level": 3,
+   "parent": "/category/cables/bulk-cables"
+  },
+  {
+   "path": "/category/cables/bulk-cables/bulk-microphone-cables",
+   "name": "BULK MICROPHONE CABLES",
+   "level": 3,
+   "parent": "/category/cables/bulk-cables"
+  },
+  {
+   "path": "/category/cables/bulk-networking-cables",
+   "name": "BULK NETWORKING CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/bulk-networking-cables/cat5e-bulk-ethernet-cables",
+   "name": "CAT5E BULK ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/bulk-networking-cables"
+  },
+  {
+   "path": "/category/cables/bulk-networking-cables/cat6-bulk-ethernet-cables",
+   "name": "CAT6 BULK ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/bulk-networking-cables"
+  },
+  {
+   "path": "/category/cables/bulk-networking-cables/cat6a-bulk-ethernet-cables",
+   "name": "CAT6A BULK ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/bulk-networking-cables"
+  },
+  {
+   "path": "/category/cables/bulk-networking-cables/cat8-bulk-ethernet-cables",
+   "name": "CAT8 BULK ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/bulk-networking-cables"
+  },
+  {
+   "path": "/category/cables/computer-&-printer-cables",
+   "name": "COMPUTER & PRINTER CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/computer-&-printer-cables/printer-cables",
+   "name": "PRINTER CABLES",
+   "level": 3,
+   "parent": "/category/cables/computer-&-printer-cables"
+  },
+  {
+   "path": "/category/cables/computer-&-printer-cables/usb-b-cables",
+   "name": "USB B CABLES",
+   "level": 3,
+   "parent": "/category/cables/computer-&-printer-cables"
+  },
+  {
+   "path": "/category/cables/data-cables",
+   "name": "DATA CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/data-cables/firewire-cables",
+   "name": "FIREWIRE CABLES",
+   "level": 3,
+   "parent": "/category/cables/data-cables"
+  },
+  {
+   "path": "/category/cables/data-cables/kvm-cables",
+   "name": "KVM CABLES",
+   "level": 3,
+   "parent": "/category/cables/data-cables"
+  },
+  {
+   "path": "/category/cables/data-cables/phone-cables",
+   "name": "PHONE CABLES",
+   "level": 3,
+   "parent": "/category/cables/data-cables"
+  },
+  {
+   "path": "/category/cables/data-cables/sata-cables",
+   "name": "SATA CABLES",
+   "level": 3,
+   "parent": "/category/cables/data-cables"
+  },
+  {
+   "path": "/category/cables/data-cables/scsi-&-sas-cables",
+   "name": "SCSI & SAS CABLES",
+   "level": 3,
+   "parent": "/category/cables/data-cables"
+  },
+  {
+   "path": "/category/cables/data-cables/serial-cables",
+   "name": "SERIAL CABLES",
+   "level": 3,
+   "parent": "/category/cables/data-cables"
+  },
+  {
+   "path": "/category/cables/fiber-optic-cables",
+   "name": "FIBER OPTIC CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/fiber-optic-cables/multi-mode-cables",
+   "name": "MULTI MODE CABLES",
+   "level": 3,
+   "parent": "/category/cables/fiber-optic-cables"
+  },
+  {
+   "path": "/category/cables/fiber-optic-cables/single-mode-cables",
+   "name": "SINGLE MODE CABLES",
+   "level": 3,
+   "parent": "/category/cables/fiber-optic-cables"
+  },
+  {
+   "path": "/category/cables/hdmi-cables",
+   "name": "HDMI CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/hdmi-cables/hdmi-cables",
+   "name": "HDMI CABLES",
+   "level": 3,
+   "parent": "/category/cables/hdmi-cables"
+  },
+  {
+   "path": "/category/cables/hdmi-cables/hdmi-extension-cables",
+   "name": "HDMI EXTENSION CABLES",
+   "level": 3,
+   "parent": "/category/cables/hdmi-cables"
+  },
+  {
+   "path": "/category/cables/hdmi-cables/micro-&-mini-hdmi-cables",
+   "name": "MICRO & MINI HDMI CABLES",
+   "level": 3,
+   "parent": "/category/cables/hdmi-cables"
+  },
+  {
+   "path": "/category/cables/networking-patch-cables",
+   "name": "NETWORKING PATCH CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/networking-patch-cables/cat5e-ethernet-cables",
+   "name": "CAT5E ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/networking-patch-cables"
+  },
+  {
+   "path": "/category/cables/networking-patch-cables/cat6-ethernet-cables",
+   "name": "CAT6 ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/networking-patch-cables"
+  },
+  {
+   "path": "/category/cables/networking-patch-cables/cat6a-ethernet-cables",
+   "name": "CAT6A ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/networking-patch-cables"
+  },
+  {
+   "path": "/category/cables/networking-patch-cables/cat7-ethernet-cables",
+   "name": "CAT7 ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/networking-patch-cables"
+  },
+  {
+   "path": "/category/cables/networking-patch-cables/cat8-ethernet-cables",
+   "name": "CAT8 ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/cables/networking-patch-cables"
+  },
+  {
+   "path": "/category/cables/power-cords",
+   "name": "POWER CORDS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/power-cords/extension-cords",
+   "name": "EXTENSION CORDS",
+   "level": 3,
+   "parent": "/category/cables/power-cords"
+  },
+  {
+   "path": "/category/cables/power-cords/hospital-power-cords",
+   "name": "HOSPITAL POWER CORDS",
+   "level": 3,
+   "parent": "/category/cables/power-cords"
+  },
+  {
+   "path": "/category/cables/power-cords/international-power-cords",
+   "name": "INTERNATIONAL POWER CORDS",
+   "level": 3,
+   "parent": "/category/cables/power-cords"
+  },
+  {
+   "path": "/category/cables/power-cords/laptop-ac-power-cords",
+   "name": "LAPTOP AC POWER CORDS",
+   "level": 3,
+   "parent": "/category/cables/power-cords"
+  },
+  {
+   "path": "/category/cables/power-cords/power-cords",
+   "name": "POWER CORDS",
+   "level": 3,
+   "parent": "/category/cables/power-cords"
+  },
+  {
+   "path": "/category/cables/power-cords/splitter-power-cords",
+   "name": "SPLITTER POWER CORDS",
+   "level": 3,
+   "parent": "/category/cables/power-cords"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables",
+   "name": "PRO AUDIO CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/dmx-cables",
+   "name": "DMX CABLES",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/guitar-cables",
+   "name": "GUITAR CABLES",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/interconnect-cables",
+   "name": "INTERCONNECT CABLES",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/microphone-cables-(xlr-cables)",
+   "name": "MICROPHONE CABLES (XLR CABLES)",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/midi-cables",
+   "name": "MIDI CABLES",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/mobile-&-combo-adapter-cables",
+   "name": "MOBILE & COMBO ADAPTER CABLES",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/pro-power-cables",
+   "name": "PRO POWER CABLES",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/snake-cables",
+   "name": "SNAKE CABLES",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/pro-audio-cables/speaker-cables",
+   "name": "SPEAKER CABLES",
+   "level": 3,
+   "parent": "/category/cables/pro-audio-cables"
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables",
+   "name": "USB & LIGHTNING CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables/lightning-cables",
+   "name": "LIGHTNING CABLES",
+   "level": 3,
+   "parent": "/category/cables/usb-&-lightning-cables"
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables/micro-usb-cables",
+   "name": "MICRO USB CABLES",
+   "level": 3,
+   "parent": "/category/cables/usb-&-lightning-cables"
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables/mini-b-cables",
+   "name": "MINI B CABLES",
+   "level": 3,
+   "parent": "/category/cables/usb-&-lightning-cables"
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables/thunderbolt-cables",
+   "name": "THUNDERBOLT CABLES",
+   "level": 3,
+   "parent": "/category/cables/usb-&-lightning-cables"
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables/usb-b-cables",
+   "name": "USB B CABLES",
+   "level": 3,
+   "parent": "/category/cables/usb-&-lightning-cables"
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables/usb-c-cables",
+   "name": "USB C CABLES",
+   "level": 3,
+   "parent": "/category/cables/usb-&-lightning-cables"
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables/usb-cables",
+   "name": "USB CABLES",
+   "level": 3,
+   "parent": "/category/cables/usb-&-lightning-cables"
+  },
+  {
+   "path": "/category/cables/usb-&-lightning-cables/usb-extension-cables",
+   "name": "USB EXTENSION CABLES",
+   "level": 3,
+   "parent": "/category/cables/usb-&-lightning-cables"
+  },
+  {
+   "path": "/category/cables/video-cables",
+   "name": "VIDEO CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/cables/video-cables/coaxial-&-bnc-cables",
+   "name": "COAXIAL & BNC CABLES",
+   "level": 3,
+   "parent": "/category/cables/video-cables"
+  },
+  {
+   "path": "/category/cables/video-cables/displayport-&-mini-displayport-cables",
+   "name": "DISPLAYPORT & MINI DISPLAYPORT CABLES",
+   "level": 3,
+   "parent": "/category/cables/video-cables"
+  },
+  {
+   "path": "/category/cables/video-cables/dvi-cables",
+   "name": "DVI CABLES",
+   "level": 3,
+   "parent": "/category/cables/video-cables"
+  },
+  {
+   "path": "/category/cables/video-cables/rca-composite-&-component-cables",
+   "name": "RCA COMPOSITE & COMPONENT CABLES",
+   "level": 3,
+   "parent": "/category/cables/video-cables"
+  },
+  {
+   "path": "/category/cables/video-cables/sdi-cables",
+   "name": "SDI CABLES",
+   "level": 3,
+   "parent": "/category/cables/video-cables"
+  },
+  {
+   "path": "/category/cables/video-cables/vga-&-svga-cables",
+   "name": "VGA & SVGA CABLES",
+   "level": 3,
+   "parent": "/category/cables/video-cables"
+  },
+  {
+   "path": "/category/computers-&-gaming/monitors-&-displays",
+   "name": "MONITORS & DISPLAYS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/computers-&-gaming/monitors-&-displays/desktop-monitors",
+   "name": "DESKTOP MONITORS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/monitors-&-displays"
+  },
+  {
+   "path": "/category/computers-&-gaming/monitors-&-displays/digital-signage",
+   "name": "DIGITAL SIGNAGE",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/monitors-&-displays"
+  },
+  {
+   "path": "/category/computers-&-gaming/monitors-&-displays/touch-screen-monitors",
+   "name": "TOUCH SCREEN MONITORS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/monitors-&-displays"
+  },
+  {
+   "path": "/category/computers-&-gaming/pc-components",
+   "name": "PC COMPONENTS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/computers-&-gaming/pc-components/cases",
+   "name": "CASES",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/pc-components"
+  },
+  {
+   "path": "/category/computers-&-gaming/pc-components/cpus-&-processors",
+   "name": "CPUS & PROCESSORS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/pc-components"
+  },
+  {
+   "path": "/category/computers-&-gaming/pc-components/fans-&-cooling",
+   "name": "FANS & COOLING",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/pc-components"
+  },
+  {
+   "path": "/category/computers-&-gaming/pc-gaming",
+   "name": "PC GAMING",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/computers-&-gaming/pc-gaming/gaming-surfaces",
+   "name": "GAMING SURFACES",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/pc-gaming"
+  },
+  {
+   "path": "/category/computers-&-gaming/pc-gaming/mice",
+   "name": "MICE",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/pc-gaming"
+  },
+  {
+   "path": "/category/computers-&-gaming/pcs-&-tablets",
+   "name": "PCS & TABLETS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/computers-&-gaming/pcs-&-tablets/desktops",
+   "name": "DESKTOPS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/pcs-&-tablets"
+  },
+  {
+   "path": "/category/computers-&-gaming/pcs-&-tablets/tablets",
+   "name": "TABLETS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/pcs-&-tablets"
+  },
+  {
+   "path": "/category/computers-&-gaming/peripherals-&-accessories",
+   "name": "PERIPHERALS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/computers-&-gaming/peripherals-&-accessories/docking-stations",
+   "name": "DOCKING STATIONS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/peripherals-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/peripherals-&-accessories/keyboards",
+   "name": "KEYBOARDS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/peripherals-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/peripherals-&-accessories/locks-&-accessories",
+   "name": "LOCKS & ACCESSORIES",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/peripherals-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/peripherals-&-accessories/mice",
+   "name": "MICE",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/peripherals-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/peripherals-&-accessories/usb-adapters",
+   "name": "USB ADAPTERS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/peripherals-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/peripherals-&-accessories/usb-hubs",
+   "name": "USB HUBS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/peripherals-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/power-&-surge",
+   "name": "POWER & SURGE",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/computers-&-gaming/power-&-surge/extension-cords",
+   "name": "EXTENSION CORDS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/power-&-surge"
+  },
+  {
+   "path": "/category/computers-&-gaming/power-&-surge/power-strip-surge-protectors",
+   "name": "POWER STRIP SURGE PROTECTORS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/power-&-surge"
+  },
+  {
+   "path": "/category/computers-&-gaming/power-&-surge/ups-battery-backups",
+   "name": "UPS BATTERY BACKUPS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/power-&-surge"
+  },
+  {
+   "path": "/category/computers-&-gaming/power-&-surge/wall-tap-surge-protectors",
+   "name": "WALL TAP SURGE PROTECTORS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/power-&-surge"
+  },
+  {
+   "path": "/category/computers-&-gaming/printers-&-accessories",
+   "name": "PRINTERS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/computers-&-gaming/printers-&-accessories/inkjet-printers",
+   "name": "INKJET PRINTERS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/printers-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/printers-&-accessories/printer-cables",
+   "name": "PRINTER CABLES",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/printers-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/printers-&-accessories/toner-cartridges",
+   "name": "TONER CARTRIDGES",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/printers-&-accessories"
+  },
+  {
+   "path": "/category/computers-&-gaming/storage-&-drives",
+   "name": "STORAGE & DRIVES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/computers-&-gaming/storage-&-drives/external-drives",
+   "name": "EXTERNAL DRIVES",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/storage-&-drives"
+  },
+  {
+   "path": "/category/computers-&-gaming/storage-&-drives/hard-drive-enclosures",
+   "name": "HARD DRIVE ENCLOSURES",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/storage-&-drives"
+  },
+  {
+   "path": "/category/computers-&-gaming/storage-&-drives/network-attached-storage-(nas)",
+   "name": "NETWORK ATTACHED STORAGE (NAS)",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/storage-&-drives"
+  },
+  {
+   "path": "/category/computers-&-gaming/storage-&-drives/sd-cards",
+   "name": "SD CARDS",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/storage-&-drives"
+  },
+  {
+   "path": "/category/computers-&-gaming/storage-&-drives/usb-flash-drives",
+   "name": "USB FLASH DRIVES",
+   "level": 3,
+   "parent": "/category/computers-&-gaming/storage-&-drives"
+  },
+  {
+   "path": "/category/edi",
+   "name": "EDI",
+   "level": 1,
+   "parent": null
+  },
+  {
+   "path": "/category/edi/edi-products",
+   "name": "EDI PRODUCTS",
+   "level": 2,
+   "parent": "/category/edi"
+  },
+  {
+   "path": "/category/edi/edi-products/edi-products-in-process",
+   "name": "EDI PRODUCTS IN PROCESS",
+   "level": 3,
+   "parent": "/category/edi/edi-products"
+  },
+  {
+   "path": "/category/home-&-office/games-&-leisure",
+   "name": "GAMES & LEISURE",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/home-&-office/games-&-leisure/outdoor-games",
+   "name": "OUTDOOR GAMES",
+   "level": 3,
+   "parent": "/category/home-&-office/games-&-leisure"
+  },
+  {
+   "path": "/category/home-&-office/home-appliances",
+   "name": "HOME APPLIANCES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/home-&-office/home-appliances/small-appliances",
+   "name": "SMALL APPLIANCES",
+   "level": 3,
+   "parent": "/category/home-&-office/home-appliances"
+  },
+  {
+   "path": "/category/home-&-office/monitor-mounts",
+   "name": "MONITOR MOUNTS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/home-&-office/monitor-mounts/desk-monitor-mounts",
+   "name": "DESK MONITOR MOUNTS",
+   "level": 3,
+   "parent": "/category/home-&-office/monitor-mounts"
+  },
+  {
+   "path": "/category/home-&-office/monitor-mounts/freestanding-monitor-mounts",
+   "name": "FREESTANDING MONITOR MOUNTS",
+   "level": 3,
+   "parent": "/category/home-&-office/monitor-mounts"
+  },
+  {
+   "path": "/category/home-&-office/monitor-mounts/monitor-stand-&-shelves",
+   "name": "MONITOR STAND & SHELVES",
+   "level": 3,
+   "parent": "/category/home-&-office/monitor-mounts"
+  },
+  {
+   "path": "/category/home-&-office/office-furniture",
+   "name": "OFFICE FURNITURE",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/home-&-office/office-furniture/desk-organizers",
+   "name": "DESK ORGANIZERS",
+   "level": 3,
+   "parent": "/category/home-&-office/office-furniture"
+  },
+  {
+   "path": "/category/home-&-office/office-furniture/desks",
+   "name": "DESKS",
+   "level": 3,
+   "parent": "/category/home-&-office/office-furniture"
+  },
+  {
+   "path": "/category/home-&-office/office-furniture/drawers-&-cabinets",
+   "name": "DRAWERS & CABINETS",
+   "level": 3,
+   "parent": "/category/home-&-office/office-furniture"
+  },
+  {
+   "path": "/category/home-&-office/office-furniture/office-chairs",
+   "name": "OFFICE CHAIRS",
+   "level": 3,
+   "parent": "/category/home-&-office/office-furniture"
+  },
+  {
+   "path": "/category/home-&-office/office-supplies-&-gadgets",
+   "name": "OFFICE SUPPLIES & GADGETS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/home-&-office/office-supplies-&-gadgets/batteries",
+   "name": "BATTERIES",
+   "level": 3,
+   "parent": "/category/home-&-office/office-supplies-&-gadgets"
+  },
+  {
+   "path": "/category/home-&-office/office-supplies-&-gadgets/conferencing-devices",
+   "name": "CONFERENCING DEVICES",
+   "level": 3,
+   "parent": "/category/home-&-office/office-supplies-&-gadgets"
+  },
+  {
+   "path": "/category/home-&-office/office-supplies-&-gadgets/office-gadgets",
+   "name": "OFFICE GADGETS",
+   "level": 3,
+   "parent": "/category/home-&-office/office-supplies-&-gadgets"
+  },
+  {
+   "path": "/category/home-&-office/power-&-surge",
+   "name": "POWER & SURGE",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/home-&-office/power-&-surge/extension-cords",
+   "name": "EXTENSION CORDS",
+   "level": 3,
+   "parent": "/category/home-&-office/power-&-surge"
+  },
+  {
+   "path": "/category/home-&-office/power-&-surge/power-cords",
+   "name": "POWER CORDS",
+   "level": 3,
+   "parent": "/category/home-&-office/power-&-surge"
+  },
+  {
+   "path": "/category/home-&-office/power-&-surge/power-strip-surge-protectors",
+   "name": "POWER STRIP SURGE PROTECTORS",
+   "level": 3,
+   "parent": "/category/home-&-office/power-&-surge"
+  },
+  {
+   "path": "/category/home-&-office/power-&-surge/ups-battery-backups",
+   "name": "UPS BATTERY BACKUPS",
+   "level": 3,
+   "parent": "/category/home-&-office/power-&-surge"
+  },
+  {
+   "path": "/category/home-&-office/power-&-surge/wall-tap-surge-protectors",
+   "name": "WALL TAP SURGE PROTECTORS",
+   "level": 3,
+   "parent": "/category/home-&-office/power-&-surge"
+  },
+  {
+   "path": "/category/home-&-office/sit-stand-desks",
+   "name": "SIT STAND DESKS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/home-&-office/sit-stand-desks/manual-crank-&-gas-lift-sit-stand-desks",
+   "name": "MANUAL CRANK & GAS LIFT SIT STAND DESKS",
+   "level": 3,
+   "parent": "/category/home-&-office/sit-stand-desks"
+  },
+  {
+   "path": "/category/home-&-office/sit-stand-desks/motorized-sit-stand-desks",
+   "name": "MOTORIZED SIT STAND DESKS",
+   "level": 3,
+   "parent": "/category/home-&-office/sit-stand-desks"
+  },
+  {
+   "path": "/category/home-&-office/sit-stand-desks/sit-stand-desk-converters",
+   "name": "SIT STAND DESK CONVERTERS",
+   "level": 3,
+   "parent": "/category/home-&-office/sit-stand-desks"
+  },
+  {
+   "path": "/category/home-&-office/sit-stand-desks/sit-stand-desk-tops",
+   "name": "SIT STAND DESK TOPS",
+   "level": 3,
+   "parent": "/category/home-&-office/sit-stand-desks"
+  },
+  {
+   "path": "/category/home-&-office/travel-&-fitness",
+   "name": "TRAVEL & FITNESS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/home-&-office/travel-&-fitness/health-&-personal-care",
+   "name": "HEALTH & PERSONAL CARE",
+   "level": 3,
+   "parent": "/category/home-&-office/travel-&-fitness"
+  },
+  {
+   "path": "/category/home-&-office/travel-&-fitness/home-gym",
+   "name": "HOME GYM",
+   "level": 3,
+   "parent": "/category/home-&-office/travel-&-fitness"
+  },
+  {
+   "path": "/category/home-&-office/travel-&-fitness/travel-accessories",
+   "name": "TRAVEL ACCESSORIES",
+   "level": 3,
+   "parent": "/category/home-&-office/travel-&-fitness"
+  },
+  {
+   "path": "/category/mobile/charging",
+   "name": "CHARGING",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/mobile/charging/lightning-cables",
+   "name": "LIGHTNING CABLES",
+   "level": 3,
+   "parent": "/category/mobile/charging"
+  },
+  {
+   "path": "/category/mobile/charging/micro-usb-cables",
+   "name": "MICRO USB CABLES",
+   "level": 3,
+   "parent": "/category/mobile/charging"
+  },
+  {
+   "path": "/category/mobile/charging/power-banks",
+   "name": "POWER BANKS",
+   "level": 3,
+   "parent": "/category/mobile/charging"
+  },
+  {
+   "path": "/category/mobile/charging/usb-c-cables",
+   "name": "USB C CABLES",
+   "level": 3,
+   "parent": "/category/mobile/charging"
+  },
+  {
+   "path": "/category/mobile/charging/usb-car-chargers",
+   "name": "USB CAR CHARGERS",
+   "level": 3,
+   "parent": "/category/mobile/charging"
+  },
+  {
+   "path": "/category/mobile/charging/usb-wall-chargers",
+   "name": "USB WALL CHARGERS",
+   "level": 3,
+   "parent": "/category/mobile/charging"
+  },
+  {
+   "path": "/category/mobile/charging/wireless-chargers",
+   "name": "WIRELESS CHARGERS",
+   "level": 3,
+   "parent": "/category/mobile/charging"
+  },
+  {
+   "path": "/category/mobile/headphones",
+   "name": "HEADPHONES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/mobile/headphones/bluetooth-earphones",
+   "name": "BLUETOOTH EARPHONES",
+   "level": 3,
+   "parent": "/category/mobile/headphones"
+  },
+  {
+   "path": "/category/mobile/headphones/bluetooth-headphones",
+   "name": "BLUETOOTH HEADPHONES",
+   "level": 3,
+   "parent": "/category/mobile/headphones"
+  },
+  {
+   "path": "/category/mobile/headphones/in-ear-headphones",
+   "name": "IN EAR HEADPHONES",
+   "level": 3,
+   "parent": "/category/mobile/headphones"
+  },
+  {
+   "path": "/category/mobile/headphones/on-ear-headphones",
+   "name": "ON EAR HEADPHONES",
+   "level": 3,
+   "parent": "/category/mobile/headphones"
+  },
+  {
+   "path": "/category/mobile/headphones/over-ear-&-on-ear-headphones",
+   "name": "OVER EAR & ON EAR HEADPHONES",
+   "level": 3,
+   "parent": "/category/mobile/headphones"
+  },
+  {
+   "path": "/category/mounts-&-stands/instrument-stands-&-accessories",
+   "name": "INSTRUMENT STANDS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/mounts-&-stands/instrument-stands-&-accessories/guitar-stands",
+   "name": "GUITAR STANDS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/mounts-&-stands/instrument-stands-&-accessories/microphone-stands",
+   "name": "MICROPHONE STANDS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/mounts-&-stands/instrument-stands-&-accessories/pa-speaker-stands",
+   "name": "PA SPEAKER STANDS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/mounts-&-stands/instrument-stands-&-accessories/sheet-music-stands",
+   "name": "SHEET MUSIC STANDS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/mounts-&-stands/instrument-stands-&-accessories/stand-accessories",
+   "name": "STAND ACCESSORIES",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/mounts-&-stands/monitor-mounts",
+   "name": "MONITOR MOUNTS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/mounts-&-stands/monitor-mounts/desk-monitor-mounts",
+   "name": "DESK MONITOR MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/monitor-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/monitor-mounts/freestanding-monitor-mounts",
+   "name": "FREESTANDING MONITOR MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/monitor-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves",
+   "name": "MONITOR STAND & SHELVES",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/monitor-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/projectors-&-screens",
+   "name": "PROJECTORS & SCREENS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/mounts-&-stands/projectors-&-screens/projector-mounts",
+   "name": "PROJECTOR MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/projectors-&-screens"
+  },
+  {
+   "path": "/category/mounts-&-stands/sit-stand-desks",
+   "name": "SIT STAND DESKS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/mounts-&-stands/sit-stand-desks/manual-crank-&-gas-lift-sit-stand-desks",
+   "name": "MANUAL CRANK & GAS LIFT SIT STAND DESKS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/sit-stand-desks"
+  },
+  {
+   "path": "/category/mounts-&-stands/sit-stand-desks/motorized-sit-stand-desks",
+   "name": "MOTORIZED SIT STAND DESKS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/sit-stand-desks"
+  },
+  {
+   "path": "/category/mounts-&-stands/sit-stand-desks/sit-stand-desk-converters",
+   "name": "SIT STAND DESK CONVERTERS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/sit-stand-desks"
+  },
+  {
+   "path": "/category/mounts-&-stands/sit-stand-desks/sit-stand-desk-tops",
+   "name": "SIT STAND DESK TOPS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/sit-stand-desks"
+  },
+  {
+   "path": "/category/mounts-&-stands/speaker-mounts-&-stands",
+   "name": "SPEAKER MOUNTS & STANDS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/mounts-&-stands/speaker-mounts-&-stands/speaker-mounts",
+   "name": "SPEAKER MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/speaker-mounts-&-stands"
+  },
+  {
+   "path": "/category/mounts-&-stands/speaker-mounts-&-stands/speaker-stands",
+   "name": "SPEAKER STANDS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/speaker-mounts-&-stands"
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts",
+   "name": "TV WALL MOUNTS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts",
+   "name": "DIGITAL SIGNAGE MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/tv-wall-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts/fixed-tv-wall-mounts",
+   "name": "FIXED TV WALL MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/tv-wall-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts",
+   "name": "FULL MOTION TV WALL MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/tv-wall-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts/specialty-tv-mounts",
+   "name": "SPECIALTY TV MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/tv-wall-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts/tilt-tv-wall-mounts",
+   "name": "TILT TV WALL MOUNTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/tv-wall-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts/tv-&-component-stands",
+   "name": "TV & COMPONENT STANDS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/tv-wall-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts/tv-carts",
+   "name": "TV CARTS",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/tv-wall-mounts"
+  },
+  {
+   "path": "/category/mounts-&-stands/tv-wall-mounts/tv-mount-accessories",
+   "name": "TV MOUNT ACCESSORIES",
+   "level": 3,
+   "parent": "/category/mounts-&-stands/tv-wall-mounts"
+  },
+  {
+   "path": "/category/networking/cable-management",
+   "name": "CABLE MANAGEMENT",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/cable-management/cable-clips",
+   "name": "CABLE CLIPS",
+   "level": 3,
+   "parent": "/category/networking/cable-management"
+  },
+  {
+   "path": "/category/networking/cable-management/cable-covers-&-raceways",
+   "name": "CABLE COVERS & RACEWAYS",
+   "level": 3,
+   "parent": "/category/networking/cable-management"
+  },
+  {
+   "path": "/category/networking/cable-management/cable-tie-mounts",
+   "name": "CABLE TIE MOUNTS",
+   "level": 3,
+   "parent": "/category/networking/cable-management"
+  },
+  {
+   "path": "/category/networking/cable-management/cable-ties",
+   "name": "CABLE TIES",
+   "level": 3,
+   "parent": "/category/networking/cable-management"
+  },
+  {
+   "path": "/category/networking/cable-management/cable-tubes-&-sleeves",
+   "name": "CABLE TUBES & SLEEVES",
+   "level": 3,
+   "parent": "/category/networking/cable-management"
+  },
+  {
+   "path": "/category/networking/cable-management/hook-&-loop",
+   "name": "HOOK & LOOP",
+   "level": 3,
+   "parent": "/category/networking/cable-management"
+  },
+  {
+   "path": "/category/networking/fiber-optic-adapters",
+   "name": "FIBER OPTIC ADAPTERS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/fiber-optic-adapters/fiber-optic-adapters",
+   "name": "FIBER OPTIC ADAPTERS",
+   "level": 3,
+   "parent": "/category/networking/fiber-optic-adapters"
+  },
+  {
+   "path": "/category/networking/fiber-optic-adapters/media-converters",
+   "name": "MEDIA CONVERTERS",
+   "level": 3,
+   "parent": "/category/networking/fiber-optic-adapters"
+  },
+  {
+   "path": "/category/networking/fiber-optic-cables",
+   "name": "FIBER OPTIC CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/fiber-optic-cables/multi-mode-cables",
+   "name": "MULTI MODE CABLES",
+   "level": 3,
+   "parent": "/category/networking/fiber-optic-cables"
+  },
+  {
+   "path": "/category/networking/fiber-optic-cables/single-mode-cables",
+   "name": "SINGLE MODE CABLES",
+   "level": 3,
+   "parent": "/category/networking/fiber-optic-cables"
+  },
+  {
+   "path": "/category/networking/network-installation-accessories",
+   "name": "NETWORK INSTALLATION ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/network-installation-accessories/inline-couplers",
+   "name": "INLINE COUPLERS",
+   "level": 3,
+   "parent": "/category/networking/network-installation-accessories"
+  },
+  {
+   "path": "/category/networking/network-installation-accessories/modular-plugs",
+   "name": "MODULAR PLUGS",
+   "level": 3,
+   "parent": "/category/networking/network-installation-accessories"
+  },
+  {
+   "path": "/category/networking/network-installation-accessories/network-adapters",
+   "name": "NETWORK ADAPTERS",
+   "level": 3,
+   "parent": "/category/networking/network-installation-accessories"
+  },
+  {
+   "path": "/category/networking/network-installation-accessories/networking-keystone-wall-plates",
+   "name": "NETWORKING KEYSTONE WALL PLATES",
+   "level": 3,
+   "parent": "/category/networking/network-installation-accessories"
+  },
+  {
+   "path": "/category/networking/network-installation-accessories/networking-keystones",
+   "name": "NETWORKING KEYSTONES",
+   "level": 3,
+   "parent": "/category/networking/network-installation-accessories"
+  },
+  {
+   "path": "/category/networking/network-installation-accessories/surface-mount-boxes",
+   "name": "SURFACE MOUNT BOXES",
+   "level": 3,
+   "parent": "/category/networking/network-installation-accessories"
+  },
+  {
+   "path": "/category/networking/network-racks-&-cabinets",
+   "name": "NETWORK RACKS & CABINETS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/network-racks-&-cabinets/components-&-accessories",
+   "name": "COMPONENTS & ACCESSORIES",
+   "level": 3,
+   "parent": "/category/networking/network-racks-&-cabinets"
+  },
+  {
+   "path": "/category/networking/network-racks-&-cabinets/network-racks",
+   "name": "NETWORK RACKS",
+   "level": 3,
+   "parent": "/category/networking/network-racks-&-cabinets"
+  },
+  {
+   "path": "/category/networking/network-racks-&-cabinets/rackmount-server-cabinets-&-brackets",
+   "name": "RACKMOUNT SERVER CABINETS & BRACKETS",
+   "level": 3,
+   "parent": "/category/networking/network-racks-&-cabinets"
+  },
+  {
+   "path": "/category/networking/network-racks-&-cabinets/racks-&-rack-trays",
+   "name": "RACKS & RACK TRAYS",
+   "level": 3,
+   "parent": "/category/networking/network-racks-&-cabinets"
+  },
+  {
+   "path": "/category/networking/network-racks-&-cabinets/rings-&-cable-management-panels",
+   "name": "RINGS & CABLE MANAGEMENT PANELS",
+   "level": 3,
+   "parent": "/category/networking/network-racks-&-cabinets"
+  },
+  {
+   "path": "/category/networking/network-racks-&-cabinets/wallmount-server-cabinets-&-brackets",
+   "name": "WALLMOUNT SERVER CABINETS & BRACKETS",
+   "level": 3,
+   "parent": "/category/networking/network-racks-&-cabinets"
+  },
+  {
+   "path": "/category/networking/networking-bulk-cables",
+   "name": "NETWORKING BULK CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/networking-bulk-cables/cat5e-bulk-ethernet-cables",
+   "name": "CAT5E BULK ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-bulk-cables"
+  },
+  {
+   "path": "/category/networking/networking-bulk-cables/cat6-bulk-ethernet-cables",
+   "name": "CAT6 BULK ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-bulk-cables"
+  },
+  {
+   "path": "/category/networking/networking-bulk-cables/cat6a-bulk-ethernet-cables",
+   "name": "CAT6A BULK ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-bulk-cables"
+  },
+  {
+   "path": "/category/networking/networking-bulk-cables/cat8-bulk-ethernet-cables",
+   "name": "CAT8 BULK ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-bulk-cables"
+  },
+  {
+   "path": "/category/networking/networking-patch-cables",
+   "name": "NETWORKING PATCH CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/networking-patch-cables/cat5e-ethernet-cables",
+   "name": "CAT5E ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-patch-cables"
+  },
+  {
+   "path": "/category/networking/networking-patch-cables/cat6-ethernet-cables",
+   "name": "CAT6 ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-patch-cables"
+  },
+  {
+   "path": "/category/networking/networking-patch-cables/cat6a-ethernet-cables",
+   "name": "CAT6A ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-patch-cables"
+  },
+  {
+   "path": "/category/networking/networking-patch-cables/cat7-ethernet-cables",
+   "name": "CAT7 ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-patch-cables"
+  },
+  {
+   "path": "/category/networking/networking-patch-cables/cat8-ethernet-cables",
+   "name": "CAT8 ETHERNET CABLES",
+   "level": 3,
+   "parent": "/category/networking/networking-patch-cables"
+  },
+  {
+   "path": "/category/networking/patch-panels",
+   "name": "PATCH PANELS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/patch-panels/fiber-patch-panels",
+   "name": "FIBER PATCH PANELS",
+   "level": 3,
+   "parent": "/category/networking/patch-panels"
+  },
+  {
+   "path": "/category/networking/patch-panels/keystone-jack-panel",
+   "name": "KEYSTONE JACK PANEL",
+   "level": 3,
+   "parent": "/category/networking/patch-panels"
+  },
+  {
+   "path": "/category/networking/patch-panels/networking-patch-panels",
+   "name": "NETWORKING PATCH PANELS",
+   "level": 3,
+   "parent": "/category/networking/patch-panels"
+  },
+  {
+   "path": "/category/networking/tools-&-testers",
+   "name": "TOOLS & TESTERS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/tools-&-testers/cable-cutters",
+   "name": "CABLE CUTTERS",
+   "level": 3,
+   "parent": "/category/networking/tools-&-testers"
+  },
+  {
+   "path": "/category/networking/tools-&-testers/cable-jacket-strippers",
+   "name": "CABLE JACKET STRIPPERS",
+   "level": 3,
+   "parent": "/category/networking/tools-&-testers"
+  },
+  {
+   "path": "/category/networking/tools-&-testers/compression-tools",
+   "name": "COMPRESSION TOOLS",
+   "level": 3,
+   "parent": "/category/networking/tools-&-testers"
+  },
+  {
+   "path": "/category/networking/tools-&-testers/tests-&-tone-generators",
+   "name": "TESTS & TONE GENERATORS",
+   "level": 3,
+   "parent": "/category/networking/tools-&-testers"
+  },
+  {
+   "path": "/category/networking/tools-&-testers/toolkits",
+   "name": "TOOLKITS",
+   "level": 3,
+   "parent": "/category/networking/tools-&-testers"
+  },
+  {
+   "path": "/category/networking/wired-networking",
+   "name": "WIRED NETWORKING",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/wired-networking/network-switches",
+   "name": "NETWORK SWITCHES",
+   "level": 3,
+   "parent": "/category/networking/wired-networking"
+  },
+  {
+   "path": "/category/networking/wired-networking/power-over-ethernet-(poe)",
+   "name": "POWER OVER ETHERNET (POE)",
+   "level": 3,
+   "parent": "/category/networking/wired-networking"
+  },
+  {
+   "path": "/category/networking/wired-networking/snmp-switches",
+   "name": "SNMP SWITCHES",
+   "level": 3,
+   "parent": "/category/networking/wired-networking"
+  },
+  {
+   "path": "/category/networking/wired-networking/usb-to-ethernet-converters",
+   "name": "USB TO ETHERNET CONVERTERS",
+   "level": 3,
+   "parent": "/category/networking/wired-networking"
+  },
+  {
+   "path": "/category/networking/wireless-networking",
+   "name": "WIRELESS NETWORKING",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/networking/wireless-networking/networking-dishes-&-antennas",
+   "name": "NETWORKING DISHES & ANTENNAS",
+   "level": 3,
+   "parent": "/category/networking/wireless-networking"
+  },
+  {
+   "path": "/category/networking/wireless-networking/wireless-adapters",
+   "name": "WIRELESS ADAPTERS",
+   "level": 3,
+   "parent": "/category/networking/wireless-networking"
+  },
+  {
+   "path": "/category/networking/wireless-networking/wireless-routers-&-access-points",
+   "name": "WIRELESS ROUTERS & ACCESS POINTS",
+   "level": 3,
+   "parent": "/category/networking/wireless-networking"
+  },
+  {
+   "path": "/category/outdoor/camping",
+   "name": "CAMPING",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/outdoor/camping/kitchen",
+   "name": "KITCHEN",
+   "level": 3,
+   "parent": "/category/outdoor/camping"
+  },
+  {
+   "path": "/category/outdoor/camping/tents",
+   "name": "TENTS",
+   "level": 3,
+   "parent": "/category/outdoor/camping"
+  },
+  {
+   "path": "/category/outdoor/coolers-&-water-bottles",
+   "name": "COOLERS & WATER BOTTLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/outdoor/coolers-&-water-bottles/coolers-&-camp-kitchen",
+   "name": "COOLERS & CAMP KITCHEN",
+   "level": 3,
+   "parent": "/category/outdoor/coolers-&-water-bottles"
+  },
+  {
+   "path": "/category/outdoor/furniture",
+   "name": "FURNITURE",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/outdoor/furniture/chairs",
+   "name": "CHAIRS",
+   "level": 3,
+   "parent": "/category/outdoor/furniture"
+  },
+  {
+   "path": "/category/outdoor/furniture/tables",
+   "name": "TABLES",
+   "level": 3,
+   "parent": "/category/outdoor/furniture"
+  },
+  {
+   "path": "/category/outdoor/games-&-leisure",
+   "name": "GAMES & LEISURE",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/outdoor/games-&-leisure/outdoor-games",
+   "name": "OUTDOOR GAMES",
+   "level": 3,
+   "parent": "/category/outdoor/games-&-leisure"
+  },
+  {
+   "path": "/category/outdoor/games-&-leisure/utility-wagons",
+   "name": "UTILITY WAGONS",
+   "level": 3,
+   "parent": "/category/outdoor/games-&-leisure"
+  },
+  {
+   "path": "/category/outdoor/trekking-poles",
+   "name": "TREKKING POLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/outdoor/trekking-poles/bike-storage-&-repair",
+   "name": "BIKE STORAGE & REPAIR",
+   "level": 3,
+   "parent": "/category/outdoor/trekking-poles"
+  },
+  {
+   "path": "/category/outdoor/weatherproof-cases-&-containers",
+   "name": "WEATHERPROOF CASES & CONTAINERS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/outdoor/weatherproof-cases-&-containers/weatherproof-cases",
+   "name": "WEATHERPROOF CASES",
+   "level": 3,
+   "parent": "/category/outdoor/weatherproof-cases-&-containers"
+  },
+  {
+   "path": "/category/pages/1",
+   "name": "Cables",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/13",
+   "name": "Pro Audio & Musical Instruments",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/14",
+   "name": "Outdoor",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/2",
+   "name": "Adapters, Switches, & Splitters",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/3",
+   "name": "Networking",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/4",
+   "name": "Audio Video",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/5",
+   "name": "Mounts & Stands",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/6",
+   "name": "3D Printing & Hobbies",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/7",
+   "name": "Computers & Gaming",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/8",
+   "name": "Smart Home & Security",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/9",
+   "name": "Mobile",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pages/home-and-office",
+   "name": "Home & Office",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/dj-systems",
+   "name": "DJ SYSTEMS",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/dj-systems/dj-accessories",
+   "name": "DJ ACCESSORIES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/dj-systems"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/dj-systems/mixers-&-amplifiers",
+   "name": "MIXERS & AMPLIFIERS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/dj-systems"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/drums-&-percussion",
+   "name": "DRUMS & PERCUSSION",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/drums-&-percussion/drum-&-percussion-accessories",
+   "name": "DRUM & PERCUSSION ACCESSORIES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/drums-&-percussion"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories",
+   "name": "GUITARS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories/acoustic-guitars",
+   "name": "ACOUSTIC GUITARS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories/bass-guitars",
+   "name": "BASS GUITARS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories/electric-guitars",
+   "name": "ELECTRIC GUITARS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-accessories",
+   "name": "GUITAR ACCESSORIES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers",
+   "name": "GUITAR AMPLIFIERS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-cables",
+   "name": "GUITAR CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals",
+   "name": "GUITAR PEDALS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-stands",
+   "name": "GUITAR STANDS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/guitars-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories",
+   "name": "INSTRUMENT STANDS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories/guitar-stands",
+   "name": "GUITAR STANDS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories/microphone-stands",
+   "name": "MICROPHONE STANDS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories/pa-speaker-stands",
+   "name": "PA SPEAKER STANDS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories/sheet-music-stands",
+   "name": "SHEET MUSIC STANDS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories/stand-accessories",
+   "name": "STAND ACCESSORIES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/live-sound",
+   "name": "LIVE SOUND",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/live-sound/live-stage-accessories",
+   "name": "LIVE STAGE ACCESSORIES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/live-sound"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/live-sound/mixers-&-amplifiers",
+   "name": "MIXERS & AMPLIFIERS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/live-sound"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/live-sound/pa-speakers",
+   "name": "PA SPEAKERS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/live-sound"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/live-sound/pa-systems",
+   "name": "PA SYSTEMS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/live-sound"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/live-sound/pro-audio-mixers",
+   "name": "PRO AUDIO MIXERS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/live-sound"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/microphones",
+   "name": "MICROPHONES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/microphones/condenser-microphones",
+   "name": "CONDENSER MICROPHONES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/microphones"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/microphones/dynamic-microphones",
+   "name": "DYNAMIC MICROPHONES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/microphones"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/microphones/usb-microphones",
+   "name": "USB MICROPHONES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/microphones"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/microphones/wireless-microphones",
+   "name": "WIRELESS MICROPHONES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/microphones"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/podcasting/microphone-stands",
+   "name": "MICROPHONE STANDS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/podcasting/stand-accessories",
+   "name": "STAND ACCESSORIES",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/podcasting/studio-acoustic-treatment-&-foam",
+   "name": "STUDIO ACOUSTIC TREATMENT & FOAM",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/podcasting/studio-headphones-&-amplifiers",
+   "name": "STUDIO HEADPHONES & AMPLIFIERS",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/podcasting/usb-microphones",
+   "name": "USB MICROPHONES",
+   "level": 3,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables",
+   "name": "PRO AUDIO CABLES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/dmx-cables",
+   "name": "DMX CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/guitar-cables",
+   "name": "GUITAR CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/interconnect-cables",
+   "name": "INTERCONNECT CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/microphone-cables-(xlr-cables)",
+   "name": "MICROPHONE CABLES (XLR CABLES)",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/midi-cables",
+   "name": "MIDI CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/mobile-&-combo-adapter-cables",
+   "name": "MOBILE & COMBO ADAPTER CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/pro-power-cables",
+   "name": "PRO POWER CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/snake-cables",
+   "name": "SNAKE CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/pro-audio-cables/speaker-cables",
+   "name": "SPEAKER CABLES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/pro-audio-cables"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/stage-lighting",
+   "name": "STAGE LIGHTING",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/stage-lighting/dmx-control",
+   "name": "DMX CONTROL",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/stage-lighting"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/stage-lighting/led-moving-heads",
+   "name": "LED MOVING HEADS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/stage-lighting"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/stage-lighting/led-wash-lights",
+   "name": "LED WASH LIGHTS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/stage-lighting"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/stage-lighting/lighting-stands-&-trusses",
+   "name": "LIGHTING STANDS & TRUSSES",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/stage-lighting"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/stage-lighting/spotlights-&-ellipsoidals",
+   "name": "SPOTLIGHTS & ELLIPSOIDALS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/stage-lighting"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories",
+   "name": "STUDIO SOUND & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-acoustic-treatment-&-foam",
+   "name": "STUDIO ACOUSTIC TREATMENT & FOAM",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-headphones-&-amplifiers",
+   "name": "STUDIO HEADPHONES & AMPLIFIERS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-signal-processors",
+   "name": "STUDIO SIGNAL PROCESSORS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories"
+  },
+  {
+   "path": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories/studio-stands",
+   "name": "STUDIO STANDS",
+   "level": 3,
+   "parent": "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories"
+  },
+  {
+   "path": "/category/search/index",
+   "name": "DOCK",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/smart-home-&-security/smart-home",
+   "name": "SMART HOME",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/smart-home-&-security/smart-home/smart-lighting-&-switches",
+   "name": "SMART LIGHTING & SWITCHES",
+   "level": 3,
+   "parent": "/category/smart-home-&-security/smart-home"
+  },
+  {
+   "path": "/category/smart-home-&-security/smart-home/smart-plugs-&-connectivity",
+   "name": "SMART PLUGS & CONNECTIVITY",
+   "level": 3,
+   "parent": "/category/smart-home-&-security/smart-home"
+  },
+  {
+   "path": "/category/smart-home-&-security/smart-home/smart-sensors-&-thermostats",
+   "name": "SMART SENSORS & THERMOSTATS",
+   "level": 3,
+   "parent": "/category/smart-home-&-security/smart-home"
+  },
+  {
+   "path": "/category/smart-home-&-security/surveillance-cameras-&-accessories",
+   "name": "SURVEILLANCE CAMERAS & ACCESSORIES",
+   "level": 2,
+   "parent": null
+  },
+  {
+   "path": "/category/smart-home-&-security/surveillance-cameras-&-accessories/camera-mounts-&-housings",
+   "name": "CAMERA MOUNTS & HOUSINGS",
+   "level": 3,
+   "parent": "/category/smart-home-&-security/surveillance-cameras-&-accessories"
+  },
+  {
+   "path": "/category/smart-home-&-security/surveillance-cameras-&-accessories/ip-cameras",
+   "name": "IP CAMERAS",
+   "level": 3,
+   "parent": "/category/smart-home-&-security/surveillance-cameras-&-accessories"
+  },
+  {
+   "path": "/category/smart-home-&-security/surveillance-cameras-&-accessories/security-cameras",
+   "name": "SECURITY CAMERAS",
+   "level": 3,
+   "parent": "/category/smart-home-&-security/surveillance-cameras-&-accessories"
+  }
+ ],
+ "product_categories": []
+}

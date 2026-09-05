@@ -1,0 +1,15 @@
+{
+  "journeys": [
+    {
+      "actor": "visitor",
+      "id": "home-mainline",
+      "kind": "success",
+      "priority": "p0",
+      "status": "draft",
+      "steps": [
+        "Open the public home route and inspect its local response."
+      ]
+    }
+  ],
+  "schema_version": "offline-clone.journeys.v1"
+}
