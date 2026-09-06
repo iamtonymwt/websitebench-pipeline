@@ -1,0 +1,19 @@
+{
+  "schema_version": "monoprice.harbor-cases.v1",
+  "status": "written",
+  "written": {
+    "tasks": 185,
+    "cases": 200,
+    "cicd_checks": 15
+  },
+  "kept": {
+    "T1": 20,
+    "L1": 35,
+    "L2": 50,
+    "L3": 80
+  },
+  "dropped": 0,
+  "dropped_examples": [],
+  "tasks_declaring_non_get": 118,
+  "page_recycles": null
+}

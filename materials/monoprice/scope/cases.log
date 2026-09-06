@@ -1,0 +1,56 @@
+resuming: 155 cases already proven
+  L3   1/80  l3.purchase.approved.4777
+  L3   3/80  l3.purchase.approved.11392
+  L3   5/80  l3.purchase.approved.42992
+  L3   7/80  l3.purchase.approved.611940
+  L3   9/80  l3.purchase.approved.44571
+  L3  11/80  l3.purchase.approved.37887
+  L3  13/80  l3.purchase.approved.8678
+  L3  15/80  l3.purchase.approved.38159
+  L3  17/80  l3.purchase.approved.47192
+  L3  19/80  l3.purchase.approved.34885
+  L3  21/80  l3.purchase.approved.49262
+  L3  23/80  l3.purchase.approved.13071
+  L3  25/80  l3.purchase.approved.34543
+  L3  27/80  l3.purchase.approved.6816
+  L3  29/80  l3.purchase.approved.33558
+  L3  31/80  l3.purchase.approved.48215
+  L3  33/80  l3.purchase.approved.27312
+  L3  35/80  l3.purchase.approved.41074
+  L3  37/80  l3.purchase.approved.48222
+  L3  39/80  l3.purchase.approved.34200
+  L3  41/80  l3.purchase.approved.47877
+  L3  43/80  l3.purchase.approved.600070
+  L3  45/80  l3.purchase.approved.18800
+  L3  47/80  l3.purchase.approved.16325
+  L3  49/80  l3.purchase.approved.2132
+  L3  51/80  l3.purchase.approved.3898
+  L3  53/80  l3.purchase.approved.47793
+  L3  55/80  l3.purchase.approved.1302
+  L3  57/80  l3.purchase.approved.39263
+  L3  59/80  l3.purchase.approved.40072
+  L3  61/80  l3.purchase.approved.16335
+  L3  63/80  l3.purchase.approved.46055
+  L3  65/80  l3.purchase.approved.48862
+  L3  67/80  l3.purchase.approved.16320
+  L3  69/80  l3.purchase.approved.45949
+  L3  71/80  l3.purchase.approved.4763
+  L3  73/80  l3.purchase.approved.39358
+  L3  75/80  l3.purchase.approved.43544
+  L3  77/80  l3.purchase.approved.18820
+  L3  79/80  l3.purchase.approved.31204
+page recycled 0 times
+{
+  "schema_version": "monoprice.harbor-cases.v1",
+  "status": "proven",
+  "kept": {
+    "T1": 20,
+    "L1": 35,
+    "L2": 50,
+    "L3": 80
+  },
+  "dropped": 0,
+  "dropped_examples": [],
+  "tasks_declaring_non_get": 118,
+  "page_recycles": null
+}

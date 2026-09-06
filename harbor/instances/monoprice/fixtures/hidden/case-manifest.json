@@ -1,8 +1,1574 @@
 {
-  "cases": [],
-  "dsl_version": "websitebench.harbor.neutral-dsl.v1",
-  "manifest_id": "monoprice-cases",
-  "schema_version": "websitebench.harbor.case-manifest.v1",
-  "site_id": "monoprice",
-  "status": "draft"
+ "schema_version": "websitebench.harbor.case-manifest.v1",
+ "manifest_id": "monoprice-cases",
+ "site_id": "monoprice",
+ "status": "complete",
+ "dsl_version": "websitebench.harbor.neutral-dsl.v1",
+ "cases": [
+  {
+   "id": "t1.home",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.home"
+  },
+  {
+   "id": "t1.cart",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.cart"
+  },
+  {
+   "id": "t1.checkout",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.checkout"
+  },
+  {
+   "id": "t1.category.0",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.category.0"
+  },
+  {
+   "id": "t1.category.1",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.category.1"
+  },
+  {
+   "id": "t1.category.2",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.category.2"
+  },
+  {
+   "id": "t1.category.3",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.category.3"
+  },
+  {
+   "id": "t1.category.4",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.category.4"
+  },
+  {
+   "id": "t1.category.5",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.category.5"
+  },
+  {
+   "id": "t1.category.6",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.category.6"
+  },
+  {
+   "id": "t1.category.7",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.category.7"
+  },
+  {
+   "id": "t1.collection.0",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.collection.0"
+  },
+  {
+   "id": "t1.collection.1",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.collection.1"
+  },
+  {
+   "id": "t1.collection.2",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.collection.2"
+  },
+  {
+   "id": "t1.collection.3",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.collection.3"
+  },
+  {
+   "id": "t1.collection.4",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.collection.4"
+  },
+  {
+   "id": "t1.product.40152",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.product.40152"
+  },
+  {
+   "id": "t1.product.12575",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.product.12575"
+  },
+  {
+   "id": "t1.product.4043",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.product.4043"
+  },
+  {
+   "id": "t1.product.44700",
+   "tier": "T1",
+   "kind": "http",
+   "timeout_sec": 60,
+   "task_id": "t1.product.44700"
+  },
+  {
+   "id": "l1.product.33269",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.33269",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.5116",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.5116",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.46019",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.46019",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.45403",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.45403",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.43137",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.43137",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.9828",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.9828",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.2375",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.2375",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.13413",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.13413",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.602530",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.602530",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.8771",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.8771",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.5587",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.5587",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.2865",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.2865",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.39518",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.39518",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.9809",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.9809",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.2313",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.2313",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.44333",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.44333",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.448",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.448",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.50672",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.50672",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.600053",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.600053",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.49276",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.49276",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.9767",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.9767",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.40880",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.40880",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.44466",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.44466",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.40060",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.40060",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.7043",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.7043",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.46058",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.46058",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.9439",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.9439",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.42961",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.42961",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.14264",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.14264",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.48577",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.48577",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.43328",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.43328",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.611815",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.611815",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.46087",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.46087",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.39836",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.39836",
+   "level": "L1"
+  },
+  {
+   "id": "l1.product.2396",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 90,
+   "task_id": "l1.product.2396",
+   "level": "L1"
+  },
+  {
+   "id": "l2.search.hdmi-cable",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.hdmi-cable",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.usb-c-cable",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.usb-c-cable",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.ethernet-cable",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.ethernet-cable",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.speaker-wire",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.speaker-wire",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.power-strip",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.power-strip",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.tv-wall-mount",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.tv-wall-mount",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.adapter",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.adapter",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.cat6",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.cat6",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.displayport",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.displayport",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.keyboard",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.keyboard",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.headphones",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.headphones",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.microphone",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.microphone",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.monitor",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.monitor",
+   "level": "L2"
+  },
+  {
+   "id": "l2.search.soldering",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.search.soldering",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.2684",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.2684",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.44961",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.44961",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.46098",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.46098",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.43396",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.43396",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.13297",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.13297",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.5457",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.5457",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.24339",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.24339",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.40782",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.40782",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.2159",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.2159",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.39529",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.39529",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.2308",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.2308",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.2682",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.2682",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.38272",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.38272",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.18590",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.18590",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.5027",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.5027",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.44897",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.44897",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.2794",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.2794",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.7557",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.7557",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.35914",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.35914",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.8609",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.8609",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.40879",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.40879",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.39357",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.39357",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.4773",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.4773",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.12580",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.12580",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.24363",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.24363",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.39170",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.39170",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.8624",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.8624",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.36081",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.36081",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.3378",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.3378",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.2315",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.2315",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.9837",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.9837",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.21681",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.21681",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.49351",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.49351",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.39165",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.39165",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.45984",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.45984",
+   "level": "L2"
+  },
+  {
+   "id": "l2.addtocart.13717",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 120,
+   "task_id": "l2.addtocart.13717",
+   "level": "L2"
+  },
+  {
+   "id": "l3.purchase.approved.4777",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.4777",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.4777",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.4777",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.11392",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.11392",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.11392",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.11392",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.42992",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.42992",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.42992",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.42992",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.611940",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.611940",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.611940",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.611940",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.44571",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.44571",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.44571",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.44571",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.37887",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.37887",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.37887",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.37887",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.8678",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.8678",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.8678",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.8678",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.38159",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.38159",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.38159",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.38159",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.47192",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.47192",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.47192",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.47192",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.34885",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.34885",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.34885",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.34885",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.49262",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.49262",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.49262",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.49262",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.13071",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.13071",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.13071",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.13071",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.34543",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.34543",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.34543",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.34543",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.6816",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.6816",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.6816",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.6816",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.33558",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.33558",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.33558",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.33558",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.48215",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.48215",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.48215",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.48215",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.27312",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.27312",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.27312",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.27312",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.41074",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.41074",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.41074",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.41074",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.48222",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.48222",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.48222",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.48222",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.34200",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.34200",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.34200",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.34200",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.47877",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.47877",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.47877",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.47877",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.600070",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.600070",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.600070",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.600070",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.18800",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.18800",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.18800",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.18800",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.16325",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.16325",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.16325",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.16325",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.2132",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.2132",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.2132",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.2132",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.3898",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.3898",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.3898",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.3898",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.47793",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.47793",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.47793",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.47793",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.1302",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.1302",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.1302",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.1302",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.39263",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.39263",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.39263",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.39263",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.40072",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.40072",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.40072",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.40072",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.16335",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.16335",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.16335",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.16335",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.46055",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.46055",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.46055",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.46055",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.48862",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.48862",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.48862",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.48862",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.16320",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.16320",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.16320",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.16320",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.45949",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.45949",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.45949",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.45949",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.4763",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.4763",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.4763",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.4763",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.39358",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.39358",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.39358",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.39358",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.43544",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.43544",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.43544",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.43544",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.18820",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.18820",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.18820",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.18820",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.31204",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.31204",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.31204",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.31204",
+   "level": "L3"
+  },
+  {
+   "id": "t3.abi-entrypoints",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 120,
+   "cicd_check_id": "abi-entrypoints"
+  },
+  {
+   "id": "t3.health-contract",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 120,
+   "cicd_check_id": "health-contract"
+  },
+  {
+   "id": "t3.no-card-columns",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "no-card-columns"
+  },
+  {
+   "id": "t3.no-secrets",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "no-secrets"
+  },
+  {
+   "id": "t3.offline-no-source-hosts",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 300,
+   "cicd_check_id": "offline-no-source-hosts"
+  },
+  {
+   "id": "t3.robots-respected",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "robots-respected"
+  },
+  {
+   "id": "t3.catalogue-has-prices",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "catalogue-has-prices"
+  },
+  {
+   "id": "t3.deterministic-seed",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "deterministic-seed"
+  },
+  {
+   "id": "t3.timezone-honoured",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "timezone-honoured"
+  },
+  {
+   "id": "t3.host-port-from-env",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "host-port-from-env"
+  },
+  {
+   "id": "t3.data-dir-from-env",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "data-dir-from-env"
+  },
+  {
+   "id": "t3.no-network-clients-at-runtime",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 240,
+   "cicd_check_id": "no-network-clients-at-runtime"
+  },
+  {
+   "id": "t3.absent-product-is-200",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "absent-product-is-200"
+  },
+  {
+   "id": "t3.search-answered-locally",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "search-answered-locally"
+  },
+  {
+   "id": "t3.sigterm-handled",
+   "tier": "T3",
+   "kind": "cicd",
+   "timeout_sec": 180,
+   "cicd_check_id": "sigterm-handled"
+  }
+ ]
 }

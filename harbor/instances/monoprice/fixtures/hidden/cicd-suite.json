@@ -1,6 +1,97 @@
 {
-  "checks": [],
-  "schema_version": "websitebench.harbor.cicd-suite.v1",
-  "site_id": "monoprice",
-  "suite_id": "monoprice-cicd"
+ "schema_version": "websitebench.harbor.cicd-suite.v1",
+ "suite_id": "monoprice-cicd",
+ "site_id": "monoprice",
+ "checks": [
+  {
+   "id": "abi-entrypoints",
+   "kind": "static",
+   "runner": "runners/abi-entrypoints.py",
+   "timeout_sec": 120
+  },
+  {
+   "id": "health-contract",
+   "kind": "static",
+   "runner": "runners/health-contract.py",
+   "timeout_sec": 120
+  },
+  {
+   "id": "no-card-columns",
+   "kind": "security",
+   "runner": "runners/no-card-columns.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "no-secrets",
+   "kind": "security",
+   "runner": "runners/no-secrets.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "offline-no-source-hosts",
+   "kind": "static",
+   "runner": "runners/offline-no-source-hosts.py",
+   "timeout_sec": 300
+  },
+  {
+   "id": "robots-respected",
+   "kind": "security",
+   "runner": "runners/robots-respected.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "catalogue-has-prices",
+   "kind": "static",
+   "runner": "runners/catalogue-has-prices.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "deterministic-seed",
+   "kind": "migration",
+   "runner": "runners/deterministic-seed.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "timezone-honoured",
+   "kind": "static",
+   "runner": "runners/timezone-honoured.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "host-port-from-env",
+   "kind": "integration",
+   "runner": "runners/host-port-from-env.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "data-dir-from-env",
+   "kind": "migration",
+   "runner": "runners/data-dir-from-env.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "no-network-clients-at-runtime",
+   "kind": "security",
+   "runner": "runners/no-network-clients-at-runtime.py",
+   "timeout_sec": 240
+  },
+  {
+   "id": "absent-product-is-200",
+   "kind": "static",
+   "runner": "runners/absent-product-is-200.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "search-answered-locally",
+   "kind": "api",
+   "runner": "runners/search-answered-locally.py",
+   "timeout_sec": 180
+  },
+  {
+   "id": "sigterm-handled",
+   "kind": "recovery",
+   "runner": "runners/sigterm-handled.py",
+   "timeout_sec": 180
+  }
+ ]
 }
