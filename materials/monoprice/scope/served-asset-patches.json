@@ -2,10 +2,44 @@
   "schema_version": "monoprice.served-asset-patches.v1",
   "assets_dir": "source-assets",
   "dry_run": false,
-  "references_rewritten": {},
-  "references_rewritten_total": 0,
-  "files_changed": 0,
-  "files": [],
+  "references_rewritten": {
+    ".css": 5,
+    ".js": 2
+  },
+  "references_rewritten_total": 7,
+  "files_changed": 6,
+  "files": [
+    {
+      "file": "cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.efee02507cc3a6ac.js",
+      "rewritten": 2,
+      "unresolved": 0
+    },
+    {
+      "file": "cdn.prod.website-files.com/680733553d93d74ec4bca34c/css/monoprice-pseo-products.680733d261178eb491a877fd.3390b6798.opt.min.css",
+      "rewritten": 1,
+      "unresolved": 0
+    },
+    {
+      "file": "cdn.prod.website-files.com/680733553d93d74ec4bca34c/css/monoprice-pseo-products.680733e22b58c45ee8644ff7.a2c596959.opt.min.css",
+      "rewritten": 1,
+      "unresolved": 0
+    },
+    {
+      "file": "cdn.prod.website-files.com/680733553d93d74ec4bca34c/css/monoprice-pseo-products.681c2ef256da3463943f7dd0.085a74549.opt.min.css",
+      "rewritten": 1,
+      "unresolved": 0
+    },
+    {
+      "file": "cdn.prod.website-files.com/680733553d93d74ec4bca34c/css/monoprice-pseo-products.681c2f7d7a2a8f9b347eccea.84b9d80fd.opt.min.css",
+      "rewritten": 1,
+      "unresolved": 0
+    },
+    {
+      "file": "cdn.prod.website-files.com/680733553d93d74ec4bca34c/css/monoprice-pseo-products.681c3060cee3d1a6c2234583.7176c57bb.opt.min.css",
+      "rewritten": 1,
+      "unresolved": 0
+    }
+  ],
   "unresolved_targets": {
     "images.monoprice.com/backgrounds/img_subsecurebg.gif": 2,
     "/productmediumimages/": 1,

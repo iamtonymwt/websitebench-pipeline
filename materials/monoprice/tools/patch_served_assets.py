@@ -33,14 +33,26 @@ import sys
 import urllib.parse
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from fetch_assets import asset_target  # noqa: E402
+from fetch_assets import WEBFLOW_HOSTS, asset_target  # noqa: E402
 
 LOCAL_PREFIX = "/static/assets"
 # Both schemes and protocol-relative. The logo was requested over plain http
 # while everything else used https; a pattern that only matched https would have
 # left the one reference that appears on 47 routes.
+# Every host whose bytes we hold, not just monoprice's.
+#
+# This pattern named only images/www.monoprice.com, while the local host set had
+# grown to include Webflow's. So a Webflow stylesheet and a Webflow JS chunk kept
+# their absolute references to Webflow's CDN, the browser fetched two badge SVGs
+# from the internet on all 48 shop-collection routes, and the patch report said
+# "0 references rewritten" -- which reads like "nothing left to do" and meant
+# "this pattern cannot see them".
+_LOCAL_HOSTS = sorted({"images.monoprice.com", "www.monoprice.com",
+                       "monoprice.com"} | set(WEBFLOW_HOSTS))
+_LOCAL_HOST_ALTERNATION = "|".join(re.escape(h) for h in _LOCAL_HOSTS)
 ABSOLUTE_REF = re.compile(
-    r"""(?P<url>(?:https?:)?//(?:images|www)\.monoprice\.com/[^\s"'()\\]+)""", re.I)
+    rf"""(?P<url>(?:https?:)?//(?:{_LOCAL_HOST_ALTERNATION})/[^\s"'()\\]+)""",
+    re.I)
 
 TEXT_SUFFIXES = {".css", ".js", ".json", ".svg"}
 
@@ -64,7 +76,12 @@ def main() -> int:
             text = path.read_text(encoding="utf-8")
         except (UnicodeDecodeError, OSError):
             continue
-        if "monoprice.com/" not in text:
+        # The cheap skip has to know about every host the pattern knows about.
+        # It said `"monoprice.com/" not in text`, which skipped every Webflow
+        # file before the pattern ran -- so widening the pattern changed nothing
+        # and the report still said "0 rewritten". A fast path that is narrower
+        # than the thing it is guarding silently disables it.
+        if not any(f"{host}/" in text for host in _LOCAL_HOSTS):
             continue
 
         changes = 0

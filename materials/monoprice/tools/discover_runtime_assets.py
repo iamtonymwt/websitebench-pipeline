@@ -50,9 +50,28 @@ SAMPLES = {
     "absent-product": "https://www.monoprice.com/product?p_id=99999999",
 }
 
-FIRST_PARTY = {"www.monoprice.com", "monoprice.com", "images.monoprice.com"}
+from fetch_assets import WEBFLOW_HOSTS  # noqa: E402
+
+# The Webflow hosts belong here for the same reason they belong in the asset
+# plan: /p/shop and /p/resources load everything from them. Leaving them out
+# made those two families report *zero* runtime assets -- which read like "these
+# pages need nothing" and actually meant "this tool cannot see their host". The
+# Webflow app then loaded its JS chunks at run time and the clone answered 404
+# for them on 48 routes.
+OBSERVED_HOSTS = ({"www.monoprice.com", "monoprice.com", "images.monoprice.com"}
+                  | WEBFLOW_HOSTS)
+# On monoprice.com an asset lives under one of these prefixes; everything else
+# on that host is an HTML route, captured elsewhere. The CDN hosts serve nothing
+# but assets, so any path on them qualifies -- and restricting them to the
+# first-party prefixes is what made this tool report zero for those families.
 ASSET_PREFIXES = ("/assets/", "/scripts/", "/src/", "/content/", "/cf-fonts/",
                   "/commissionjunction/")
+
+
+def is_asset_path(host: str, path: str) -> bool:
+    if host.lower() in WEBFLOW_HOSTS:
+        return True
+    return path.lower().startswith(ASSET_PREFIXES)
 
 
 def main() -> int:
@@ -83,9 +102,9 @@ def main() -> int:
             here: set[str] = set()
             for raw in captured:
                 split = urllib.parse.urlsplit(raw)
-                if split.netloc.lower() not in FIRST_PARTY:
+                if split.netloc.lower() not in OBSERVED_HOSTS:
                     continue
-                if not split.path.lower().startswith(ASSET_PREFIXES):
+                if not is_asset_path(split.netloc, split.path):
                     continue
                 clean = urllib.parse.urlunsplit(
                     (split.scheme, split.netloc, split.path, split.query, ""))

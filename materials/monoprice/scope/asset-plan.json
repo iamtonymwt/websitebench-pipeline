@@ -3,13 +3,13 @@
  "capture_dir": "source-current",
  "pages_read": 7957,
  "unparsable_references": 0,
- "assets": 34151,
+ "assets": 34163,
  "by_host": {
-  "images.monoprice.com": 24410,
+  "images.monoprice.com": 28813,
   "www.monoprice.com": 179,
-  "cdn.prod.website-files.com": 5143,
+  "cdn.prod.website-files.com": 5153,
   "cdnjs.cloudflare.com": 15,
-  "d3e54v103j8qbb.cloudfront.net": 1
+  "d3e54v103j8qbb.cloudfront.net": 3
  },
  "transport": {
   "images.monoprice.com": "plain-http",
@@ -209405,10 +209405,94 @@
    "local": "images/smrating_10.gif",
    "referrers": 1,
    "discovered_by": "runtime-audit-404"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.25cddb252aee8bac.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.25cddb252aee8bac.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.539416238115c56c.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.539416238115c56c.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.53b0e10def64caa8.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.53b0e10def64caa8.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.822d545db3bccac7.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.822d545db3bccac7.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.a83e44aedd478bad.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.a83e44aedd478bad.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.c7bca52aa6a5fe66.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.c7bca52aa6a5fe66.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.cb16a726114841bc.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.cb16a726114841bc.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.cb6f0dcaff0d57ef.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.cb6f0dcaff0d57ef.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.df5a6854aba4f130.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.df5a6854aba4f130.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.efee02507cc3a6ac.js",
+   "host": "cdn.prod.website-files.com",
+   "local": "680733553d93d74ec4bca34c/js/monoprice-pseo-products.achunk.efee02507cc3a6ac.js",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg",
+   "host": "d3e54v103j8qbb.cloudfront.net",
+   "local": "img/webflow-badge-icon-d2.89e12c322e.svg",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
+  },
+  {
+   "url": "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg",
+   "host": "d3e54v103j8qbb.cloudfront.net",
+   "local": "img/webflow-badge-text-d2.c82cec3b78.svg",
+   "referrers": 0,
+   "discovered_by": "browser-runtime"
   }
  ],
  "runtime_discovery": {
   "added": 12,
-  "already_planned": 105
+  "already_planned": 134
  }
 }

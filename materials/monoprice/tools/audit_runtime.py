@@ -38,6 +38,10 @@ from browser_session import attach  # noqa: E402
 # Anything not on the clone's own origin is off this machine.
 LOOPBACK = {"127.0.0.1", "localhost", "[::1]"}
 
+# Paths the clone answers 404 for by design; see clone/app.py DECLARED_ABSENT.
+DECLARED_ABSENT_PREFIXES = ("/api/live-chat", "/v1/inventory", "/v1/wishlist",
+                            "/securemetrics", "/commissionjunction", "/cdn-cgi")
+
 
 def route_sample(catalogue_path: pathlib.Path, route_map_path: pathlib.Path,
                  sample: int, seed: int) -> list[tuple[str, str]]:
@@ -93,6 +97,12 @@ PROBE = r"""() => {
     images: document.images.length,
     imagesBroken: [...document.images].filter(
         i => i.complete && i.naturalWidth === 0).length,
+    // What a person could actually see. The raw count includes hidden template
+    // elements the source leaves broken too -- measured side by side, the two
+    // agree exactly -- so reporting the raw number as a defect count is
+    // reporting the source's own markup as this project's problem.
+    imagesBrokenVisible: [...document.images].filter(
+        i => i.complete && i.naturalWidth === 0 && i.offsetParent !== null).length,
     stylesheets: document.styleSheets.length,
     styleRules: (() => {
       let n = 0;
@@ -235,8 +245,52 @@ def main() -> int:
         for message in set(messages):
             console_tally[message[:120]] += 1
 
+    # Separate "the source does not serve this either" from "this is our gap".
+    # Both are 404s here and only the second is a defect; reporting one number
+    # for both is how a source fact gets counted against the clone.
+    source_gaps: set[str] = set()
+    gaps_path = site_dir / "scope" / "asset-gaps.json"
+    if gaps_path.exists():
+        gaps = json.loads(gaps_path.read_text(encoding="utf-8"))
+        for row in gaps.get("source_does_not_serve_it", []):
+            split = urllib.parse.urlsplit(row["url"])
+            source_gaps.add(urllib.parse.unquote(split.path).lower())
+
+    def reproduces_source_absence(path: str) -> bool:
+        decoded = urllib.parse.unquote(path).lower()
+        for prefix in ("/static/assets/www.monoprice.com",
+                       "/static/assets/images.monoprice.com",
+                       "/static/assets/cdn.prod.website-files.com"):
+            if decoded.startswith(prefix):
+                decoded = decoded[len(prefix):]
+                break
+        return decoded in source_gaps
+
+    # A third category, and it is not a nicety: two of the four remaining
+    # failures are things the clone answers 404 for *on purpose* -- a declared
+    # absent service, and the audit's own probe for the not-found page. Counting
+    # a deliberate 404 as a gap means the number can never reach zero and stops
+    # meaning anything.
+    def is_deliberate(path: str) -> bool:
+        low = path.lower()
+        if low == "/definitely-not-a-real-route-websitebench":
+            return True
+        segments = [s for s in low.split("/") if s]
+        if (len(segments) == 3 and segments[0] == "p"
+                and segments[1] not in ("shop", "cat", "resources")
+                and len(segments[1]) > 20):
+            return True  # the PerimeterX sensor, declared absent by the clone
+        return any(low.startswith(p.lower()) for p in DECLARED_ABSENT_PREFIXES)
+
+    for entry in same_origin_failures.values():
+        entry["reproduces_source_absence"] = reproduces_source_absence(entry["path"])
+        entry["deliberate"] = is_deliberate(entry["path"])
+
+    ours = [e for e in same_origin_failures.values()
+            if not e["reproduces_source_absence"] and not e["deliberate"]]
+
     report = {
-        "schema_version": "monoprice.runtime-audit.v2",
+        "schema_version": "monoprice.runtime-audit.v3",
         "base_url": base,
         "routes_driven": len(routes),
         "routes_by_family": dict(collections.Counter(f for f, _ in routes)),
@@ -247,6 +301,13 @@ def main() -> int:
         },
         "same_origin_failures": {
             "distinct": len(same_origin_failures),
+            "reproducing_a_source_absence": sum(
+                1 for e in same_origin_failures.values()
+                if e["reproduces_source_absence"]),
+            "deliberate": sum(1 for e in same_origin_failures.values()
+                              if e["deliberate"] and not e["reproduces_source_absence"]),
+            "our_gap": len(ours),
+            "our_gap_entries": sorted(ours, key=lambda e: -len(e["routes"]))[:40],
             "routes_affected": len({r for e in same_origin_failures.values()
                                     for r in e["routes"]}),
             "entries": sorted(same_origin_failures.values(),
@@ -269,6 +330,8 @@ def main() -> int:
             "min_style_rules": min((r.get("styleRules", 0) for r in per_route
                                     if r.get("styleRules") is not None), default=0),
             "broken_images": sum(r.get("imagesBroken", 0) for r in per_route),
+            "broken_images_visible": sum(r.get("imagesBrokenVisible", 0)
+                                         for r in per_route),
         },
     }
     out = pathlib.Path(args.report)
@@ -279,7 +342,9 @@ def main() -> int:
                      indent=2)[:2200])
     print(f"\nremote requests: {len(remote)} distinct")
     print(f"same-origin failures: {len(same_origin_failures)} distinct across "
-          f"{report['same_origin_failures']['routes_affected']} routes")
+          f"{report['same_origin_failures']['routes_affected']} routes "
+          f"({len(ours)} are this project's gap, the rest reproduce a source "
+          f"absence)")
     return 0
 
 

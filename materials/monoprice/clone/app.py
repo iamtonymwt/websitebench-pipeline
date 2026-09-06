@@ -360,6 +360,7 @@ def serve_first_party_asset(full_path: str, request: Request) -> Response:
 @app.get("/productsmallimages/{full_path:path}")
 @app.get("/buttons/{full_path:path}")
 @app.get("/backgrounds/{full_path:path}")
+@app.get("/images/{full_path:path}")
 @app.get("/medialibrary/{full_path:path}")
 def serve_image_host_path(full_path: str, request: Request) -> Response:
     prefix = request.url.path.split("/")[1]

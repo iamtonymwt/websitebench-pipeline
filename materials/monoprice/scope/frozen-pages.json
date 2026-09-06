@@ -1,8 +1,8 @@
 {
   "schema_version": "monoprice.frozen-pages.v1",
   "pages_written": 5995,
-  "stored_bytes": 223926875,
-  "uncompressed_bytes": 1837818642,
+  "stored_bytes": 223928340,
+  "uncompressed_bytes": 1837824672,
   "error_pages": {
     "_error/absent-product": "https://www.monoprice.com/product/index?c_id=105&cp_id=10509&cs_id=1050902&format=2&p_id=3359&seq=1",
     "_error/not-found": "https://www.monoprice.com/home/news_detail.asp?news_id=177"
@@ -18,9 +18,9 @@
     "newsroom": 19,
     "not-found": 18,
     "product": 21,
-    "resource-article": 0,
+    "resource-article": 3,
     "search": 22,
-    "shop-collection": 0,
+    "shop-collection": 3,
     "static-page": 17
   },
   "by_kind": {
@@ -47,7 +47,7 @@
     "offsite_reference_removed": 55702,
     "route_localised": 6403887,
     "route_product_not_served": 7144,
-    "runtime_stylesheets_injected": 4785,
+    "runtime_stylesheets_injected": 4815,
     "same_host_absolute_made_relative": 30,
     "script_removed": 53706,
     "third_party_reference_removed": 19528,
