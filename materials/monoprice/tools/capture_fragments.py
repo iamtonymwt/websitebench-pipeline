@@ -77,8 +77,27 @@ PRODUCT_ENDPOINTS = [
 #   GetCustomersAlsoShoppedFor   3 distinct bodies across 3 products
 #   getrecommendationsforyou     1 distinct body  (14,900 bytes, 12 tiles)
 #   getrecentlyviewed            empty -- it reflects a session's own history
-PRODUCT_PER_ITEM = ["/product/GetCustomersAlsoShoppedFor"]
-PRODUCT_ONCE = ["/product/getrecommendationsforyou", "/product/getrecentlyviewed"]
+PRODUCT_PER_ITEM = ["/product/GetCustomersAlsoShoppedFor", "/Product/GetTab3"]
+PRODUCT_ONCE = ["/product/getrecommendationsforyou", "/product/getrecentlyviewed",
+                "/Product/GetTab1", "/Product/GetTab5"]
+
+# The product page's tab panels are content fills too, and they were missed by
+# the first inventory because `mp_productPage_more.js` builds their URL under the
+# key `tabUrl:` rather than `url:` -- so a grep for `url:` found fifteen
+# endpoints and not these. A search narrower than the thing it is searching for
+# is the recurring bug of this whole run.
+#
+#   GetTab1   351 bytes, identical for every product      -> capture once
+#   GetTab2   404 on the source; the loop skips index 2
+#   GetTab3   2,370-19,986 bytes, product-specific        -> capture per product
+#   GetTab4   404 on the source; the loop skips index 4
+#   GetTab5   4,984 bytes, identical for every product    -> capture once
+#
+# Tab 3 is where the specifications and long description live, which is most of
+# a product page's text. Without it the clone rendered 920 characters against
+# the source's 7,134.
+TAB_CONTAINERS = {"/Product/GetTab1": "#tab1", "/Product/GetTab3": "#tab3",
+                  "/Product/GetTab5": "#tab5"}
 
 # In-page fetch. Same-origin, so the clearance cookie rides along; `text()`
 # because these return HTML fragments, not JSON.
@@ -153,10 +172,26 @@ def probe(page) -> int:
     return 0
 
 
-def run(page, catalogue: pathlib.Path, limit: int | None, report: pathlib.Path) -> int:
-    root = out_root()
-    tally = {"home": 0, "product": 0, "challenge": 0, "empty": 0, "failed": 0}
+def run(page, catalogue: pathlib.Path, limit: int | None, report: pathlib.Path,
+        fresh: bool = False) -> int:
+    # Resume, because this makes 3,859 requests to a live site and the run was
+    # interrupted once at 2,946 with no way to pick it up. Re-fetching what is
+    # already on disk is not a neutral cost here: every one of those is a real
+    # request to the source.
+    #
+    # The root comes from the previous report rather than from today's date, so
+    # a run that spans midnight continues into the directory it started in
+    # instead of silently beginning a second, half-empty capture.
+    tally = {"home": 0, "product": 0, "challenge": 0, "empty": 0, "failed": 0,
+             "resumed": 0}
     index: dict[str, dict] = {}
+    root = out_root()
+    if not fresh and report.exists():
+        previous = json.loads(report.read_text(encoding="utf-8"))
+        root = pathlib.Path(previous.get("root") or root)
+        index = dict(previous.get("fragments") or {})
+        tally["resumed"] = len(index)
+        print(f"resuming into {root}: {len(index)} fragments already captured")
 
     for path, container in HOME_ENDPOINTS:
         got = fetch_one(page, BASE + path)
@@ -179,6 +214,7 @@ def run(page, catalogue: pathlib.Path, limit: int | None, report: pathlib.Path) 
 
     # The two constants, fetched once against one product.
     containers = dict(PRODUCT_ENDPOINTS)
+    containers.update(TAB_CONTAINERS)
     for path in PRODUCT_ONCE:
         got = fetch_one(page, f"{BASE}{path}?p_id=39165&cust_review=")
         if got["status"] != 200:
@@ -201,6 +237,9 @@ def run(page, catalogue: pathlib.Path, limit: int | None, report: pathlib.Path) 
     for n, pid in enumerate(pids, 1):
         for path in PRODUCT_PER_ITEM:
             container = containers.get(path)
+            key = f"{path}?p_id={pid}"
+            if key in index:
+                continue
             got = fetch_one(page, f"{BASE}{path}?p_id={pid}&cust_review=")
             if got["challenge"]:
                 tally["challenge"] += 1
@@ -221,8 +260,9 @@ def run(page, catalogue: pathlib.Path, limit: int | None, report: pathlib.Path) 
             if not got["body"].strip():
                 tally["empty"] += 1
         if n % 100 == 0:
-            print(f"  {n}/{len(pids)} products  ({tally['product']} fragments, "
-                  f"{tally['empty']} empty, {tally['failed']} non-200)")
+            print(f"  {n}/{len(pids)} products  ({len(index)} fragments held, "
+                  f"{tally['product']} new this run, {tally['empty']} empty, "
+                  f"{tally['failed']} non-200)")
             _write(report, root, index, tally, stopped_early=False)
 
     _write(report, root, index, tally, stopped_early=False)
@@ -250,6 +290,8 @@ def main() -> int:
     r.add_argument("--catalogue", default="data/catalogue.json")
     r.add_argument("--limit", type=int)
     r.add_argument("--report", default="scope/fragments.json")
+    r.add_argument("--fresh", action="store_true",
+                   help="ignore what is already captured and start over")
     args = ap.parse_args()
 
     # Reuse the warm page. No new_page, no new_context: this tool exists partly
@@ -258,7 +300,7 @@ def main() -> int:
         if args.cmd == "probe":
             return probe(page)
         return run(page, pathlib.Path(args.catalogue), args.limit,
-                   pathlib.Path(args.report))
+                   pathlib.Path(args.report), fresh=args.fresh)
 
 
 if __name__ == "__main__":

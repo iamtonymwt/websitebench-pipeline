@@ -1,56 +1,76 @@
-resuming: 155 cases already proven
-  L3   1/80  l3.purchase.approved.4777
-  L3   3/80  l3.purchase.approved.11392
-  L3   5/80  l3.purchase.approved.42992
-  L3   7/80  l3.purchase.approved.611940
-  L3   9/80  l3.purchase.approved.44571
-  L3  11/80  l3.purchase.approved.37887
-  L3  13/80  l3.purchase.approved.8678
-  L3  15/80  l3.purchase.approved.38159
-  L3  17/80  l3.purchase.approved.47192
-  L3  19/80  l3.purchase.approved.34885
-  L3  21/80  l3.purchase.approved.49262
-  L3  23/80  l3.purchase.approved.13071
-  L3  25/80  l3.purchase.approved.34543
-  L3  27/80  l3.purchase.approved.6816
-  L3  29/80  l3.purchase.approved.33558
-  L3  31/80  l3.purchase.approved.48215
-  L3  33/80  l3.purchase.approved.27312
-  L3  35/80  l3.purchase.approved.41074
-  L3  37/80  l3.purchase.approved.48222
-  L3  39/80  l3.purchase.approved.34200
-  L3  41/80  l3.purchase.approved.47877
-  L3  43/80  l3.purchase.approved.600070
-  L3  45/80  l3.purchase.approved.18800
-  L3  47/80  l3.purchase.approved.16325
-  L3  49/80  l3.purchase.approved.2132
-  L3  51/80  l3.purchase.approved.3898
-  L3  53/80  l3.purchase.approved.47793
-  L3  55/80  l3.purchase.approved.1302
-  L3  57/80  l3.purchase.approved.39263
-  L3  59/80  l3.purchase.approved.40072
-  L3  61/80  l3.purchase.approved.16335
-  L3  63/80  l3.purchase.approved.46055
-  L3  65/80  l3.purchase.approved.48862
-  L3  67/80  l3.purchase.approved.16320
-  L3  69/80  l3.purchase.approved.45949
-  L3  71/80  l3.purchase.approved.4763
-  L3  73/80  l3.purchase.approved.39358
-  L3  75/80  l3.purchase.approved.43544
-  L3  77/80  l3.purchase.approved.18820
-  L3  79/80  l3.purchase.approved.31204
-page recycled 0 times
-{
-  "schema_version": "monoprice.harbor-cases.v1",
-  "status": "proven",
-  "kept": {
-    "T1": 20,
-    "L1": 35,
-    "L2": 50,
-    "L3": 80
-  },
-  "dropped": 0,
-  "dropped_examples": [],
-  "tasks_declaring_non_get": 118,
-  "page_recycles": null
-}
+  T1   1/20  t1.home
+  T1   2/20  t1.cart
+  T1   3/20  t1.checkout
+  T1   4/20  t1.category.0
+  T1   5/20  t1.category.1
+  T1   6/20  t1.category.2
+  T1   7/20  t1.category.3
+  T1   8/20  t1.category.4
+  T1   9/20  t1.category.5
+  T1  10/20  t1.category.6
+  T1  11/20  t1.category.7
+  T1  12/20  t1.collection.0
+  T1  13/20  t1.collection.1
+  T1  14/20  t1.collection.2
+  T1  15/20  t1.collection.3
+  T1  16/20  t1.collection.4
+  T1  17/20  t1.product.40152
+  T1  18/20  t1.product.12575
+  T1  19/20  t1.product.4043
+  T1  20/20  t1.product.44700
+  L1   1/35  l1.product.33269
+  L1   2/35  l1.product.5116
+  L1   3/35  l1.product.46019
+  L1   4/35  l1.product.45403
+  L1   5/35  l1.product.43137
+  L1   6/35  l1.product.9828
+  L1   7/35  l1.product.2375
+  L1   8/35  l1.product.13413
+  L1   9/35  l1.product.602530
+  L1  10/35  l1.product.8771
+  L1  11/35  l1.product.5587
+  L1  12/35  l1.product.2865
+  L1  13/35  l1.product.39518
+  L1  14/35  l1.product.9809
+  L1  15/35  l1.product.2313
+  L1  16/35  l1.product.44333
+  L1  17/35  l1.product.448
+  L1  18/35  l1.product.50672
+  L1  19/35  l1.product.600053
+  L1  20/35  l1.product.49276
+  L1  21/35  l1.product.9767
+  L1  22/35  l1.product.40880
+  L1  23/35  l1.product.44466
+  L1  24/35  l1.product.40060
+  L1  25/35  l1.product.7043
+  L1  26/35  l1.product.46058
+  L1  27/35  l1.product.9439
+  L1  28/35  l1.product.42961
+  L1  29/35  l1.product.14264
+  L1  30/35  l1.product.48577
+  L1  31/35  l1.product.43328
+  L1  32/35  l1.product.611815
+  L1  33/35  l1.product.46087
+  L1  34/35  l1.product.39836
+  L1  35/35  l1.product.2396
+  L2   1/50  l2.search.hdmi-cable
+  L2   2/50  l2.search.usb-c-cable
+  L2   3/50  l2.search.ethernet-cable
+  L2   4/50  l2.search.speaker-wire
+  L2   5/50  l2.search.power-strip
+  L2   6/50  l2.search.tv-wall-mount
+  L2   7/50  l2.search.adapter
+  L2   8/50  l2.search.cat6
+  L2   9/50  l2.search.displayport
+  L2  10/50  l2.search.keyboard
+  L2  11/50  l2.search.headphones
+  L2  12/50  l2.search.microphone
+  L2  13/50  l2.search.monitor
+  L2  14/50  l2.search.soldering
+  L2  15/50  l2.addtocart.13297
+  L2  16/50  l2.addtocart.12580
+  L2  17/50  l2.addtocart.13717
+  L2  18/50  l2.addtocart.13751
+
+FAILED: L2 filled 18 of 50. Not topping up with weaker cases.
+page recycled 1 times

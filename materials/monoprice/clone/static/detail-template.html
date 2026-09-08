@@ -220,7 +220,119 @@ window.F9 = window.F9 || {Chat: {Wrapper: {init: function () {}}}};
 
 </script>
 
-    
+    <script>
+            jQuery(document).ready(function () {
+                setTimeout(function () {
+                    const swiper = this.swiper;
+                    swiper.loopDestroy();
+                    swiper.loopCreate();
+                    swiper = new Swiper('.swiper-container', {
+                        slidesPerView: 6,
+                        slidesPerGroup: 6,
+                        loopFillGroupWithBlank: true,
+                        loop: true,
+                        grabCursor: true,
+                        navigation: {
+                            nextEl: ".swiper-button-next",
+                            prevEl: ".swiper-button-prev",
+                        },
+                        pagination: {
+                            el: ".swiper-pagination",
+                            clickable: true,
+                        },
+                        breakpoints: {
+                            1024: {
+                                slidesPerView: 5,
+                                spaceBetween: 40,
+                                slidesPerGroup: 5,
+                            },
+                            768: {
+                                slidesPerView: 3,
+                                spaceBetween: 30,
+                                slidesPerGroup: 3,
+                            },
+                            640: {
+                                slidesPerView: 2,
+                                spaceBetween: 20,
+                                slidesPerGroup: 2,
+                            },
+                            320: {
+                                slidesPerView: 1,
+                                spaceBetween: 10,
+                                slidesPerGroup: 1,
+                            }
+                        }
+                    });
+                }, 8000);
+                function getCookieU(cname) {
+                    var name = cname + '=';
+                    var decodedCookie = decodeURIComponent(document.cookie);
+                    var ca = decodedCookie.split(';');
+                    for (var i = 0; i < ca.length; i++) {
+                        var c = ca[i];
+                        while (c.charAt(0) == ' ') {
+                            c = c.substring(1);
+                        }
+                        if (c.indexOf(name) == 0) {
+                            return c.substring(name.length, c.length);
+                        }
+                    }
+                    return '';
+                }
+                var UnbxdSiteName = "monoprice-com701561513169459";
+                var UnbxdApiKey = "316451032967b3beb8a722180a3c269b";
+                var unbxdUid = getCookieU('unbxd.userId') ||
+                    null;
+                var UnbxdWidgetsConf = { pid: UnbxdAnalyticsConf[Object.keys(UnbxdAnalyticsConf)[0]] };
+                if (unbxdUid) {
+                    var context2 = {
+                        widgets: {
+                            widget1: { name: 'recommendations' },
+                            widget2: { name: 'recentlyviewed' },
+                        },
+                        userInfo: { userId: unbxdUid, siteKey: UnbxdSiteName, apiKey: UnbxdApiKey },
+                        pageInfo: { pageType: 'HOME' },
+                        itemClickHandler: function (product) { window.open(product.completeUrl, '_blank'); },
+                        dataParser: function (templatedata) {
+                            setTimeout(function () {
+                                if (jQuery('#recommendations').is(':empty')) {
+                                    jQuery('#recommendations').parent().find("h3.sellertitle").hide();
+                                }
+                                if (jQuery('#recentlyviewed').is(':empty')) {
+                                    jQuery('#recentlyviewed').parent().find("h3.sellertitle").hide()
+                                }
+                            }, 3000);
+                            return templatedata;
+                        }
+                    };
+                    var context = {
+                        widgets: {
+                            widget2: { name: 'alsobought' },
+                        },
+                        userInfo: { userId: unbxdUid, siteKey: UnbxdSiteName, apiKey: UnbxdApiKey },
+                        pageInfo: { pageType: 'PRODUCT', productIds: UnbxdWidgetsConf.pid },
+                        itemClickHandler: function (product) { window.open(product.completeUrl, '_blank'); },
+                        dataParser: function (templatedata) {
+                            setTimeout(function () {
+                                if (jQuery('#alsobought').is(':empty')) {
+                                    jQuery('#alsobought').parent().find("h3.sellertitle").hide()
+                                }
+                            }, 3000);
+                            return templatedata;
+                        }
+                    };
+                    jQuery(document).on('click', '._unbxd_recs-slider-btn', function (e) { e.preventDefault(); });
+                    jQuery(document).on('click', '.product-item', function (e) {
+                        e.preventDefault();
+                        console.log(this);
+                    });
+                    window._unbxd_getRecommendations(context);
+                    setTimeout(function () {
+                        window._unbxd_getRecommendations(context2);
+                    }, 5000);
+                }
+            });
+    </script>
 
 
     <link rel="stylesheet" href="/static/assets/www.monoprice.com/assets/css/bootstrap.min.css" />
@@ -508,7 +620,9 @@ window.F9 = window.F9 || {Chat: {Wrapper: {init: function () {}}}};
 
     
 
-
+<script>
+    var unbxdVersionValue = 2;
+</script>
 
 
 
@@ -876,7 +990,10 @@ window.F9 = window.F9 || {Chat: {Wrapper: {init: function () {}}}};
 
 
 
-
+<script type="text/javascript">
+    UnbxdAnalyticsConf = window.UnbxdAnalyticsConf || {};
+    UnbxdAnalyticsConf['@@WB_SKU@@'] = @@WB_SKU@@;
+</script>
 
 
 <div class="container prod-container">
@@ -1366,7 +1483,32 @@ $@@WB_PRICE@@                            </span>
     </form>
 
 </div>
+<script>
+    function GetQtyValue(value) {
+        $('#addtocartqty').attr("unbxdparam_qty", value);
+        return false;
+    }
+    $("#qtyminus").on('click', function () {
+        var qty = $('#add-to-cart-qty').val();
+        $('#addtocartqty').attr("unbxdparam_qty", qty);
+    });
+    $("#qtyplus").on('click', function () {
+        var qty = $('#add-to-cart-qty').val();
+        $('#addtocartqty').attr("unbxdparam_qty", qty);
+    });
 
+    function blockEvent(event) {
+        if (event.keyCode == 13)
+            return false;
+    }
+
+    function GetQtyValue2(value) {
+        var dropdownvalue = $('.qty-scroll').val();
+        $('#add-to-cart-qty').val(dropdownvalue);
+        $('#addtocartqty').attr("unbxdparam_qty", value);
+        return false;
+    }
+</script>
             </div>
             <!-- qty-tools tool-->
         </div>
@@ -1776,7 +1918,12 @@ $@@WB_PRICE@@                            </span>
 </script>
 <script src="/static/assets/www.monoprice.com/assets/js/mp_productPage_more.js"></script>
 <!-- sticky product tabs -->
-
+<script type="text/javascript">
+    $(document).ready(function() {
+        productPageStuff.initialize(
+            {"p_id":"@@WB_SKU@@","cust_review":0,"unbxdVersion":2});
+    });
+</script>
 
 <script>
     //Get the button
@@ -2001,7 +2148,200 @@ $@@WB_PRICE@@                            </span>
         pointer-events: none !important;
     }
 </style>
+<script>
+    (function () {
+        if (window._mpChatWidgetControls) {
+            window._mpChatWidgetControls.sync();
+            return;
+        }
 
+        var HUBSPOT_COLLAPSED_SIZE = 140;
+        var controls = {};
+
+        function getFive9Container() {
+            return document.getElementById('fn-chat-iframe-container');
+        }
+
+        function getHubSpotContainer() {
+            return document.getElementById('hubspot-messages-iframe-container');
+        }
+
+        function hideElement(element) {
+            if (!element) {
+                return;
+            }
+
+            element.style.display = 'none';
+            element.style.visibility = 'hidden';
+            element.style.pointerEvents = 'none';
+            element.setAttribute('data-mp-chat-hidden', 'true');
+        }
+
+        function showElement(element) {
+            if (!element) {
+                return;
+            }
+
+            element.style.display = '';
+            element.style.visibility = '';
+            element.style.pointerEvents = '';
+            element.removeAttribute('data-mp-chat-hidden');
+        }
+
+        function hideHubSpotLauncherButtons() {
+            var buttons = document.querySelectorAll(
+                'button[aria-label="Open live chat"], button[aria-label="Close live chat"]'
+            );
+
+            for (var i = 0; i < buttons.length; i += 1) {
+                buttons[i].style.display = 'none';
+                buttons[i].style.visibility = 'hidden';
+                buttons[i].style.pointerEvents = 'none';
+            }
+
+            var iframe = document.getElementById('hubspot-conversations-iframe');
+            if (!iframe || !iframe.contentWindow) {
+                return;
+            }
+
+            try {
+                var iframeDoc = iframe.contentWindow.document;
+                var iframeButtons = iframeDoc.querySelectorAll(
+                    'button[aria-label="Open live chat"], button[aria-label="Close live chat"]'
+                );
+
+                for (var j = 0; j < iframeButtons.length; j += 1) {
+                    iframeButtons[j].remove();
+                }
+            } catch (e) {
+            }
+        }
+
+        function isHubSpotCollapsed() {
+            var hubspotContainer = getHubSpotContainer();
+            if (!hubspotContainer) {
+                return true;
+            }
+
+            return hubspotContainer.offsetWidth <= HUBSPOT_COLLAPSED_SIZE &&
+                hubspotContainer.offsetHeight <= HUBSPOT_COLLAPSED_SIZE;
+        }
+
+        function hideFive9() {
+            hideElement(getFive9Container());
+        }
+
+        function showFive9() {
+            showElement(getFive9Container());
+        }
+
+        function closeHubSpot() {
+            window._mpHubspotForceOpenUntil = 0;
+
+            if (window.HubSpotConversations && window.HubSpotConversations.widget) {
+                try {
+                    window.HubSpotConversations.widget.close();
+                } catch (e) {
+                }
+            }
+
+            window.setTimeout(controls.sync, 50);
+            window.setTimeout(controls.sync, 250);
+            window.setTimeout(controls.sync, 750);
+        }
+
+        function sync() {
+            hideHubSpotLauncherButtons();
+
+            var hubspotContainer = getHubSpotContainer();
+            if (!hubspotContainer) {
+                showFive9();
+                return;
+            }
+
+            if (window._mpHubspotForceOpenUntil && Date.now() < window._mpHubspotForceOpenUntil) {
+                showElement(hubspotContainer);
+                hideFive9();
+                return;
+            }
+
+            if (isHubSpotCollapsed()) {
+                hideElement(hubspotContainer);
+                showFive9();
+                return;
+            }
+
+            showElement(hubspotContainer);
+            hideFive9();
+        }
+
+        function reset() {
+            closeHubSpot();
+            showFive9();
+            window.setTimeout(sync, 100);
+        }
+
+        controls.closeFive9 = hideFive9;
+        controls.closeHubSpot = closeHubSpot;
+        controls.hideElement = hideElement;
+        controls.reset = reset;
+        controls.showElement = showElement;
+        controls.showFive9 = showFive9;
+        controls.sync = sync;
+
+        window._mpChatWidgetControls = controls;
+        window.hsConversationsOnReady = window.hsConversationsOnReady || [];
+        window.hsConversationsOnReady.push(function () {
+            if (!window._mpHubSpotWidgetEventsBound && window.HubSpotConversations && window.HubSpotConversations.on) {
+                window._mpHubSpotWidgetEventsBound = true;
+                window.HubSpotConversations.on('widgetLoaded', sync);
+                window.HubSpotConversations.on('conversationStarted', sync);
+                window.HubSpotConversations.on('conversationClosed', closeHubSpot);
+            }
+
+            sync();
+        });
+
+        if (!window._mpChatWidgetObserver) {
+            window._mpChatWidgetObserver = new MutationObserver(function () {
+                sync();
+            });
+
+            var observeBody = function () {
+                if (document.body) {
+                    window._mpChatWidgetObserver.observe(document.body, {
+                        childList: true,
+                        subtree: true,
+                        attributes: true,
+                        attributeFilter: ['style', 'class']
+                    });
+                }
+            };
+
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', observeBody);
+            } else {
+                observeBody();
+            }
+        }
+
+        window.addEventListener('resize', sync);
+        window.addEventListener('scroll', sync);
+        window.addEventListener('pageshow', function (event) {
+            if (event.persisted) {
+                reset();
+                return;
+            }
+
+            sync();
+        });
+        window.addEventListener('pagehide', reset);
+        window.addEventListener('beforeunload', reset);
+        window.setInterval(sync, 1000);
+
+        sync();
+    })();
+</script>
 
     <script>
         // this is temporary until we move all jquery-dependant scripts to footer
@@ -2144,7 +2484,13 @@ $@@WB_PRICE@@                            </span>
 
     <!-- OneTrust Cookies Consent Notice start for www.monoprice.com -->
     
-    
+    <script type="text/javascript">
+        function OptanonWrapper() {
+            if (window.UpdateGoogleTagManagerFromOneTrust) {
+                window.UpdateGoogleTagManagerFromOneTrust();
+            }
+        }
+    </script>
     <!-- OneTrust Cookies Consent Notice end for www.monoprice.com -->
     
 <script data-wb-search-submit="1">

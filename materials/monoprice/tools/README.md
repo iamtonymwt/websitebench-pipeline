@@ -325,3 +325,35 @@ To regenerate the list:
 
     grep -rhoE "url:\s*[\"'](/[^\"']{3,70})[\"']" \
       source-assets/www.monoprice.com/assets/js/*.js | sort -u
+
+**Measure whether a control is broken before supplying one.** A facet-toggle
+shim was written into the freezer on the strength of a user report ("the box on
+the left does not work either") and it *broke a control that worked*. The search
+page carries the site's own first-party inline handler:
+
+    $(".hawk-groupHeading").on('click', function () {
+      if ($(this).hasClass("plus")) { ... slideDown ... }
+      else if ($(this).hasClass("minus")) { ... slideUp ... }
+    });
+
+It survives third-party stripping because it belongs to the site, not to
+HawkSearch. jQuery binds to the element, so it runs before a delegated handler
+on `document`: the shim then read `display` in the middle of the slideDown
+animation, saw `block`, concluded the panel was open, and closed it again. One
+click, two handlers, nothing moves.
+
+The evidence that finally showed it was the inline style caught mid-animation —
+`overflow: hidden; height: 3.84843px; padding-top: 0.15px; display: block` —
+which is jQuery's slide, not a static state. Four probes before that one all
+said "the handler ran and nothing happened", which is exactly what a fight
+between two handlers looks like.
+
+Every other shim in `build_frozen_pages.py` was verified broken first: the
+result containers were `display:none` with no remaining script that referenced
+them, and the stripped globals threw `ReferenceError` by name, on the clone and
+not on the source. This one was assumed. The user's report was real, but its
+cause was the results being hidden — there was nothing to filter, which reads as
+a filter that does nothing.
+
+`tools/verify_interactions.py` exists to answer this question first. Run it
+before adding behaviour, not only after.

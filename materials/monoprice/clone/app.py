@@ -461,18 +461,109 @@ async def minicart_remove(request: Request) -> JSONResponse:
 # Search and the type-ahead that replaces Unbxd
 # --------------------------------------------------------------------------- #
 
-def search_products(term: str, limit: int = 48) -> list[sqlite3.Row]:
+# The facet sidebar's links are real and they were being ignored.
+#
+# Every filter link on a search page carries its selection in the query string:
+#
+#   /search/index?keyword=hdmi%20cable&v_master_Length_uFilter=6ft&TotalProducts=224
+#
+# 54 distinct facet parameters appear across the captured pages. The handler read
+# only `keyword`, so following a "6ft" filter re-rendered the identical 316
+# results under a heading that said the results were filtered. That is worse than
+# an obviously dead link: the page looks like it worked.
+#
+# Two conventions of the source's own, both taken from the captured URLs rather
+# than assumed: `&` is written as ` mand ` inside a value ("AV mand Computer
+# Adapters"), and several values in one facet are comma-separated and mean OR.
+CATEGORY_FACET = re.compile(r"^categorypath\d+_ufilter$", re.I)
+
+
+def decode_facet_value(value: str) -> str:
+    """`AV mand Computer Adapters` is how the source writes an ampersand."""
+    return value.replace(" mand ", " & ").strip()
+
+
+def selected_facets(params) -> list[tuple[str, list[str]]]:
+    out = []
+    for key in params.keys():
+        if not key.lower().endswith("_ufilter"):
+            continue
+        values = [decode_facet_value(v)
+                  for raw in params.getlist(key)
+                  for v in raw.split(",") if v.strip()]
+        if values:
+            out.append((key, values))
+    return out
+
+
+def products_in_categories(conn: sqlite3.Connection, names: list[str]) -> set[str]:
+    """p_ids whose category name matches any of these facet values."""
+    lowered = [n.lower() for n in names]
+    marks = ",".join("?" for _ in lowered)
+    rows = conn.execute(
+        "SELECT DISTINCT pc.p_id FROM product_categories pc "
+        "JOIN categories c ON c.path = pc.category_path "
+        f"WHERE LOWER(c.name) IN ({marks})", lowered).fetchall()
+    return {r[0] for r in rows}
+
+
+def matches_facets(row: sqlite3.Row, facets: list[tuple[str, list[str]]],
+                   category_members: dict[str, set[str]]) -> bool:
+    for key, values in facets:
+        if CATEGORY_FACET.match(key):
+            if row["p_id"] not in category_members.get(key, set()):
+                return False
+            continue
+        if key.lower() == "v_brand_name_ufilter":
+            brand = (row["brand"] or "").lower()
+            if not any(v.lower() == brand for v in values):
+                return False
+            continue
+        # Every other facet -- Length, Color, Wattage, Gauge, Connector -- is an
+        # attribute the catalogue does not carry as a field. It is carried in the
+        # product name, which is where the variant map reads it from too. Values
+        # that are not in the name filter nothing rather than filtering wrongly.
+        name = row["name"].lower()
+        if not any(v.lower() in name for v in values):
+            return False
+    return True
+
+
+# 24 per page, because that is what the source serves. Counted on a frozen
+# category listing, which is the source's own markup: 25 distinct products, the
+# 25th being chrome. The clone was returning 48 and the search page then rendered
+# 35,569 characters against the source's 13,299 and stood 12,854px tall against
+# 6,917 -- a page that is twice as long as the original is as wrong as one that
+# is half as long, and the visible-content audit flags both because it compares
+# ratios in each direction.
+SEARCH_PAGE_SIZE = 24
+
+
+def search_products(term: str, limit: int = SEARCH_PAGE_SIZE,
+                    facets: list[tuple[str, list[str]]] | None = None
+                    ) -> list[sqlite3.Row]:
     if not term.strip():
         return []
     like = f"%{term.strip()}%"
+    # Facets are applied before the limit. Filtering the first 48 rows would make
+    # a narrow facet return almost nothing for reasons that have nothing to do
+    # with the facet.
+    fetch = limit if not facets else max(limit * 20, 600)
     with connection() as conn:
         conn.row_factory = sqlite3.Row
-        return conn.execute(
+        rows = conn.execute(
             "SELECT p_id, name, brand, price, currency FROM products "
             "WHERE name LIKE ? OR sku = ? OR brand LIKE ? "
             "ORDER BY CASE WHEN name LIKE ? THEN 0 ELSE 1 END, LENGTH(name), name "
             "LIMIT ?",
-            (like, term.strip(), like, f"{term.strip()}%", limit)).fetchall()
+            (like, term.strip(), like, f"{term.strip()}%", fetch)).fetchall()
+        if not facets:
+            return rows
+        category_members = {
+            key: products_in_categories(conn, values)
+            for key, values in facets if CATEGORY_FACET.match(key)}
+    kept = [r for r in rows if matches_facets(r, facets, category_members)]
+    return kept[:limit]
 
 
 SEARCH_TEMPLATE_PATH = CLONE_DIR / "static" / "search-template.json"
@@ -497,7 +588,8 @@ def search_page(request: Request) -> Response:
         _state["search_template"] = template
 
     keyword = (request.query_params.get("keyword") or "").strip()
-    rows = search_products(keyword) if keyword else []
+    facets = selected_facets(request.query_params)
+    rows = search_products(keyword, facets=facets) if keyword else []
     truncate_at = template.get("name_truncate_at")
 
     tiles = []
@@ -1130,9 +1222,40 @@ async def select_pid(request: Request) -> JSONResponse:
     })
 
 
+# The product page's tab panels, filled the same way and found much later: the
+# script builds their URL under `tabUrl:`, not `url:`, so the first inventory --
+# a grep for `url:` -- listed fifteen endpoints and missed these three.
+#
+# `mp_productPage_more.js` POSTs them and injects the result:
+#
+#     if (item.index === 3) { $("#qaTab").parent(".tab-content").prepend(data);
+#                             $("#tab3").show(); }
+#     else                  { $(item.selector).html(data); }
+#
+# Tab 3 carries the specifications and the long description, which is most of a
+# product page's visible text. The loop skips indexes 2 and 4, and the source
+# answers those 404 -- so this clone has no route for them either.
+@app.api_route("/Product/GetTab1", methods=["GET", "POST"])
+def product_tab1(p_id: str = "", cust_review: str = "") -> Response:
+    return fragment_response("/Product/GetTab1")
+
+
+@app.api_route("/Product/GetTab3", methods=["GET", "POST"])
+def product_tab3(p_id: str = "", cust_review: str = "") -> Response:
+    return fragment_response(f"/Product/GetTab3?p_id={p_id}")
+
+
+@app.api_route("/Product/GetTab5", methods=["GET", "POST"])
+def product_tab5(p_id: str = "", cust_review: str = "") -> Response:
+    return fragment_response("/Product/GetTab5")
+
+
 # The site calls these with the exact casing above. Anything else reaching the
 # catch-all is bridged there, for the same reason `/Cart` had to be.
 FRAGMENT_ROUTES = {
+    "/product/gettab1": "/Product/GetTab1",
+    "/product/gettab3": "/Product/GetTab3",
+    "/product/gettab5": "/Product/GetTab5",
     "/home/getrecommendationsforyou": "/home/getRecommendationsForYou",
     "/home/gettopsellers": "/home/getTopSellers",
     "/home/getrecentlyviewed": "/home/getRecentlyViewed",
@@ -1167,7 +1290,7 @@ def catch_all(full_path: str, request: Request) -> Response:
     # not a missing strip, it is a strip that never appears again.
     if low in FRAGMENT_ROUTES:
         key = FRAGMENT_ROUTES[low]
-        if key == "/product/GetCustomersAlsoShoppedFor":
+        if key in ("/product/GetCustomersAlsoShoppedFor", "/Product/GetTab3"):
             key = f"{key}?p_id={request.query_params.get('p_id', '')}"
         return fragment_response(key)
 
@@ -1202,5 +1325,18 @@ def catch_all(full_path: str, request: Request) -> Response:
 
     if low.startswith("/product"):
         return product_page(request)
+
+    # The source serves search results under `/category/search/index` as well
+    # as `/search/index` -- the facet links on a category listing are written
+    # relative, so they resolve against the category path. 10 such pages were
+    # captured and are served from the route map above; every other keyword and
+    # facet combination reached this point and was answered 404.
+    #
+    # The runtime audit caught this and attributed it correctly: 1 same-origin
+    # failure that is this project's gap, against 2 that are declared absences.
+    # That classification is the only reason it was distinguishable from the
+    # PerimeterX sensor noise sitting next to it in the same report.
+    if low in ("/category/search/index", "/category/search"):
+        return search_page(request)
 
     return not_found_response(accept)

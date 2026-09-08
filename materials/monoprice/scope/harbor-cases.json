@@ -1,19 +1,176 @@
 {
-  "schema_version": "monoprice.harbor-cases.v1",
-  "status": "written",
-  "written": {
-    "tasks": 185,
-    "cases": 200,
-    "cicd_checks": 15
-  },
+  "status": "insufficient",
+  "tier": "L2",
   "kept": {
     "T1": 20,
     "L1": 35,
-    "L2": 50,
-    "L3": 80
+    "L2": 18,
+    "L3": 0
   },
-  "dropped": 0,
-  "dropped_examples": [],
-  "tasks_declaring_non_get": 118,
-  "page_recycles": null
+  "dropped": [
+    {
+      "id": "l2.addtocart.2684",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"2684\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.44961",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"44961\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.46098",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"46098\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.43396",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"43396\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.5457",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"5457\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.24339",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"24339\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.40782",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"40782\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.2159",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"2159\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.39529",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"39529\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.2308",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"2308\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.2682",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"2682\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.38272",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"38272\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.18590",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"18590\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.5027",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"5027\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.44897",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"44897\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.2794",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"2794\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.7557",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"7557\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.35914",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"35914\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.8609",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"8609\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.40879",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"40879\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.39357",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"39357\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.4773",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"4773\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.24363",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"24363\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.39170",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"39170\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.8624",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"8624\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.36081",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"36081\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.3378",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"3378\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.2315",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"2315\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.9837",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"9837\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.21681",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"21681\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.49351",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"49351\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.39165",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"39165\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.45984",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"45984\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.49260",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"49260\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.45441",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"45441\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.45404",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"45404\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.35535",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"35535\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.18821",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"18821\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.611920",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"611920\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.2302",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"2302\\\"]\").first\n"
+    },
+    {
+      "id": "l2.addtocart.7283",
+      "why": "TimeoutError: Locator.wait_for: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator(\"li[data-p-id=\\\"7283\\\"]\").first\n"
+    }
+  ]
 }

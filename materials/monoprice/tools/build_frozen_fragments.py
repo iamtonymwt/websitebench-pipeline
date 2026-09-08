@@ -35,13 +35,43 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 
-from build_frozen_pages import Localiser, freeze_page  # noqa: E402
+from build_frozen_pages import (  # noqa: E402
+    CSS_URL, NON_URL_ATTRS, URL_ATTR_SPAN, Localiser, freeze_page)
 
 BASE = "https://www.monoprice.com/"
-# Anything still pointing at one of these after rewriting is a reference that
-# would leave the machine.
-REMOTE = re.compile(r"https?:(?:\\?/){2}(?:www\.|images\.)?monoprice\.com|"
-                    r"https?:(?:\\?/){2}cdn\.prod\.website-files\.com", re.I)
+REMOTE_HOST = re.compile(
+    r"^(?:https?:)?//(?:www\.|images\.)?monoprice\.com|"
+    r"^(?:https?:)?//cdn\.prod\.website-files\.com", re.I)
+
+
+def remote_references(html: str) -> list[str]:
+    """References that would actually leave the machine.
+
+    Deliberately not a regex over the whole document. The product tab panels are
+    written by humans and quote URLs as *text*:
+
+        <a href="/manual/how%20to%20-%20punchdown%20keystones.pdf"
+           title="blocked::http://www.monoprice.com/manual/How to - Punchdown
+           keystones.pdf">http://www.monoprice.com/manual/How%20to%20-%20...</a>
+
+    The href is localised correctly. What is left is a `title` attribute and the
+    anchor's own visible text, and neither one makes a request. Scanning the raw
+    text flagged 11 fragments and refused to write any of them -- a check that
+    blocks the build over prose is worse than no check, because the next person
+    turns it off.
+    """
+    out = []
+    for m in URL_ATTR_SPAN.finditer(html):
+        if m.group("attr").lower() in NON_URL_ATTRS:
+            continue
+        value = m.group("v").strip()
+        if REMOTE_HOST.match(value):
+            out.append(value[:120])
+    for m in CSS_URL.finditer(html):
+        value = m.group("v").strip()
+        if REMOTE_HOST.match(value):
+            out.append(value[:120])
+    return out
 
 
 def main() -> int:
@@ -94,9 +124,9 @@ def main() -> int:
                 # i.e. this is not a fragment and the assumption above is wrong.
                 tally[f"unexpected_injection:{marker}"] += 1
 
-        leftover = REMOTE.findall(frozen)
+        leftover = remote_references(frozen)
         if leftover:
-            still_remote.append(f"{key}: {len(leftover)}")
+            still_remote.append(f"{key}: {leftover[0]}")
 
         out = out_root / entry["file"]
         out.parent.mkdir(parents=True, exist_ok=True)

@@ -116,7 +116,8 @@ def measure(page, url: str, settle_ms: int) -> dict:
     return page.evaluate(MEASURE)
 
 
-def compare(family: str, clone: dict, source: dict | None) -> list[str]:
+def compare(family: str, clone: dict, source: dict | None,
+            source_is_a_real_page: bool = True) -> list[str]:
     """Defects, phrased as what a person would notice."""
     out = []
 
@@ -136,12 +137,30 @@ def compare(family: str, clone: dict, source: dict | None) -> list[str]:
     if source is None:
         return out
 
+    # Only meaningful against the real source page. Cart and checkout are
+    # compared against the static family's own clone measurement, and about-us
+    # legitimately loads stylesheets a cart page does not -- reporting those as
+    # missing is noise, and noise is what makes a gate get ignored.
+    if not source_is_a_real_page:
+        return out
+
     # Name the sheets the source has and the clone does not, before reporting a
     # rule-count ratio. "4,357 rules against 5,863" is a symptom; "hawksearch.css
     # is not here" is the cause.
-    src_names = {s["name"] for s in source.get("appliedStylesheets", [])}
+    # A sheet whose rule count reads -1 on the source is cross-origin: the
+    # browser refuses to expose `cssRules` for it. Cross-origin means it is
+    # served by someone else, which means we strip it on purpose -- Google
+    # Fonts, animate.min.css from a CDN, Unbxd's autosuggest. Reporting those
+    # buries the case that matters.
+    #
+    # The one that mattered read 541 rules, because it was same-origin:
+    # `mp_unbxd_search.css`, monoprice's own stylesheet, deleted by a substring
+    # match on the vendor name in its filename. Readable rules on the source is
+    # exactly the signal that separates the two.
+    readable = {s["name"] for s in source.get("appliedStylesheets", [])
+                if s.get("rules", -1) > 0}
     clone_names = {s["name"] for s in clone.get("appliedStylesheets", [])}
-    only_source = sorted(n for n in src_names - clone_names if n != "inline")
+    only_source = sorted(n for n in readable - clone_names if n != "inline")
     if only_source:
         by_name = {s["name"]: s["rules"] for s in source["appliedStylesheets"]}
         detail = ", ".join(f"{n} ({by_name.get(n, '?')} rules)"
@@ -227,7 +246,8 @@ def main() -> int:
                              "source_url": None, "clone": clone,
                              "compared_against": "static family chrome",
                              "source": baseline,
-                             "defects": compare(family, clone, baseline)})
+                             "defects": compare(family, clone, baseline,
+                                                source_is_a_real_page=False)})
         finally:
             if source_page is not None:
                 source_page.close()

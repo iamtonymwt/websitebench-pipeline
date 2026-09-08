@@ -158,6 +158,36 @@ def reveal_results_container(html: str, tally: collections.Counter) -> str:
 
     return RESULTS_CONTAINER.sub(repl, html)
 
+# The facet sidebar toggle is NOT missing -- do not shim it.
+#
+# A shim was written here and it broke a working control. The page carries the
+# site's own first-party inline handler, and it survives third-party stripping
+# because it is the site's, not HawkSearch's:
+#
+#     $(document).ready(function () {
+#       $(".hawk-groupHeading").on('click', function () {
+#         if ($(this).hasClass("plus")) {
+#           $(this).removeClass("plus").addClass("minus");
+#           $(this).next().slideDown('fast', 'linear');
+#         } else if ($(this).hasClass("minus")) { ... slideUp ... }
+#       });
+#     });
+#
+# jQuery binds to the element, so its handler runs before a delegated one on
+# `document`. The shim then read `display` mid-slideDown, saw `block`, concluded
+# the panel was open, and closed it. One click, two handlers, net effect nil --
+# and the evidence for it was an inline style caught mid-animation:
+#
+#     overflow: hidden; height: 3.84843px; padding-top: 0.15px; display: block
+#
+# The rule this cost: **measure whether a control works before supplying it.**
+# Everything else shimmed in this file was verified broken first -- the results
+# containers were `display:none` with no script left to reveal them, the
+# stripped globals threw ReferenceError by name. This one was assumed from the
+# user's report that "the box on the left does not work either", which was
+# really the search page showing no results at all.
+
+
 # The search box does not submit without this.
 #
 # Measured side by side: identical markup on both, and pressing Enter navigates
@@ -322,6 +352,50 @@ def is_third_party(value: str) -> bool:
     return any(p.lower() in low for p in FIRST_PARTY_TRACKER_PATHS)
 
 
+def url_is_third_party(value: str) -> bool:
+    """Third party decided by the URL's HOST, not by text anywhere in it.
+
+    `is_third_party` is a substring test, and the hint list holds bare vendor
+    names -- "unbxd", "onetrust", "hotjar". Applied to a whole URL it strips
+    first-party files whose *filename* mentions the vendor:
+
+        https://www.monoprice.com/assets/css/mp_unbxd_search.css   541 rules
+        https://www.monoprice.com/assets/js/hawksearchproxy.js
+
+    That stylesheet is monoprice's own, it styles the search results, and losing
+    it is why the category and search pages held 4,357 CSS rules against the
+    source's 5,863. The vendor's name in a filename says who the file is *for*,
+    not who serves it.
+
+    Some hints legitimately carry a path (`facebook.com/tr`,
+    `google.com/recaptcha`), so the test runs against host+path -- but only once
+    the host is known not to be ours.
+    """
+    raw = value.strip()
+    if not raw:
+        return False
+    try:
+        parsed = urllib.parse.urlsplit(
+            raw if "//" in raw[:8] else urllib.parse.urljoin("https://x.invalid/", raw))
+    except ValueError:
+        # `urlsplit` raises "Invalid IPv6 URL" on a token with an unbalanced
+        # bracket, and inline scripts are full of things that look like URLs and
+        # are not -- `//[object Object]`, template fragments, commented-out code.
+        # An unparseable token cannot be a working request, so it is kept rather
+        # than treated as a third party and deleted along with its whole tag.
+        return False
+    host = (parsed.netloc or "").lower().split("@")[-1].split(":")[0]
+    path = (parsed.path or "").lower()
+
+    # A first-party path that proxies a third party is still a third party, and
+    # this is the only case where the path alone decides.
+    if any(p.lower() in path for p in FIRST_PARTY_TRACKER_PATHS):
+        return True
+    if not host or host == "x.invalid" or host in LOCAL_HOSTS:
+        return False
+    return any(h in f"{host}{path}" for h in THIRD_PARTY_HOST_HINTS)
+
+
 class Localiser:
     """Rewrites one page's references and keeps a per-reason tally."""
 
@@ -376,7 +450,7 @@ class Localiser:
         if not raw or raw.startswith(("data:", "javascript:", "mailto:", "tel:",
                                       "#", "{{", "${")):
             return None
-        if is_third_party(raw):
+        if url_is_third_party(raw):
             self.tally["third_party_reference_removed"] += 1
             return ""
         absolute = urllib.parse.urljoin(self.base_url, raw.replace("&amp;", "&"))
@@ -401,10 +475,57 @@ class Localiser:
         return None
 
 
+# A host hint has to match a URL, not prose.
+#
+# `is_third_party` tests for substrings like "unbxd" and "onetrust", and
+# `strip_third_party_tags` was applying it to the **entire text of an inline
+# script**. The site's own product page carries:
+#
+#     <script> var unbxdVersionValue = 2; </script>
+#     <script>
+#       $(document).ready(function () {
+#         productPageStuff.initialize({"p_id":"10149","cust_review":0,
+#                                      "unbxdVersion":2});
+#       });
+#     </script>
+#
+# Both contain the substring `unbxd`, so both were deleted as third party. That
+# call is the only thing that starts the product page's content fills, so every
+# product page lost its recommendation carousels AND its tab panels -- the specs
+# and description that are most of the page's text. Measured against the source:
+# 920 characters rendered against 7,134, and 1 product tile against 35.
+#
+# This is the third time on this site that a substring test has eaten
+# first-party code. `cloudfront.net` took Webflow's jQuery off 3,328 pages until
+# the hints were narrowed to exact hostnames; a fast path that checked for
+# `monoprice.com/` skipped every Webflow file before its own pattern could run.
+# The rule that keeps being relearned: **match the thing, not text that happens
+# to contain the thing's name.**
+#
+# So a tag is third party when a *URL inside it* points at a third party, or an
+# attribute points at a first-party tracker proxy. An inline script that merely
+# mentions a vendor is the site's own code calling into that vendor -- which is
+# exactly what the stripped-globals shim exists to keep working.
+URL_IN_TAG = re.compile(r"""(?:https?:)?//[^\s"'<>()\\]{4,}""", re.I)
+
+
+def tag_is_third_party(tag_text: str) -> bool:
+    for m in URL_IN_TAG.finditer(tag_text):
+        if url_is_third_party(m.group(0)):
+            return True
+    for m in URL_ATTR_SPAN.finditer(tag_text):
+        value = m.group("v")
+        if any(p.lower() in value.lower() for p in FIRST_PARTY_TRACKER_PATHS):
+            return True
+        if url_is_third_party(value):
+            return True
+    return False
+
+
 def strip_third_party_tags(html: str, tally: collections.Counter) -> str:
     def drop_if_third_party(pattern: re.Pattern, label: str, text: str) -> str:
         def repl(m: re.Match) -> str:
-            if is_third_party(m.group(0)):
+            if tag_is_third_party(m.group(0)):
                 tally[label] += 1
                 return ""
             return m.group(0)

@@ -1,0 +1,68 @@
+{
+  "schema_version": "monoprice.interaction-check.v1",
+  "base_url": "http://127.0.0.1:8412",
+  "checks": 6,
+  "failed": 0,
+  "results": [
+    {
+      "name": "facet_toggle",
+      "ok": true,
+      "detail": "clicked 'Length': display none -> block, 23 of 23 filter links now visible",
+      "filter_href": "/search/index?Number_of_Channels_uFilter=2&keyword=hdmi%20cable&v_master_Length_uFilter=6ft&TotalProducts=224",
+      "before": {
+        "headings": 78,
+        "visibleHeadings": 39,
+        "collapsed": 37,
+        "label": "Length"
+      },
+      "after": {
+        "was": "none",
+        "now": "block",
+        "links": 23,
+        "visibleLinks": 23,
+        "heading_class": "hawk-groupHeading minus",
+        "href": "/search/index?Number_of_Channels_uFilter=2&keyword=hdmi%20cable&v_master_Length_uFilter=6ft&TotalProducts=224"
+      }
+    },
+    {
+      "name": "facet_link_filters",
+      "ok": true,
+      "detail": "unfiltered 316 tiles -> filtered 232 (152 visible)",
+      "after": {
+        "tiles": 232,
+        "visible": 152,
+        "title": "Search -HDMI CABLE - HDMI Cable, Home Theater Accessories, H"
+      }
+    },
+    {
+      "name": "search_box",
+      "ok": true,
+      "detail": "Enter went to /search/index?keyword=hdmi+cable with 208 visible tiles"
+    },
+    {
+      "name": "add_to_cart",
+      "ok": true,
+      "detail": "clicked 'Add to Cart'; cart holds 1 line(s)",
+      "page_errors": [
+        "$(...).hasAttribute is not a function",
+        "$(...).flowtype is not a function",
+        "$(...).hasAttribute is not a function"
+      ]
+    },
+    {
+      "name": "variant_switch",
+      "ok": true,
+      "detail": "selecting '2ft' on 11206 resolved to 11302 (expected 11302); info panel 41345 bytes, desc 5365"
+    },
+    {
+      "name": "checkout",
+      "ok": true,
+      "detail": "scenario 'sandbox-approved' -> /order/MP2E79ECA82C6D619A",
+      "options": [
+        "sandbox-approved",
+        "sandbox-declined",
+        "sandbox-retry"
+      ]
+    }
+  ]
+}

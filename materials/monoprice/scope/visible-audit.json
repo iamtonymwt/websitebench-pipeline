@@ -6,24 +6,134 @@
   },
   "source_compared": true,
   "families": 8,
-  "families_with_defects": 6,
+  "families_with_defects": 1,
   "rows": [
     {
       "family": "home",
       "route": "/",
       "source_url": "https://www.monoprice.com/",
       "clone": {
-        "height": 4639,
-        "text": 3678,
+        "height": 5294,
+        "text": 8597,
         "rules": 5571,
         "sheets": 27,
         "sheetsBlocked": 0,
         "stylesheetLinks": 21,
         "unappliedStylesheets": [],
-        "tiles": 80,
-        "tilesVisible": 80,
-        "images": 68,
-        "imagesVisible": 40,
+        "appliedStylesheets": [
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "mp_style.css",
+            "rules": 415
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "hawksearch.css",
+            "rules": 497
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "homepage-site.css",
+            "rules": 143
+          },
+          {
+            "name": "homepage-responsive.css",
+            "rules": 7
+          },
+          {
+            "name": "homepage-slider.css",
+            "rules": 484
+          },
+          {
+            "name": "slick.css",
+            "rules": 18
+          },
+          {
+            "name": "slick-theme.css",
+            "rules": 22
+          },
+          {
+            "name": "swiper.min.css",
+            "rules": 93
+          },
+          {
+            "name": "slider.css",
+            "rules": 15
+          },
+          {
+            "name": "inline",
+            "rules": 21
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          }
+        ],
+        "tiles": 119,
+        "tilesVisible": 119,
+        "images": 109,
+        "imagesVisible": 93,
         "imagesBrokenVisible": 0,
         "tallest": [
           {
@@ -48,6 +158,152 @@
         "sheetsBlocked": 2,
         "stylesheetLinks": 23,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "mp_style.css",
+            "rules": 415
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "hawksearch.css",
+            "rules": 497
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "homepage-site.css",
+            "rules": 143
+          },
+          {
+            "name": "homepage-responsive.css",
+            "rules": 7
+          },
+          {
+            "name": "homepage-slider.css",
+            "rules": 484
+          },
+          {
+            "name": "slick.css",
+            "rules": 18
+          },
+          {
+            "name": "slick-theme.css",
+            "rules": 22
+          },
+          {
+            "name": "swiper.min.css",
+            "rules": 93
+          },
+          {
+            "name": "slider.css",
+            "rules": 15
+          },
+          {
+            "name": "inline",
+            "rules": 21
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 673
+          },
+          {
+            "name": "inline",
+            "rules": 127
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "animate.min.css",
+            "rules": -1
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "monoprice-com701561513169459_autosuggest.css",
+            "rules": -1
+          }
+        ],
         "tiles": 124,
         "tilesVisible": 122,
         "images": 114,
@@ -68,22 +324,142 @@
           }
         ]
       },
-      "defects": [
-        "visible text 3678 vs source 9264 (x0.40)"
-      ]
+      "defects": []
     },
     {
       "family": "category",
       "route": "/category/cables/hdmi-cables/hdmi-cables",
       "source_url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables",
       "clone": {
-        "height": 7867,
-        "text": 16408,
-        "rules": 4357,
-        "sheets": 29,
+        "height": 7312,
+        "text": 12821,
+        "rules": 4898,
+        "sheets": 30,
         "sheetsBlocked": 0,
-        "stylesheetLinks": 21,
+        "stylesheetLinks": 22,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp_new.css",
+            "rules": 11
+          },
+          {
+            "name": "myaccount-responsive.css",
+            "rules": 10
+          },
+          {
+            "name": "myaccount-site.css",
+            "rules": 245
+          },
+          {
+            "name": "qas_account.css",
+            "rules": 33
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "minicart.css",
+            "rules": 37
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_unbxd_search.css",
+            "rules": 541
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "hawksearch-grid.css",
+            "rules": 13
+          },
+          {
+            "name": "jquery.range.css",
+            "rules": 26
+          },
+          {
+            "name": "mp_searchpage.css",
+            "rules": 79
+          },
+          {
+            "name": "inline",
+            "rules": 16
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          }
+        ],
         "tiles": 165,
         "tilesVisible": 93,
         "images": 45,
@@ -112,6 +488,168 @@
         "sheetsBlocked": 3,
         "stylesheetLinks": 24,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp_new.css",
+            "rules": -1
+          },
+          {
+            "name": "myaccount-responsive.css",
+            "rules": 10
+          },
+          {
+            "name": "myaccount-site.css",
+            "rules": 245
+          },
+          {
+            "name": "qas_account.css",
+            "rules": 33
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "minicart.css",
+            "rules": 37
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "inline",
+            "rules": 673
+          },
+          {
+            "name": "inline",
+            "rules": 127
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "animate.min.css",
+            "rules": -1
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_unbxd_search.css",
+            "rules": 541
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "hawksearch-grid.css",
+            "rules": 13
+          },
+          {
+            "name": "jquery.range.css",
+            "rules": 26
+          },
+          {
+            "name": "mp_searchpage.css",
+            "rules": 79
+          },
+          {
+            "name": "inline",
+            "rules": 16
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "monoprice-com701561513169459_autosuggest.css",
+            "rules": -1
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          }
+        ],
         "tiles": 172,
         "tilesVisible": 94,
         "images": 50,
@@ -132,26 +670,146 @@
           }
         ]
       },
-      "defects": [
-        "CSS rules in force 4357 vs source 5863 (x0.74)"
-      ]
+      "defects": []
     },
     {
       "family": "search",
       "route": "/search/index?keyword=hdmi+cable",
       "source_url": "https://www.monoprice.com/search/index?keyword=hdmi+cable",
       "clone": {
-        "height": 2693,
-        "text": 3982,
-        "rules": 4910,
-        "sheets": 31,
+        "height": 9128,
+        "text": 25015,
+        "rules": 4898,
+        "sheets": 30,
         "sheetsBlocked": 0,
-        "stylesheetLinks": 23,
+        "stylesheetLinks": 22,
         "unappliedStylesheets": [],
-        "tiles": 316,
-        "tilesVisible": 0,
-        "images": 91,
-        "imagesVisible": 0,
+        "appliedStylesheets": [
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp_new.css",
+            "rules": 11
+          },
+          {
+            "name": "myaccount-responsive.css",
+            "rules": 10
+          },
+          {
+            "name": "myaccount-site.css",
+            "rules": 245
+          },
+          {
+            "name": "qas_account.css",
+            "rules": 33
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "minicart.css",
+            "rules": 37
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_unbxd_search.css",
+            "rules": 541
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "hawksearch-grid.css",
+            "rules": 13
+          },
+          {
+            "name": "jquery.range.css",
+            "rules": 26
+          },
+          {
+            "name": "mp_searchpage.css",
+            "rules": 79
+          },
+          {
+            "name": "inline",
+            "rules": 16
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          }
+        ],
+        "tiles": 244,
+        "tilesVisible": 120,
+        "images": 67,
+        "imagesVisible": 49,
         "imagesBrokenVisible": 0,
         "tallest": [
           {
@@ -176,6 +834,168 @@
         "sheetsBlocked": 3,
         "stylesheetLinks": 24,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp_new.css",
+            "rules": -1
+          },
+          {
+            "name": "myaccount-responsive.css",
+            "rules": 10
+          },
+          {
+            "name": "myaccount-site.css",
+            "rules": 245
+          },
+          {
+            "name": "qas_account.css",
+            "rules": 33
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "minicart.css",
+            "rules": 37
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "inline",
+            "rules": 673
+          },
+          {
+            "name": "inline",
+            "rules": 127
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "animate.min.css",
+            "rules": -1
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_unbxd_search.css",
+            "rules": 541
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "hawksearch-grid.css",
+            "rules": 13
+          },
+          {
+            "name": "jquery.range.css",
+            "rules": 26
+          },
+          {
+            "name": "mp_searchpage.css",
+            "rules": 79
+          },
+          {
+            "name": "inline",
+            "rules": 16
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "monoprice-com701561513169459_autosuggest.css",
+            "rules": -1
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          }
+        ],
         "tiles": 182,
         "tilesVisible": 92,
         "images": 49,
@@ -197,10 +1017,7 @@
         ]
       },
       "defects": [
-        "316 product links present, NONE visible -- content rendered but hidden",
-        "visible text 3982 vs source 13299 (x0.30)",
-        "page height 2693 vs source 6917 (x0.39)",
-        "source shows 92 product tiles, clone shows 0"
+        "visible text 25015 vs source 13299 (x1.88)"
       ]
     },
     {
@@ -208,17 +1025,127 @@
       "route": "/product?p_id=39165",
       "source_url": "https://www.monoprice.com/product?p_id=39165",
       "clone": {
-        "height": 1704,
-        "text": 920,
+        "height": 3854,
+        "text": 6370,
         "rules": 5629,
         "sheets": 27,
         "sheetsBlocked": 0,
         "stylesheetLinks": 19,
         "unappliedStylesheets": [],
-        "tiles": 1,
-        "tilesVisible": 1,
-        "images": 17,
-        "imagesVisible": 1,
+        "appliedStylesheets": [
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "mp_style.css",
+            "rules": 415
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "hawksearch.css",
+            "rules": 497
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "mp_product_page.css",
+            "rules": 509
+          },
+          {
+            "name": "slick.css",
+            "rules": 18
+          },
+          {
+            "name": "slick-theme.css",
+            "rules": 22
+          },
+          {
+            "name": "owl.carousel.min.css",
+            "rules": 31
+          },
+          {
+            "name": "slickslider.css",
+            "rules": 20
+          },
+          {
+            "name": "swiper.min.css",
+            "rules": 93
+          },
+          {
+            "name": "inline",
+            "rules": 35
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 16
+          },
+          {
+            "name": "monoprice_turnto.css",
+            "rules": 147
+          },
+          {
+            "name": "inline",
+            "rules": 6
+          },
+          {
+            "name": "inline",
+            "rules": 19
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "mp_prod_helper.css",
+            "rules": 53
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          }
+        ],
+        "tiles": 31,
+        "tilesVisible": 31,
+        "images": 63,
+        "imagesVisible": 47,
         "imagesBrokenVisible": 0,
         "tallest": [
           {
@@ -236,17 +1163,187 @@
         ]
       },
       "source": {
-        "height": 7563,
-        "text": 7134,
+        "height": 6961,
+        "text": 3717,
         "rules": 6631,
         "sheets": 42,
         "sheetsBlocked": 5,
         "stylesheetLinks": 24,
         "unappliedStylesheets": [],
-        "tiles": 37,
-        "tilesVisible": 35,
-        "images": 86,
-        "imagesVisible": 46,
+        "appliedStylesheets": [
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "mp_style.css",
+            "rules": 415
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "hawksearch.css",
+            "rules": 497
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "mp_product_page.css",
+            "rules": 509
+          },
+          {
+            "name": "slick.css",
+            "rules": 18
+          },
+          {
+            "name": "slick-theme.css",
+            "rules": 22
+          },
+          {
+            "name": "owl.carousel.min.css",
+            "rules": 31
+          },
+          {
+            "name": "slickslider.css",
+            "rules": 20
+          },
+          {
+            "name": "swiper.min.css",
+            "rules": 93
+          },
+          {
+            "name": "inline",
+            "rules": 35
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "pdp-page.e1b159cb98ebfefca248.css",
+            "rules": -1
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "gallery.7f1d4f2cee285b08370d.css",
+            "rules": -1
+          },
+          {
+            "name": "inline",
+            "rules": 673
+          },
+          {
+            "name": "inline",
+            "rules": 127
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "animate.min.css",
+            "rules": -1
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 16
+          },
+          {
+            "name": "monoprice_turnto.css",
+            "rules": 147
+          },
+          {
+            "name": "inline",
+            "rules": 6
+          },
+          {
+            "name": "inline",
+            "rules": 19
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "mp_prod_helper.css",
+            "rules": 53
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "monoprice-com701561513169459_autosuggest.css",
+            "rules": -1
+          },
+          {
+            "name": "mp_prod_page_web.css",
+            "rules": -1
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          }
+        ],
+        "tiles": 6,
+        "tilesVisible": 4,
+        "images": 55,
+        "imagesVisible": 15,
         "imagesBrokenVisible": 0,
         "tallest": [
           {
@@ -263,11 +1360,7 @@
           }
         ]
       },
-      "defects": [
-        "visible text 920 vs source 7134 (x0.13)",
-        "page height 1704 vs source 7563 (x0.23)",
-        "1 visible tiles vs source 35"
-      ]
+      "defects": []
     },
     {
       "family": "shop",
@@ -281,6 +1374,36 @@
         "sheetsBlocked": 0,
         "stylesheetLinks": 3,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "monoprice-pseo-products.shared.20af53cb0.min.css",
+            "rules": 301
+          },
+          {
+            "name": "monoprice-pseo-products.680733e22b58c45ee8644ff7.a2c596959.opt.min.css",
+            "rules": 134
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "inline",
+            "rules": 33
+          },
+          {
+            "name": "inline",
+            "rules": 30
+          }
+        ],
         "tiles": 33,
         "tilesVisible": 33,
         "images": 18,
@@ -309,6 +1432,60 @@
         "sheetsBlocked": 3,
         "stylesheetLinks": 5,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "monoprice-pseo-products.shared.20af53cb0.min.css",
+            "rules": 301
+          },
+          {
+            "name": "monoprice-pseo-products.680733e22b58c45ee8644ff7.a2c596959.opt.min.css",
+            "rules": 134
+          },
+          {
+            "name": "css",
+            "rules": -1
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": -1
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "inline",
+            "rules": 673
+          },
+          {
+            "name": "inline",
+            "rules": 127
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "animate.min.css",
+            "rules": -1
+          },
+          {
+            "name": "inline",
+            "rules": 33
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "inline",
+            "rules": 30
+          }
+        ],
         "tiles": 33,
         "tilesVisible": 33,
         "images": 21,
@@ -343,6 +1520,112 @@
         "sheetsBlocked": 0,
         "stylesheetLinks": 17,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "scroll.jcarousel.css",
+            "rules": 6
+          },
+          {
+            "name": "scroll.skin.css",
+            "rules": 23
+          },
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 7
+          },
+          {
+            "name": "inline",
+            "rules": 8
+          },
+          {
+            "name": "mp-aboutus.min.css",
+            "rules": 31
+          },
+          {
+            "name": "mp_cms_page.css",
+            "rules": 20
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          }
+        ],
         "tiles": 0,
         "tilesVisible": 0,
         "images": 20,
@@ -371,6 +1654,148 @@
         "sheetsBlocked": 2,
         "stylesheetLinks": 19,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "scroll.jcarousel.css",
+            "rules": 6
+          },
+          {
+            "name": "scroll.skin.css",
+            "rules": 23
+          },
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 25
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "inline",
+            "rules": 60
+          },
+          {
+            "name": "inline",
+            "rules": 673
+          },
+          {
+            "name": "inline",
+            "rules": 127
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "animate.min.css",
+            "rules": -1
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 5
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 7
+          },
+          {
+            "name": "inline",
+            "rules": 8
+          },
+          {
+            "name": "mp-aboutus.min.css",
+            "rules": 31
+          },
+          {
+            "name": "mp_cms_page.css",
+            "rules": 20
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          },
+          {
+            "name": "monoprice-com701561513169459_autosuggest.css",
+            "rules": -1
+          }
+        ],
         "tiles": 2,
         "tilesVisible": 0,
         "images": 25,
@@ -405,6 +1830,92 @@
         "sheetsBlocked": 0,
         "stylesheetLinks": 15,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "scroll.jcarousel.css",
+            "rules": 6
+          },
+          {
+            "name": "scroll.skin.css",
+            "rules": 23
+          },
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 19
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          }
+        ],
         "tiles": 0,
         "tilesVisible": 0,
         "images": 16,
@@ -434,6 +1945,112 @@
         "sheetsBlocked": 0,
         "stylesheetLinks": 17,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "scroll.jcarousel.css",
+            "rules": 6
+          },
+          {
+            "name": "scroll.skin.css",
+            "rules": 23
+          },
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 7
+          },
+          {
+            "name": "inline",
+            "rules": 8
+          },
+          {
+            "name": "mp-aboutus.min.css",
+            "rules": 31
+          },
+          {
+            "name": "mp_cms_page.css",
+            "rules": 20
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          }
+        ],
         "tiles": 0,
         "tilesVisible": 0,
         "images": 20,
@@ -454,22 +2071,106 @@
           }
         ]
       },
-      "defects": [
-        "visible text 757 vs source 1352 (x0.56)"
-      ]
+      "defects": []
     },
     {
       "family": "checkout",
       "route": "/checkout",
       "source_url": null,
       "clone": {
-        "height": 1573,
+        "height": 1612,
         "text": 767,
         "rules": 3929,
         "sheets": 21,
         "sheetsBlocked": 0,
         "stylesheetLinks": 15,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "scroll.jcarousel.css",
+            "rules": 6
+          },
+          {
+            "name": "scroll.skin.css",
+            "rules": 23
+          },
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 19
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          }
+        ],
         "tiles": 0,
         "tilesVisible": 0,
         "images": 16,
@@ -478,7 +2179,7 @@
         "tallest": [
           {
             "tag": "HEADER",
-            "h": 63
+            "h": 102
           },
           {
             "tag": "NAV",
@@ -499,6 +2200,112 @@
         "sheetsBlocked": 0,
         "stylesheetLinks": 17,
         "unappliedStylesheets": [],
+        "appliedStylesheets": [
+          {
+            "name": "scroll.jcarousel.css",
+            "rules": 6
+          },
+          {
+            "name": "scroll.skin.css",
+            "rules": 23
+          },
+          {
+            "name": "bootstrap.min.css",
+            "rules": 1182
+          },
+          {
+            "name": "font-awesome.min.css",
+            "rules": 713
+          },
+          {
+            "name": "animate.css",
+            "rules": 230
+          },
+          {
+            "name": "featherlight.css",
+            "rules": 3
+          },
+          {
+            "name": "jquery.smartmenus.bootstrap.css",
+            "rules": 19
+          },
+          {
+            "name": "slidebars.min.css",
+            "rules": 25
+          },
+          {
+            "name": "jquery.fancybox.css",
+            "rules": 115
+          },
+          {
+            "name": "landingpage.css",
+            "rules": 18
+          },
+          {
+            "name": "set2.css",
+            "rules": 34
+          },
+          {
+            "name": "inline",
+            "rules": 15
+          },
+          {
+            "name": "mp-global.css",
+            "rules": 742
+          },
+          {
+            "name": "_style.css",
+            "rules": 361
+          },
+          {
+            "name": "js_megamenu.css",
+            "rules": 346
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "mp_email_subscribe_popup.css",
+            "rules": 32
+          },
+          {
+            "name": "inline",
+            "rules": 39
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 3
+          },
+          {
+            "name": "inline",
+            "rules": 7
+          },
+          {
+            "name": "inline",
+            "rules": 8
+          },
+          {
+            "name": "mp-aboutus.min.css",
+            "rules": 31
+          },
+          {
+            "name": "mp_cms_page.css",
+            "rules": 20
+          },
+          {
+            "name": "inline",
+            "rules": 2
+          },
+          {
+            "name": "inline",
+            "rules": 1
+          }
+        ],
         "tiles": 0,
         "tilesVisible": 0,
         "images": 20,
@@ -519,9 +2326,7 @@
           }
         ]
       },
-      "defects": [
-        "visible text 767 vs source 1352 (x0.57)"
-      ]
+      "defects": []
     }
   ]
 }

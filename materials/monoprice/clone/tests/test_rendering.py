@@ -131,6 +131,9 @@ def test_search_with_no_results_shows_the_empty_state(client):
 # succeeds, so a wrong answer here is not a missing strip -- it is a strip that
 # never appears.
 FILL_ENDPOINTS = [
+    "/Product/GetTab1?p_id=39165&cust_review=",
+    "/Product/GetTab3?p_id=39165&cust_review=",
+    "/Product/GetTab5?p_id=39165&cust_review=",
     "/home/getRecommendationsForYou",
     "/home/getTopSellers",
     "/home/getRecentlyViewed",
@@ -186,6 +189,8 @@ def test_content_fill_fragments_make_no_remote_references(client, url):
 # genuinely passing that way before this one was added.
 NON_EMPTY_FILLS = {
     "/home/getRecommendationsForYou": 8,
+    # Tab 3 is the specifications panel; it has no product links, so it is
+    # checked by length in its own test below rather than by tile count.
     "/home/getTopSellers": 8,
     "/product/getrecommendationsforyou?p_id=39165&cust_review=": 8,
 }
@@ -316,3 +321,107 @@ def test_partial_extraction_returns_the_whole_panel():
                    '<span>tail</span>'), got
     assert "after" not in got
     assert clone_module._extract_partial(markup, "missing") == ""
+
+
+# --------------------------------------------------------------------------- #
+# Facet filtering
+# --------------------------------------------------------------------------- #
+
+def test_facet_parameter_actually_narrows_results(client):
+    """Following a filter link must return fewer products.
+
+    The search handler read only `keyword`, so a facet link re-rendered the
+    identical result set under a heading claiming it was filtered. The
+    interaction check missed it too, because it asserted `filtered <= unfiltered`
+    and equality satisfies that.
+    """
+    wide = client.get("/search/index", params={"keyword": "hdmi cable"}).text
+    wide_n = len(set(re.findall(r"p_id=(\d+)", wide)))
+    narrow = client.get("/search/index",
+                        params={"keyword": "hdmi cable",
+                                "v_master_Length_uFilter": "6ft"}).text
+    narrow_n = len(set(re.findall(r"p_id=(\d+)", narrow)))
+    assert narrow_n < wide_n, (
+        f"the 6ft filter returned {narrow_n} distinct products against "
+        f"{wide_n} unfiltered -- the facet parameter is being ignored")
+    assert narrow_n > 0, "the 6ft filter returned nothing at all"
+
+
+def test_facet_value_ampersand_encoding_is_decoded(client):
+    """The source writes `&` as ` mand ` inside a facet value."""
+    import app as clone_module
+    assert clone_module.decode_facet_value("AV mand Computer Adapters") == (
+        "AV & Computer Adapters")
+    # A value with no `mand` must survive untouched, including one that merely
+    # contains the letters.
+    assert clone_module.decode_facet_value("Command Cables") == "Command Cables"
+
+
+def test_unknown_facet_value_does_not_silently_return_everything(client):
+    """A facet nothing matches must return the empty state, not everything.
+
+    Counted against the page's own baseline rather than against zero: the search
+    template carries product links of its own in the surrounding chrome, so a
+    page with no results still contains 24 `p_id=` references. Asserting zero
+    fails on a correct page, which is its own kind of useless check.
+    """
+    def ids(**params):
+        body = client.get("/search/index", params=params).text
+        return set(re.findall(r"p_id=(\d+)", body))
+
+    baseline = ids(keyword="zzzzqqqxnothing")          # nothing matches at all
+    unfiltered = ids(keyword="hdmi cable")
+    impossible = ids(keyword="hdmi cable", v_Color_uFilter="@@nosuchcolor@@")
+
+    assert len(unfiltered) > len(baseline), "the unfiltered search found nothing"
+    assert impossible == baseline, (
+        f"an unmatchable facet returned {len(impossible) - len(baseline)} "
+        f"products beyond the page's own chrome, so the parameter was dropped "
+        f"rather than applied")
+
+
+def test_product_tab_panels_carry_content(client):
+    """The tabs are most of a product page's text.
+
+    They were missed entirely by the first endpoint inventory because
+    `mp_productPage_more.js` writes their URL as `tabUrl:` rather than `url:`.
+    Without them the product page rendered 920 characters against the source's
+    7,134.
+    """
+    tab3 = client.get("/Product/GetTab3",
+                      params={"p_id": "39165", "cust_review": ""}).text
+    assert len(tab3) > 1000, (
+        f"GetTab3 returned {len(tab3)} bytes for a product that has "
+        f"specifications on the source. This is the specifications panel.")
+    for tab in ("/Product/GetTab1", "/Product/GetTab5"):
+        body = client.get(tab, params={"p_id": "39165", "cust_review": ""}).text
+        assert len(body) > 100, f"{tab} returned {len(body)} bytes"
+
+
+def test_product_page_triggers_its_own_content_fills(client):
+    """The call that starts the fills must survive third-party stripping.
+
+    `productPageStuff.initialize({...,"unbxdVersion":2})` contains the substring
+    `unbxd`, which is a third-party host hint, and the stripper was testing that
+    hint against the whole text of every inline script. It deleted the site's
+    own trigger, so no product page filled anything -- no recommendations, no
+    tabs -- while the scripts that do the filling were still loaded.
+    """
+    body = client.get("/product", params={"p_id": "39165"}).text
+    assert "productPageStuff.initialize" in body, (
+        "the product page no longer calls productPageStuff.initialize, so none "
+        "of its content fills will run")
+    assert "unbxdVersionValue" in body, (
+        "the unbxdVersionValue declaration is gone; initialize() guards the "
+        "recommendation fills on it matching")
+    assert "mp_productPage_more" in body, "the filler script is not loaded"
+
+    # The template is cut from one donor product, so the trigger arrives with
+    # the donor's id baked into it. If the substitution missed it, every
+    # template-rendered product would fetch the donor's recommendations and the
+    # donor's specifications -- under its own name, which looks correct.
+    call = re.search(r"productPageStuff\.initialize\(\s*(\{[^}]*\})", body)
+    assert call, "could not read the initialize() arguments"
+    assert '"p_id":"39165"' in call.group(1).replace(" ", ""), (
+        f"the product page triggers its fills with {call.group(1)[:80]} -- that "
+        f"is not this product's id, so it would show another product's tabs")

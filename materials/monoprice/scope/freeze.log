@@ -1,8 +1,8 @@
 {
   "schema_version": "monoprice.frozen-pages.v1",
   "pages_written": 5995,
-  "stored_bytes": 223928340,
-  "uncompressed_bytes": 1837824672,
+  "stored_bytes": 225922074,
+  "uncompressed_bytes": 1842673819,
   "error_pages": {
     "_error/absent-product": "https://www.monoprice.com/product/index?c_id=105&cp_id=10509&cs_id=1050902&format=2&p_id=3359&seq=1",
     "_error/not-found": "https://www.monoprice.com/home/news_detail.asp?news_id=177"
@@ -50,6 +50,8 @@
     "runtime_stylesheets_injected": 4815,
     "same_host_absolute_made_relative": 30,
     "script_removed": 53706,
+    "search_submit_fix_injected": 2660,
+    "stripped_globals_shim_injected": 5997,
     "third_party_reference_removed": 19528,
     "value_skipped_looks_like_a_mime_type": 156
   },
@@ -60,5 +62,4 @@
     "https://images.monoprice.com/cms_images/201127_wall_mount_finder_bg_1300x200.jpg",
     "https://images.monoprice.com/cms_images/250307_B2B_Homepage_.jpg",
     "https://images.monoprice.com/cms_images/260113_BackInStock_.jpg",
-    "https://images.monoprice.com/cms_images/260701_cables_.jpg",
-    "https://images.monoprice.com/cms_images/260708_best_se
+    "https://images.monoprice.com/cms_ima
