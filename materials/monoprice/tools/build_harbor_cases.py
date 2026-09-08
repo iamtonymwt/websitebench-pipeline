@@ -43,6 +43,7 @@ import hashlib
 import json
 import pathlib
 import random
+import re
 import sys
 import urllib.parse
 
@@ -50,6 +51,31 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from browser_session import attach  # noqa: E402
 
 LOCAL_HOSTS = {"127.0.0.1", "localhost", "[::1]"}
+
+
+def satisfies(value, comparator: dict) -> bool:
+    """Does this observed value satisfy the comparator the case declares?
+
+    The prover used to check only that two runs agreed, which is determinism,
+    not correctness. Fourteen search cases were "proven" while asserting the
+    results URL contained /search/index -- and the search never navigated, so
+    both runs read "/" , agreed, and passed. capture-reference rejected the
+    first one it reached.
+
+    Harbor's regex comparator is `re.fullmatch`, so this uses fullmatch too. A
+    prover looser than the real runner is worth less than no prover.
+    """
+    kind = comparator["type"]
+    if kind == "regex":
+        return re.fullmatch(comparator["pattern"], "" if value is None else str(value),
+                            re.S) is not None
+    if kind == "number":
+        return isinstance(value, (int, float)) and not isinstance(value, bool)
+    if kind == "normalized_exact":
+        return isinstance(value, str) and value.strip() != ""
+    if kind == "exact":
+        return value is not None
+    return True
 QUOTA = {"T1": 20, "L1": 35, "L2": 50, "L3": 80, "T3": 15}
 
 # Task ids are lowercase, dot/underscore/hyphen separated. Case ids are laxer,
@@ -159,8 +185,11 @@ def build_candidates(cat: Catalogue) -> dict[str, list[dict]]:
             "actions": [{"op": "goto", "path": path}],
             "observations": [
                 observe("page_url", "url", contains(path.split("?")[0])),
+                # nth: 0 because <title> is not unique here. The source's own
+                # category-hub markup carries two of them in <head> -- one real,
+                # one empty -- and Playwright's strict mode refuses the pair.
                 observe("page_title", "text", {"type": "regex", "pattern": "(?is).{3,}"},
-                        selector=css("title")),
+                        selector=css("title", nth=0)),
             ],
             "_path": path,
             "_settle": True,
@@ -174,7 +203,7 @@ def build_candidates(cat: Catalogue) -> dict[str, list[dict]]:
             "actions": [{"op": "goto", "path": product["url_path"]}],
             "observations": [
                 observe("product_name", "text", contains(product["name"][:40]),
-                        selector=css("title")),
+                        selector=css("title", nth=0)),
                 observe("add_to_cart_present", "count", NUMBER,
                         selector=css('form[action="/cart"]')),
             ],
@@ -205,8 +234,20 @@ def build_candidates(cat: Catalogue) -> dict[str, list[dict]]:
             "timeout_sec": 120,
             "actions": [
                 {"op": "goto", "path": "/"},
-                {"op": "fill", "selector": css("#keyword"), "value": term},
-                {"op": "press", "selector": css("#keyword"), "value": "Enter"},
+                {"op": "fill",
+                 "selector": css('form[action="/search/index"] input[name="keyword"]'),
+                 "value": term},
+                # Press Enter, not click. The form's only submit button is the
+                # hidden close-icon the page shell brings, so clicking it waits
+                # forever -- which is what happened to all 14 of these. Enter is
+                # also how a person searches, and the clone now navigates on it:
+                # the source hands the keypress to a third-party bundle that
+                # does the navigating, and with that bundle stripped the box was
+                # dead until the freezer restored the navigation the form
+                # already declares.
+                {"op": "press",
+                 "selector": css('form[action="/search/index"] input[name="keyword"]'),
+                 "value": "Enter"},
             ],
             "observations": [
                 observe("results_url", "url", contains("/search/index")),
@@ -222,8 +263,21 @@ def build_candidates(cat: Catalogue) -> dict[str, list[dict]]:
             "timeout_sec": 120,
             "actions": [
                 {"op": "goto", "path": product["url_path"]},
-                {"op": "api", "method": "POST", "path": "/cart",
-                 "body": {"p_id": product["p_id"], "qty": "1"}},
+                # Click the real control. The previous version used an `api`
+                # action to POST /cart directly, which was a shortcut past the
+                # thing under test -- and it hid a live defect: the site's own
+                # script posts to `/Cart`, capital C, which the clone answered
+                # 404. The button was dead while every test that POSTed to
+                # /cart passed.
+                {"op": "click", "selector": css("#addtocartqty")},
+                # The control posts asynchronously and the page does not
+                # navigate, so going straight to /cart raced the request: two
+                # runs disagreed on whether the cart held the item, which is the
+                # prover reporting a real race rather than flakiness. Wait for
+                # the mini-cart to show the line before moving on.
+                {"op": "wait_for",
+                 "selector": css(f'li[data-p-id="{product["p_id"]}"]'),
+                 "state": "attached", "timeout_ms": 20000},
                 {"op": "goto", "path": "/cart"},
             ],
             "observations": [
@@ -242,8 +296,10 @@ def build_candidates(cat: Catalogue) -> dict[str, list[dict]]:
                                 ("sandbox-declined", "declined")):
             actions = [
                 {"op": "goto", "path": product["url_path"]},
-                {"op": "api", "method": "POST", "path": "/cart",
-                 "body": {"p_id": product["p_id"], "qty": "2"}},
+                {"op": "click", "selector": css("#addtocartqty")},
+                {"op": "wait_for",
+                 "selector": css(f'li[data-p-id="{product["p_id"]}"]'),
+                 "state": "attached", "timeout_ms": 20000},
                 {"op": "goto", "path": "/checkout"},
                 # Scoped to the checkout form. `button[type="submit"]` matches
                 # four elements on this page -- the source's own page shell
@@ -423,6 +479,10 @@ class Prover:
                 }""",
                 {"path": action["path"], "method": action.get("method", "GET"),
                  "body": action.get("body")})
+        elif op == "wait_for":
+            state = action.get("state", "attached")
+            page.locator(action["selector"]["css"]).first.wait_for(
+                state=state, timeout=action.get("timeout_ms", 30_000))
         elif op == "reload":
             page.reload(wait_until="domcontentloaded", timeout=60_000)
         else:
@@ -441,10 +501,17 @@ class Prover:
         if kind == "visible":
             return locator.first.is_visible()
         if kind == "text":
-            if obs["selector"]["css"] == "title":
-                return page.title()
-            # Playwright is strict: a single-value read needs exactly one match.
-            if locator.count() != 1:
+            # No special cases. This read used to shortcut `title` to
+            # page.title(), which is not what Harbor's runner does -- it
+            # evaluates the locator strictly. So the prover was *more lenient
+            # than the thing it is meant to predict*, and passed 20 cases whose
+            # selector matched two <title> elements; capture-reference rejected
+            # the first one it reached.
+            #
+            # A prover that is looser than the real runner is worth less than no
+            # prover: it converts a failure that would have been caught in
+            # seconds into one found after every case was written.
+            if "nth" not in obs["selector"] and locator.count() != 1:
                 raise RuntimeError(
                     f"selector matched {locator.count()} elements, needs exactly 1")
             return locator.inner_text()
@@ -560,6 +627,12 @@ def main() -> int:
     ap.add_argument("--seed", type=int, default=20260905)
     ap.add_argument("--proven", default="scope/harbor-proven.json",
                     help="cases already proven, so a crash does not discard them")
+    ap.add_argument("--fresh", action="store_true",
+                    help="ignore the proven cache and re-prove everything. "
+                         "REQUIRED after any change to the clone's behaviour: "
+                         "the cache is keyed on the task's own bytes, so a task "
+                         "that is textually unchanged is reused even though the "
+                         "thing it was proving has changed underneath it.")
     args = ap.parse_args()
 
     site_dir = pathlib.Path(__file__).resolve().parent.parent
@@ -572,9 +645,19 @@ def main() -> int:
     # on the next run. A task is only reused if it is byte-identical to the
     # candidate generated now: change a selector and it is re-proven, which is
     # the point.
+    # The cache is keyed on the task's bytes, which makes it correct for its
+    # purpose (a crashed page must not discard half an hour of proving) and
+    # dangerous for a different one: after the clone's *behaviour* changes, every
+    # task is still byte-identical, so a full run would replay the cache and
+    # report "200 proven" without having exercised the fix at all. That is the
+    # same shape as every other trap on this site -- a result that cannot be
+    # told apart from the check never having run. Hence --fresh.
     proven_path = pathlib.Path(args.proven)
     previously: dict[str, dict] = {}
-    if proven_path.exists():
+    if args.fresh:
+        print("--fresh: ignoring the proven cache, re-proving every case "
+              "against the clone as it behaves now")
+    elif proven_path.exists():
         for row in json.loads(proven_path.read_text(encoding="utf-8"))["tasks"]:
             previously[row["fingerprint"]] = row["task"]
         print(f"resuming: {len(previously)} cases already proven")
@@ -623,6 +706,17 @@ def main() -> int:
                     if second["error"]:
                         dropped.append({"id": task["id"],
                                         "why": f"second run: {second['error']}"})
+                        continue
+                    unsatisfied = [
+                        obs["id"] for obs in task["observations"]
+                        if not satisfies(first["values"].get(obs["id"]),
+                                         obs["comparator"])]
+                    if unsatisfied:
+                        dropped.append({
+                            "id": task["id"],
+                            "why": f"observation does not satisfy its comparator: "
+                                   f"{unsatisfied} got "
+                                   f"{ {k: first['values'].get(k) for k in unsatisfied} }"})
                         continue
                     if first["values"] != second["values"]:
                         differing = [k for k in first["values"]

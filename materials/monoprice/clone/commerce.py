@@ -202,3 +202,27 @@ payment sandbox.</div>{SANDBOX_NOTE}
 </table>
 <p><a class="wb-btn" href="/">Continue shopping</a></p>"""
     return chrome("Order Confirmation - Monoprice.com", body)
+
+
+def minicart_fragment(lines: list[dict], count: int, total: float,
+                      currency: str) -> str:
+    """The `miniCart` string the site's script renders into the header.
+
+    One of the four keys minicart.js reads off the response. Its markup is this
+    project's own -- /cart is under a robots Disallow rule, so there is no copy
+    of the source's flyout to reproduce -- but the *key*, and the fact that it
+    carries markup, are read from the caller.
+    """
+    if not lines:
+        return ('<div class="wb-minicart" data-cart-count="0">'
+                '<p class="wb-muted">Your cart is empty.</p></div>')
+    rows = "".join(
+        f'<li data-p-id="{esc(line["p_id"])}">'
+        f'<a href="/product?p_id={esc(line["p_id"])}">{esc(line["name"])}</a>'
+        f' &times; {line["quantity"]} '
+        f'<span>{money(line["line_total"], line["currency"])}</span></li>'
+        for line in lines)
+    return (f'<div class="wb-minicart" data-cart-count="{count}">'
+            f"<ul>{rows}</ul>"
+            f'<p data-minicart-total>Subtotal {money(total, currency)}</p>'
+            f'<p><a class="wb-btn" href="/cart">View cart</a></p></div>')

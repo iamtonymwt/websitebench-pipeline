@@ -93,23 +93,140 @@ products that 404.
 Reads `data/catalogue.json`, so **step 3 must have run against the current
 capture.** Both are easy to skip and neither omission fails anything.
 
-## Not yet written
+## 5. Patch served assets
 
-Steps below this line are still to come; they are listed so the order is decided
-before the tools exist rather than after.
+    python3 tools/patch_served_assets.py --assets-dir source-assets \
+      --report scope/served-asset-patch.json
 
-5. `patch_served_scripts.py` — anything the page assembles at run time that a
-   static rewrite cannot reach. **Must re-run after any step that copies assets
-   over the served tree.**
-6. Derived pages: page shell and product detail template, both cut from frozen
-   pages, so both are stale until step 4 has run.
-7. Gates: link closure, remote requests, **same-origin failures**, control
-   surface, secret scan, `ruff`. The same-origin census is not optional here:
-   Google Analytics is proxied through the first-party path `/securemetrics/`,
-   so a remote-request audit is structurally blind to it.
-8. Harbor.
+Rewrites absolute references that live *inside* served CSS and JS. **Must re-run
+after any step that copies assets over the served tree**, or the tree holds a mix
+of patched and unpatched files and nothing says so.
 
-## The two traps this site has that the gates cannot see
+This step is why step 4 strips Subresource Integrity: rewriting a file's bytes
+invalidates the `integrity` hash the page declares for it, and a browser silently
+discards a stylesheet whose hash does not match. See the trap section below.
+
+## 5b. Content-fill fragments
+
+    python3 tools/capture_fragments.py probe                      # look first
+    python3 tools/capture_fragments.py run --catalogue data/catalogue.json \
+      --report scope/fragments.json
+    python3 tools/build_frozen_fragments.py --fragments scope/fragments.json \
+      --assets-dir source-assets --catalogue data/catalogue.json \
+      --out-root clone/static/fragments --report scope/frozen-fragments.json
+
+Six first-party endpoints fill visible content *after* load, and the filler in
+`mp_homepage.js` / `mp_productPage_more.js` hides the container **before** the
+request and reveals it only on success. So an endpoint that does not answer does
+not degrade the page — it deletes a section of it permanently.
+
+The clone answered none of them. `/home/*` returned 404; the three `/product/*`
+ones were swallowed by the catch-all, which saw `p_id` and returned the entire
+407 KB product page for injection into a carousel. The source shows 35 product
+tiles on a product page and the clone showed 1; the source renders 9,264
+characters of home page and the clone rendered 3,678.
+
+`probe` before `run`: it measures which endpoints vary per product. Only
+`GetCustomersAlsoShoppedFor` does. Fetching all three per product would have
+meant 11,577 requests to the source for 3,859 distinct answers and two
+constants.
+
+Fragments must be localised (step 5b's second command) before being served.
+They are injected at run time, so a fragment full of `images.monoprice.com`
+URLs puts remote requests back into pages that currently make none — and the
+remote-request audit, which measures page load, would keep reporting 0.
+
+## 5c. The variant map
+
+    python3 tools/build_variant_map.py --frozen-root clone/static/frozen \
+      --catalogue data/catalogue.json --out clone/static/variant-map.json \
+      --report scope/variant-map.json
+
+Product pages carry a `Length:` / `Color:` chooser whose options hold **no
+product id** — the source resolves the combination server-side, at
+`/product/selectpid`. So the map is derived offline: the clicked value replaces
+the currently selected value in the product's name, and the result must match a
+catalogue product name **exactly**. 3,807 of 4,720 selectable options resolve
+that way (80.7%); the other 913 are listed in the report and deliberately left
+out of the map.
+
+Unresolved options return the *current* product unchanged. Guessing a
+neighbouring product would be worse than doing nothing, because a wrong product
+under the right variant label looks correct.
+
+Reads frozen pages, so it comes after step 4. Only the 600 products with a
+frozen body have a chooser at all — the detail template carries none, so the
+3,257 template-rendered products show no variant control, which matches their
+donor.
+
+## 6. Derived pages — RE-RUN THESE AFTER EVERY FREEZER CHANGE
+
+    python3 tools/extract_page_shell.py --page clone/static/frozen/about-us.html.gz \
+      --out clone/static/page-shell.html --report scope/page-shell.json
+    python3 tools/extract_detail_template.py --frozen-root clone/static/frozen \
+      --catalogue data/catalogue.json --out clone/static/detail-template.html \
+      --report scope/detail-template.json
+    python3 tools/extract_search_template.py --frozen-root clone/static/frozen \
+      --catalogue data/catalogue.json --out clone/static/search-template.json \
+      --report scope/search-template.json
+
+**There are three of them, and the third is easy to miss.** The search template
+is `search-template.json`, not `.html`; a check written for `*.html` reports two
+clean artifacts and never looks at it. That is exactly what happened — the shell
+and the detail template were re-cut, search was not, and the search page kept
+hiding all 316 of its results.
+
+All three are **cut out of frozen pages**, so all three carry whatever the
+freezer was doing on the day they were cut. Editing `build_frozen_pages.py` and
+re-freezing does not update them, and **no gate in step 7 detects the
+mismatch** — they are first-party local files, so link closure, remote requests,
+the same-origin census and the test suite all pass on artifacts that are weeks
+of fixes behind.
+
+This is not hypothetical. The freezer was fixed to stop rewriting `type="text/css"`
+into `type="/text/css"`; the frozen pages were correct afterwards and the shell
+was not re-cut. Every page rendered from the shell — cart and checkout — kept
+serving a `<link>` the browser refuses to apply, and lost six stylesheets
+including `js_megamenu.css` and `mp-global.css`. The header rendered 19,844px
+tall with the megamenu fully expanded. Nothing failed. It was found by a person
+opening the page.
+
+If you change the freezer, re-run this step. Treat it as part of step 4.
+
+## 7. Gates
+
+    python3 tools/audit_runtime.py --port <port> --report scope/runtime-audit.json
+    python3 tools/audit_visible.py --port <port> --report scope/visible-audit.json
+    python3 -m pytest clone/tests -q
+    ruff check tools clone
+
+`audit_visible.py` is the one that answers "does this look right", and it is the
+only gate here that compares against the source page rather than against a
+threshold written by hand. It measures page height, visible text length, visible
+product-tile count, CSS rules in force, stylesheets that never applied, and
+images that are broken *and* visible — then flags each family by its ratio to
+the source. Run it after any change to the freezer, the shell, or the app's
+rendering.
+
+Link closure, remote requests, **same-origin failures**, control surface, secret
+scan, `ruff`. The same-origin census is not optional here: Google Analytics is
+proxied through the first-party path `/securemetrics/`, so a remote-request audit
+is structurally blind to it.
+
+**These gates measure references, not rendering.** All of them passed on a
+category page that carried 165 product links and displayed none of them. If you
+change anything in the freezer or the shell, look at a page from each family with
+your eyes, and measure *visible* content — see the third trap below.
+
+## 8. Harbor
+
+    python3 tools/build_harbor_cases.py candidates ...
+    python3 tools/build_harbor_cases.py prove ...
+
+Case actions are proven against the running clone, so **every proven case is
+invalidated by a behaviour fix.** Re-prove after step 6.
+
+## The traps this site has that the gates cannot see
 
 **Status code carries no signal.** An absent product answers **200** with the
 title `Products no longer Available` and a fixed 380,458-byte body. An unknown
@@ -121,3 +238,90 @@ content.
 page-load audit can see it, because it only fires when someone types. The clone
 answers it locally; the Harbor case generator must reject any candidate that
 leaves loopback, which is how the identical defect was caught on the last site.
+
+**Third-party scripts own the visibility of first-party markup.** HawkSearch
+serves every listing with *both* result containers hidden and lets its hosted
+script reveal the right one:
+
+    <div style="padding-top: 15px; display: none;" id="existresult">   results
+    <div style="... display: none; ..."            id="noresult">      empty state
+
+That script is third-party and stripped, so neither was ever revealed. A category
+page held 165 product links and showed none; a search page held 316 and showed
+none. Markup complete, references closed, zero remote requests, zero same-origin
+failures, 4,910 CSS rules in force — and a blank page. The freezer now makes that
+decision from a fact the page itself carries (whether it has `p_id=` tiles).
+
+The general form: **stripping a third party can leave first-party content
+present but unreachable.** The same site already did this twice with globals —
+`dataLayer` from GTM and `_satellite` from Adobe Launch, both called by the
+site's own add-to-cart chain. Removing a script removes its side effects, and
+some of those side effects were load-bearing.
+
+**Subresource Integrity outlives the bytes it describes.** Webflow pages declare
+`integrity="sha384-..."` on their stylesheets. Step 5 rewrites URLs inside those
+files, so the hash stops matching and the browser drops the sheet — status 200,
+no request to anywhere, no console error the audit was watching for. The Webflow
+page rendered with 1,079 CSS rules against 4,910 on its siblings. Step 4 strips
+the attribute rather than recomputing it: a hash recomputed over our own rewrite
+asserts nothing.
+
+**Measure visible content, not present content.** Every check written during this
+run answered "is it there?" and the four defects a person found were all "it is
+there and you cannot see it". The probe that actually finds this class asks the
+browser for: page height, `innerText` length, count of product links *whose
+bounding box is non-zero*, `document.styleSheets` rule totals per family, and
+count of images that are broken *and* visible. Compare those numbers **across
+page families** — a single page's numbers look plausible in isolation, and it was
+only cart's 2,418 rules next to product's 5,684 that showed anything was wrong.
+
+**When patching a tool with a script, use raw strings.** A patch applied through
+a normal Python string turned the `\b` in a new regex into a literal backspace
+byte. The file looked right in an editor, `ruff` passed, the pattern compiled —
+and it matched nothing, so the new fix silently did not run while reporting
+success. Half the wasted time on this site came from checks that could not
+distinguish "passed" from "never executed".
+
+**Hidden-until-revealed is this site's signature failure.** Four separate
+mechanisms in this codebase render content that is present and invisible, and
+all four were introduced by removing a third party or by failing to answer a
+request:
+
+| what | who was supposed to reveal it | what it cost |
+|---|---|---|
+| `#existresult` / `#noresult` | HawkSearch's hosted script | category showed 0 of 165 tiles, search 0 of 316 |
+| `#AlsoBought`, `#RecommandationsForYou`, `.home-layer3`, `.home-layer7` | the site's own AJAX, hidden before the call | product 1 tile vs 35; home 3,678 chars vs 9,264 |
+| every stylesheet on cart/checkout | nothing — a damaged `type` attribute | 19,844px header, megamenu fully open |
+| the Webflow main stylesheet | nothing — a stale SRI hash | 1,079 CSS rules against 4,910 |
+
+When something looks empty on this site, the first question is not "did we
+capture it" — it usually is captured. The question is "what was supposed to
+turn it on".
+
+## The first-party endpoint inventory
+
+Every `url:` literal in the site's own served scripts, and what the clone does
+with it. This list was worth building: six of the fifteen fill visible content
+and all six were unanswered, and the only way to find them was to read the
+scripts, because none of them is referenced statically in any page.
+
+| endpoint | clone | note |
+|---|---|---|
+| `/home/getRecommendationsForYou` | captured fragment | fills `.home-layer3`, 12 tiles |
+| `/home/getTopSellers` | captured fragment | 16 tiles |
+| `/home/getRecentlyViewed` | empty, as the source | session history; empty on the source too |
+| `/product/GetCustomersAlsoShoppedFor` | captured per product | the only per-product one |
+| `/product/getrecommendationsforyou` | captured once | identical for every product |
+| `/product/getrecentlyviewed` | empty, as the source | |
+| `/product/selectpid` | variant map, 80.7% resolved | claim cl-019 |
+| `/cart` | implemented | |
+| `/MyAccount/GetContactList` | not reproduced | claim cl-020 |
+| `/MyAccount/CreateUpdateContact` | not reproduced | claim cl-020 |
+| `/QAS/ValidZipcodeByState` | not reproduced | claim cl-020 |
+| `/Home/EmailSubcription` | not reproduced | claim cl-020 |
+| `//player.vimeo.com/...`, `//vimeo.com/api/...`, `//$1/p/$2/media/` | third party | stripped |
+
+To regenerate the list:
+
+    grep -rhoE "url:\s*[\"'](/[^\"']{3,70})[\"']" \
+      source-assets/www.monoprice.com/assets/js/*.js | sort -u

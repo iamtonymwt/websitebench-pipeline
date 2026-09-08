@@ -36,6 +36,7 @@ import gzip
 import hashlib
 import json
 import pathlib
+import re
 import secrets
 import sqlite3
 import sys
@@ -371,46 +372,89 @@ def serve_image_host_path(full_path: str, request: Request) -> Response:
 # The mini-cart the header asks for on every page
 # --------------------------------------------------------------------------- #
 
-@app.get("/cart/minicart")
-def minicart(request: Request) -> Response:
-    """The header's cart flyout.
+def minicart_payload(request: Request) -> dict[str, Any]:
+    """The mini-cart, in the shape the site's own script reads.
 
-    The source fetches this on every page load -- it was answering 404 on 27 of
-    60 audited routes. The markup is this project's own, for the same reason the
-    cart page is: /cart is under a robots Disallow rule.
+    This used to return an HTML fragment. That was a guess, and the guess broke
+    the Add to Cart button. minicart.js does:
+
+        jQuery.post('/Cart', {p_id, qty})
+          .then(() => jQuery.getJSON('/cart/minicart'))
+          .then(results => { MPI.ee.cacheCartItems(results.items);
+                             render(results); })
+
+    `getJSON` on an HTML body rejects, so the chain stopped after the POST: the
+    item was added and nothing else happened -- no mini-cart update, no
+    navigation. The four keys below (`items`, `itemCount`, `subTotal`,
+    `miniCart`) are the four the caller reads, and the per-item field names come
+    from CART_ITEM_FIELDS in the site's own enhanced-ecommerce.js. None of it is
+    invented: a shaped response is only safe when the shape was read out of the
+    caller's code.
     """
     cart_id = cart_id_from(request)
     lines = cart_lines(cart_id) if cart_id else []
+    items = []
+    for line in lines:
+        image = None
+        with connection() as conn:
+            conn.row_factory = sqlite3.Row
+            row = conn.execute(
+                "SELECT url FROM product_images WHERE p_id = ? ORDER BY position "
+                "LIMIT 1", (line["p_id"],)).fetchone()
+        if row:
+            image = local_image_url(row["url"])
+        items.append({
+            "uid": line["p_id"],
+            "id": line["p_id"],
+            "productID": line["p_id"],
+            "name": line["name"],
+            "brand": "Monoprice",
+            "price": line["price"],
+            "quantity": line["quantity"],
+            "productImageUrl": image or "",
+            "productPageUrl": f"/product?p_id={line['p_id']}",
+            "discountedPriceTotal": line["line_total"],
+        })
     count = sum(line["quantity"] for line in lines)
     total = round(sum(line["line_total"] for line in lines), 2)
-    if not lines:
-        body = ('<div class="wb-minicart" data-cart-count="0">'
-                '<p class="wb-muted">Your cart is empty.</p></div>')
-    else:
-        rows = "".join(
-            f'<li data-p-id="{commerce.esc(line["p_id"])}">'
-            f'<a href="/product?p_id={commerce.esc(line["p_id"])}">'
-            f'{commerce.esc(line["name"])}</a> &times; {line["quantity"]} '
-            f'<span>{commerce.money(line["line_total"], line["currency"])}</span>'
-            "</li>" for line in lines)
-        body = (f'<div class="wb-minicart" data-cart-count="{count}">'
-                f"<ul>{rows}</ul>"
-                f'<p data-minicart-total>Subtotal '
-                f'{commerce.money(total, lines[0]["currency"])}</p>'
-                f'<p><a class="wb-btn" href="/cart">View cart</a></p></div>')
-    return Response(content=body, media_type="text/html; charset=utf-8")
+    currency = lines[0]["currency"] if lines else "USD"
+    return {"items": items, "itemCount": count,
+            "subTotal": commerce.money(total, currency),
+            "miniCart": commerce.minicart_fragment(lines, count, total, currency)}
+
+
+@app.get("/cart/minicart")
+def minicart(request: Request) -> JSONResponse:
+    return JSONResponse(minicart_payload(request))
+
+
+@app.post("/cart/minicart")
+async def minicart_remove_line(request: Request) -> JSONResponse:
+    """Removing a line. The script posts `ca_idx=<cart item id>` to this path.
+
+    Same path for read and remove is the site's own arrangement, read from
+    minicart.js rather than chosen here.
+    """
+    form = await request.form()
+    target = (form.get("ca_idx") or form.get("p_id") or "").strip()
+    cart_id = cart_id_from(request)
+    if cart_id and target:
+        with _state["backend"].lifecycle.connection(transaction=True) as conn:
+            conn.execute("DELETE FROM cart_lines WHERE cart_id=? AND p_id=?",
+                         (cart_id, target))
+    return JSONResponse(minicart_payload(request))
 
 
 @app.post("/minicart/removeitem")
-async def minicart_remove(request: Request) -> Response:
+async def minicart_remove(request: Request) -> JSONResponse:
     form = await request.form()
-    pid = (form.get("p_id") or form.get("productId") or "").strip()
+    target = (form.get("p_id") or form.get("ca_idx") or "").strip()
     cart_id = cart_id_from(request)
-    if cart_id and pid:
+    if cart_id and target:
         with _state["backend"].lifecycle.connection(transaction=True) as conn:
             conn.execute("DELETE FROM cart_lines WHERE cart_id=? AND p_id=?",
-                         (cart_id, pid))
-    return minicart(request)
+                         (cart_id, target))
+    return JSONResponse(minicart_payload(request))
 
 
 # --------------------------------------------------------------------------- #
@@ -485,7 +529,33 @@ def search_page(request: Request) -> Response:
             .replace("@@WB_QUERY@@_PLUS", urllib.parse.quote_plus(keyword))
             .replace("@@WB_QUERY@@_UPPER", html_escape(keyword.upper()))
             .replace("@@WB_QUERY@@", html_escape(keyword)))
+    page = choose_results_container(page, bool(tiles))
     return Response(content=page, media_type="text/html; charset=utf-8")
+
+
+# HawkSearch hides both result containers in the served markup and lets its
+# hosted script reveal the right one. The freezer makes that choice for a frozen
+# listing, but a search page is assembled here per query, so the choice has to
+# be made here too -- from the one thing the freezer cannot know, which is
+# whether *this* query matched anything.
+#
+# Skipping this was how the clone showed a blank page for `hdmi cable` while
+# holding 316 matching product links in the DOM.
+_EXISTRESULT = re.compile(
+    r"""(<div\b[^>]*\bid\s*=\s*["']existresult["'][^>]*>)""", re.I)
+_NORESULT = re.compile(
+    r"""(<div\b[^>]*\bid\s*=\s*["']noresult["'][^>]*>)""", re.I)
+_DISPLAY = re.compile(r"display\s*:\s*(?:none|block)\s*;?", re.I)
+
+
+def choose_results_container(page: str, has_results: bool) -> str:
+    """Show the results table, or the source's own empty state -- never both."""
+    def set_display(pattern: re.Pattern, visible: bool, html: str) -> str:
+        want = "display: block;" if visible else "display: none;"
+        return pattern.sub(lambda m: _DISPLAY.sub(want, m.group(1)), html, count=1)
+
+    page = set_display(_EXISTRESULT, has_results, page)
+    return set_display(_NORESULT, not has_results, page)
 
 
 @app.get("/api/suggest")
@@ -837,12 +907,269 @@ DECLARED_ABSENT = (
 )
 
 
+# --------------------------------------------------------------------------- #
+# Content fills: the fragments the page injects into hidden containers
+# --------------------------------------------------------------------------- #
+#
+# Both `mp_homepage.js` and `mp_productPage_more.js` run the same loop:
+#
+#     $(item.outerContainerSelector).hide();                 // hide first
+#     $.ajax({url: item.url + "?p_id=" + p_id + ...,
+#              success: function (data) {
+#                  $(item.innerContainerSelector).html(data);
+#                  ...
+#              }});
+#
+# The container is hidden *before* the request and revealed only on success, so
+# an endpoint that does not answer leaves it hidden forever. That is what
+# happened: `/home/*` answered 404, and the three `/product/*` ones fell through
+# to the catch-all, which recognised `p_id` and returned the entire 407 KB
+# product page for injection into a carousel. Visible result was the source
+# showing 35 product tiles on a product page against the clone's 1, and the
+# source rendering 9,264 characters of home page against the clone's 3,678.
+#
+# These routes must be declared BEFORE the catch-all. Declaration order is what
+# decides the match, and the catch-all claiming `/product/...` is precisely how
+# three of them came to return a whole page.
+FRAGMENT_ROOT = CLONE_DIR / "static" / "fragments"
+
+
+def _fragment_index() -> dict:
+    index = _state.get("fragment_index")
+    if index is None:
+        path = FRAGMENT_ROOT / "index.json"
+        index = (json.loads(path.read_text(encoding="utf-8"))["fragments"]
+                 if path.exists() else {})
+        _state["fragment_index"] = index
+    return index
+
+
+def fragment_response(key: str) -> Response:
+    """Serve one localised fragment, or an empty body the way the source does.
+
+    An empty answer is a real answer here and is not the same as a missing one:
+    the source returns nothing for `GetCustomersAlsoShoppedFor` on products with
+    no such data, and nothing for either `getRecentlyViewed` when the session
+    has no history. Both were measured, not assumed. Answering 200 with an empty
+    body reproduces the source; answering 404 would leave the container hidden.
+    """
+    entry = _fragment_index().get(key)
+    if entry is None or entry.get("empty") or not entry.get("file"):
+        return Response(content="", media_type="text/html; charset=utf-8")
+    path = FRAGMENT_ROOT / entry["file"]
+    if not path.exists():
+        return Response(content="", media_type="text/html; charset=utf-8")
+    with gzip.open(path, "rb") as fh:
+        body = fh.read().decode("utf-8", "replace")
+    return Response(content=body, media_type="text/html; charset=utf-8")
+
+
+@app.get("/home/getRecommendationsForYou")
+def home_recommendations() -> Response:
+    return fragment_response("/home/getRecommendationsForYou")
+
+
+@app.get("/home/getTopSellers")
+def home_top_sellers() -> Response:
+    return fragment_response("/home/getTopSellers")
+
+
+@app.get("/home/getRecentlyViewed")
+def home_recently_viewed() -> Response:
+    # Empty on the source for a session with no history, including the warmed
+    # session that had already browsed product pages. Serving the captured
+    # empty body rather than inventing a filled strip: the markup for a filled
+    # one was never observed, and inventing tile markup is how a page ends up
+    # with class names no stylesheet in the clone styles.
+    return fragment_response("/home/getRecentlyViewed")
+
+
+@app.get("/product/GetCustomersAlsoShoppedFor")
+def product_also_shopped(p_id: str = "", cust_review: str = "") -> Response:
+    return fragment_response(
+        f"/product/GetCustomersAlsoShoppedFor?p_id={p_id}")
+
+
+@app.get("/product/getrecommendationsforyou")
+def product_recommendations(p_id: str = "", cust_review: str = "") -> Response:
+    # Measured identical across every product sampled, so one captured copy
+    # serves all of them rather than 3,859 identical files.
+    return fragment_response("/product/getrecommendationsforyou")
+
+
+@app.get("/product/getrecentlyviewed")
+def product_recently_viewed(p_id: str = "", cust_review: str = "") -> Response:
+    return fragment_response("/product/getrecentlyviewed")
+
+
+# --------------------------------------------------------------------------- #
+# The variant chooser
+# --------------------------------------------------------------------------- #
+#
+# Clicking `3ft` on a product page POSTs {vals, PID, changedVal} here and
+# expects JSON partials for the product that combination identifies. The markup
+# carries no product id for any option, so `tools/build_variant_map.py` resolves
+# them offline by name substitution and the map is checked against the
+# catalogue: 3,807 of 4,720 selectable options resolve exactly.
+#
+# Getting this wrong is not quiet. The site's own error branch is
+#
+#     error: function () { mpSpinner.hide();
+#                          location.href = '/StaticContent/generalerror'; }
+#
+# and a 200 whose `descPartialView` is empty takes the same path, so before this
+# existed, clicking any variant navigated the visitor to an error page.
+VARIANT_MAP_PATH = CLONE_DIR / "static" / "variant-map.json"
+PARTIAL_IDS = ("imagePartial", "infoPartial")
+
+
+def _variant_map() -> dict:
+    cached = _state.get("variant_map")
+    if cached is None:
+        cached = (json.loads(VARIANT_MAP_PATH.read_text(encoding="utf-8"))["products"]
+                  if VARIANT_MAP_PATH.exists() else {})
+        _state["variant_map"] = cached
+    return cached
+
+
+def _extract_partial(markup: str, element_id: str) -> str:
+    """Inner HTML of one container, by balancing div depth from its open tag.
+
+    A regex to the next `</div>` would cut at the first nested close, returning
+    a fragment of the panel. The depth walk is the only reason the returned
+    partial is the whole panel rather than its first child.
+    """
+    m = re.search(r"<div\b[^>]*\bid\s*=\s*[\"']" + re.escape(element_id)
+                  + r"[\"'][^>]*>", markup, re.I)
+    if not m:
+        return ""
+    start = m.end()
+    depth = 1
+    for tag in re.finditer(r"<(/?)div\b[^>]*>", markup[start:], re.I):
+        depth += -1 if tag.group(1) else 1
+        if depth == 0:
+            return markup[start:start + tag.start()]
+    return ""
+
+
+def _product_markup(pid: str) -> str | None:
+    """The product's page as the clone serves it, frozen body or template.
+
+    The frozen body is preferred because 600 products have one, and it is the
+    source's own markup -- including that product's real variant chooser, which
+    the template does not carry at all.
+    """
+    # The startup handler stores this under "routes". Reading it as "route_map"
+    # returned an empty dict every time and fell through to the template
+    # silently -- a lookup that never matches looks exactly like a product that
+    # has no frozen body.
+    route = _state.get("routes", {}).get(
+        canonical_request_key("/product", f"p_id={pid}"))
+    if route:
+        frozen = frozen_text(route)
+        if frozen:
+            return frozen
+    with connection() as conn:
+        conn.row_factory = sqlite3.Row
+        row = conn.execute("SELECT * FROM products WHERE p_id = ?",
+                           (pid,)).fetchone()
+    if row is None:
+        return None
+    response = render_product(row)
+    body = response.body
+    return body.decode("utf-8", "replace") if isinstance(body, bytes) else str(body)
+
+
+@app.api_route("/product/selectpid", methods=["GET", "POST"])
+async def select_pid(request: Request) -> JSONResponse:
+    payload: dict = {}
+    if request.method == "POST":
+        raw = await request.body()
+        if raw:
+            try:
+                payload = json.loads(raw)
+            except ValueError:
+                # The site sends this as form-encoded in one code path and as
+                # JSON in another; both reach here.
+                form = urllib.parse.parse_qs(raw.decode("utf-8", "replace"))
+                payload = {k: (v[0] if len(v) == 1 else v)
+                           for k, v in form.items()}
+    if not payload:
+        payload = dict(request.query_params)
+
+    pid = str(payload.get("PID") or payload.get("p_id") or "").strip()
+    changed = str(payload.get("changedVal") or "").strip()
+    target = _variant_map().get(pid, {}).get(changed, pid)
+
+    markup = _product_markup(target) or _product_markup(pid)
+    if markup is None:
+        # Nothing to render at all. A JSON 404 is right here: the site has an
+        # error branch for it, and an empty 200 would send it to the same error
+        # page anyway while claiming success.
+        return JSONResponse({"error": "unknown product", "p_id": pid},
+                            status_code=404)
+
+    with connection() as conn:
+        conn.row_factory = sqlite3.Row
+        row = conn.execute("SELECT description, name FROM products WHERE p_id = ?",
+                           (target,)).fetchone()
+
+    # `descPartialView` must be non-empty or the site's own handler navigates to
+    # /StaticContent/generalerror. Its container, `#descPartial`, is not present
+    # on any of the 600 frozen product pages -- so on the source too this value
+    # is injected into an empty selector and has no visible effect. It is
+    # answered with the product's own description rather than invented markup.
+    description = (row["description"] if row and row["description"]
+                   else (row["name"] if row else target))
+    return JSONResponse({
+        "imagePartialView": _extract_partial(markup, "imagePartial"),
+        "infoPartialView": _extract_partial(markup, "infoPartial"),
+        "descPartialView": description,
+        "p_id": target,
+        "resolved": target != pid,
+    })
+
+
+# The site calls these with the exact casing above. Anything else reaching the
+# catch-all is bridged there, for the same reason `/Cart` had to be.
+FRAGMENT_ROUTES = {
+    "/home/getrecommendationsforyou": "/home/getRecommendationsForYou",
+    "/home/gettopsellers": "/home/getTopSellers",
+    "/home/getrecentlyviewed": "/home/getRecentlyViewed",
+    "/product/getcustomersalsoshoppedfor": "/product/GetCustomersAlsoShoppedFor",
+    "/product/getrecommendationsforyou": "/product/getrecommendationsforyou",
+    "/product/getrecentlyviewed": "/product/getrecentlyviewed",
+}
+
+
 @app.api_route("/{full_path:path}", methods=["GET", "HEAD", "POST"])
 def catch_all(full_path: str, request: Request) -> Response:
     if not _state.get("ready"):
         return JSONResponse({"error": "starting"}, status_code=503)
     path = "/" + full_path
+
+    # The site's own minicart.js posts to `/Cart` -- capital C -- and FastAPI
+    # paths are case-sensitive, so the Add to Cart button was answered 404 and
+    # did nothing. The core commerce action was dead, and every unit test
+    # passed throughout: they all POST to /cart directly, testing the endpoint
+    # and never the control.
+    if request.method == "POST":
+        lowered = path.lower()
+        if lowered in ("/cart", "/cart/index"):
+            return RedirectResponse("/cart", status_code=307)
+        if lowered in ("/cart/minicart", "/minicart/removeitem"):
+            return RedirectResponse(lowered, status_code=307)
     low = path.lower()
+
+    # A content-fill endpoint reached with different casing. Answering it here
+    # rather than letting it fall through matters more than it looks: these
+    # endpoints' containers are hidden until the request succeeds, so a miss is
+    # not a missing strip, it is a strip that never appears again.
+    if low in FRAGMENT_ROUTES:
+        key = FRAGMENT_ROUTES[low]
+        if key == "/product/GetCustomersAlsoShoppedFor":
+            key = f"{key}?p_id={request.query_params.get('p_id', '')}"
+        return fragment_response(key)
 
     if any(low.startswith(p.lower()) for p in DECLARED_ABSENT):
         return JSONResponse(

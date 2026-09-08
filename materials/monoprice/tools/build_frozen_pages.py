@@ -118,6 +118,139 @@ IFRAME_TAG = re.compile(r"<iframe\b[^>]*>.*?</iframe>|<iframe\b[^>]*/?>", re.I |
 NOSCRIPT_TAG = re.compile(r"<noscript\b[^>]*>.*?</noscript>", re.I | re.S)
 IMG_TAG = re.compile(r"<img\b[^>]*>", re.I)
 
+# HawkSearch ships every listing with BOTH result containers hidden and lets its
+# hosted script reveal the right one:
+#
+#   <div style="padding-top: 15px; display: none;" id="existresult">   <- results
+#   <div style="... display: none; ..." id="noresult">                 <- empty state
+#
+# That script is third-party and stripped, so neither was ever revealed. The
+# consequence was severe and completely invisible to every gate: a category page
+# carried 165 product links and showed **none** of them, and a search page 316.
+# Markup present, references closed, no requests, no errors, 4,910 CSS rules in
+# force -- and a blank page.
+#
+# The page itself carries the fact the script was deciding on: whether it has
+# product tiles. So the decision is made here from that, deterministically.
+RESULTS_CONTAINER = re.compile(
+    r"""(<div\b[^>]*\bid\s*=\s*["'](?P<which>existresult|noresult)["'][^>]*>)""",
+    re.I)
+HIDDEN_DECL = re.compile(r"display\s*:\s*none\s*;?", re.I)
+
+
+def reveal_results_container(html: str, tally: collections.Counter) -> str:
+    """Reveal whichever container the stripped script would have revealed."""
+    if "existresult" not in html:
+        return html
+    has_products = re.search(r"p_id=\d+", html) is not None
+    wanted = "existresult" if has_products else "noresult"
+
+    def repl(m: re.Match) -> str:
+        tag = m.group(1)
+        if m.group("which").lower() != wanted:
+            return tag
+        # Only touch the inline display declaration; leave the rest of the
+        # style attribute exactly as the source wrote it.
+        opened = HIDDEN_DECL.sub("display: block;", tag)
+        if opened != tag:
+            tally[f"results_container_revealed:{wanted}"] += 1
+        return opened
+
+    return RESULTS_CONTAINER.sub(repl, html)
+
+# The search box does not submit without this.
+#
+# Measured side by side: identical markup on both, and pressing Enter navigates
+# to /search/index?keyword=... on the source while the clone stays on the page.
+# The source's own script swallows the keypress and hands the query to Unbxd's
+# autosuggest bundle, which does the navigating -- and that bundle is a third
+# party, stripped like every other. So the site's most-used control was dead,
+# and no load-time gate could see it: nothing errors, nothing is requested, the
+# page simply does not change.
+#
+# This restores the *observable behaviour*, not the mechanism: the form already
+# declares GET /search/index with the right field name, so submitting it
+# natively produces exactly the URL the source produces. Registered in the
+# capture phase so it runs before the handler that calls preventDefault.
+# Removing a third party can break first-party code that assumes its global
+# exists. Stripping Google Tag Manager took `dataLayer` with it, and this site's
+# own commerce code pushes to `dataLayer` inside the add-to-cart chain -- so the
+# chain threw `dataLayer is not defined` before it could render, and the Add to
+# Cart control did nothing.
+#
+# The error is not visible to a console listener: it surfaces as a pageerror
+# from a rejected jQuery promise. Nothing in the network log looked wrong
+# either; every request in the chain returned 200.
+#
+# This declares the empty array the code expects. It is a shim, not analytics:
+# pushes land in an array that nothing reads and nothing transmits. It goes
+# first in <head> so it is defined before any of the site's own scripts run.
+STRIPPED_GLOBALS_SHIM = """<script data-wb-stripped-globals="1">
+window.dataLayer = window.dataLayer || [];
+window._satellite = window._satellite || {
+  track: function () {}, notify: function () {},
+  setVar: function () {}, getVar: function () {},
+  pageBottom: function () {}, logger: {log: function () {}}
+};
+window.F9 = window.F9 || {Chat: {Wrapper: {init: function () {}}}};
+</script>"""
+
+# Three globals, all belonging to stripped third parties, all depended on by the
+# site's *own* inline code:
+#
+#   dataLayer   -- Google Tag Manager
+#   _satellite  -- Adobe Launch
+#   F9          -- Five9 live chat; every page ends with an inline
+#                  `F9.Chat.Wrapper.init({cdn: 'prod', ...})` call
+#
+# F9 was found by comparing thrown errors between the clone and the source
+# rather than by reading the clone's console, which matters: the source throws
+# `$(...).hasAttribute is not a function` and `swiper.enable is not a function`
+# on its own product page, so a clone console full of errors is not evidence of
+# a clone defect. Only `F9 is not defined` appeared on one side and not the
+# other. Measure the source before calling an error yours.
+#
+# `MPI.ee.addToCart` calls `_satellite.track(...)`, and it runs *before*
+# `render(results)` in the add-to-cart chain. So the ReferenceError stopped the
+# chain one step short: the item was added, the cart page showed it, and the
+# header badge and mini-cart never updated. Hand-running the chain step by step
+# was what found it -- the network log was all 200s and the console listener saw
+# nothing, because a throw inside a jQuery `.then` becomes a silent rejection.
+#
+# The method list is read from the site's own code (`_satellite.track` in the
+# product pages, `_satellite.notify` in a bundle), not guessed. These are no-ops:
+# they accept the call and discard it. Nothing is recorded and nothing is sent.
+
+SEARCH_SUBMIT_FIX = """<script data-wb-search-submit="1">
+(function () {
+  function wire() {
+    var form = document.querySelector('form[action="/search/index"]');
+    if (!form) { return; }
+    var field = form.querySelector('input[name="keyword"]');
+    if (!field) { return; }
+    field.addEventListener('keydown', function (event) {
+      if (event.key !== 'Enter') { return; }
+      event.stopImmediatePropagation();
+      event.preventDefault();
+      var term = (field.value || '').trim();
+      if (!term) { return; }
+      // URLSearchParams, not encodeURIComponent: a native form GET encodes a
+      // space as "+" and encodeURIComponent gives "%20". The source produces
+      // keyword=hdmi+cable, and a candidate that submits the form natively
+      // would too -- so emitting %20 here would make the reference URL differ
+      // from a correct rebuild's for no reason but this shim.
+      var query = new URLSearchParams({keyword: term}).toString();
+      window.location.href = '/search/index?' + query;
+    }, true);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', wire);
+  } else {
+    wire();
+  }
+})();
+</script>"""
+
 # Rule 2 says decide by the value, not the attribute name. That is right about
 # which *references* to rewrite and wrong as a licence to rewrite every
 # attribute: `type="text/css"` looks exactly like a relative path, and it was
@@ -143,6 +276,43 @@ MIME_VALUE = re.compile(
 # A 1x1 fully transparent GIF. Renders nothing, requests nothing.
 TRANSPARENT_PIXEL = ("data:image/gif;base64,"
                      "R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")
+
+# Subresource Integrity has to go, because we deliberately break it.
+#
+# The Webflow pages ship their stylesheets with an SRI hash:
+#
+#   <link href=".../monoprice-pseo-products...opt.min.css"
+#         integrity="sha384-..." crossorigin="anonymous">
+#
+# `patch_served_assets.py` rewrites the absolute URLs *inside* those CSS files
+# so they point at local copies. That changes the bytes, so the hash no longer
+# matches and the browser discards the stylesheet -- silently as far as every
+# gate here is concerned: status 200, no remote request, no same-origin failure,
+# no console error the audit was listening for. The visible result was a Webflow
+# page holding 1,079 CSS rules where its siblings hold 4,910, which is to say a
+# page with almost no styling.
+#
+# Keeping the attribute would only be honest if we kept the bytes. We do not, so
+# the attribute is removed rather than recomputed: a recomputed hash would assert
+# integrity against our own rewrite, which protects nothing offline.
+SRI_ATTRS = re.compile(
+    r"""\s+(?:integrity|crossorigin)\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)""", re.I)
+SUBRESOURCE_TAG = re.compile(r"<(?:link|script)\b[^>]*>", re.I)
+
+
+def strip_subresource_integrity(html: str, tally: collections.Counter) -> str:
+    """Drop SRI attributes from link/script tags whose bytes we rewrite."""
+    if "integrity" not in html.lower():
+        return html
+
+    def repl(m: re.Match) -> str:
+        tag = m.group(0)
+        stripped = SRI_ATTRS.sub("", tag)
+        if stripped != tag:
+            tally["sri_stripped"] += 1
+        return stripped
+
+    return SUBRESOURCE_TAG.sub(repl, html)
 
 
 def is_third_party(value: str) -> bool:
@@ -474,6 +644,24 @@ def freeze_page(html: str, base_url: str, loc: Localiser,
     if sheets_by_family:
         html = inject_runtime_stylesheets(html, base_url, loc, sheets_by_family,
                                           tally)
+
+    html = reveal_results_container(html, tally)
+    html = strip_subresource_integrity(html, tally)
+
+    if "data-wb-stripped-globals" not in html:
+        lowered = html.lower()
+        head_open = lowered.find("<head")
+        if head_open != -1:
+            insert_at = lowered.find(">", head_open) + 1
+            tally["stripped_globals_shim_injected"] += 1
+            html = html[:insert_at] + STRIPPED_GLOBALS_SHIM + html[insert_at:]
+
+    if 'action="/search/index"' in html and "data-wb-search-submit" not in html:
+        lowered = html.lower()
+        close_body = lowered.rfind("</body>")
+        if close_body != -1:
+            tally["search_submit_fix_injected"] += 1
+            html = html[:close_body] + SEARCH_SUBMIT_FIX + html[close_body:]
     return html
 
 

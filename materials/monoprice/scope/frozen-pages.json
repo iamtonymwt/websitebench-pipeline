@@ -1,28 +1,15 @@
 {
   "schema_version": "monoprice.frozen-pages.v1",
   "pages_written": 5995,
-  "stored_bytes": 223928340,
-  "uncompressed_bytes": 1837824672,
+  "stored_bytes": 224981423,
+  "uncompressed_bytes": 1841030982,
   "error_pages": {
     "_error/absent-product": "https://www.monoprice.com/product/index?c_id=105&cp_id=10509&cs_id=1050902&format=2&p_id=3359&seq=1",
     "_error/not-found": "https://www.monoprice.com/home/news_detail.asp?news_id=177"
   },
   "route_collisions": 0,
   "route_collision_examples": [],
-  "runtime_stylesheet_families": {
-    "about": 18,
-    "absent-product": 27,
-    "category-hub": 18,
-    "category-l3": 22,
-    "home": 23,
-    "newsroom": 19,
-    "not-found": 18,
-    "product": 21,
-    "resource-article": 3,
-    "search": 22,
-    "shop-collection": 3,
-    "static-page": 17
-  },
+  "runtime_stylesheet_families": {},
   "by_kind": {
     "skipped:absent-product": 1905,
     "skipped:asset-not-a-page": 48,
@@ -45,11 +32,15 @@
     "img_without_src_given_transparent_pixel": 28,
     "link_removed": 3830,
     "offsite_reference_removed": 55702,
+    "results_container_revealed:existresult": 1079,
+    "results_container_revealed:noresult": 91,
     "route_localised": 6403887,
     "route_product_not_served": 7144,
-    "runtime_stylesheets_injected": 4815,
     "same_host_absolute_made_relative": 30,
     "script_removed": 53706,
+    "search_submit_fix_injected": 2660,
+    "sri_stripped": 16680,
+    "stripped_globals_shim_injected": 5997,
     "third_party_reference_removed": 19528,
     "value_skipped_looks_like_a_mime_type": 156
   },

@@ -48,9 +48,29 @@ def load(path: pathlib.Path) -> str:
         return fh.read().decode("utf-8", "replace")
 
 
+def local_asset_form(url: str) -> str | None:
+    """The localised path a source asset URL becomes in a frozen page.
+
+    The freezer rewrites references, including the ones inside embedded JSON, so
+    a donor page no longer contains `https://images.monoprice.com/...`. Searching
+    for the absolute URL found zero occurrences and the extractor correctly
+    refused to write -- a template whose image placeholder was never inserted
+    would have rendered the donor's own photographs under every other product.
+    """
+    import urllib.parse
+    split = urllib.parse.urlsplit(url)
+    if not split.netloc:
+        return None
+    local = urllib.parse.unquote(split.path.lstrip("/"))
+    return f"/static/assets/{split.netloc.lower()}/{urllib.parse.quote(local)}"
+
+
 def variants(value: str) -> list[str]:
     """The forms one value can take in served markup."""
     out = [value]
+    localised = local_asset_form(value) if value.startswith("http") else None
+    if localised:
+        out.append(localised)
     escaped = html.escape(value, quote=True)
     if escaped != value:
         out.append(escaped)

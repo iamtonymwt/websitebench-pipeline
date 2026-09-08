@@ -354,3 +354,33 @@ def test_catalogue_and_database_agree(backend, catalogue):
         connection.row_factory = sqlite3.Row
         count = connection.execute("SELECT COUNT(*) FROM products").fetchone()[0]
     assert count == len(catalogue["products"])
+
+
+# --------------------------------------------------------------------------- #
+# Controls, not endpoints
+# --------------------------------------------------------------------------- #
+
+def test_cart_accepts_the_path_the_sites_own_script_posts_to(client):
+    """minicart.js posts to `/Cart`, with a capital C.
+
+    FastAPI paths are case-sensitive, so this was answered 404 and the Add to
+    Cart button did nothing -- the core commerce action, dead. Every test in
+    this file passed throughout, because they all POST to `/cart` directly:
+    they tested the endpoint and never the control.
+    """
+    for path in ("/cart", "/Cart", "/CART", "/cart/index", "/Cart/Index"):
+        response = client.post(path, data={"p_id": "10145", "qty": "1"},
+                               follow_redirects=True)
+        assert response.status_code == 200, f"{path} -> {response.status_code}"
+        assert "10145" in response.text, f"{path} did not add the item"
+
+
+def test_the_sites_own_scripts_are_present_to_wire_the_controls(client):
+    """The Add to Cart control is an <a>, wired by minicart.js.
+
+    Without the script the element is inert: it renders, it is visible, it has
+    the right text, and clicking it does nothing. No closure gate can see that.
+    """
+    response = client.get("/assets/js/minicart.js")
+    assert response.status_code == 200
+    assert "Cart" in response.text

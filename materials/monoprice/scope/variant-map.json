@@ -1,0 +1,440 @@
+{
+  "schema_version": "monoprice.variant-map-report.v1",
+  "pages_read": 600,
+  "products_with_at_least_one_resolved_option": 433,
+  "options_attempted": 4720,
+  "options_resolved": 3807,
+  "options_unresolved": 913,
+  "resolution_rate": 0.807,
+  "counters": {
+    "attribute_forms": 972,
+    "option_marked_unavailable_by_source": 1455,
+    "option_selectable": 4720,
+    "resolved": 3807,
+    "selected_value_not_in_product_name": 141,
+    "unresolved": 913
+  },
+  "unresolved_examples": [
+    {
+      "p_id": "107",
+      "attribute": "Length",
+      "from": "6ft",
+      "to": "3ft",
+      "looked_for": "monoprice usb-a to mini-b 2.0 cable - 5-pin 28/28awg black 3ft"
+    },
+    {
+      "p_id": "107",
+      "attribute": "Length",
+      "from": "6ft",
+      "to": "10ft",
+      "looked_for": "monoprice usb-a to mini-b 2.0 cable - 5-pin 28/28awg black 10ft"
+    },
+    {
+      "p_id": "107",
+      "attribute": "Length",
+      "from": "6ft",
+      "to": "15ft",
+      "looked_for": "monoprice usb-a to mini-b 2.0 cable - 5-pin 28/28awg black 15ft"
+    },
+    {
+      "p_id": "11206",
+      "attribute": "Length",
+      "from": "0.5ft",
+      "to": "1ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11206",
+      "attribute": "Length",
+      "from": "0.5ft",
+      "to": "10ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11207",
+      "attribute": "Length",
+      "from": "0.5ft",
+      "to": "20ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11207",
+      "attribute": "Length",
+      "from": "0.5ft",
+      "to": "75ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11216",
+      "attribute": "Length",
+      "from": "0.5ft",
+      "to": "75ft",
+      "looked_for": "monoprice cat6 ethernet patch cable - flexboot snagless rj45 stranded 550mhz utp pure bare"
+    },
+    {
+      "p_id": "11216",
+      "attribute": "Color",
+      "from": "Black",
+      "to": "Purple",
+      "looked_for": "monoprice cat6 ethernet patch cable - flexboot snagless rj45 stranded 550mhz utp pure bare"
+    },
+    {
+      "p_id": "11217",
+      "attribute": "Color",
+      "from": "Gray",
+      "to": "Purple",
+      "looked_for": "monoprice cat6 ethernet patch cable - flexboot snagless rj45 stranded 550mhz utp pure bare"
+    },
+    {
+      "p_id": "11220",
+      "attribute": "Length",
+      "from": "0.5ft",
+      "to": "1ft",
+      "looked_for": "monoprice cat6a ethernet patch cable - zeroboot rj45 stranded 550mhz stp pure bare copper "
+    },
+    {
+      "p_id": "11220",
+      "attribute": "Length",
+      "from": "0.5ft",
+      "to": "7ft",
+      "looked_for": "monoprice cat6a ethernet patch cable - zeroboot rj45 stranded 550mhz stp pure bare copper "
+    },
+    {
+      "p_id": "11220",
+      "attribute": "Length",
+      "from": "0.5ft",
+      "to": "10ft",
+      "looked_for": "monoprice cat6a ethernet patch cable - zeroboot rj45 stranded 550mhz stp pure bare copper "
+    },
+    {
+      "p_id": "11221",
+      "attribute": "Length",
+      "from": "100ft",
+      "to": "1ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11221",
+      "attribute": "Length",
+      "from": "100ft",
+      "to": "10ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11221",
+      "attribute": "Color",
+      "from": "Black",
+      "to": "White",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11233",
+      "attribute": "Length",
+      "from": "100ft",
+      "to": "50ft",
+      "looked_for": "monoprice cat6 ethernet patch cable - flexboot snagless rj45 stranded 550mhz utp pure bare"
+    },
+    {
+      "p_id": "11234",
+      "attribute": "Length",
+      "from": "100ft",
+      "to": "1ft",
+      "looked_for": "monoprice cat6a ethernet patch cable - zeroboot rj45 stranded 550mhz stp pure bare copper "
+    },
+    {
+      "p_id": "11234",
+      "attribute": "Length",
+      "from": "100ft",
+      "to": "7ft",
+      "looked_for": "monoprice cat6a ethernet patch cable - zeroboot rj45 stranded 550mhz stp pure bare copper "
+    },
+    {
+      "p_id": "11234",
+      "attribute": "Length",
+      "from": "100ft",
+      "to": "10ft",
+      "looked_for": "monoprice cat6a ethernet patch cable - zeroboot rj45 stranded 550mhz stp pure bare copper "
+    },
+    {
+      "p_id": "11236",
+      "attribute": "Length",
+      "from": "10ft",
+      "to": "20ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11236",
+      "attribute": "Length",
+      "from": "10ft",
+      "to": "75ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11236",
+      "attribute": "Color",
+      "from": "Blue",
+      "to": "Black",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11236",
+      "attribute": "Color",
+      "from": "Blue",
+      "to": "Purple",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11236",
+      "attribute": "Color",
+      "from": "Blue",
+      "to": "White",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11236",
+      "attribute": "Color",
+      "from": "Blue",
+      "to": "Yellow",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11237",
+      "attribute": "Color",
+      "from": "Gray",
+      "to": "Black",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11237",
+      "attribute": "Color",
+      "from": "Gray",
+      "to": "Purple",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11237",
+      "attribute": "Color",
+      "from": "Gray",
+      "to": "White",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11237",
+      "attribute": "Color",
+      "from": "Gray",
+      "to": "Yellow",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11238",
+      "attribute": "Length",
+      "from": "10ft",
+      "to": "7ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11238",
+      "attribute": "Color",
+      "from": "Green",
+      "to": "Black",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11238",
+      "attribute": "Color",
+      "from": "Green",
+      "to": "Purple",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11238",
+      "attribute": "Color",
+      "from": "Green",
+      "to": "White",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11238",
+      "attribute": "Color",
+      "from": "Green",
+      "to": "Yellow",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Length",
+      "from": "10ft",
+      "to": "3ft",
+      "looked_for": "monoprice cat5e 3ft yellow patch cable utp 24awg 350mhz pure bare copper snagless rj45 fle"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Length",
+      "from": "10ft",
+      "to": "7ft",
+      "looked_for": "monoprice cat5e 7ft yellow patch cable utp 24awg 350mhz pure bare copper snagless rj45 fle"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Length",
+      "from": "10ft",
+      "to": "14ft",
+      "looked_for": "monoprice cat5e 14ft yellow patch cable utp 24awg 350mhz pure bare copper snagless rj45 fl"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Color",
+      "from": "Yellow",
+      "to": "Black",
+      "looked_for": "monoprice cat5e 10ft black patch cable utp 24awg 350mhz pure bare copper snagless rj45 fle"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Color",
+      "from": "Yellow",
+      "to": "Blue",
+      "looked_for": "monoprice cat5e 10ft blue patch cable utp 24awg 350mhz pure bare copper snagless rj45 flex"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Color",
+      "from": "Yellow",
+      "to": "Gray",
+      "looked_for": "monoprice cat5e 10ft gray patch cable utp 24awg 350mhz pure bare copper snagless rj45 flex"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Color",
+      "from": "Yellow",
+      "to": "Green",
+      "looked_for": "monoprice cat5e 10ft green patch cable utp 24awg 350mhz pure bare copper snagless rj45 fle"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Color",
+      "from": "Yellow",
+      "to": "Purple",
+      "looked_for": "monoprice cat5e 10ft purple patch cable utp 24awg 350mhz pure bare copper snagless rj45 fl"
+    },
+    {
+      "p_id": "11244",
+      "attribute": "Color",
+      "from": "Yellow",
+      "to": "White",
+      "looked_for": "monoprice cat5e 10ft white patch cable utp 24awg 350mhz pure bare copper snagless rj45 fle"
+    },
+    {
+      "p_id": "11246",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "1ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11246",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "10ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11247",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "20ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11247",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "75ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11254",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "5ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11254",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "7ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11254",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "10ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11254",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "50ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11254",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "100ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11255",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "7ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11255",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "10ft",
+      "looked_for": "monoprice cat5e ethernet patch cable - flexboot snagless rj45 stranded 350mhz utp pure bar"
+    },
+    {
+      "p_id": "11256",
+      "attribute": "Color",
+      "from": "Green",
+      "to": "Yellow",
+      "looked_for": "monoprice cat6 ethernet patch cable - flexboot snagless rj45 stranded 550mhz utp pure bare"
+    },
+    {
+      "p_id": "11257",
+      "attribute": "Color",
+      "from": "Orange",
+      "to": "Yellow",
+      "looked_for": "monoprice cat6 ethernet patch cable - flexboot snagless rj45 stranded 550mhz utp pure bare"
+    },
+    {
+      "p_id": "11258",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "0.5ft",
+      "looked_for": "monoprice cat6 0.5ft yellow patch cable utp 24awg 550mhz pure bare copper snagless rj45 fl"
+    },
+    {
+      "p_id": "11258",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "1ft",
+      "looked_for": "monoprice cat6 1ft yellow patch cable utp 24awg 550mhz pure bare copper snagless rj45 flex"
+    },
+    {
+      "p_id": "11258",
+      "attribute": "Length",
+      "from": "14ft",
+      "to": "2ft",
+      "looked_for": "monoprice cat6 2ft yellow patch cable utp 24awg 550mhz pure bare copper snagless rj45 flex"
+    }
+  ],
+  "note": "Unresolved options are left out of the map on purpose. The clone answers them by returning the current product unchanged rather than a guessed neighbour: a wrong product under the right variant label looks correct and is not."
+}

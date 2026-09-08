@@ -1,0 +1,527 @@
+{
+  "schema_version": "monoprice.visible-audit.v1",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "source_compared": true,
+  "families": 8,
+  "families_with_defects": 6,
+  "rows": [
+    {
+      "family": "home",
+      "route": "/",
+      "source_url": "https://www.monoprice.com/",
+      "clone": {
+        "height": 4639,
+        "text": 3678,
+        "rules": 5571,
+        "sheets": 27,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 21,
+        "unappliedStylesheets": [],
+        "tiles": 80,
+        "tilesVisible": 80,
+        "images": 68,
+        "imagesVisible": 40,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "source": {
+        "height": 5344,
+        "text": 9264,
+        "rules": 6487,
+        "sheets": 36,
+        "sheetsBlocked": 2,
+        "stylesheetLinks": 23,
+        "unappliedStylesheets": [],
+        "tiles": 124,
+        "tilesVisible": 122,
+        "images": 114,
+        "imagesVisible": 93,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "defects": [
+        "visible text 3678 vs source 9264 (x0.40)"
+      ]
+    },
+    {
+      "family": "category",
+      "route": "/category/cables/hdmi-cables/hdmi-cables",
+      "source_url": "https://www.monoprice.com/category/cables/hdmi-cables/hdmi-cables",
+      "clone": {
+        "height": 7867,
+        "text": 16408,
+        "rules": 4357,
+        "sheets": 29,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 21,
+        "unappliedStylesheets": [],
+        "tiles": 165,
+        "tilesVisible": 93,
+        "images": 45,
+        "imagesVisible": 27,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 102
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "source": {
+        "height": 7444,
+        "text": 13259,
+        "rules": 5863,
+        "sheets": 40,
+        "sheetsBlocked": 3,
+        "stylesheetLinks": 24,
+        "unappliedStylesheets": [],
+        "tiles": 172,
+        "tilesVisible": 94,
+        "images": 50,
+        "imagesVisible": 27,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 102
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "defects": [
+        "CSS rules in force 4357 vs source 5863 (x0.74)"
+      ]
+    },
+    {
+      "family": "search",
+      "route": "/search/index?keyword=hdmi+cable",
+      "source_url": "https://www.monoprice.com/search/index?keyword=hdmi+cable",
+      "clone": {
+        "height": 2693,
+        "text": 3982,
+        "rules": 4910,
+        "sheets": 31,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 23,
+        "unappliedStylesheets": [],
+        "tiles": 316,
+        "tilesVisible": 0,
+        "images": 91,
+        "imagesVisible": 0,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 102
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "source": {
+        "height": 6917,
+        "text": 13299,
+        "rules": 5863,
+        "sheets": 40,
+        "sheetsBlocked": 3,
+        "stylesheetLinks": 24,
+        "unappliedStylesheets": [],
+        "tiles": 182,
+        "tilesVisible": 92,
+        "images": 49,
+        "imagesVisible": 26,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 102
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "defects": [
+        "316 product links present, NONE visible -- content rendered but hidden",
+        "visible text 3982 vs source 13299 (x0.30)",
+        "page height 2693 vs source 6917 (x0.39)",
+        "source shows 92 product tiles, clone shows 0"
+      ]
+    },
+    {
+      "family": "product",
+      "route": "/product?p_id=39165",
+      "source_url": "https://www.monoprice.com/product?p_id=39165",
+      "clone": {
+        "height": 1704,
+        "text": 920,
+        "rules": 5629,
+        "sheets": 27,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 19,
+        "unappliedStylesheets": [],
+        "tiles": 1,
+        "tilesVisible": 1,
+        "images": 17,
+        "imagesVisible": 1,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "source": {
+        "height": 7563,
+        "text": 7134,
+        "rules": 6631,
+        "sheets": 42,
+        "sheetsBlocked": 5,
+        "stylesheetLinks": 24,
+        "unappliedStylesheets": [],
+        "tiles": 37,
+        "tilesVisible": 35,
+        "images": 86,
+        "imagesVisible": 46,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "defects": [
+        "visible text 920 vs source 7134 (x0.13)",
+        "page height 1704 vs source 7563 (x0.23)",
+        "1 visible tiles vs source 35"
+      ]
+    },
+    {
+      "family": "shop",
+      "route": "/p/shop/usb-c-to-usb-3-0",
+      "source_url": "https://www.monoprice.com/p/shop/usb-c-to-usb-3-0",
+      "clone": {
+        "height": 3261,
+        "text": 6643,
+        "rules": 1213,
+        "sheets": 7,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 3,
+        "unappliedStylesheets": [],
+        "tiles": 33,
+        "tilesVisible": 33,
+        "images": 18,
+        "imagesVisible": 10,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "MAIN",
+            "h": 2551
+          },
+          {
+            "tag": "HEADER",
+            "h": 2551
+          },
+          {
+            "tag": "FOOTER",
+            "h": 560
+          }
+        ]
+      },
+      "source": {
+        "height": 3258,
+        "text": 7088,
+        "rules": 1306,
+        "sheets": 13,
+        "sheetsBlocked": 3,
+        "stylesheetLinks": 5,
+        "unappliedStylesheets": [],
+        "tiles": 33,
+        "tilesVisible": 33,
+        "images": 21,
+        "imagesVisible": 10,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "MAIN",
+            "h": 2580
+          },
+          {
+            "tag": "HEADER",
+            "h": 2530
+          },
+          {
+            "tag": "FOOTER",
+            "h": 528
+          }
+        ]
+      },
+      "defects": []
+    },
+    {
+      "family": "static",
+      "route": "/about-us",
+      "source_url": "https://www.monoprice.com/about-us",
+      "clone": {
+        "height": 2719,
+        "text": 1352,
+        "rules": 3981,
+        "sheets": 26,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 17,
+        "unappliedStylesheets": [],
+        "tiles": 0,
+        "tilesVisible": 0,
+        "images": 20,
+        "imagesVisible": 4,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "source": {
+        "height": 2771,
+        "text": 1803,
+        "rules": 4932,
+        "sheets": 35,
+        "sheetsBlocked": 2,
+        "stylesheetLinks": 19,
+        "unappliedStylesheets": [],
+        "tiles": 2,
+        "tilesVisible": 0,
+        "images": 25,
+        "imagesVisible": 4,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "defects": []
+    },
+    {
+      "family": "cart",
+      "route": "/cart",
+      "source_url": null,
+      "clone": {
+        "height": 1573,
+        "text": 757,
+        "rules": 3929,
+        "sheets": 21,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 15,
+        "unappliedStylesheets": [],
+        "tiles": 0,
+        "tilesVisible": 0,
+        "images": 16,
+        "imagesVisible": 0,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "compared_against": "static family chrome",
+      "source": {
+        "height": 2719,
+        "text": 1352,
+        "rules": 3981,
+        "sheets": 26,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 17,
+        "unappliedStylesheets": [],
+        "tiles": 0,
+        "tilesVisible": 0,
+        "images": 20,
+        "imagesVisible": 4,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "defects": [
+        "visible text 757 vs source 1352 (x0.56)"
+      ]
+    },
+    {
+      "family": "checkout",
+      "route": "/checkout",
+      "source_url": null,
+      "clone": {
+        "height": 1573,
+        "text": 767,
+        "rules": 3929,
+        "sheets": 21,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 15,
+        "unappliedStylesheets": [],
+        "tiles": 0,
+        "tilesVisible": 0,
+        "images": 16,
+        "imagesVisible": 0,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "compared_against": "static family chrome",
+      "source": {
+        "height": 2719,
+        "text": 1352,
+        "rules": 3981,
+        "sheets": 26,
+        "sheetsBlocked": 0,
+        "stylesheetLinks": 17,
+        "unappliedStylesheets": [],
+        "tiles": 0,
+        "tilesVisible": 0,
+        "images": 20,
+        "imagesVisible": 4,
+        "imagesBrokenVisible": 0,
+        "tallest": [
+          {
+            "tag": "HEADER",
+            "h": 63
+          },
+          {
+            "tag": "NAV",
+            "h": 40
+          },
+          {
+            "tag": "NAV",
+            "h": 0
+          }
+        ]
+      },
+      "defects": [
+        "visible text 767 vs source 1352 (x0.57)"
+      ]
+    }
+  ]
+}
