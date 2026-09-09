@@ -403,8 +403,23 @@ that the set of products changes: 24 products, 16 of them new.
 The clause is chosen from a table keyed on the source's own strings, never built
 from the parameter.
 
-A **category** page is frozen source markup, so its order is fixed and a sort
-selection does not reorder it. Before this pass such a URL answered 404
-outright, because `js_sort` appends `menuDisStr`, `sort` and `TotalProducts` and
-none of that matched the route map. The catch-all now retries the lookup without
-those four parameters. See claim cl-024.
+A **category** page is frozen source markup, so it cannot sort in SQL — its
+rows are permuted in place instead. Each result row is an innermost `<tr>`
+naming exactly one product; the rows are reordered and written back into the
+same slots, so the response keeps its byte length, its image count and its
+product set, and only the sequence changes. The dropdown is also marked so it
+shows the active sort instead of always reading "Best Match".
+
+`js_sort` appends `menuDisStr`, `sort` and `TotalProducts`, none of which
+matched the route map, so before this such a URL answered 404 outright. The
+catch-all retries the lookup without those four parameters.
+
+Page size is **not** reproduced on a category listing: it would mean rendering
+products the captured page does not contain, which is a different thing from
+reordering. See claim cl-024.
+
+This was first recorded as a limitation and shipped that way. A person then
+pointed out that choosing a sort changed nothing — the two responses were
+byte-identical. **Writing a defect down is not the same as deciding it is
+acceptable**, and a claim is the right place for something that cannot be fixed,
+not for something that has not been tried.

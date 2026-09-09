@@ -578,3 +578,74 @@ def test_sorted_listing_url_is_not_a_404(client):
         f"choosing a sort on a category page answered {r.status_code}; the "
         f"listing is frozen so the order does not change, but it must still "
         f"render (claim cl-024)")
+
+
+# --------------------------------------------------------------------------- #
+# Sorting a captured listing
+# --------------------------------------------------------------------------- #
+
+CATEGORY = "/category/cables/video-cables/displayport-&-mini-displayport-cables"
+
+
+def _listing_prices(client, **params):
+    import app as clone_module
+    body = client.get(CATEGORY, params=params).text
+    segment = body.split('id="existresult"', 1)[-1]
+    seen, prices = [], []
+    with clone_module.connection() as conn:
+        for m in re.finditer(r"p_id=(\d+)", segment):
+            pid = m.group(1)
+            if pid in seen:
+                continue
+            seen.append(pid)
+            row = conn.execute("SELECT price FROM products WHERE p_id = ?",
+                               (pid,)).fetchone()
+            if row and row[0] is not None:
+                prices.append(row[0])
+    return prices
+
+
+def test_category_listing_sorts_by_price():
+    """A category page is frozen markup, so its rows are permuted in place.
+
+    This was first recorded as a limitation and shipped that way; a person
+    pointed out that choosing "Price: Highest to Lowest" changed nothing. The
+    two responses were byte-identical.
+    """
+    from fastapi.testclient import TestClient
+    import app as clone_module
+    with TestClient(clone_module.app) as client:
+        desc = _listing_prices(client, menuDisStr="x",
+                               sort="sellingPrice desc", TotalProducts="22")
+        asc = _listing_prices(client, menuDisStr="x",
+                              sort="sellingPrice asc", TotalProducts="22")
+    assert len(desc) > 3, "not enough priced products in this listing"
+    assert all(a >= b for a, b in zip(desc, desc[1:])), f"not descending: {desc[:8]}"
+    assert all(a <= b for a, b in zip(asc, asc[1:])), f"not ascending: {asc[:8]}"
+
+
+def test_sorting_a_listing_only_reorders_it(client):
+    """Permuting rows must not add, drop or alter any markup."""
+    plain = client.get(CATEGORY).text
+    sortd = client.get(CATEGORY, params={"menuDisStr": "x",
+                                         "sort": "sellingPrice desc",
+                                         "TotalProducts": "22"}).text
+    assert len(plain) == len(sortd), (
+        f"sorting changed the page size from {len(plain)} to {len(sortd)}; it "
+        f"is supposed to move existing rows, not rewrite them")
+    assert plain.count("<img") == sortd.count("<img")
+    assert set(re.findall(r"p_id=(\d+)", plain)) == set(
+        re.findall(r"p_id=(\d+)", sortd))
+    assert plain != sortd, "sorting produced an identical page"
+
+
+def test_sort_dropdown_shows_the_active_sort(client):
+    body = client.get(CATEGORY, params={"menuDisStr": "x",
+                                        "sort": "sellingPrice desc",
+                                        "TotalProducts": "22"}).text
+    chosen = re.search(r"<option\b[^>]*\bselected\b[^>]*>([^<]*)</option>",
+                       body, re.I)
+    assert chosen, "no option is marked selected"
+    assert "highest" in chosen.group(1).lower(), (
+        f"the dropdown reads {chosen.group(1).strip()!r} while the URL sorts by "
+        f"price descending")

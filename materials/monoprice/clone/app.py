@@ -586,6 +586,129 @@ SORT_CLAUSES = {
 # The page-size control offers exactly these.
 PAGE_SIZE_CHOICES = (25, 50, 75, 100)
 
+# Sorting a frozen listing.
+#
+# A category page is served as captured, so choosing a sort on it changed
+# nothing -- the dropdown still read "Best Match" and the products kept their
+# original order. The search page could sort because it renders per request;
+# the category page cannot, so its rows are permuted here instead.
+#
+# This only moves existing markup. Each result row is an innermost `<tr>` that
+# names exactly one product; the rows are reordered and written back into the
+# same slots, so every class, style and attribute the source served is
+# preserved and only the sequence changes.
+#
+# The row finder is duplicated from tools/extract_search_template.py on purpose.
+# `clone/` has to stand alone to be deployed, so it cannot import from `tools/`.
+# Both copies use the same rule -- walk tag depth, keep rows containing no
+# nested row -- and both exist because a non-greedy `<tr>.*?</tr>` can start on
+# an outer layout row and swallow the results container.
+TR_TAG = re.compile(r"<(/?)tr\b[^>]*>", re.I)
+ROW_PRODUCT = re.compile(r'href="/product\?p_id=(\d+)"')
+
+SORT_KEYS = {
+    "title asc": ("name", False),
+    "sellingprice asc": ("price", False),
+    "sellingprice desc": ("price", True),
+    "rating_count desc,sort_rating desc": ("rating", True),
+    "first_instock_date desc,sku desc": ("pid", True),
+}
+
+
+def listing_rows(html: str) -> list[tuple[int, int, str]]:
+    """(start, end, p_id) for each innermost row naming exactly one product."""
+    rows: list[tuple[int, int, str]] = []
+    stack: list[int] = []
+    for m in TR_TAG.finditer(html):
+        if not m.group(1):
+            stack.append(m.start())
+        elif stack:
+            start = stack.pop()
+            block = html[start:m.end()]
+            if len(re.findall(r"<tr\b", block, re.I)) != 1:
+                continue
+            ids = set(ROW_PRODUCT.findall(block))
+            if len(ids) == 1:
+                rows.append((start, m.end(), ids.pop()))
+    rows.sort()
+    return rows
+
+
+def _sort_values(p_ids: list[str]) -> dict[str, tuple]:
+    if not p_ids:
+        return {}
+    marks = ",".join("?" for _ in p_ids)
+    with connection() as conn:
+        conn.row_factory = sqlite3.Row
+        rows = conn.execute(
+            f"SELECT p_id, name, price, rating_count FROM products "
+            f"WHERE p_id IN ({marks})", p_ids).fetchall()
+    return {r["p_id"]: (r["name"] or "", r["price"],
+                        int(r["rating_count"] or 0)) for r in rows}
+
+
+def reorder_frozen_listing(html: str, raw_sort: str) -> str:
+    """Permute a captured listing's rows, or return it untouched."""
+    key = " ".join((raw_sort or "").lower().split())
+    field_desc = SORT_KEYS.get(key)
+    if field_desc is None:
+        return html
+    field, descending = field_desc
+    rows = listing_rows(html)
+    if len(rows) < 2:
+        return html
+
+    values = _sort_values([pid for _, _, pid in rows])
+
+    def sort_key(entry: tuple[int, int, str]):
+        name, price, rating = values.get(entry[2], ("", None, 0))
+        if field == "price":
+            # A product with no price sorts last either way, rather than
+            # sorting as zero and heading the "cheapest first" list.
+            return (price is None, price if price is not None else 0.0)
+        if field == "name":
+            return (False, name.lower())
+        if field == "rating":
+            return (False, rating)
+        return (False, int(entry[2]) if entry[2].isdigit() else 0)
+
+    ordered = sorted(rows, key=sort_key, reverse=descending)
+    # `reverse` would also flip the "missing value last" flag, so put those
+    # back at the end explicitly.
+    if descending and field == "price":
+        present = [r for r in ordered if values.get(r[2], ("", None, 0))[1] is not None]
+        missing = [r for r in ordered if values.get(r[2], ("", None, 0))[1] is None]
+        ordered = present + missing
+
+    pieces: list[str] = []
+    cursor = 0
+    for slot, source in zip(rows, ordered):
+        start, end, _ = slot
+        pieces.append(html[cursor:start])
+        pieces.append(html[source[0]:source[1]])
+        cursor = end
+    pieces.append(html[cursor:])
+    return "".join(pieces)
+
+
+SORT_OPTION = re.compile(
+    r"""(<option\b[^>]*\bdata-url\s*=\s*"[^"]*?sort=(?P<sort>[^&"]*)[^"]*"[^>]*>)""",
+    re.I)
+
+
+def mark_selected_sort(html: str, raw_sort: str) -> str:
+    """Show the chosen sort in the dropdown instead of Best Match."""
+    wanted = urllib.parse.unquote_plus(raw_sort or "").strip().lower()
+
+    def repl(m: re.Match) -> str:
+        tag = re.sub(r"\s+selected(?:\s*=\s*\"[^\"]*\")?", "", m.group(1), flags=re.I)
+        value = urllib.parse.unquote_plus(m.group("sort")).strip().lower()
+        if value == wanted:
+            tag = tag[:-1].rstrip() + " selected>"
+        return tag
+
+    return SORT_OPTION.sub(repl, html)
+
 
 def sort_clause(raw: str) -> str | None:
     return SORT_CLAUSES.get(" ".join((raw or "").lower().split()))
@@ -1420,6 +1543,14 @@ def catch_all(full_path: str, request: Request) -> Response:
             retry = _state.get("routes", {}).get(
                 canonical_request_key(path, urllib.parse.urlencode(stripped)))
             if retry is not None:
+                raw_sort = request.query_params.get("sort") or ""
+                if sort_clause(raw_sort) and raw_sort.strip():
+                    body = frozen_text(retry)
+                    if body is not None:
+                        body = reorder_frozen_listing(body, raw_sort)
+                        body = mark_selected_sort(body, raw_sort)
+                        return Response(content=body,
+                                        media_type="text/html; charset=utf-8")
                 response = frozen_response(retry, accept_encoding=accept)
                 if response is not None:
                     return response
