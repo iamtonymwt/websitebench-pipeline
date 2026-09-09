@@ -15,114 +15,1734 @@
     "product-frozen": 78,
     "product-template": 117
   },
-  "failed_navigations": [],
+  "failed_navigations": [
+    {
+      "path": "/p/shop/amplifier-headphone-19cac",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/amplifier-headphone-19cac\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/amplifier-headphon"
+    },
+    {
+      "path": "/p/shop/12-3-audio-cord",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/12-3-audio-cord\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/12-3-audio-cord\", waiting un"
+    },
+    {
+      "path": "/p/shop/dac-and-headphone-amplifier-c3c53",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/dac-and-headphone-amplifier-c3c53\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/dac-and-he"
+    },
+    {
+      "path": "/p/shop/best-budget-amp-for-headphones-3b8cc",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/best-budget-amp-for-headphones-3b8cc\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/best-bu"
+    },
+    {
+      "path": "/p/shop/banana-type-connector-3bf2f",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/banana-type-connector-3bf2f\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/banana-type-conn"
+    },
+    {
+      "path": "/p/shop/usb-3-to-usb-2-5cbd0",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/usb-3-to-usb-2-5cbd0\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/usb-3-to-usb-2-5cbd0\", "
+    },
+    {
+      "path": "/p/shop/shielded-cat5-connector-54b7e",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/shielded-cat5-connector-54b7e\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/shielded-cat5-"
+    },
+    {
+      "path": "/p/shop/display-cable-for-monitor-9c767",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/display-cable-for-monitor-9c767\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/display-cabl"
+    },
+    {
+      "path": "/p/shop/dvi-adapter-types-2f651",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/dvi-adapter-types-2f651\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/dvi-adapter-types-2f"
+    },
+    {
+      "path": "/p/shop/rg-6-coaxial-cable-connectors-6bb75",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/rg-6-coaxial-cable-connectors-6bb75\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/rg-6-coa"
+    },
+    {
+      "path": "/p/shop/av-receiver-stereo-hdmi-cf2c1",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/av-receiver-stereo-hdmi-cf2c1\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/av-receiver-st"
+    },
+    {
+      "path": "/p/shop/coax-cable-crimpers-b5a2e",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/coax-cable-crimpers-b5a2e\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/coax-cable-crimper"
+    },
+    {
+      "path": "/p/shop/rg6-quad-shield-connectors-09d44",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/rg6-quad-shield-connectors-09d44\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/rg6-quad-sh"
+    },
+    {
+      "path": "/p/shop/speakers-black-friday-ac756",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/speakers-black-friday-ac756\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/speakers-black-f"
+    },
+    {
+      "path": "/p/shop/all-types-of-usb-cables-0b7da",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/all-types-of-usb-cables-0b7da\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/all-types-of-u"
+    },
+    {
+      "path": "/p/shop/db-25-connector-73f48",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/db-25-connector-73f48\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/db-25-connector-73f48\""
+    },
+    {
+      "path": "/p/shop/is-there-a-noticeable-different-between-displayport-and-hdmi-b8f44",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/is-there-a-noticeable-different-between-displayport-and-hdmi-b8f44\nCall log:\n  - navigating to \"http:/"
+    },
+    {
+      "path": "/p/shop/type-c-to-hdmi-female-e308d",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/type-c-to-hdmi-female-e308d\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/type-c-to-hdmi-f"
+    },
+    {
+      "path": "/p/shop/serial-male-to-female-adapter-539ae",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/serial-male-to-female-adapter-539ae\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/serial-m"
+    },
+    {
+      "path": "/p/shop/serial-cable-rs232-3fcbe",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/serial-cable-rs232-3fcbe\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/serial-cable-rs232-"
+    },
+    {
+      "path": "/p/shop/multimode-fiber-optic-cable-96491",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/multimode-fiber-optic-cable-96491\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/multimode-"
+    },
+    {
+      "path": "/p/shop/best-home-ceiling-speakers-66bc7",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/best-home-ceiling-speakers-66bc7\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/best-home-c"
+    },
+    {
+      "path": "/p/shop/video-switcher-hdmi-db699",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/video-switcher-hdmi-db699\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/video-switcher-hdm"
+    },
+    {
+      "path": "/p/shop/rca-to-female-jack-00990",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/rca-to-female-jack-00990\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/rca-to-female-jack-"
+    },
+    {
+      "path": "/p/shop/computer-electric-cord-a4543",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/computer-electric-cord-a4543\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/computer-electr"
+    },
+    {
+      "path": "/p/shop/a-usb-cord-f14ad",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/a-usb-cord-f14ad\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/a-usb-cord-f14ad\", waiting "
+    },
+    {
+      "path": "/p/shop/db25-connector-f1891",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/db25-connector-f1891\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/db25-connector-f1891\", "
+    },
+    {
+      "path": "/p/shop/f-type-cable-fb7d5",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/f-type-cable-fb7d5\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/f-type-cable-fb7d5\", wait"
+    },
+    {
+      "path": "/p/shop/cat5-cat6-cable-f97a7",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/cat5-cat6-cable-f97a7\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/cat5-cat6-cable-f97a7\""
+    },
+    {
+      "path": "/p/shop/b-and-w-speaker-stands-f6d62",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/b-and-w-speaker-stands-f6d62\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/b-and-w-speaker"
+    },
+    {
+      "path": "/p/shop/cable-splitter-audio-af4d7",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/cable-splitter-audio-af4d7\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/cable-splitter-au"
+    },
+    {
+      "path": "/p/shop/best-stereo-wire-connectors-0a2cc",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/best-stereo-wire-connectors-0a2cc\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/best-stere"
+    },
+    {
+      "path": "/p/shop/rj-11-cable-dc875",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/rj-11-cable-dc875\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/rj-11-cable-dc875\", waitin"
+    },
+    {
+      "path": "/p/shop/15-subwoofer-speaker-2a9be",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/15-subwoofer-speaker-2a9be\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/15-subwoofer-spea"
+    },
+    {
+      "path": "/p/shop/home-theater-system-with-bluetooth-speakers-5cb14",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/home-theater-system-with-bluetooth-speakers-5cb14\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p"
+    },
+    {
+      "path": "/p/shop/outdoor-mountable-speakers-b527f",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/outdoor-mountable-speakers-b527f\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/outdoor-mou"
+    },
+    {
+      "path": "/p/shop/aptx-wireless-speakers-662a2",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/aptx-wireless-speakers-662a2\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/aptx-wireless-s"
+    },
+    {
+      "path": "/p/shop/3-5-mm-audio-jack-wiring",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/3-5-mm-audio-jack-wiring\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/3-5-mm-audio-jack-w"
+    },
+    {
+      "path": "/p/shop/best-speaker-stand-a3628",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/best-speaker-stand-a3628\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/best-speaker-stand-"
+    },
+    {
+      "path": "/p/shop/good-home-theatre-subwoofer-c6d4c",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/good-home-theatre-subwoofer-c6d4c\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/good-home-"
+    },
+    {
+      "path": "/p/shop/4-speaker-surround-sound-d919e",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/4-speaker-surround-sound-d919e\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/4-speaker-sur"
+    },
+    {
+      "path": "/p/shop/speaker-subwoofer-8-inch-ea3d4",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/speaker-subwoofer-8-inch-ea3d4\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/speaker-subwo"
+    },
+    {
+      "path": "/p/shop/best-buy-speaker-cables-554f0",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/best-buy-speaker-cables-554f0\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/best-buy-speak"
+    },
+    {
+      "path": "/p/shop/toslink-optical-audio-splitter-ab88d",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/toslink-optical-audio-splitter-ab88d\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/toslink"
+    },
+    {
+      "path": "/p/shop/kinds-of-dvi-cables-b3bb7",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/kinds-of-dvi-cables-b3bb7\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/kinds-of-dvi-cable"
+    },
+    {
+      "path": "/p/shop/power-supply-cable-computer-ba850",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/power-supply-cable-computer-ba850\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/power-supp"
+    },
+    {
+      "path": "/p/shop/usb-to-db9-serial-cable-14026",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/usb-to-db9-serial-cable-14026\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/usb-to-db9-ser"
+    },
+    {
+      "path": "/p/shop/c16-power-cable-1e9ac",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/c16-power-cable-1e9ac\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/c16-power-cable-1e9ac\""
+    },
+    {
+      "path": "/p/shop/100-foot-cable-942b2",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/100-foot-cable-942b2\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/100-foot-cable-942b2\", "
+    },
+    {
+      "path": "/p/shop/shielded-cat5-cable-8a878",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/shielded-cat5-cable-8a878\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/shielded-cat5-cabl"
+    },
+    {
+      "path": "/p/shop/18-gauge-shielded-cable-b6644",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/18-gauge-shielded-cable-b6644\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/18-gauge-shiel"
+    },
+    {
+      "path": "/p/shop/subwoofer-on-sale-90894",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/subwoofer-on-sale-90894\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/subwoofer-on-sale-90"
+    },
+    {
+      "path": "/p/shop/cat5e-shielded-cable-a48db",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/cat5e-shielded-cable-a48db\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/cat5e-shielded-ca"
+    },
+    {
+      "path": "/p/shop/usb2-0-ethernet-adapter-d5411",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/usb2-0-ethernet-adapter-d5411\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/usb2-0-etherne"
+    },
+    {
+      "path": "/p/shop/vga-female-to-female-2395f",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/vga-female-to-female-2395f\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/vga-female-to-fem"
+    },
+    {
+      "path": "/p/shop/motorcycle-speaker-brackets-93eb3",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/motorcycle-speaker-brackets-93eb3\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/motorcycle"
+    },
+    {
+      "path": "/p/shop/power-amps-for-sale-8fbd3",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/power-amps-for-sale-8fbd3\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/power-amps-for-sal"
+    },
+    {
+      "path": "/p/shop/home-theater-systems-sound-a2dd6",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/home-theater-systems-sound-a2dd6\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/home-theate"
+    },
+    {
+      "path": "/p/shop/audio-equipment-shelf-fe9e5",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/audio-equipment-shelf-fe9e5\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/audio-equipment-"
+    },
+    {
+      "path": "/p/shop/floor-standing-home-theater-speakers-3b0bc",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/floor-standing-home-theater-speakers-3b0bc\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/f"
+    },
+    {
+      "path": "/p/shop/female-usb-to-female-hdmi-adapter-fd37a",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/female-usb-to-female-hdmi-adapter-fd37a\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/fema"
+    },
+    {
+      "path": "/p/shop/splitter-phone-jack-0f43d",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/splitter-phone-jack-0f43d\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/splitter-phone-jac"
+    },
+    {
+      "path": "/p/shop/usb-female-female-adapter-6366a",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/usb-female-female-adapter-6366a\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/usb-female-f"
+    },
+    {
+      "path": "/p/shop/speaker-cable-management-e2f95",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/speaker-cable-management-e2f95\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/speaker-cable"
+    },
+    {
+      "path": "/p/shop/connector-banana-0587a",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/connector-banana-0587a\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/connector-banana-0587"
+    },
+    {
+      "path": "/p/shop/two-way-hdmi-splitter-d1590",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/two-way-hdmi-splitter-d1590\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/two-way-hdmi-spl"
+    },
+    {
+      "path": "/p/shop/best-bookshelf-speakers-under-200-a24c9",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/best-bookshelf-speakers-under-200-a24c9\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/best"
+    },
+    {
+      "path": "/p/shop/cat6-internet-cable-5f01d",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/cat6-internet-cable-5f01d\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/cat6-internet-cabl"
+    },
+    {
+      "path": "/p/shop/high-quality-speaker-wire-cable-1aa7e",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/high-quality-speaker-wire-cable-1aa7e\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/high-q"
+    },
+    {
+      "path": "/p/shop/best-in-wall-speakers-c9ee7",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/best-in-wall-speakers-c9ee7\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/best-in-wall-spe"
+    },
+    {
+      "path": "/p/shop/speaker-tv-stand-36c2a",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/speaker-tv-stand-36c2a\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/speaker-tv-stand-36c2"
+    },
+    {
+      "path": "/p/shop/computer-monitor-cable-extender-79a87",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/computer-monitor-cable-extender-79a87\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/comput"
+    },
+    {
+      "path": "/p/shop/best-headphones-amplifier-08f09",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/best-headphones-amplifier-08f09\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/best-headpho"
+    },
+    {
+      "path": "/p/shop/usb-cable-2-0",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/usb-cable-2-0\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/usb-cable-2-0\", waiting until "
+    },
+    {
+      "path": "/p/shop/premade-fiber-optic-cables-56aca",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/premade-fiber-optic-cables-56aca\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/premade-fib"
+    },
+    {
+      "path": "/p/shop/tv-mount-outside-f4ef9",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/tv-mount-outside-f4ef9\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/tv-mount-outside-f4ef"
+    },
+    {
+      "path": "/p/shop/monitoring-headphones-87349",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/p/shop/monitoring-headphones-87349\nCall log:\n  - navigating to \"http://127.0.0.1:8412/p/shop/monitoring-headp"
+    },
+    {
+      "path": "/product?p_id=14807",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=14807\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=14807\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=1075",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=1075\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=1075\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=15666",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15666\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15666\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=14288",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=14288\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=14288\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13251",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13251\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13251\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=1448",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=1448\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=1448\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=12184",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=12184\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=12184\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13219",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13219\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13219\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13761",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13761\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13761\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=12740",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=12740\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=12740\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15430",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15430\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15430\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=12094",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=12094\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=12094\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13545",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13545\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13545\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=16175",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=16175\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=16175\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15244",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15244\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15244\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11310",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11310\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11310\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13919",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13919\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13919\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=10565",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=10565\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=10565\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13618",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13618\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13618\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15520",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15520\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15520\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15129",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15129\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15129\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15172",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15172\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15172\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15141",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15141\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15141\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11309",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11309\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11309\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11341",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11341\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11341\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11331",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11331\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11331\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13401",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13401\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13401\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=1202",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=1202\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=1202\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=15519",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15519\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15519\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=16048",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=16048\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=16048\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=16117",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=16117\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=16117\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=10623",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=10623\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=10623\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15170",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15170\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15170\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15876",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15876\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15876\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=12756",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=12756\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=12756\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13722",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13722\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13722\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=16053",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=16053\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=16053\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11883",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11883\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11883\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=16057",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=16057\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=16057\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13529",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13529\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13529\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13665",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13665\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13665\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13536",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13536\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13536\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=143",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=143\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=143\", waiting until \"domcont"
+    },
+    {
+      "path": "/product?p_id=11284",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11284\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11284\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13662",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13662\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13662\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15156",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15156\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15156\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=15495",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15495\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15495\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13783",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13783\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13783\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=14891",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=14891\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=14891\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13733",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13733\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13733\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11206",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11206\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11206\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=1204",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=1204\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=1204\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=15150",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=15150\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=15150\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11848",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11848\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11848\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13658",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13658\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13658\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13616",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13616\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13616\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11843",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11843\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11843\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=10663",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=10663\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=10663\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13729",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13729\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13729\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11295",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11295\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11295\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13784",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13784\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13784\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13723",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13723\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13723\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13539",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13539\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13539\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13921",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13921\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13921\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11388",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11388\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11388\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=16079",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=16079\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=16079\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=12802",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=12802\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=12802\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13737",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13737\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13737\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=14568",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=14568\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=14568\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=11566",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=11566\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=11566\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13614",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13614\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13614\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=10146",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=10146\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=10146\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13359",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13359\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13359\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=16177",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=16177\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=16177\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=14822",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=14822\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=14822\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13406",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13406\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13406\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=16092",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=16092\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=16092\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=13266",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=13266\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=13266\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=45993",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=45993\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=45993\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=38409",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=38409\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=38409\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=41385",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=41385\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=41385\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=39456",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=39456\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=39456\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=6979",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=6979\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=6979\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=48143",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=48143\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=48143\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=50512",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=50512\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=50512\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=9786",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=9786\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=9786\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=46013",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=46013\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=46013\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=39512",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=39512\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=39512\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=40080",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=40080\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=40080\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=8793",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=8793\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=8793\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=39496",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=39496\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=39496\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=42827",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=42827\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=42827\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=600052",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=600052\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=600052\", waiting until \"d"
+    },
+    {
+      "path": "/product?p_id=4772",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=4772\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=4772\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=5586",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=5586\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=5586\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=31042",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=31042\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=31042\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=45917",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=45917\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=45917\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=6026",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=6026\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=6026\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=610832",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=610832\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=610832\", waiting until \"d"
+    },
+    {
+      "path": "/product?p_id=3439",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=3439\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=3439\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=2287",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=2287\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=2287\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=18813",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=18813\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=18813\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=9859",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=9859\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=9859\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=34229",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=34229\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=34229\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=2067",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=2067\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=2067\", waiting until \"domco"
+    },
+    {
+      "path": "/product?p_id=601191",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=601191\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=601191\", waiting until \"d"
+    },
+    {
+      "path": "/product?p_id=41288",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=41288\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=41288\", waiting until \"dom"
+    },
+    {
+      "path": "/product?p_id=43166",
+      "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8412/product?p_id=43166\nCall log:\n  - navigating to \"http://127.0.0.1:8412/product?p_id=43166\", waiting until \"dom"
+    }
+  ],
   "remote_requests": {
     "distinct_urls": 0,
     "entries": []
   },
   "same_origin_failures": {
-    "distinct": 3,
-    "reproducing_a_source_absence": 0,
+    "distinct": 83,
+    "reproducing_a_source_absence": 2,
     "deliberate": 2,
-    "our_gap": 1,
+    "our_gap": 79,
     "our_gap_entries": [
       {
-        "path": "/category/search/index",
+        "path": "/product",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/product?p_id=14807",
+          "/product?p_id=1075",
+          "/product?p_id=15666",
+          "/product?p_id=14288",
+          "/product?p_id=13251",
+          "/product?p_id=1448",
+          "/product?p_id=12184",
+          "/product?p_id=13219",
+          "/product?p_id=13761",
+          "/product?p_id=12740",
+          "/product?p_id=15430",
+          "/product?p_id=12094",
+          "/product?p_id=13545",
+          "/product?p_id=16175",
+          "/product?p_id=15244",
+          "/product?p_id=11310",
+          "/product?p_id=13919",
+          "/product?p_id=10565",
+          "/product?p_id=13618",
+          "/product?p_id=15520",
+          "/product?p_id=15129",
+          "/product?p_id=15172",
+          "/product?p_id=15141",
+          "/product?p_id=11309",
+          "/product?p_id=11341",
+          "/product?p_id=11331",
+          "/product?p_id=13401",
+          "/product?p_id=1202",
+          "/product?p_id=15519",
+          "/product?p_id=16048",
+          "/product?p_id=16117",
+          "/product?p_id=10623",
+          "/product?p_id=15170",
+          "/product?p_id=15876",
+          "/product?p_id=12756",
+          "/product?p_id=13722",
+          "/product?p_id=16053",
+          "/product?p_id=11883",
+          "/product?p_id=16057",
+          "/product?p_id=13529",
+          "/product?p_id=13665",
+          "/product?p_id=13536",
+          "/product?p_id=143",
+          "/product?p_id=11284",
+          "/product?p_id=13662",
+          "/product?p_id=15156",
+          "/product?p_id=15495",
+          "/product?p_id=13783",
+          "/product?p_id=14891",
+          "/product?p_id=13733",
+          "/product?p_id=11206",
+          "/product?p_id=1204",
+          "/product?p_id=15150",
+          "/product?p_id=11848",
+          "/product?p_id=13658",
+          "/product?p_id=13616",
+          "/product?p_id=11843",
+          "/product?p_id=10663",
+          "/product?p_id=13729",
+          "/product?p_id=11295",
+          "/product?p_id=13784",
+          "/product?p_id=13723",
+          "/product?p_id=13539",
+          "/product?p_id=13921",
+          "/product?p_id=11388",
+          "/product?p_id=16079",
+          "/product?p_id=12802",
+          "/product?p_id=13737",
+          "/product?p_id=14568",
+          "/product?p_id=11566",
+          "/product?p_id=13614",
+          "/product?p_id=10146",
+          "/product?p_id=13359",
+          "/product?p_id=16177",
+          "/product?p_id=14822",
+          "/product?p_id=13406",
+          "/product?p_id=16092",
+          "/product?p_id=13266",
+          "/product?p_id=45993",
+          "/product?p_id=38409",
+          "/product?p_id=41385",
+          "/product?p_id=39456",
+          "/product?p_id=6979",
+          "/product?p_id=48143",
+          "/product?p_id=50512",
+          "/product?p_id=9786",
+          "/product?p_id=46013",
+          "/product?p_id=39512",
+          "/product?p_id=40080",
+          "/product?p_id=8793",
+          "/product?p_id=39496",
+          "/product?p_id=42827",
+          "/product?p_id=600052",
+          "/product?p_id=4772",
+          "/product?p_id=5586",
+          "/product?p_id=31042",
+          "/product?p_id=45917",
+          "/product?p_id=6026",
+          "/product?p_id=610832",
+          "/product?p_id=3439",
+          "/product?p_id=2287",
+          "/product?p_id=18813",
+          "/product?p_id=9859",
+          "/product?p_id=34229",
+          "/product?p_id=2067",
+          "/product?p_id=601191",
+          "/product?p_id=41288",
+          "/product?p_id=43166"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/cms_images/warning_icon.svg",
         "reason": 404,
         "routes": [
-          "/category/search/index"
+          "/product?p_id=9854",
+          "/product?p_id=38911",
+          "/product?p_id=39660",
+          "/product?p_id=39663",
+          "/product?p_id=46632",
+          "/product?p_id=48608",
+          "/product?p_id=16356",
+          "/product?p_id=287",
+          "/product?p_id=34827",
+          "/product?p_id=49339",
+          "/product?p_id=7322",
+          "/product?p_id=8143",
+          "/product?p_id=49349",
+          "/product?p_id=50531",
+          "/product?p_id=9724",
+          "/product?p_id=7300",
+          "/product?p_id=16338",
+          "/product?p_id=601510",
+          "/product?p_id=2682",
+          "/product?p_id=4061",
+          "/product?p_id=5460",
+          "/product?p_id=45894",
+          "/product?p_id=45937",
+          "/product?p_id=34491",
+          "/product?p_id=46349",
+          "/product?p_id=47868",
+          "/product?p_id=612754",
+          "/product?p_id=7169",
+          "/product?p_id=38905",
+          "/product?p_id=48601",
+          "/product?p_id=47917",
+          "/product?p_id=16335",
+          "/product?p_id=47097",
+          "/product?p_id=18675",
+          "/product?p_id=43391",
+          "/product?p_id=45982",
+          "/product?p_id=31032",
+          "/product?p_id=43396",
+          "/product?p_id=34312",
+          "/product?p_id=49378",
+          "/product?p_id=41703",
+          "/product?p_id=47869",
+          "/product?p_id=29478",
+          "/product?p_id=44666",
+          "/product?p_id=45810",
+          "/product?p_id=49728",
+          "/product?p_id=44322",
+          "/product?p_id=43213",
+          "/product?p_id=2127",
+          "/product?p_id=31181",
+          "/product?p_id=48226",
+          "/product?p_id=27398",
+          "/product?p_id=39535",
+          "/product?p_id=5308",
+          "/product?p_id=9787",
+          "/product?p_id=44906",
+          "/product?p_id=445",
+          "/product?p_id=21594",
+          "/product?p_id=44561",
+          "/product?p_id=4956",
+          "/product?p_id=47203",
+          "/product?p_id=6357",
+          "/product?p_id=44651",
+          "/product?p_id=47669",
+          "/product?p_id=16316",
+          "/product?p_id=50147",
+          "/product?p_id=625855",
+          "/product?p_id=43594",
+          "/product?p_id=45996",
+          "/product?p_id=44346"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/amplifier-headphone-19cac",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/amplifier-headphone-19cac"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/12-3-audio-cord",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/12-3-audio-cord"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/dac-and-headphone-amplifier-c3c53",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/dac-and-headphone-amplifier-c3c53"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-budget-amp-for-headphones-3b8cc",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-budget-amp-for-headphones-3b8cc"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/banana-type-connector-3bf2f",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/banana-type-connector-3bf2f"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/usb-3-to-usb-2-5cbd0",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/usb-3-to-usb-2-5cbd0"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/shielded-cat5-connector-54b7e",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/shielded-cat5-connector-54b7e"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/display-cable-for-monitor-9c767",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/display-cable-for-monitor-9c767"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/dvi-adapter-types-2f651",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/dvi-adapter-types-2f651"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/rg-6-coaxial-cable-connectors-6bb75",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/rg-6-coaxial-cable-connectors-6bb75"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/av-receiver-stereo-hdmi-cf2c1",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/av-receiver-stereo-hdmi-cf2c1"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/coax-cable-crimpers-b5a2e",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/coax-cable-crimpers-b5a2e"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/rg6-quad-shield-connectors-09d44",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/rg6-quad-shield-connectors-09d44"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/speakers-black-friday-ac756",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/speakers-black-friday-ac756"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/all-types-of-usb-cables-0b7da",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/all-types-of-usb-cables-0b7da"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/db-25-connector-73f48",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/db-25-connector-73f48"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/is-there-a-noticeable-different-between-displayport-and-hdmi-b8f44",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/is-there-a-noticeable-different-between-displayport-and-hdmi-b8f44"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/type-c-to-hdmi-female-e308d",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/type-c-to-hdmi-female-e308d"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/serial-male-to-female-adapter-539ae",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/serial-male-to-female-adapter-539ae"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/serial-cable-rs232-3fcbe",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/serial-cable-rs232-3fcbe"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/multimode-fiber-optic-cable-96491",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/multimode-fiber-optic-cable-96491"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-home-ceiling-speakers-66bc7",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-home-ceiling-speakers-66bc7"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/video-switcher-hdmi-db699",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/video-switcher-hdmi-db699"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/rca-to-female-jack-00990",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/rca-to-female-jack-00990"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/computer-electric-cord-a4543",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/computer-electric-cord-a4543"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/a-usb-cord-f14ad",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/a-usb-cord-f14ad"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/db25-connector-f1891",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/db25-connector-f1891"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/f-type-cable-fb7d5",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/f-type-cable-fb7d5"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/cat5-cat6-cable-f97a7",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/cat5-cat6-cable-f97a7"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/b-and-w-speaker-stands-f6d62",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/b-and-w-speaker-stands-f6d62"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/cable-splitter-audio-af4d7",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/cable-splitter-audio-af4d7"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-stereo-wire-connectors-0a2cc",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-stereo-wire-connectors-0a2cc"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/rj-11-cable-dc875",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/rj-11-cable-dc875"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/15-subwoofer-speaker-2a9be",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/15-subwoofer-speaker-2a9be"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/home-theater-system-with-bluetooth-speakers-5cb14",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/home-theater-system-with-bluetooth-speakers-5cb14"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/outdoor-mountable-speakers-b527f",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/outdoor-mountable-speakers-b527f"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/aptx-wireless-speakers-662a2",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/aptx-wireless-speakers-662a2"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/3-5-mm-audio-jack-wiring",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/3-5-mm-audio-jack-wiring"
         ],
         "reproduces_source_absence": false,
         "deliberate": false
       }
     ],
-    "routes_affected": 80,
+    "routes_affected": 371,
     "entries": [
       {
-        "path": "/p/xa5e8du3i6ydnjgwnzmzntuzzdkzzdc0zwm0ymnhmzrj/uqemxyc3uvchwn2caygbjwiuvli",
+        "path": "/static/assets/www.monoprice.com/assets/css/fonts/hawksearch.woff",
         "reason": 404,
         "routes": [
-          "/p/shop/3-5-mm-rca-female",
-          "/p/shop/amplifier-headphone-19cac",
-          "/p/shop/12-3-audio-cord",
-          "/p/shop/dac-and-headphone-amplifier-c3c53",
-          "/p/shop/best-budget-amp-for-headphones-3b8cc",
-          "/p/shop/banana-type-connector-3bf2f",
-          "/p/shop/usb-3-to-usb-2-5cbd0",
-          "/p/shop/shielded-cat5-connector-54b7e",
-          "/p/shop/display-cable-for-monitor-9c767",
-          "/p/shop/dvi-adapter-types-2f651",
-          "/p/shop/rg-6-coaxial-cable-connectors-6bb75",
-          "/p/shop/av-receiver-stereo-hdmi-cf2c1",
-          "/p/shop/coax-cable-crimpers-b5a2e",
-          "/p/shop/rg6-quad-shield-connectors-09d44",
-          "/p/shop/speakers-black-friday-ac756",
-          "/p/shop/all-types-of-usb-cables-0b7da",
-          "/p/shop/db-25-connector-73f48",
-          "/p/shop/is-there-a-noticeable-different-between-displayport-and-hdmi-b8f44",
-          "/p/shop/type-c-to-hdmi-female-e308d",
-          "/p/shop/serial-male-to-female-adapter-539ae",
-          "/p/shop/serial-cable-rs232-3fcbe",
-          "/p/shop/multimode-fiber-optic-cable-96491",
-          "/p/shop/best-home-ceiling-speakers-66bc7",
-          "/p/shop/video-switcher-hdmi-db699",
-          "/p/shop/rca-to-female-jack-00990",
-          "/p/shop/computer-electric-cord-a4543",
-          "/p/shop/a-usb-cord-f14ad",
-          "/p/shop/db25-connector-f1891",
-          "/p/shop/f-type-cable-fb7d5",
-          "/p/shop/cat5-cat6-cable-f97a7",
-          "/p/shop/b-and-w-speaker-stands-f6d62",
-          "/p/shop/cable-splitter-audio-af4d7",
-          "/p/shop/best-stereo-wire-connectors-0a2cc",
-          "/p/shop/rj-11-cable-dc875",
-          "/p/shop/15-subwoofer-speaker-2a9be",
-          "/p/shop/home-theater-system-with-bluetooth-speakers-5cb14",
-          "/p/shop/outdoor-mountable-speakers-b527f",
-          "/p/shop/aptx-wireless-speakers-662a2",
-          "/p/shop/3-5-mm-audio-jack-wiring",
-          "/p/shop/best-speaker-stand-a3628",
-          "/p/shop/good-home-theatre-subwoofer-c6d4c",
-          "/p/shop/4-speaker-surround-sound-d919e",
-          "/p/shop/speaker-subwoofer-8-inch-ea3d4",
-          "/p/shop/best-buy-speaker-cables-554f0",
-          "/p/shop/toslink-optical-audio-splitter-ab88d",
-          "/p/shop/kinds-of-dvi-cables-b3bb7",
-          "/p/shop/power-supply-cable-computer-ba850",
-          "/p/shop/usb-to-db9-serial-cable-14026",
-          "/p/shop/c16-power-cable-1e9ac",
-          "/p/shop/100-foot-cable-942b2",
-          "/p/shop/shielded-cat5-cable-8a878",
-          "/p/shop/18-gauge-shielded-cable-b6644",
-          "/p/shop/subwoofer-on-sale-90894",
-          "/p/shop/cat5e-shielded-cable-a48db",
-          "/p/shop/usb2-0-ethernet-adapter-d5411",
-          "/p/shop/vga-female-to-female-2395f",
-          "/p/shop/motorcycle-speaker-brackets-93eb3",
-          "/p/shop/power-amps-for-sale-8fbd3",
-          "/p/shop/home-theater-systems-sound-a2dd6",
-          "/p/shop/audio-equipment-shelf-fe9e5",
-          "/p/shop/floor-standing-home-theater-speakers-3b0bc",
-          "/p/shop/female-usb-to-female-hdmi-adapter-fd37a",
-          "/p/shop/splitter-phone-jack-0f43d",
-          "/p/shop/usb-female-female-adapter-6366a",
-          "/p/shop/speaker-cable-management-e2f95",
-          "/p/shop/connector-banana-0587a",
-          "/p/shop/two-way-hdmi-splitter-d1590",
-          "/p/shop/best-bookshelf-speakers-under-200-a24c9",
-          "/p/shop/cat6-internet-cable-5f01d",
-          "/p/shop/high-quality-speaker-wire-cable-1aa7e",
-          "/p/shop/best-in-wall-speakers-c9ee7",
-          "/p/shop/speaker-tv-stand-36c2a",
-          "/p/shop/computer-monitor-cable-extender-79a87",
-          "/p/shop/best-headphones-amplifier-08f09",
-          "/p/shop/usb-cable-2-0",
-          "/p/shop/premade-fiber-optic-cables-56aca",
-          "/p/shop/tv-mount-outside-f4ef9",
-          "/p/shop/monitoring-headphones-87349"
+          "/search/index?keyword=hdmi+cable",
+          "/search/index?keyword=zzzqqqnope",
+          "/category/networking/network-racks-&-cabinets/racks-&-rack-trays",
+          "/category/cables/pro-audio-cables/mobile-&-combo-adapter-cables",
+          "/category/audio-video/audio-&-video-accessories/tools-&-cleaning-kits",
+          "/category/pro-audio-&-musical-instruments/guitars-&-accessories/bass-guitars",
+          "/category/networking/network-racks-&-cabinets",
+          "/category/mounts-&-stands/speaker-mounts-&-stands",
+          "/category/computers-&-gaming/monitors-&-displays/desktop-monitors",
+          "/category/mobile/headphones/on-ear-headphones",
+          "/category/pro-audio-&-musical-instruments/pro-audio-cables/microphone-cables-(xlr-cables)",
+          "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories/guitar-stands",
+          "/category/outdoor/camping",
+          "/category/cables/hdmi-cables/hdmi-cables",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters",
+          "/category/cables/video-cables/coaxial-&-bnc-cables",
+          "/category/cables/data-cables/firewire-cables",
+          "/category/audio-video/speakers/bookshelf-speakers",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters",
+          "/category/networking/fiber-optic-cables/single-mode-cables",
+          "/category/cables/fiber-optic-cables/single-mode-cables",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset",
+          "/category/3d-printing-&-hobbies/craft-cutters-&-accessories/craft-cutters-",
+          "/category/cables/data-cables/serial-cables",
+          "/category/networking/network-racks-&-cabinets/wallmount-server-cabinets-&-brackets",
+          "/category/networking/network-racks-&-cabinets/components-&-accessories",
+          "/category/audio-video/televisions/televisions",
+          "/category/cables/data-cables/phone-cables",
+          "/category/networking/wired-networking/usb-to-ethernet-converters",
+          "/category/computers-&-gaming/pc-gaming/gaming-surfaces",
+          "/category/outdoor/furniture",
+          "/category/smart-home-&-security/smart-home/smart-sensors-&-thermostats",
+          "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories",
+          "/category/audio-video/commercial-audio-&-digital-signage/digital-signage",
+          "/category/pro-audio-&-musical-instruments/microphones",
+          "/category/home-&-office/home-appliances/small-appliances",
+          "/category/networking/tools-&-testers/cable-jacket-strippers",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/drive-adapters",
+          "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals",
+          "/category/outdoor/furniture/tables",
+          "/category/cables/usb-&-lightning-cables/usb-cables",
+          "/category/audio-video/projectors-&-screens/projectors",
+          "/category/home-&-office/power-&-surge",
+          "/category/networking/network-racks-&-cabinets/rings-&-cable-management-panels",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix",
+          "/category/networking/network-installation-accessories",
+          "/category/pro-audio-&-musical-instruments/pro-audio-cables/speaker-cables",
+          "/category/pro-audio-&-musical-instruments/microphones/condenser-microphones",
+          "/category/mounts-&-stands/tv-wall-mounts/tilt-tv-wall-mounts",
+          "/category/home-&-office/games-&-leisure",
+          "/category/search/index",
+          "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/monitor-&-computer-splitters",
+          "/category/cables/audio-cables/speaker-wire",
+          "/category/smart-home-&-security/smart-home/smart-plugs-&-connectivity",
+          "/category/cables/computer-&-printer-cables/printer-cables",
+          "/category/pro-audio-&-musical-instruments/pro-audio-cables/midi-cables",
+          "/category/networking/fiber-optic-adapters/fiber-optic-adapters",
+          "/category/audio-video/cameras-&-accessories/cameras-&-lenses",
+          "/category/smart-home-&-security/surveillance-cameras-&-accessories/ip-cameras",
+          "/category/home-&-office/power-&-surge/extension-cords",
+          "/category/networking/fiber-optic-adapters",
+          "/category/cables/computer-&-printer-cables/usb-b-cables",
+          "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-stands",
+          "/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/sdi-adapters",
+          "/category/cables/hdmi-cables/hdmi-extension-cables",
+          "/category/home-&-office/office-furniture",
+          "/category/networking/cable-management/hook-&-loop",
+          "/category/smart-home-&-security/smart-home/smart-lighting-&-switches",
+          "/category/computers-&-gaming/pc-components/cases",
+          "/category/pro-audio-&-musical-instruments/dj-systems/dj-accessories",
+          "/category/home-&-office/monitor-mounts",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers",
+          "/category/cables/audio-cables/digital-coaxial-cables",
+          "/category/audio-video/commercial-audio-&-digital-signage",
+          "/category/cables/pro-audio-cables",
+          "/category/networking/wireless-networking/networking-dishes-&-antennas",
+          "/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts",
+          "/category/pro-audio-&-musical-instruments/dj-systems/mixers-&-amplifiers",
+          "/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts",
+          "/category/mounts-&-stands/projectors-&-screens/projector-mounts",
+          "/category/cables/usb-&-lightning-cables/lightning-cables",
+          "/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves",
+          "/category/audio-video/surge-protection/wall-tap-surge-protectors",
+          "/category/mounts-&-stands/instrument-stands-&-accessories",
+          "/category/home-&-office/sit-stand-desks/motorized-sit-stand-desks",
+          "/category/networking/networking-bulk-cables/cat6-bulk-ethernet-cables",
+          "/category/mounts-&-stands/instrument-stands-&-accessories/sheet-music-stands",
+          "/category/pro-audio-&-musical-instruments/microphones/usb-microphones",
+          "/category/computers-&-gaming/storage-&-drives/usb-flash-drives",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-converters",
+          "/category/audio-video/audio-&-video-accessories",
+          "/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers",
+          "/category/smart-home-&-security/surveillance-cameras-&-accessories",
+          "/category/networking/network-racks-&-cabinets/network-racks",
+          "/category/edi",
+          "/category/computers-&-gaming/storage-&-drives/sd-cards",
+          "/category/audio-video/cameras-&-accessories/camera-accessories",
+          "/category/outdoor/weatherproof-cases-&-containers/weatherproof-cases",
+          "/category/mobile/charging/usb-wall-chargers",
+          "/category/networking/network-installation-accessories/modular-plugs",
+          "/category/cables/usb-&-lightning-cables/usb-c-cables",
+          "/category/networking/network-installation-accessories/networking-keystone-wall-plates",
+          "/category/home-&-office/office-furniture/desk-organizers",
+          "/category/cables/bulk-cables/bulk-microphone-cables",
+          "/category/computers%20&%20gaming/peripherals%20&%20accessories/docking%20stations",
+          "/category/home-&-office/office-supplies-&-gadgets/office-gadgets",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters",
+          "/category/networking/cable-management/cable-covers-&-raceways",
+          "/category/audio-video/speakers/sound-bars",
+          "/category/cables/data-cables",
+          "/category/pro-audio-&-musical-instruments/dj-systems",
+          "/category/audio-video/headphones/headphone-amplifiers"
+        ],
+        "reproduces_source_absence": true,
+        "deliberate": false
+      },
+      {
+        "path": "/static/assets/www.monoprice.com/assets/css/fonts/hawksearch.ttf",
+        "reason": 404,
+        "routes": [
+          "/search/index?keyword=hdmi+cable",
+          "/search/index?keyword=zzzqqqnope",
+          "/category/networking/network-racks-&-cabinets/racks-&-rack-trays",
+          "/category/cables/pro-audio-cables/mobile-&-combo-adapter-cables",
+          "/category/audio-video/audio-&-video-accessories/tools-&-cleaning-kits",
+          "/category/pro-audio-&-musical-instruments/guitars-&-accessories/bass-guitars",
+          "/category/networking/network-racks-&-cabinets",
+          "/category/mounts-&-stands/speaker-mounts-&-stands",
+          "/category/computers-&-gaming/monitors-&-displays/desktop-monitors",
+          "/category/mobile/headphones/on-ear-headphones",
+          "/category/pro-audio-&-musical-instruments/pro-audio-cables/microphone-cables-(xlr-cables)",
+          "/category/pro-audio-&-musical-instruments/instrument-stands-&-accessories/guitar-stands",
+          "/category/outdoor/camping",
+          "/category/cables/hdmi-cables/hdmi-cables",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters",
+          "/category/cables/video-cables/coaxial-&-bnc-cables",
+          "/category/cables/data-cables/firewire-cables",
+          "/category/audio-video/speakers/bookshelf-speakers",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/usb-adapters",
+          "/category/networking/fiber-optic-cables/single-mode-cables",
+          "/category/cables/fiber-optic-cables/single-mode-cables",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/hdbaset",
+          "/category/3d-printing-&-hobbies/craft-cutters-&-accessories/craft-cutters-",
+          "/category/cables/data-cables/serial-cables",
+          "/category/networking/network-racks-&-cabinets/wallmount-server-cabinets-&-brackets",
+          "/category/networking/network-racks-&-cabinets/components-&-accessories",
+          "/category/audio-video/televisions/televisions",
+          "/category/cables/data-cables/phone-cables",
+          "/category/networking/wired-networking/usb-to-ethernet-converters",
+          "/category/computers-&-gaming/pc-gaming/gaming-surfaces",
+          "/category/outdoor/furniture",
+          "/category/smart-home-&-security/smart-home/smart-sensors-&-thermostats",
+          "/category/pro-audio-&-musical-instruments/studio-sound-&-accessories",
+          "/category/audio-video/commercial-audio-&-digital-signage/digital-signage",
+          "/category/pro-audio-&-musical-instruments/microphones",
+          "/category/home-&-office/home-appliances/small-appliances",
+          "/category/networking/tools-&-testers/cable-jacket-strippers",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/drive-adapters",
+          "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-pedals",
+          "/category/outdoor/furniture/tables",
+          "/category/cables/usb-&-lightning-cables/usb-cables",
+          "/category/audio-video/projectors-&-screens/projectors",
+          "/category/home-&-office/power-&-surge",
+          "/category/networking/network-racks-&-cabinets/rings-&-cable-management-panels",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-matrix",
+          "/category/networking/network-installation-accessories",
+          "/category/pro-audio-&-musical-instruments/pro-audio-cables/speaker-cables",
+          "/category/pro-audio-&-musical-instruments/microphones/condenser-microphones",
+          "/category/mounts-&-stands/tv-wall-mounts/tilt-tv-wall-mounts",
+          "/category/home-&-office/games-&-leisure",
+          "/category/search/index",
+          "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-amplifiers",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/monitor-&-computer-splitters",
+          "/category/cables/audio-cables/speaker-wire",
+          "/category/smart-home-&-security/smart-home/smart-plugs-&-connectivity",
+          "/category/cables/computer-&-printer-cables/printer-cables",
+          "/category/pro-audio-&-musical-instruments/pro-audio-cables/midi-cables",
+          "/category/networking/fiber-optic-adapters/fiber-optic-adapters",
+          "/category/audio-video/cameras-&-accessories/cameras-&-lenses",
+          "/category/smart-home-&-security/surveillance-cameras-&-accessories/ip-cameras",
+          "/category/home-&-office/power-&-surge/extension-cords",
+          "/category/networking/fiber-optic-adapters",
+          "/category/cables/computer-&-printer-cables/usb-b-cables",
+          "/category/pro-audio-&-musical-instruments/guitars-&-accessories/guitar-stands",
+          "/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/sdi-adapters",
+          "/category/cables/hdmi-cables/hdmi-extension-cables",
+          "/category/home-&-office/office-furniture",
+          "/category/networking/cable-management/hook-&-loop",
+          "/category/smart-home-&-security/smart-home/smart-lighting-&-switches",
+          "/category/computers-&-gaming/pc-components/cases",
+          "/category/pro-audio-&-musical-instruments/dj-systems/dj-accessories",
+          "/category/home-&-office/monitor-mounts",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/gender-changers",
+          "/category/cables/audio-cables/digital-coaxial-cables",
+          "/category/audio-video/commercial-audio-&-digital-signage",
+          "/category/cables/pro-audio-cables",
+          "/category/networking/wireless-networking/networking-dishes-&-antennas",
+          "/category/mounts-&-stands/tv-wall-mounts/digital-signage-mounts",
+          "/category/pro-audio-&-musical-instruments/dj-systems/mixers-&-amplifiers",
+          "/category/mounts-&-stands/tv-wall-mounts/full-motion-tv-wall-mounts",
+          "/category/mounts-&-stands/projectors-&-screens/projector-mounts",
+          "/category/cables/usb-&-lightning-cables/lightning-cables",
+          "/category/mounts-&-stands/monitor-mounts/monitor-stand-&-shelves",
+          "/category/audio-video/surge-protection/wall-tap-surge-protectors",
+          "/category/mounts-&-stands/instrument-stands-&-accessories",
+          "/category/home-&-office/sit-stand-desks/motorized-sit-stand-desks",
+          "/category/networking/networking-bulk-cables/cat6-bulk-ethernet-cables",
+          "/category/mounts-&-stands/instrument-stands-&-accessories/sheet-music-stands",
+          "/category/pro-audio-&-musical-instruments/microphones/usb-microphones",
+          "/category/computers-&-gaming/storage-&-drives/usb-flash-drives",
+          "/category/adapters,-switches,-&-splitters/audio-video-distribution/audio-video-converters",
+          "/category/audio-video/audio-&-video-accessories",
+          "/category/adapters,-switches,-&-splitters/audio-adapters/speaker-selectors-&-volume-controllers",
+          "/category/smart-home-&-security/surveillance-cameras-&-accessories",
+          "/category/networking/network-racks-&-cabinets/network-racks",
+          "/category/edi",
+          "/category/computers-&-gaming/storage-&-drives/sd-cards",
+          "/category/audio-video/cameras-&-accessories/camera-accessories",
+          "/category/outdoor/weatherproof-cases-&-containers/weatherproof-cases",
+          "/category/mobile/charging/usb-wall-chargers",
+          "/category/networking/network-installation-accessories/modular-plugs",
+          "/category/cables/usb-&-lightning-cables/usb-c-cables",
+          "/category/networking/network-installation-accessories/networking-keystone-wall-plates",
+          "/category/home-&-office/office-furniture/desk-organizers",
+          "/category/cables/bulk-cables/bulk-microphone-cables",
+          "/category/computers%20&%20gaming/peripherals%20&%20accessories/docking%20stations",
+          "/category/home-&-office/office-supplies-&-gadgets/office-gadgets",
+          "/category/adapters,-switches,-&-splitters/av-&-computer-adapters/displayport-&-mini-displayport-adapters",
+          "/category/networking/cable-management/cable-covers-&-raceways",
+          "/category/audio-video/speakers/sound-bars",
+          "/category/cables/data-cables",
+          "/category/pro-audio-&-musical-instruments/dj-systems",
+          "/category/audio-video/headphones/headphone-amplifiers"
+        ],
+        "reproduces_source_absence": true,
+        "deliberate": false
+      },
+      {
+        "path": "/product",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/product?p_id=14807",
+          "/product?p_id=1075",
+          "/product?p_id=15666",
+          "/product?p_id=14288",
+          "/product?p_id=13251",
+          "/product?p_id=1448",
+          "/product?p_id=12184",
+          "/product?p_id=13219",
+          "/product?p_id=13761",
+          "/product?p_id=12740",
+          "/product?p_id=15430",
+          "/product?p_id=12094",
+          "/product?p_id=13545",
+          "/product?p_id=16175",
+          "/product?p_id=15244",
+          "/product?p_id=11310",
+          "/product?p_id=13919",
+          "/product?p_id=10565",
+          "/product?p_id=13618",
+          "/product?p_id=15520",
+          "/product?p_id=15129",
+          "/product?p_id=15172",
+          "/product?p_id=15141",
+          "/product?p_id=11309",
+          "/product?p_id=11341",
+          "/product?p_id=11331",
+          "/product?p_id=13401",
+          "/product?p_id=1202",
+          "/product?p_id=15519",
+          "/product?p_id=16048",
+          "/product?p_id=16117",
+          "/product?p_id=10623",
+          "/product?p_id=15170",
+          "/product?p_id=15876",
+          "/product?p_id=12756",
+          "/product?p_id=13722",
+          "/product?p_id=16053",
+          "/product?p_id=11883",
+          "/product?p_id=16057",
+          "/product?p_id=13529",
+          "/product?p_id=13665",
+          "/product?p_id=13536",
+          "/product?p_id=143",
+          "/product?p_id=11284",
+          "/product?p_id=13662",
+          "/product?p_id=15156",
+          "/product?p_id=15495",
+          "/product?p_id=13783",
+          "/product?p_id=14891",
+          "/product?p_id=13733",
+          "/product?p_id=11206",
+          "/product?p_id=1204",
+          "/product?p_id=15150",
+          "/product?p_id=11848",
+          "/product?p_id=13658",
+          "/product?p_id=13616",
+          "/product?p_id=11843",
+          "/product?p_id=10663",
+          "/product?p_id=13729",
+          "/product?p_id=11295",
+          "/product?p_id=13784",
+          "/product?p_id=13723",
+          "/product?p_id=13539",
+          "/product?p_id=13921",
+          "/product?p_id=11388",
+          "/product?p_id=16079",
+          "/product?p_id=12802",
+          "/product?p_id=13737",
+          "/product?p_id=14568",
+          "/product?p_id=11566",
+          "/product?p_id=13614",
+          "/product?p_id=10146",
+          "/product?p_id=13359",
+          "/product?p_id=16177",
+          "/product?p_id=14822",
+          "/product?p_id=13406",
+          "/product?p_id=16092",
+          "/product?p_id=13266",
+          "/product?p_id=45993",
+          "/product?p_id=38409",
+          "/product?p_id=41385",
+          "/product?p_id=39456",
+          "/product?p_id=6979",
+          "/product?p_id=48143",
+          "/product?p_id=50512",
+          "/product?p_id=9786",
+          "/product?p_id=46013",
+          "/product?p_id=39512",
+          "/product?p_id=40080",
+          "/product?p_id=8793",
+          "/product?p_id=39496",
+          "/product?p_id=42827",
+          "/product?p_id=600052",
+          "/product?p_id=4772",
+          "/product?p_id=5586",
+          "/product?p_id=31042",
+          "/product?p_id=45917",
+          "/product?p_id=6026",
+          "/product?p_id=610832",
+          "/product?p_id=3439",
+          "/product?p_id=2287",
+          "/product?p_id=18813",
+          "/product?p_id=9859",
+          "/product?p_id=34229",
+          "/product?p_id=2067",
+          "/product?p_id=601191",
+          "/product?p_id=41288",
+          "/product?p_id=43166"
         ],
         "reproduces_source_absence": false,
-        "deliberate": true
+        "deliberate": false
+      },
+      {
+        "path": "/cms_images/warning_icon.svg",
+        "reason": 404,
+        "routes": [
+          "/product?p_id=9854",
+          "/product?p_id=38911",
+          "/product?p_id=39660",
+          "/product?p_id=39663",
+          "/product?p_id=46632",
+          "/product?p_id=48608",
+          "/product?p_id=16356",
+          "/product?p_id=287",
+          "/product?p_id=34827",
+          "/product?p_id=49339",
+          "/product?p_id=7322",
+          "/product?p_id=8143",
+          "/product?p_id=49349",
+          "/product?p_id=50531",
+          "/product?p_id=9724",
+          "/product?p_id=7300",
+          "/product?p_id=16338",
+          "/product?p_id=601510",
+          "/product?p_id=2682",
+          "/product?p_id=4061",
+          "/product?p_id=5460",
+          "/product?p_id=45894",
+          "/product?p_id=45937",
+          "/product?p_id=34491",
+          "/product?p_id=46349",
+          "/product?p_id=47868",
+          "/product?p_id=612754",
+          "/product?p_id=7169",
+          "/product?p_id=38905",
+          "/product?p_id=48601",
+          "/product?p_id=47917",
+          "/product?p_id=16335",
+          "/product?p_id=47097",
+          "/product?p_id=18675",
+          "/product?p_id=43391",
+          "/product?p_id=45982",
+          "/product?p_id=31032",
+          "/product?p_id=43396",
+          "/product?p_id=34312",
+          "/product?p_id=49378",
+          "/product?p_id=41703",
+          "/product?p_id=47869",
+          "/product?p_id=29478",
+          "/product?p_id=44666",
+          "/product?p_id=45810",
+          "/product?p_id=49728",
+          "/product?p_id=44322",
+          "/product?p_id=43213",
+          "/product?p_id=2127",
+          "/product?p_id=31181",
+          "/product?p_id=48226",
+          "/product?p_id=27398",
+          "/product?p_id=39535",
+          "/product?p_id=5308",
+          "/product?p_id=9787",
+          "/product?p_id=44906",
+          "/product?p_id=445",
+          "/product?p_id=21594",
+          "/product?p_id=44561",
+          "/product?p_id=4956",
+          "/product?p_id=47203",
+          "/product?p_id=6357",
+          "/product?p_id=44651",
+          "/product?p_id=47669",
+          "/product?p_id=16316",
+          "/product?p_id=50147",
+          "/product?p_id=625855",
+          "/product?p_id=43594",
+          "/product?p_id=45996",
+          "/product?p_id=44346"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
       },
       {
         "path": "/definitely-not-a-real-route-websitebench",
@@ -134,10 +1754,676 @@
         "deliberate": true
       },
       {
-        "path": "/category/search/index",
+        "path": "/p/xa5e8du3i6ydnjgwnzmzntuzzdkzzdc0zwm0ymnhmzrj/uqemxyc3uvchwn2caygbjwiuvli",
         "reason": 404,
         "routes": [
-          "/category/search/index"
+          "/p/shop/3-5-mm-rca-female"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": true
+      },
+      {
+        "path": "/p/shop/amplifier-headphone-19cac",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/amplifier-headphone-19cac"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/12-3-audio-cord",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/12-3-audio-cord"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/dac-and-headphone-amplifier-c3c53",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/dac-and-headphone-amplifier-c3c53"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-budget-amp-for-headphones-3b8cc",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-budget-amp-for-headphones-3b8cc"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/banana-type-connector-3bf2f",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/banana-type-connector-3bf2f"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/usb-3-to-usb-2-5cbd0",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/usb-3-to-usb-2-5cbd0"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/shielded-cat5-connector-54b7e",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/shielded-cat5-connector-54b7e"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/display-cable-for-monitor-9c767",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/display-cable-for-monitor-9c767"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/dvi-adapter-types-2f651",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/dvi-adapter-types-2f651"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/rg-6-coaxial-cable-connectors-6bb75",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/rg-6-coaxial-cable-connectors-6bb75"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/av-receiver-stereo-hdmi-cf2c1",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/av-receiver-stereo-hdmi-cf2c1"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/coax-cable-crimpers-b5a2e",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/coax-cable-crimpers-b5a2e"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/rg6-quad-shield-connectors-09d44",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/rg6-quad-shield-connectors-09d44"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/speakers-black-friday-ac756",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/speakers-black-friday-ac756"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/all-types-of-usb-cables-0b7da",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/all-types-of-usb-cables-0b7da"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/db-25-connector-73f48",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/db-25-connector-73f48"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/is-there-a-noticeable-different-between-displayport-and-hdmi-b8f44",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/is-there-a-noticeable-different-between-displayport-and-hdmi-b8f44"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/type-c-to-hdmi-female-e308d",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/type-c-to-hdmi-female-e308d"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/serial-male-to-female-adapter-539ae",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/serial-male-to-female-adapter-539ae"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/serial-cable-rs232-3fcbe",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/serial-cable-rs232-3fcbe"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/multimode-fiber-optic-cable-96491",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/multimode-fiber-optic-cable-96491"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-home-ceiling-speakers-66bc7",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-home-ceiling-speakers-66bc7"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/video-switcher-hdmi-db699",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/video-switcher-hdmi-db699"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/rca-to-female-jack-00990",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/rca-to-female-jack-00990"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/computer-electric-cord-a4543",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/computer-electric-cord-a4543"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/a-usb-cord-f14ad",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/a-usb-cord-f14ad"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/db25-connector-f1891",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/db25-connector-f1891"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/f-type-cable-fb7d5",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/f-type-cable-fb7d5"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/cat5-cat6-cable-f97a7",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/cat5-cat6-cable-f97a7"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/b-and-w-speaker-stands-f6d62",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/b-and-w-speaker-stands-f6d62"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/cable-splitter-audio-af4d7",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/cable-splitter-audio-af4d7"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-stereo-wire-connectors-0a2cc",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-stereo-wire-connectors-0a2cc"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/rj-11-cable-dc875",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/rj-11-cable-dc875"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/15-subwoofer-speaker-2a9be",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/15-subwoofer-speaker-2a9be"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/home-theater-system-with-bluetooth-speakers-5cb14",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/home-theater-system-with-bluetooth-speakers-5cb14"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/outdoor-mountable-speakers-b527f",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/outdoor-mountable-speakers-b527f"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/aptx-wireless-speakers-662a2",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/aptx-wireless-speakers-662a2"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/3-5-mm-audio-jack-wiring",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/3-5-mm-audio-jack-wiring"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-speaker-stand-a3628",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-speaker-stand-a3628"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/good-home-theatre-subwoofer-c6d4c",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/good-home-theatre-subwoofer-c6d4c"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/4-speaker-surround-sound-d919e",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/4-speaker-surround-sound-d919e"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/speaker-subwoofer-8-inch-ea3d4",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/speaker-subwoofer-8-inch-ea3d4"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-buy-speaker-cables-554f0",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-buy-speaker-cables-554f0"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/toslink-optical-audio-splitter-ab88d",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/toslink-optical-audio-splitter-ab88d"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/kinds-of-dvi-cables-b3bb7",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/kinds-of-dvi-cables-b3bb7"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/power-supply-cable-computer-ba850",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/power-supply-cable-computer-ba850"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/usb-to-db9-serial-cable-14026",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/usb-to-db9-serial-cable-14026"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/c16-power-cable-1e9ac",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/c16-power-cable-1e9ac"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/100-foot-cable-942b2",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/100-foot-cable-942b2"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/shielded-cat5-cable-8a878",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/shielded-cat5-cable-8a878"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/18-gauge-shielded-cable-b6644",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/18-gauge-shielded-cable-b6644"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/subwoofer-on-sale-90894",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/subwoofer-on-sale-90894"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/cat5e-shielded-cable-a48db",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/cat5e-shielded-cable-a48db"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/usb2-0-ethernet-adapter-d5411",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/usb2-0-ethernet-adapter-d5411"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/vga-female-to-female-2395f",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/vga-female-to-female-2395f"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/motorcycle-speaker-brackets-93eb3",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/motorcycle-speaker-brackets-93eb3"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/power-amps-for-sale-8fbd3",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/power-amps-for-sale-8fbd3"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/home-theater-systems-sound-a2dd6",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/home-theater-systems-sound-a2dd6"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/audio-equipment-shelf-fe9e5",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/audio-equipment-shelf-fe9e5"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/floor-standing-home-theater-speakers-3b0bc",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/floor-standing-home-theater-speakers-3b0bc"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/female-usb-to-female-hdmi-adapter-fd37a",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/female-usb-to-female-hdmi-adapter-fd37a"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/splitter-phone-jack-0f43d",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/splitter-phone-jack-0f43d"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/usb-female-female-adapter-6366a",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/usb-female-female-adapter-6366a"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/speaker-cable-management-e2f95",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/speaker-cable-management-e2f95"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/connector-banana-0587a",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/connector-banana-0587a"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/two-way-hdmi-splitter-d1590",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/two-way-hdmi-splitter-d1590"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-bookshelf-speakers-under-200-a24c9",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-bookshelf-speakers-under-200-a24c9"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/cat6-internet-cable-5f01d",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/cat6-internet-cable-5f01d"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/high-quality-speaker-wire-cable-1aa7e",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/high-quality-speaker-wire-cable-1aa7e"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-in-wall-speakers-c9ee7",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-in-wall-speakers-c9ee7"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/speaker-tv-stand-36c2a",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/speaker-tv-stand-36c2a"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/computer-monitor-cable-extender-79a87",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/computer-monitor-cable-extender-79a87"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/best-headphones-amplifier-08f09",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/best-headphones-amplifier-08f09"
+        ],
+        "reproduces_source_absence": false,
+        "deliberate": false
+      },
+      {
+        "path": "/p/shop/usb-cable-2-0",
+        "reason": "net::ERR_CONNECTION_REFUSED",
+        "routes": [
+          "/p/shop/usb-cable-2-0"
         ],
         "reproduces_source_absence": false,
         "deliberate": false
@@ -145,16 +2431,16 @@
     ]
   },
   "console_errors": {
-    "routes_with_errors": 80,
+    "routes_with_errors": 186,
     "by_message_route_count": [
       [
         "Failed to load resource: the server responded with a status of 404 (Not Found)",
-        80
+        186
       ]
     ]
   },
   "undefined_custom_elements": {
-    "zoovu-zoe": 195,
+    "zoovu-zoe": 87,
     "monoprice-footer": 1
   },
   "content_floor": {
@@ -165,7 +2451,7 @@
         "path": "/product?p_id=99999999",
         "status": 200,
         "title": "Products no longer Available",
-        "nodes": 2978,
+        "nodes": 2980,
         "images": 16,
         "imagesBroken": 14,
         "imagesBrokenVisible": 0,
@@ -181,7 +2467,7 @@
   "totals": {
     "min_text_chars": 467,
     "min_style_rules": 1213,
-    "broken_images": 4583,
-    "broken_images_visible": 0
+    "broken_images": 3142,
+    "broken_images_visible": 70
   }
 }

@@ -357,3 +357,54 @@ a filter that does nothing.
 
 `tools/verify_interactions.py` exists to answer this question first. Run it
 before adding behaviour, not only after.
+
+## The controls, and what drives each one
+
+Three separate defects on this site were "a control that does nothing", and all
+three were found by a person clicking, never by a gate. They do not share a
+mechanism, so there is no single check for them — this is the list.
+
+| control | how it works | where it is answered |
+|---|---|---|
+| search box | inline shim; Enter → `/search/index?keyword=` | `search_page` |
+| facet group heading | the **site's own** inline jQuery `slideDown`/`slideUp` | nothing to do — do not shim it |
+| facet value link | an ordinary `<a href>` carrying `*_uFilter=` | `selected_facets` + `matches_facets` |
+| sort dropdown | `js_sort` → current path + the option's `data-url` | `sort_clause`, six modes |
+| page size dropdown | same `js_sort`, `rows=25/50/75/100` | `page_size` |
+| variant value | POST `/product/selectpid` | `clone/static/variant-map.json` |
+| Add to Cart | `MPI.ee.addToCart` → POST `/Cart` | `/cart` + case bridge |
+| checkout | form POST `/checkout` with a sandbox scenario | `commerce.py` |
+
+`tools/verify_interactions.py` drives every row of this table in one browser
+context. Run it after touching the app or the freezer. Testing the endpoint is
+not testing the control: Add to Cart was dead for a day while 39 tests passed,
+because every one of them POSTed to `/cart` directly.
+
+**Two of the checks in that tool were themselves wrong before they were right.**
+The facet-link check first asserted `filtered <= unfiltered`, which passed while
+the handler ignored every facet parameter, because equality satisfies it. Then
+it asserted `filtered < unfiltered`, which failed on a filter that worked
+correctly — facets are applied *before* the page limit, so a filtered search
+fills a full page exactly as an unfiltered one does. What is actually true is
+that the set of products changes: 24 products, 16 of them new.
+
+## Sort and page size
+
+`/search/index` honours both, because it renders per request:
+
+    sort=                                    Best Match (relevance)
+    sort=title asc
+    sort=sellingPrice asc | desc
+    sort=rating_count desc,sort_rating desc
+    sort=first_instock_date desc,sku desc    (no date in the catalogue; the
+                                              sku half is reproduced, claim cl-024)
+    rows=25 | 50 | 75 | 100                  default 24
+
+The clause is chosen from a table keyed on the source's own strings, never built
+from the parameter.
+
+A **category** page is frozen source markup, so its order is fixed and a sort
+selection does not reorder it. Before this pass such a URL answered 404
+outright, because `js_sort` appends `menuDisStr`, `sort` and `TotalProducts` and
+none of that matched the route map. The catch-all now retries the lookup without
+those four parameters. See claim cl-024.

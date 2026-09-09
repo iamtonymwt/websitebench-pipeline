@@ -1,18 +1,18 @@
 {
   "schema_version": "monoprice.search-template.v1",
   "candidates": 437,
-  "donor_page": "search/index/q__Number_of_Channels_uFilter=2&TotalProducts=224&keyword=clearance%2Foverstock.8f45340f.html.gz",
+  "donor_page": "search/index/q__TotalProducts=11&keyword=DisplayPort+cable.df7787d9.html.gz",
   "product_links_in_donor": 115,
   "tile_candidates": 25,
   "best_donor_distinct_products": 25,
-  "tiles_after_median_filter": 24,
+  "tiles_after_median_filter": 25,
   "substitutions": {
     "name": 4,
-    "name_truncated_at": 58,
-    "pid": 22,
+    "name_truncated_at": 42,
+    "pid": 26,
     "price": 2
   },
-  "tile_bytes": 13449,
+  "tile_bytes": 15753,
   "checks": {
     "tile_has_name": true,
     "tile_has_pid": true,
@@ -21,12 +21,15 @@
     "repeating_yields_two_links": true
   },
   "failed_checks": [],
+  "result_rows_removed": 25,
+  "results_mark_placed": true,
+  "donor_product_links_left": 0,
   "query_substitutions": {
     "@@WB_QUERY@@": 24,
     "@@WB_QUERY@@_UPPER": 1,
-    "@@WB_QUERY@@_ENC": 285
+    "@@WB_QUERY@@_PLUS": 46
   },
   "result_count_not_substituted": true,
   "written": true,
-  "page_bytes": 1112873
+  "page_bytes": 562704
 }

@@ -61,13 +61,33 @@ def find_tiles(html: str) -> list[tuple[int, int, str]]:
 
     A tile is a `<tr>` whose product links all name the same id.
     """
-    tiles: list[tuple[int, int, str]] = []
-    for match in ROW.finditer(html):
-        block = match.group(0)
-        ids = set(re.findall(r'href="/product\?p_id=(\d+)"', block))
-        if len(ids) == 1:
-            tiles.append((match.start(), match.end(), block))
-    return tiles
+    # Innermost rows only, found by walking depth rather than by a non-greedy
+    # `<tr>.*?</tr>`.
+    #
+    # That pattern, started on an OUTER layout row, ends at the first inner
+    # `</tr>` -- a span that begins before `<div id="existresult">` and ends
+    # inside the first product row. It contains exactly one product id, so it
+    # passed for a tile. The median filter happened to reject it for being
+    # 21,384 bytes, which is the only reason the page kept its results
+    # container; removing every "tile" then deleted `#existresult` outright and
+    # the search page had nowhere to put results.
+    #
+    # A real tile contains no nested row. That is the whole rule.
+    rows: list[tuple[int, int, str]] = []
+    stack: list[int] = []
+    for m in re.finditer(r"<(/?)tr\b[^>]*>", html, re.I):
+        if not m.group(1):
+            stack.append(m.start())
+        elif stack:
+            start = stack.pop()
+            block = html[start:m.end()]
+            if len(re.findall(r"<tr\b", block, re.I)) != 1:
+                continue
+            ids = set(re.findall(r'href="/product\?p_id=(\d+)"', block))
+            if len(ids) == 1:
+                rows.append((start, m.end(), block))
+    rows.sort()
+    return rows
 
 
 def main() -> int:
@@ -93,16 +113,32 @@ def main() -> int:
     # never discriminated between a page with results and a page without; it just
     # matched everything. The count of distinct products the catalogue knows is
     # the signal: the promotional keyword pages carry 4, a real search carries 25.
-    scored: list[tuple[int, pathlib.Path, str, list[str]]] = []
+    scored: list[tuple[int, tuple[int, int], pathlib.Path, str, list[str]]] = []
     for path in candidates:
         html = load(path)
         links = re.findall(r'href="/product\?p_id=(\d+)"', html)
         known = [pid for pid in links if pid in by_id]
-        scored.append((len(set(known)), path, html, known))
-    scored.sort(key=lambda row: -row[0])
+        # Prefer a donor whose own URL selected no facets.
+        #
+        # Every facet link in the sidebar preserves the facets already selected
+        # on the page it was captured from. The first donor chosen here was
+        # `?Number_of_Channels_uFilter=2&keyword=clearance/overstock`, so every
+        # filter link on every search the clone served carried
+        # `Number_of_Channels_uFilter=2` -- and no HDMI cable has that, so
+        # clicking any filter returned nothing at all. The sidebar looked right
+        # and was inert.
+        #
+        # Paging is avoided for the same kind of reason: a `pgNum=3` donor bakes
+        # page three's paging state into every page.
+        from_url = urllib.parse.unquote(path.name)
+        penalty = (len(re.findall(r"_uFilter=", from_url)),
+                   1 if "pgNum=" in from_url else 0)
+        scored.append((len(set(known)), penalty, path, html, known))
+    # Most products first, then fewest inherited facets, then no paging.
+    scored.sort(key=lambda row: (-row[0], row[1]))
     chosen = None
     if scored and scored[0][0] >= 8:
-        _, path_best, html_best, known_best = scored[0]
+        _, _, path_best, html_best, known_best = scored[0]
         chosen = (path_best, html_best, known_best)
     report_distinct = scored[0][0] if scored else 0
 
@@ -121,6 +157,13 @@ def main() -> int:
     route = str(path.relative_to(frozen_root)).removesuffix(".html.gz")
     donor_url = next((u for u, r in route_map.items() if r == route), "")
     tiles = find_tiles(html)
+    # Every result row, before the median filter narrows the list to a
+    # representative shape. The filter exists to choose which row to TEMPLATE;
+    # it must not decide which rows to REMOVE. Using the filtered list left the
+    # one row the filter rejected -- p_id 44695, 21,384 bytes against a median
+    # band -- sitting in the page, and every search on the clone opened with
+    # that product.
+    all_result_rows = list(tiles)
     report["donor_page"] = str(path.relative_to(frozen_root))
     report["product_links_in_donor"] = len(known)
     report["tile_candidates"] = len(tiles)
@@ -215,7 +258,48 @@ def main() -> int:
         print(f"\nREFUSING to write: {failed}")
         return 1
 
-    page = html[:start] + RESULTS_MARK + html[end:]
+    # Replace EVERY result row, not just the one that was templated.
+    #
+    # This line used to be `html[:start] + RESULTS_MARK + html[end:]`, which
+    # removed the single row we had turned into a tile and left the donor's other
+    # 24 rows sitting in the page. Every search on the clone then rendered the
+    # donor's products above its own results: `hdmi cable`, `speaker` and
+    # `keyboard` all began with p_id 44695. It also doubled the page -- the
+    # visible-content audit measured 2.67x the source's text and blamed the facet
+    # sidebar, because 24 extra product rows look like ordinary page weight.
+    #
+    # The rows come from ROW.finditer, so they do not overlap, and the picked one
+    # is among them. Rebuild the page around them in one pass.
+    rows_to_drop = sorted((s, e) for s, e, _ in all_result_rows)
+    pieces: list[str] = []
+    cursor = 0
+    replaced_at = None
+    for s, e in rows_to_drop:
+        if s < cursor:                       # defensive: never happens for <tr>
+            continue
+        pieces.append(html[cursor:s])
+        if s == start:
+            pieces.append(RESULTS_MARK)
+            replaced_at = s
+        cursor = e
+    pieces.append(html[cursor:])
+    page = "".join(pieces)
+    report["result_rows_removed"] = len(rows_to_drop)
+    report["results_mark_placed"] = replaced_at is not None
+
+    # The refusal. A donor product link left in the page is a product the clone
+    # advertises on every search regardless of the query.
+    leftover = re.findall(r'href="/product\?p_id=(\d+)"', page)
+    report["donor_product_links_left"] = len(leftover)
+    if leftover or replaced_at is None:
+        report["written"] = False
+        report["leftover_examples"] = sorted(set(leftover))[:8]
+        pathlib.Path(args.report).write_text(json.dumps(report, indent=2) + "\n")
+        print(json.dumps(report, indent=2))
+        print(f"\nREFUSING to write: {len(leftover)} donor product links remain "
+              f"in the template page, or the results mark was never placed. "
+              f"Every search would show those products.")
+        return 1
 
     # The donor's own query is baked into the page 25 times as text and 284
     # times URL-encoded -- in the title, the heading, the breadcrumb and every

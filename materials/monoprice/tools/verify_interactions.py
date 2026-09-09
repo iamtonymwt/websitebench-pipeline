@@ -107,28 +107,32 @@ def check_facet_link_filters(page, base: str, href: str | None) -> dict:
     page.goto(f"{base}/search/index?keyword=hdmi+cable", wait_until="load",
               timeout=120000)
     page.wait_for_timeout(2000)
-    wide = page.evaluate(
-        "() => document.querySelectorAll('a[href*=\"p_id=\"]').length")
+    wide = page.evaluate("""() => [...new Set([...document.querySelectorAll(
+        'a[href*="p_id="]')].map(a => a.href.match(/p_id=(\\d+)/)[1]))]""")
     page.goto(base + href if href.startswith("/") else href,
               wait_until="load", timeout=120000)
     page.wait_for_timeout(2000)
     narrow = page.evaluate("""() => ({
-      tiles: document.querySelectorAll('a[href*="p_id="]').length,
+      ids: [...new Set([...document.querySelectorAll('a[href*="p_id="]')]
+        .map(a => a.href.match(/p_id=(\\d+)/)[1]))],
       visible: [...document.querySelectorAll('a[href*="p_id="]')]
         .filter(a => a.getBoundingClientRect().height > 0).length,
       title: document.title.slice(0, 60)
     })""")
-    # Strictly narrower, and not empty. `<=` was the original assertion and it
-    # passed while the handler ignored every facet parameter and returned the
-    # identical 316 results under a filtered heading -- equality satisfies
-    # "narrower or equal", so the check could not tell filtering from no
-    # filtering at all. A filter that returns nothing is equally broken, hence
-    # both bounds.
-    ok = 0 < narrow["visible"] and narrow["tiles"] < wide
+    # The products must CHANGE, and there must still be some.
+    #
+    # Not "fewer": facets are applied before the page limit, so a filtered
+    # search fills a full page just as an unfiltered one does, and the counts
+    # match. Two earlier versions of this check were both wrong -- `<=` passed
+    # while the handler ignored the parameter entirely, and `<` then failed on
+    # a filter that was working correctly.
+    ok = bool(narrow["ids"]) and set(narrow["ids"]) != set(wide)
+    changed = len(set(narrow["ids"]) - set(wide))
     return {"name": "facet_link_filters", "ok": ok,
-            "detail": (f"unfiltered {wide} tiles -> filtered {narrow['tiles']} "
-                       f"({narrow['visible']} visible)"),
-            "after": narrow}
+            "detail": (f"unfiltered {len(wide)} products -> filtered "
+                       f"{len(narrow['ids'])}, {changed} of them new "
+                       f"({narrow['visible']} tiles visible)"),
+            "after": {k: v for k, v in narrow.items() if k != "ids"}}
 
 
 def check_search_box(page, base: str) -> dict:

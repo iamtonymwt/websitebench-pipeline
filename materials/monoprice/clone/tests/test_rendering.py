@@ -327,24 +327,34 @@ def test_partial_extraction_returns_the_whole_panel():
 # Facet filtering
 # --------------------------------------------------------------------------- #
 
-def test_facet_parameter_actually_narrows_results(client):
-    """Following a filter link must return fewer products.
+def test_facet_parameter_actually_filters(client):
+    """Following a filter link must change which products come back.
 
-    The search handler read only `keyword`, so a facet link re-rendered the
-    identical result set under a heading claiming it was filtered. The
-    interaction check missed it too, because it asserted `filtered <= unfiltered`
-    and equality satisfies that.
+    Not "fewer products": facets are applied before the page limit, so a
+    filtered search fills a full page of 24 from the wider matching set, exactly
+    as an unfiltered one does. The first version of this test asserted
+    `filtered < unfiltered` and passed only because the search page was also
+    rendering 24 of the donor page's own products at the time.
+
+    What must be true is that the products are different, and that every one of
+    them actually carries the value that was filtered on.
     """
-    wide = client.get("/search/index", params={"keyword": "hdmi cable"}).text
-    wide_n = len(set(re.findall(r"p_id=(\d+)", wide)))
-    narrow = client.get("/search/index",
-                        params={"keyword": "hdmi cable",
-                                "v_master_Length_uFilter": "6ft"}).text
-    narrow_n = len(set(re.findall(r"p_id=(\d+)", narrow)))
-    assert narrow_n < wide_n, (
-        f"the 6ft filter returned {narrow_n} distinct products against "
-        f"{wide_n} unfiltered -- the facet parameter is being ignored")
-    assert narrow_n > 0, "the 6ft filter returned nothing at all"
+    wide = _result_ids(client, keyword="hdmi cable")
+    narrow = _result_ids(client, keyword="hdmi cable",
+                         v_master_Length_uFilter="6ft")
+    assert narrow, "the 6ft filter returned nothing"
+    assert set(narrow) != set(wide), (
+        "the filtered result set is identical to the unfiltered one, so the "
+        "facet parameter is being ignored")
+
+    import app as clone_module
+    with clone_module.connection() as conn:
+        names = [conn.execute("SELECT name FROM products WHERE p_id = ?",
+                              (pid,)).fetchone()[0].lower() for pid in narrow]
+    misses = [n for n in names if not re.search(r"(?<![a-z0-9])6ft(?![a-z0-9])", n)]
+    assert not misses, (
+        f"{len(misses)} of {len(names)} products returned for a Length=6ft "
+        f"filter do not carry 6ft as a token: {misses[:3]}")
 
 
 def test_facet_value_ampersand_encoding_is_decoded(client):
@@ -425,3 +435,146 @@ def test_product_page_triggers_its_own_content_fills(client):
     assert '"p_id":"39165"' in call.group(1).replace(" ", ""), (
         f"the product page triggers its fills with {call.group(1)[:80]} -- that "
         f"is not this product's id, so it would show another product's tabs")
+
+
+# --------------------------------------------------------------------------- #
+# Third-party stripping, in both directions
+# --------------------------------------------------------------------------- #
+#
+# This has now been broken both ways in one session. Matching vendor names as
+# substrings deleted the site's own code (`unbxdVersion`, `mp_unbxd_search.css`);
+# narrowing to hosts then let an inline loader through that assembles its URL at
+# run time, putting 114 remote requests back into a clone that had none. Both
+# directions are asserted here, on the frozen output rather than on the
+# function, because the output is what ships.
+
+THIRD_PARTY_IN_FROZEN = [
+    "google-analytics.com", "googletagmanager.com", "adobedtm.com",
+    "onetrust.com", "criteo.com", "hotjar.com", "facebook.net",
+]
+
+
+def test_frozen_pages_reference_no_third_party_host():
+    if not FROZEN.exists():
+        pytest.skip("nothing frozen yet")
+    offenders = []
+    pages = sorted(FROZEN.rglob("*.html.gz"))[::53]
+    for path in pages:
+        with gzip.open(path, "rb") as fh:
+            html = fh.read().decode("utf-8", "replace").lower()
+        for host in THIRD_PARTY_IN_FROZEN:
+            if host in html:
+                offenders.append(f"{path.relative_to(FROZEN)}: {host}")
+    assert not offenders, (
+        f"{len(offenders)} frozen pages still name a third-party host, which "
+        f"means a loader survived and will fetch at run time: {offenders[:5]}")
+
+
+def test_frozen_product_pages_keep_their_own_trigger():
+    """First-party code that merely mentions a vendor must survive."""
+    if not FROZEN.exists():
+        pytest.skip("nothing frozen yet")
+    product_dir = FROZEN / "product"
+    if not product_dir.exists():
+        pytest.skip("no frozen product pages")
+    checked = with_trigger = 0
+    for path in sorted(product_dir.glob("q__p_id=*.html.gz"))[::7]:
+        with gzip.open(path, "rb") as fh:
+            html = fh.read().decode("utf-8", "replace")
+        if "mp_productPage_more" not in html:
+            continue          # absent-product pages do not carry the filler
+        checked += 1
+        if "productPageStuff.initialize" in html:
+            with_trigger += 1
+    if not checked:
+        pytest.skip("no product page in the sample carries the filler script")
+    assert with_trigger == checked, (
+        f"{checked - with_trigger} of {checked} product pages load the filler "
+        f"script but no longer call productPageStuff.initialize -- the trigger "
+        f"was stripped, so their recommendations and tab panels never load. It "
+        f"contains the substring 'unbxd', which is a third-party host hint.")
+
+
+# --------------------------------------------------------------------------- #
+# Sort, page size, and the donor's own results
+# --------------------------------------------------------------------------- #
+
+def _result_ids(client, **params):
+    """Product ids inside the results container only."""
+    body = client.get("/search/index", params=params).text
+    segment = body.split('id="existresult"', 1)[-1]
+    out = []
+    for m in re.finditer(r"p_id=(\d+)", segment):
+        if m.group(1) not in out:
+            out.append(m.group(1))
+    return out
+
+
+def test_search_page_shows_no_products_from_the_donor_page():
+    """Every search used to open with the donor's own first product.
+
+    `extract_search_template.py` replaced only the one row it had templated and
+    left the donor's other 24 rows in the page, so `hdmi cable`, `speaker` and
+    `keyboard` all began with p_id 44695. It also inflated the page enough that
+    the visible-content audit read 2.67x the source's text and blamed the facet
+    sidebar.
+    """
+    path = STATIC / "search-template.json"
+    if not path.exists():
+        pytest.skip("search template has not been built")
+    template = json.loads(path.read_text(encoding="utf-8"))
+    leftover = re.findall(r'href="/product\?p_id=(\d+)"', template["page"])
+    assert not leftover, (
+        f"the search template still carries {len(leftover)} product links of "
+        f"its own ({sorted(set(leftover))[:5]}); they appear on every search "
+        f"regardless of the query")
+
+
+def test_sort_changes_the_order(client):
+    default = _result_ids(client, keyword="hdmi cable")
+    assert len(default) > 5, "not enough results to test sorting"
+    for sort in ("title asc", "sellingPrice asc", "sellingPrice desc",
+                 "rating_count desc,sort_rating desc",
+                 "first_instock_date desc,sku desc"):
+        ordered = _result_ids(client, keyword="hdmi cable", sort=sort)
+        assert ordered, f"sort={sort!r} returned nothing"
+        assert ordered != default, (
+            f"sort={sort!r} produced the same order as Best Match. The control "
+            f"navigates to a URL this handler must read; ignoring the parameter "
+            f"reloads an identical page and looks broken.")
+
+
+def test_price_sort_is_actually_ordered(client):
+    import app as clone_module
+    for sort, ascending in (("sellingPrice asc", True), ("sellingPrice desc", False)):
+        ids = _result_ids(client, keyword="hdmi cable", sort=sort)
+        with clone_module.connection() as conn:
+            prices = []
+            for pid in ids[:12]:
+                row = conn.execute("SELECT price FROM products WHERE p_id = ?",
+                                   (pid,)).fetchone()
+                if row and row[0] is not None:
+                    prices.append(row[0])
+        pairs = list(zip(prices, prices[1:]))
+        ok = all(a <= b for a, b in pairs) if ascending else \
+             all(a >= b for a, b in pairs)
+        assert ok, f"{sort} produced {prices[:8]}, which is not ordered"
+
+
+def test_page_size_is_honoured(client):
+    assert len(_result_ids(client, keyword="hdmi cable")) == 24
+    assert len(_result_ids(client, keyword="hdmi cable", rows="50")) == 50
+    # An unoffered size falls back rather than being trusted.
+    assert len(_result_ids(client, keyword="hdmi cable", rows="9999")) == 24
+    assert len(_result_ids(client, keyword="hdmi cable", rows="nonsense")) == 24
+
+
+def test_sorted_listing_url_is_not_a_404(client):
+    """The category page's own js_sort navigates to a URL like this."""
+    r = client.get("/category/cables/hdmi-cables/hdmi-cables",
+                   params={"menuDisStr": "hdmi cables",
+                           "sort": "sellingPrice asc", "TotalProducts": "36"})
+    assert r.status_code == 200, (
+        f"choosing a sort on a category page answered {r.status_code}; the "
+        f"listing is frozen so the order does not change, but it must still "
+        f"render (claim cl-024)")

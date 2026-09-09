@@ -32,6 +32,7 @@ Things worth knowing before changing this file:
 
 from __future__ import annotations
 
+import functools
 import gzip
 import hashlib
 import json
@@ -521,12 +522,23 @@ def matches_facets(row: sqlite3.Row, facets: list[tuple[str, list[str]]],
             continue
         # Every other facet -- Length, Color, Wattage, Gauge, Connector -- is an
         # attribute the catalogue does not carry as a field. It is carried in the
-        # product name, which is where the variant map reads it from too. Values
-        # that are not in the name filter nothing rather than filtering wrongly.
+        # product name, which is where the variant map reads it from too.
+        #
+        # Matched on a token boundary, not as a substring: `6ft` is inside
+        # `16ft`, so a plain `in` test kept 23 of 24 results for a Length=6ft
+        # filter and the narrowing looked real while being almost meaningless.
+        # Same shape as the vendor-name substring that deleted first-party code
+        # in the freezer -- match the thing, not text containing it.
         name = row["name"].lower()
-        if not any(v.lower() in name for v in values):
+        if not any(FACET_VALUE_BOUNDARY(v).search(name) for v in values):
             return False
     return True
+
+
+@functools.lru_cache(maxsize=2048)
+def FACET_VALUE_BOUNDARY(value: str) -> re.Pattern:  # noqa: N802
+    return re.compile(r"(?<![A-Za-z0-9])" + re.escape(value.lower())
+                      + r"(?![A-Za-z0-9])")
 
 
 # 24 per page, because that is what the source serves. Counted on a frozen
@@ -539,8 +551,57 @@ def matches_facets(row: sqlite3.Row, facets: list[tuple[str, list[str]]],
 SEARCH_PAGE_SIZE = 24
 
 
+# The sort control was inert, and the page-size control with it.
+#
+# Both are `<select>` elements whose options carry the whole query string, and
+# the page's own inline `js_sort` navigates to it:
+#
+#   <select name="itemsort" onchange="js_sort(this,1)">
+#     <option data-url="keyword=hdmi cable&sort=sellingPrice asc&TotalProducts=224">
+#   function js_sort(forms, type) {
+#     var Domain = "/search/index";
+#     location.href = Domain + "?" + $('option:selected', forms).attr('data-url');
+#   }
+#
+# So selecting a sort produced a perfectly good URL that this handler read
+# `keyword` out of and nothing else -- the page reloaded, looked identical, and
+# the control appeared broken. Same shape as the facets, found the same way: by
+# someone using the page.
+#
+# The clause is chosen from this table, never built from the parameter. The
+# values are the source's own strings, read off the options it serves.
+SORT_CLAUSES = {
+    "": None,                                            # Best Match
+    "title asc": "name COLLATE NOCASE ASC",
+    "sellingprice asc": "price IS NULL, price ASC",
+    "sellingprice desc": "price IS NULL, price DESC",
+    "rating_count desc,sort_rating desc":
+        "CAST(COALESCE(rating_count,'0') AS INTEGER) DESC, "
+        "CAST(COALESCE(rating_value,'0') AS REAL) DESC",
+    # No first_instock_date in the catalogue -- the source's own sort is
+    # `first_instock_date desc,sku desc`, so the sku half is reproduced and the
+    # date half is not. Recorded rather than faked with a random order.
+    "first_instock_date desc,sku desc": "CAST(p_id AS INTEGER) DESC",
+}
+# The page-size control offers exactly these.
+PAGE_SIZE_CHOICES = (25, 50, 75, 100)
+
+
+def sort_clause(raw: str) -> str | None:
+    return SORT_CLAUSES.get(" ".join((raw or "").lower().split()))
+
+
+def page_size(raw: str) -> int:
+    try:
+        wanted = int(raw)
+    except (TypeError, ValueError):
+        return SEARCH_PAGE_SIZE
+    return wanted if wanted in PAGE_SIZE_CHOICES else SEARCH_PAGE_SIZE
+
+
 def search_products(term: str, limit: int = SEARCH_PAGE_SIZE,
-                    facets: list[tuple[str, list[str]]] | None = None
+                    facets: list[tuple[str, list[str]]] | None = None,
+                    order_by: str | None = None
                     ) -> list[sqlite3.Row]:
     if not term.strip():
         return []
@@ -548,17 +609,28 @@ def search_products(term: str, limit: int = SEARCH_PAGE_SIZE,
     # Facets are applied before the limit. Filtering the first 48 rows would make
     # a narrow facet return almost nothing for reasons that have nothing to do
     # with the facet.
+    # Only facets need a wider fetch, because they are applied in Python after
+    # the query. Ordering happens in SQL, so `LIMIT limit` already returns the
+    # correct top N -- widening the fetch for it and forgetting to truncate is
+    # what made a sorted search return 198 results where an unsorted one
+    # returned 24.
     fetch = limit if not facets else max(limit * 20, 600)
+    # Relevance is the default and is the source's "Best Match": an exact prefix
+    # first, then shorter names. An explicit sort replaces it entirely.
+    ordering = order_by or ("CASE WHEN name LIKE ? THEN 0 ELSE 1 END, "
+                            "LENGTH(name), name")
+    params: list = [like, term.strip(), like]
+    if order_by is None:
+        params.append(f"{term.strip()}%")
+    params.append(fetch)
     with connection() as conn:
         conn.row_factory = sqlite3.Row
         rows = conn.execute(
-            "SELECT p_id, name, brand, price, currency FROM products "
-            "WHERE name LIKE ? OR sku = ? OR brand LIKE ? "
-            "ORDER BY CASE WHEN name LIKE ? THEN 0 ELSE 1 END, LENGTH(name), name "
-            "LIMIT ?",
-            (like, term.strip(), like, f"{term.strip()}%", fetch)).fetchall()
+            "SELECT p_id, name, brand, price, currency, rating_count, rating_value "
+            "FROM products WHERE name LIKE ? OR sku = ? OR brand LIKE ? "
+            f"ORDER BY {ordering} LIMIT ?", params).fetchall()
         if not facets:
-            return rows
+            return rows[:limit]
         category_members = {
             key: products_in_categories(conn, values)
             for key, values in facets if CATEGORY_FACET.match(key)}
@@ -589,7 +661,10 @@ def search_page(request: Request) -> Response:
 
     keyword = (request.query_params.get("keyword") or "").strip()
     facets = selected_facets(request.query_params)
-    rows = search_products(keyword, facets=facets) if keyword else []
+    ordering = sort_clause(request.query_params.get("sort") or "")
+    size = page_size(request.query_params.get("rows") or "")
+    rows = (search_products(keyword, limit=size, facets=facets, order_by=ordering)
+            if keyword else [])
     truncate_at = template.get("name_truncate_at")
 
     tiles = []
@@ -1322,6 +1397,32 @@ def catch_all(full_path: str, request: Request) -> Response:
         response = frozen_response(route, accept_encoding=accept)
         if response is not None:
             return response
+
+    # A listing reached with a sort or page-size selection. The page's own
+    # `js_sort` navigates to the current path plus the option's whole query
+    # string, so a category URL arrives as
+    #
+    #   /category/cables/hdmi-cables/hdmi-cables?&menuDisStr=hdmi cables
+    #       &sort=sellingPrice asc&TotalProducts=36
+    #
+    # and none of that matched the route map, so choosing a sort on a category
+    # page answered 404 -- worse than the search page, where it merely had no
+    # effect. Retrying the lookup without those four parameters serves the
+    # captured listing instead. Its order is the order the source served, so the
+    # selection still does not reorder a category; see claim cl-024. The route
+    # map is not rebuilt for this, and the key function is left alone, so no two
+    # captured pages can collide as a result.
+    if route is None:
+        stripped = [(k, v) for k, v in request.query_params.multi_items()
+                    if k.lower() not in ("sort", "rows", "menudisstr",
+                                         "totalproducts")]
+        if len(stripped) != len(request.query_params.multi_items()):
+            retry = _state.get("routes", {}).get(
+                canonical_request_key(path, urllib.parse.urlencode(stripped)))
+            if retry is not None:
+                response = frozen_response(retry, accept_encoding=accept)
+                if response is not None:
+                    return response
 
     if low.startswith("/product"):
         return product_page(request)

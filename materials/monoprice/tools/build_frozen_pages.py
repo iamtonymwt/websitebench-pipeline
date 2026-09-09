@@ -509,9 +509,39 @@ class Localiser:
 URL_IN_TAG = re.compile(r"""(?:https?:)?//[^\s"'<>()\\]{4,}""", re.I)
 
 
+# A hostname written in code, with a real TLD.
+#
+# Inline loaders assemble their URL at run time, so no complete URL literal
+# exists for the URL test to find. Google Optimize's is the one that got through:
+#
+#   d.write('<sc' + 'ript src="' + 'http'
+#           + (l.protocol == 'https:' ? 's://ssl' : '://www')
+#           + '.google-analytics.com/ga_exp.js?' + 'utmxkey=' + k
+#           + '&utmxtime=' + new Date().valueOf() + ...);
+#
+# Keeping it put 114 remote requests back into a clone that had none. The old
+# substring test caught this by accident, and narrowing to hosts lost it -- so
+# the text is searched for hostname *tokens*, which is what a substring test
+# should have been doing all along.
+#
+# Requiring a real TLD is what keeps this from eating first-party code again:
+# `unbxdVersion` has no dot, and `mp_unbxd_search.css` ends in `.css`, so
+# neither is a hostname and neither matches.
+HOSTNAME_IN_TEXT = re.compile(
+    r"\b[a-z0-9](?:[a-z0-9-]*[a-z0-9])?"
+    r"(?:\.[a-z0-9](?:[a-z0-9-]*[a-z0-9])?)*"
+    r"\.(?:com|net|org|io|co|tv|cloud|app|ai|uk|de)\b", re.I)
+
+
 def tag_is_third_party(tag_text: str) -> bool:
     for m in URL_IN_TAG.finditer(tag_text):
         if url_is_third_party(m.group(0)):
+            return True
+    for m in HOSTNAME_IN_TEXT.finditer(tag_text):
+        host = m.group(0).lower()
+        if host in LOCAL_HOSTS:
+            continue
+        if any(h in host for h in THIRD_PARTY_HOST_HINTS):
             return True
     for m in URL_ATTR_SPAN.finditer(tag_text):
         value = m.group("v")

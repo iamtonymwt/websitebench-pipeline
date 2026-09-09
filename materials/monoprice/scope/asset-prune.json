@@ -1,0 +1,23 @@
+{
+  "schema_version": "monoprice.asset-prune.v1",
+  "sources_scanned": 11527,
+  "references_found": 29641,
+  "references_from_catalogue": 19255,
+  "files_on_disk": 34076,
+  "files_reachable": 29623,
+  "files_unreachable": 4453,
+  "bytes_reachable": 2789914333,
+  "bytes_unreachable": 32470996,
+  "unreachable_by_directory": {
+    "images.monoprice.com/productsmallimages": 3197,
+    "images.monoprice.com/productmediumimages": 1200,
+    "www.monoprice.com/assets": 24,
+    "cdnjs.cloudflare.com/ajax": 13,
+    "cdn.prod.website-files.com/680733553d93d74ec4bca34c": 10,
+    "www.monoprice.com/Scripts": 5,
+    "images.monoprice.com/images": 2,
+    "manifest.json": 1,
+    "images.monoprice.com/cms_images": 1
+  },
+  "applied": true
+}

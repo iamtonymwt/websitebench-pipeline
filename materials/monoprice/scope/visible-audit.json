@@ -152,8 +152,8 @@
       },
       "source": {
         "height": 5344,
-        "text": 9264,
-        "rules": 6487,
+        "text": 9416,
+        "rules": 6488,
         "sheets": 36,
         "sheetsBlocked": 2,
         "stylesheetLinks": 23,
@@ -253,11 +253,7 @@
           },
           {
             "name": "inline",
-            "rules": 60
-          },
-          {
-            "name": "inline",
-            "rules": 25
+            "rules": 61
           },
           {
             "name": "inline",
@@ -266,6 +262,10 @@
           {
             "name": "inline",
             "rules": 673
+          },
+          {
+            "name": "inline",
+            "rules": 25
           },
           {
             "name": "inline",
@@ -483,7 +483,7 @@
       "source": {
         "height": 7444,
         "text": 13259,
-        "rules": 5863,
+        "rules": 5865,
         "sheets": 40,
         "sheetsBlocked": 3,
         "stylesheetLinks": 24,
@@ -567,7 +567,7 @@
           },
           {
             "name": "inline",
-            "rules": 60
+            "rules": 61
           },
           {
             "name": "inline",
@@ -579,7 +579,7 @@
           },
           {
             "name": "inline",
-            "rules": 60
+            "rules": 61
           },
           {
             "name": "inline",
@@ -677,8 +677,8 @@
       "route": "/search/index?keyword=hdmi+cable",
       "source_url": "https://www.monoprice.com/search/index?keyword=hdmi+cable",
       "clone": {
-        "height": 9128,
-        "text": 25015,
+        "height": 7206,
+        "text": 10865,
         "rules": 4898,
         "sheets": 30,
         "sheetsBlocked": 0,
@@ -806,10 +806,10 @@
             "rules": 2
           }
         ],
-        "tiles": 244,
-        "tilesVisible": 120,
-        "images": 67,
-        "imagesVisible": 49,
+        "tiles": 192,
+        "tilesVisible": 96,
+        "images": 44,
+        "imagesVisible": 26,
         "imagesBrokenVisible": 0,
         "tallest": [
           {
@@ -829,7 +829,7 @@
       "source": {
         "height": 6917,
         "text": 13299,
-        "rules": 5863,
+        "rules": 5865,
         "sheets": 40,
         "sheetsBlocked": 3,
         "stylesheetLinks": 24,
@@ -913,7 +913,7 @@
           },
           {
             "name": "inline",
-            "rules": 60
+            "rules": 61
           },
           {
             "name": "inline",
@@ -925,11 +925,7 @@
           },
           {
             "name": "inline",
-            "rules": 60
-          },
-          {
-            "name": "inline",
-            "rules": 673
+            "rules": 61
           },
           {
             "name": "inline",
@@ -938,6 +934,10 @@
           {
             "name": "inline",
             "rules": 1
+          },
+          {
+            "name": "inline",
+            "rules": 673
           },
           {
             "name": "animate.min.css",
@@ -1016,9 +1016,7 @@
           }
         ]
       },
-      "defects": [
-        "visible text 25015 vs source 13299 (x1.88)"
-      ]
+      "defects": []
     },
     {
       "family": "product",
@@ -1163,9 +1161,9 @@
         ]
       },
       "source": {
-        "height": 6961,
-        "text": 3717,
-        "rules": 6631,
+        "height": 7563,
+        "text": 7286,
+        "rules": 6633,
         "sheets": 42,
         "sheetsBlocked": 5,
         "stylesheetLinks": 24,
@@ -1253,15 +1251,15 @@
           },
           {
             "name": "inline",
+            "rules": 61
+          },
+          {
+            "name": "inline",
+            "rules": 61
+          },
+          {
+            "name": "inline",
             "rules": 25
-          },
-          {
-            "name": "inline",
-            "rules": 60
-          },
-          {
-            "name": "inline",
-            "rules": 60
           },
           {
             "name": "pdp-page.e1b159cb98ebfefca248.css",
@@ -1272,20 +1270,20 @@
             "rules": 25
           },
           {
+            "name": "inline",
+            "rules": 127
+          },
+          {
             "name": "gallery.7f1d4f2cee285b08370d.css",
             "rules": -1
           },
           {
             "name": "inline",
-            "rules": 673
-          },
-          {
-            "name": "inline",
-            "rules": 127
-          },
-          {
-            "name": "inline",
             "rules": 1
+          },
+          {
+            "name": "inline",
+            "rules": 673
           },
           {
             "name": "animate.min.css",
@@ -1340,10 +1338,10 @@
             "rules": 1
           }
         ],
-        "tiles": 6,
-        "tilesVisible": 4,
-        "images": 55,
-        "imagesVisible": 15,
+        "tiles": 37,
+        "tilesVisible": 35,
+        "images": 86,
+        "imagesVisible": 46,
         "imagesBrokenVisible": 0,
         "tallest": [
           {
@@ -1360,7 +1358,9 @@
           }
         ]
       },
-      "defects": []
+      "defects": [
+        "page height 3854 vs source 7563 (x0.51)"
+      ]
     },
     {
       "family": "shop",
@@ -1649,7 +1649,7 @@
       "source": {
         "height": 2771,
         "text": 1803,
-        "rules": 4932,
+        "rules": 4934,
         "sheets": 35,
         "sheetsBlocked": 2,
         "stylesheetLinks": 19,
@@ -1725,11 +1725,11 @@
           },
           {
             "name": "inline",
-            "rules": 60
+            "rules": 61
           },
           {
             "name": "inline",
-            "rules": 60
+            "rules": 61
           },
           {
             "name": "inline",
@@ -2078,7 +2078,7 @@
       "route": "/checkout",
       "source_url": null,
       "clone": {
-        "height": 1612,
+        "height": 1573,
         "text": 767,
         "rules": 3929,
         "sheets": 21,
@@ -2179,7 +2179,7 @@
         "tallest": [
           {
             "tag": "HEADER",
-            "h": 102
+            "h": 63
           },
           {
             "tag": "NAV",
