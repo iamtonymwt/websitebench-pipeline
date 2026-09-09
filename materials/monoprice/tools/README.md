@@ -233,12 +233,33 @@ plain rerun replays the cache and reports "200 proven" without having exercised
 anything. That is the same shape as every other trap on this site: a result that
 cannot be told apart from the check never having run.
 
-**STATE AS OF THIS COMMIT: the 200 cases are stale.** They were proven against
-the clone before the rendering repairs — before search showed results, before
-product pages had recommendations or tab panels, before sort did anything.
-`reference_observations` is still `pending`, so no expected values have been
-captured yet either. The order is: re-prove with `--fresh`, then
-`capture-reference`, then `validate`.
+**capture-reference must launch the reference itself.** Passing
+`--reference-url` makes it a *remote* reference, and mutating a remote one
+requires an allowlisted HTTPS reset gateway and a runtime credential. Let it run
+`harbor/sites/monoprice/reference/run.sh`, which locates the clone rather than
+copying 2.6 GB of it.
+
+`--allow-source-mutations` is required: 155 of the 185 tasks issue a non-GET,
+and Harbor counts any non-GET during a scenario as a source mutation. Most are
+reads — the product page POSTs its three tab panels on load — but the harness
+cannot know that, and the declaration is a statement of permission rather than a
+description of effect. Narrowing it to real writes was tried and breaks the
+capture outright. The report keeps both numbers: 155 declare non-GET, 116
+actually write cart, checkout or order state.
+
+**The prover must use STRICT locators, because Harbor's runner does.** It used
+`.first` everywhere, which made it blind to the failure this site produces most
+often — a selector that matches twice — and it proved all 200 cases before
+capture-reference stopped on `li[data-p-id="2684"]`, which matches both the
+desktop minicart and the one inside `#mobile-style-3`. The same shape had
+already refused three L3 cases earlier in this run, and one leniency had already
+been fixed in `_read` for `title`; fixing it in one place and not the other is
+why it came back. A prover looser than the runner is worth less than no prover.
+
+State: **complete and scorable** — 200 cases, 0 missing in every tier,
+`reference_observations: captured`. Two cases stay dropped, both on product
+1302, which has no `#addtocartqty` control; the quota filled from other
+candidates rather than by weakening them.
 
 ## The traps this site has that the gates cannot see
 
