@@ -220,11 +220,25 @@ your eyes, and measure *visible* content — see the third trap below.
 
 ## 8. Harbor
 
-    python3 tools/build_harbor_cases.py candidates ...
-    python3 tools/build_harbor_cases.py prove ...
+    python3 tools/build_harbor_cases.py --base-url http://127.0.0.1:<port> \
+      --out-dir ../../harbor/instances/monoprice/fixtures/hidden \
+      --report scope/harbor-cases.json --fresh
+    websitebench-harbor capture-reference ...
+    websitebench-harbor validate ...
 
-Case actions are proven against the running clone, so **every proven case is
-invalidated by a behaviour fix.** Re-prove after step 6.
+**`--fresh` is not optional after a behaviour change.** Cases are proven against
+the running clone, and the resume cache is keyed on the task's own bytes — so
+after the clone's behaviour changes, every task is still byte-identical and a
+plain rerun replays the cache and reports "200 proven" without having exercised
+anything. That is the same shape as every other trap on this site: a result that
+cannot be told apart from the check never having run.
+
+**STATE AS OF THIS COMMIT: the 200 cases are stale.** They were proven against
+the clone before the rendering repairs — before search showed results, before
+product pages had recommendations or tab panels, before sort did anything.
+`reference_observations` is still `pending`, so no expected values have been
+captured yet either. The order is: re-prove with `--fresh`, then
+`capture-reference`, then `validate`.
 
 ## The traps this site has that the gates cannot see
 

@@ -14,25 +14,10 @@
     "order-confirmation"
   ],
   "out_of_scope": [
-    {
-      "id": "account",
-      "reason": "every /myaccount path is under a robots Disallow rule and was never requested"
-    },
-    {
-      "id": "b2b-portal",
-      "reason": "b2b.monoprice.com is a separate origin, not in the approved discovery set"
-    },
-    {
-      "id": "support-knowledge-base",
-      "reason": "monopricesupport.kayako.com is a third-party origin"
-    },
-    {
-      "id": "live-chat",
-      "reason": "Five9 widget in a cross-origin iframe; not recordable and not reproducible offline"
-    },
-    {
-      "id": "financing",
-      "reason": "Affirm is a third-party payment service with real side effects"
-    }
+    "account: every /myaccount path is under a robots Disallow rule and was never requested",
+    "b2b-portal: b2b.monoprice.com is a separate origin, not in the approved discovery set",
+    "support-knowledge-base: monopricesupport.kayako.com is a third-party origin",
+    "live-chat: Five9 widget in a cross-origin iframe; not recordable and not reproducible offline",
+    "financing: Affirm is a third-party payment service with real side effects"
   ]
 }

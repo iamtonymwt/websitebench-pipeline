@@ -17,7 +17,9 @@ source:
     capabilities: []
     feature_flags: []
     user_agent: null
-    viewport: 1440x900
+    viewport:
+      width: 1440
+      height: 900
     capture_id: null
   capture_policy:
     safe_methods:
