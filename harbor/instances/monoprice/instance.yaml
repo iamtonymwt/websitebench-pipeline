@@ -31,7 +31,7 @@ suites:
   cicd: fixtures/hidden/cicd-suite.json
 case_manifest: fixtures/hidden/case-manifest.json
 reference_observations:
-  status: pending
+  status: captured
   artifact: fixtures/hidden/reference-observations.json
 calibration:
   nop_max_score20: 1

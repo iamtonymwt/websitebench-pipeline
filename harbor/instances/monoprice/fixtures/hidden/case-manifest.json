@@ -1258,22 +1258,6 @@
    "level": "L3"
   },
   {
-   "id": "l3.purchase.approved.1302",
-   "tier": "T2",
-   "kind": "journey",
-   "timeout_sec": 180,
-   "task_id": "l3.purchase.approved.1302",
-   "level": "L3"
-  },
-  {
-   "id": "l3.purchase.declined.1302",
-   "tier": "T2",
-   "kind": "journey",
-   "timeout_sec": 180,
-   "task_id": "l3.purchase.declined.1302",
-   "level": "L3"
-  },
-  {
    "id": "l3.purchase.approved.39263",
    "tier": "T2",
    "kind": "journey",
@@ -1463,6 +1447,22 @@
    "kind": "journey",
    "timeout_sec": 180,
    "task_id": "l3.purchase.declined.31204",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.approved.39548",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.approved.39548",
+   "level": "L3"
+  },
+  {
+   "id": "l3.purchase.declined.39548",
+   "tier": "T2",
+   "kind": "journey",
+   "timeout_sec": 180,
+   "task_id": "l3.purchase.declined.39548",
    "level": "L3"
   },
   {

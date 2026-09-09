@@ -1,0 +1,1207 @@
+{
+  "authenticated_reference": false,
+  "instance_id": "monoprice",
+  "render_environment": {
+    "chromium_version": "149.0.7827.55",
+    "engine": "chromium",
+    "font_profile": "websitebench-linux-fonts-v1",
+    "playwright_version": "1.61.0",
+    "schema_version": "websitebench.harbor.render-environment.v1"
+  },
+  "reset_strategy": "fresh-local-data-directory",
+  "schema_version": "websitebench.harbor.reference-observations.v1",
+  "site_id": "monoprice",
+  "tasks": {
+    "l1.product.13413": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6 Ethernet Patch Cable - ZEROboot, RJ45, Stranded, 550MHz, UTP, Pure Bare Copper, 24AWG, 50ft, Black - Monoprice.com"
+      }
+    },
+    "l1.product.14264": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat5e Ethernet Patch Cable - ZEROboot, RJ45, Stranded, 350MHz, UTP, Pure Bare Copper, 24AWG, 25ft, Blue - Monoprice.com"
+      }
+    },
+    "l1.product.2313": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45 Stranded 550MHz UTP Pure Bare Copper Wire 24AWG 14ft White - Monoprice.com"
+      }
+    },
+    "l1.product.2375": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45 Stranded 550MHz UTP Pure Bare Copper Wire Crossover 24AWG 3ft Gray - Monoprice.com"
+      }
+    },
+    "l1.product.2396": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice DVI-A Dual Link Male to HD15 (VGA) Female Adapter (Gold Plated) - Monoprice.com"
+      }
+    },
+    "l1.product.2865": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice 12ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black - Monoprice.com"
+      }
+    },
+    "l1.product.33269": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6A Ethernet Patch Cable - SlimRun Snagless RJ45 550MHz UTP Pure Bare Copper 10G 30AWG 10-Pack 25ft White - Monoprice.com"
+      }
+    },
+    "l1.product.39518": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice 4K High Speed HDMI Cable - 4K@60Hz 18Gbps HDR CL2 In-Wall Rated No Logo 3ft Black - 3 pack - Monoprice.com"
+      }
+    },
+    "l1.product.39836": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Junction box for turret IP camera (compatible with Hikvision DS-2CD2343G0-I Monoprice 30562 30551 ) - Monoprice.com"
+      }
+    },
+    "l1.product.40060": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Power Cord - IEC 60320 C20 to IEC 60320 C13 14AWG 15A/1875W 3-Prong SJT Black 6ft - Monoprice.com"
+      }
+    },
+    "l1.product.40880": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6 Ethernet Patch Cable - FLEXboot Flat Snagless RJ45 550MHz UTP Pure Bare Copper 30AWG 1ft Black - Monoprice.com"
+      }
+    },
+    "l1.product.42961": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6A Component Level Ethernet Cable - SlimRun Pure Bare Copper Double Shielded (S/FTP) 30AWG 10G CM Snagless RJ45 1ft Blue - Monoprice.com"
+      }
+    },
+    "l1.product.43137": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Commercial Series Premium High Speed HDMI Cable -4K@60Hz HDR 18Gbps YCbCr 444 OD 0.22in 30AWG CL2 10ft Black - Monoprice.com"
+      }
+    },
+    "l1.product.43328": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice 8K Ultra High Speed Fiber Optic Certified HDMI Cable - 8K@60Hz 4K@120Hz 48Gbps HDR VRR Active Optical Cable (AOC) 49ft Black - Monoprice.com"
+      }
+    },
+    "l1.product.44333": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Speaker Wire CL3 Rated 4-Conductor 12AWG 250ft White - Monoprice.com"
+      }
+    },
+    "l1.product.44466": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice 12-in-1 Dual-HDMI + VGA MST Dock - Monoprice.com"
+      }
+    },
+    "l1.product.448": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Serial DB9 Straight F/F Molded Cable 6ft - Monoprice.com"
+      }
+    },
+    "l1.product.45403": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6A Ethernet Patch Cable - 26AWG 10G Pure Bare Copper Gold Plated Connector RJ45 14ft Blue - Monoprice.com"
+      }
+    },
+    "l1.product.46019": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Multi-Mode OM3 Fiber Optic Cable - ST-ST UL 3mm 50/125 OFNR Duplex Aqua 30m - Monoprice.com"
+      }
+    },
+    "l1.product.46058": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Single-Mode Fiber Optic Cable - LC-ST UL 2mm 9/125 OFNR Duplex Yellow 8m - Monoprice.com"
+      }
+    },
+    "l1.product.46087": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Single-Mode Fiber Optic Cable - SC-SC UL 3mm 9/125 OFNR Duplex Yellow 40m - Monoprice.com"
+      }
+    },
+    "l1.product.48577": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Mid-Size Keystone Plate 2 Port Black UL - Monoprice.com"
+      }
+    },
+    "l1.product.49276": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6A Shielded RJ45 Connectors with Break-Resistant Latch & Strain Relief Boot - Gold-Plated for 26AWG UTP Cable 50-Sets White - Monoprice.com"
+      }
+    },
+    "l1.product.50672": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "StarTech 8-Outlet Horizontal Rack Mount PDU 1U Power Strip On/Off Switches - Monoprice.com"
+      }
+    },
+    "l1.product.5116": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice 24in SATA 6Gbps Cable with Locking Latch 90-Degree to 180-Degree UV Blue - Monoprice.com"
+      }
+    },
+    "l1.product.5587": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Premium 3.5mm AUX Extension Cable - TRS Stereo Male-to-Female 22AWG Gold Plated 6ft Black - Monoprice.com"
+      }
+    },
+    "l1.product.600053": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Stage Right by Monoprice 24in x 24in Steel Base Plate for 12in Spigoted Truss - Monoprice.com"
+      }
+    },
+    "l1.product.602530": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Microphone Stand with Hand-Clutch and Telescopic Boom - Monoprice.com"
+      }
+    },
+    "l1.product.611815": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Stage Right by Monoprice 15-Watt 1x12 Guitar Combo Tube Amp with Celestion Speaker and Spring Reverb - Monoprice.com"
+      }
+    },
+    "l1.product.7043": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Punch-Down Impact Tool for 66 and 110/88 Type - Monoprice.com"
+      }
+    },
+    "l1.product.8771": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice 50ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable - Monoprice.com"
+      }
+    },
+    "l1.product.9439": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice 1.5ft Premier Series 1/4-inch (TRS) Male Right Angle to Male Right Angle 16AWG Cable (Gold Plated) - Monoprice.com"
+      }
+    },
+    "l1.product.9767": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice 3ft Designed for Mobile 3.5mm Stereo Male to RCA Stereo Male (Gold Plated) - Black - Monoprice.com"
+      }
+    },
+    "l1.product.9809": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6 Ethernet Patch Cable - FLEXboot Snagless RJ45 Stranded 550MHz UTP Pure Bare Copper 24AWG 10ft Gray - Monoprice.com"
+      }
+    },
+    "l1.product.9828": {
+      "observations": {
+        "add_to_cart_present": 2,
+        "product_name": "Monoprice Cat6 Ethernet Patch Cable - FLEXboot Snagless RJ45 Stranded 550MHz UTP Pure Bare Copper 24AWG 100ft Black - Monoprice.com"
+      }
+    },
+    "l2.addtocart.12580": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.13297": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.13717": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.18590": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.2159": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.21681": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.2308": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.2315": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.24339": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.24363": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.2682": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.2684": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.2794": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.3378": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.35914": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.36081": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.38272": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.39165": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.39170": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.39357": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.39529": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.40782": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.40879": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.43396": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.44897": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.44961": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.45984": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.46098": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.4773": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.49351": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.5027": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.5457": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.7557": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.8609": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.8624": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.addtocart.9837": {
+      "observations": {
+        "cart_holds_item": 1,
+        "cart_url": "/cart"
+      }
+    },
+    "l2.search.adapter": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=adapter"
+      }
+    },
+    "l2.search.cat6": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=cat6"
+      }
+    },
+    "l2.search.displayport": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=displayport"
+      }
+    },
+    "l2.search.ethernet-cable": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=ethernet+cable"
+      }
+    },
+    "l2.search.hdmi-cable": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=hdmi+cable"
+      }
+    },
+    "l2.search.headphones": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=headphones"
+      }
+    },
+    "l2.search.keyboard": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=keyboard"
+      }
+    },
+    "l2.search.microphone": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=microphone"
+      }
+    },
+    "l2.search.monitor": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=monitor"
+      }
+    },
+    "l2.search.power-strip": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=power+strip"
+      }
+    },
+    "l2.search.soldering": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=soldering"
+      }
+    },
+    "l2.search.speaker-wire": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=speaker+wire"
+      }
+    },
+    "l2.search.tv-wall-mount": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=tv+wall+mount"
+      }
+    },
+    "l2.search.usb-c-cable": {
+      "observations": {
+        "result_links": 0,
+        "results_url": "/search/index?keyword=usb+c+cable"
+      }
+    },
+    "l3.purchase.approved.11392": {
+      "observations": {
+        "amount_paid": "$3.79",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Cat6 Ethernet Patch Cable - FLEXboot Snagless RJ45 Stranded 550MHz UTP Pure Bare Copper 24AWG 7ft White\t1\t$3.79\nAmount paid\t\t$3.79"
+      }
+    },
+    "l3.purchase.approved.13071": {
+      "observations": {
+        "amount_paid": "$289.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice 1000ft Cat6A Ethernet Cable UTP 23AWG 10G Pure Copper CMR‑Rated Blue Bulk Spool\t1\t$289.99\nAmount paid\t\t$289.99"
+      }
+    },
+    "l3.purchase.approved.16320": {
+      "observations": {
+        "amount_paid": "$25.79",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Cat6A Ethernet Patch Cable - SlimRun Snagless RJ45 550MHz UTP Pure Bare Copper 10G 30AWG 10-Pack 3ft Green\t1\t$25.79\nAmount paid\t\t$25.79"
+      }
+    },
+    "l3.purchase.approved.16325": {
+      "observations": {
+        "amount_paid": "$33.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Cat6A Ethernet Patch Cable - SlimRun Snagless RJ45 550MHz UTP Pure Bare Copper 10G 30AWG 10-Pack 7ft Green\t1\t$33.99\nAmount paid\t\t$33.99"
+      }
+    },
+    "l3.purchase.approved.16335": {
+      "observations": {
+        "amount_paid": "$52.29",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Cat6A Ethernet Patch Cable - SlimRun Snagless RJ45 550MHz UTP Pure Bare Copper 10G 30AWG 10-Pack 14ft Green\t1\t$52.29\nAmount paid\t\t$52.29"
+      }
+    },
+    "l3.purchase.approved.18800": {
+      "observations": {
+        "amount_paid": "$219.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Commercial Audio 60W 3ch 100/70V Mixer Amp (No Logo)\t1\t$219.99\nAmount paid\t\t$219.99"
+      }
+    },
+    "l3.purchase.approved.18820": {
+      "observations": {
+        "amount_paid": "$9.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nStage Right by Monoprice 1.5ft XLR Female to 1/4inch TRS Male 16AWG Cable (Gold Plated)\t1\t$9.99\nAmount paid\t\t$9.99"
+      }
+    },
+    "l3.purchase.approved.2132": {
+      "observations": {
+        "amount_paid": "$1.89",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Cat5e Ethernet Patch Cable - Snagless RJ45 Stranded 350MHz UTP Pure Bare Copper Wire 24AWG 3ft Black\t1\t$1.89\nAmount paid\t\t$1.89"
+      }
+    },
+    "l3.purchase.approved.27312": {
+      "observations": {
+        "amount_paid": "$4.39",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Power Cord - NEMA 5-15P to Left Angle IEC 60320 C13 18AWG 10A/1250W 125V SVT 6ft Black\t1\t$4.39\nAmount paid\t\t$4.39"
+      }
+    },
+    "l3.purchase.approved.31204": {
+      "observations": {
+        "amount_paid": "$5.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice AtlasFlex Series Durable USB 2.0 USB-C to USB-A Charge & Sync Reinforced Nylon-Braid Cable 6ft Black\t1\t$5.99\nAmount paid\t\t$5.99"
+      }
+    },
+    "l3.purchase.approved.33558": {
+      "observations": {
+        "amount_paid": "$2.79",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Power Cord - NEMA 5-15P to IEC 60320 C13 18AWG 10A/1250W 125V 3-Prong 2ft Red\t1\t$2.79\nAmount paid\t\t$2.79"
+      }
+    },
+    "l3.purchase.approved.34200": {
+      "observations": {
+        "amount_paid": "$259.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Alpha In-Wall Speakers 8in Carbon Fiber 3-Way (pair)\t1\t$259.99\nAmount paid\t\t$259.99"
+      }
+    },
+    "l3.purchase.approved.34543": {
+      "observations": {
+        "amount_paid": "$47.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nWorkstream by Monoprice Workstation Wall Mount for Keyboard and Monitor\t1\t$47.99\nAmount paid\t\t$47.99"
+      }
+    },
+    "l3.purchase.approved.34885": {
+      "observations": {
+        "amount_paid": "$3.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nUSB-A to USB-B 2.0 Cable - Black 0.5m - 3 pack\t1\t$3.99\nAmount paid\t\t$3.99"
+      }
+    },
+    "l3.purchase.approved.37887": {
+      "observations": {
+        "amount_paid": "$3,999.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonolith by Monoprice HTP-1 16-Channel Home Theater Processor with Dolby Atmos DTSX Auro-3D Roon Ready and Dirac Live Bass Control Compatibility\t1\t$3,999.99\nAmount paid\t\t$3,999.99"
+      }
+    },
+    "l3.purchase.approved.38159": {
+      "observations": {
+        "amount_paid": "$179.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice SSVC-4.1 Single Input 4-Channel Speaker Selector with Volume Control\t1\t$179.99\nAmount paid\t\t$179.99"
+      }
+    },
+    "l3.purchase.approved.3898": {
+      "observations": {
+        "amount_paid": "$3.59",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice USB-A to Mini-B Cable - 5-Pin 28/28AWG Black 15ft\t1\t$3.59\nAmount paid\t\t$3.59"
+      }
+    },
+    "l3.purchase.approved.39263": {
+      "observations": {
+        "amount_paid": "$47.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Ethernet to RS232 Serial Controller for RS232 Control Over IP\t1\t$47.99\nAmount paid\t\t$47.99"
+      }
+    },
+    "l3.purchase.approved.39358": {
+      "observations": {
+        "amount_paid": "$249.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice HT-35 Premium 5.1-Channel Home Theater System with Powered Subwoofer Espresso\t1\t$249.99\nAmount paid\t\t$249.99"
+      }
+    },
+    "l3.purchase.approved.39548": {
+      "observations": {
+        "amount_paid": "$9.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice 4K High Speed HDMI Cable - 4K@60Hz HDR HDR10 Dolby Vision 18Gbps YUV 444 28AWG With Ferrite Cores 6 Feet Black - 3 Pack\t1\t$9.99\nAmount paid\t\t$9.99"
+      }
+    },
+    "l3.purchase.approved.40072": {
+      "observations": {
+        "amount_paid": "$4.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Power Cord - NEMA 5-15P to IEC 60320 C19 14AWG 15A/1875W 3-Prong Black 3ft\t1\t$4.99\nAmount paid\t\t$4.99"
+      }
+    },
+    "l3.purchase.approved.41074": {
+      "observations": {
+        "amount_paid": "$23.79",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Single-Mode Fiber Optic Cable - LC/APC-LC/APC UL 2mm 9/125 OFNR Duplex Yellow 3m\t1\t$23.79\nAmount paid\t\t$23.79"
+      }
+    },
+    "l3.purchase.approved.42992": {
+      "observations": {
+        "amount_paid": "$12.19",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice 8K DisplayPort 2.0 Cable 1.5ft\t1\t$12.19\nAmount paid\t\t$12.19"
+      }
+    },
+    "l3.purchase.approved.43544": {
+      "observations": {
+        "amount_paid": "$18.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice 24-port Blank Keystone Patch Panel - 1U Shielded with Wire Support Bar TAA\t1\t$18.99\nAmount paid\t\t$18.99"
+      }
+    },
+    "l3.purchase.approved.44571": {
+      "observations": {
+        "amount_paid": "$719.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice HDBaseT 3.0 Extender 70 M 4K60HZ KVM USB2.0 / Audio / RS232\t1\t$719.99\nAmount paid\t\t$719.99"
+      }
+    },
+    "l3.purchase.approved.45949": {
+      "observations": {
+        "amount_paid": "$69.49",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Multi-Mode OM5 Fiber Optic Cable - LC-LC UL 2mm 25-/125 OFNR Duplex Green 15m\t1\t$69.49\nAmount paid\t\t$69.49"
+      }
+    },
+    "l3.purchase.approved.46055": {
+      "observations": {
+        "amount_paid": "$15.49",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Single-Mode Fiber Optic Cable - LC-ST UL 3mm 9/125 OFNR Duplex Yellow 5m\t1\t$15.49\nAmount paid\t\t$15.49"
+      }
+    },
+    "l3.purchase.approved.47192": {
+      "observations": {
+        "amount_paid": "$13.69",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice USB 2.0 USB-C to USB-C Silicone Cable 3ft White\t1\t$13.69\nAmount paid\t\t$13.69"
+      }
+    },
+    "l3.purchase.approved.4763": {
+      "observations": {
+        "amount_paid": "$29.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice 15ft Premier Series XLR Male to 1/4in TRS Male Cable 16AWG (Gold Plated)\t1\t$29.99\nAmount paid\t\t$29.99"
+      }
+    },
+    "l3.purchase.approved.4777": {
+      "observations": {
+        "amount_paid": "$15.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice 6ft Premier Series XLR Male to RCA Male Cable 16AWG (Gold Plated)\t1\t$15.99\nAmount paid\t\t$15.99"
+      }
+    },
+    "l3.purchase.approved.47793": {
+      "observations": {
+        "amount_paid": "$33.59",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice USB-C to DisplayPort 1.4 Cable - 8K60 4K120 32.4Gbps HBR3 HDR 6ft Black\t1\t$33.59\nAmount paid\t\t$33.59"
+      }
+    },
+    "l3.purchase.approved.47877": {
+      "observations": {
+        "amount_paid": "$14.69",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice 8K Certified Ultra High-Speed HDMI Cable - 8K60Hz 4K120Hz 48Gbps HDR VRR CL2 Rated 6ft Black\t1\t$14.69\nAmount paid\t\t$14.69"
+      }
+    },
+    "l3.purchase.approved.48215": {
+      "observations": {
+        "amount_paid": "$136.49",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Multi-Mode OM4 Fiber Optic Cable – MTP-12 UPC Female to MTP-12 UPC Female 12-Fiber OFNP Type A Aqua 3m\t1\t$136.49\nAmount paid\t\t$136.49"
+      }
+    },
+    "l3.purchase.approved.48222": {
+      "observations": {
+        "amount_paid": "$139.69",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Multi-Mode OM4 Fiber Optic Cable – MTP-12 Elite UPC Female to MTP-12 Elite UPC Female 12-Fiber OFNP Type B Aqua 5m\t1\t$139.69\nAmount paid\t\t$139.69"
+      }
+    },
+    "l3.purchase.approved.48862": {
+      "observations": {
+        "amount_paid": "$39.89",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice USB4 20Gbps 2-in-1 Cable - 240W EPR 4K60Hz Braided Ultra High-Speed USB-IF Certified 3ft Black - 2 Pack\t1\t$39.89\nAmount paid\t\t$39.89"
+      }
+    },
+    "l3.purchase.approved.49262": {
+      "observations": {
+        "amount_paid": "$29.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Cat6A Unshielded RJ45 Connectors with Break-Resistant Latch & Strain Relief Boot - Gold-Plated for 23-26AWG UTP Cable 50-Sets Yellow\t1\t$29.99\nAmount paid\t\t$29.99"
+      }
+    },
+    "l3.purchase.approved.600070": {
+      "observations": {
+        "amount_paid": "$49.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nSR Studio by Monoprice Over Ear Closed-Back Pro Monitoring Headphones\t1\t$49.99\nAmount paid\t\t$49.99"
+      }
+    },
+    "l3.purchase.approved.611940": {
+      "observations": {
+        "amount_paid": "$139.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nStage Right by Monoprice 40W 10in Bass Combo Amp with Built-in Compressor and XLR DI Output\t1\t$139.99\nAmount paid\t\t$139.99"
+      }
+    },
+    "l3.purchase.approved.6816": {
+      "observations": {
+        "amount_paid": "$249.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Caliber 8in Fiber In-Wall Speakers 3-Way (pair)\t1\t$249.99\nAmount paid\t\t$249.99"
+      }
+    },
+    "l3.purchase.approved.8678": {
+      "observations": {
+        "amount_paid": "$54.99",
+        "confirmation_heading": "Order placed",
+        "item_named": "ITEM\tQTY\tUNIT PRICE\nMonoprice Ultra Low-Profile Full Motion TV Wall Mount For 40 To 75 TVs up to 110lbs Max VESA 400x400 Works with Concrete Brick and Wooden Studs\t1\t$54.99\nAmount paid\t\t$54.99"
+      }
+    },
+    "l3.purchase.declined.11392": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.13071": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.16320": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.16325": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.16335": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.18800": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.18820": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.2132": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.27312": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.31204": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.33558": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.34200": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.34543": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.34885": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.37887": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.38159": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.3898": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.39263": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.39358": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.39548": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.40072": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.41074": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.42992": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.43544": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.44571": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.45949": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.46055": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.47192": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.4763": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.4777": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.47793": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.47877": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.48215": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.48222": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.48862": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.49262": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.600070": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.611940": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.6816": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "l3.purchase.declined.8678": {
+      "observations": {
+        "cart_kept_goods": 1,
+        "decline_notice": "The payment was declined by the sandbox. No order was placed and your cart is unchanged.",
+        "still_on_checkout": "/checkout"
+      }
+    },
+    "t1.cart": {
+      "observations": {
+        "page_title": "Shopping Cart - Monoprice.com",
+        "page_url": "/cart"
+      }
+    },
+    "t1.category.0": {
+      "observations": {
+        "page_title": "Cables - HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!",
+        "page_url": "/category/pages/1"
+      }
+    },
+    "t1.category.1": {
+      "observations": {
+        "page_title": "NETWORKING PATCH CABLES - HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!",
+        "page_url": "/category/cables/networking-patch-cables"
+      }
+    },
+    "t1.category.2": {
+      "observations": {
+        "page_title": "FIBER OPTIC CABLES - HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!",
+        "page_url": "/category/cables/fiber-optic-cables"
+      }
+    },
+    "t1.category.3": {
+      "observations": {
+        "page_title": "CAT6 ETHERNET CABLES - HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!",
+        "page_url": "/category/cables/networking-patch-cables/cat6-ethernet-cables"
+      }
+    },
+    "t1.category.4": {
+      "observations": {
+        "page_title": "CAT6A ETHERNET CABLES - HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!",
+        "page_url": "/category/cables/networking-patch-cables/cat6a-ethernet-cables"
+      }
+    },
+    "t1.category.5": {
+      "observations": {
+        "page_title": "Adapters, Switches, & Splitters - HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!",
+        "page_url": "/category/pages/2"
+      }
+    },
+    "t1.category.6": {
+      "observations": {
+        "page_title": "USB & LIGHTNING CABLES - HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!",
+        "page_url": "/category/cables/usb-&-lightning-cables"
+      }
+    },
+    "t1.category.7": {
+      "observations": {
+        "page_title": "MULTI MODE CABLES - HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!",
+        "page_url": "/category/cables/fiber-optic-cables/multi-mode-cables"
+      }
+    },
+    "t1.checkout": {
+      "observations": {
+        "page_title": "Checkout - Monoprice.com",
+        "page_url": "/checkout"
+      }
+    },
+    "t1.collection.0": {
+      "observations": {
+        "page_title": "Shop Ethernet Cable Type | Monoprice",
+        "page_url": "/p/shop/ethernet-cable-type-4930c"
+      }
+    },
+    "t1.collection.1": {
+      "observations": {
+        "page_title": "Shop Fiber Optic Cable Single Mode | Monoprice",
+        "page_url": "/p/shop/fiber-optic-cable-single-mode-63575"
+      }
+    },
+    "t1.collection.2": {
+      "observations": {
+        "page_title": "Shop Category Ethernet Cables | Monoprice",
+        "page_url": "/p/shop/category-ethernet-cables-17b49"
+      }
+    },
+    "t1.collection.3": {
+      "observations": {
+        "page_title": "Shop Single Mode Fiber Cable | Monoprice",
+        "page_url": "/p/shop/single-mode-fiber-cable-e412c"
+      }
+    },
+    "t1.collection.4": {
+      "observations": {
+        "page_title": "Shop Cable Cat5 Rj45 | Monoprice",
+        "page_url": "/p/shop/cable-cat5-rj45-82285"
+      }
+    },
+    "t1.home": {
+      "observations": {
+        "page_title": "HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more! - Monoprice.com",
+        "page_url": "/"
+      }
+    },
+    "t1.product.12575": {
+      "observations": {
+        "page_title": "Monoprice Split Plate with Flexible Opening, Black - Monoprice.com",
+        "page_url": "/product?p_id=12575"
+      }
+    },
+    "t1.product.40152": {
+      "observations": {
+        "page_title": "Monoprice Select Plus USB Car Charger 2-Port 4.8A Output for iPhone Android and Galaxy Devices - 10 PACK - Monoprice.com",
+        "page_url": "/product?p_id=40152"
+      }
+    },
+    "t1.product.4043": {
+      "observations": {
+        "page_title": "Monoprice Speaker Wire CL2 Rated 4-Conductor 18AWG 100ft White - Monoprice.com",
+        "page_url": "/product?p_id=4043"
+      }
+    },
+    "t1.product.44700": {
+      "observations": {
+        "page_title": "Dark Matter Sentry Streaming Video Capture Card 4K@30Hz - Monoprice.com",
+        "page_url": "/product?p_id=44700"
+      }
+    }
+  },
+  "visual_checkpoints": []
+}

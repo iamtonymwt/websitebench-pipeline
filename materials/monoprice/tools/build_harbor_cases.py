@@ -76,6 +76,18 @@ def satisfies(value, comparator: dict) -> bool:
     if kind == "exact":
         return value is not None
     return True
+# POST endpoints that only READ. The site's own scripts fetch these with POST
+# and they return rendered markup; nothing about the reference changes. Marking
+# a task that touches one of them as "mutating" makes the authorization flag
+# meaningless -- see the note where it is used.
+READ_ONLY_POST_PATHS = (
+    "/product/gettab", "/product/selectpid",
+    "/product/getcustomersalsoshoppedfor", "/product/getrecommendationsforyou",
+    "/product/getrecentlyviewed",
+    "/home/getrecommendationsforyou", "/home/gettopsellers",
+    "/home/getrecentlyviewed",
+)
+
 QUOTA = {"T1": 20, "L1": 35, "L2": 50, "L3": 80, "T3": 15}
 
 # Task ids are lowercase, dot/underscore/hyphen separated. Case ids are laxer,
@@ -276,7 +288,8 @@ def build_candidates(cat: Catalogue) -> dict[str, list[dict]]:
                 # prover reporting a real race rather than flakiness. Wait for
                 # the mini-cart to show the line before moving on.
                 {"op": "wait_for",
-                 "selector": css(f'li[data-p-id="{product["p_id"]}"]'),
+                 "selector": css('.mycart-dropdown:not(.mobile-mycart-dropdown) '
+                                 f'li[data-p-id="{product["p_id"]}"]'),
                  "state": "attached", "timeout_ms": 20000},
                 {"op": "goto", "path": "/cart"},
             ],
@@ -298,7 +311,8 @@ def build_candidates(cat: Catalogue) -> dict[str, list[dict]]:
                 {"op": "goto", "path": product["url_path"]},
                 {"op": "click", "selector": css("#addtocartqty")},
                 {"op": "wait_for",
-                 "selector": css(f'li[data-p-id="{product["p_id"]}"]'),
+                 "selector": css('.mycart-dropdown:not(.mobile-mycart-dropdown) '
+                                 f'li[data-p-id="{product["p_id"]}"]'),
                  "state": "attached", "timeout_ms": 20000},
                 {"op": "goto", "path": "/checkout"},
                 # Scoped to the checkout form. `button[type="submit"]` matches
@@ -432,15 +446,21 @@ class Prover:
         page = self.page
         offsite: list[str] = []
         methods: set[str] = set()
+        mutating_calls: set[tuple[str, str]] = set()
 
         def on_request(request):
             host = urllib.parse.urlsplit(request.url).hostname
             if host and host not in LOCAL_HOSTS:
                 offsite.append(request.url)
+            if request.method.upper() not in ("GET", "HEAD", "OPTIONS"):
+                mutating_calls.add(
+                    (request.method.upper(),
+                     urllib.parse.urlsplit(request.url).path.lower()))
             methods.add(request.method.upper())
 
         page.on("request", on_request)
-        result: dict = {"offsite": offsite, "methods": methods, "values": {},
+        result: dict = {"offsite": offsite, "methods": methods,
+                        "mutating_calls": mutating_calls, "values": {},
                         "error": None}
         try:
             for action in task["actions"]:
@@ -456,19 +476,37 @@ class Prover:
         return result
 
     def _apply(self, page, action: dict) -> None:
+        """Every locator here is STRICT, exactly like Harbor's runner.
+
+        This used `.first` on every action, which made the prover blind to the
+        one failure mode this site produces most: a selector that matches twice.
+        Harbor resolves locators in strict mode and errors on ambiguity, so a
+        prover using `.first` proves cases the real runner rejects.
+
+        It cost a full capture run. `l2.addtocart.2684` waits for
+        `li[data-p-id="2684"]`, the page renders the minicart twice -- once for
+        desktop and once inside `#mobile-style-3` -- and capture-reference
+        stopped on a strict mode violation after proving 200 cases "clean".
+        The same shape had already refused three L3 cases earlier in this run
+        (`button[type="submit"]` matching 4, two `<h1>`, two `<title>`), and I
+        had already fixed one leniency in `_read` for `title`. Fixing it in one
+        place and not the other is why it came back.
+
+        A prover looser than the runner is worth less than no prover.
+        """
         op = action["op"]
         if op == "goto":
             page.goto(self.base + action["path"], wait_until="domcontentloaded",
                       timeout=60_000)
         elif op == "fill":
-            page.locator(action["selector"]["css"]).first.fill(str(action["value"]))
+            page.locator(action["selector"]["css"]).fill(str(action["value"]))
         elif op == "press":
-            page.locator(action["selector"]["css"]).first.press(str(action["value"]))
+            page.locator(action["selector"]["css"]).press(str(action["value"]))
         elif op == "click":
-            page.locator(action["selector"]["css"]).first.click(timeout=30_000)
+            page.locator(action["selector"]["css"]).click(timeout=30_000)
             page.wait_for_load_state("domcontentloaded", timeout=60_000)
         elif op == "select":
-            page.locator(action["selector"]["css"]).first.select_option(
+            page.locator(action["selector"]["css"]).select_option(
                 str(action["value"]))
         elif op == "api":
             page.evaluate(
@@ -481,7 +519,7 @@ class Prover:
                  "body": action.get("body")})
         elif op == "wait_for":
             state = action.get("state", "attached")
-            page.locator(action["selector"]["css"]).first.wait_for(
+            page.locator(action["selector"]["css"]).wait_for(
                 state=state, timeout=action.get("timeout_ms", 30_000))
         elif op == "reload":
             page.reload(wait_until="domcontentloaded", timeout=60_000)
@@ -671,6 +709,7 @@ def main() -> int:
     kept: dict[str, list[dict]] = {tier: [] for tier in ("T1", "L1", "L2", "L3")}
     dropped: list[dict] = []
     mutating = 0
+    real_writes = 0
 
     def save_proven() -> None:
         rows = [{"fingerprint": fingerprint(task), "task": task}
@@ -724,13 +763,45 @@ def main() -> int:
                         dropped.append({"id": task["id"],
                                         "why": f"two runs disagreed on {differing}"})
                         continue
-                    # Observed, not inferred: whether the browser used a method
-                    # the capture gateway blocks by default.
-                    non_get = (first["methods"] | second["methods"]) - {
-                        "GET", "HEAD", "OPTIONS"}
-                    if non_get:
+                    # Observed, not inferred: whether the browser issued a
+                    # request that actually CHANGES the reference.
+                    #
+                    # This used to flag any non-GET, and that over-declared
+                    # badly once the product page started POSTing its own tab
+                    # panels: 155 of 185 tasks claimed mutation authority,
+                    # including `t1.product.40152`, whose only action is a
+                    # `goto`. A flag that is set on a task that merely navigates
+                    # tells a reader nothing, and `capture-reference` refuses the
+                    # whole run over it.
+                    #
+                    # The site POSTs to read-only endpoints on load -- the three
+                    # tab panels and the variant chooser return rendered markup
+                    # and change nothing. Only the cart, checkout and order
+                    # paths write.
+                    calls = first["mutating_calls"] | second["mutating_calls"]
+                    writes = {(m, path) for m, path in calls
+                              if not any(path.startswith(prefix)
+                                         for prefix in READ_ONLY_POST_PATHS)}
+                    # The declaration follows the harness's rule, which is that
+                    # ANY non-GET during a scenario is a source mutation. It
+                    # rejects the whole capture otherwise -- including
+                    # `t1.product.40152`, whose only action is a `goto` but
+                    # whose page POSTs its three tab panels on load.
+                    #
+                    # Narrowing this to real writes was tried and is wrong for
+                    # this contract: the harness cannot know that
+                    # `/Product/GetTab3` only reads, and the declaration is a
+                    # statement of permission, not a description of effect.
+                    #
+                    # The distinction is not thrown away -- `writes` counts the
+                    # scenarios that actually change cart, checkout or order
+                    # state, and both numbers go in the report. 116 of 185 write;
+                    # the rest merely POST to read.
+                    if calls:
                         task["reference_mutation_authorized"] = True
                         mutating += 1
+                    if writes:
+                        real_writes += 1
                     kept[tier].append(task)
                     print(f"  {tier} {len(kept[tier]):3d}/{need}  {task['id']}",
                           flush=True)
@@ -758,6 +829,7 @@ def main() -> int:
               "dropped": len(dropped),
               "dropped_examples": dropped[:40],
               "tasks_declaring_non_get": mutating,
+              "tasks_that_actually_write": real_writes,
               "page_recycles": None}
     pathlib.Path(args.report).parent.mkdir(parents=True, exist_ok=True)
     pathlib.Path(args.report).write_text(json.dumps(report, indent=2) + "\n",

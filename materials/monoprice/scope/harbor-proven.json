@@ -71,8 +71,7 @@
      }
     ],
     "_path": "/cart",
-    "_settle": true,
-    "reference_mutation_authorized": true
+    "_settle": true
    }
   },
   {
@@ -109,8 +108,7 @@
      }
     ],
     "_path": "/checkout",
-    "_settle": true,
-    "reference_mutation_authorized": true
+    "_settle": true
    }
   },
   {
@@ -628,7 +626,8 @@
      }
     ],
     "_path": "/product?p_id=40152",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -665,7 +664,8 @@
      }
     ],
     "_path": "/product?p_id=12575",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -702,7 +702,8 @@
      }
     ],
     "_path": "/product?p_id=4043",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -739,7 +740,8 @@
      }
     ],
     "_path": "/product?p_id=44700",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -778,7 +780,8 @@
      }
     ],
     "_path": "/product?p_id=33269",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -817,7 +820,8 @@
      }
     ],
     "_path": "/product?p_id=5116",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -856,7 +860,8 @@
      }
     ],
     "_path": "/product?p_id=46019",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -895,7 +900,8 @@
      }
     ],
     "_path": "/product?p_id=45403",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -934,7 +940,8 @@
      }
     ],
     "_path": "/product?p_id=43137",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -973,7 +980,8 @@
      }
     ],
     "_path": "/product?p_id=9828",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1012,7 +1020,8 @@
      }
     ],
     "_path": "/product?p_id=2375",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1051,7 +1060,8 @@
      }
     ],
     "_path": "/product?p_id=13413",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1090,7 +1100,8 @@
      }
     ],
     "_path": "/product?p_id=602530",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1129,7 +1140,8 @@
      }
     ],
     "_path": "/product?p_id=8771",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1168,7 +1180,8 @@
      }
     ],
     "_path": "/product?p_id=5587",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1207,7 +1220,8 @@
      }
     ],
     "_path": "/product?p_id=2865",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1246,7 +1260,8 @@
      }
     ],
     "_path": "/product?p_id=39518",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1285,7 +1300,8 @@
      }
     ],
     "_path": "/product?p_id=9809",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1324,7 +1340,8 @@
      }
     ],
     "_path": "/product?p_id=2313",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1363,7 +1380,8 @@
      }
     ],
     "_path": "/product?p_id=44333",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1402,7 +1420,8 @@
      }
     ],
     "_path": "/product?p_id=448",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1441,7 +1460,8 @@
      }
     ],
     "_path": "/product?p_id=50672",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1480,7 +1500,8 @@
      }
     ],
     "_path": "/product?p_id=600053",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1519,7 +1540,8 @@
      }
     ],
     "_path": "/product?p_id=49276",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1558,7 +1580,8 @@
      }
     ],
     "_path": "/product?p_id=9767",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1597,7 +1620,8 @@
      }
     ],
     "_path": "/product?p_id=40880",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1636,7 +1660,8 @@
      }
     ],
     "_path": "/product?p_id=44466",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1675,7 +1700,8 @@
      }
     ],
     "_path": "/product?p_id=40060",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1714,7 +1740,8 @@
      }
     ],
     "_path": "/product?p_id=7043",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1753,7 +1780,8 @@
      }
     ],
     "_path": "/product?p_id=46058",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1792,7 +1820,8 @@
      }
     ],
     "_path": "/product?p_id=9439",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1831,7 +1860,8 @@
      }
     ],
     "_path": "/product?p_id=42961",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1870,7 +1900,8 @@
      }
     ],
     "_path": "/product?p_id=14264",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1909,7 +1940,8 @@
      }
     ],
     "_path": "/product?p_id=48577",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1948,7 +1980,8 @@
      }
     ],
     "_path": "/product?p_id=43328",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -1987,7 +2020,8 @@
      }
     ],
     "_path": "/product?p_id=611815",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -2026,7 +2060,8 @@
      }
     ],
     "_path": "/product?p_id=46087",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -2065,7 +2100,8 @@
      }
     ],
     "_path": "/product?p_id=39836",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -2104,7 +2140,8 @@
      }
     ],
     "_path": "/product?p_id=2396",
-    "_settle": true
+    "_settle": true,
+    "reference_mutation_authorized": true
    }
   },
   {
@@ -2595,6 +2632,8662 @@
     ],
     "_path": "/",
     "_settle": true
+   }
+  },
+  {
+   "fingerprint": "1d6d81b79088ccda6b11aec862e7a30d725010ab43741a00f94dc97d60cd750a",
+   "task": {
+    "id": "l2.search.headphones",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/"
+     },
+     {
+      "op": "fill",
+      "selector": {
+       "css": "form[action=\"/search/index\"] input[name=\"keyword\"]"
+      },
+      "value": "headphones"
+     },
+     {
+      "op": "press",
+      "selector": {
+       "css": "form[action=\"/search/index\"] input[name=\"keyword\"]"
+      },
+      "value": "Enter"
+     }
+    ],
+    "observations": [
+     {
+      "id": "results_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/search/index.*"
+      }
+     },
+     {
+      "id": "result_links",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "a[href*=\"p_id=\"]"
+      }
+     }
+    ],
+    "_path": "/",
+    "_settle": true
+   }
+  },
+  {
+   "fingerprint": "44088add34e7f0c2ddc625039e44485879a164151c7a53b36f9d31a67a43fa13",
+   "task": {
+    "id": "l2.search.microphone",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/"
+     },
+     {
+      "op": "fill",
+      "selector": {
+       "css": "form[action=\"/search/index\"] input[name=\"keyword\"]"
+      },
+      "value": "microphone"
+     },
+     {
+      "op": "press",
+      "selector": {
+       "css": "form[action=\"/search/index\"] input[name=\"keyword\"]"
+      },
+      "value": "Enter"
+     }
+    ],
+    "observations": [
+     {
+      "id": "results_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/search/index.*"
+      }
+     },
+     {
+      "id": "result_links",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "a[href*=\"p_id=\"]"
+      }
+     }
+    ],
+    "_path": "/",
+    "_settle": true
+   }
+  },
+  {
+   "fingerprint": "7b05c2adfaffe6f8db15e7dd2d25559e95aee2212385eb74862ef8ea461b46ad",
+   "task": {
+    "id": "l2.search.monitor",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/"
+     },
+     {
+      "op": "fill",
+      "selector": {
+       "css": "form[action=\"/search/index\"] input[name=\"keyword\"]"
+      },
+      "value": "monitor"
+     },
+     {
+      "op": "press",
+      "selector": {
+       "css": "form[action=\"/search/index\"] input[name=\"keyword\"]"
+      },
+      "value": "Enter"
+     }
+    ],
+    "observations": [
+     {
+      "id": "results_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/search/index.*"
+      }
+     },
+     {
+      "id": "result_links",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "a[href*=\"p_id=\"]"
+      }
+     }
+    ],
+    "_path": "/",
+    "_settle": true
+   }
+  },
+  {
+   "fingerprint": "8fd016b2c65e3db50dbf615ce75437323871cf3a8ffb034d9f0577812c9e3ab6",
+   "task": {
+    "id": "l2.search.soldering",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/"
+     },
+     {
+      "op": "fill",
+      "selector": {
+       "css": "form[action=\"/search/index\"] input[name=\"keyword\"]"
+      },
+      "value": "soldering"
+     },
+     {
+      "op": "press",
+      "selector": {
+       "css": "form[action=\"/search/index\"] input[name=\"keyword\"]"
+      },
+      "value": "Enter"
+     }
+    ],
+    "observations": [
+     {
+      "id": "results_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/search/index.*"
+      }
+     },
+     {
+      "id": "result_links",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "a[href*=\"p_id=\"]"
+      }
+     }
+    ],
+    "_path": "/",
+    "_settle": true
+   }
+  },
+  {
+   "fingerprint": "5abbcfca6c0e89d0c17050e92f6ff9f4de8aa5c183745dd52f71e16c653ccc35",
+   "task": {
+    "id": "l2.addtocart.2684",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=2684"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"2684\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"2684\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=2684",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "8a494a3d39b114ec4132e16a8aedde998f6faf940f6b298e54f8e4c66d27ec4a",
+   "task": {
+    "id": "l2.addtocart.44961",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=44961"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"44961\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"44961\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=44961",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "133cf7fc08ead431a01dbab77a02dfb2bd65922265db79ab46791a1c1d2d3589",
+   "task": {
+    "id": "l2.addtocart.46098",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=46098"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"46098\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"46098\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=46098",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "80f1f71d650212c2e136e2202bb58c6cca20f37aeb311c209cf8c4f7e5a67a57",
+   "task": {
+    "id": "l2.addtocart.43396",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=43396"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"43396\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"43396\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=43396",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a7776a826f6418fecb6e922c44fa304a435c86ed3ac00736f1fad5cb667e8651",
+   "task": {
+    "id": "l2.addtocart.13297",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=13297"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"13297\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"13297\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=13297",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "dfa54068c08e4b67bf2240398ede066cd8e6cc9fd8ebeb5d6eb8f6580b5dfc29",
+   "task": {
+    "id": "l2.addtocart.5457",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=5457"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"5457\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"5457\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=5457",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "200b00b9b1085fbc3191151380dcd869964c71abdf63494543087d88634d6b91",
+   "task": {
+    "id": "l2.addtocart.24339",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=24339"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"24339\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"24339\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=24339",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "0776598119685c20ecf4a6e1b917069559292258897fb61e77ea281bb6801f74",
+   "task": {
+    "id": "l2.addtocart.40782",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=40782"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"40782\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"40782\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=40782",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "434544d9f9ab0242c237782a41adf461f460ae082ae0c1be61daacd05b8dfa4f",
+   "task": {
+    "id": "l2.addtocart.2159",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=2159"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"2159\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"2159\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=2159",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "0f340c887cc5cd803b8cce3273c9dee410048c6f8423ad8fd12153cb5beaaa95",
+   "task": {
+    "id": "l2.addtocart.39529",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39529"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39529\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"39529\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39529",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "b19b7ec5751b0c33a6730a8c8b3d5026aebac64cd4dd00c26f339b2130ba32fa",
+   "task": {
+    "id": "l2.addtocart.2308",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=2308"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"2308\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"2308\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=2308",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5269fd6dd25409ff3339c0c8e2a9ac03e8e714ef9e7c26472683d71093e93b9f",
+   "task": {
+    "id": "l2.addtocart.2682",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=2682"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"2682\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"2682\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=2682",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "ff06cbf4c495f0c0e294e683c03e31837485b13e8364dad11031609020bbd3b9",
+   "task": {
+    "id": "l2.addtocart.38272",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=38272"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"38272\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"38272\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=38272",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "6ea8ac89f4e6b97fa8a2edcf2e09df5fbb18f07c56b0aaf3fd6ad989cf7687d5",
+   "task": {
+    "id": "l2.addtocart.18590",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=18590"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"18590\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"18590\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=18590",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "21ab68e132b7d60bf33c99a3c887cb840745be8e8619567c26e68da5c62c096e",
+   "task": {
+    "id": "l2.addtocart.5027",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=5027"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"5027\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"5027\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=5027",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "6c9f858eb7b8638aa827a113752ab5c4a212c63589749d05cfa54c9eea5290b1",
+   "task": {
+    "id": "l2.addtocart.44897",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=44897"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"44897\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"44897\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=44897",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "bb6311b08d0063e9d5e08d9cabb34e8759a2053b5e3183c7125bb3c0531ac7a7",
+   "task": {
+    "id": "l2.addtocart.2794",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=2794"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"2794\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"2794\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=2794",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a199d9e4f1ddf8ed625b7ad541c9e1740098ae4f6823252d857b7e088a03691b",
+   "task": {
+    "id": "l2.addtocart.7557",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=7557"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"7557\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"7557\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=7557",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "b9904078b994dfc05af9dd69a619ed6bc998847ddd5e6bf0d701e07fc1bf9572",
+   "task": {
+    "id": "l2.addtocart.35914",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=35914"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"35914\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"35914\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=35914",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "4f8f4de8d121d55564a6c840724e195f463d64911f2883bb26a7dde9058122f1",
+   "task": {
+    "id": "l2.addtocart.8609",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=8609"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"8609\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"8609\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=8609",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "7f7199b7b3edd6bb7a3125f2f3b642a752434fff295b21a05c6bd1535d17fc04",
+   "task": {
+    "id": "l2.addtocart.40879",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=40879"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"40879\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"40879\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=40879",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "51f2164d9fa920d1430520ca0618505accfe6949f469cc762518be05e9f33633",
+   "task": {
+    "id": "l2.addtocart.39357",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39357"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39357\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"39357\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39357",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "370a26dfabff5f4f5fad4237bcd4df14d0662c6e9cb783110c44c2aff096c2ac",
+   "task": {
+    "id": "l2.addtocart.4773",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=4773"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"4773\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"4773\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=4773",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "ec34160dfb09c3472ddc7fe420d5ed24b3def147e502b2fb56b1b21a42ed3654",
+   "task": {
+    "id": "l2.addtocart.12580",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=12580"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"12580\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"12580\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=12580",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "97ae61d29e531a3088f50e26dfe1ba93ada5562370f2c5e8c43d461f9aaef499",
+   "task": {
+    "id": "l2.addtocart.24363",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=24363"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"24363\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"24363\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=24363",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "c6a23ae2eb88e3d8000554feded7326fcb61ec7ae142366f77aebb62f3140132",
+   "task": {
+    "id": "l2.addtocart.39170",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39170"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39170\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"39170\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39170",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5b251dea1abfd093d7d0dd2fe971d268a8b79970f415aa87015997d8359343c1",
+   "task": {
+    "id": "l2.addtocart.8624",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=8624"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"8624\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"8624\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=8624",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "2540d80441f3fc2decce1d1cf66df77f994c9102c4243ed7f7776002d06a7709",
+   "task": {
+    "id": "l2.addtocart.36081",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=36081"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"36081\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"36081\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=36081",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "09a30102c5f4465183695d5616fe6c34f230bbcbcaf821c8d524922c073ac474",
+   "task": {
+    "id": "l2.addtocart.3378",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=3378"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"3378\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"3378\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=3378",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "dac857d33457163242bcdc49d97936aca9f189d7cc320a05f473ff3babe4b211",
+   "task": {
+    "id": "l2.addtocart.2315",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=2315"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"2315\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"2315\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=2315",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "9933f50a59c634b35b396ed1b13573ffc4f8c014cef995845de2d52d5fdd33b8",
+   "task": {
+    "id": "l2.addtocart.9837",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=9837"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"9837\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"9837\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=9837",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5bd8c0352c6eb0407b686808e158507f2c10e8ca5d2ae9d1e8a655f54888c3e7",
+   "task": {
+    "id": "l2.addtocart.21681",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=21681"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"21681\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"21681\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=21681",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "46c2aa9a3f3ab017cfc300ad7ad7408a0f444603fbc19c4a667c296808529858",
+   "task": {
+    "id": "l2.addtocart.49351",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=49351"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"49351\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"49351\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=49351",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "8d187e7963c325261bb0f8a4e9be210cb4e4ec8c72e0e140d0f5d0aecc211ddb",
+   "task": {
+    "id": "l2.addtocart.39165",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39165"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39165\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"39165\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39165",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "cdde1db0810e95f27687c727433dea3a431dbd75287db0ed1a0dad0a1c701f0e",
+   "task": {
+    "id": "l2.addtocart.45984",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=45984"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"45984\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"45984\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=45984",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a4c14224c844cf7eaa6ca615721e8bea47aad807a335f0fb7787eb5349339ad6",
+   "task": {
+    "id": "l2.addtocart.13717",
+    "timeout_sec": 120,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=13717"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"13717\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/cart"
+     }
+    ],
+    "observations": [
+     {
+      "id": "cart_url",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/cart.*"
+      }
+     },
+     {
+      "id": "cart_holds_item",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "tr[data-p-id=\"13717\"]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=13717",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "6ab167fe12c83aa071490284b43303aaaeeb4ed28732f9a30cfb3794d0f97d03",
+   "task": {
+    "id": "l3.purchase.approved.4777",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=4777"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"4777\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice 6ft Premier Series XLR Mal.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=4777",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "f9deb458ce49c3a0e71c22e1ca4f6bd753ec6f79663778e31ea4a64a08a7f8d6",
+   "task": {
+    "id": "l3.purchase.declined.4777",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=4777"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"4777\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=4777",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "fd7a1eec9f2380e645e866be5925c3f65d309b0a73f1926857c560af7e1dc71c",
+   "task": {
+    "id": "l3.purchase.approved.11392",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=11392"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"11392\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Cat6 Ethernet Patch Cable .*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=11392",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "64bcff9f145bc9790d7fe199e376b87a953678d5fc9392990c32342f2bcf6e56",
+   "task": {
+    "id": "l3.purchase.declined.11392",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=11392"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"11392\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=11392",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "2f600c4e4692f271591c342a6bb7c92e70bd4a106f8b7f9ba88aab1035b04906",
+   "task": {
+    "id": "l3.purchase.approved.42992",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=42992"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"42992\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice 8K DisplayPort 2\\.0 Cable 1.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=42992",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "efdd864ae9a856f991378804e2f6cec7f0f31c945a43766d9294e1e489a21a67",
+   "task": {
+    "id": "l3.purchase.declined.42992",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=42992"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"42992\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=42992",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "724831159ca242763ba883e5655457cc91445b59f4a38712bfdd32317c252076",
+   "task": {
+    "id": "l3.purchase.approved.611940",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=611940"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"611940\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Stage Right by Monoprice 40W 10in Ba.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=611940",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "54d5f824da675759901d54cdc8e266fbb201531ed1965102a3caf00a27ae0df6",
+   "task": {
+    "id": "l3.purchase.declined.611940",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=611940"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"611940\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=611940",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "0a64ab9e3c87272b806aeeeddd97830c35b070a3e31f248ae2b70d03509106c4",
+   "task": {
+    "id": "l3.purchase.approved.44571",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=44571"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"44571\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice HDBaseT 3\\.0 Extender 70 M .*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=44571",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "e2de8aceec06ac239463ddf2813dd79403a2483abd9a7ba5732b72dea9b4835b",
+   "task": {
+    "id": "l3.purchase.declined.44571",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=44571"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"44571\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=44571",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "71b25ea532af4a943ba1bb315c37c3dd3ee4ef6cdbc42055ed5f7563ab4471fa",
+   "task": {
+    "id": "l3.purchase.approved.37887",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=37887"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"37887\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monolith by Monoprice HTP-1 16-Chann.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=37887",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "36bba8adb28059831ddbc7a51566709230217cab5d2ee8e0dd21b60e2b0781a9",
+   "task": {
+    "id": "l3.purchase.declined.37887",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=37887"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"37887\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=37887",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "ac0cf0903c991d38fc2bcaffb44b7d7e9fea6356a4993f534a7468cfd7f97610",
+   "task": {
+    "id": "l3.purchase.approved.8678",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=8678"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"8678\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Ultra Low-Profile Full Mot.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=8678",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "16d3828ad2ec0fad11cf94cab52661e8c6ee556c3b81a0e83b22f01aa88ab914",
+   "task": {
+    "id": "l3.purchase.declined.8678",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=8678"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"8678\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=8678",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "26f4e3dca760d1ce9f4a97381c0542cee0d644d8f3b1feafc132df7009b9b585",
+   "task": {
+    "id": "l3.purchase.approved.38159",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=38159"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"38159\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice SSVC-4\\.1 Single Input 4-Ch.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=38159",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "759d2c1d220b9ba7410f3c6efc29c0078d7e5a24008507ab483c42605b24c6fc",
+   "task": {
+    "id": "l3.purchase.declined.38159",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=38159"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"38159\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=38159",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "cf64fbdc84eed26c95a42cc696fff1bc289f79e18d29e320095aedf3f9eb5e16",
+   "task": {
+    "id": "l3.purchase.approved.47192",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=47192"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"47192\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice USB 2\\.0 USB-C to USB-C Sil.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=47192",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "d1623cfe1713f56edceb6e997154558804ef1f122a7cc8d944560e9919807237",
+   "task": {
+    "id": "l3.purchase.declined.47192",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=47192"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"47192\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=47192",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5db8bb1c65adf8ca9ef5d40b1978adc82eb0f0237332d526ae5c036c539bc09f",
+   "task": {
+    "id": "l3.purchase.approved.34885",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=34885"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"34885\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*USB-A to USB-B 2\\.0 Cable - Black 0\\.5.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=34885",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a9ffdf94397b94a94ca70b096ae3d59744d2b6bb3864f66052b0c9f398434bc1",
+   "task": {
+    "id": "l3.purchase.declined.34885",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=34885"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"34885\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=34885",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5561fd61198c11045c2a22e87843fecb3ef2d0b7b9aad0b9ff441a82a8e6b071",
+   "task": {
+    "id": "l3.purchase.approved.49262",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=49262"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"49262\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Cat6A Unshielded RJ45 Conn.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=49262",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "3de3547636b1edaddcf0cf44ce79fd388cd244d868b1e66bf51831913f78fea4",
+   "task": {
+    "id": "l3.purchase.declined.49262",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=49262"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"49262\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=49262",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "b918bf600b024b1255ead98e5946a335862358fa9986ecb93f24b77407995bb0",
+   "task": {
+    "id": "l3.purchase.approved.13071",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=13071"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"13071\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice 1000ft Cat6A Ethernet Cabl.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=13071",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "9d90f54970927728a3352c3a5d0c03c4e4cdf02718ec28f6aea19de75a51e66a",
+   "task": {
+    "id": "l3.purchase.declined.13071",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=13071"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"13071\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=13071",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "6f6add5dd93a3f9ad7497878363fc18f9ebede2ec881d9e4cd609bb065aced46",
+   "task": {
+    "id": "l3.purchase.approved.34543",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=34543"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"34543\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Workstream by Monoprice Workstation .*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=34543",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "d27cedb0dc2460ab03cbaac83c8e464a2680452470a79b41658c494cce480489",
+   "task": {
+    "id": "l3.purchase.declined.34543",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=34543"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"34543\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=34543",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "f325442ee2241631c0e34d55f7fbf2166b2dee1e068f3f08b3c8fc25c13633f8",
+   "task": {
+    "id": "l3.purchase.approved.6816",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=6816"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"6816\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Caliber 8in Fiber In-Wall .*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=6816",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a7a3965df8ac0b7d8bd89606560f38d70a04e8193260e43c32857df588759232",
+   "task": {
+    "id": "l3.purchase.declined.6816",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=6816"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"6816\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=6816",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "08cb99b42874b9ae715b47d9af39dd0321feae536f611a8845875b1730cb5862",
+   "task": {
+    "id": "l3.purchase.approved.33558",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=33558"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"33558\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Power Cord - NEMA 5-15P to.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=33558",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "2614d08bbe99baef47badfe86ea45d22cd726dea1a05e60262578fe520211337",
+   "task": {
+    "id": "l3.purchase.declined.33558",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=33558"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"33558\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=33558",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "1993c2aed790b3c4767e2a69538f34f8d304016f0b03932e069f436257345fa7",
+   "task": {
+    "id": "l3.purchase.approved.48215",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=48215"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"48215\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Multi-Mode OM4 Fiber Optic.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=48215",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "02c0ac440eeec7a2556f16caefc2501b06c266634cc28757be92f351a6ac17b8",
+   "task": {
+    "id": "l3.purchase.declined.48215",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=48215"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"48215\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=48215",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "19927a31158d5c96787e409be32288ece8776a596c88b877dbfbb630d74a33be",
+   "task": {
+    "id": "l3.purchase.approved.27312",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=27312"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"27312\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Power Cord - NEMA 5-15P to.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=27312",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "1d840dc45eab0a4dd652721345d02f7679fb51b049dc5d60939810b55023f991",
+   "task": {
+    "id": "l3.purchase.declined.27312",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=27312"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"27312\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=27312",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5f29908206852ed010832125c5d69e44b8eb6f72062e192260874776c22e3bff",
+   "task": {
+    "id": "l3.purchase.approved.41074",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=41074"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"41074\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Single-Mode Fiber Optic Ca.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=41074",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "dcb5f78545ced776475b4d715e291814a806df7ac92840155c1d628dc7760a24",
+   "task": {
+    "id": "l3.purchase.declined.41074",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=41074"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"41074\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=41074",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "ace66c22b15752fd99c8f5658821966ff9d1a1572e747e53a34e2cc5f781e327",
+   "task": {
+    "id": "l3.purchase.approved.48222",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=48222"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"48222\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Multi-Mode OM4 Fiber Optic.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=48222",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "e80b4e332fd16c3f214f1f9f5a5f2d89dded33e0bd22d4fdafaf6f29ed178740",
+   "task": {
+    "id": "l3.purchase.declined.48222",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=48222"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"48222\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=48222",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "eff115ced521e67cc5db0d507f999dbc3f27ef14d7d4f4d6ad53e133a3d222b5",
+   "task": {
+    "id": "l3.purchase.approved.34200",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=34200"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"34200\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Alpha In-Wall Speakers 8in.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=34200",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "3bbeb61b654bbcf6fbadd737991a06d9ef81e1a2581da5713e918109b1eb1eae",
+   "task": {
+    "id": "l3.purchase.declined.34200",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=34200"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"34200\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=34200",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "ec952352acf30dcb805adef7d61ce0a3028d0999a82a515c97315d2e529e48a2",
+   "task": {
+    "id": "l3.purchase.approved.47877",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=47877"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"47877\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice 8K Certified Ultra High-Sp.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=47877",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "ab3d48bebe96a463559b63932e538073a1a2cf73479dbca6d4b0cf5322507a2f",
+   "task": {
+    "id": "l3.purchase.declined.47877",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=47877"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"47877\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=47877",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "74b8c06063043b2cb8787b9c44928280c60554bdd6aa88caeb216dfb2eea392d",
+   "task": {
+    "id": "l3.purchase.approved.600070",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=600070"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"600070\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*SR Studio by Monoprice Over Ear Clos.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=600070",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "60f792715dbe33b2a45d3c7327b444a233d43fa568b5f3524c31337acea50aab",
+   "task": {
+    "id": "l3.purchase.declined.600070",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=600070"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"600070\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=600070",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "539bff45d78c464a61d14142fee394742b891546454f6506413983017971e46c",
+   "task": {
+    "id": "l3.purchase.approved.18800",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=18800"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"18800\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Commercial Audio 60W 3ch 1.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=18800",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a13f7f7526e16757bc6a552d2ec7c137ef33732cac144a2d0a040f29c21e52b8",
+   "task": {
+    "id": "l3.purchase.declined.18800",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=18800"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"18800\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=18800",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "c186150b252bedcf564a9ba258adcbe14eafae717e277f198a20fe210080a6b6",
+   "task": {
+    "id": "l3.purchase.approved.16325",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=16325"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"16325\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Cat6A Ethernet Patch Cable.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=16325",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "619ca2b2d71b2262b105fc4e2640d3fb0096c2f56703c9bf8ef162372668cdc4",
+   "task": {
+    "id": "l3.purchase.declined.16325",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=16325"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"16325\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=16325",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a5f16b2d99c65e8fb4b98fc91b43a5cb5d6bb183b5ed20ff474ad487b8c988ca",
+   "task": {
+    "id": "l3.purchase.approved.2132",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=2132"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"2132\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Cat5e Ethernet Patch Cable.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=2132",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "015eadc99234be2b3c784115489f3c855f2a1d2c2bfe278422d3bed74807e0f4",
+   "task": {
+    "id": "l3.purchase.declined.2132",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=2132"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"2132\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=2132",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a04be868e1557fdae2699d8e6cf9d514d7902ecedba25f8da1516e9805167641",
+   "task": {
+    "id": "l3.purchase.approved.3898",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=3898"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"3898\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice USB-A to Mini-B Cable - 5-.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=3898",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "67d5894fd8e06814122bd06e9fde347a490c656ba94d1757804c82e208ca597b",
+   "task": {
+    "id": "l3.purchase.declined.3898",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=3898"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"3898\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=3898",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "4c9dfac2b9ed8608431b8165f836fa49405496fdb1dfa4f7e5305eecfe2c670c",
+   "task": {
+    "id": "l3.purchase.approved.47793",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=47793"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"47793\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice USB-C to DisplayPort 1\\.4 C.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=47793",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "35f948852b5442adb0a11ed5a4df9e06c21d1da77bcfa8d25bfa1ab72c61bcc7",
+   "task": {
+    "id": "l3.purchase.declined.47793",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=47793"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"47793\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=47793",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5318c98e4f052a9875754532fd60e65a288b0d4b2e22e1f0c5b41dd9fcf5d93c",
+   "task": {
+    "id": "l3.purchase.approved.39263",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39263"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39263\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Ethernet to RS232 Serial C.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39263",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "51767261225b15f7269cc0d938016ff1036f6cf560884f629c8320dff1a9539c",
+   "task": {
+    "id": "l3.purchase.declined.39263",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39263"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39263\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39263",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "82e5dcf92c4b1981493f72c66d5a83cf43f3957ef8b213b8df8453474e932c3c",
+   "task": {
+    "id": "l3.purchase.approved.40072",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=40072"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"40072\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Power Cord - NEMA 5-15P to.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=40072",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "e6c3aab9f2489a935cfaa9e003238e9448cd779e1b6e7c137735733f18fb6925",
+   "task": {
+    "id": "l3.purchase.declined.40072",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=40072"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"40072\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=40072",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "8266ea4a62576deaf8ecef629000c5cb2da7f9e695a86a0ef20c78711e95ca84",
+   "task": {
+    "id": "l3.purchase.approved.16335",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=16335"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"16335\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Cat6A Ethernet Patch Cable.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=16335",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "be63faa4a54ee5d48aeea4dd74063c0f62ddbb0750dc51407047c1a844690db4",
+   "task": {
+    "id": "l3.purchase.declined.16335",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=16335"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"16335\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=16335",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5a61a0f73523eef85ce1dc9fa7fc53ce667d706b817c6b1c71ef3c09f9d86476",
+   "task": {
+    "id": "l3.purchase.approved.46055",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=46055"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"46055\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Single-Mode Fiber Optic Ca.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=46055",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "797bff6b8ff5fb7640526ec43199ae7c7d6bffc3486efc2dbf5a38578c38ed4e",
+   "task": {
+    "id": "l3.purchase.declined.46055",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=46055"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"46055\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=46055",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "5b20475b7fd682a360129c521319dda32b99613e9fc72d566f58392d76c5ab05",
+   "task": {
+    "id": "l3.purchase.approved.48862",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=48862"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"48862\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice USB4 20Gbps 2-in-1 Cable -.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=48862",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "19843beea92418cb3887bf2c107525ab01586423685a7daa8700c2832ed66146",
+   "task": {
+    "id": "l3.purchase.declined.48862",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=48862"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"48862\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=48862",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "c5d5bec7417bd64488864449a4da6c3e0639bcaa1585f04a1ea92a0b61f734e4",
+   "task": {
+    "id": "l3.purchase.approved.16320",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=16320"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"16320\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Cat6A Ethernet Patch Cable.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=16320",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "2789c048dbf7384f59db826ba1547e83adab65aef5e136398c2e9ffcb176b99a",
+   "task": {
+    "id": "l3.purchase.declined.16320",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=16320"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"16320\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=16320",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "8744f93b616c5c3dac86f7c884361ec4d460db14546660b3c69d4c6e5388adfd",
+   "task": {
+    "id": "l3.purchase.approved.45949",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=45949"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"45949\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice Multi-Mode OM5 Fiber Optic.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=45949",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "9acc85a222995f9dfb19a05f08ebf1571ab3bbd14e408f67c2fb277f52ad3277",
+   "task": {
+    "id": "l3.purchase.declined.45949",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=45949"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"45949\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=45949",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "97f053cedf8e23c237cb8bda26bd97cb6cdf00ed8c9bd628b50e1259c93d1dd1",
+   "task": {
+    "id": "l3.purchase.approved.4763",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=4763"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"4763\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice 15ft Premier Series XLR Ma.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=4763",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "2a9910830781ef2e462d0ece791c6dd08cb8d2b51fa763103a4f583d017d1d33",
+   "task": {
+    "id": "l3.purchase.declined.4763",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=4763"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"4763\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=4763",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "ccd79007e659540fa6847ffd2c75f5fff678a2434104a6258623419432e2616b",
+   "task": {
+    "id": "l3.purchase.approved.39358",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39358"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39358\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice HT-35 Premium 5\\.1-Channel .*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39358",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "bc4064da4689fefcaaff98b6a1cc2d68b18088c7779b14e64d2bdfc902309d9e",
+   "task": {
+    "id": "l3.purchase.declined.39358",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39358"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39358\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39358",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "ca38fe9fd1352ed5e0d39274cfba3f45e154e0585bee6b5cb4a2bbfcde03562c",
+   "task": {
+    "id": "l3.purchase.approved.43544",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=43544"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"43544\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice 24-port Blank Keystone Pat.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=43544",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "9b4fc57f3dec231cfbc37bef0a91fbb1d1027e06b2b6761477539ef0afb407f8",
+   "task": {
+    "id": "l3.purchase.declined.43544",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=43544"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"43544\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=43544",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "a67bad9e41ebad7fe94d88cf5ce988d30fa397232ee1a8fd23f9a23c83e41473",
+   "task": {
+    "id": "l3.purchase.approved.18820",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=18820"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"18820\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Stage Right by Monoprice 1\\.5ft XLR F.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=18820",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "21005075c53b4e8b51e4e67ea7b45c4906eb7c7496dce6c34fc6ebe269988966",
+   "task": {
+    "id": "l3.purchase.declined.18820",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=18820"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"18820\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=18820",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "306c9559d9554c45676fc25b58ca38baa47625d7efabb771a1b4a792f459d701",
+   "task": {
+    "id": "l3.purchase.approved.31204",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=31204"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"31204\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice AtlasFlex Series Durable U.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=31204",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "003066d1f2f872526436e2253030def559c6fc51c0fe421172af4bc3ca3db380",
+   "task": {
+    "id": "l3.purchase.declined.31204",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=31204"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"31204\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=31204",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "09f9543865315812a02535c9a5e76a3dcdac54de3a54b8d781e17fcf80ff6302",
+   "task": {
+    "id": "l3.purchase.approved.39548",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39548"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39548\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-approved"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "confirmation_heading",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Order placed.*"
+      },
+      "selector": {
+       "css": "h1:visible"
+      }
+     },
+     {
+      "id": "item_named",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*Monoprice 4K High Speed HDMI Cable -.*"
+      },
+      "selector": {
+       "css": "table:visible"
+      }
+     },
+     {
+      "id": "amount_paid",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is)\\s*\\$[0-9,]+\\.[0-9]{2}\\s*"
+      },
+      "selector": {
+       "css": "[data-order-total]"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39548",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
+   }
+  },
+  {
+   "fingerprint": "12dcbd042e4ef4e20c711e67149807456fb6499de9d0f21aa55ae60109b16624",
+   "task": {
+    "id": "l3.purchase.declined.39548",
+    "timeout_sec": 180,
+    "actions": [
+     {
+      "op": "goto",
+      "path": "/product?p_id=39548"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "#addtocartqty"
+      }
+     },
+     {
+      "op": "wait_for",
+      "selector": {
+       "css": ".mycart-dropdown:not(.mobile-mycart-dropdown) li[data-p-id=\"39548\"]"
+      },
+      "state": "attached",
+      "timeout_ms": 20000
+     },
+     {
+      "op": "goto",
+      "path": "/checkout"
+     },
+     {
+      "op": "select",
+      "selector": {
+       "css": "form[action=\"/checkout\"] select[name=\"scenario\"]"
+      },
+      "value": "sandbox-declined"
+     },
+     {
+      "op": "click",
+      "selector": {
+       "css": "form[action=\"/checkout\"] button[type=\"submit\"]"
+      }
+     }
+    ],
+    "observations": [
+     {
+      "id": "decline_notice",
+      "kind": "text",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*declined.*"
+      },
+      "selector": {
+       "css": ".wb-alert"
+      }
+     },
+     {
+      "id": "still_on_checkout",
+      "kind": "url",
+      "comparator": {
+       "type": "regex",
+       "pattern": "(?is).*/checkout.*"
+      }
+     },
+     {
+      "id": "cart_kept_goods",
+      "kind": "count",
+      "comparator": {
+       "type": "number"
+      },
+      "selector": {
+       "css": "form[action=\"/checkout\"] table tbody tr"
+      }
+     }
+    ],
+    "_path": "/product?p_id=39548",
+    "_settle": true,
+    "_mutates": true,
+    "reference_mutation_authorized": true
    }
   }
  ]
